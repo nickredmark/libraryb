@@ -13,7 +13,7 @@ export const NavItem = ({ active, href, children }) => (
   </a>
 );
 
-export const MobileNav = ({ setShow, children }) => (
+export const MobileNav = ({ show, setShow, children }) => (
   <div className="absolute top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden">
     <div className="rounded-lg shadow-lg">
       <div className="rounded-lg shadow-xs bg-white divide-y-2 divide-gray-50">
@@ -62,9 +62,9 @@ export const Burger = ({ onClick }) => (
         viewBox="0 0 24 24"
       >
         <path
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="2"
           d="M4 6h16M4 12h16M4 18h16"
         />
       </svg>
@@ -86,9 +86,9 @@ export const Close = ({ onClick }) => (
         viewBox="0 0 24 24"
       >
         <path
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="2"
           d="M6 18L18 6M6 6l12 12"
         />
       </svg>

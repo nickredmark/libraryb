@@ -6,7 +6,7 @@ const {
   renameSync,
 } = require("fs");
 const youtubedl = require("youtube-dl");
-const library = require("../data/seed.json");
+const seed = require("../data/seed.json");
 const Youtube = require("youtube-api");
 const { parseString } = require("xml2js");
 const qs = require("qs");
@@ -81,7 +81,11 @@ Youtube.authenticate({
 });
 const start = async () => {
   try {
-    for (const item of library) {
+    const library = {
+      seed,
+      videos: [],
+    };
+    for (const item of seed) {
       switch (item.type) {
         case "youtube-playlist": {
           console.log(`playlist ${item.url}`);
@@ -93,6 +97,7 @@ const start = async () => {
             },
             (item) => item.snippet.resourceId.videoId
           );
+          library.videos.push(...item.videos);
 
           break;
         }
@@ -103,6 +108,7 @@ const start = async () => {
           item.videos = await getVideos("search", {
             channelId: id,
           });
+          library.videos.push(...item.videos);
           break;
         }
       }

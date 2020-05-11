@@ -1,53 +1,52 @@
 import Head from "next/head";
 import { useRef } from "react";
+import { Container } from "../components/container";
+import { List, ListItem } from "../components/list";
+import { Card, CardList } from "../components/card";
 
 const library = require("../data/library.json");
 
 export default () => {
   const search = useRef(null);
   return (
-    <div>
+    <>
       <Head>
         <title>Game B Library</title>
       </Head>
       <main>
-        {library.map((item, i) => {
-          switch (item.type) {
-            case "youtube-channel":
-            case "youtube-playlist":
+        <Container>
+          <CardList>
+            {library.videos.map((video, i) => {
+              const thumbnail = video.snippet.thumbnails.medium;
               return (
-                <ul key={i}>
-                  <li>
-                    <div>{item.url}</div>
-                    <ul>
-                      {item.videos.map((video, j) => {
-                        const thumbnail =
-                          video.snippet.thumbnails.standard ||
-                          video.snippet.thumbnails.default;
-                        return (
-                          <li key={j}>
-                            <a
-                              href={`/youtube/${
-                                video.snippet.resourceId
-                                  ? video.snippet.resourceId.videoId
-                                  : video.id.videId
-                              }`}
-                            >
-                              <img src={thumbnail.url} width="100px" />
-                              <h3>{video.snippet.title}</h3>
-                              <div>{video.snippet.description}</div>
-                            </a>
-                          </li>
-                        );
-                      })}
-                    </ul>
-                  </li>
-                </ul>
+                <Card
+                  key={i}
+                  img={thumbnail.url}
+                  title={video.snippet.title}
+                  href={`/youtube/${
+                    video.snippet.resourceId
+                      ? video.snippet.resourceId.videoId
+                      : video.id.videId
+                  }`}
+                >
+                  {truncate(video.snippet.description)}
+                </Card>
               );
-          }
-        })}
+            })}
+          </CardList>
+        </Container>
       </main>
       <footer></footer>
-    </div>
+    </>
   );
+};
+
+const LIMIT = 100;
+
+const truncate = (text) => {
+  if (text.length <= LIMIT) {
+    return text;
+  }
+
+  return `${text.substr(0, LIMIT)}...`;
 };

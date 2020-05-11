@@ -25,11 +25,11 @@ export default function MyApp({ Component, pageProps, router }) {
 const Nav = ({ route }) => {
   const [showMobileNav, setShowMobileNav] = useState(false);
   return (
-    <div className="relative bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6">
-        <div className="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10">
+    <div className="relative bg-white shadow">
+      <div className="mx-auto px-4 sm:px-6">
+        <div className="flex justify-between items-center py-6 md:justify-start md:space-x-10">
           <div className="lg:w-0 lg:flex-1">
-            <a href="#" className="flex">
+            <a href="/" className="flex">
               Game B Library
             </a>
           </div>
@@ -42,7 +42,7 @@ const Nav = ({ route }) => {
         </div>
       </div>
       {showMobileNav && (
-        <MobileNav setShow={setShowMobileNav}>
+        <MobileNav show={showMobileNav} setShow={setShowMobileNav}>
           <MobileNavItem href="/">Home</MobileNavItem>
         </MobileNav>
       )}
