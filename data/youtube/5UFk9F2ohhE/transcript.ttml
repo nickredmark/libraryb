@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:08.010" style="s2">we couldn&#39;t be happier to have our next</p>
+<p begin="00:00:04.259" end="00:00:10.380" style="s2">guest here joining us as well she&#39;s a</p>
+<p begin="00:00:08.010" end="00:00:13.110" style="s2">familiar name a face for a lot of you</p>
+<p begin="00:00:10.380" end="00:00:16.080" style="s2">and for the rest she will be a nice new</p>
+<p begin="00:00:13.110" end="00:00:17.730" style="s2">acquaintances so very welcome Bonita Roy</p>
+<p begin="00:00:16.080" end="00:00:20.070" style="s2">thank you all you get a hug</p>
+<p begin="00:00:17.730" end="00:00:27.930" style="s2">that&#39;s nice we should do more hugging I</p>
+<p begin="00:00:20.070" end="00:00:31.790" style="s2">thought young people oh there we go who</p>
+<p begin="00:00:27.930" end="00:00:35.370" style="s2">told you God I&#39;m embarrassed okay anyway</p>
+<p begin="00:00:31.790" end="00:00:38.100" style="s2">mm-hmm you believe that you need two</p>
+<p begin="00:00:35.370" end="00:00:39.870" style="s2">main parts in order to get an agile</p>
+<p begin="00:00:38.100" end="00:00:42.660" style="s2">organization working and you&#39;re about to</p>
+<p begin="00:00:39.870" end="00:00:44.579" style="s2">tell us about those two parts and how to</p>
+<p begin="00:00:42.660" end="00:00:49.649" style="s2">do it so I&#39;ll probably leave the floor</p>
+<p begin="00:00:44.579" end="00:00:51.140" style="s2">to you but you go around the world and</p>
+<p begin="00:00:49.649" end="00:00:54.329" style="s2">you work with different companies</p>
+<p begin="00:00:51.140" end="00:00:55.800" style="s2">organizations you&#39;ve been to Sweden yes</p>
+<p begin="00:00:54.329" end="00:00:57.809" style="s2">as well a number of times you work with</p>
+<p begin="00:00:55.800" end="00:01:01.410" style="s2">some of the companies here yeah how do</p>
+<p begin="00:00:57.809" end="00:01:05.909" style="s2">we measure up okay so I work primarily</p>
+<p begin="00:01:01.410" end="00:01:08.909" style="s2">in Sweden in Norway and you know I think</p>
+<p begin="00:01:05.909" end="00:01:10.619" style="s2">Sweden is they have a building called</p>
+<p begin="00:01:08.909" end="00:01:14.040" style="s2">the epicenter and it&#39;s I think the</p>
+<p begin="00:01:10.619" end="00:01:17.850" style="s2">epicenter of this movement this</p>
+<p begin="00:01:14.040" end="00:01:20.880" style="s2">imagination a very imaginative people I</p>
+<p begin="00:01:17.850" end="00:01:25.380" style="s2">also work in Norway and I have to say</p>
+<p begin="00:01:20.880" end="00:01:27.720" style="s2">that the town of Truong time is in doing</p>
+<p begin="00:01:25.380" end="00:01:30.509" style="s2">an extraordinary experiment they fired</p>
+<p begin="00:01:27.720" end="00:01:33.299" style="s2">all their municipal managers and they</p>
+<p begin="00:01:30.509" end="00:01:35.060" style="s2">asked them to reapply and reapply by</p>
+<p begin="00:01:33.299" end="00:01:37.200" style="s2">stating principles of distributed</p>
+<p begin="00:01:35.060" end="00:01:39.689" style="s2">decision-making what do they envision</p>
+<p begin="00:01:37.200" end="00:01:42.720" style="s2">for their town so they&#39;re in a process</p>
+<p begin="00:01:39.689" end="00:01:45.720" style="s2">of really taking this into the the</p>
+<p begin="00:01:42.720" end="00:01:47.420" style="s2">social and augmenting democracy itself</p>
+<p begin="00:01:45.720" end="00:01:52.799" style="s2">so these are two really exciting</p>
+<p begin="00:01:47.420" end="00:01:54.899" style="s2">epicenters I think of this work and the</p>
+<p begin="00:01:52.799" end="00:02:00.360" style="s2">Nordic countries should feel proud of</p>
+<p begin="00:01:54.899" end="00:02:04.290" style="s2">that all right we will this is one right</p>
+<p begin="00:02:00.360" end="00:02:07.860" style="s2">yes so we will feel pride or proud yes</p>
+<p begin="00:02:04.290" end="00:02:10.229" style="s2">both and I&#39;ll leave the stage to you you</p>
+<p begin="00:02:07.860" end="00:02:12.569" style="s2">have the slides there you have to</p>
+<p begin="00:02:10.229" end="00:02:15.290" style="s2">connect users all right there we go very</p>
+<p begin="00:02:12.569" end="00:02:15.290" style="s2">much take it</p>
+<p begin="00:02:16.010" end="00:02:23.730" style="s2">so I always start with a framing that I</p>
+<p begin="00:02:20.400" end="00:02:26.700" style="s2">let itself compose while I spend some</p>
+<p begin="00:02:23.730" end="00:02:30.270" style="s2">few moments with the group and in the</p>
+<p begin="00:02:26.700" end="00:02:32.070" style="s2">company of the people so I start off</p>
+<p begin="00:02:30.270" end="00:02:36.080" style="s2">with a little cheat sheet because it has</p>
+<p begin="00:02:32.070" end="00:02:39.540" style="s2">just formed itself or informed itself in</p>
+<p begin="00:02:36.080" end="00:02:40.920" style="s2">participation with this environment with</p>
+<p begin="00:02:39.540" end="00:02:43.020" style="s2">some of the people that I talked with</p>
+<p begin="00:02:40.920" end="00:02:45.720" style="s2">with some of the earlier presentations</p>
+<p begin="00:02:43.020" end="00:02:48.600" style="s2">so this is a sense of self-organizing</p>
+<p begin="00:02:45.720" end="00:02:51.990" style="s2">you let your own thoughts self organize</p>
+<p begin="00:02:48.600" end="00:02:54.480" style="s2">and self organization then can bring you</p>
+<p begin="00:02:51.990" end="00:02:57.600" style="s2">into the context of what is actually</p>
+<p begin="00:02:54.480" end="00:02:59.910" style="s2">happening at any given moment right so</p>
+<p begin="00:02:57.600" end="00:03:02.820" style="s2">instead of coming up here with a slide</p>
+<p begin="00:02:59.910" end="00:03:06.440" style="s2">that just starts off I just want to</p>
+<p begin="00:03:02.820" end="00:03:12.060" style="s2">honor this whole notion of</p>
+<p begin="00:03:06.440" end="00:03:15.780" style="s2">self-organization so so what came up for</p>
+<p begin="00:03:12.060" end="00:03:19.020" style="s2">me is that I&#39;m going to my presentation</p>
+<p begin="00:03:15.780" end="00:03:21.630" style="s2">I think is going to ask you to tap into</p>
+<p begin="00:03:19.020" end="00:03:24.090" style="s2">the edge of your own beliefs right so</p>
+<p begin="00:03:21.630" end="00:03:29.880" style="s2">this is maybe the irritating piece that</p>
+<p begin="00:03:24.090" end="00:03:33.180" style="s2">Thomas talked about and really try to</p>
+<p begin="00:03:29.880" end="00:03:35.820" style="s2">let your imagination go into what you</p>
+<p begin="00:03:33.180" end="00:03:38.130" style="s2">think is possible that&#39;s never been</p>
+<p begin="00:03:35.820" end="00:03:41.490" style="s2">possible before so we want to take a</p>
+<p begin="00:03:38.130" end="00:03:44.460" style="s2">broad look at perhaps what is this</p>
+<p begin="00:03:41.490" end="00:03:48.140" style="s2">movement where is it going where is the</p>
+<p begin="00:03:44.460" end="00:03:55.830" style="s2">momentum taking us beyond our everyday</p>
+<p begin="00:03:48.140" end="00:03:58.200" style="s2">organizational challenges so it&#39;s not</p>
+<p begin="00:03:55.830" end="00:04:00.510" style="s2">that appropriate to this group but a lot</p>
+<p begin="00:03:58.200" end="00:04:02.430" style="s2">of times I work with as I said like</p>
+<p begin="00:04:00.510" end="00:04:05.460" style="s2">intron time where people want to augment</p>
+<p begin="00:04:02.430" end="00:04:07.560" style="s2">democracy and I&#39;ll say to people how</p>
+<p begin="00:04:05.460" end="00:04:11.100" style="s2">many people really believe in democracy</p>
+<p begin="00:04:07.560" end="00:04:12.510" style="s2">so you can raise your hands okay so</p>
+<p begin="00:04:11.100" end="00:04:16.290" style="s2">raise them high we all believe in</p>
+<p begin="00:04:12.510" end="00:04:20.670" style="s2">democracy okay so how many of you people</p>
+<p begin="00:04:16.290" end="00:04:23.250" style="s2">be honest would run a organization</p>
+<p begin="00:04:20.670" end="00:04:26.750" style="s2">through the democratic process as we</p>
+<p begin="00:04:23.250" end="00:04:26.750" style="s2">know it one man one vote</p>
+<p begin="00:04:26.760" end="00:04:34.000" style="s2">okay little less sure right so then I</p>
+<p begin="00:04:31.960" end="00:04:36.850" style="s2">say well if you wouldn&#39;t run your</p>
+<p begin="00:04:34.000" end="00:04:38.290" style="s2">organization as a democracy why do the</p>
+<p begin="00:04:36.850" end="00:04:41.380" style="s2">hell you think you can run your country</p>
+<p begin="00:04:38.290" end="00:04:44.020" style="s2">as a democracy but it&#39;s so something in</p>
+<p begin="00:04:41.380" end="00:04:47.260" style="s2">our mindset and the way we think about</p>
+<p begin="00:04:44.020" end="00:04:50.410" style="s2">these terms is not really meshing we</p>
+<p begin="00:04:47.260" end="00:04:53.169" style="s2">need to take a more careful look at how</p>
+<p begin="00:04:50.410" end="00:04:55.530" style="s2">we make meaning with these words right</p>
+<p begin="00:04:53.169" end="00:04:57.580" style="s2">because we&#39;re all about reinventing</p>
+<p begin="00:04:55.530" end="00:05:00.130" style="s2">organizations and reinventing</p>
+<p begin="00:04:57.580" end="00:05:02.220" style="s2">organizational life and ultimately I</p>
+<p begin="00:05:00.130" end="00:05:06.090" style="s2">would argue where we are about</p>
+<p begin="00:05:02.220" end="00:05:11.650" style="s2">reinventing social institutions and</p>
+<p begin="00:05:06.090" end="00:05:14.710" style="s2">humans human participation right so we</p>
+<p begin="00:05:11.650" end="00:05:17.440" style="s2">just want to try to take a little closer</p>
+<p begin="00:05:14.710" end="00:05:20.229" style="s2">look at what do we mean about these</p>
+<p begin="00:05:17.440" end="00:05:22.889" style="s2">words and today we&#39;re going to take a</p>
+<p begin="00:05:20.229" end="00:05:26.729" style="s2">closer look at what do we mean about</p>
+<p begin="00:05:22.889" end="00:05:30.310" style="s2">self-organization so how many people</p>
+<p begin="00:05:26.729" end="00:05:32.500" style="s2">really be honest and I know Jurgens not</p>
+<p begin="00:05:30.310" end="00:05:38.800" style="s2">going to raise his hand how many people</p>
+<p begin="00:05:32.500" end="00:05:40.930" style="s2">really trust self-organization okay so</p>
+<p begin="00:05:38.800" end="00:05:44.830" style="s2">how many people are skeptical and don&#39;t</p>
+<p begin="00:05:40.930" end="00:05:46.840" style="s2">trust it okay the and someone other</p>
+<p begin="00:05:44.830" end="00:05:49.840" style="s2">people are in the middle so that doesn&#39;t</p>
+<p begin="00:05:46.840" end="00:05:52.780" style="s2">give me despair because I read something</p>
+<p begin="00:05:49.840" end="00:05:53.950" style="s2">about cults and in cults if you&#39;re up</p>
+<p begin="00:05:52.780" end="00:05:56.350" style="s2">here and you&#39;re trying to convince</p>
+<p begin="00:05:53.950" end="00:05:57.910" style="s2">people the two easiest people to</p>
+<p begin="00:05:56.350" end="00:05:59.830" style="s2">convince are the ones that really</p>
+<p begin="00:05:57.910" end="00:06:02.919" style="s2">believe you and the ones that are really</p>
+<p begin="00:05:59.830" end="00:06:09.330" style="s2">skeptical so I think I&#39;m in good shape</p>
+<p begin="00:06:02.919" end="00:06:11.830" style="s2">there all right when we think about</p>
+<p begin="00:06:09.330" end="00:06:15.190" style="s2">self-organization we need to first what</p>
+<p begin="00:06:11.830" end="00:06:17.260" style="s2">is our starting point we need to be</p>
+<p begin="00:06:15.190" end="00:06:20.590" style="s2">really honest with ourselves and for the</p>
+<p begin="00:06:17.260" end="00:06:23.130" style="s2">most part the way we go about our daily</p>
+<p begin="00:06:20.590" end="00:06:26.260" style="s2">lives certainly the way we go about</p>
+<p begin="00:06:23.130" end="00:06:28.539" style="s2">participating institutions is highly</p>
+<p begin="00:06:26.260" end="00:06:30.340" style="s2">conditioned habits right they&#39;re</p>
+<p begin="00:06:28.539" end="00:06:33.190" style="s2">conditioned by our schools which are</p>
+<p begin="00:06:30.340" end="00:06:35.860" style="s2">still conventionally structured the</p>
+<p begin="00:06:33.190" end="00:06:39.190" style="s2">convention conditioned by the rhetoric</p>
+<p begin="00:06:35.860" end="00:06:39.700" style="s2">we hear on TV and stuff so right now</p>
+<p begin="00:06:39.190" end="00:06:42.910" style="s2">we&#39;re</p>
+<p begin="00:06:39.700" end="00:06:48.160" style="s2">actually at is basically we&#39;re trying to</p>
+<p begin="00:06:42.910" end="00:06:52.030" style="s2">escape highly conditioned habits so what</p>
+<p begin="00:06:48.160" end="00:06:54.160" style="s2">can we draw on we we don&#39;t want to draw</p>
+<p begin="00:06:52.030" end="00:06:57.550" style="s2">necessarily on those conditioned habits</p>
+<p begin="00:06:54.160" end="00:07:00.670" style="s2">to go forward we need to like step but</p>
+<p begin="00:06:57.550" end="00:07:04.420" style="s2">take a step back into something I call</p>
+<p begin="00:07:00.670" end="00:07:07.840" style="s2">deep code who are we as human beings as</p>
+<p begin="00:07:04.420" end="00:07:10.720" style="s2">human beings we self-organized we&#39;ve</p>
+<p begin="00:07:07.840" end="00:07:12.550" style="s2">evolved to be social participants and</p>
+<p begin="00:07:10.720" end="00:07:14.590" style="s2">we&#39;ve self-organized so in this work</p>
+<p begin="00:07:12.550" end="00:07:17.440" style="s2">we&#39;re going to take a step back try to</p>
+<p begin="00:07:14.590" end="00:07:20.530" style="s2">say who are we as human beings can we</p>
+<p begin="00:07:17.440" end="00:07:22.780" style="s2">can we deconstruct the social conditions</p>
+<p begin="00:07:20.530" end="00:07:25.390" style="s2">and habits down to our deep human</p>
+<p begin="00:07:22.780" end="00:07:27.940" style="s2">operating system and then build new</p>
+<p begin="00:07:25.390" end="00:07:34.750" style="s2">structures from there right so it&#39;s a</p>
+<p begin="00:07:27.940" end="00:07:38.190" style="s2">two-step so Stuart Kauffman said order</p>
+<p begin="00:07:34.750" end="00:07:41.170" style="s2">vast and generative arises naturally</p>
+<p begin="00:07:38.190" end="00:07:44.080" style="s2">right so this is something we maybe can</p>
+<p begin="00:07:41.170" end="00:07:47.290" style="s2">believe in most of the order seen in</p>
+<p begin="00:07:44.080" end="00:07:49.860" style="s2">nature is spontaneous a natural</p>
+<p begin="00:07:47.290" end="00:07:52.270" style="s2">expression of a stunning</p>
+<p begin="00:07:49.860" end="00:07:54.490" style="s2">self-organization that abounds</p>
+<p begin="00:07:52.270" end="00:07:57.040" style="s2">does anybody know you guys were all like</p>
+<p begin="00:07:54.490" end="00:08:01.110" style="s2">Star Wars and Pokemon experts does</p>
+<p begin="00:07:57.040" end="00:08:01.110" style="s2">anybody know what this is a picture of</p>
+<p begin="00:08:02.430" end="00:08:12.190" style="s2">this is a picture of molecules</p>
+<p begin="00:08:07.980" end="00:08:14.470" style="s2">self-organizing to create very</p>
+<p begin="00:08:12.190" end="00:08:17.290" style="s2">structured stations for the replication</p>
+<p begin="00:08:14.470" end="00:08:21.870" style="s2">of messenger RNA</p>
+<p begin="00:08:17.290" end="00:08:25.990" style="s2">there&#39;s no managers there&#39;s no rulebook</p>
+<p begin="00:08:21.870" end="00:08:30.580" style="s2">right so self-organization at this level</p>
+<p begin="00:08:25.990" end="00:08:35.910" style="s2">is not a trivial thing it&#39;s deep within</p>
+<p begin="00:08:30.580" end="00:08:35.910" style="s2">the evolutionary code of life itself</p>
+<p begin="00:08:39.589" end="00:08:45.089" style="s2">so these are pictures from the architect</p>
+<p begin="00:08:42.360" end="00:08:46.949" style="s2">Christopher Alexander he took these</p>
+<p begin="00:08:45.089" end="00:08:48.750" style="s2">pictures because he was ant trying to</p>
+<p begin="00:08:46.949" end="00:08:52.740" style="s2">answering answer the question what is</p>
+<p begin="00:08:48.750" end="00:08:55.139" style="s2">life and he also saw that there was the</p>
+<p begin="00:08:52.740" end="00:08:58.199" style="s2">nature of order was self-organizing and</p>
+<p begin="00:08:55.139" end="00:09:00.240" style="s2">these are ways that we self organize and</p>
+<p begin="00:08:58.199" end="00:09:03.060" style="s2">if we had time we could have a</p>
+<p begin="00:09:00.240" end="00:09:07.470" style="s2">conversation over what are the catalysts</p>
+<p begin="00:09:03.060" end="00:09:09.540" style="s2">here that create self-organization what</p>
+<p begin="00:09:07.470" end="00:09:12.529" style="s2">about the environment is rich enough to</p>
+<p begin="00:09:09.540" end="00:09:15.149" style="s2">attract self or and support</p>
+<p begin="00:09:12.529" end="00:09:18.959" style="s2">self-organization so we have different</p>
+<p begin="00:09:15.149" end="00:09:23.430" style="s2">different ways of naturally organizing</p>
+<p begin="00:09:18.959" end="00:09:27.269" style="s2">ourselves this is also patterns of</p>
+<p begin="00:09:23.430" end="00:09:31.829" style="s2">self-organization that are primarily</p>
+<p begin="00:09:27.269" end="00:09:35.220" style="s2">driven by threat or pressure or drastic</p>
+<p begin="00:09:31.829" end="00:09:39.329" style="s2">change and you see that the different</p>
+<p begin="00:09:35.220" end="00:09:42.360" style="s2">the different environments or the</p>
+<p begin="00:09:39.329" end="00:09:45.660" style="s2">different conditions create different</p>
+<p begin="00:09:42.360" end="00:09:48.389" style="s2">patterns of self-organization so these</p>
+<p begin="00:09:45.660" end="00:09:51.560" style="s2">people are not following a guidebook or</p>
+<p begin="00:09:48.389" end="00:09:58.410" style="s2">a rule book there are no signs up that</p>
+<p begin="00:09:51.560" end="00:10:02.730" style="s2">tell them how to be so all of living</p>
+<p begin="00:09:58.410" end="00:10:06.000" style="s2">animals and insects also self organize</p>
+<p begin="00:10:02.730" end="00:10:08.399" style="s2">in creative ways to build to solve</p>
+<p begin="00:10:06.000" end="00:10:15.779" style="s2">construction problems right that&#39;s a</p>
+<p begin="00:10:08.399" end="00:10:19.740" style="s2">pretty complex task to create social</p>
+<p begin="00:10:15.779" end="00:10:22.230" style="s2">bonds deep roughhouse plays turns out to</p>
+<p begin="00:10:19.740" end="00:10:25.680" style="s2">be very important aspect of building</p>
+<p begin="00:10:22.230" end="00:10:28.079" style="s2">social bonds to building family and</p>
+<p begin="00:10:25.680" end="00:10:32.339" style="s2">extended family bonds these are all ways</p>
+<p begin="00:10:28.079" end="00:10:35.850" style="s2">of self-organizing so we also see that</p>
+<p begin="00:10:32.339" end="00:10:39.000" style="s2">in nature there&#39;s multiple species self</p>
+<p begin="00:10:35.850" end="00:10:41.449" style="s2">organize to create rich complex</p>
+<p begin="00:10:39.000" end="00:10:44.089" style="s2">environments so there&#39;s a whole</p>
+<p begin="00:10:41.449" end="00:10:45.839" style="s2">literature research around</p>
+<p begin="00:10:44.089" end="00:10:48.630" style="s2">self-organization and one of the things</p>
+<p begin="00:10:45.839" end="00:10:50.850" style="s2">I wanted to point out in these slides is</p>
+<p begin="00:10:48.630" end="00:10:52.640" style="s2">that years ago</p>
+<p begin="00:10:50.850" end="00:10:55.530" style="s2">when we went in look</p>
+<p begin="00:10:52.640" end="00:10:58.440" style="s2">Ecology&#39;s like the food web we had the</p>
+<p begin="00:10:55.530" end="00:11:00.870" style="s2">pyramid right where the dominant like</p>
+<p begin="00:10:58.440" end="00:11:02.940" style="s2">the wolf was on the top and he got to</p>
+<p begin="00:11:00.870" end="00:11:04.740" style="s2">eat these animals and these animals got</p>
+<p begin="00:11:02.940" end="00:11:06.780" style="s2">to eat these animals and these animals</p>
+<p begin="00:11:04.740" end="00:11:09.720" style="s2">ate the plants so what did it look like</p>
+<p begin="00:11:06.780" end="00:11:12.300" style="s2">it looked like a dominance hierarchy</p>
+<p begin="00:11:09.720" end="00:11:15.120" style="s2">right but was that hierarchy in nature</p>
+<p begin="00:11:12.300" end="00:11:17.550" style="s2">or in the model of the researcher doing</p>
+<p begin="00:11:15.120" end="00:11:19.400" style="s2">it and this is one of those questions we</p>
+<p begin="00:11:17.550" end="00:11:21.600" style="s2">can use when we look at our own</p>
+<p begin="00:11:19.400" end="00:11:24.270" style="s2">organizations because a certain person</p>
+<p begin="00:11:21.600" end="00:11:26.790" style="s2">will go in and say oh my god it&#39;s such a</p>
+<p begin="00:11:24.270" end="00:11:29.310" style="s2">hierarchy and another person maybe who</p>
+<p begin="00:11:26.790" end="00:11:33.180" style="s2">has more lived experience and knows how</p>
+<p begin="00:11:29.310" end="00:11:35.700" style="s2">has better ways of relating will people</p>
+<p begin="00:11:33.180" end="00:11:37.890" style="s2">say no no it just looks like that to you</p>
+<p begin="00:11:35.700" end="00:11:40.260" style="s2">because you know he&#39;s really good at</p>
+<p begin="00:11:37.890" end="00:11:42.390" style="s2">giving orders and we just let him do</p>
+<p begin="00:11:40.260" end="00:11:45.390" style="s2">that and really underneath what&#39;s going</p>
+<p begin="00:11:42.390" end="00:11:47.910" style="s2">on is much more self-organizing so we</p>
+<p begin="00:11:45.390" end="00:11:51.270" style="s2">really have to be careful that we&#39;re not</p>
+<p begin="00:11:47.910" end="00:11:53.070" style="s2">looking at complex processes of human</p>
+<p begin="00:11:51.270" end="00:11:55.190" style="s2">relations we&#39;re not looking at this and</p>
+<p begin="00:11:53.070" end="00:11:58.530" style="s2">saying oh it&#39;s a hierarchical food chain</p>
+<p begin="00:11:55.190" end="00:12:02.010" style="s2">because we went from the food pyramid to</p>
+<p begin="00:11:58.530" end="00:12:03.630" style="s2">this kind of thing where this one ate</p>
+<p begin="00:12:02.010" end="00:12:06.270" style="s2">that one but then this one and all these</p>
+<p begin="00:12:03.630" end="00:12:09.720" style="s2">complex relations and now we look at</p>
+<p begin="00:12:06.270" end="00:12:13.140" style="s2">complex Ecology&#39;s in a very complex</p>
+<p begin="00:12:09.720" end="00:12:15.830" style="s2">network fashion right so this is one of</p>
+<p begin="00:12:13.140" end="00:12:19.530" style="s2">the things to remember when we look at</p>
+<p begin="00:12:15.830" end="00:12:21.570" style="s2">self-organization so the cells of your</p>
+<p begin="00:12:19.530" end="00:12:23.220" style="s2">body coordinate the behaviors are about</p>
+<p begin="00:12:21.570" end="00:12:25.890" style="s2">a hundred thousand different kinds of</p>
+<p begin="00:12:23.220" end="00:12:28.730" style="s2">molecules as matter and energy cross</p>
+<p begin="00:12:25.890" end="00:12:31.110" style="s2">their boundaries and we&#39;ll see that in</p>
+<p begin="00:12:28.730" end="00:12:33.240" style="s2">self-organization in human systems this</p>
+<p begin="00:12:31.110" end="00:12:37.260" style="s2">is what&#39;s happening we&#39;re exchanging</p>
+<p begin="00:12:33.240" end="00:12:40.560" style="s2">matter and energy we self organize to</p>
+<p begin="00:12:37.260" end="00:12:44.400" style="s2">distribute the energy load of our task</p>
+<p begin="00:12:40.560" end="00:12:47.730" style="s2">demands it&#39;s works the same in a human</p>
+<p begin="00:12:44.400" end="00:12:50.490" style="s2">cell the mind is also now thought of as</p>
+<p begin="00:12:47.730" end="00:12:53.970" style="s2">an emergent property of self organized</p>
+<p begin="00:12:50.490" end="00:12:56.560" style="s2">complexity so if the mind is not wired</p>
+<p begin="00:12:53.970" end="00:13:00.320" style="s2">into some</p>
+<p begin="00:12:56.560" end="00:13:02.720" style="s2">static habit it can continuously be</p>
+<p begin="00:13:00.320" end="00:13:04.610" style="s2">responsive and self organized in</p>
+<p begin="00:13:02.720" end="00:13:07.850" style="s2">different ways so self-organization is</p>
+<p begin="00:13:04.610" end="00:13:10.720" style="s2">not a trivial thing so why do people&#39;s</p>
+<p begin="00:13:07.850" end="00:13:16.520" style="s2">self organize this is a kind of geeky</p>
+<p begin="00:13:10.720" end="00:13:19.310" style="s2">ecological scientific explanation but</p>
+<p begin="00:13:16.520" end="00:13:22.340" style="s2">the way we can look at it is people self</p>
+<p begin="00:13:19.310" end="00:13:24.500" style="s2">organize the same reason Ecology&#39;s do to</p>
+<p begin="00:13:22.340" end="00:13:27.620" style="s2">distribute the energy load of task</p>
+<p begin="00:13:24.500" end="00:13:30.320" style="s2">demands so that could be biological when</p>
+<p begin="00:13:27.620" end="00:13:32.690" style="s2">we&#39;re born we can&#39;t even eat right so we</p>
+<p begin="00:13:30.320" end="00:13:36.050" style="s2">out there at mechanisms where we self</p>
+<p begin="00:13:32.690" end="00:13:38.080" style="s2">organized with our mother to achieve</p>
+<p begin="00:13:36.050" end="00:13:40.370" style="s2">that task demand it could be</p>
+<p begin="00:13:38.080" end="00:13:43.070" style="s2">physiological so we need to move the</p>
+<p begin="00:13:40.370" end="00:13:45.530" style="s2">couch I need to distribute that task</p>
+<p begin="00:13:43.070" end="00:13:48.140" style="s2">demand it could be psychological this</p>
+<p begin="00:13:45.530" end="00:13:51.380" style="s2">one&#39;s up often on under looks so the</p>
+<p begin="00:13:48.140" end="00:13:53.870" style="s2">need for companionship for play for</p>
+<p begin="00:13:51.380" end="00:13:55.610" style="s2">conversation we can&#39;t you know it&#39;s one</p>
+<p begin="00:13:53.870" end="00:13:58.520" style="s2">thing to sit and talk to yourself all</p>
+<p begin="00:13:55.610" end="00:14:00.950" style="s2">day but that&#39;s a task demand we actually</p>
+<p begin="00:13:58.520" end="00:14:05.030" style="s2">like to distribute with other people so</p>
+<p begin="00:14:00.950" end="00:14:08.870" style="s2">we self organize could be physical it</p>
+<p begin="00:14:05.030" end="00:14:10.910" style="s2">could be cognitive so mostly now where</p>
+<p begin="00:14:08.870" end="00:14:14.060" style="s2">are the task demands and organizations</p>
+<p begin="00:14:10.910" end="00:14:18.140" style="s2">are cognitive so we need to self</p>
+<p begin="00:14:14.060" end="00:14:21.920" style="s2">organize to distribute the energy load</p>
+<p begin="00:14:18.140" end="00:14:25.850" style="s2">of that okay so here is a self</p>
+<p begin="00:14:21.920" end="00:14:29.900" style="s2">organizing work group now it turns out</p>
+<p begin="00:14:25.850" end="00:14:32.480" style="s2">that people unlike other species are</p>
+<p begin="00:14:29.900" end="00:14:35.920" style="s2">really really good at self organizing</p>
+<p begin="00:14:32.480" end="00:14:38.960" style="s2">with other species so we&#39;ve been able to</p>
+<p begin="00:14:35.920" end="00:14:41.050" style="s2">self organize with other species to</p>
+<p begin="00:14:38.960" end="00:14:44.030" style="s2">distribute these types of task demands</p>
+<p begin="00:14:41.050" end="00:14:48.170" style="s2">we&#39;re also really good at self</p>
+<p begin="00:14:44.030" end="00:14:51.410" style="s2">organizing with static material so this</p>
+<p begin="00:14:48.170" end="00:14:54.080" style="s2">is distributing the task demand of have</p>
+<p begin="00:14:51.410" end="00:14:57.440" style="s2">you know a physical task demand and this</p>
+<p begin="00:14:54.080" end="00:14:59.810" style="s2">is the task demand of psycho a lot</p>
+<p begin="00:14:57.440" end="00:15:03.050" style="s2">psychological test demand something that</p>
+<p begin="00:14:59.810" end="00:15:05.450" style="s2">is more playful and creative but the way</p>
+<p begin="00:15:03.050" end="00:15:07.820" style="s2">we work with instruments is really the</p>
+<p begin="00:15:05.450" end="00:15:08.870" style="s2">way we self organize our bodies we</p>
+<p begin="00:15:07.820" end="00:15:12.440" style="s2">coordinating our body</p>
+<p begin="00:15:08.870" end="00:15:14.720" style="s2">with actual physical things and this is</p>
+<p begin="00:15:12.440" end="00:15:17.150" style="s2">not trivial it&#39;s not trivial so when you</p>
+<p begin="00:15:14.720" end="00:15:19.640" style="s2">watch yourself as you you know go</p>
+<p begin="00:15:17.150" end="00:15:23.240" style="s2">through this conference you can see how</p>
+<p begin="00:15:19.640" end="00:15:25.880" style="s2">many ways in which we are participating</p>
+<p begin="00:15:23.240" end="00:15:28.690" style="s2">in many different levels and scales and</p>
+<p begin="00:15:25.880" end="00:15:32.540" style="s2">so this is also a way to self-organize</p>
+<p begin="00:15:28.690" end="00:15:35.180" style="s2">with computational and cognitive types</p>
+<p begin="00:15:32.540" end="00:15:40.420" style="s2">of networks okay</p>
+<p begin="00:15:35.180" end="00:15:44.000" style="s2">so the there&#39;s a great TED talk by</p>
+<p begin="00:15:40.420" end="00:15:47.600" style="s2">Sugata Mitra who showed that if you put</p>
+<p begin="00:15:44.000" end="00:15:49.130" style="s2">a computer in rural India where people</p>
+<p begin="00:15:47.600" end="00:15:51.830" style="s2">don&#39;t know how to speak English and</p>
+<p begin="00:15:49.130" end="00:15:53.720" style="s2">they&#39;d never been to school and they</p>
+<p begin="00:15:51.830" end="00:15:56.110" style="s2">don&#39;t know how to use a computer that</p>
+<p begin="00:15:53.720" end="00:15:58.220" style="s2">just by the nature of their</p>
+<p begin="00:15:56.110" end="00:16:00.850" style="s2">participatory support and their</p>
+<p begin="00:15:58.220" end="00:16:03.980" style="s2">curiosity they can learn about</p>
+<p begin="00:16:00.850" end="00:16:06.350" style="s2">recombinant DNA over the course of a</p>
+<p begin="00:16:03.980" end="00:16:08.770" style="s2">year so they teach themselves how to use</p>
+<p begin="00:16:06.350" end="00:16:12.200" style="s2">the computer how to speak English how to</p>
+<p begin="00:16:08.770" end="00:16:16.420" style="s2">surf the web what questions to ask so</p>
+<p begin="00:16:12.200" end="00:16:19.820" style="s2">it&#39;s a so the power of trusting</p>
+<p begin="00:16:16.420" end="00:16:21.800" style="s2">self-organization is really quite</p>
+<p begin="00:16:19.820" end="00:16:24.850" style="s2">amazing so it&#39;s a great talk if you</p>
+<p begin="00:16:21.800" end="00:16:30.020" style="s2">haven&#39;t seen it Sugata Mitra</p>
+<p begin="00:16:24.850" end="00:16:32.410" style="s2">self-organizing learning environments so</p>
+<p begin="00:16:30.020" end="00:16:36.860" style="s2">the other thing we need to know about</p>
+<p begin="00:16:32.410" end="00:16:39.410" style="s2">self-organization is that that they rely</p>
+<p begin="00:16:36.860" end="00:16:42.590" style="s2">on simple protocols that simple</p>
+<p begin="00:16:39.410" end="00:16:44.960" style="s2">protocols generate the rich environments</p>
+<p begin="00:16:42.590" end="00:16:46.970" style="s2">for self-organization so this is</p>
+<p begin="00:16:44.960" end="00:16:49.580" style="s2">something for example that James and</p>
+<p begin="00:16:46.970" end="00:16:52.930" style="s2">Sochi ox III are trying to get back down</p>
+<p begin="00:16:49.580" end="00:16:57.350" style="s2">to these simple fundamental protocols</p>
+<p begin="00:16:52.930" end="00:16:59.470" style="s2">that if you seed them into environments</p>
+<p begin="00:16:57.350" end="00:17:03.680" style="s2">where people are allowed to participate</p>
+<p begin="00:16:59.470" end="00:17:05.510" style="s2">they will generate rich environments</p>
+<p begin="00:17:03.680" end="00:17:09.230" style="s2">rich complex environments that are</p>
+<p begin="00:17:05.510" end="00:17:12.050" style="s2">responsive right so when we talk about</p>
+<p begin="00:17:09.230" end="00:17:14.600" style="s2">how we to get people to self-organize we</p>
+<p begin="00:17:12.050" end="00:17:18.200" style="s2">want to look for some of these simple</p>
+<p begin="00:17:14.600" end="00:17:20.330" style="s2">protocols that seed the environment for</p>
+<p begin="00:17:18.200" end="00:17:22.100" style="s2">the expression of the complex</p>
+<p begin="00:17:20.330" end="00:17:27.110" style="s2">responsiveness in</p>
+<p begin="00:17:22.100" end="00:17:29.750" style="s2">in humans and this is again the this</p>
+<p begin="00:17:27.110" end="00:17:32.120" style="s2">slide presentation shows you that all of</p>
+<p begin="00:17:29.750" end="00:17:37.190" style="s2">this is consistent with science on this</p>
+<p begin="00:17:32.120" end="00:17:38.750" style="s2">deep ecological life force level we&#39;re</p>
+<p begin="00:17:37.190" end="00:17:42.799" style="s2">trying to tap into something that is</p>
+<p begin="00:17:38.750" end="00:17:44.780" style="s2">evolved as life evolves so this is the</p>
+<p begin="00:17:42.799" end="00:17:47.059" style="s2">you know the way I started we&#39;re pretty</p>
+<p begin="00:17:44.780" end="00:17:49.190" style="s2">much conditioned people we want to go</p>
+<p begin="00:17:47.059" end="00:17:51.710" style="s2">back and understand self-organization</p>
+<p begin="00:17:49.190" end="00:17:53.690" style="s2">from this deeper code and because we&#39;re</p>
+<p begin="00:17:51.710" end="00:17:55.760" style="s2">going to about to switch and say well</p>
+<p begin="00:17:53.690" end="00:17:58.330" style="s2">what&#39;s the challenge going forward if we</p>
+<p begin="00:17:55.760" end="00:18:02.020" style="s2">can get back and understand ourselves as</p>
+<p begin="00:17:58.330" end="00:18:05.120" style="s2">naturally evolved self-organizing</p>
+<p begin="00:18:02.020" end="00:18:08.030" style="s2">organisms and honor the fact that</p>
+<p begin="00:18:05.120" end="00:18:11.720" style="s2">they&#39;re really really good at it then</p>
+<p begin="00:18:08.030" end="00:18:15.950" style="s2">how can we take that bypass the</p>
+<p begin="00:18:11.720" end="00:18:19.460" style="s2">conditioned habits of modernity and move</p>
+<p begin="00:18:15.950" end="00:18:22.340" style="s2">that into the kinds of future that we</p>
+<p begin="00:18:19.460" end="00:18:25.400" style="s2">envision right so it&#39;s a two-step it&#39;s</p>
+<p begin="00:18:22.340" end="00:18:28.340" style="s2">not just about getting back to our roots</p>
+<p begin="00:18:25.400" end="00:18:31.789" style="s2">our primal roots but understanding the</p>
+<p begin="00:18:28.340" end="00:18:33.799" style="s2">genius in that evolved system and taking</p>
+<p begin="00:18:31.789" end="00:18:38.690" style="s2">that energy taking that genius and</p>
+<p begin="00:18:33.799" end="00:18:42.710" style="s2">moving it into a new future so this</p>
+<p begin="00:18:38.690" end="00:18:45.320" style="s2">slide is a very simple protocol of how</p>
+<p begin="00:18:42.710" end="00:18:48.530" style="s2">to do that right so I&#39;m not going to</p>
+<p begin="00:18:45.320" end="00:18:50.659" style="s2">it&#39;s also backed by a lot of science</p>
+<p begin="00:18:48.530" end="00:18:53.659" style="s2">self-determination theory is used in</p>
+<p begin="00:18:50.659" end="00:18:55.909" style="s2">almost all leadership assessments and</p>
+<p begin="00:18:53.659" end="00:18:59.450" style="s2">management assessment but this is a</p>
+<p begin="00:18:55.909" end="00:19:01.720" style="s2">attempt to get us to understand our own</p>
+<p begin="00:18:59.450" end="00:19:03.549" style="s2">lived experience can I get back to</p>
+<p begin="00:19:01.720" end="00:19:07.760" style="s2">understanding myself as a</p>
+<p begin="00:19:03.549" end="00:19:11.150" style="s2">self-organizing being so there&#39;s three</p>
+<p begin="00:19:07.760" end="00:19:13.610" style="s2">aspects of the way we kind of hook up</p>
+<p begin="00:19:11.150" end="00:19:16.640" style="s2">with people in what Ralph Stacey calls</p>
+<p begin="00:19:13.610" end="00:19:19.400" style="s2">complex processes of human relating</p>
+<p begin="00:19:16.640" end="00:19:22.100" style="s2">first of all we have our own autonomy</p>
+<p begin="00:19:19.400" end="00:19:24.470" style="s2">right as an individual well then we&#39;re</p>
+<p begin="00:19:22.100" end="00:19:28.520" style="s2">gonna hold on to this this is not</p>
+<p begin="00:19:24.470" end="00:19:31.370" style="s2">something that we can let go lightly we</p>
+<p begin="00:19:28.520" end="00:19:34.130" style="s2">can&#39;t even let it go we are all born</p>
+<p begin="00:19:31.370" end="00:19:35.180" style="s2">very unique and that&#39;s precious to us so</p>
+<p begin="00:19:34.130" end="00:19:37.570" style="s2">we have our own</p>
+<p begin="00:19:35.180" end="00:19:40.760" style="s2">economist identity but we&#39;re also</p>
+<p begin="00:19:37.570" end="00:19:43.490" style="s2">relational beings right so we&#39;re also</p>
+<p begin="00:19:40.760" end="00:19:46.130" style="s2">relational beings and we also have</p>
+<p begin="00:19:43.490" end="00:19:48.890" style="s2">agency we want to act out in the world</p>
+<p begin="00:19:46.130" end="00:19:52.940" style="s2">we want to perform who we are we want to</p>
+<p begin="00:19:48.890" end="00:19:55.370" style="s2">solve problems and do tasks so the</p>
+<p begin="00:19:52.940" end="00:19:58.400" style="s2">collective version of these three that</p>
+<p begin="00:19:55.370" end="00:20:02.720" style="s2">comprised my live experience as a social</p>
+<p begin="00:19:58.400" end="00:20:05.750" style="s2">being is first my own autonomy so I have</p>
+<p begin="00:20:02.720" end="00:20:10.000" style="s2">a little you know being there talking to</p>
+<p begin="00:20:05.750" end="00:20:12.740" style="s2">itself and then we are all collectively</p>
+<p begin="00:20:10.000" end="00:20:14.960" style="s2">autonomous individuals so this already</p>
+<p begin="00:20:12.740" end="00:20:16.780" style="s2">makes it a challenge how do you how do</p>
+<p begin="00:20:14.960" end="00:20:19.790" style="s2">you deal with that</p>
+<p begin="00:20:16.780" end="00:20:21.500" style="s2">so we share intentions and the biggest</p>
+<p begin="00:20:19.790" end="00:20:23.420" style="s2">part about sharing intentions it&#39;s</p>
+<p begin="00:20:21.500" end="00:20:26.870" style="s2">supposed to be the earth down there is</p>
+<p begin="00:20:23.420" end="00:20:29.630" style="s2">that we have a common world so not only</p>
+<p begin="00:20:26.870" end="00:20:32.180" style="s2">are we collectively autonomous but we</p>
+<p begin="00:20:29.630" end="00:20:35.380" style="s2">have a common world so we&#39;re grounded in</p>
+<p begin="00:20:32.180" end="00:20:38.600" style="s2">something that has its own commonality</p>
+<p begin="00:20:35.380" end="00:20:42.080" style="s2">so that&#39;s the environment the</p>
+<p begin="00:20:38.600" end="00:20:45.440" style="s2">environment that we have and then</p>
+<p begin="00:20:42.080" end="00:20:48.410" style="s2">primarily we link together through our</p>
+<p begin="00:20:45.440" end="00:20:51.250" style="s2">value chains right so we have a common</p>
+<p begin="00:20:48.410" end="00:20:54.530" style="s2">world and that somehow creates the</p>
+<p begin="00:20:51.250" end="00:20:56.990" style="s2">ability for us to have shared values and</p>
+<p begin="00:20:54.530" end="00:21:00.410" style="s2">then we seek out and we kind of it&#39;s</p>
+<p begin="00:20:56.990" end="00:21:03.530" style="s2">like a strange attractor we magnetically</p>
+<p begin="00:21:00.410" end="00:21:05.990" style="s2">associate with people who have the same</p>
+<p begin="00:21:03.530" end="00:21:09.640" style="s2">value chains as ours so we get these</p>
+<p begin="00:21:05.990" end="00:21:12.740" style="s2">value chains and then we can use that to</p>
+<p begin="00:21:09.640" end="00:21:15.680" style="s2">create collaborative action and if you</p>
+<p begin="00:21:12.740" end="00:21:19.400" style="s2">see this moves it&#39;s a collective version</p>
+<p begin="00:21:15.680" end="00:21:21.680" style="s2">of autonomy relationality shared</p>
+<p begin="00:21:19.400" end="00:21:23.900" style="s2">intentions and the value change and then</p>
+<p begin="00:21:21.680" end="00:21:26.300" style="s2">we have collaborative action instead of</p>
+<p begin="00:21:23.900" end="00:21:30.890" style="s2">our own action in the world it&#39;s a very</p>
+<p begin="00:21:26.300" end="00:21:33.020" style="s2">simple schematic so what are the</p>
+<p begin="00:21:30.890" end="00:21:36.550" style="s2">challenges the challenges are we are</p>
+<p begin="00:21:33.020" end="00:21:38.840" style="s2">also in the revolution of becoming very</p>
+<p begin="00:21:36.550" end="00:21:41.150" style="s2">individuated we want our singular</p>
+<p begin="00:21:38.840" end="00:21:43.480" style="s2">perspective we are more there are more</p>
+<p begin="00:21:41.150" end="00:21:47.180" style="s2">ways to be unique now than ever before</p>
+<p begin="00:21:43.480" end="00:21:48.480" style="s2">right so this is also coming online the</p>
+<p begin="00:21:47.180" end="00:21:51.660" style="s2">same time that</p>
+<p begin="00:21:48.480" end="00:21:56.160" style="s2">our need to have scale agile in have</p>
+<p begin="00:21:51.660" end="00:21:58.500" style="s2">more collective agency we see that we&#39;re</p>
+<p begin="00:21:56.160" end="00:22:00.480" style="s2">also becoming demanding and</p>
+<p begin="00:21:58.500" end="00:22:02.400" style="s2">understanding ourselves as the unique</p>
+<p begin="00:22:00.480" end="00:22:06.690" style="s2">perspective that we have and we want to</p>
+<p begin="00:22:02.400" end="00:22:08.670" style="s2">honor that right we have a common world</p>
+<p begin="00:22:06.690" end="00:22:11.250" style="s2">this gives you a sense of what I&#39;m</p>
+<p begin="00:22:08.670" end="00:22:14.160" style="s2">talking about these are three autonomous</p>
+<p begin="00:22:11.250" end="00:22:17.850" style="s2">individuals but there&#39;s a sharing going</p>
+<p begin="00:22:14.160" end="00:22:20.810" style="s2">on already shared intentions we&#39;re</p>
+<p begin="00:22:17.850" end="00:22:23.550" style="s2">getting closer now to actually</p>
+<p begin="00:22:20.810" end="00:22:26.670" style="s2">self-organizing to action world building</p>
+<p begin="00:22:23.550" end="00:22:28.500" style="s2">type intentions so this is an</p>
+<p begin="00:22:26.670" end="00:22:30.650" style="s2">interesting slide because they have the</p>
+<p begin="00:22:28.500" end="00:22:32.660" style="s2">same values but they&#39;re not actually</p>
+<p begin="00:22:30.650" end="00:22:35.490" style="s2">collaborating right so there&#39;s still</p>
+<p begin="00:22:32.660" end="00:22:38.640" style="s2">individual and you can see the sense in</p>
+<p begin="00:22:35.490" end="00:22:39.900" style="s2">which at what level of organization</p>
+<p begin="00:22:38.640" end="00:22:41.880" style="s2">that&#39;s happening here</p>
+<p begin="00:22:39.900" end="00:22:43.440" style="s2">they can&#39;t doesn&#39;t seem to me they can</p>
+<p begin="00:22:41.880" end="00:22:46.680" style="s2">even help each other right but they&#39;re</p>
+<p begin="00:22:43.440" end="00:22:51.240" style="s2">sharing the value of this crazy activity</p>
+<p begin="00:22:46.680" end="00:22:53.250" style="s2">that they have so when if how many of</p>
+<p begin="00:22:51.240" end="00:22:55.140" style="s2">you are like coaches or chapter coaches</p>
+<p begin="00:22:53.250" end="00:22:57.540" style="s2">or something like this so these are well</p>
+<p begin="00:22:55.140" end="00:23:00.600" style="s2">if you do the workshops</p>
+<p begin="00:22:57.540" end="00:23:02.670" style="s2">plug plug these are the types of ways</p>
+<p begin="00:23:00.600" end="00:23:05.190" style="s2">you can look at your organization you</p>
+<p begin="00:23:02.670" end="00:23:06.930" style="s2">know where&#39;s the level of autonomy are</p>
+<p begin="00:23:05.190" end="00:23:09.870" style="s2">we sharing worlds are we sharing</p>
+<p begin="00:23:06.930" end="00:23:13.800" style="s2">intentions what type of value sphere do</p>
+<p begin="00:23:09.870" end="00:23:17.220" style="s2">we have and you can use tools such as</p>
+<p begin="00:23:13.800" end="00:23:19.500" style="s2">sense making tools to ask say the kind</p>
+<p begin="00:23:17.220" end="00:23:22.640" style="s2">of state that your teams are in and have</p>
+<p begin="00:23:19.500" end="00:23:25.470" style="s2">conversations that matter around this</p>
+<p begin="00:23:22.640" end="00:23:27.360" style="s2">and then we have real self organized</p>
+<p begin="00:23:25.470" end="00:23:29.370" style="s2">teams you see there&#39;s a sense of</p>
+<p begin="00:23:27.360" end="00:23:32.310" style="s2">vulnerability when you&#39;re really at this</p>
+<p begin="00:23:29.370" end="00:23:35.640" style="s2">level because without the collaborated</p>
+<p begin="00:23:32.310" end="00:23:39.750" style="s2">action of all three things would not be</p>
+<p begin="00:23:35.640" end="00:23:42.720" style="s2">that effective so this is these are the</p>
+<p begin="00:23:39.750" end="00:23:44.910" style="s2">kinds of switches that happen in actual</p>
+<p begin="00:23:42.720" end="00:23:48.480" style="s2">actual lived experiences you get closer</p>
+<p begin="00:23:44.910" end="00:23:51.390" style="s2">and closer to authentic teamwork right</p>
+<p begin="00:23:48.480" end="00:23:53.700" style="s2">so all the steps and towards getting to</p>
+<p begin="00:23:51.390" end="00:23:56.430" style="s2">that and then you have things like teams</p>
+<p begin="00:23:53.700" end="00:23:59.100" style="s2">of teams and scaled agility then I want</p>
+<p begin="00:23:56.430" end="00:24:01.410" style="s2">it this is this is kind of a cool slide</p>
+<p begin="00:23:59.100" end="00:24:01.860" style="s2">because I think it throws you back into</p>
+<p begin="00:24:01.410" end="00:24:04.049" style="s2">something</p>
+<p begin="00:24:01.860" end="00:24:07.170" style="s2">that may be problematic in the sense of</p>
+<p begin="00:24:04.049" end="00:24:09.240" style="s2">the loss of individuality here right so</p>
+<p begin="00:24:07.170" end="00:24:11.429" style="s2">this is a team that may be able to scale</p>
+<p begin="00:24:09.240" end="00:24:14.640" style="s2">but they don&#39;t have a lot of options to</p>
+<p begin="00:24:11.429" end="00:24:17.190" style="s2">be responsive or to have new ideas and</p>
+<p begin="00:24:14.640" end="00:24:20.070" style="s2">there&#39;s always this kind of toggle when</p>
+<p begin="00:24:17.190" end="00:24:22.110" style="s2">you get to scaling large groups is that</p>
+<p begin="00:24:20.070" end="00:24:23.790" style="s2">are you are you going to diminish the</p>
+<p begin="00:24:22.110" end="00:24:26.190" style="s2">autonomy of the group and if you</p>
+<p begin="00:24:23.790" end="00:24:27.750" style="s2">diminish the autonomy of the group then</p>
+<p begin="00:24:26.190" end="00:24:29.429" style="s2">you&#39;re not going to be innovative and</p>
+<p begin="00:24:27.750" end="00:24:32.840" style="s2">creative</p>
+<p begin="00:24:29.429" end="00:24:35.640" style="s2">so there&#39;s a big toggle between this</p>
+<p begin="00:24:32.840" end="00:24:38.910" style="s2">which has got some vulnerability but</p>
+<p begin="00:24:35.640" end="00:24:43.860" style="s2">it&#39;s really kind of synergistic action</p>
+<p begin="00:24:38.910" end="00:24:47.429" style="s2">in this into many large-scale but</p>
+<p begin="00:24:43.860" end="00:24:48.480" style="s2">relatively safe methodologies I don&#39;t</p>
+<p begin="00:24:47.429" end="00:24:51.179" style="s2">know which ones I&#39;m talking about</p>
+<p begin="00:24:48.480" end="00:24:53.160" style="s2">they&#39;re really they can pull this off</p>
+<p begin="00:24:51.179" end="00:24:55.620" style="s2">but they&#39;re not they&#39;re not going to be</p>
+<p begin="00:24:53.160" end="00:24:57.360" style="s2">as innovative because the autonomy</p>
+<p begin="00:24:55.620" end="00:24:59.299" style="s2">you&#39;re not bringing in the genius of</p>
+<p begin="00:24:57.360" end="00:25:01.890" style="s2">that other aspect of human</p>
+<p begin="00:24:59.299" end="00:25:04.169" style="s2">self-organization which is the autonomy</p>
+<p begin="00:25:01.890" end="00:25:06.510" style="s2">and the flexibility so we just have to</p>
+<p begin="00:25:04.169" end="00:25:14.190" style="s2">this is a very we would say it&#39;s an old</p>
+<p begin="00:25:06.510" end="00:25:16.970" style="s2">structure of of collecting people so I</p>
+<p begin="00:25:14.190" end="00:25:20.700" style="s2">think I&#39;m not sure what my time is but</p>
+<p begin="00:25:16.970" end="00:25:23.090" style="s2">when we look at human self-organization</p>
+<p begin="00:25:20.700" end="00:25:27.000" style="s2">we&#39;re looking at emergent potentials</p>
+<p begin="00:25:23.090" end="00:25:29.400" style="s2">okay we&#39;re not just looking at these old</p>
+<p begin="00:25:27.000" end="00:25:35.429" style="s2">evolutionary potentials so this is a</p>
+<p begin="00:25:29.400" end="00:25:38.130" style="s2">picture of Burning Man and this is an</p>
+<p begin="00:25:35.429" end="00:25:39.690" style="s2">experiment in emerging potentials and</p>
+<p begin="00:25:38.130" end="00:25:42.000" style="s2">I&#39;m just going to go through one last</p>
+<p begin="00:25:39.690" end="00:25:44.280" style="s2">slide it&#39;s kind of a complicated slide</p>
+<p begin="00:25:42.000" end="00:25:47.850" style="s2">but first I do it this way so what&#39;s the</p>
+<p begin="00:25:44.280" end="00:25:49.950" style="s2">challenge in the emerging potentials of</p>
+<p begin="00:25:47.850" end="00:25:52.230" style="s2">human self-organization what is coming</p>
+<p begin="00:25:49.950" end="00:25:54.270" style="s2">online for us that has never been there</p>
+<p begin="00:25:52.230" end="00:25:57.049" style="s2">before and if you put your hands</p>
+<p begin="00:25:54.270" end="00:26:01.260" style="s2">together it&#39;s kind of like this first</p>
+<p begin="00:25:57.049" end="00:26:03.750" style="s2">there&#39;s two people and when they come</p>
+<p begin="00:26:01.260" end="00:26:07.370" style="s2">into social space we&#39;re all kind of</p>
+<p begin="00:26:03.750" end="00:26:10.650" style="s2">bundled up are these are these are our</p>
+<p begin="00:26:07.370" end="00:26:12.480" style="s2">motivations and our relational anxieties</p>
+<p begin="00:26:10.650" end="00:26:15.120" style="s2">and our social anxiety it&#39;s kind of</p>
+<p begin="00:26:12.480" end="00:26:17.250" style="s2">bundled up we&#39;re all kind of closed up</p>
+<p begin="00:26:15.120" end="00:26:19.410" style="s2">and when two people come together in</p>
+<p begin="00:26:17.250" end="00:26:21.750" style="s2">social space the first thing that</p>
+<p begin="00:26:19.410" end="00:26:25.550" style="s2">happens is they have to negotiate like</p>
+<p begin="00:26:21.750" end="00:26:29.400" style="s2">their intentions and their anxieties and</p>
+<p begin="00:26:25.550" end="00:26:32.190" style="s2">what&#39;s going on here but the interesting</p>
+<p begin="00:26:29.400" end="00:26:34.170" style="s2">thing that happens and this is the key</p>
+<p begin="00:26:32.190" end="00:26:37.670" style="s2">piece that you if you remember this is</p>
+<p begin="00:26:34.170" end="00:26:40.080" style="s2">when they come together they&#39;re going to</p>
+<p begin="00:26:37.670" end="00:26:42.300" style="s2">they&#39;re going to feel the pressure to</p>
+<p begin="00:26:40.080" end="00:26:44.760" style="s2">create roles this is my identity like</p>
+<p begin="00:26:42.300" end="00:26:47.070" style="s2">Who am I going to show up with her Who</p>
+<p begin="00:26:44.760" end="00:26:49.910" style="s2">am I going to show up with him right so</p>
+<p begin="00:26:47.070" end="00:26:54.840" style="s2">not only are we trying to figure out our</p>
+<p begin="00:26:49.910" end="00:26:58.110" style="s2">kind of emotional and intentional spaces</p>
+<p begin="00:26:54.840" end="00:27:00.630" style="s2">which is very chaotic but in order for</p>
+<p begin="00:26:58.110" end="00:27:03.510" style="s2">these things to sync up we have to fall</p>
+<p begin="00:27:00.630" end="00:27:05.370" style="s2">into an identity that I accept right so</p>
+<p begin="00:27:03.510" end="00:27:08.310" style="s2">right now all of you are accepting the</p>
+<p begin="00:27:05.370" end="00:27:12.090" style="s2">identity of I get to talk to you right</p>
+<p begin="00:27:08.310" end="00:27:15.000" style="s2">and maybe that could have broken down if</p>
+<p begin="00:27:12.090" end="00:27:17.340" style="s2">I was Milo right my if I was Milo maybe</p>
+<p begin="00:27:15.000" end="00:27:20.670" style="s2">that would have been broken down but</p>
+<p begin="00:27:17.340" end="00:27:23.610" style="s2">what happens is in organizations we&#39;ve</p>
+<p begin="00:27:20.670" end="00:27:26.340" style="s2">traditionally only given people a</p>
+<p begin="00:27:23.610" end="00:27:30.720" style="s2">handful of roles or identities that they</p>
+<p begin="00:27:26.340" end="00:27:35.550" style="s2">can play and this when this happens it</p>
+<p begin="00:27:30.720" end="00:27:39.030" style="s2">helps us connect because I knew who I am</p>
+<p begin="00:27:35.550" end="00:27:42.930" style="s2">and you know who you are but it gets us</p>
+<p begin="00:27:39.030" end="00:27:46.110" style="s2">stuck in those roles and what we need to</p>
+<p begin="00:27:42.930" end="00:27:48.840" style="s2">do the emergent property of human self</p>
+<p begin="00:27:46.110" end="00:27:52.230" style="s2">organization is to learn how to be very</p>
+<p begin="00:27:48.840" end="00:27:55.500" style="s2">flexible in those in that identity space</p>
+<p begin="00:27:52.230" end="00:28:00.750" style="s2">and just kind of move toward action</p>
+<p begin="00:27:55.500" end="00:28:06.390" style="s2">right so one of the challenges of going</p>
+<p begin="00:28:00.750" end="00:28:08.610" style="s2">forward is if we have these relational</p>
+<p begin="00:28:06.390" end="00:28:10.890" style="s2">values we have an interplay of needs and</p>
+<p begin="00:28:08.610" end="00:28:13.950" style="s2">wants that has to be worked out that&#39;s a</p>
+<p begin="00:28:10.890" end="00:28:17.070" style="s2">challenge and then we have emergent</p>
+<p begin="00:28:13.950" end="00:28:21.120" style="s2">identities in social space we need to</p>
+<p begin="00:28:17.070" end="00:28:23.370" style="s2">agree on how we are going to understand</p>
+<p begin="00:28:21.120" end="00:28:27.540" style="s2">each other and this creates a lot of</p>
+<p begin="00:28:23.370" end="00:28:28.780" style="s2">social anxiety it is why people actually</p>
+<p begin="00:28:27.540" end="00:28:31.660" style="s2">in many case</p>
+<p begin="00:28:28.780" end="00:28:34.180" style="s2">just say give me a roll tell me what to</p>
+<p begin="00:28:31.660" end="00:28:37.570" style="s2">do I want to understand me myself as</p>
+<p begin="00:28:34.180" end="00:28:41.310" style="s2">that roll but it robs the system of the</p>
+<p begin="00:28:37.570" end="00:28:44.200" style="s2">evolutionary genius of that interaction</p>
+<p begin="00:28:41.310" end="00:28:46.570" style="s2">so when we work with people we work with</p>
+<p begin="00:28:44.200" end="00:28:49.000" style="s2">them saying well what role did you take</p>
+<p begin="00:28:46.570" end="00:28:51.640" style="s2">what were the available roles you could</p>
+<p begin="00:28:49.000" end="00:28:54.130" style="s2">you could have taken can you think of</p>
+<p begin="00:28:51.640" end="00:28:57.120" style="s2">other types of roles so you can work</p>
+<p begin="00:28:54.130" end="00:29:00.910" style="s2">with this heuristic of self-organization</p>
+<p begin="00:28:57.120" end="00:29:03.640" style="s2">to create very very high performance</p>
+<p begin="00:29:00.910" end="00:29:06.580" style="s2">teams where innovative ideas innovative</p>
+<p begin="00:29:03.640" end="00:29:10.090" style="s2">type roles and identities will emerge</p>
+<p begin="00:29:06.580" end="00:29:13.630" style="s2">and then when that all works itself out</p>
+<p begin="00:29:10.090" end="00:29:17.860" style="s2">then you get an emergent outcome so this</p>
+<p begin="00:29:13.630" end="00:29:21.430" style="s2">is a kind of challenge to a kind of</p>
+<p begin="00:29:17.860" end="00:29:24.670" style="s2">human Constitution right now but people</p>
+<p begin="00:29:21.430" end="00:29:26.830" style="s2">have been working at this level working</p>
+<p begin="00:29:24.670" end="00:29:29.890" style="s2">without roles letting roles and</p>
+<p begin="00:29:26.830" end="00:29:32.890" style="s2">identities and social space emerge and</p>
+<p begin="00:29:29.890" end="00:29:37.080" style="s2">be flexible and be creative and I think</p>
+<p begin="00:29:32.890" end="00:29:40.150" style="s2">when I showed this when I show this</p>
+<p begin="00:29:37.080" end="00:29:41.830" style="s2">slide what I see here is if you&#39;ve ever</p>
+<p begin="00:29:40.150" end="00:29:43.090" style="s2">been to Burning Man that&#39;s all what</p>
+<p begin="00:29:41.830" end="00:29:45.540" style="s2">people are doing they&#39;re wearing</p>
+<p begin="00:29:43.090" end="00:29:48.880" style="s2">costumes and showing up you know they&#39;re</p>
+<p begin="00:29:45.540" end="00:29:51.820" style="s2">practicing roles new roles new types of</p>
+<p begin="00:29:48.880" end="00:29:54.160" style="s2">ways of being human in social space and</p>
+<p begin="00:29:51.820" end="00:29:58.050" style="s2">this is a real challenge this is one of</p>
+<p begin="00:29:54.160" end="00:30:01.510" style="s2">the the real horizons of creative</p>
+<p begin="00:29:58.050" end="00:30:04.480" style="s2">creating very large very responsive</p>
+<p begin="00:30:01.510" end="00:30:08.710" style="s2">teams that can work in innovative ways</p>
+<p begin="00:30:04.480" end="00:30:11.560" style="s2">so when I when I look at the challenges</p>
+<p begin="00:30:08.710" end="00:30:14.770" style="s2">for agile or the future of work I want</p>
+<p begin="00:30:11.560" end="00:30:17.740" style="s2">to say well what is it about us that we</p>
+<p begin="00:30:14.770" end="00:30:20.380" style="s2">have to recreate as human beings and we</p>
+<p begin="00:30:17.740" end="00:30:23.530" style="s2">can we can be imaginative about that and</p>
+<p begin="00:30:20.380" end="00:30:28.240" style="s2">and this is kind of where the rubber</p>
+<p begin="00:30:23.530" end="00:30:32.560" style="s2">rubber meets the road in this this way</p>
+<p begin="00:30:28.240" end="00:30:35.280" style="s2">we are evolutionarily together when we</p>
+<p begin="00:30:32.560" end="00:30:35.280" style="s2">self organize</p>
+<p begin="00:30:39.880" end="00:30:45.890" style="s2">is that I think that&#39;s my time I&#39;m not</p>
+<p begin="00:30:42.559" end="00:30:50.210" style="s2">sure if I started late five more minutes</p>
+<p begin="00:30:45.890" end="00:30:50.600" style="s2">so are there any questions or I could</p>
+<p begin="00:30:50.210" end="00:30:53.450" style="s2">die</p>
+<p begin="00:30:50.600" end="00:30:59.630" style="s2">I could I could speed present the last</p>
+<p begin="00:30:53.450" end="00:31:04.220" style="s2">part hurry I think you have ten minutes</p>
+<p begin="00:30:59.630" end="00:31:06.980" style="s2">okay yeah that&#39;s why I was asking okay</p>
+<p begin="00:31:04.220" end="00:31:07.940" style="s2">so I good so I&#39;m in good I&#39;m in good</p>
+<p begin="00:31:06.980" end="00:31:12.650" style="s2">shape okay</p>
+<p begin="00:31:07.940" end="00:31:14.929" style="s2">so one of the things that happens in</p>
+<p begin="00:31:12.650" end="00:31:17.570" style="s2">organizations if you allow them to self</p>
+<p begin="00:31:14.929" end="00:31:20.150" style="s2">organize then the power structures will</p>
+<p begin="00:31:17.570" end="00:31:21.919" style="s2">also be innovative right you won&#39;t just</p>
+<p begin="00:31:20.150" end="00:31:24.410" style="s2">have a dominance hierarchy you might</p>
+<p begin="00:31:21.919" end="00:31:26.390" style="s2">have over here at this condition have</p>
+<p begin="00:31:24.410" end="00:31:27.799" style="s2">you know we&#39;ve all been in groups that</p>
+<p begin="00:31:26.390" end="00:31:30.140" style="s2">have worked really well and then the</p>
+<p begin="00:31:27.799" end="00:31:31.970" style="s2"> hits the fan and you have an expert</p>
+<p begin="00:31:30.140" end="00:31:34.100" style="s2">in the room and you just say just tell</p>
+<p begin="00:31:31.970" end="00:31:37.429" style="s2">us what to do right this is something we</p>
+<p begin="00:31:34.100" end="00:31:41.210" style="s2">know how to move toward when under</p>
+<p begin="00:31:37.429" end="00:31:42.860" style="s2">certain conditions so we&#39;re not in you</p>
+<p begin="00:31:41.210" end="00:31:45.770" style="s2">know in terms of self-organizing</p>
+<p begin="00:31:42.860" end="00:31:47.929" style="s2">complexity if we allow the genius to</p>
+<p begin="00:31:45.770" end="00:31:51.320" style="s2">unfold and we know how to support that</p>
+<p begin="00:31:47.929" end="00:31:53.059" style="s2">then you will get this balance of how</p>
+<p begin="00:31:51.320" end="00:31:57.650" style="s2">people organize but it will be in</p>
+<p begin="00:31:53.059" end="00:31:59.780" style="s2">response to appropriate conditions so</p>
+<p begin="00:31:57.650" end="00:32:00.919" style="s2">one of the things that happens in if</p>
+<p begin="00:31:59.780" end="00:32:02.990" style="s2">you&#39;re interested in this I&#39;m going to</p>
+<p begin="00:32:00.919" end="00:32:05.690" style="s2">give you the download but we&#39;re doing a</p>
+<p begin="00:32:02.990" end="00:32:09.559" style="s2">whole day workshop on it is that the</p>
+<p begin="00:32:05.690" end="00:32:14.500" style="s2">that power will also it power is also a</p>
+<p begin="00:32:09.559" end="00:32:16.490" style="s2">complex pattern and self-organized teams</p>
+<p begin="00:32:14.500" end="00:32:20.900" style="s2">what is power</p>
+<p begin="00:32:16.490" end="00:32:23.960" style="s2">well I need to organize if if power is</p>
+<p begin="00:32:20.900" end="00:32:26.000" style="s2">my skills and resources develop divided</p>
+<p begin="00:32:23.960" end="00:32:30.020" style="s2">by my needs and wants and I just end</p>
+<p begin="00:32:26.000" end="00:32:34.160" style="s2">with a story that illustrates this let&#39;s</p>
+<p begin="00:32:30.020" end="00:32:36.380" style="s2">say I want my couch moved right and my</p>
+<p begin="00:32:34.160" end="00:32:38.870" style="s2">need is very very high because my</p>
+<p begin="00:32:36.380" end="00:32:41.870" style="s2">mother&#39;s coming over and she hates it</p>
+<p begin="00:32:38.870" end="00:32:43.760" style="s2">when the couch is near the TV and yet I</p>
+<p begin="00:32:41.870" end="00:32:46.580" style="s2">can&#39;t move it myself so I have to</p>
+<p begin="00:32:43.760" end="00:32:49.520" style="s2">self-organize with my partner to move</p>
+<p begin="00:32:46.580" end="00:32:50.690" style="s2">the couch well my partner inside of his</p>
+<p begin="00:32:49.520" end="00:32:53.630" style="s2">needs and wants</p>
+<p begin="00:32:50.690" end="00:32:55.730" style="s2">like his relational space is like oh my</p>
+<p begin="00:32:53.630" end="00:32:57.860" style="s2">god she&#39;s just moving that because her</p>
+<p begin="00:32:55.730" end="00:33:00.590" style="s2">mother is coming over and she needs to</p>
+<p begin="00:32:57.860" end="00:33:04.010" style="s2">get you know grow up and not be in there</p>
+<p begin="00:33:00.590" end="00:33:07.370" style="s2">so we have asymmetric needs and wants in</p>
+<p begin="00:33:04.010" end="00:33:11.570" style="s2">this case my needs are very very big and</p>
+<p begin="00:33:07.370" end="00:33:13.130" style="s2">his needs are neutral or negative he</p>
+<p begin="00:33:11.570" end="00:33:15.800" style="s2">doesn&#39;t have a need he doesn&#39;t want to</p>
+<p begin="00:33:13.130" end="00:33:19.190" style="s2">want to move that couch so this is</p>
+<p begin="00:33:15.800" end="00:33:22.040" style="s2">already a very complex negotiation right</p>
+<p begin="00:33:19.190" end="00:33:24.080" style="s2">from the get-go if we slowed our selves</p>
+<p begin="00:33:22.040" end="00:33:26.390" style="s2">down and looked at what was happening in</p>
+<p begin="00:33:24.080" end="00:33:28.850" style="s2">our lived bodies maybe he&#39;s getting mad</p>
+<p begin="00:33:26.390" end="00:33:30.410" style="s2">maybe I&#39;m getting irritated so we come</p>
+<p begin="00:33:28.850" end="00:33:33.970" style="s2">together and one of the things that is</p>
+<p begin="00:33:30.410" end="00:33:36.140" style="s2">processing in the power matrix Ed&#39;s are</p>
+<p begin="00:33:33.970" end="00:33:38.270" style="s2">asymmetrical needs and once they&#39;re not</p>
+<p begin="00:33:36.140" end="00:33:40.430" style="s2">the same if he was freaking out because</p>
+<p begin="00:33:38.270" end="00:33:43.250" style="s2">my mother was coming no problem we would</p>
+<p begin="00:33:40.430" end="00:33:45.890" style="s2">just move the couch okay skills and</p>
+<p begin="00:33:43.250" end="00:33:47.720" style="s2">resources he now on the other hand he</p>
+<p begin="00:33:45.890" end="00:33:51.710" style="s2">might be stronger than me</p>
+<p begin="00:33:47.720" end="00:33:54.620" style="s2">right so my skills and resources might</p>
+<p begin="00:33:51.710" end="00:33:56.720" style="s2">be small less than his so now not only</p>
+<p begin="00:33:54.620" end="00:33:59.450" style="s2">do I have greater needs and wants which</p>
+<p begin="00:33:56.720" end="00:34:03.980" style="s2">was juices my power he has greater</p>
+<p begin="00:33:59.450" end="00:34:06.050" style="s2">resources so he really can you know I</p>
+<p begin="00:34:03.980" end="00:34:08.540" style="s2">really need him to move the couch so</p>
+<p begin="00:34:06.050" end="00:34:11.360" style="s2">this becomes a complex negotiation right</p>
+<p begin="00:34:08.540" end="00:34:14.000" style="s2">so that&#39;s this this is this part so we</p>
+<p begin="00:34:11.360" end="00:34:16.130" style="s2">got to figure out our needs and wants</p>
+<p begin="00:34:14.000" end="00:34:16.580" style="s2">and skills and resources but here&#39;s the</p>
+<p begin="00:34:16.130" end="00:34:19.970" style="s2">thing</p>
+<p begin="00:34:16.580" end="00:34:23.690" style="s2">in this negotiation I can see a whole</p>
+<p begin="00:34:19.970" end="00:34:26.300" style="s2">range of identities that might my</p>
+<p begin="00:34:23.690" end="00:34:28.670" style="s2">crystallize out of this do I want to be</p>
+<p begin="00:34:26.300" end="00:34:31.100" style="s2">you know the bitch that leverages him</p>
+<p begin="00:34:28.670" end="00:34:32.840" style="s2">well I did that for you last week and</p>
+<p begin="00:34:31.100" end="00:34:35.420" style="s2">blah blah blah or do I want to be the</p>
+<p begin="00:34:32.840" end="00:34:37.310" style="s2">petulant little victim that really needs</p>
+<p begin="00:34:35.420" end="00:34:39.650" style="s2">this help each he doesn&#39;t understand me</p>
+<p begin="00:34:37.310" end="00:34:42.950" style="s2">so that&#39;s always the third part when</p>
+<p begin="00:34:39.650" end="00:34:45.470" style="s2">we&#39;re negotiating we have our asymmetric</p>
+<p begin="00:34:42.950" end="00:34:47.360" style="s2">needs and wants skills and resources but</p>
+<p begin="00:34:45.470" end="00:34:50.000" style="s2">in the end it won&#39;t turn into</p>
+<p begin="00:34:47.360" end="00:34:54.080" style="s2">collaborative action if we can&#39;t settle</p>
+<p begin="00:34:50.000" end="00:34:55.820" style="s2">on an identity for each one of us and if</p>
+<p begin="00:34:54.080" end="00:34:58.760" style="s2">you&#39;re really honest with yourself</p>
+<p begin="00:34:55.820" end="00:35:02.930" style="s2">you&#39;ll see that in all your interactions</p>
+<p begin="00:34:58.760" end="00:35:04.430" style="s2">at work that aren&#39;t just unconscious</p>
+<p begin="00:35:02.930" end="00:35:07.880" style="s2">there&#39;s always this</p>
+<p begin="00:35:04.430" end="00:35:10.940" style="s2">third element Who am I Who am I going to</p>
+<p begin="00:35:07.880" end="00:35:13.760" style="s2">allow myself to be identified in this</p>
+<p begin="00:35:10.940" end="00:35:16.760" style="s2">relational space and so this notion of</p>
+<p begin="00:35:13.760" end="00:35:19.460" style="s2">that Third identity coming out is a</p>
+<p begin="00:35:16.760" end="00:35:24.260" style="s2">crucial part of learning how to</p>
+<p begin="00:35:19.460" end="00:35:30.260" style="s2">negotiate the power dynamics but what we</p>
+<p begin="00:35:24.260" end="00:35:32.930" style="s2">know is the less asymmetry in the power</p>
+<p begin="00:35:30.260" end="00:35:36.619" style="s2">dynamics then you can create more of</p>
+<p begin="00:35:32.930" end="00:35:42.650" style="s2">that more value through these higher</p>
+<p begin="00:35:36.619" end="00:35:44.589" style="s2">types of team performance so the the</p>
+<p begin="00:35:42.650" end="00:35:47.300" style="s2">point here is to allow for</p>
+<p begin="00:35:44.589" end="00:35:50.270" style="s2">self-organization to constantly turn</p>
+<p begin="00:35:47.300" end="00:35:53.750" style="s2">away those asymmetric needs and want</p>
+<p begin="00:35:50.270" end="00:35:56.270" style="s2">skills and resources so that the power</p>
+<p begin="00:35:53.750" end="00:35:59.420" style="s2">matrix grows from something that looks</p>
+<p begin="00:35:56.270" end="00:36:02.960" style="s2">like coercion up into something that</p>
+<p begin="00:35:59.420" end="00:36:05.170" style="s2">looks like synergy and co-creation so</p>
+<p begin="00:36:02.960" end="00:36:07.550" style="s2">the this is these are the ideas around</p>
+<p begin="00:36:05.170" end="00:36:11.569" style="s2">self-organization they&#39;re very robust</p>
+<p begin="00:36:07.550" end="00:36:14.569" style="s2">ideas they rely on simple protocols and</p>
+<p begin="00:36:11.569" end="00:36:17.240" style="s2">they&#39;re tested in practice for people</p>
+<p begin="00:36:14.569" end="00:36:20.000" style="s2">like yourself that are interested in</p>
+<p begin="00:36:17.240" end="00:36:26.890" style="s2">experimenting into new ways of</p>
+<p begin="00:36:20.000" end="00:36:26.890" style="s2">collaboration so that&#39;s it</p>
+<p begin="00:36:31.490" end="00:36:37.020" style="s2">thank you very much I will that slide</p>
+<p begin="00:36:34.140" end="00:36:39.150" style="s2">yeah just bring back home right away</p>
+<p begin="00:36:37.020" end="00:36:41.940" style="s2">yeah I&#39;ll use it when moving couches and</p>
+<p begin="00:36:39.150" end="00:36:43.380" style="s2">what have you we actually do have time</p>
+<p begin="00:36:41.940" end="00:36:45.960" style="s2">for questions</p>
+<p begin="00:36:43.380" end="00:36:48.359" style="s2">you also be joining the panel just after</p>
+<p begin="00:36:45.960" end="00:36:50.220" style="s2">lunch where we will have one very</p>
+<p begin="00:36:48.359" end="00:36:52.260" style="s2">interactive part so you can throw all</p>
+<p begin="00:36:50.220" end="00:36:54.540" style="s2">the questions you have for the for the</p>
+<p begin="00:36:52.260" end="00:36:58.500" style="s2">panelists but since we have a few</p>
+<p begin="00:36:54.540" end="00:37:01.619" style="s2">minutes we have a running microphone who</p>
+<p begin="00:36:58.500" end="00:37:03.770" style="s2">is now behind stage but questions for</p>
+<p begin="00:37:01.619" end="00:37:06.650" style="s2">Bonita</p>
+<p begin="00:37:03.770" end="00:37:11.690" style="s2">over here</p>
+<p begin="00:37:06.650" end="00:37:11.690" style="s2">Duma all right yeah please do</p>
+<p begin="00:37:25.580" end="00:37:31.710" style="s2">yeah that&#39;s a big question not I I do</p>
+<p begin="00:37:30.120" end="00:37:33.660" style="s2">have an opinion on it it&#39;s quite</p>
+<p begin="00:37:31.710" end="00:37:38.520" style="s2">provocative so I&#39;m trying to try to</p>
+<p begin="00:37:33.660" end="00:37:41.160" style="s2">answer in a headline um oh sorry okay so</p>
+<p begin="00:37:38.520" end="00:37:43.410" style="s2">the question has to do what does this</p>
+<p begin="00:37:41.160" end="00:37:45.300" style="s2">have to do with the whole notion of the</p>
+<p begin="00:37:43.410" end="00:37:46.890" style="s2">tragedy of the Commons and I think your</p>
+<p begin="00:37:45.300" end="00:37:48.930" style="s2">question is really on target because it</p>
+<p begin="00:37:46.890" end="00:37:51.750" style="s2">has a lot to do with the tragedy of the</p>
+<p begin="00:37:48.930" end="00:37:57.660" style="s2">Commons and I would say the piece really</p>
+<p begin="00:37:51.750" end="00:38:00.060" style="s2">is in well I mean it&#39;s in that triangle</p>
+<p begin="00:37:57.660" end="00:38:03.510" style="s2">it&#39;s how we are reacting when we&#39;re</p>
+<p begin="00:38:00.060" end="00:38:08.730" style="s2">sitting down and negotiating the Commons</p>
+<p begin="00:38:03.510" end="00:38:12.180" style="s2">and I think that what what I&#39;m saying is</p>
+<p begin="00:38:08.730" end="00:38:14.430" style="s2">that in general even people who would</p>
+<p begin="00:38:12.180" end="00:38:16.680" style="s2">vote for the Commons or want the Commons</p>
+<p begin="00:38:14.430" end="00:38:18.810" style="s2">are ideologically are for the Commons</p>
+<p begin="00:38:16.680" end="00:38:21.230" style="s2">they don&#39;t really understand their own</p>
+<p begin="00:38:18.810" end="00:38:24.360" style="s2">lived experience they may for example</p>
+<p begin="00:38:21.230" end="00:38:30.870" style="s2">give away their autonomy in that</p>
+<p begin="00:38:24.360" end="00:38:32.970" style="s2">negotiation so that&#39;s a that&#39;s the</p>
+<p begin="00:38:30.870" end="00:38:34.890" style="s2">shortest where you&#39;re going is a very</p>
+<p begin="00:38:32.970" end="00:38:37.950" style="s2">rich conversation I&#39;d love to have it</p>
+<p begin="00:38:34.890" end="00:38:40.080" style="s2">with you but but my work is all about</p>
+<p begin="00:38:37.950" end="00:38:41.640" style="s2">let&#39;s be honest how I&#39;m really</p>
+<p begin="00:38:40.080" end="00:38:44.400" style="s2">participating and what am I</p>
+<p begin="00:38:41.640" end="00:38:48.030" style="s2">participating with because to preserve</p>
+<p begin="00:38:44.400" end="00:38:52.140" style="s2">the Commons we have to be able to hook</p>
+<p begin="00:38:48.030" end="00:38:54.600" style="s2">up and be a gentle be doing things with</p>
+<p begin="00:38:52.140" end="00:38:56.940" style="s2">other people not just showing up oh</p>
+<p begin="00:38:54.600" end="00:39:00.330" style="s2">here&#39;s my identity I&#39;m a good person</p>
+<p begin="00:38:56.940" end="00:39:02.460" style="s2">goes rah rah rah the Commons right so we</p>
+<p begin="00:39:00.330" end="00:39:04.710" style="s2">can it so does that help answer your</p>
+<p begin="00:39:02.460" end="00:39:07.770" style="s2">question yeah yeah thanks for the</p>
+<p begin="00:39:04.710" end="00:39:11.180" style="s2">questions okay we&#39;ll do one more</p>
+<p begin="00:39:07.770" end="00:39:11.180" style="s2">question if here we go</p>
+<p begin="00:39:29.130" end="00:39:37.660" style="s2">yes so uh repeat okay so the question is</p>
+<p begin="00:39:33.550" end="00:39:40.000" style="s2">how does what how does how do I relate</p>
+<p begin="00:39:37.660" end="00:39:42.240" style="s2">to one people when people it is true</p>
+<p begin="00:39:40.000" end="00:39:45.580" style="s2">people could two people beings can</p>
+<p begin="00:39:42.240" end="00:39:48.250" style="s2">self-organize to create a dominant</p>
+<p begin="00:39:45.580" end="00:39:50.080" style="s2">structure so then he like then he like</p>
+<p begin="00:39:48.250" end="00:39:52.300" style="s2">pulled at my heartstrings because he</p>
+<p begin="00:39:50.080" end="00:39:54.730" style="s2">mentioned horses and and I really love</p>
+<p begin="00:39:52.300" end="00:39:57.250" style="s2">horses actually this is working with</p>
+<p begin="00:39:54.730" end="00:40:02.080" style="s2">horses and training horses was been part</p>
+<p begin="00:39:57.250" end="00:40:06.130" style="s2">of this question so we we again I think</p>
+<p begin="00:40:02.080" end="00:40:08.650" style="s2">that it requires both individuals to</p>
+<p begin="00:40:06.130" end="00:40:13.330" style="s2">show up in hell in a very healthy way so</p>
+<p begin="00:40:08.650" end="00:40:14.560" style="s2">for example one of the problems that we</p>
+<p begin="00:40:13.330" end="00:40:16.240" style="s2">see and then I&#39;ll get to answer your</p>
+<p begin="00:40:14.560" end="00:40:18.670" style="s2">question but one of the one of the</p>
+<p begin="00:40:16.240" end="00:40:21.340" style="s2">things we don&#39;t focus enough on in self</p>
+<p begin="00:40:18.670" end="00:40:23.980" style="s2">organization is that we focus a lot on</p>
+<p begin="00:40:21.340" end="00:40:25.870" style="s2">dominance who&#39;s dominating who but we</p>
+<p begin="00:40:23.980" end="00:40:30.460" style="s2">don&#39;t focus on our own needs and wants</p>
+<p begin="00:40:25.870" end="00:40:32.980" style="s2">which reduces my so I can come into a</p>
+<p begin="00:40:30.460" end="00:40:34.810" style="s2">situation let&#39;s say my manager is</p>
+<p begin="00:40:32.980" end="00:40:37.540" style="s2">actually neutral on something but if I</p>
+<p begin="00:40:34.810" end="00:40:39.790" style="s2">have so many needs and want I&#39;m going to</p>
+<p begin="00:40:37.540" end="00:40:42.160" style="s2">show up in a certain way that he might</p>
+<p begin="00:40:39.790" end="00:40:45.250" style="s2">just say no and then I&#39;ll go back and</p>
+<p begin="00:40:42.160" end="00:40:47.890" style="s2">I&#39;ll feel dominated right and I feel</p>
+<p begin="00:40:45.250" end="00:40:49.810" style="s2">dominated not only because I didn&#39;t have</p>
+<p begin="00:40:47.890" end="00:40:53.130" style="s2">skills and resources not only because of</p>
+<p begin="00:40:49.810" end="00:40:55.780" style="s2">the pout the skills or power resource</p>
+<p begin="00:40:53.130" end="00:40:58.660" style="s2">asymmetry but because I had too many</p>
+<p begin="00:40:55.780" end="00:41:02.470" style="s2">needs and wants right and and so that</p>
+<p begin="00:40:58.660" end="00:41:04.180" style="s2">that creates so in terms of horses when</p>
+<p begin="00:41:02.470" end="00:41:07.630" style="s2">I work with horses this is exactly the</p>
+<p begin="00:41:04.180" end="00:41:11.890" style="s2">kinds of ways I start understand this so</p>
+<p begin="00:41:07.630" end="00:41:14.230" style="s2">in the mantra that I do in the horse</p>
+<p begin="00:41:11.890" end="00:41:18.100" style="s2">workshops is we don&#39;t want to be</p>
+<p begin="00:41:14.230" end="00:41:20.590" style="s2">dominated or be dominators in general</p>
+<p begin="00:41:18.100" end="00:41:23.230" style="s2">that&#39;s a psychopathology but we want to</p>
+<p begin="00:41:20.590" end="00:41:27.550" style="s2">be leaders right so in the horse world</p>
+<p begin="00:41:23.230" end="00:41:28.840" style="s2">we say I&#39;m going to shape the horse&#39;s</p>
+<p begin="00:41:27.550" end="00:41:31.310" style="s2">character I have that responsibility</p>
+<p begin="00:41:28.840" end="00:41:33.650" style="s2">they have to live in the human world</p>
+<p begin="00:41:31.310" end="00:41:35.330" style="s2">but the horse is going to shape my</p>
+<p begin="00:41:33.650" end="00:41:37.820" style="s2">leadership because he&#39;s always going to</p>
+<p begin="00:41:35.330" end="00:41:40.610" style="s2">be testing me and so you have to allow</p>
+<p begin="00:41:37.820" end="00:41:42.740" style="s2">that in that part of the other equation</p>
+<p begin="00:41:40.610" end="00:41:46.640" style="s2">in so instead of me when I feel</p>
+<p begin="00:41:42.740" end="00:41:48.260" style="s2">challenged pushing down then I say I</p>
+<p begin="00:41:46.640" end="00:41:50.990" style="s2">want to help that&#39;s going to help me</p>
+<p begin="00:41:48.260" end="00:41:53.240" style="s2">rise up and then the horse rises up and</p>
+<p begin="00:41:50.990" end="00:41:56.030" style="s2">then the leader rides up and the horses</p>
+<p begin="00:41:53.240" end="00:41:58.970" style="s2">write up now in the human world and</p>
+<p begin="00:41:56.030" end="00:42:03.560" style="s2">sometimes it&#39;ll reverse and part of that</p>
+<p begin="00:41:58.970" end="00:42:06.410" style="s2">part of being relationally being better</p>
+<p begin="00:42:03.560" end="00:42:09.470" style="s2">at being relational has to do when we do</p>
+<p begin="00:42:06.410" end="00:42:12.020" style="s2">the exercise how many relation on about</p>
+<p begin="00:42:09.470" end="00:42:14.060" style="s2">can I always be nice but having a lot of</p>
+<p begin="00:42:12.020" end="00:42:16.760" style="s2">relational intelligence is how many</p>
+<p begin="00:42:14.060" end="00:42:18.980" style="s2">types of relations can I be involved in</p>
+<p begin="00:42:16.760" end="00:42:21.530" style="s2">in my group can I be a leader can I be a</p>
+<p begin="00:42:18.980" end="00:42:23.990" style="s2">follower can I be against someone can I</p>
+<p begin="00:42:21.530" end="00:42:26.270" style="s2">be with someone can I be sucide someone</p>
+<p begin="00:42:23.990" end="00:42:29.090" style="s2">can I be ahead of someone can I be way</p>
+<p begin="00:42:26.270" end="00:42:30.770" style="s2">behind someone and most people will see</p>
+<p begin="00:42:29.090" end="00:42:33.230" style="s2">some of those things as negative I don&#39;t</p>
+<p begin="00:42:30.770" end="00:42:36.290" style="s2">want to be behind and some is positive</p>
+<p begin="00:42:33.230" end="00:42:38.750" style="s2">or vice versa and so the relational</p>
+<p begin="00:42:36.290" end="00:42:41.600" style="s2">aspect of the work is how many different</p>
+<p begin="00:42:38.750" end="00:42:43.190" style="s2">types of relations can I be in with many</p>
+<p begin="00:42:41.600" end="00:42:45.970" style="s2">different people and that makes the</p>
+<p begin="00:42:43.190" end="00:42:48.980" style="s2">environment more rich and complex so</p>
+<p begin="00:42:45.970" end="00:42:51.920" style="s2">that&#39;s part of the teaching on that it&#39;s</p>
+<p begin="00:42:48.980" end="00:42:54.290" style="s2">a another big question okay thank you</p>
+<p begin="00:42:51.920" end="00:42:59.120" style="s2">very much all right thank you very much</p>
+<p begin="00:42:54.290" end="00:43:03.770" style="s2">Bonita there&#39;s some some gifts and</p>
+<p begin="00:42:59.120" end="00:43:05.690" style="s2">chocolate and you tend to get big</p>
+<p begin="00:43:03.770" end="00:43:06.860" style="s2">questions you&#39;ll do is you&#39;ll be doing</p>
+<p begin="00:43:05.690" end="00:43:10.010" style="s2">some work shopping tomorrow</p>
+<p begin="00:43:06.860" end="00:43:11.810" style="s2">yeah and and it&#39;ll be it&#39;ll be very</p>
+<p begin="00:43:10.010" end="00:43:14.750" style="s2">dynamic we&#39;re gonna do some Tai Chi and</p>
+<p begin="00:43:11.810" end="00:43:17.240" style="s2">push hands and really notice what our</p>
+<p begin="00:43:14.750" end="00:43:20.210" style="s2">power leaks and our power grabs are and</p>
+<p begin="00:43:17.240" end="00:43:22.190" style="s2">some of it will be disturbing and some</p>
+<p begin="00:43:20.210" end="00:43:24.880" style="s2">of it we and all of it we can be very</p>
+<p begin="00:43:22.190" end="00:43:26.060" style="s2">proud of it and most of it will be fun</p>
+<p begin="00:43:24.880" end="00:43:27.920" style="s2">okay</p>
+<p begin="00:43:26.060" end="00:43:30.400" style="s2">so fun and disturbing it sounds like a</p>
+<p begin="00:43:27.920" end="00:43:30.400" style="s2">good treat</p>
+<p begin="00:43:40.690" end="00:43:46.940" style="s2">thank you for that thank you thank you</p>
+<p begin="00:43:43.790" end="00:43:49.730" style="s2">perfect thanks our job all go ha job</p>
+<p begin="00:43:46.940" end="00:43:53.869" style="s2">people thank you very much money time so</p>
+<p begin="00:43:49.730" end="00:43:53.869" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

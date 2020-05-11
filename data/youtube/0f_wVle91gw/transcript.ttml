@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:04.850" style="s2">so recently I found myself thinking</p>
+<p begin="00:00:02.580" end="00:00:08.220" style="s2">about the question of net neutrality and</p>
+<p begin="00:00:04.850" end="00:00:09.990" style="s2">in thinking about this I was reminded of</p>
+<p begin="00:00:08.220" end="00:00:13.530" style="s2">a distinction that I first encountered</p>
+<p begin="00:00:09.990" end="00:00:17.779" style="s2">gosh maybe 20 years ago from Larry</p>
+<p begin="00:00:13.530" end="00:00:21.240" style="s2">Lessig between different ways that human</p>
+<p begin="00:00:17.779" end="00:00:23.789" style="s2">societies can go about constructing how</p>
+<p begin="00:00:21.240" end="00:00:25.590" style="s2">we do things together</p>
+<p begin="00:00:23.789" end="00:00:29.250" style="s2">specifically the distinction is between</p>
+<p begin="00:00:25.590" end="00:00:30.869" style="s2">laws norms and code so first I just lay</p>
+<p begin="00:00:29.250" end="00:00:32.219" style="s2">out that distinction is and then maybe</p>
+<p begin="00:00:30.869" end="00:00:34.530" style="s2">do a little bit of thinking about how it</p>
+<p begin="00:00:32.219" end="00:00:41.190" style="s2">can be applied this question of net</p>
+<p begin="00:00:34.530" end="00:00:42.960" style="s2">neutrality so so norms are the baseline</p>
+<p begin="00:00:41.190" end="00:00:44.910" style="s2">in many ways they&#39;re the the base</p>
+<p begin="00:00:42.960" end="00:00:48.660" style="s2">mechanism the human society is used to</p>
+<p begin="00:00:44.910" end="00:00:51.840" style="s2">condition the behavior of of members you</p>
+<p begin="00:00:48.660" end="00:00:55.110" style="s2">norm might be don&#39;t speak too loudly</p>
+<p begin="00:00:51.840" end="00:00:58.980" style="s2">when you&#39;re in a public place or a norm</p>
+<p begin="00:00:55.110" end="00:01:01.350" style="s2">might be you know always wear clothes</p>
+<p begin="00:00:58.980" end="00:01:03.500" style="s2">things like that and the basic idea is</p>
+<p begin="00:01:01.350" end="00:01:06.869" style="s2">that human beings are very sensitive for</p>
+<p begin="00:01:03.500" end="00:01:10.439" style="s2">obvious long term Aboriginal tribal</p>
+<p begin="00:01:06.869" end="00:01:12.330" style="s2">reasons to the the social esteem or</p>
+<p begin="00:01:10.439" end="00:01:15.360" style="s2">social censure of other members of the</p>
+<p begin="00:01:12.330" end="00:01:18.299" style="s2">tribe and so when we go about doing</p>
+<p begin="00:01:15.360" end="00:01:21.630" style="s2">things that are in violation of social</p>
+<p begin="00:01:18.299" end="00:01:24.229" style="s2">norms we receive some kind of social</p>
+<p begin="00:01:21.630" end="00:01:26.729" style="s2">Center and that inhibits our behavior</p>
+<p begin="00:01:24.229" end="00:01:28.590" style="s2">shame is actually an aspect of this</p>
+<p begin="00:01:26.729" end="00:01:33.030" style="s2">mechanic</p>
+<p begin="00:01:28.590" end="00:01:34.920" style="s2">and it as a consequence by the way norms</p>
+<p begin="00:01:33.030" end="00:01:37.590" style="s2">show up is a very powerful mechanism for</p>
+<p begin="00:01:34.920" end="00:01:39.600" style="s2">social behavioral management in small</p>
+<p begin="00:01:37.590" end="00:01:41.640" style="s2">tight-knit communities if we all grow up</p>
+<p begin="00:01:39.600" end="00:01:42.930" style="s2">in the same place we all grow up</p>
+<p begin="00:01:41.640" end="00:01:46.229" style="s2">together we all grow up sharing the same</p>
+<p begin="00:01:42.930" end="00:01:47.369" style="s2">norms on the one hand everybody more or</p>
+<p begin="00:01:46.229" end="00:01:49.470" style="s2">less understands what those norms are</p>
+<p begin="00:01:47.369" end="00:01:52.530" style="s2">and on the other hand people have more</p>
+<p begin="00:01:49.470" end="00:01:54.060" style="s2">agency in enforcing the norms and so as</p>
+<p begin="00:01:52.530" end="00:01:56.430" style="s2">a consequence the norms work out pretty</p>
+<p begin="00:01:54.060" end="00:01:58.409" style="s2">well whereas by contrast if we&#39;re in an</p>
+<p begin="00:01:56.430" end="00:01:59.880" style="s2">environment where let&#39;s say a very large</p>
+<p begin="00:01:58.409" end="00:02:02.969" style="s2">cosmopolitan city with a very</p>
+<p begin="00:01:59.880" end="00:02:05.159" style="s2">heterogeneous group of people I don&#39;t</p>
+<p begin="00:02:02.969" end="00:02:07.170" style="s2">want to flow through it where it&#39;s not</p>
+<p begin="00:02:05.159" end="00:02:08.879" style="s2">obvious that any person who you interact</p>
+<p begin="00:02:07.170" end="00:02:12.239" style="s2">with me even share the norms that you</p>
+<p begin="00:02:08.879" end="00:02:13.250" style="s2">have norms and being vastly less</p>
+<p begin="00:02:12.239" end="00:02:14.330" style="s2">important and</p>
+<p begin="00:02:13.250" end="00:02:16.610" style="s2">conditioning behavior there&#39;s still a</p>
+<p begin="00:02:14.330" end="00:02:18.710" style="s2">baseline of norms constantly but they</p>
+<p begin="00:02:16.610" end="00:02:21.260" style="s2">cover a much larger percentage of human</p>
+<p begin="00:02:18.710" end="00:02:23.270" style="s2">behaviors and for good and for ill I</p>
+<p begin="00:02:21.260" end="00:02:26.660" style="s2">mean there&#39;s whole critiques of small</p>
+<p begin="00:02:23.270" end="00:02:29.060" style="s2">towns and how it&#39;s low they can be and</p>
+<p begin="00:02:26.660" end="00:02:31.060" style="s2">then we come to loss so in the case of a</p>
+<p begin="00:02:29.060" end="00:02:33.950" style="s2">law we&#39;re looking at something which is</p>
+<p begin="00:02:31.060" end="00:02:36.220" style="s2">in some sense a relatively modern</p>
+<p begin="00:02:33.950" end="00:02:38.090" style="s2">invention we&#39;ve been doing norms for</p>
+<p begin="00:02:36.220" end="00:02:39.980" style="s2">hundreds of thousands of years probably</p>
+<p begin="00:02:38.090" end="00:02:42.920" style="s2">actually more in the direction of small</p>
+<p begin="00:02:39.980" end="00:02:43.970" style="s2">digit millions you know laws we even</p>
+<p begin="00:02:42.920" end="00:02:46.070" style="s2">have an identification</p>
+<p begin="00:02:43.970" end="00:02:48.650" style="s2">Hammurabi&#39;s code the notion of creating</p>
+<p begin="00:02:46.070" end="00:02:51.739" style="s2">explicit code and in specific</p>
+<p begin="00:02:48.650" end="00:02:55.370" style="s2">enforcement mechanisms to again</p>
+<p begin="00:02:51.739" end="00:03:00.530" style="s2">condition human behavior and and I would</p>
+<p begin="00:02:55.370" end="00:03:02.930" style="s2">suggest that I guess Rome which was well</p>
+<p begin="00:03:00.530" end="00:03:04.100" style="s2">known for its explicit laws by sanity</p>
+<p begin="00:03:02.930" end="00:03:07.370" style="s2">and which is well known for its explicit</p>
+<p begin="00:03:04.100" end="00:03:10.220" style="s2">laws and then the modern era the</p>
+<p begin="00:03:07.370" end="00:03:12.920" style="s2">emergence of Republic&#39;s Constitution</p>
+<p begin="00:03:10.220" end="00:03:15.010" style="s2">Republic&#39;s which are founded on a</p>
+<p begin="00:03:12.920" end="00:03:17.120" style="s2">founding document in the domain of law</p>
+<p begin="00:03:15.010" end="00:03:20.930" style="s2">are some of the characteristics</p>
+<p begin="00:03:17.120" end="00:03:25.160" style="s2">societies where law has been central and</p>
+<p begin="00:03:20.930" end="00:03:26.750" style="s2">crucial and so laws as a situation where</p>
+<p begin="00:03:25.160" end="00:03:29.320" style="s2">there is some some explicit articulation</p>
+<p begin="00:03:26.750" end="00:03:31.730" style="s2">of what is appropriate behavior and some</p>
+<p begin="00:03:29.320" end="00:03:33.830" style="s2">mechanism for evaluating whether or not</p>
+<p begin="00:03:31.730" end="00:03:35.890" style="s2">somebody&#39;s violated the law and then</p>
+<p begin="00:03:33.830" end="00:03:37.610" style="s2">enforce it against those violations</p>
+<p begin="00:03:35.890" end="00:03:39.440" style="s2">pretty straightforward I think we&#39;re all</p>
+<p begin="00:03:37.610" end="00:03:42.530" style="s2">pretty familiar with that that modality</p>
+<p begin="00:03:39.440" end="00:03:44.299" style="s2">and if we extend that to include</p>
+<p begin="00:03:42.530" end="00:03:46.880" style="s2">regulatory agencies which i think is</p>
+<p begin="00:03:44.299" end="00:03:48.440" style="s2">necessary then we can say that the the</p>
+<p begin="00:03:46.880" end="00:03:50.570" style="s2">20th century I think it&#39;s been the</p>
+<p begin="00:03:48.440" end="00:03:52.400" style="s2">high-water mark of both the the</p>
+<p begin="00:03:50.570" end="00:03:55.730" style="s2">presentation of the penetration of law</p>
+<p begin="00:03:52.400" end="00:03:58.220" style="s2">into social life and it&#39;s sort of</p>
+<p begin="00:03:55.730" end="00:04:00.110" style="s2">specificity and nuance so with with the</p>
+<p begin="00:03:58.220" end="00:04:04.040" style="s2">ability to use regulation and regulatory</p>
+<p begin="00:04:00.110" end="00:04:06.170" style="s2">agencies we developed a you know quite</p>
+<p begin="00:04:04.040" end="00:04:08.930" style="s2">robust capacity for law to modulate</p>
+<p begin="00:04:06.170" end="00:04:11.150" style="s2">human behavior and again for good and</p>
+<p begin="00:04:08.930" end="00:04:13.090" style="s2">thrill and it has certainly succeeded in</p>
+<p begin="00:04:11.150" end="00:04:14.750" style="s2">certain ways and failed in other ways</p>
+<p begin="00:04:13.090" end="00:04:17.329" style="s2">which then brings us to the third</p>
+<p begin="00:04:14.750" end="00:04:20.600" style="s2">category now the third category is code</p>
+<p begin="00:04:17.329" end="00:04:23.960" style="s2">now code is omnipresent in the form of</p>
+<p begin="00:04:20.600" end="00:04:25.460" style="s2">the laws of nature so that which goes up</p>
+<p begin="00:04:23.960" end="00:04:26.960" style="s2">must come down as a nice</p>
+<p begin="00:04:25.460" end="00:04:30.800" style="s2">pithy example of code</p>
+<p begin="00:04:26.960" end="00:04:33.020" style="s2">and it shows up also in human design so</p>
+<p begin="00:04:30.800" end="00:04:35.120" style="s2">the way that we say design our urban</p>
+<p begin="00:04:33.020" end="00:04:38.870" style="s2">environments if there simply is not a</p>
+<p begin="00:04:35.120" end="00:04:40.400" style="s2">road here then driving here is if not</p>
+<p begin="00:04:38.870" end="00:04:42.680" style="s2">impossible it least difficult if there&#39;s</p>
+<p begin="00:04:40.400" end="00:04:46.490" style="s2">not a bridge then crossing the canyon</p>
+<p begin="00:04:42.680" end="00:04:48.940" style="s2">has certain conditions so oftentimes we</p>
+<p begin="00:04:46.490" end="00:04:53.750" style="s2">will perceive code is showing up in</p>
+<p begin="00:04:48.940" end="00:04:57.620" style="s2">biological or in architectural</p>
+<p begin="00:04:53.750" end="00:04:59.810" style="s2">constraints most for most of history and</p>
+<p begin="00:04:57.620" end="00:05:01.070" style="s2">sometimes it in fact is I think what</p>
+<p begin="00:04:59.810" end="00:05:03.289" style="s2">that&#39;s it you had to make it explicit</p>
+<p begin="00:05:01.070" end="00:05:05.660" style="s2">is simply implicit that we just accept</p>
+<p begin="00:05:03.289" end="00:05:07.280" style="s2">code as being well again the laws of</p>
+<p begin="00:05:05.660" end="00:05:09.020" style="s2">nature the context in which laws and</p>
+<p begin="00:05:07.280" end="00:05:12.410" style="s2">norms play out but his point is that</p>
+<p begin="00:05:09.020" end="00:05:16.130" style="s2">we&#39;ve now entered into an era where we</p>
+<p begin="00:05:12.410" end="00:05:17.990" style="s2">have enough power and we live in such a</p>
+<p begin="00:05:16.130" end="00:05:19.729" style="s2">not just a built environment but a</p>
+<p begin="00:05:17.990" end="00:05:22.430" style="s2">fluidly built environment in the context</p>
+<p begin="00:05:19.729" end="00:05:25.970" style="s2">particular of software that code is now</p>
+<p begin="00:05:22.430" end="00:05:27.830" style="s2">coming into its own and so it&#39;s kind of</p>
+<p begin="00:05:25.970" end="00:05:30.009" style="s2">just put it in context by giving you a</p>
+<p begin="00:05:27.830" end="00:05:32.330" style="s2">simple example that includes all three</p>
+<p begin="00:05:30.009" end="00:05:35.240" style="s2">let&#39;s say that that that there is a</p>
+<p begin="00:05:32.330" end="00:05:38.509" style="s2">sense or a choice or a shared sentiment</p>
+<p begin="00:05:35.240" end="00:05:40.909" style="s2">that it turns out that if you park a car</p>
+<p begin="00:05:38.509" end="00:05:42.800" style="s2">on a hill if you don&#39;t park the wheels</p>
+<p begin="00:05:40.909" end="00:05:44.300" style="s2">point in the right way sometimes the car</p>
+<p begin="00:05:42.800" end="00:05:46.490" style="s2">will roll down the hill to disastrous</p>
+<p begin="00:05:44.300" end="00:05:48.139" style="s2">consequences and so we&#39;ve decided that</p>
+<p begin="00:05:46.490" end="00:05:49.639" style="s2">it&#39;s a good idea to park your wheels a</p>
+<p begin="00:05:48.139" end="00:05:51.889" style="s2">certain movie park a car on a hill in</p>
+<p begin="00:05:49.639" end="00:05:54.889" style="s2">the land of norms this will show up as</p>
+<p begin="00:05:51.889" end="00:05:57.199" style="s2">it is just what you do and to violate</p>
+<p begin="00:05:54.889" end="00:05:58.669" style="s2">that norm will involve other people</p>
+<p begin="00:05:57.199" end="00:06:00.680" style="s2">sending you social signals that you&#39;ve</p>
+<p begin="00:05:58.669" end="00:06:03.560" style="s2">done something wrong icky disgusting bad</p>
+<p begin="00:06:00.680" end="00:06:05.300" style="s2">maybe they put a flier underneath your</p>
+<p begin="00:06:03.560" end="00:06:06.289" style="s2">windshield wiper telling you that you&#39;re</p>
+<p begin="00:06:05.300" end="00:06:08.840" style="s2">doing bad things and they just keep it</p>
+<p begin="00:06:06.289" end="00:06:10.699" style="s2">dirty looks or whatever and all that of</p>
+<p begin="00:06:08.840" end="00:06:11.810" style="s2">norms this social feedback would be</p>
+<p begin="00:06:10.699" end="00:06:13.000" style="s2">enough to condition your behavior and</p>
+<p begin="00:06:11.810" end="00:06:15.320" style="s2">everybody would do the right thing</p>
+<p begin="00:06:13.000" end="00:06:16.280" style="s2">obviously in the modern driver we&#39;re all</p>
+<p begin="00:06:15.320" end="00:06:18.650" style="s2">familiar with the fact that this is</p>
+<p begin="00:06:16.280" end="00:06:19.849" style="s2">against the law in most places and so in</p>
+<p begin="00:06:18.650" end="00:06:21.229" style="s2">this case what ends up happening is that</p>
+<p begin="00:06:19.849" end="00:06:22.849" style="s2">first there&#39;s a law that you must do</p>
+<p begin="00:06:21.229" end="00:06:24.979" style="s2">this is codified in some fashion and</p>
+<p begin="00:06:22.849" end="00:06:27.020" style="s2">then if you fail to do it</p>
+<p begin="00:06:24.979" end="00:06:28.219" style="s2">the police are empowered to put the</p>
+<p begin="00:06:27.020" end="00:06:29.840" style="s2">piece of paper under your wig joke in</p>
+<p begin="00:06:28.219" end="00:06:31.430" style="s2">this case in the form of a ticket and it</p>
+<p begin="00:06:29.840" end="00:06:33.860" style="s2">comes associated not with dirty looks</p>
+<p begin="00:06:31.430" end="00:06:37.210" style="s2">but some kind of fine or possibly even</p>
+<p begin="00:06:33.860" end="00:06:39.430" style="s2">potentially jail time some sort of</p>
+<p begin="00:06:37.210" end="00:06:40.600" style="s2">forcement mechanism that is designed to</p>
+<p begin="00:06:39.430" end="00:06:44.889" style="s2">make it so that you make the mental</p>
+<p begin="00:06:40.600" end="00:06:46.300" style="s2">calculus of well it&#39;s more costly to run</p>
+<p begin="00:06:44.889" end="00:06:48.160" style="s2">the risk of getting caught and being</p>
+<p begin="00:06:46.300" end="00:06:49.479" style="s2">enforced against than it is to just do</p>
+<p begin="00:06:48.160" end="00:06:51.009" style="s2">the thing that the loss tells me to do</p>
+<p begin="00:06:49.479" end="00:06:52.330" style="s2">and so generally speaking everybody</p>
+<p begin="00:06:51.009" end="00:06:54.639" style="s2">chooses to do that through the law as</p>
+<p begin="00:06:52.330" end="00:06:59.889" style="s2">you do so it&#39;s a kind of a utilitarian</p>
+<p begin="00:06:54.639" end="00:07:01.960" style="s2">calculus Oliver Wendell Holmes model but</p>
+<p begin="00:06:59.889" end="00:07:03.009" style="s2">then you have code so in the code case</p>
+<p begin="00:07:01.960" end="00:07:05.889" style="s2">what ends up happening is you could</p>
+<p begin="00:07:03.009" end="00:07:08.349" style="s2">imagine say you have a Tesla car that</p>
+<p begin="00:07:05.889" end="00:07:10.810" style="s2">has a software control structure in it</p>
+<p begin="00:07:08.349" end="00:07:13.150" style="s2">some pretty robust AI and there&#39;s just a</p>
+<p begin="00:07:10.810" end="00:07:15.160" style="s2">code update that causes the car itself</p>
+<p begin="00:07:13.150" end="00:07:17.830" style="s2">by itself that when it finds itself</p>
+<p begin="00:07:15.160" end="00:07:20.530" style="s2">parked on a hill to turn the wheels the</p>
+<p begin="00:07:17.830" end="00:07:23.650" style="s2">right way so what&#39;s notable about code</p>
+<p begin="00:07:20.530" end="00:07:26.320" style="s2">is that on the one hand it has this</p>
+<p begin="00:07:23.650" end="00:07:28.419" style="s2">sensibility of ease that we don&#39;t have</p>
+<p begin="00:07:26.320" end="00:07:29.919" style="s2">to deal with enforcement we don&#39;t have</p>
+<p begin="00:07:28.419" end="00:07:32.500" style="s2">to deal with compliance it just it just</p>
+<p begin="00:07:29.919" end="00:07:33.729" style="s2">is just is the way that it is and so on</p>
+<p begin="00:07:32.500" end="00:07:36.580" style="s2">the one hand it&#39;s nice it&#39;s very very</p>
+<p begin="00:07:33.729" end="00:07:39.759" style="s2">easy on the other hand of course it is a</p>
+<p begin="00:07:36.580" end="00:07:41.650" style="s2">form of tyranny that is never really</p>
+<p begin="00:07:39.759" end="00:07:46.330" style="s2">ever going to show up in the lands of</p>
+<p begin="00:07:41.650" end="00:07:48.550" style="s2">laws or norms to to route around code</p>
+<p begin="00:07:46.330" end="00:07:49.990" style="s2">actually requires an enormous amount of</p>
+<p begin="00:07:48.550" end="00:07:51.849" style="s2">capacity you literally have to be able</p>
+<p begin="00:07:49.990" end="00:07:54.039" style="s2">to hack the software in your car to of</p>
+<p begin="00:07:51.849" end="00:07:56.469" style="s2">what this thing happening and so as</p>
+<p begin="00:07:54.039" end="00:08:00.039" style="s2">we&#39;re entering into the into the era of</p>
+<p begin="00:07:56.469" end="00:08:01.750" style="s2">code it is now crucial be mindful again</p>
+<p begin="00:08:00.039" end="00:08:04.960" style="s2">of the fate of the difference between</p>
+<p begin="00:08:01.750" end="00:08:06.699" style="s2">code or law and norms and the difference</p>
+<p begin="00:08:04.960" end="00:08:08.199" style="s2">in potential the different kinds of</p>
+<p begin="00:08:06.699" end="00:08:10.840" style="s2">things that we can do this simply cannot</p>
+<p begin="00:08:08.199" end="00:08:13.060" style="s2">be done at all in the world of laws or</p>
+<p begin="00:08:10.840" end="00:08:16.000" style="s2">norms and also the pitfalls the things</p>
+<p begin="00:08:13.060" end="00:08:17.830" style="s2">that happen when we are not careful Joe</p>
+<p begin="00:08:16.000" end="00:08:19.960" style="s2">Edelman for example has written</p>
+<p begin="00:08:17.830" end="00:08:21.729" style="s2">extensively on the degree to which we</p>
+<p begin="00:08:19.960" end="00:08:24.610" style="s2">are already very much known in the world</p>
+<p begin="00:08:21.729" end="00:08:26.169" style="s2">of code say for example in the ways that</p>
+<p begin="00:08:24.610" end="00:08:27.909" style="s2">we can interact as a consequence of the</p>
+<p begin="00:08:26.169" end="00:08:30.520" style="s2">architectural choices that were made by</p>
+<p begin="00:08:27.909" end="00:08:33.159" style="s2">designers living far away in the social</p>
+<p begin="00:08:30.520" end="00:08:34.959" style="s2">media structures or the you know the</p>
+<p begin="00:08:33.159" end="00:08:38.800" style="s2">phone app structures that we interact</p>
+<p begin="00:08:34.959" end="00:08:41.469" style="s2">with you know if you&#39;re if your app only</p>
+<p begin="00:08:38.800" end="00:08:43.060" style="s2">has comes up thumbs down then that just</p>
+<p begin="00:08:41.469" end="00:08:45.550" style="s2">constrains your behavior regardless of</p>
+<p begin="00:08:43.060" end="00:08:48.060" style="s2">your choice and very effectively I</p>
+<p begin="00:08:45.550" end="00:08:49.110" style="s2">should add</p>
+<p begin="00:08:48.060" end="00:08:51.810" style="s2">so then let&#39;s think about this in the</p>
+<p begin="00:08:49.110" end="00:08:53.910" style="s2">context of net neutrality on the one</p>
+<p begin="00:08:51.810" end="00:08:57.300" style="s2">hand recently there&#39;s been a major</p>
+<p begin="00:08:53.910" end="00:08:59.880" style="s2">change in the state of the law and I</p>
+<p begin="00:08:57.300" end="00:09:03.779" style="s2">noticed for example that that hooks up</p>
+<p begin="00:08:59.880" end="00:09:08.040" style="s2">with the AT&amp;T corporation overtly called</p>
+<p begin="00:09:03.779" end="00:09:10.020" style="s2">on the Senate or Congress to formally</p>
+<p begin="00:09:08.040" end="00:09:11.850" style="s2">reregulate net neutrality to pull it out</p>
+<p begin="00:09:10.020" end="00:09:14.730" style="s2">of the hands of a regulatory agency and</p>
+<p begin="00:09:11.850" end="00:09:17.790" style="s2">codify it more fundamentally in the form</p>
+<p begin="00:09:14.730" end="00:09:20.750" style="s2">of law and you know this was the event</p>
+<p begin="00:09:17.790" end="00:09:24.660" style="s2">that brought this distinction to my mind</p>
+<p begin="00:09:20.750" end="00:09:26.960" style="s2">because honestly I sort of aesthetically</p>
+<p begin="00:09:24.660" end="00:09:31.680" style="s2">felt it was a little bit old-fashioned</p>
+<p begin="00:09:26.960" end="00:09:35.839" style="s2">to imagine that Congress and legislative</p>
+<p begin="00:09:31.680" end="00:09:38.970" style="s2">lawmaking is appropriate capable</p>
+<p begin="00:09:35.839" end="00:09:42.690" style="s2">effective in an attempted to solve this</p>
+<p begin="00:09:38.970" end="00:09:44.850" style="s2">problem and that it seems to me just</p>
+<p begin="00:09:42.690" end="00:09:47.880" style="s2">sort of intuitively that perhaps we</p>
+<p begin="00:09:44.850" end="00:09:50.730" style="s2">should more closely consider code as the</p>
+<p begin="00:09:47.880" end="00:09:53.010" style="s2">modality that is right here and how do</p>
+<p begin="00:09:50.730" end="00:09:54.780" style="s2">we do that so for example the code</p>
+<p begin="00:09:53.010" end="00:09:57.930" style="s2">approach would not be along the lines of</p>
+<p begin="00:09:54.780" end="00:10:00.450" style="s2">let&#39;s decide what good behavior is and</p>
+<p begin="00:09:57.930" end="00:10:03.540" style="s2">then and then regulate or articulate</p>
+<p begin="00:10:00.450" end="00:10:06.150" style="s2">that in some language well particularly</p>
+<p begin="00:10:03.540" end="00:10:08.339" style="s2">that in a law but rather how do we</p>
+<p begin="00:10:06.150" end="00:10:10.980" style="s2">actually design it into the architecture</p>
+<p begin="00:10:08.339" end="00:10:16.620" style="s2">itself so for example one could imagine</p>
+<p begin="00:10:10.980" end="00:10:18.810" style="s2">code in the net neutrality by creating a</p>
+<p begin="00:10:16.620" end="00:10:21.830" style="s2">very very decentralized physical</p>
+<p begin="00:10:18.810" end="00:10:25.860" style="s2">Internet where it would become</p>
+<p begin="00:10:21.830" end="00:10:30.330" style="s2">impossible for anyone to force people to</p>
+<p begin="00:10:25.860" end="00:10:32.280" style="s2">constrain their speech in some important</p>
+<p begin="00:10:30.330" end="00:10:33.959" style="s2">way just because the ability to route</p>
+<p begin="00:10:32.280" end="00:10:35.280" style="s2">around that kind of censorship in the</p>
+<p begin="00:10:33.959" end="00:10:37.290" style="s2">ability to route around that kind of</p>
+<p begin="00:10:35.280" end="00:10:38.730" style="s2">friction would just be intrinsically so</p>
+<p begin="00:10:37.290" end="00:10:40.980" style="s2">high because of the nature of the way</p>
+<p begin="00:10:38.730" end="00:10:42.870" style="s2">the network itself was architected that</p>
+<p begin="00:10:40.980" end="00:10:47.070" style="s2">you wouldn&#39;t need to regulate it it</p>
+<p begin="00:10:42.870" end="00:10:49.140" style="s2">would just be foolishly unnecessary and</p>
+<p begin="00:10:47.070" end="00:10:51.570" style="s2">this sort of stuff actually does exist</p>
+<p begin="00:10:49.140" end="00:10:53.459" style="s2">in certain circumstances you if you</p>
+<p begin="00:10:51.570" end="00:10:55.620" style="s2">observe for example the way that Bitcoin</p>
+<p begin="00:10:53.459" end="00:10:59.700" style="s2">was very carefully architected without</p>
+<p begin="00:10:55.620" end="00:11:00.750" style="s2">any access or capacity to use laws it</p>
+<p begin="00:10:59.700" end="00:11:02.519" style="s2">did actually have the ability to access</p>
+<p begin="00:11:00.750" end="00:11:05.700" style="s2">norms and that does show</p>
+<p begin="00:11:02.519" end="00:11:08.100" style="s2">but it is predominantly built around the</p>
+<p begin="00:11:05.700" end="00:11:10.170" style="s2">ability to use code to condition</p>
+<p begin="00:11:08.100" end="00:11:12.779" style="s2">behavior in this case it had to imagine</p>
+<p begin="00:11:10.170" end="00:11:14.220" style="s2">game theoretic models of how people</p>
+<p begin="00:11:12.779" end="00:11:16.140" style="s2">would make different choices around when</p>
+<p begin="00:11:14.220" end="00:11:18.120" style="s2">they would apply their resources to</p>
+<p begin="00:11:16.140" end="00:11:19.170" style="s2">mining and when would they defect and</p>
+<p begin="00:11:18.120" end="00:11:21.089" style="s2">how would you police in minna-san in</p>
+<p begin="00:11:19.170" end="00:11:24.209" style="s2">some sense the essence of Bitcoin is to</p>
+<p begin="00:11:21.089" end="00:11:26.970" style="s2">consider how does one build relatively</p>
+<p begin="00:11:24.209" end="00:11:30.959" style="s2">complex social systems almost</p>
+<p begin="00:11:26.970" end="00:11:33.060" style="s2">exclusively out of code and being as we</p>
+<p begin="00:11:30.959" end="00:11:35.610" style="s2">are in this era of code I would put it</p>
+<p begin="00:11:33.060" end="00:11:38.970" style="s2">to you to consider and to think about</p>
+<p begin="00:11:35.610" end="00:11:42.000" style="s2">how we can go about solving problems</p>
+<p begin="00:11:38.970" end="00:11:43.709" style="s2">like net neutrality using code why that</p>
+<p begin="00:11:42.000" end="00:11:44.910" style="s2">might be in fact not just the best and</p>
+<p begin="00:11:43.709" end="00:11:46.470" style="s2">maybe even the only way in the</p>
+<p begin="00:11:44.910" end="00:11:51.089" style="s2">contemporary environment moving as</p>
+<p begin="00:11:46.470" end="00:11:53.190" style="s2">rapidly as it does and how do we build</p>
+<p begin="00:11:51.089" end="00:11:56.370" style="s2">the collective skillfulness to do so</p>
+<p begin="00:11:53.190" end="00:11:58.649" style="s2">well recognizing the enormous hazards</p>
+<p begin="00:11:56.370" end="00:12:01.399" style="s2">that are associated with building things</p>
+<p begin="00:11:58.649" end="00:12:01.399" style="s2">into the laws of nature</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:06.629" style="s2">this video presentation is a little</p>
+<p begin="00:00:03.300" end="00:00:10.860" style="s2">discussion on how panarchy theory might</p>
+<p begin="00:00:06.629" end="00:00:15.410" style="s2">be useful to gain be and it comes in two</p>
+<p begin="00:00:10.860" end="00:00:18.570" style="s2">parts first we&#39;re going to look at some</p>
+<p begin="00:00:15.410" end="00:00:21.750" style="s2">ideas that hannah arendt had on the</p>
+<p begin="00:00:18.570" end="00:00:26.480" style="s2">human condition the basically the sum</p>
+<p begin="00:00:21.750" end="00:00:29.849" style="s2">total human action and we&#39;re going to</p>
+<p begin="00:00:26.480" end="00:00:32.130" style="s2">map that on to a notion of the</p>
+<p begin="00:00:29.849" end="00:00:34.500" style="s2">collective human action the sum total</p>
+<p begin="00:00:32.130" end="00:00:37.110" style="s2">collective human action is if we are</p>
+<p begin="00:00:34.500" end="00:00:39.020" style="s2">Martians looking down on humans as a</p>
+<p begin="00:00:37.110" end="00:00:41.640" style="s2">species that would be the first phase</p>
+<p begin="00:00:39.020" end="00:00:44.010" style="s2">then we&#39;re going to look at panicky</p>
+<p begin="00:00:41.640" end="00:00:44.760" style="s2">theory how it was developed by Buzz</p>
+<p begin="00:00:44.010" end="00:00:50.039" style="s2">Hollings</p>
+<p begin="00:00:44.760" end="00:00:52.410" style="s2">and see if we can then map the human the</p>
+<p begin="00:00:50.039" end="00:00:55.710" style="s2">model of human action onto the parity</p>
+<p begin="00:00:52.410" end="00:00:57.840" style="s2">theory in a useful way so hopefully</p>
+<p begin="00:00:55.710" end="00:01:00.379" style="s2">you&#39;ll enjoy the video and thanks for</p>
+<p begin="00:00:57.840" end="00:01:00.379" style="s2">asking the question</p>
+<p begin="00:01:06.260" end="00:01:16.970" style="s2">so Hannah Arendt wrote a book called</p>
+<p begin="00:01:11.920" end="00:01:19.240" style="s2">human action and it was the life the</p>
+<p begin="00:01:16.970" end="00:01:19.240" style="s2">life</p>
+<p begin="00:01:56.880" end="00:02:03.189" style="s2">Hana Arendt wrote a book called the</p>
+<p begin="00:01:59.710" end="00:02:09.429" style="s2">human condition it was the first volume</p>
+<p begin="00:02:03.189" end="00:02:11.410" style="s2">of a two volume series she was working</p>
+<p begin="00:02:09.429" end="00:02:14.260" style="s2">on she never finished she actually died</p>
+<p begin="00:02:11.410" end="00:02:17.110" style="s2">before she wrote the second book and the</p>
+<p begin="00:02:14.260" end="00:02:19.180" style="s2">second book was the life of the mind but</p>
+<p begin="00:02:17.110" end="00:02:21.640" style="s2">in this first book the human condition</p>
+<p begin="00:02:19.180" end="00:02:25.120" style="s2">she was looking at the life the</p>
+<p begin="00:02:21.640" end="00:02:29.220" style="s2">existential embodied life of humans from</p>
+<p begin="00:02:25.120" end="00:02:34.030" style="s2">deep history into the modern times and</p>
+<p begin="00:02:29.220" end="00:02:37.450" style="s2">she starts with a division of human</p>
+<p begin="00:02:34.030" end="00:02:40.420" style="s2">activity of the human and analysis of</p>
+<p begin="00:02:37.450" end="00:02:45.700" style="s2">the human condition that came out of the</p>
+<p begin="00:02:40.420" end="00:02:47.560" style="s2">early Greek times and their self</p>
+<p begin="00:02:45.700" end="00:02:52.150" style="s2">reflective process in their early</p>
+<p begin="00:02:47.560" end="00:02:56.280" style="s2">philosophy so it doesn&#39;t really matter</p>
+<p begin="00:02:52.150" end="00:02:59.290" style="s2">if in terms of this presentation if we</p>
+<p begin="00:02:56.280" end="00:03:01.420" style="s2">believe that these distinctions are</p>
+<p begin="00:02:59.290" end="00:03:04.840" style="s2">somehow metaphysically are ontologically</p>
+<p begin="00:03:01.420" end="00:03:08.340" style="s2">true the important thing is this is how</p>
+<p begin="00:03:04.840" end="00:03:10.959" style="s2">we have conceived of our human condition</p>
+<p begin="00:03:08.340" end="00:03:13.329" style="s2">over a long period of time from very</p>
+<p begin="00:03:10.959" end="00:03:20.620" style="s2">very early time so that itself</p>
+<p begin="00:03:13.329" end="00:03:26.799" style="s2">reflectively in acts the way we we act</p>
+<p begin="00:03:20.620" end="00:03:30.040" style="s2">in the world because we have this native</p>
+<p begin="00:03:26.799" end="00:03:35.470" style="s2">way of understanding our human condition</p>
+<p begin="00:03:30.040" end="00:03:40.359" style="s2">through epochs in our evolution and this</p>
+<p begin="00:03:35.470" end="00:03:43.359" style="s2">is what the Greeks knew or discovered or</p>
+<p begin="00:03:40.359" end="00:03:46.900" style="s2">observed about history of the human</p>
+<p begin="00:03:43.359" end="00:03:48.010" style="s2">condition up until their time so in her</p>
+<p begin="00:03:46.900" end="00:03:50.799" style="s2">Bull Connor Arendt</p>
+<p begin="00:03:48.010" end="00:03:52.450" style="s2">describes the three three domains of</p>
+<p begin="00:03:50.799" end="00:03:58.359" style="s2">human activity there&#39;s labor</p>
+<p begin="00:03:52.450" end="00:04:00.910" style="s2">there&#39;s work and there&#39;s action and what</p>
+<p begin="00:03:58.359" end="00:04:05.460" style="s2">distinguishes these are several key</p>
+<p begin="00:04:00.910" end="00:04:09.180" style="s2">features so first of all they</p>
+<p begin="00:04:05.460" end="00:04:13.560" style="s2">come into the human condition in time so</p>
+<p begin="00:04:09.180" end="00:04:17.250" style="s2">that labor is a more primitive or</p>
+<p begin="00:04:13.560" end="00:04:20.070" style="s2">primordial capacity work comes enters</p>
+<p begin="00:04:17.250" end="00:04:22.470" style="s2">into the human condition a little later</p>
+<p begin="00:04:20.070" end="00:04:24.450" style="s2">in time and then quite much later and</p>
+<p begin="00:04:22.470" end="00:04:26.700" style="s2">this was the discovery or the invention</p>
+<p begin="00:04:24.450" end="00:04:32.610" style="s2">of the Greeks this domain of human</p>
+<p begin="00:04:26.700" end="00:04:36.960" style="s2">action labor is the way that we take</p>
+<p begin="00:04:32.610" end="00:04:41.940" style="s2">care of our existentially biological</p>
+<p begin="00:04:36.960" end="00:04:45.360" style="s2">needs everybody is in a level playing</p>
+<p begin="00:04:41.940" end="00:04:47.850" style="s2">field with respect to labor it&#39;s that we</p>
+<p begin="00:04:45.360" end="00:04:52.430" style="s2">have to feed ourselves we have to find</p>
+<p begin="00:04:47.850" end="00:04:56.880" style="s2">shelter we reproduce ourselves and so</p>
+<p begin="00:04:52.430" end="00:05:00.450" style="s2">just like other animals Homo Labor ins</p>
+<p begin="00:04:56.880" end="00:05:04.680" style="s2">is the aspect of the human condition</p>
+<p begin="00:05:00.450" end="00:05:05.730" style="s2">which arises and falls from generation</p>
+<p begin="00:05:04.680" end="00:05:08.490" style="s2">to generation</p>
+<p begin="00:05:05.730" end="00:05:10.620" style="s2">it doesn&#39;t change each generation has to</p>
+<p begin="00:05:08.490" end="00:05:13.920" style="s2">feed itself each generation reproduces</p>
+<p begin="00:05:10.620" end="00:05:16.230" style="s2">each generation dies and so when we look</p>
+<p begin="00:05:13.920" end="00:05:19.890" style="s2">at ourselves from the activity of Labor</p>
+<p begin="00:05:16.230" end="00:05:23.720" style="s2">we imagine ourselves as all being equal</p>
+<p begin="00:05:19.890" end="00:05:26.190" style="s2">at some very primordial biological level</p>
+<p begin="00:05:23.720" end="00:05:28.440" style="s2">it&#39;s kind of leveling the playing field</p>
+<p begin="00:05:26.190" end="00:05:31.530" style="s2">and this is what Marx of course talked</p>
+<p begin="00:05:28.440" end="00:05:33.540" style="s2">about in terms of homo labor ins that an</p>
+<p begin="00:05:31.530" end="00:05:36.330" style="s2">hour&#39;s worth of work is an hour&#39;s worth</p>
+<p begin="00:05:33.540" end="00:05:39.210" style="s2">of work that at this very this is the</p>
+<p begin="00:05:36.330" end="00:05:44.220" style="s2">activity of the cognitive so calm you</p>
+<p begin="00:05:39.210" end="00:05:49.590" style="s2">terian aspect of labor that that defines</p>
+<p begin="00:05:44.220" end="00:05:52.530" style="s2">us as biological beings biological</p>
+<p begin="00:05:49.590" end="00:05:55.800" style="s2">animals and of course at some point in</p>
+<p begin="00:05:52.530" end="00:05:59.460" style="s2">our time with especially with you know</p>
+<p begin="00:05:55.800" end="00:06:04.250" style="s2">the Greeks understood and as we look at</p>
+<p begin="00:05:59.460" end="00:06:07.920" style="s2">the anthropological record as we</p>
+<p begin="00:06:04.250" end="00:06:11.520" style="s2">liberated human time and resources</p>
+<p begin="00:06:07.920" end="00:06:15.320" style="s2">through labor primarily by the free</p>
+<p begin="00:06:11.520" end="00:06:16.729" style="s2">labor of women in slaves then some men</p>
+<p begin="00:06:15.320" end="00:06:20.150" style="s2">and</p>
+<p begin="00:06:16.729" end="00:06:23.779" style="s2">that were men began to cultivate a new</p>
+<p begin="00:06:20.150" end="00:06:26.599" style="s2">type of human activity which is we can</p>
+<p begin="00:06:23.779" end="00:06:29.270" style="s2">just simply call work and unlike labor</p>
+<p begin="00:06:26.599" end="00:06:32.120" style="s2">where it&#39;s all the commentary and kind</p>
+<p begin="00:06:29.270" end="00:06:34.219" style="s2">of level playing field work was the kind</p>
+<p begin="00:06:32.120" end="00:06:36.889" style="s2">of activity that distinguished men</p>
+<p begin="00:06:34.219" end="00:06:38.779" style="s2">distinguished the great rhetorician and</p>
+<p begin="00:06:36.889" end="00:06:41.569" style="s2">have distinguished the poets and its</p>
+<p begin="00:06:38.779" end="00:06:45.499" style="s2">distinguished the architects who planned</p>
+<p begin="00:06:41.569" end="00:06:47.749" style="s2">the monuments so that the men that were</p>
+<p begin="00:06:45.499" end="00:06:50.689" style="s2">liberated into the capacity of work</p>
+<p begin="00:06:47.749" end="00:06:55.159" style="s2">would direct the laboring masses to</p>
+<p begin="00:06:50.689" end="00:06:59.830" style="s2">build the monuments so that we can see</p>
+<p begin="00:06:55.159" end="00:07:05.620" style="s2">that becoming a sage or becoming a</p>
+<p begin="00:06:59.830" end="00:07:08.300" style="s2">Emperor was the type of skill that</p>
+<p begin="00:07:05.620" end="00:07:10.939" style="s2">distinguished people&#39;s capacities and</p>
+<p begin="00:07:08.300" end="00:07:15.529" style="s2">not the kind of skill that everybody</p>
+<p begin="00:07:10.939" end="00:07:20.270" style="s2">just had in common so that this new type</p>
+<p begin="00:07:15.529" end="00:07:24.499" style="s2">of human activity became available</p>
+<p begin="00:07:20.270" end="00:07:27.050" style="s2">because of the excess resource of time</p>
+<p begin="00:07:24.499" end="00:07:32.899" style="s2">that was made possible by the great</p>
+<p begin="00:07:27.050" end="00:07:37.580" style="s2">laboring population and so work unlike</p>
+<p begin="00:07:32.899" end="00:07:40.060" style="s2">labor is not the goal of work is not to</p>
+<p begin="00:07:37.580" end="00:07:42.580" style="s2">just complete these cyclical</p>
+<p begin="00:07:40.060" end="00:07:46.270" style="s2">never-ending needs but to create</p>
+<p begin="00:07:42.580" end="00:07:49.520" style="s2">immortal projects that persist across</p>
+<p begin="00:07:46.270" end="00:07:52.339" style="s2">generations that create these memories</p>
+<p begin="00:07:49.520" end="00:08:02.180" style="s2">across across great swathes of time</p>
+<p begin="00:07:52.339" end="00:08:06.229" style="s2">these big projects and then the third</p>
+<p begin="00:08:02.180" end="00:08:08.209" style="s2">division that came later in our history</p>
+<p begin="00:08:06.229" end="00:08:13.719" style="s2">that the Greeks actually invented was</p>
+<p begin="00:08:08.209" end="00:08:13.719" style="s2">this notion of action and action the the</p>
+<p begin="00:08:13.870" end="00:08:22.749" style="s2">key feature of action or speech so</p>
+<p begin="00:08:17.300" end="00:08:24.309" style="s2">action was some kind of new way of</p>
+<p begin="00:08:22.749" end="00:08:27.489" style="s2">understanding our</p>
+<p begin="00:08:24.309" end="00:08:29.199" style="s2">and our capacities so action had to do</p>
+<p begin="00:08:27.489" end="00:08:31.659" style="s2">with showing up in the marketplace</p>
+<p begin="00:08:29.199" end="00:08:34.959" style="s2">showing up in the palace as a free</p>
+<p begin="00:08:31.659" end="00:08:37.529" style="s2">person and creating ideas in the</p>
+<p begin="00:08:34.959" end="00:08:40.389" style="s2">creative exchange of ideas and</p>
+<p begin="00:08:37.529" end="00:08:46.509" style="s2">democratization of the self</p>
+<p begin="00:08:40.389" end="00:08:49.779" style="s2">so in some sense similar to labor it was</p>
+<p begin="00:08:46.509" end="00:08:54.370" style="s2">extended to more and more the common</p>
+<p begin="00:08:49.779" end="00:08:57.600" style="s2">person and it was a capacity of free men</p>
+<p begin="00:08:54.370" end="00:09:00.339" style="s2">and eventually you know see this this</p>
+<p begin="00:08:57.600" end="00:09:03.279" style="s2">capacity of human action going into our</p>
+<p begin="00:09:00.339" end="00:09:05.470" style="s2">big great democracies today but action</p>
+<p begin="00:09:03.279" end="00:09:08.350" style="s2">was established on the fundamental</p>
+<p begin="00:09:05.470" end="00:09:12.730" style="s2">principle of the free self so you didn&#39;t</p>
+<p begin="00:09:08.350" end="00:09:15.370" style="s2">have to be quite as rare a talent you</p>
+<p begin="00:09:12.730" end="00:09:17.800" style="s2">just had to show up as a self in the</p>
+<p begin="00:09:15.370" end="00:09:22.860" style="s2">marketplace of ideas and the speech act</p>
+<p begin="00:09:17.800" end="00:09:22.860" style="s2">so actions was inherently political and</p>
+<p begin="00:09:22.889" end="00:09:30.339" style="s2">inherently depended upon recognizing the</p>
+<p begin="00:09:27.309" end="00:09:35.290" style="s2">other as equal to oneself and so then</p>
+<p begin="00:09:30.339" end="00:09:37.300" style="s2">this whole new way of manifesting the</p>
+<p begin="00:09:35.290" end="00:09:39.279" style="s2">human condition actually comes up in our</p>
+<p begin="00:09:37.300" end="00:09:41.470" style="s2">history quite late in the way from the</p>
+<p begin="00:09:39.279" end="00:09:44.290" style="s2">greats then when they got to this place</p>
+<p begin="00:09:41.470" end="00:09:46.750" style="s2">started to self-reflect and then there&#39;s</p>
+<p begin="00:09:44.290" end="00:09:50.439" style="s2">a lot of conversation around around this</p>
+<p begin="00:09:46.750" end="00:09:52.629" style="s2">obviously in the early Greek poleis the</p>
+<p begin="00:09:50.439" end="00:09:57.459" style="s2">men the slaves and the women who were</p>
+<p begin="00:09:52.629" end="00:10:01.029" style="s2">laborers were not quite as impressive as</p>
+<p begin="00:09:57.459" end="00:10:06.000" style="s2">the three people who were men of action</p>
+<p begin="00:10:01.029" end="00:10:10.540" style="s2">and speech and governance and ideas and</p>
+<p begin="00:10:06.000" end="00:10:13.569" style="s2">in between were the artists and the</p>
+<p begin="00:10:10.540" end="00:10:16.120" style="s2">artisans and the merchants and actually</p>
+<p begin="00:10:13.569" end="00:10:18.279" style="s2">the men of action the free men of that</p>
+<p begin="00:10:16.120" end="00:10:21.160" style="s2">spent their leisure time in the world of</p>
+<p begin="00:10:18.279" end="00:10:23.980" style="s2">ideas and governance and action actually</p>
+<p begin="00:10:21.160" end="00:10:26.319" style="s2">looked down upon the merchant class</p>
+<p begin="00:10:23.980" end="00:10:31.000" style="s2">because they couldn&#39;t understand why</p>
+<p begin="00:10:26.319" end="00:10:34.540" style="s2">they would occupy themselves with these</p>
+<p begin="00:10:31.000" end="00:10:36.440" style="s2">great works of genius because in that</p>
+<p begin="00:10:34.540" end="00:10:39.530" style="s2">sense they saw them</p>
+<p begin="00:10:36.440" end="00:10:41.420" style="s2">more like being laborers that they were</p>
+<p begin="00:10:39.530" end="00:10:43.700" style="s2">still tied to the physical or material</p>
+<p begin="00:10:41.420" end="00:10:45.380" style="s2">world so these are the three of the</p>
+<p begin="00:10:43.700" end="00:10:49.060" style="s2">tripe art division of the human</p>
+<p begin="00:10:45.380" end="00:10:52.490" style="s2">condition and so in 2009 I asked myself</p>
+<p begin="00:10:49.060" end="00:10:55.280" style="s2">what what how do these translates and</p>
+<p begin="00:10:52.490" end="00:10:57.890" style="s2">the sum total of human action if we</p>
+<p begin="00:10:55.280" end="00:11:00.950" style="s2">could just look at all the labor as one</p>
+<p begin="00:10:57.890" end="00:11:03.710" style="s2">dynamic system and all the workers</p>
+<p begin="00:11:00.950" end="00:11:06.590" style="s2">another dynamic system across all of</p>
+<p begin="00:11:03.710" end="00:11:08.900" style="s2">human species and action as another</p>
+<p begin="00:11:06.590" end="00:11:12.080" style="s2">dynamic system within the whole species</p>
+<p begin="00:11:08.900" end="00:11:13.820" style="s2">what would we see and to make a long</p>
+<p begin="00:11:12.080" end="00:11:17.000" style="s2">story short because I wrote long</p>
+<p begin="00:11:13.820" end="00:11:20.810" style="s2">torturous document explaining this</p>
+<p begin="00:11:17.000" end="00:11:23.690" style="s2">translation and why it works we could</p>
+<p begin="00:11:20.810" end="00:11:27.410" style="s2">map individual laborer that part of the</p>
+<p begin="00:11:23.690" end="00:11:32.290" style="s2">human condition as economies and so this</p>
+<p begin="00:11:27.410" end="00:11:33.530" style="s2">was very very clear to mark that that</p>
+<p begin="00:11:32.290" end="00:11:38.180" style="s2">Himalayans</p>
+<p begin="00:11:33.530" end="00:11:42.830" style="s2">was the driver of the great economic</p>
+<p begin="00:11:38.180" end="00:11:44.450" style="s2">systems throughout all of humans and you</p>
+<p begin="00:11:42.830" end="00:11:46.850" style="s2">know this is true for whether it&#39;s a</p>
+<p begin="00:11:44.450" end="00:11:50.630" style="s2">capitalist system or socialist system</p>
+<p begin="00:11:46.850" end="00:11:52.730" style="s2">it&#39;s where in the free economy we just</p>
+<p begin="00:11:50.630" end="00:11:54.680" style="s2">see an hour&#39;s worth of Labor&#39;s and hours</p>
+<p begin="00:11:52.730" end="00:11:57.230" style="s2">worth of labor that look at them</p>
+<p begin="00:11:54.680" end="00:12:00.640" style="s2">everyone as an independent agent this</p>
+<p begin="00:11:57.230" end="00:12:05.480" style="s2">kind of common quantifiable soup of</p>
+<p begin="00:12:00.640" end="00:12:08.120" style="s2">driving force and that the collective</p>
+<p begin="00:12:05.480" end="00:12:10.120" style="s2">sphere of work as a human condition</p>
+<p begin="00:12:08.120" end="00:12:12.500" style="s2">we&#39;re all our great technologies and</p>
+<p begin="00:12:10.120" end="00:12:14.750" style="s2">certainly technology has gotten so</p>
+<p begin="00:12:12.500" end="00:12:19.400" style="s2">advanced that we only you know we pretty</p>
+<p begin="00:12:14.750" end="00:12:21.140" style="s2">much in that technology the</p>
+<p begin="00:12:19.400" end="00:12:21.710" style="s2">technological realm in a collaborative</p>
+<p begin="00:12:21.140" end="00:12:24.410" style="s2">way</p>
+<p begin="00:12:21.710" end="00:12:28.040" style="s2">so unlike just the laborers who drive</p>
+<p begin="00:12:24.410" end="00:12:30.740" style="s2">the economy there are Steve Jobs of wool</p>
+<p begin="00:12:28.040" end="00:12:33.920" style="s2">who are in this category</p>
+<p begin="00:12:30.740" end="00:12:37.190" style="s2">and creating great impetus for</p>
+<p begin="00:12:33.920" end="00:12:41.980" style="s2">technological innovation we&#39;ve seen this</p>
+<p begin="00:12:37.190" end="00:12:44.300" style="s2">has become a much more collective</p>
+<p begin="00:12:41.980" end="00:12:47.360" style="s2">pursuit than it used to be used to be</p>
+<p begin="00:12:44.300" end="00:12:49.400" style="s2">the you know the single Michelangelo and</p>
+<p begin="00:12:47.360" end="00:12:51.530" style="s2">Leonardo da Vinci&#39;s and now our</p>
+<p begin="00:12:49.400" end="00:12:54.620" style="s2">technological projects are quite large</p>
+<p begin="00:12:51.530" end="00:12:57.680" style="s2">and so unlike in the economy we just</p>
+<p begin="00:12:54.620" end="00:13:01.700" style="s2">want someone to show up this one man one</p>
+<p begin="00:12:57.680" end="00:13:04.340" style="s2">dollar one hour and just look at it</p>
+<p begin="00:13:01.700" end="00:13:06.920" style="s2">quantifiable and technology we want</p>
+<p begin="00:13:04.340" end="00:13:10.280" style="s2">people to show up as with skills we</p>
+<p begin="00:13:06.920" end="00:13:12.800" style="s2">suffer the idiosyncrasies of great</p>
+<p begin="00:13:10.280" end="00:13:15.850" style="s2">genius they do not want to level the</p>
+<p begin="00:13:12.800" end="00:13:19.040" style="s2">playing field we want novelty and genius</p>
+<p begin="00:13:15.850" end="00:13:21.650" style="s2">and so we see that both of these have</p>
+<p begin="00:13:19.040" end="00:13:24.200" style="s2">become great systems great economic</p>
+<p begin="00:13:21.650" end="00:13:26.750" style="s2">systems and great technological systems</p>
+<p begin="00:13:24.200" end="00:13:28.820" style="s2">and finally in the realm of the paulus</p>
+<p begin="00:13:26.750" end="00:13:31.490" style="s2">of action of speech acts</p>
+<p begin="00:13:28.820" end="00:13:35.870" style="s2">I call that collectively geo social</p>
+<p begin="00:13:31.490" end="00:13:37.820" style="s2">space because the way the key feature of</p>
+<p begin="00:13:35.870" end="00:13:40.370" style="s2">this is being able to show up as a</p>
+<p begin="00:13:37.820" end="00:13:43.490" style="s2">unique individual with a unique rights</p>
+<p begin="00:13:40.370" end="00:13:47.230" style="s2">with unique recognition you know and you</p>
+<p begin="00:13:43.490" end="00:13:49.580" style="s2">can you show up as other and you</p>
+<p begin="00:13:47.230" end="00:13:51.110" style="s2">represent your other nests in the</p>
+<p begin="00:13:49.580" end="00:13:54.140" style="s2">marketplace of ideas</p>
+<p begin="00:13:51.110" end="00:13:56.510" style="s2">I call it geo social space because in</p>
+<p begin="00:13:54.140" end="00:14:00.430" style="s2">many cases you know it started with</p>
+<p begin="00:13:56.510" end="00:14:03.680" style="s2">primarily identify with Geographic type</p>
+<p begin="00:14:00.430" end="00:14:05.450" style="s2">identities even if they&#39;re nation-state</p>
+<p begin="00:14:03.680" end="00:14:09.980" style="s2">that pretty much geographically</p>
+<p begin="00:14:05.450" end="00:14:13.250" style="s2">identified but increasingly these spaces</p>
+<p begin="00:14:09.980" end="00:14:18.320" style="s2">of identities are social spaces so that</p>
+<p begin="00:14:13.250" end="00:14:20.660" style="s2">and we see the collective explosion of</p>
+<p begin="00:14:18.320" end="00:14:23.300" style="s2">geo social space also over time so we</p>
+<p begin="00:14:20.660" end="00:14:28.810" style="s2">have many more identities than we we</p>
+<p begin="00:14:23.300" end="00:14:34.660" style="s2">used to have in terms of not necessarily</p>
+<p begin="00:14:28.810" end="00:14:37.340" style="s2">nation-states States but in terms of</p>
+<p begin="00:14:34.660" end="00:14:40.820" style="s2">affiliations and</p>
+<p begin="00:14:37.340" end="00:14:44.950" style="s2">categories and gender categories and all</p>
+<p begin="00:14:40.820" end="00:14:48.220" style="s2">murders and however and our friends on</p>
+<p begin="00:14:44.950" end="00:14:51.890" style="s2">Facebook and game B for example is a</p>
+<p begin="00:14:48.220" end="00:14:54.529" style="s2">emergent GL social space so the at least</p>
+<p begin="00:14:51.890" end="00:14:58.520" style="s2">an explosion of Geo social space in</p>
+<p begin="00:14:54.529" end="00:15:02.420" style="s2">different ways now the interesting thing</p>
+<p begin="00:14:58.520" end="00:15:07.720" style="s2">about economies is that the overall</p>
+<p begin="00:15:02.420" end="00:15:09.860" style="s2">trajectory of an economy is toward a</p>
+<p begin="00:15:07.720" end="00:15:13.160" style="s2">conservation of resources in a</p>
+<p begin="00:15:09.860" end="00:15:16.040" style="s2">hierarchical way so that we have more</p>
+<p begin="00:15:13.160" end="00:15:17.690" style="s2">fewer and fewer winners over time this</p>
+<p begin="00:15:16.040" end="00:15:19.760" style="s2">is true whether it&#39;s a communist</p>
+<p begin="00:15:17.690" end="00:15:25.100" style="s2">bureaucratic state or an authoritarian</p>
+<p begin="00:15:19.760" end="00:15:30.589" style="s2">state whatever what we call economies is</p>
+<p begin="00:15:25.100" end="00:15:33.589" style="s2">the human drive to build these larger</p>
+<p begin="00:15:30.589" end="00:15:39.520" style="s2">and larger aggregate or a cumulative</p>
+<p begin="00:15:33.589" end="00:15:46.520" style="s2">type of connections and so it is not</p>
+<p begin="00:15:39.520" end="00:15:49.730" style="s2">surprising then that the that labor as a</p>
+<p begin="00:15:46.520" end="00:15:52.880" style="s2">human condition has moved into a global</p>
+<p begin="00:15:49.730" end="00:15:57.940" style="s2">economy it is the end result of this</p>
+<p begin="00:15:52.880" end="00:15:57.940" style="s2">type of impulse in the human condition</p>
+<p begin="00:15:58.510" end="00:16:05.780" style="s2">whereas GL social spaces tend to</p>
+<p begin="00:16:02.360" end="00:16:09.589" style="s2">distribute novelty so there&#39;s more and</p>
+<p begin="00:16:05.780" end="00:16:13.400" style="s2">more identities going on over time now</p>
+<p begin="00:16:09.589" end="00:16:16.130" style="s2">what what&#39;s interesting is when for</p>
+<p begin="00:16:13.400" end="00:16:20.450" style="s2">example in the past when there&#39;s a lot</p>
+<p begin="00:16:16.130" end="00:16:23.270" style="s2">of tribal identities when a when statism</p>
+<p begin="00:16:20.450" end="00:16:28.940" style="s2">or nation ism comes through under an</p>
+<p begin="00:16:23.270" end="00:16:31.100" style="s2">economic policy globe you know connects</p>
+<p begin="00:16:28.940" end="00:16:35.330" style="s2">these than what you see here initially</p>
+<p begin="00:16:31.100" end="00:16:37.670" style="s2">is a loss of identity and you start</p>
+<p begin="00:16:35.330" end="00:16:38.550" style="s2">having for example these tribal</p>
+<p begin="00:16:37.670" end="00:16:42.149" style="s2">identities</p>
+<p begin="00:16:38.550" end="00:16:44.820" style="s2">into a single geo social spatial</p>
+<p begin="00:16:42.149" end="00:16:47.190" style="s2">identity of the nation nationhood and</p>
+<p begin="00:16:44.820" end="00:16:50.640" style="s2">that always comes in with a monetary</p>
+<p begin="00:16:47.190" end="00:16:53.959" style="s2">policy so that the thrust of an economic</p>
+<p begin="00:16:50.640" end="00:17:00.570" style="s2">impulse is this this hierarchical</p>
+<p begin="00:16:53.959" end="00:17:03.060" style="s2">synthesizing totalizing control of human</p>
+<p begin="00:17:00.570" end="00:17:05.220" style="s2">activity and the impulse of Geo social</p>
+<p begin="00:17:03.060" end="00:17:12.059" style="s2">space is the impulse for individuation</p>
+<p begin="00:17:05.220" end="00:17:13.829" style="s2">and more and more unique and identities</p>
+<p begin="00:17:12.059" end="00:17:16.530" style="s2">showing up more and more unique and</p>
+<p begin="00:17:13.829" end="00:17:24.980" style="s2">having your your uniqueness show up in</p>
+<p begin="00:17:16.530" end="00:17:27.689" style="s2">NGO social space so we see the post USSR</p>
+<p begin="00:17:24.980" end="00:17:30.059" style="s2">dissolution in too many nation-states as</p>
+<p begin="00:17:27.689" end="00:17:34.410" style="s2">the opening of Geo social space and the</p>
+<p begin="00:17:30.059" end="00:17:37.950" style="s2">current moves of the EU to create a</p>
+<p begin="00:17:34.410" end="00:17:41.340" style="s2">single monetary currency as the closing</p>
+<p begin="00:17:37.950" end="00:17:43.169" style="s2">of Geo social space and the increasing</p>
+<p begin="00:17:41.340" end="00:17:45.780" style="s2">of the economic impulse these are the</p>
+<p begin="00:17:43.169" end="00:17:53.580" style="s2">way these dynamics work and technology</p>
+<p begin="00:17:45.780" end="00:17:55.440" style="s2">is the increasing variation of forms in</p>
+<p begin="00:17:53.580" end="00:17:58.100" style="s2">order to express these things its</p>
+<p begin="00:17:55.440" end="00:18:01.580" style="s2">novelty its invention its innovation</p>
+<p begin="00:17:58.100" end="00:18:05.520" style="s2">into the physical world so they they</p>
+<p begin="00:18:01.580" end="00:18:09.840" style="s2">enable either economic the impulsive</p>
+<p begin="00:18:05.520" end="00:18:12.450" style="s2">economy to get more accumulative they</p>
+<p begin="00:18:09.840" end="00:18:14.460" style="s2">also enable the opening of Geo social</p>
+<p begin="00:18:12.450" end="00:18:17.400" style="s2">space of technologies are kind of like</p>
+<p begin="00:18:14.460" end="00:18:25.559" style="s2">drivers are both both of these impulses</p>
+<p begin="00:18:17.400" end="00:18:27.809" style="s2">so we can see the relative effect that</p>
+<p begin="00:18:25.559" end="00:18:29.820" style="s2">these have we can&#39;t if I turn them into</p>
+<p begin="00:18:27.809" end="00:18:32.250" style="s2">units of human actions so there are G</p>
+<p begin="00:18:29.820" end="00:18:36.360" style="s2">units there&#39;s units and there&#39;s T units</p>
+<p begin="00:18:32.250" end="00:18:39.150" style="s2">and so for example certain decisions can</p>
+<p begin="00:18:36.360" end="00:18:41.400" style="s2">increase G units and certain decisions</p>
+<p begin="00:18:39.150" end="00:18:44.520" style="s2">can increase B units and certain</p>
+<p begin="00:18:41.400" end="00:18:47.550" style="s2">decision can increase T units and I</p>
+<p begin="00:18:44.520" end="00:18:48.679" style="s2">started to see them as a natural</p>
+<p begin="00:18:47.550" end="00:18:51.080" style="s2">relations</p>
+<p begin="00:18:48.679" end="00:18:53.629" style="s2">that when one move the others would have</p>
+<p begin="00:18:51.080" end="00:18:58.490" style="s2">to move in this way and there&#39;s some</p>
+<p begin="00:18:53.629" end="00:19:02.950" style="s2">kind of natural antagonism between E and</p>
+<p begin="00:18:58.490" end="00:19:07.610" style="s2">G units and there is a feed-forward</p>
+<p begin="00:19:02.950" end="00:19:09.559" style="s2">aspect to T units and then one other</p>
+<p begin="00:19:07.610" end="00:19:13.279" style="s2">thing I did with playing with this is</p>
+<p begin="00:19:09.559" end="00:19:19.159" style="s2">that I looked at different societies</p>
+<p begin="00:19:13.279" end="00:19:23.769" style="s2">based upon the research that Don Beck</p>
+<p begin="00:19:19.159" end="00:19:26.720" style="s2">and the human emergence people did and</p>
+<p begin="00:19:23.769" end="00:19:30.679" style="s2">they have a whole theory of why the</p>
+<p begin="00:19:26.720" end="00:19:32.480" style="s2">different cultures are manifest the way</p>
+<p begin="00:19:30.679" end="00:19:36.980" style="s2">they do and it&#39;s a developmental theory</p>
+<p begin="00:19:32.480" end="00:19:38.929" style="s2">and my impression is is that these are</p>
+<p begin="00:19:36.980" end="00:19:42.200" style="s2">not developmentally driven but they&#39;re</p>
+<p begin="00:19:38.929" end="00:19:43.940" style="s2">their conditions by these three</p>
+<p begin="00:19:42.200" end="00:19:47.139" style="s2">different impulses in the human</p>
+<p begin="00:19:43.940" end="00:19:52.070" style="s2">condition so that for example we can</p>
+<p begin="00:19:47.139" end="00:19:54.799" style="s2">plot out just as a metaphor really the G</p>
+<p begin="00:19:52.070" end="00:19:57.049" style="s2">units and units and the T units and</p>
+<p begin="00:19:54.799" end="00:19:59.990" style="s2">three-dimensional space and we can</p>
+<p begin="00:19:57.049" end="00:20:04.399" style="s2">imagine societies let&#39;s say like an Arab</p>
+<p begin="00:19:59.990" end="00:20:08.299" style="s2">nation that has a very highly unified</p>
+<p begin="00:20:04.399" end="00:20:12.909" style="s2">economy and not a lot of novelty and geo</p>
+<p begin="00:20:08.299" end="00:20:16.879" style="s2">social space and relies only on a small</p>
+<p begin="00:20:12.909" end="00:20:20.029" style="s2">type of technology and that would be the</p>
+<p begin="00:20:16.879" end="00:20:22.220" style="s2">shape of that society and that in a</p>
+<p begin="00:20:20.029" end="00:20:24.909" style="s2">society that I would say gaining B is</p>
+<p begin="00:20:22.220" end="00:20:27.799" style="s2">looking for would have a lot of</p>
+<p begin="00:20:24.909" end="00:20:30.139" style="s2">potential for identifying and re</p>
+<p begin="00:20:27.799" end="00:20:33.769" style="s2">identifying and making up new identities</p>
+<p begin="00:20:30.139" end="00:20:38.029" style="s2">a distributed economy so it&#39;s not so</p>
+<p begin="00:20:33.769" end="00:20:40.129" style="s2">totalized and capturable but to some</p>
+<p begin="00:20:38.029" end="00:20:43.789" style="s2">extent we would probably need to be and</p>
+<p begin="00:20:40.129" end="00:20:46.999" style="s2">then they increase they&#39;re all driven by</p>
+<p begin="00:20:43.789" end="00:20:49.190" style="s2">increase in technological innovation so</p>
+<p begin="00:20:46.999" end="00:20:51.860" style="s2">they call this the shape of human action</p>
+<p begin="00:20:49.190" end="00:20:55.320" style="s2">and it can map on to all the different</p>
+<p begin="00:20:51.860" end="00:20:56.970" style="s2">cultural types in the examples</p>
+<p begin="00:20:55.320" end="00:21:02.300" style="s2">human emergence of stratification of</p>
+<p begin="00:20:56.970" end="00:21:06.380" style="s2">human democracy and my theory is is that</p>
+<p begin="00:21:02.300" end="00:21:10.280" style="s2">every society is is faced with</p>
+<p begin="00:21:06.380" end="00:21:14.300" style="s2">historical conditions and that they are</p>
+<p begin="00:21:10.280" end="00:21:18.900" style="s2">responding to those conditions by</p>
+<p begin="00:21:14.300" end="00:21:21.630" style="s2">sometimes having a cool or have a</p>
+<p begin="00:21:18.900" end="00:21:24.720" style="s2">revolution that increases the G units</p>
+<p begin="00:21:21.630" end="00:21:26.580" style="s2">and that creates more technology and</p>
+<p begin="00:21:24.720" end="00:21:29.040" style="s2">then there&#39;s periods where that creates</p>
+<p begin="00:21:26.580" end="00:21:30.840" style="s2">the accumulation of wealth which maybe</p>
+<p begin="00:21:29.040" end="00:21:33.480" style="s2">creates a more powerful state that</p>
+<p begin="00:21:30.840" end="00:21:36.150" style="s2">reduces the gene that&#39;s the shape is</p>
+<p begin="00:21:33.480" end="00:21:38.910" style="s2">always kind of pulling and pushing on</p>
+<p begin="00:21:36.150" end="00:21:43.530" style="s2">each other and that the sum total of</p>
+<p begin="00:21:38.910" end="00:21:45.870" style="s2">human action is the accommodation of</p>
+<p begin="00:21:43.530" end="00:21:50.490" style="s2">cultures for example this culture that</p>
+<p begin="00:21:45.870" end="00:21:52.950" style="s2">has this shape is also under adaptive</p>
+<p begin="00:21:50.490" end="00:21:55.800" style="s2">pressure from the other cultures and so</p>
+<p begin="00:21:52.950" end="00:21:58.410" style="s2">that that what how they accommodate</p>
+<p begin="00:21:55.800" end="00:22:00.540" style="s2">these three impulses dynamics of the</p>
+<p begin="00:21:58.410" end="00:22:05.000" style="s2">human collective human condition are</p>
+<p begin="00:22:00.540" end="00:22:10.100" style="s2">also part of the complete adaptation of</p>
+<p begin="00:22:05.000" end="00:22:10.100" style="s2">all humans now that were interconnected</p>
+<p begin="00:22:10.700" end="00:22:16.620" style="s2">so one of the things that is also</p>
+<p begin="00:22:13.530" end="00:22:20.240" style="s2">interesting about this is that just from</p>
+<p begin="00:22:16.620" end="00:22:23.510" style="s2">the way the culture of the society feels</p>
+<p begin="00:22:20.240" end="00:22:28.380" style="s2">under certain conditions whenever</p>
+<p begin="00:22:23.510" end="00:22:32.070" style="s2">there&#39;s fewer than in general whenever</p>
+<p begin="00:22:28.380" end="00:22:35.010" style="s2">there&#39;s fewer identities right so</p>
+<p begin="00:22:32.070" end="00:22:40.410" style="s2">everybody is more like you that you have</p>
+<p begin="00:22:35.010" end="00:22:43.080" style="s2">to work with and larger economic systems</p>
+<p begin="00:22:40.410" end="00:22:46.100" style="s2">so that you know there&#39;s there&#39;s a</p>
+<p begin="00:22:43.080" end="00:22:50.280" style="s2">natural hierarchy and you depend upon</p>
+<p begin="00:22:46.100" end="00:22:51.600" style="s2">the the banks are healthy so the</p>
+<p begin="00:22:50.280" end="00:22:54.480" style="s2">mortgage system is healthy and</p>
+<p begin="00:22:51.600" end="00:22:56.580" style="s2">everything is is kind of pushed toward</p>
+<p begin="00:22:54.480" end="00:23:00.240" style="s2">this direction so that there&#39;s stability</p>
+<p begin="00:22:56.580" end="00:23:03.360" style="s2">and a lot of resources built up</p>
+<p begin="00:23:00.240" end="00:23:05.649" style="s2">hierarchically and that the technology</p>
+<p begin="00:23:03.360" end="00:23:09.080" style="s2">is somehow</p>
+<p begin="00:23:05.649" end="00:23:12.469" style="s2">pacing itself then those are times when</p>
+<p begin="00:23:09.080" end="00:23:17.089" style="s2">the civilization feels more robust it</p>
+<p begin="00:23:12.469" end="00:23:20.299" style="s2">makes more sense we feel that things are</p>
+<p begin="00:23:17.089" end="00:23:24.469" style="s2">right there on target this is like the</p>
+<p begin="00:23:20.299" end="00:23:28.759" style="s2">typical 50s and 60s the that generation</p>
+<p begin="00:23:24.469" end="00:23:31.309" style="s2">growing up there wasn&#39;t a lot of</p>
+<p begin="00:23:28.759" end="00:23:34.009" style="s2">activity in Geo social space the economy</p>
+<p begin="00:23:31.309" end="00:23:37.099" style="s2">was accumulating resources in a</p>
+<p begin="00:23:34.009" end="00:23:40.159" style="s2">hierarchical way the trickle up kind of</p>
+<p begin="00:23:37.099" end="00:23:44.989" style="s2">economy the technology was moving to</p>
+<p begin="00:23:40.159" end="00:23:46.849" style="s2">FedEx that felt very sane and when</p>
+<p begin="00:23:44.989" end="00:23:49.039" style="s2">things were this way when the</p>
+<p begin="00:23:46.849" end="00:23:50.989" style="s2">predominant direction trajectories this</p>
+<p begin="00:23:49.039" end="00:23:53.239" style="s2">way toward a lot of change in technology</p>
+<p begin="00:23:50.989" end="00:23:55.519" style="s2">but that&#39;s technologically disruptive</p>
+<p begin="00:23:53.239" end="00:23:58.909" style="s2">and a lot of new identities like we have</p>
+<p begin="00:23:55.519" end="00:24:00.919" style="s2">today the corporations have the</p>
+<p begin="00:23:58.909" end="00:24:02.769" style="s2">identities there&#39;s many more gender</p>
+<p begin="00:24:00.919" end="00:24:06.139" style="s2">identities marriage identities</p>
+<p begin="00:24:02.769" end="00:24:09.139" style="s2">subsystems groups a lot of different</p>
+<p begin="00:24:06.139" end="00:24:11.960" style="s2">classes of ethnics ethnicity and culture</p>
+<p begin="00:24:09.139" end="00:24:14.719" style="s2">and those cultures are all hybrids of</p>
+<p begin="00:24:11.960" end="00:24:18.859" style="s2">other cultures well this feels less</p>
+<p begin="00:24:14.719" end="00:24:21.950" style="s2">robust and more chaotic but actually</p>
+<p begin="00:24:18.859" end="00:24:25.119" style="s2">this is when the system is becoming more</p>
+<p begin="00:24:21.950" end="00:24:28.309" style="s2">resilient because there&#39;s resilience in</p>
+<p begin="00:24:25.119" end="00:24:31.639" style="s2">this type a trajectory and even though</p>
+<p begin="00:24:28.309" end="00:24:33.649" style="s2">this feels more robust this is when the</p>
+<p begin="00:24:31.639" end="00:24:37.580" style="s2">trajectories in this direction the</p>
+<p begin="00:24:33.649" end="00:24:39.859" style="s2">economy is ready for collapse the the</p>
+<p begin="00:24:37.580" end="00:24:45.039" style="s2">suppressed identities are ready to</p>
+<p begin="00:24:39.859" end="00:24:45.039" style="s2">explode and the technology technological</p>
+<p begin="00:24:45.789" end="00:24:57.320" style="s2">imagination is just ready to exploit the</p>
+<p begin="00:24:52.039" end="00:25:00.409" style="s2">situation so whether the technology then</p>
+<p begin="00:24:57.320" end="00:25:02.929" style="s2">exploits the economy or those the new</p>
+<p begin="00:25:00.409" end="00:25:05.330" style="s2">identities creates the technology you</p>
+<p begin="00:25:02.929" end="00:25:06.739" style="s2">know this is an autopoietic system so</p>
+<p begin="00:25:05.330" end="00:25:08.960" style="s2">this is the first thing you need to</p>
+<p begin="00:25:06.739" end="00:25:12.679" style="s2">understand in the sense where I think</p>
+<p begin="00:25:08.960" end="00:25:13.400" style="s2">panarchy theory can come into the</p>
+<p begin="00:25:12.679" end="00:25:21.640" style="s2">conversation</p>
+<p begin="00:25:13.400" end="00:25:28.130" style="s2">game B so I just want to go to the</p>
+<p begin="00:25:21.640" end="00:25:32.960" style="s2">second slide and I will post a post with</p>
+<p begin="00:25:28.130" end="00:25:35.540" style="s2">this on game be some text about what</p>
+<p begin="00:25:32.960" end="00:25:39.640" style="s2">these three units and what what it feels</p>
+<p begin="00:25:35.540" end="00:25:42.380" style="s2">like to be in the situation&#39;s of</p>
+<p begin="00:25:39.640" end="00:25:46.040" style="s2">increasing G units or increasing units</p>
+<p begin="00:25:42.380" end="00:25:48.550" style="s2">increasing T units so that&#39;s the first</p>
+<p begin="00:25:46.040" end="00:25:48.550" style="s2">section</p>
+<p begin="00:26:04.559" end="00:26:07.559" style="s2">okay</p>
+<p begin="00:26:28.750" end="00:26:39.530" style="s2">so I said while I was writing that what</p>
+<p begin="00:26:36.620" end="00:26:42.770" style="s2">we were just talking about I started to</p>
+<p begin="00:26:39.530" end="00:26:45.429" style="s2">do more research and I came across a</p>
+<p begin="00:26:42.770" end="00:26:49.190" style="s2">book by buzz Hollings and buzz Hollings</p>
+<p begin="00:26:45.429" end="00:26:51.410" style="s2">tells the story was a biologist and he</p>
+<p begin="00:26:49.190" end="00:26:54.380" style="s2">was working on homo argument the</p>
+<p begin="00:26:51.410" end="00:26:58.070" style="s2">homeostasis of organisms the mechanisms</p>
+<p begin="00:26:54.380" end="00:27:00.260" style="s2">by which organisms stay homo static stay</p>
+<p begin="00:26:58.070" end="00:27:03.130" style="s2">in balance and he was trying to move</p>
+<p begin="00:27:00.260" end="00:27:06.650" style="s2">that concept into ecology because he was</p>
+<p begin="00:27:03.130" end="00:27:09.890" style="s2">an ecologist and that&#39;s where his</p>
+<p begin="00:27:06.650" end="00:27:11.600" style="s2">research was in ecology and he found out</p>
+<p begin="00:27:09.890" end="00:27:14.360" style="s2">that when you move the concept of</p>
+<p begin="00:27:11.600" end="00:27:18.130" style="s2">homeostasis to ecological systems that</p>
+<p begin="00:27:14.360" end="00:27:21.770" style="s2">didn&#39;t work and in fact homeostasis</p>
+<p begin="00:27:18.130" end="00:27:24.530" style="s2">homeostasis in an ecology was certain</p>
+<p begin="00:27:21.770" end="00:27:26.570" style="s2">death so he came very interested in this</p>
+<p begin="00:27:24.530" end="00:27:30.049" style="s2">and after many many years of research he</p>
+<p begin="00:27:26.570" end="00:27:33.590" style="s2">came up with what is actually happening</p>
+<p begin="00:27:30.049" end="00:27:36.020" style="s2">in ecological systems is much more</p>
+<p begin="00:27:33.590" end="00:27:38.929" style="s2">vibrant and he called it the panarchy</p>
+<p begin="00:27:36.020" end="00:27:43.790" style="s2">cycle so it&#39;s something similar to</p>
+<p begin="00:27:38.929" end="00:27:47.720" style="s2">chaotic systems and so he said basically</p>
+<p begin="00:27:43.790" end="00:27:50.900" style="s2">what happens in in ecology ecological</p>
+<p begin="00:27:47.720" end="00:27:53.540" style="s2">systems is there&#39;s four major phases in</p>
+<p begin="00:27:50.900" end="00:27:56.990" style="s2">a healthy ecology has to go through</p>
+<p begin="00:27:53.540" end="00:27:59.690" style="s2">these phases phases at a certain you</p>
+<p begin="00:27:56.990" end="00:28:01.580" style="s2">know turn over a certain number at a</p>
+<p begin="00:27:59.690" end="00:28:05.809" style="s2">certain pace in order to stay healthy</p>
+<p begin="00:28:01.580" end="00:28:09.200" style="s2">and so he for example we all know this</p>
+<p begin="00:28:05.809" end="00:28:11.660" style="s2">that the early management theory of</p>
+<p begin="00:28:09.200" end="00:28:14.210" style="s2">ecology actually destroyed a lot ecology</p>
+<p begin="00:28:11.660" end="00:28:18.549" style="s2">is because they were trying to optimize</p>
+<p begin="00:28:14.210" end="00:28:22.809" style="s2">for some kind of homeostatic condition</p>
+<p begin="00:28:18.549" end="00:28:26.960" style="s2">so he said there were four types of</p>
+<p begin="00:28:22.809" end="00:28:28.790" style="s2">drivers in this panarchy cycle and I&#39;m</p>
+<p begin="00:28:26.960" end="00:28:31.190" style="s2">gonna tell the story because it&#39;s easier</p>
+<p begin="00:28:28.790" end="00:28:33.770" style="s2">to understand in terms of what&#39;s called</p>
+<p begin="00:28:31.190" end="00:28:36.470" style="s2">an island biogeography you know people</p>
+<p begin="00:28:33.770" end="00:28:39.559" style="s2">have studied where either new islands</p>
+<p begin="00:28:36.470" end="00:28:45.440" style="s2">have come up as just empty</p>
+<p begin="00:28:39.559" end="00:28:47.899" style="s2">no naked larva lava rocks and then</p>
+<p begin="00:28:45.440" end="00:28:49.730" style="s2">become established ecology ecological</p>
+<p begin="00:28:47.899" end="00:28:54.340" style="s2">communities over time and they also</p>
+<p begin="00:28:49.730" end="00:28:58.460" style="s2">studied this one like Mount Saint Helens</p>
+<p begin="00:28:54.340" end="00:29:01.460" style="s2">erupted and pretty much laid just the</p>
+<p begin="00:28:58.460" end="00:29:04.820" style="s2">ecology back to much more simple area</p>
+<p begin="00:29:01.460" end="00:29:07.730" style="s2">and they noticed that these go through</p>
+<p begin="00:29:04.820" end="00:29:10.519" style="s2">this you know notice that the evolution</p>
+<p begin="00:29:07.730" end="00:29:12.499" style="s2">of an ecology goes through that but this</p>
+<p begin="00:29:10.519" end="00:29:14.269" style="s2">can happen they&#39;ve also seen this</p>
+<p begin="00:29:12.499" end="00:29:17.990" style="s2">happening over deep evolutionary time</p>
+<p begin="00:29:14.269" end="00:29:23.450" style="s2">and in all kinds of ecosystems so this</p>
+<p begin="00:29:17.990" end="00:29:25.549" style="s2">is what happens the after Mount st.</p>
+<p begin="00:29:23.450" end="00:29:27.289" style="s2">Helens that destroys everything the</p>
+<p begin="00:29:25.549" end="00:29:29.690" style="s2">first thing that happens is a</p>
+<p begin="00:29:27.289" end="00:29:35.899" style="s2">reorganization so this is called the</p>
+<p begin="00:29:29.690" end="00:29:41.210" style="s2">alpha phase where the conditions in the</p>
+<p begin="00:29:35.899" end="00:29:43.820" style="s2">in the low-cal start to reorganize some</p>
+<p begin="00:29:41.210" end="00:29:46.429" style="s2">plants move out some plants move in some</p>
+<p begin="00:29:43.820" end="00:29:49.549" style="s2">worms move out some worms move in some</p>
+<p begin="00:29:46.429" end="00:29:51.799" style="s2">some animals have died out so my other</p>
+<p begin="00:29:49.549" end="00:29:54.919" style="s2">animals have move in and sometimes</p>
+<p begin="00:29:51.799" end="00:29:58.340" style="s2">there&#39;s speciation happening here so</p>
+<p begin="00:29:54.919" end="00:30:02.210" style="s2">this is reorganization things are not</p>
+<p begin="00:29:58.340" end="00:30:04.249" style="s2">well connected because you know if it&#39;s</p>
+<p begin="00:30:02.210" end="00:30:06.559" style="s2">an island that has erupted out of the</p>
+<p begin="00:30:04.249" end="00:30:08.210" style="s2">ocean then there&#39;s a rat that you know a</p>
+<p begin="00:30:06.559" end="00:30:13.159" style="s2">couple of rats that have come off a ship</p>
+<p begin="00:30:08.210" end="00:30:14.869" style="s2">or a couple of pelicans ended up living</p>
+<p begin="00:30:13.159" end="00:30:16.340" style="s2">there you know so they&#39;re not there&#39;s a</p>
+<p begin="00:30:14.869" end="00:30:19.279" style="s2">lot of space there&#39;s not a lot in</p>
+<p begin="00:30:16.340" end="00:30:21.679" style="s2">connection and the situation&#39;s beginning</p>
+<p begin="00:30:19.279" end="00:30:26.059" style="s2">reorganized and then it comes down to</p>
+<p begin="00:30:21.679" end="00:30:30.320" style="s2">this phase of exploitation so once a</p>
+<p begin="00:30:26.059" end="00:30:32.990" style="s2">species gets a foothold then it starts</p>
+<p begin="00:30:30.320" end="00:30:36.309" style="s2">to really be successful and exploit its</p>
+<p begin="00:30:32.990" end="00:30:40.179" style="s2">niche and this starts to put pressure on</p>
+<p begin="00:30:36.309" end="00:30:43.820" style="s2">those species that are just barely</p>
+<p begin="00:30:40.179" end="00:30:48.350" style="s2">managing so some some of the species</p>
+<p begin="00:30:43.820" end="00:30:51.440" style="s2">some of these new emerging habitat</p>
+<p begin="00:30:48.350" end="00:30:56.480" style="s2">inhabitants start to exploit more nor</p>
+<p begin="00:30:51.440" end="00:30:58.820" style="s2">mitches and this will means that some of</p>
+<p begin="00:30:56.480" end="00:31:02.360" style="s2">the inhabitants leave or die off but it</p>
+<p begin="00:30:58.820" end="00:31:05.649" style="s2">also produces pressures to specie</p>
+<p begin="00:31:02.360" end="00:31:09.169" style="s2">emanate species then you have new types</p>
+<p begin="00:31:05.649" end="00:31:12.889" style="s2">that reorganize and exploit different</p>
+<p begin="00:31:09.169" end="00:31:16.100" style="s2">niches but eventually what happens is</p>
+<p begin="00:31:12.889" end="00:31:21.230" style="s2">that the new emergence of new species or</p>
+<p begin="00:31:16.100" end="00:31:23.440" style="s2">new types becomes crowded out and these</p>
+<p begin="00:31:21.230" end="00:31:26.659" style="s2">types of niches that can be exploited</p>
+<p begin="00:31:23.440" end="00:31:29.509" style="s2">become reduced and you have started to</p>
+<p begin="00:31:26.659" end="00:31:32.690" style="s2">get a dominant ecology so you might have</p>
+<p begin="00:31:29.509" end="00:31:35.570" style="s2">had like the old chestnut forests and</p>
+<p begin="00:31:32.690" end="00:31:37.629" style="s2">New England&#39;s that were not a lot of</p>
+<p begin="00:31:35.570" end="00:31:40.639" style="s2">species there was just kind of a</p>
+<p begin="00:31:37.629" end="00:31:44.360" style="s2">dominant ecology with all the biomass</p>
+<p begin="00:31:40.639" end="00:31:49.000" style="s2">all the energy gets stored and fewer and</p>
+<p begin="00:31:44.360" end="00:31:51.980" style="s2">fewer forms fewer viewer types of</p>
+<p begin="00:31:49.000" end="00:31:54.980" style="s2">activity and but there&#39;s a lot of</p>
+<p begin="00:31:51.980" end="00:31:59.509" style="s2">potential stored in there so this is</p>
+<p begin="00:31:54.980" end="00:32:02.809" style="s2">this is like the economy getting to to</p>
+<p begin="00:31:59.509" end="00:32:05.330" style="s2">be reliant on you know one monetary</p>
+<p begin="00:32:02.809" end="00:32:07.940" style="s2">system and a few big banks which is just</p>
+<p begin="00:32:05.330" end="00:32:12.070" style="s2">the 1% growing up here so this is the</p>
+<p begin="00:32:07.940" end="00:32:12.070" style="s2">level of case strategies or conservation</p>
+<p begin="00:32:13.149" end="00:32:26.059" style="s2">now the thing about this thing is that</p>
+<p begin="00:32:19.690" end="00:32:28.369" style="s2">if it grows too large if it doesn&#39;t turn</p>
+<p begin="00:32:26.059" end="00:32:30.409" style="s2">over fast enough and we&#39;ll get to why</p>
+<p begin="00:32:28.369" end="00:32:32.240" style="s2">that happens then there can be an</p>
+<p begin="00:32:30.409" end="00:32:34.669" style="s2">overshoot and there&#39;s a landscape</p>
+<p begin="00:32:32.240" end="00:32:37.070" style="s2">fitness thing happening so if it Oliver</p>
+<p begin="00:32:34.669" end="00:32:39.950" style="s2">shoots it can never come around and</p>
+<p begin="00:32:37.070" end="00:32:42.409" style="s2">regenerate itself but did the ecology</p>
+<p begin="00:32:39.950" end="00:32:44.629" style="s2">just completely fail fails and this was</p>
+<p begin="00:32:42.409" end="00:32:46.519" style="s2">the crisis of ecological management when</p>
+<p begin="00:32:44.629" end="00:32:50.119" style="s2">buzz Hollings was doing his research</p>
+<p begin="00:32:46.519" end="00:32:51.910" style="s2">because our interventions were all k</p>
+<p begin="00:32:50.119" end="00:32:54.650" style="s2">strategies kinds of</p>
+<p begin="00:32:51.910" end="00:32:57.200" style="s2">conserve what would it what is concerns</p>
+<p begin="00:32:54.650" end="00:33:00.050" style="s2">the forests in California conserve at</p>
+<p begin="00:32:57.200" end="00:33:02.990" style="s2">lands conserved the farmlands and what</p>
+<p begin="00:33:00.050" end="00:33:05.660" style="s2">happened is that created an overshoot in</p>
+<p begin="00:33:02.990" end="00:33:09.440" style="s2">the ecology in this conservation phase</p>
+<p begin="00:33:05.660" end="00:33:13.940" style="s2">in which those systems completely</p>
+<p begin="00:33:09.440" end="00:33:15.890" style="s2">collapsed because what HotList Polling&#39;s</p>
+<p begin="00:33:13.940" end="00:33:18.230" style="s2">realized that a healthy ecosystem had</p>
+<p begin="00:33:15.890" end="00:33:20.450" style="s2">this other it&#39;s called the backside of</p>
+<p begin="00:33:18.230" end="00:33:24.940" style="s2">the canopy cycle called the omega cycle</p>
+<p begin="00:33:20.450" end="00:33:28.730" style="s2">which is the daily cycle where this</p>
+<p begin="00:33:24.940" end="00:33:31.760" style="s2">phase of conserving more and more of</p>
+<p begin="00:33:28.730" end="00:33:34.010" style="s2">your resource potential energy and</p>
+<p begin="00:33:31.760" end="00:33:37.820" style="s2">kinetic energy and fuel and fuel forms</p>
+<p begin="00:33:34.010" end="00:33:41.090" style="s2">gets decomposed but you know fire and</p>
+<p begin="00:33:37.820" end="00:33:45.110" style="s2">the forest or periodic insect</p>
+<p begin="00:33:41.090" end="00:33:48.620" style="s2">infestation wetlands drying beavers</p>
+<p begin="00:33:45.110" end="00:33:50.480" style="s2">moving on so that this part that we that</p>
+<p begin="00:33:48.620" end="00:33:52.310" style="s2">management ecologic management was</p>
+<p begin="00:33:50.480" end="00:33:54.890" style="s2">seeing as destructive was actually a</p>
+<p begin="00:33:52.310" end="00:33:57.350" style="s2">semester in creative aspects of a</p>
+<p begin="00:33:54.890" end="00:34:01.030" style="s2">healthy ecology and so that was called</p>
+<p begin="00:33:57.350" end="00:34:06.830" style="s2">the release phase and then after release</p>
+<p begin="00:34:01.030" end="00:34:12.410" style="s2">then you get new types of species new</p>
+<p begin="00:34:06.830" end="00:34:20.350" style="s2">types of identities new participants</p>
+<p begin="00:34:12.410" end="00:34:25.000" style="s2">coming in new types of exploitation so</p>
+<p begin="00:34:20.350" end="00:34:27.650" style="s2">well what I started to see is that the</p>
+<p begin="00:34:25.000" end="00:34:30.290" style="s2">what we were looking at before the units</p>
+<p begin="00:34:27.650" end="00:34:32.150" style="s2">of human action actually could be mapped</p>
+<p begin="00:34:30.290" end="00:34:34.340" style="s2">on this now it gets a little confusing</p>
+<p begin="00:34:32.150" end="00:34:35.840" style="s2">because there are people that you know</p>
+<p begin="00:34:34.340" end="00:34:38.060" style="s2">obviously the first thing I say well</p>
+<p begin="00:34:35.840" end="00:34:41.410" style="s2">that this is like our economy you know</p>
+<p begin="00:34:38.060" end="00:34:45.770" style="s2">if if it moves too far up into where</p>
+<p begin="00:34:41.410" end="00:34:47.930" style="s2">there&#39;s only one monetary system and few</p>
+<p begin="00:34:45.770" end="00:34:50.750" style="s2">um few people on any money and without</p>
+<p begin="00:34:47.930" end="00:34:53.440" style="s2">that being decomposed or released back</p>
+<p begin="00:34:50.750" end="00:34:56.349" style="s2">into the system they distributed</p>
+<p begin="00:34:53.440" end="00:34:57.819" style="s2">and you don&#39;t have a viable economy so</p>
+<p begin="00:34:56.349" end="00:34:58.539" style="s2">there are people working with the</p>
+<p begin="00:34:57.819" end="00:35:02.109" style="s2">panarchy</p>
+<p begin="00:34:58.539" end="00:35:06.000" style="s2">scale to try to revise the economy but</p>
+<p begin="00:35:02.109" end="00:35:08.380" style="s2">here is where that idea is limited</p>
+<p begin="00:35:06.000" end="00:35:10.869" style="s2">because they&#39;re trying to revise the</p>
+<p begin="00:35:08.380" end="00:35:13.869" style="s2">economy but in the sum total of human</p>
+<p begin="00:35:10.869" end="00:35:16.569" style="s2">action the economies are just k</p>
+<p begin="00:35:13.869" end="00:35:19.630" style="s2">strategies they want to revise the</p>
+<p begin="00:35:16.569" end="00:35:21.640" style="s2">economies so that that yes they don&#39;t</p>
+<p begin="00:35:19.630" end="00:35:24.670" style="s2">want the economy to crash but the whole</p>
+<p begin="00:35:21.640" end="00:35:26.890" style="s2">notion of economy is that people you</p>
+<p begin="00:35:24.670" end="00:35:29.259" style="s2">know the this globalization of the</p>
+<p begin="00:35:26.890" end="00:35:31.900" style="s2">monetary system that it&#39;s hierarchical</p>
+<p begin="00:35:29.259" end="00:35:35.589" style="s2">and conservative in nature in nature so</p>
+<p begin="00:35:31.900" end="00:35:38.140" style="s2">people are using panarchy theory to fix</p>
+<p begin="00:35:35.589" end="00:35:39.460" style="s2">the economy are really only one of fixie</p>
+<p begin="00:35:38.140" end="00:35:43.480" style="s2">Congress really coming in you can be</p>
+<p begin="00:35:39.460" end="00:35:49.990" style="s2">more like if the economy is over time so</p>
+<p begin="00:35:43.480" end="00:35:53.019" style="s2">that that it can it can create more</p>
+<p begin="00:35:49.990" end="00:35:56.049" style="s2">mutual in the interdependencies among</p>
+<p begin="00:35:53.019" end="00:35:59.619" style="s2">larger and larger people over time so</p>
+<p begin="00:35:56.049" end="00:36:01.299" style="s2">that that and so that what what well you</p>
+<p begin="00:35:59.619" end="00:36:06.119" style="s2">can start to see if you understand this</p>
+<p begin="00:36:01.299" end="00:36:09.150" style="s2">that for a long long long time the only</p>
+<p begin="00:36:06.119" end="00:36:11.650" style="s2">decisions we make in our jail</p>
+<p begin="00:36:09.150" end="00:36:17.160" style="s2">politically and our political economy</p>
+<p begin="00:36:11.650" end="00:36:20.710" style="s2">are k strategies so we move from from</p>
+<p begin="00:36:17.160" end="00:36:22.480" style="s2">many different types of currencies we</p>
+<p begin="00:36:20.710" end="00:36:23.980" style="s2">move from a time where yes there was</p>
+<p begin="00:36:22.480" end="00:36:26.799" style="s2">been trouble you know there was death</p>
+<p begin="00:36:23.980" end="00:36:29.230" style="s2">accumulation and then there was a</p>
+<p begin="00:36:26.799" end="00:36:32.170" style="s2">mistake so that the economy could</p>
+<p begin="00:36:29.230" end="00:36:34.990" style="s2">recharge it and this the aspect that I</p>
+<p begin="00:36:32.170" end="00:36:37.299" style="s2">know your debt forgiveness this would be</p>
+<p begin="00:36:34.990" end="00:36:41.140" style="s2">designed for a release phase in the</p>
+<p begin="00:36:37.299" end="00:36:43.119" style="s2">economy but over time and that some</p>
+<p begin="00:36:41.140" end="00:36:46.089" style="s2">that&#39;s no surprise we have a global</p>
+<p begin="00:36:43.119" end="00:36:48.759" style="s2">economy that all our collective</p>
+<p begin="00:36:46.089" end="00:36:56.589" style="s2">positions have have become increasingly</p>
+<p begin="00:36:48.759" end="00:37:01.299" style="s2">more case strategies so k strategies are</p>
+<p begin="00:36:56.589" end="00:37:03.490" style="s2">the economic impulse the alpha strategy</p>
+<p begin="00:37:01.299" end="00:37:06.329" style="s2">the reorganization is the opening of Geo</p>
+<p begin="00:37:03.490" end="00:37:06.329" style="s2">social space</p>
+<p begin="00:37:06.430" end="00:37:14.860" style="s2">and the exploitation phase is what in</p>
+<p begin="00:37:10.360" end="00:37:16.900" style="s2">human action is technology so that we</p>
+<p begin="00:37:14.860" end="00:37:21.130" style="s2">can see and there&#39;s an interesting</p>
+<p begin="00:37:16.900" end="00:37:25.360" style="s2">relationship and the other slide the</p>
+<p begin="00:37:21.130" end="00:37:27.940" style="s2">relationship between K units G units</p>
+<p begin="00:37:25.360" end="00:37:29.920" style="s2">units and T units are in this case k</p>
+<p begin="00:37:27.940" end="00:37:36.570" style="s2">strategies alpha strategies and our</p>
+<p begin="00:37:29.920" end="00:37:40.830" style="s2">strategies is that that this overstreet</p>
+<p begin="00:37:36.570" end="00:37:44.470" style="s2">the ability for this to grow seems to be</p>
+<p begin="00:37:40.830" end="00:37:48.580" style="s2">increased by moving the dynamic here so</p>
+<p begin="00:37:44.470" end="00:37:51.100" style="s2">that that you if we see this in late</p>
+<p begin="00:37:48.580" end="00:37:53.790" style="s2">stage neoliberal capitalism yes that</p>
+<p begin="00:37:51.100" end="00:37:56.410" style="s2">creates more more than global</p>
+<p begin="00:37:53.790" end="00:38:00.190" style="s2">unification of monetary systems but it&#39;s</p>
+<p begin="00:37:56.410" end="00:38:02.920" style="s2">also being supported by the ability for</p>
+<p begin="00:38:00.190" end="00:38:06.670" style="s2">geo social space to be opened up and new</p>
+<p begin="00:38:02.920" end="00:38:08.830" style="s2">technologies to happen but there&#39;s a</p>
+<p begin="00:38:06.670" end="00:38:10.390" style="s2">kind of a delicate balance because if</p>
+<p begin="00:38:08.830" end="00:38:16.570" style="s2">there&#39;s an overshoot here than there</p>
+<p begin="00:38:10.390" end="00:38:20.320" style="s2">then the system will collapse so what we</p>
+<p begin="00:38:16.570" end="00:38:23.140" style="s2">see if we can overlay the units of human</p>
+<p begin="00:38:20.320" end="00:38:29.280" style="s2">action we see that moving in this</p>
+<p begin="00:38:23.140" end="00:38:32.410" style="s2">direction creates more resilience</p>
+<p begin="00:38:29.280" end="00:38:35.440" style="s2">anything that moves in this cycle based</p>
+<p begin="00:38:32.410" end="00:38:38.230" style="s2">strategies are always about previous</p>
+<p begin="00:38:35.440" end="00:38:40.420" style="s2">sense of safety or robustness although</p>
+<p begin="00:38:38.230" end="00:38:43.840" style="s2">we all know that there&#39;s a follow that</p>
+<p begin="00:38:40.420" end="00:38:47.620" style="s2">falling in that now but the question is</p>
+<p begin="00:38:43.840" end="00:38:50.440" style="s2">so now this is where this model can ask</p>
+<p begin="00:38:47.620" end="00:38:54.910" style="s2">interesting questions of game be in and</p>
+<p begin="00:38:50.440" end="00:38:58.510" style="s2">the question is this so we know how to</p>
+<p begin="00:38:54.910" end="00:39:00.730" style="s2">design for a Geo social space distribute</p>
+<p begin="00:38:58.510" end="00:39:06.400" style="s2">on that distributed identities more</p>
+<p begin="00:39:00.730" end="00:39:11.320" style="s2">fluidity and flexibility in the social</p>
+<p begin="00:39:06.400" end="00:39:14.310" style="s2">sphere more conversations more connect</p>
+<p begin="00:39:11.320" end="00:39:16.540" style="s2">you know more distributed networking</p>
+<p begin="00:39:14.310" end="00:39:17.130" style="s2">distributed networking is important</p>
+<p begin="00:39:16.540" end="00:39:18.930" style="s2">because of</p>
+<p begin="00:39:17.130" end="00:39:26.309" style="s2">not distributed networking and it&#39;s</p>
+<p begin="00:39:18.930" end="00:39:28.200" style="s2">underneath you know one company owns all</p>
+<p begin="00:39:26.309" end="00:39:32.069" style="s2">the distribution channels then that is</p>
+<p begin="00:39:28.200" end="00:39:34.559" style="s2">just increasing k strategies and we know</p>
+<p begin="00:39:32.069" end="00:39:36.839" style="s2">you know we&#39;re pretty good I&#39;m getting</p>
+<p begin="00:39:34.559" end="00:39:39.599" style="s2">be about understanding technologies and</p>
+<p begin="00:39:36.839" end="00:39:41.900" style="s2">how to exploit technologies we</p>
+<p begin="00:39:39.599" end="00:39:48.420" style="s2">understand the jeopardy of this</p>
+<p begin="00:39:41.900" end="00:39:52.349" style="s2">monological focus on case strategies but</p>
+<p begin="00:39:48.420" end="00:39:55.700" style="s2">the question is how do you design for</p>
+<p begin="00:39:52.349" end="00:40:01.609" style="s2">you know can we and how do we design our</p>
+<p begin="00:39:55.700" end="00:40:04.259" style="s2">society our human condition for Omega</p>
+<p begin="00:40:01.609" end="00:40:06.619" style="s2">strategies so we know this becomes</p>
+<p begin="00:40:04.259" end="00:40:10.470" style="s2">resilient description ruthlessness and</p>
+<p begin="00:40:06.619" end="00:40:14.549" style="s2">after I read Nicholas Taleb I realized</p>
+<p begin="00:40:10.470" end="00:40:18.480" style="s2">that this that strategy is designing for</p>
+<p begin="00:40:14.549" end="00:40:21.539" style="s2">anti fragility now we&#39;re not talking</p>
+<p begin="00:40:18.480" end="00:40:23.880" style="s2">about designing so that the economy</p>
+<p begin="00:40:21.539" end="00:40:26.880" style="s2">could be anti fragile because that would</p>
+<p begin="00:40:23.880" end="00:40:28.680" style="s2">be kind of a you know snickering</p>
+<p begin="00:40:26.880" end="00:40:30.690" style="s2">ourselves because we don&#39;t want to</p>
+<p begin="00:40:28.680" end="00:40:33.960" style="s2">design anti fragile systems that will</p>
+<p begin="00:40:30.690" end="00:40:36.539" style="s2">only prejudice the conservation face of</p>
+<p begin="00:40:33.960" end="00:40:39.089" style="s2">k strategies we want to design for the</p>
+<p begin="00:40:36.539" end="00:40:41.700" style="s2">sum total human action to be anti</p>
+<p begin="00:40:39.089" end="00:40:43.769" style="s2">fragile so this is like the Greeks you</p>
+<p begin="00:40:41.700" end="00:40:47.309" style="s2">know the Greeks understood that we</p>
+<p begin="00:40:43.769" end="00:40:49.910" style="s2">labored that was an early activity human</p>
+<p begin="00:40:47.309" end="00:40:53.009" style="s2">condition and then they understood that</p>
+<p begin="00:40:49.910" end="00:40:56.009" style="s2">we had work and technology that came</p>
+<p begin="00:40:53.009" end="00:40:57.869" style="s2">next and then they invented this Geo</p>
+<p begin="00:40:56.009" end="00:41:01.589" style="s2">social space as part of the human</p>
+<p begin="00:40:57.869" end="00:41:07.799" style="s2">condition so the question is what is the</p>
+<p begin="00:41:01.589" end="00:41:11.400" style="s2">new domain of human action if human</p>
+<p begin="00:41:07.799" end="00:41:13.440" style="s2">action is an ecological system what we</p>
+<p begin="00:41:11.400" end="00:41:14.160" style="s2">want it to be or it&#39;s useful to think of</p>
+<p begin="00:41:13.440" end="00:41:16.440" style="s2">it that way</p>
+<p begin="00:41:14.160" end="00:41:18.750" style="s2">what is this domain a human action that</p>
+<p begin="00:41:16.440" end="00:41:23.130" style="s2">needs to be invented or discovered are</p>
+<p begin="00:41:18.750" end="00:41:28.109" style="s2">created that designs human action for</p>
+<p begin="00:41:23.130" end="00:41:29.540" style="s2">this release phase now they are very</p>
+<p begin="00:41:28.109" end="00:41:32.900" style="s2">interesting that&#39;s</p>
+<p begin="00:41:29.540" end="00:41:36.320" style="s2">very interesting question and it&#39;s I</p>
+<p begin="00:41:32.900" end="00:41:38.390" style="s2">can&#39;t say it&#39;s answered but I but I&#39;m</p>
+<p begin="00:41:36.320" end="00:41:40.310" style="s2">beginning to suspect I mean you&#39;re still</p>
+<p begin="00:41:38.390" end="00:41:47.120" style="s2">doing research it has something to do</p>
+<p begin="00:41:40.310" end="00:41:49.430" style="s2">with how we conceptualize the different</p>
+<p begin="00:41:47.120" end="00:41:52.340" style="s2">type of social kids at the different</p>
+<p begin="00:41:49.430" end="00:41:55.970" style="s2">types of cues between what we consider</p>
+<p begin="00:41:52.340" end="00:41:58.760" style="s2">our society and what we consider in</p>
+<p begin="00:41:55.970" end="00:42:00.740" style="s2">ecology and I just give you a little</p>
+<p begin="00:41:58.760" end="00:42:06.770" style="s2">sense of that I can&#39;t answer the</p>
+<p begin="00:42:00.740" end="00:42:09.410" style="s2">question yet but for example for us and</p>
+<p begin="00:42:06.770" end="00:42:12.080" style="s2">you know so if we don&#39;t design for this</p>
+<p begin="00:42:09.410" end="00:42:13.640" style="s2">release the planet is going to design</p>
+<p begin="00:42:12.080" end="00:42:15.860" style="s2">for it eventually you know if we keep</p>
+<p begin="00:42:13.640" end="00:42:18.890" style="s2">going the plans are designed for the</p>
+<p begin="00:42:15.860" end="00:42:20.900" style="s2">release phase and so it&#39;s going to take</p>
+<p begin="00:42:18.890" end="00:42:23.600" style="s2">care of itself but the question is this</p>
+<p begin="00:42:20.900" end="00:42:29.390" style="s2">how can we be sensitive and partners</p>
+<p begin="00:42:23.600" end="00:42:32.480" style="s2">with that that part of the dance okay so</p>
+<p begin="00:42:29.390" end="00:42:34.700" style="s2">it has to do with this the this</p>
+<p begin="00:42:32.480" end="00:42:36.440" style="s2">conceptual limit in my opinion has to</p>
+<p begin="00:42:34.700" end="00:42:39.260" style="s2">this conceptual limitation we have</p>
+<p begin="00:42:36.440" end="00:42:42.260" style="s2">between what we take a societal cues and</p>
+<p begin="00:42:39.260" end="00:42:45.260" style="s2">what we take as an ecology it&#39;s up</p>
+<p begin="00:42:42.260" end="00:42:52.160" style="s2">figure-ground problem in a metaphysical</p>
+<p begin="00:42:45.260" end="00:42:54.110" style="s2">way so for example when what we see in</p>
+<p begin="00:42:52.160" end="00:42:56.450" style="s2">this release face of things like climate</p>
+<p begin="00:42:54.110" end="00:42:59.330" style="s2">change or the weather but the planet is</p>
+<p begin="00:42:56.450" end="00:43:02.360" style="s2">just doing something we see it as an</p>
+<p begin="00:42:59.330" end="00:43:06.020" style="s2">object even it has agency as the power</p>
+<p begin="00:43:02.360" end="00:43:09.080" style="s2">to kill us we see Ecology&#39;s as the</p>
+<p begin="00:43:06.020" end="00:43:13.010" style="s2">objective background against which we</p>
+<p begin="00:43:09.080" end="00:43:15.770" style="s2">make decisions so our labor our geo</p>
+<p begin="00:43:13.010" end="00:43:18.800" style="s2">social space and our technology as we</p>
+<p begin="00:43:15.770" end="00:43:24.230" style="s2">take social cues from that we we imagine</p>
+<p begin="00:43:18.800" end="00:43:27.280" style="s2">that as subjective space and what we say</p>
+<p begin="00:43:24.230" end="00:43:32.000" style="s2">use the term ecology for we imagine as</p>
+<p begin="00:43:27.280" end="00:43:37.610" style="s2">objective space and so we take different</p>
+<p begin="00:43:32.000" end="00:43:40.450" style="s2">types of cues from that all right and so</p>
+<p begin="00:43:37.610" end="00:43:45.490" style="s2">some of the answer in this</p>
+<p begin="00:43:40.450" end="00:43:48.010" style="s2">is moving beyond the dichotomy between</p>
+<p begin="00:43:45.490" end="00:43:50.440" style="s2">the kinds of cues we take in social</p>
+<p begin="00:43:48.010" end="00:43:55.510" style="s2">space as society from these three</p>
+<p begin="00:43:50.440" end="00:43:57.760" style="s2">aspects of human action and the kinds of</p>
+<p begin="00:43:55.510" end="00:44:00.280" style="s2">cues engagements or relationships we</p>
+<p begin="00:43:57.760" end="00:44:03.250" style="s2">have what with what we put in here as</p>
+<p begin="00:44:00.280" end="00:44:06.400" style="s2">ecology so what are our ecological</p>
+<p begin="00:44:03.250" end="00:44:11.349" style="s2">partners versus our societal problems</p>
+<p begin="00:44:06.400" end="00:44:17.859" style="s2">and and in that question I believe is</p>
+<p begin="00:44:11.349" end="00:44:19.660" style="s2">the answer to how to design with the</p>
+<p begin="00:44:17.859" end="00:44:22.720" style="s2">ecological or ecologic</p>
+<p begin="00:44:19.660" end="00:44:25.770" style="s2">partners to truly participate with our</p>
+<p begin="00:44:22.720" end="00:44:28.810" style="s2">ecological partners so that we are</p>
+<p begin="00:44:25.770" end="00:44:30.970" style="s2">intentionally doing the bad side of our</p>
+<p begin="00:44:28.810" end="00:44:32.859" style="s2">dance because the back side of a dance</p>
+<p begin="00:44:30.970" end="00:44:37.270" style="s2">if this is right it&#39;s going to come</p>
+<p begin="00:44:32.859" end="00:44:40.560" style="s2">anyways but we want to do that there&#39;s</p>
+<p begin="00:44:37.270" end="00:44:42.609" style="s2">that term that way Dalio used a</p>
+<p begin="00:44:40.560" end="00:44:45.790" style="s2">beautiful deleveraging</p>
+<p begin="00:44:42.609" end="00:44:49.780" style="s2">kind of a beautiful releasing of the</p>
+<p begin="00:44:45.790" end="00:44:51.579" style="s2">system so we know some aspects of</p>
+<p begin="00:44:49.780" end="00:44:53.859" style="s2">counteracting overshoot and the case</p>
+<p begin="00:44:51.579" end="00:44:56.859" style="s2">strategies for opening a Geo social</p>
+<p begin="00:44:53.859" end="00:45:00.430" style="s2">space more exploitation of technologies</p>
+<p begin="00:44:56.859" end="00:45:06.640" style="s2">but overall even with that the main</p>
+<p begin="00:45:00.430" end="00:45:10.329" style="s2">thrust is still basically to serve the</p>
+<p begin="00:45:06.640" end="00:45:12.869" style="s2">case strategy and so this is a coming</p>
+<p begin="00:45:10.329" end="00:45:17.680" style="s2">down here and understanding how to</p>
+<p begin="00:45:12.869" end="00:45:20.589" style="s2">design into or intentionally dance with</p>
+<p begin="00:45:17.680" end="00:45:25.270" style="s2">this release phase I think is a really</p>
+<p begin="00:45:20.589" end="00:45:27.520" style="s2">interesting question for game B and what</p>
+<p begin="00:45:25.270" end="00:45:31.599" style="s2">I like about it is that we don&#39;t have to</p>
+<p begin="00:45:27.520" end="00:45:34.630" style="s2">re-envision what an economy is that can</p>
+<p begin="00:45:31.599" end="00:45:38.440" style="s2">be part of our human condition we just</p>
+<p begin="00:45:34.630" end="00:45:41.740" style="s2">have to add a fourth term in the way</p>
+<p begin="00:45:38.440" end="00:45:46.210" style="s2">that the Greeks actually invented the</p>
+<p begin="00:45:41.740" end="00:45:49.800" style="s2">activity of Geo social space actively</p>
+<p begin="00:45:46.210" end="00:45:49.800" style="s2">invent our</p>
+<p begin="00:45:49.960" end="00:45:59.570" style="s2">with what we consider objective in</p>
+<p begin="00:45:54.320" end="00:46:02.140" style="s2">ecology in a way that solves this this</p>
+<p begin="00:45:59.570" end="00:46:02.140" style="s2">little puzzle</p>
+</div>
+</body>
+</tt>

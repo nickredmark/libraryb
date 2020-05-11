@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.299" end="00:00:06.839" style="s2">alright okay so three I think today I&#39;ll</p>
+<p begin="00:00:03.990" end="00:00:08.880" style="s2">just go with a an oldie but a goodie one</p>
+<p begin="00:00:06.839" end="00:00:12.630" style="s2">that I&#39;ve been before but I think it&#39;s</p>
+<p begin="00:00:08.880" end="00:00:16.020" style="s2">useful to have this in its own specific</p>
+<p begin="00:00:12.630" end="00:00:18.960" style="s2">frame so today what I&#39;ll do is I&#39;ll run</p>
+<p begin="00:00:16.020" end="00:00:23.550" style="s2">through the Kineton framework from</p>
+<p begin="00:00:18.960" end="00:00:26.400" style="s2">Dean&#39;s snow that identifies the</p>
+<p begin="00:00:23.550" end="00:00:29.840" style="s2">distinction between three qualitatively</p>
+<p begin="00:00:26.400" end="00:00:33.809" style="s2">different kinds of system and how we</p>
+<p begin="00:00:29.840" end="00:00:36.750" style="s2">might go about responding to those</p>
+<p begin="00:00:33.809" end="00:00:39.530" style="s2">different kinds of systems okay so to</p>
+<p begin="00:00:36.750" end="00:00:42.510" style="s2">begin the the first kind of system is</p>
+<p begin="00:00:39.530" end="00:00:47.039" style="s2">complicated a complicated system is</p>
+<p begin="00:00:42.510" end="00:00:51.270" style="s2">defined by the fact that the phase space</p>
+<p begin="00:00:47.039" end="00:00:53.760" style="s2">which is a concept that refers to the</p>
+<p begin="00:00:51.270" end="00:00:59.640" style="s2">tonal possible states that the system</p>
+<p begin="00:00:53.760" end="00:01:01.620" style="s2">might occupy total possibilities that</p>
+<p begin="00:00:59.640" end="00:01:04.890" style="s2">might occur within the system the total</p>
+<p begin="00:01:01.620" end="00:01:07.650" style="s2">phase space of a complicated system is</p>
+<p begin="00:01:04.890" end="00:01:10.920" style="s2">finite and bounded which means that</p>
+<p begin="00:01:07.650" end="00:01:13.500" style="s2">whether it&#39;s small like say the</p>
+<p begin="00:01:10.920" end="00:01:16.320" style="s2">relatively simple space of a tic-tac-toe</p>
+<p begin="00:01:13.500" end="00:01:17.850" style="s2">game which only has a handful of number</p>
+<p begin="00:01:16.320" end="00:01:20.460" style="s2">of different kinds of ways that came to</p>
+<p begin="00:01:17.850" end="00:01:23.580" style="s2">be played or very large like say the</p>
+<p begin="00:01:20.460" end="00:01:29.280" style="s2">phase space of a Boeing 777 it is</p>
+<p begin="00:01:23.580" end="00:01:32.700" style="s2">broadly speaking unchanging and for</p>
+<p begin="00:01:29.280" end="00:01:35.100" style="s2">related reasons causation the</p>
+<p begin="00:01:32.700" end="00:01:38.130" style="s2">relationship between cause and effect in</p>
+<p begin="00:01:35.100" end="00:01:44.460" style="s2">complicated systems is largely clear and</p>
+<p begin="00:01:38.130" end="00:01:46.140" style="s2">therefore predictable so what happens</p>
+<p begin="00:01:44.460" end="00:01:47.450" style="s2">when you&#39;re in a complicated system say</p>
+<p begin="00:01:46.140" end="00:01:52.079" style="s2">for example you&#39;re dealing with</p>
+<p begin="00:01:47.450" end="00:01:55.590" style="s2">tic-tac-toe is that the appropriate</p>
+<p begin="00:01:52.079" end="00:01:58.049" style="s2">approach is to to see how much of that</p>
+<p begin="00:01:55.590" end="00:02:00.360" style="s2">face space how much of the central</p>
+<p begin="00:01:58.049" end="00:02:04.799" style="s2">states the system you can in fact grasp</p>
+<p begin="00:02:00.360" end="00:02:05.670" style="s2">with precision if it&#39;s a simple system</p>
+<p begin="00:02:04.799" end="00:02:07.290" style="s2">like tic-tac-toe</p>
+<p begin="00:02:05.670" end="00:02:08.789" style="s2">then you can grasp all of it in which</p>
+<p begin="00:02:07.290" end="00:02:12.060" style="s2">case the appropriate response is to</p>
+<p begin="00:02:08.789" end="00:02:14.050" style="s2">simply identify with clarity exactly</p>
+<p begin="00:02:12.060" end="00:02:17.590" style="s2">what the outcomes</p>
+<p begin="00:02:14.050" end="00:02:21.220" style="s2">a beach move and then execute would be a</p>
+<p begin="00:02:17.590" end="00:02:23.680" style="s2">perfect approach if the complicated</p>
+<p begin="00:02:21.220" end="00:02:24.250" style="s2">system is too large for that kind of</p>
+<p begin="00:02:23.680" end="00:02:27.370" style="s2">approach</p>
+<p begin="00:02:24.250" end="00:02:30.220" style="s2">say for example again our Boeing 777</p>
+<p begin="00:02:27.370" end="00:02:32.640" style="s2">where it&#39;s sort of impossible for anyone</p>
+<p begin="00:02:30.220" end="00:02:36.640" style="s2">to endeavor to grasp in its totality</p>
+<p begin="00:02:32.640" end="00:02:39.910" style="s2">nonetheless one can become an expert and</p>
+<p begin="00:02:36.640" end="00:02:41.710" style="s2">develop a lot of skill in predicting how</p>
+<p begin="00:02:39.910" end="00:02:42.850" style="s2">it will respond to different inputs and</p>
+<p begin="00:02:41.710" end="00:02:47.140" style="s2">outputs because remember the end of the</p>
+<p begin="00:02:42.850" end="00:02:51.850" style="s2">day it&#39;s finite and bounded and with the</p>
+<p begin="00:02:47.140" end="00:02:53.650" style="s2">properly constructed crew of experts we</p>
+<p begin="00:02:51.850" end="00:02:58.060" style="s2">can affect go about managing that system</p>
+<p begin="00:02:53.650" end="00:02:59.320" style="s2">very effectively and efficiently whether</p>
+<p begin="00:02:58.060" end="00:03:02.470" style="s2">we&#39;re talking about building one or</p>
+<p begin="00:02:59.320" end="00:03:04.000" style="s2">maintaining one this is fine and that&#39;s</p>
+<p begin="00:03:02.470" end="00:03:06.540" style="s2">more or less what our civilization is</p>
+<p begin="00:03:04.000" end="00:03:09.040" style="s2">very good at doing it&#39;s very good at</p>
+<p begin="00:03:06.540" end="00:03:11.110" style="s2">partitioning identifying complicated</p>
+<p begin="00:03:09.040" end="00:03:13.150" style="s2">systems and then beginning the</p>
+<p begin="00:03:11.110" end="00:03:15.460" style="s2">construction of three levels of</p>
+<p begin="00:03:13.150" end="00:03:19.780" style="s2">sophistication in crews of experts and</p>
+<p begin="00:03:15.460" end="00:03:22.570" style="s2">them energy this brings us to a complex</p>
+<p begin="00:03:19.780" end="00:03:25.600" style="s2">systems so we&#39;re a complicated system is</p>
+<p begin="00:03:22.570" end="00:03:27.910" style="s2">defined by the fact that its phase space</p>
+<p begin="00:03:25.600" end="00:03:30.580" style="s2">is finite and bounded and that the</p>
+<p begin="00:03:27.910" end="00:03:34.750" style="s2">relationship between cause and effect is</p>
+<p begin="00:03:30.580" end="00:03:36.880" style="s2">clear and predictable a complex space is</p>
+<p begin="00:03:34.750" end="00:03:40.150" style="s2">kind of the opposite wishes to say that</p>
+<p begin="00:03:36.880" end="00:03:43.420" style="s2">its phase space is about the States that</p>
+<p begin="00:03:40.150" end="00:03:45.640" style="s2">it can occupy are themselves changing</p>
+<p begin="00:03:43.420" end="00:03:49.620" style="s2">the kinds of states that it can occupy</p>
+<p begin="00:03:45.640" end="00:03:52.360" style="s2">are changing so it&#39;s a phase space is</p>
+<p begin="00:03:49.620" end="00:03:55.900" style="s2">unbounded and as a consequence infinite</p>
+<p begin="00:03:52.360" end="00:03:57.820" style="s2">and for oolitic reasons the relationship</p>
+<p begin="00:03:55.900" end="00:04:00.610" style="s2">between cause and effect in a complex</p>
+<p begin="00:03:57.820" end="00:04:03.390" style="s2">system is unclear</p>
+<p begin="00:04:00.610" end="00:04:06.850" style="s2">it is difficult and sometimes in fact</p>
+<p begin="00:04:03.390" end="00:04:09.489" style="s2">close to impossible to predict the way</p>
+<p begin="00:04:06.850" end="00:04:12.790" style="s2">that the system will respond to a given</p>
+<p begin="00:04:09.489" end="00:04:15.450" style="s2">input this does not mean however their</p>
+<p begin="00:04:12.790" end="00:04:17.830" style="s2">complex system can&#39;t be dealt with</p>
+<p begin="00:04:15.450" end="00:04:20.769" style="s2">effectively it just requires a different</p>
+<p begin="00:04:17.830" end="00:04:25.720" style="s2">approach and so the appropriate approach</p>
+<p begin="00:04:20.769" end="00:04:27.979" style="s2">to a complex system is to learn how to</p>
+<p begin="00:04:25.720" end="00:04:31.110" style="s2">be responsive to its disposition</p>
+<p begin="00:04:27.979" end="00:04:32.880" style="s2">while you cannot predict and while cause</p>
+<p begin="00:04:31.110" end="00:04:34.710" style="s2">and effect are unclear in complex</p>
+<p begin="00:04:32.880" end="00:04:39.080" style="s2">systems you do have correlations</p>
+<p begin="00:04:34.710" end="00:04:41.250" style="s2">it has probabilities that can be</p>
+<p begin="00:04:39.080" end="00:04:45.240" style="s2">identified with some level of confidence</p>
+<p begin="00:04:41.250" end="00:04:47.699" style="s2">it has a disposition and while this</p>
+<p begin="00:04:45.240" end="00:04:51.540" style="s2">disposition is going to drift if you</p>
+<p begin="00:04:47.699" end="00:04:54.949" style="s2">become skillful at having sensitivity to</p>
+<p begin="00:04:51.540" end="00:04:59.400" style="s2">the subtle signals of the system and</p>
+<p begin="00:04:54.949" end="00:05:01.740" style="s2">become skillful in exploring the state</p>
+<p begin="00:04:59.400" end="00:05:04.110" style="s2">and the space and the drift of the</p>
+<p begin="00:05:01.740" end="00:05:07.020" style="s2">complex system then you can respond to</p>
+<p begin="00:05:04.110" end="00:05:07.889" style="s2">it effectively or more precisely</p>
+<p begin="00:05:07.020" end="00:05:10.919" style="s2">adaptively</p>
+<p begin="00:05:07.889" end="00:05:14.039" style="s2">and this is the right way to respond to</p>
+<p begin="00:05:10.919" end="00:05:16.470" style="s2">a complex system for me the economical</p>
+<p begin="00:05:14.039" end="00:05:18.510" style="s2">example here is circuit you&#39;re surfing</p>
+<p begin="00:05:16.470" end="00:05:22.800" style="s2">you&#39;re dealing with a highly complex</p>
+<p begin="00:05:18.510" end="00:05:24.389" style="s2">system the wind the state of the water</p>
+<p begin="00:05:22.800" end="00:05:26.340" style="s2">or the temperature the water the</p>
+<p begin="00:05:24.389" end="00:05:27.780" style="s2">direction of the waves the intensity of</p>
+<p begin="00:05:26.340" end="00:05:30.240" style="s2">the winds the feedback between all these</p>
+<p begin="00:05:27.780" end="00:05:33.960" style="s2">different things on each other the kind</p>
+<p begin="00:05:30.240" end="00:05:35.250" style="s2">of board that you have the weight of the</p>
+<p begin="00:05:33.960" end="00:05:37.229" style="s2">board your weight the way that you&#39;re</p>
+<p begin="00:05:35.250" end="00:05:39.840" style="s2">paddling your distribution of weight on</p>
+<p begin="00:05:37.229" end="00:05:41.550" style="s2">the board and these are so many</p>
+<p begin="00:05:39.840" end="00:05:43.289" style="s2">different feedback loops that the</p>
+<p begin="00:05:41.550" end="00:05:45.630" style="s2">relationship between cause and effect is</p>
+<p begin="00:05:43.289" end="00:05:48.360" style="s2">very unclear and things are changing</p>
+<p begin="00:05:45.630" end="00:05:51.000" style="s2">culling there&#39;s no two times</p>
+<p begin="00:05:48.360" end="00:05:56.010" style="s2">there&#39;s no way to surf the same wave</p>
+<p begin="00:05:51.000" end="00:06:00.330" style="s2">twice nonetheless with a appropriate</p>
+<p begin="00:05:56.010" end="00:06:03.419" style="s2">amount of experience and practice you</p>
+<p begin="00:06:00.330" end="00:06:05.460" style="s2">can build a capacity to become a very</p>
+<p begin="00:06:03.419" end="00:06:07.560" style="s2">skillful surfer and achieve something</p>
+<p begin="00:06:05.460" end="00:06:14.120" style="s2">that would be properly termed beautiful</p>
+<p begin="00:06:07.560" end="00:06:16.380" style="s2">and then this brings us to chaos if in</p>
+<p begin="00:06:14.120" end="00:06:17.669" style="s2">complication the relationship between</p>
+<p begin="00:06:16.380" end="00:06:21.389" style="s2">cause and effect is clear and</p>
+<p begin="00:06:17.669" end="00:06:23.820" style="s2">predictable and in complexity we have it</p>
+<p begin="00:06:21.389" end="00:06:27.720" style="s2">is unclear and yet we have dispositions</p>
+<p begin="00:06:23.820" end="00:06:31.169" style="s2">when we finally get to chaos we find</p>
+<p begin="00:06:27.720" end="00:06:34.199" style="s2">ourselves in a circumstance where even</p>
+<p begin="00:06:31.169" end="00:06:37.740" style="s2">dispositions go away and that in effect</p>
+<p begin="00:06:34.199" end="00:06:41.310" style="s2">in a chaotic system we have no basis for</p>
+<p begin="00:06:37.740" end="00:06:41.849" style="s2">making good choices so it&#39;s actually</p>
+<p begin="00:06:41.310" end="00:06:43.800" style="s2">easier to</p>
+<p begin="00:06:41.849" end="00:06:45.270" style="s2">jump to the example here we can imagine</p>
+<p begin="00:06:43.800" end="00:06:47.699" style="s2">that we&#39;re on one of those enormous</p>
+<p begin="00:06:45.270" end="00:06:55.080" style="s2">waves that Laird Hamilton made famous</p>
+<p begin="00:06:47.699" end="00:06:56.550" style="s2">and without knowing or willy-nilly we</p>
+<p begin="00:06:55.080" end="00:07:00.270" style="s2">find ourselves swept under by the wave</p>
+<p begin="00:06:56.550" end="00:07:02.580" style="s2">deep underwater twisted ahead of her</p>
+<p begin="00:07:00.270" end="00:07:05.699" style="s2">tail bubbles everywhere and it&#39;s</p>
+<p begin="00:07:02.580" end="00:07:09.149" style="s2">effectively pitch-black so this is chaos</p>
+<p begin="00:07:05.699" end="00:07:12.479" style="s2">we have no idea which way is up and if</p>
+<p begin="00:07:09.149" end="00:07:14.759" style="s2">we were to endeavor to swim to what we</p>
+<p begin="00:07:12.479" end="00:07:16.499" style="s2">may think is up we&#39;re just as likely to</p>
+<p begin="00:07:14.759" end="00:07:18.209" style="s2">be swimming down or towards the rocks as</p>
+<p begin="00:07:16.499" end="00:07:19.439" style="s2">we are towards the Serbs and even if I</p>
+<p begin="00:07:18.209" end="00:07:21.719" style="s2">may to the surface we may find might</p>
+<p begin="00:07:19.439" end="00:07:25.529" style="s2">find ourselves still in the middle of</p>
+<p begin="00:07:21.719" end="00:07:28.740" style="s2">the whitewater and phone chaos we can&#39;t</p>
+<p begin="00:07:25.529" end="00:07:33.059" style="s2">actually yet make a good choice and so</p>
+<p begin="00:07:28.740" end="00:07:37.019" style="s2">the way that one responds to chaos is to</p>
+<p begin="00:07:33.059" end="00:07:41.069" style="s2">wait to slow down to conserve your</p>
+<p begin="00:07:37.019" end="00:07:45.110" style="s2">capacity to respond if and when the</p>
+<p begin="00:07:41.069" end="00:07:49.469" style="s2">system transitions back into complexity</p>
+<p begin="00:07:45.110" end="00:07:55.259" style="s2">go limp conserve your energy and wait</p>
+<p begin="00:07:49.469" end="00:07:59.519" style="s2">and when you then notice that perhaps</p>
+<p begin="00:07:55.259" end="00:08:00.809" style="s2">light is up and the bubbles are all kind</p>
+<p begin="00:07:59.519" end="00:08:03.059" style="s2">of going in the same direction towards</p>
+<p begin="00:08:00.809" end="00:08:05.129" style="s2">the light you&#39;ve transitioned back into</p>
+<p begin="00:08:03.059" end="00:08:07.800" style="s2">a complex space and you can begin to</p>
+<p begin="00:08:05.129" end="00:08:11.819" style="s2">redeploy your stillness in this case to</p>
+<p begin="00:08:07.800" end="00:08:12.300" style="s2">swim to the surface and that&#39;s pretty</p>
+<p begin="00:08:11.819" end="00:08:17.669" style="s2">much it</p>
+<p begin="00:08:12.300" end="00:08:23.279" style="s2">so we have complicated complex chaotic</p>
+<p begin="00:08:17.669" end="00:08:27.800" style="s2">we have finite bounded clear causation</p>
+<p begin="00:08:23.279" end="00:08:30.240" style="s2">predictable results appropriately met by</p>
+<p begin="00:08:27.800" end="00:08:35.399" style="s2">expertise inclusive experts that can</p>
+<p begin="00:08:30.240" end="00:08:38.430" style="s2">manage complicated we have dispositions</p>
+<p begin="00:08:35.399" end="00:08:40.349" style="s2">we have subtle signals we have</p>
+<p begin="00:08:38.430" end="00:08:43.199" style="s2">experimentation and exploration in the</p>
+<p begin="00:08:40.349" end="00:08:49.399" style="s2">construction of an adaptive capacity in</p>
+<p begin="00:08:43.199" end="00:08:50.830" style="s2">complexity and then we have weighting</p>
+<p begin="00:08:49.399" end="00:08:53.650" style="s2">being in a little</p>
+<p begin="00:08:50.830" end="00:08:58.150" style="s2">space listening becoming very subtle</p>
+<p begin="00:08:53.650" end="00:09:03.180" style="s2">listening and allowing a chaotic space</p>
+<p begin="00:08:58.150" end="00:09:06.400" style="s2">to transform back into complex space</p>
+<p begin="00:09:03.180" end="00:09:09.810" style="s2">that&#39;s all I hope that this particular</p>
+<p begin="00:09:06.400" end="00:09:09.810" style="s2">concept proves useful</p>
+</div>
+</body>
+</tt>

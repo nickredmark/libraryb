@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:02.669" style="s2">hi today I would like to talk about</p>
+<p begin="00:00:01.350" end="00:00:04.799" style="s2">something that I have written about in</p>
+<p begin="00:00:02.669" end="00:00:09.650" style="s2">the past under the heading of the war on</p>
+<p begin="00:00:04.799" end="00:00:12.570" style="s2">sense-making so let&#39;s frame it like this</p>
+<p begin="00:00:09.650" end="00:00:14.849" style="s2">for a very long period of time as far as</p>
+<p begin="00:00:12.570" end="00:00:19.680" style="s2">I can tell us least as long as since</p>
+<p begin="00:00:14.849" end="00:00:21.449" style="s2">that giant obelisk helped chimpanzees</p>
+<p begin="00:00:19.680" end="00:00:25.619" style="s2">figure out how to kill each other with</p>
+<p begin="00:00:21.449" end="00:00:28.740" style="s2">bones we&#39;ve been working on different</p>
+<p begin="00:00:25.619" end="00:00:33.329" style="s2">ways to become more effective at killing</p>
+<p begin="00:00:28.740" end="00:00:35.550" style="s2">each other with weapons and yet at the</p>
+<p begin="00:00:33.329" end="00:00:39.320" style="s2">same time there was a particular moment</p>
+<p begin="00:00:35.550" end="00:00:41.870" style="s2">when the combination between our</p>
+<p begin="00:00:39.320" end="00:00:45.629" style="s2">incessant drive to figure out how to</p>
+<p begin="00:00:41.870" end="00:00:48.180" style="s2">blow each other up met with a new set of</p>
+<p begin="00:00:45.629" end="00:00:52.770" style="s2">innovations in science most notably</p>
+<p begin="00:00:48.180" end="00:00:57.719" style="s2">physics and chemistry and in economy</p>
+<p begin="00:00:52.770" end="00:01:01.829" style="s2">most notably the industrial economy to</p>
+<p begin="00:00:57.719" end="00:01:04.799" style="s2">create a distinctly new capacity along</p>
+<p begin="00:01:01.829" end="00:01:06.720" style="s2">this long history of figuring out how to</p>
+<p begin="00:01:04.799" end="00:01:09.570" style="s2">kill each other</p>
+<p begin="00:01:06.720" end="00:01:12.479" style="s2">and this new capacity accelerated</p>
+<p begin="00:01:09.570" end="00:01:14.369" style="s2">through the 19th and 20th centuries</p>
+<p begin="00:01:12.479" end="00:01:18.540" style="s2">until it it reached what seems to have</p>
+<p begin="00:01:14.369" end="00:01:21.470" style="s2">been a peak roughly in the 1950s where</p>
+<p begin="00:01:18.540" end="00:01:24.780" style="s2">with the invention of the hydrogen bomb</p>
+<p begin="00:01:21.470" end="00:01:27.500" style="s2">we had reached the the singular moment</p>
+<p begin="00:01:24.780" end="00:01:30.030" style="s2">where we had the capacity to in fact</p>
+<p begin="00:01:27.500" end="00:01:31.850" style="s2">extinct ourselves as a species and</p>
+<p begin="00:01:30.030" end="00:01:36.570" style="s2">possibly cleanse the entire globe of</p>
+<p begin="00:01:31.850" end="00:01:39.570" style="s2">biological life and the point being that</p>
+<p begin="00:01:36.570" end="00:01:43.320" style="s2">that was both a function of a particular</p>
+<p begin="00:01:39.570" end="00:01:45.270" style="s2">combination of capacities and the</p>
+<p begin="00:01:43.320" end="00:01:49.110" style="s2">cessation to a greater or lesser extent</p>
+<p begin="00:01:45.270" end="00:01:53.130" style="s2">of a particular arc in the history of</p>
+<p begin="00:01:49.110" end="00:01:55.649" style="s2">war which is to say that for sure we</p>
+<p begin="00:01:53.130" end="00:01:57.570" style="s2">have continued to complete the set in</p>
+<p begin="00:01:55.649" end="00:02:01.350" style="s2">all the different tools in the toolkit</p>
+<p begin="00:01:57.570" end="00:02:04.590" style="s2">of how to kill each other but everything</p>
+<p begin="00:02:01.350" end="00:02:09.300" style="s2">kind of pales in comparison to mass</p>
+<p begin="00:02:04.590" end="00:02:10.920" style="s2">nuclear holocaust now within that same</p>
+<p begin="00:02:09.300" end="00:02:12.650" style="s2">notion all right the idea of there being</p>
+<p begin="00:02:10.920" end="00:02:14.329" style="s2">a very long arc and yet there being</p>
+<p begin="00:02:12.650" end="00:02:16.489" style="s2">shifting capabilities which has led to</p>
+<p begin="00:02:14.329" end="00:02:18.530" style="s2">an acceleration I&#39;d like to then</p>
+<p begin="00:02:16.489" end="00:02:21.110" style="s2">consider a different story</p>
+<p begin="00:02:18.530" end="00:02:23.720" style="s2">I&#39;m very closely allied story which is</p>
+<p begin="00:02:21.110" end="00:02:27.019" style="s2">to say that for a very long period of</p>
+<p begin="00:02:23.720" end="00:02:31.250" style="s2">time people have noticed that there is a</p>
+<p begin="00:02:27.019" end="00:02:35.650" style="s2">way to achieve differential individual</p>
+<p begin="00:02:31.250" end="00:02:39.069" style="s2">advantage by being good at lying to</p>
+<p begin="00:02:35.650" end="00:02:41.900" style="s2">manipulating and deceiving other people</p>
+<p begin="00:02:39.069" end="00:02:45.620" style="s2">and of course this fact has shown up in</p>
+<p begin="00:02:41.900" end="00:02:51.620" style="s2">various kinds of technologies of this</p>
+<p begin="00:02:45.620" end="00:02:54.859" style="s2">type forever and yet round about the the</p>
+<p begin="00:02:51.620" end="00:02:58.849" style="s2">turn of the 20th century round about the</p>
+<p begin="00:02:54.859" end="00:03:01.970" style="s2">point at which the the arc of weapons of</p>
+<p begin="00:02:58.849" end="00:03:05.900" style="s2">mass destruction was beginning to reach</p>
+<p begin="00:03:01.970" end="00:03:09.769" style="s2">its apex we entered into a new triangle</p>
+<p begin="00:03:05.900" end="00:03:13.430" style="s2">in this case the sciences had turned</p>
+<p begin="00:03:09.769" end="00:03:17.000" style="s2">from outward physics and chemistry to</p>
+<p begin="00:03:13.430" end="00:03:22.669" style="s2">inward psychology cognitive neuroscience</p>
+<p begin="00:03:17.000" end="00:03:27.019" style="s2">neuroscience itself the the economy had</p>
+<p begin="00:03:22.669" end="00:03:30.760" style="s2">in turn turned from industrialization</p>
+<p begin="00:03:27.019" end="00:03:33.049" style="s2">and the deployment of energy to</p>
+<p begin="00:03:30.760" end="00:03:39.379" style="s2">commercialization and the creation of</p>
+<p begin="00:03:33.049" end="00:03:44.359" style="s2">the consumer culture and war had turned</p>
+<p begin="00:03:39.379" end="00:03:46.760" style="s2">into the war on sense-making now and in</p>
+<p begin="00:03:44.359" end="00:03:49.209" style="s2">just the same way as the previous war</p>
+<p begin="00:03:46.760" end="00:03:54.799" style="s2">once that triangle had been established</p>
+<p begin="00:03:49.209" end="00:03:57.650" style="s2">accelerated from musket to nuke my</p>
+<p begin="00:03:54.799" end="00:03:59.540" style="s2">proposition is that something similar to</p>
+<p begin="00:03:57.650" end="00:04:02.840" style="s2">that has actually happened in the domain</p>
+<p begin="00:03:59.540" end="00:04:05.319" style="s2">of the were on sense-making and this is</p>
+<p begin="00:04:02.840" end="00:04:05.319" style="s2">where things get interesting</p>
+<p begin="00:04:05.799" end="00:04:13.940" style="s2">well it is daunting to be present to the</p>
+<p begin="00:04:11.900" end="00:04:18.709" style="s2">explosive destructive capacities of a</p>
+<p begin="00:04:13.940" end="00:04:22.849" style="s2">hydrogen bomb it is at least obvious by</p>
+<p begin="00:04:18.709" end="00:04:27.550" style="s2">contrast an accelerating capacity in a</p>
+<p begin="00:04:22.849" end="00:04:27.550" style="s2">war on sense-making is by definition</p>
+<p begin="00:04:27.639" end="00:04:40.910" style="s2">increasingly a cult let me put this a</p>
+<p begin="00:04:33.979" end="00:04:42.289" style="s2">slightly different way in the 1970s for</p>
+<p begin="00:04:40.910" end="00:04:45.770" style="s2">a variety of reasons</p>
+<p begin="00:04:42.289" end="00:04:49.340" style="s2">we specifically the people of the United</p>
+<p begin="00:04:45.770" end="00:04:51.460" style="s2">States became aware of certain</p>
+<p begin="00:04:49.340" end="00:04:53.810" style="s2">activities that had been undertaken</p>
+<p begin="00:04:51.460" end="00:04:59.570" style="s2">largely but not exclusively by the CIA</p>
+<p begin="00:04:53.810" end="00:05:03.650" style="s2">as their part in the Cold War portion of</p>
+<p begin="00:04:59.570" end="00:05:07.039" style="s2">the war on sense-making one piece of</p>
+<p begin="00:05:03.650" end="00:05:09.169" style="s2">this uncovering was part of something</p>
+<p begin="00:05:07.039" end="00:05:11.449" style="s2">called the Church Commission now in the</p>
+<p begin="00:05:09.169" end="00:05:13.520" style="s2">church commission we became aware of the</p>
+<p begin="00:05:11.449" end="00:05:18.500" style="s2">fact that the CIA had been doing things</p>
+<p begin="00:05:13.520" end="00:05:20.960" style="s2">that had not been known before and oddly</p>
+<p begin="00:05:18.500" end="00:05:23.180" style="s2">enough are broadly not well understood</p>
+<p begin="00:05:20.960" end="00:05:23.660" style="s2">now and we&#39;re gonna get into that in a</p>
+<p begin="00:05:23.180" end="00:05:26.720" style="s2">second</p>
+<p begin="00:05:23.660" end="00:05:29.650" style="s2">but things like a project called MKULTRA</p>
+<p begin="00:05:26.720" end="00:05:34.610" style="s2">another one called Mockingbird</p>
+<p begin="00:05:29.650" end="00:05:36.590" style="s2">Northwoods paperclip all of which are or</p>
+<p begin="00:05:34.610" end="00:05:41.120" style="s2">were real meaning that they&#39;re not made</p>
+<p begin="00:05:36.590" end="00:05:44.949" style="s2">up sophisticated command and substantial</p>
+<p begin="00:05:41.120" end="00:05:48.979" style="s2">resources and clearly involved</p>
+<p begin="00:05:44.949" end="00:05:50.780" style="s2">researching how to more fully extend and</p>
+<p begin="00:05:48.979" end="00:05:55.820" style="s2">develop capacities in the war on</p>
+<p begin="00:05:50.780" end="00:06:00.590" style="s2">sense-making none of this is to say that</p>
+<p begin="00:05:55.820" end="00:06:04.960" style="s2">the CIA is or was particularly either</p>
+<p begin="00:06:00.590" end="00:06:08.570" style="s2">malevolent or uniquely skillful in this</p>
+<p begin="00:06:04.960" end="00:06:13.070" style="s2">proceeding after all there was a war on</p>
+<p begin="00:06:08.570" end="00:06:16.970" style="s2">and war is a competition and in</p>
+<p begin="00:06:13.070" end="00:06:18.650" style="s2">competition you work hard to be more</p>
+<p begin="00:06:16.970" end="00:06:20.210" style="s2">effective than those with whom you&#39;re</p>
+<p begin="00:06:18.650" end="00:06:22.310" style="s2">competing and there&#39;s an interesting</p>
+<p begin="00:06:20.210" end="00:06:27.610" style="s2">characteristic that I don&#39;t think is</p>
+<p begin="00:06:22.310" end="00:06:30.680" style="s2">fully grasped enough which is that</p>
+<p begin="00:06:27.610" end="00:06:33.229" style="s2">innovation is hard and copying is easy</p>
+<p begin="00:06:30.680" end="00:06:37.159" style="s2">and so when you&#39;re engaged in a</p>
+<p begin="00:06:33.229" end="00:06:38.870" style="s2">competition along the threshold of</p>
+<p begin="00:06:37.159" end="00:06:42.830" style="s2">innovation</p>
+<p begin="00:06:38.870" end="00:06:44.720" style="s2">this puts a premium on being skillful at</p>
+<p begin="00:06:42.830" end="00:06:48.350" style="s2">innovation pushing the state of the art</p>
+<p begin="00:06:44.720" end="00:06:52.900" style="s2">forward but also has this interesting</p>
+<p begin="00:06:48.350" end="00:06:55.370" style="s2">consequence that all of your competitors</p>
+<p begin="00:06:52.900" end="00:06:56.660" style="s2">more or less get your innovation for</p>
+<p begin="00:06:55.370" end="00:06:58.340" style="s2">free to the degree which they can</p>
+<p begin="00:06:56.660" end="00:06:59.690" style="s2">identify what it was they can copy it</p>
+<p begin="00:06:58.340" end="00:07:01.160" style="s2">and then the state of the field moves</p>
+<p begin="00:06:59.690" end="00:07:04.550" style="s2">right so this actually pushes the entire</p>
+<p begin="00:07:01.160" end="00:07:08.960" style="s2">field forward along the threshold</p>
+<p begin="00:07:04.550" end="00:07:13.520" style="s2">innovation so for example it was really</p>
+<p begin="00:07:08.960" end="00:07:16.190" style="s2">hard to invent the atomic bomb but two</p>
+<p begin="00:07:13.520" end="00:07:18.890" style="s2">years after we had done that the Soviets</p>
+<p begin="00:07:16.190" end="00:07:21.830" style="s2">had copied it or whatever a few years</p>
+<p begin="00:07:18.890" end="00:07:23.510" style="s2">after he&#39;d done that now part of that</p>
+<p begin="00:07:21.830" end="00:07:24.670" style="s2">was through the use of espionage but</p>
+<p begin="00:07:23.510" end="00:07:26.750" style="s2">doesn&#39;t matter the point is that</p>
+<p begin="00:07:24.670" end="00:07:28.820" style="s2">innovation is hard and copying is easy</p>
+<p begin="00:07:26.750" end="00:07:33.800" style="s2">however did you do about doing your copy</p>
+<p begin="00:07:28.820" end="00:07:38.060" style="s2">the point being that one we can imagine</p>
+<p begin="00:07:33.800" end="00:07:40.010" style="s2">that the CIA was part of a larger field</p>
+<p begin="00:07:38.060" end="00:07:41.660" style="s2">of play of many different agents of whom</p>
+<p begin="00:07:40.010" end="00:07:44.540" style="s2">the KGB was certainly a key piece but</p>
+<p begin="00:07:41.660" end="00:07:47.120" style="s2">not the only who are all exploring the</p>
+<p begin="00:07:44.540" end="00:07:49.460" style="s2">overall space of the war on sense-making</p>
+<p begin="00:07:47.120" end="00:07:51.470" style="s2">and every single time any of them made</p>
+<p begin="00:07:49.460" end="00:07:54.980" style="s2">any meaningful form of innovation</p>
+<p begin="00:07:51.470" end="00:07:58.580" style="s2">each would endeavor to copy that and</p>
+<p begin="00:07:54.980" end="00:08:01.310" style="s2">move the field of play forward so this</p>
+<p begin="00:07:58.580" end="00:08:05.090" style="s2">then has an implication when we look at</p>
+<p begin="00:08:01.310" end="00:08:08.600" style="s2">the state of the art as we were able to</p>
+<p begin="00:08:05.090" end="00:08:11.060" style="s2">see it to degree which by the way that</p>
+<p begin="00:08:08.600" end="00:08:12.170" style="s2">was a valid seeing at all we saw</p>
+<p begin="00:08:11.060" end="00:08:12.560" style="s2">something it&#39;s not clear we saw</p>
+<p begin="00:08:12.170" end="00:08:15.200" style="s2">everything</p>
+<p begin="00:08:12.560" end="00:08:18.850" style="s2">yeah the Church Commission the state of</p>
+<p begin="00:08:15.200" end="00:08:24.500" style="s2">the art in the mid 70s of the CIA</p>
+<p begin="00:08:18.850" end="00:08:27.490" style="s2">we should propose that that state of the</p>
+<p begin="00:08:24.500" end="00:08:31.070" style="s2">art was broadly shared by many other</p>
+<p begin="00:08:27.490" end="00:08:35.780" style="s2">players and even to the degree to which</p>
+<p begin="00:08:31.070" end="00:08:38.390" style="s2">we might imagine that the various laws</p>
+<p begin="00:08:35.780" end="00:08:43.100" style="s2">that were passed restricting CIA</p>
+<p begin="00:08:38.390" end="00:08:44.330" style="s2">activity in the 70s had any impact you</p>
+<p begin="00:08:43.100" end="00:08:45.770" style="s2">know obviously those didn&#39;t have any</p>
+<p begin="00:08:44.330" end="00:08:47.960" style="s2">impact on the rest of the folks in the</p>
+<p begin="00:08:45.770" end="00:08:48.860" style="s2">more on sense making so this the field</p>
+<p begin="00:08:47.960" end="00:08:52.770" style="s2">of play would have continued to</p>
+<p begin="00:08:48.860" end="00:08:57.120" style="s2">accelerate and so we have a</p>
+<p begin="00:08:52.770" end="00:08:58.800" style="s2">we haven&#39;t actually had a caller ping or</p>
+<p begin="00:08:57.120" end="00:09:00.750" style="s2">a discovery of the current state of the</p>
+<p begin="00:08:58.800" end="00:09:02.460" style="s2">art of the various taking tools and</p>
+<p begin="00:09:00.750" end="00:09:08.330" style="s2">techniques and the one since making it</p>
+<p begin="00:09:02.460" end="00:09:10.200" style="s2">since then so for 40 years or so</p>
+<p begin="00:09:08.330" end="00:09:11.400" style="s2">something&#39;s been going on and we don&#39;t</p>
+<p begin="00:09:10.200" end="00:09:12.180" style="s2">really have any insight into what that</p>
+<p begin="00:09:11.400" end="00:09:15.510" style="s2">something is</p>
+<p begin="00:09:12.180" end="00:09:17.130" style="s2">and yet if the if the model is even</p>
+<p begin="00:09:15.510" end="00:09:19.050" style="s2">vaguely like the model that was proposed</p>
+<p begin="00:09:17.130" end="00:09:22.290" style="s2">with regard to weapons of mass</p>
+<p begin="00:09:19.050" end="00:09:24.900" style="s2">destruction you might say that the</p>
+<p begin="00:09:22.290" end="00:09:28.860" style="s2">seventies may be represented world war 1</p>
+<p begin="00:09:24.900" end="00:09:30.480" style="s2">and in that start which is to say the</p>
+<p begin="00:09:28.860" end="00:09:32.790" style="s2">very beginning of the introduction of</p>
+<p begin="00:09:30.480" end="00:09:36.960" style="s2">airplanes and tanks large cannons in</p>
+<p begin="00:09:32.790" end="00:09:38.520" style="s2">trench warfare and that we should expect</p>
+<p begin="00:09:36.960" end="00:09:40.380" style="s2">to be somewhere around the introduction</p>
+<p begin="00:09:38.520" end="00:09:41.610" style="s2">of the atomic bomb and the war on</p>
+<p begin="00:09:40.380" end="00:09:45.990" style="s2">sense-making and it&#39;s not clear exactly</p>
+<p begin="00:09:41.610" end="00:09:50.089" style="s2">what that is does that make sense</p>
+<p begin="00:09:45.990" end="00:09:55.470" style="s2">the point being if you aren&#39;t right now</p>
+<p begin="00:09:50.089" end="00:09:59.300" style="s2">wondering how effective various</p>
+<p begin="00:09:55.470" end="00:10:07.589" style="s2">potential agents are at deception</p>
+<p begin="00:09:59.300" end="00:10:12.650" style="s2">manipulation confusion then either you</p>
+<p begin="00:10:07.589" end="00:10:15.750" style="s2">have an uniquely high capacity to endure</p>
+<p begin="00:10:12.650" end="00:10:17.400" style="s2">uncertainty or you&#39;re not really</p>
+<p begin="00:10:15.750" end="00:10:21.660" style="s2">thinking clearly about the implications</p>
+<p begin="00:10:17.400" end="00:10:26.220" style="s2">of the whirlen sense-making and then the</p>
+<p begin="00:10:21.660" end="00:10:30.360" style="s2">final point well weapons of mass</p>
+<p begin="00:10:26.220" end="00:10:32.870" style="s2">destruction are quite problematic and</p>
+<p begin="00:10:30.360" end="00:10:35.600" style="s2">the ability to actually deploy</p>
+<p begin="00:10:32.870" end="00:10:40.230" style="s2">destruction at a level that could</p>
+<p begin="00:10:35.600" end="00:10:44.430" style="s2">extinguish the species is quite a bit of</p>
+<p begin="00:10:40.230" end="00:10:45.690" style="s2">a problem their moral equivalent in the</p>
+<p begin="00:10:44.430" end="00:10:50.100" style="s2">domain of sense-making</p>
+<p begin="00:10:45.690" end="00:10:52.500" style="s2">is substantially worse as mentioned for</p>
+<p begin="00:10:50.100" end="00:10:55.230" style="s2">example at the very least weapons of</p>
+<p begin="00:10:52.500" end="00:10:56.940" style="s2">mass destruction are obvious so we can</p>
+<p begin="00:10:55.230" end="00:10:58.680" style="s2">see them and we can feel them and we can</p>
+<p begin="00:10:56.940" end="00:11:00.390" style="s2">we can sense the the dangers that they</p>
+<p begin="00:10:58.680" end="00:11:05.530" style="s2">pose and therefore endeavour to respond</p>
+<p begin="00:11:00.390" end="00:11:07.800" style="s2">to them the the web</p>
+<p begin="00:11:05.530" end="00:11:11.470" style="s2">of the war on sense-making are</p>
+<p begin="00:11:07.800" end="00:11:14.500" style="s2">destructive precisely to that capacity</p>
+<p begin="00:11:11.470" end="00:11:17.080" style="s2">we cannot see them we cannot make sense</p>
+<p begin="00:11:14.500" end="00:11:20.260" style="s2">of them we cannot understand them</p>
+<p begin="00:11:17.080" end="00:11:24.820" style="s2">therefore we cannot respond to them past</p>
+<p begin="00:11:20.260" end="00:11:27.310" style="s2">a certain threshold we may in fact be so</p>
+<p begin="00:11:24.820" end="00:11:31.180" style="s2">fully removed from our ability to make</p>
+<p begin="00:11:27.310" end="00:11:37.210" style="s2">sense that we will be simply incapable</p>
+<p begin="00:11:31.180" end="00:11:41.730" style="s2">of responding to them and so if you if</p>
+<p begin="00:11:37.210" end="00:11:41.730" style="s2">you feel like the combination between</p>
+<p begin="00:11:42.780" end="00:11:48.550" style="s2">commercial technology and that degree of</p>
+<p begin="00:11:46.630" end="00:11:50.340" style="s2">human endeavor that has carefully</p>
+<p begin="00:11:48.550" end="00:11:52.690" style="s2">figured out how to convince someone that</p>
+<p begin="00:11:50.340" end="00:11:54.880" style="s2">making a choice between peppermint soap</p>
+<p begin="00:11:52.690" end="00:12:00.010" style="s2">and spearmint soap is a meaningful</p>
+<p begin="00:11:54.880" end="00:12:02.620" style="s2">choice the entire set of science is</p>
+<p begin="00:12:00.010" end="00:12:08.650" style="s2">associated with how human beings go</p>
+<p begin="00:12:02.620" end="00:12:12.640" style="s2">about using mind in the world and the</p>
+<p begin="00:12:08.650" end="00:12:16.839" style="s2">military industrial complex you&#39;re right</p>
+<p begin="00:12:12.640" end="00:12:19.900" style="s2">and getting a hold of that and a grasp</p>
+<p begin="00:12:16.839" end="00:12:23.220" style="s2">of that is a big piece of any valid</p>
+<p begin="00:12:19.900" end="00:12:23.220" style="s2">strategy in the contemporary environment</p>
+</div>
+</body>
+</tt>

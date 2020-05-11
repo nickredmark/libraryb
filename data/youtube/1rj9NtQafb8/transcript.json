@@ -1,0 +1,7227 @@
+[
+  {
+    "text": "[Music]",
+    "begin": "00:00:00.510",
+    "end": "00:00:10.320"
+  },
+  {
+    "text": "welcome to another episode of head first",
+    "begin": "00:00:06.950",
+    "end": "00:00:12.480"
+  },
+  {
+    "text": "with dr. hill today's guest is Daniel",
+    "begin": "00:00:10.320",
+    "end": "00:00:14.070"
+  },
+  {
+    "text": "schmuck Tim burger who is a co-founder",
+    "begin": "00:00:12.480",
+    "end": "00:00:17.009"
+  },
+  {
+    "text": "and R&D director of the neuro hacker",
+    "begin": "00:00:14.070",
+    "end": "00:00:19.589"
+  },
+  {
+    "text": "collective which sounds kind of exciting",
+    "begin": "00:00:17.009",
+    "end": "00:00:21.960"
+  },
+  {
+    "text": "so Dan is going to tell us all kinds of",
+    "begin": "00:00:19.589",
+    "end": "00:00:23.579"
+  },
+  {
+    "text": "cool things today and dig into his",
+    "begin": "00:00:21.960",
+    "end": "00:00:24.599"
+  },
+  {
+    "text": "history a little bit and some of the",
+    "begin": "00:00:23.579",
+    "end": "00:00:26.669"
+  },
+  {
+    "text": "projects he's working on so welcome to",
+    "begin": "00:00:24.599",
+    "end": "00:00:28.319"
+  },
+  {
+    "text": "the show today Daniel thanks for having",
+    "begin": "00:00:26.669",
+    "end": "00:00:29.339"
+  },
+  {
+    "text": "me it's good to be here with you yeah",
+    "begin": "00:00:28.319",
+    "end": "00:00:31.470"
+  },
+  {
+    "text": "happy to have you so first of all what",
+    "begin": "00:00:29.339",
+    "end": "00:00:33.629"
+  },
+  {
+    "text": "is this collective of neuro hackers you",
+    "begin": "00:00:31.470",
+    "end": "00:00:36.989"
+  },
+  {
+    "text": "are assembling it sounds like a you know",
+    "begin": "00:00:33.629",
+    "end": "00:00:40.199"
+  },
+  {
+    "text": "sort of pie-in-the-sky big project where",
+    "begin": "00:00:36.989",
+    "end": "00:00:41.960"
+  },
+  {
+    "text": "you're hit you're aiming for a lot of",
+    "begin": "00:00:40.199",
+    "end": "00:00:45.420"
+  },
+  {
+    "text": "world-changing goals but can you unpack",
+    "begin": "00:00:41.960",
+    "end": "00:00:47.190"
+  },
+  {
+    "text": "a little bit for us what your your",
+    "begin": "00:00:45.420",
+    "end": "00:00:49.920"
+  },
+  {
+    "text": "approach here yeah so by neuro hacking",
+    "begin": "00:00:47.190",
+    "end": "00:00:51.780"
+  },
+  {
+    "text": "we mean anything that can optimize the",
+    "begin": "00:00:49.920",
+    "end": "00:00:54.329"
+  },
+  {
+    "text": "mind brain interface and the function",
+    "begin": "00:00:51.780",
+    "end": "00:00:56.609"
+  },
+  {
+    "text": "thereof so this is cognitive and",
+    "begin": "00:00:54.329",
+    "end": "00:00:58.980"
+  },
+  {
+    "text": "psychomotor and health and well-being",
+    "begin": "00:00:56.609",
+    "end": "00:01:02.280"
+  },
+  {
+    "text": "and so we could roughly define it as",
+    "begin": "00:00:58.980",
+    "end": "00:01:04.619"
+  },
+  {
+    "text": "well-being optimization but even larger",
+    "begin": "00:01:02.280",
+    "end": "00:01:05.939"
+  },
+  {
+    "text": "than that we think of it as sovereignty",
+    "begin": "00:01:04.619",
+    "end": "00:01:08.729"
+  },
+  {
+    "text": "optimization people's capacity to make",
+    "begin": "00:01:05.939",
+    "end": "00:01:10.649"
+  },
+  {
+    "text": "good choices right to be adaptive which",
+    "begin": "00:01:08.729",
+    "end": "00:01:13.470"
+  },
+  {
+    "text": "is a function of intelligence of agency",
+    "begin": "00:01:10.649",
+    "end": "00:01:15.659"
+  },
+  {
+    "text": "of sentient soul together and there's",
+    "begin": "00:01:13.470",
+    "end": "00:01:18.719"
+  },
+  {
+    "text": "obviously a kind of human software right",
+    "begin": "00:01:15.659",
+    "end": "00:01:20.490"
+  },
+  {
+    "text": "psychology here and there's human",
+    "begin": "00:01:18.719",
+    "end": "00:01:22.619"
+  },
+  {
+    "text": "Hardware physiology involved and we know",
+    "begin": "00:01:20.490",
+    "end": "00:01:24.210"
+  },
+  {
+    "text": "that's a software hardware divide in",
+    "begin": "00:01:22.619",
+    "end": "00:01:26.810"
+  },
+  {
+    "text": "humans is a plastic one it's",
+    "begin": "00:01:24.210",
+    "end": "00:01:28.829"
+  },
+  {
+    "text": "continuously inter affecting each other",
+    "begin": "00:01:26.810",
+    "end": "00:01:31.860"
+  },
+  {
+    "text": "and so you know your work with",
+    "begin": "00:01:28.829",
+    "end": "00:01:35.280"
+  },
+  {
+    "text": "neurofeedback is neuro hacking the other",
+    "begin": "00:01:31.860",
+    "end": "00:01:36.390"
+  },
+  {
+    "text": "people you've had on the show to",
+    "begin": "00:01:35.280",
+    "end": "00:01:38.460"
+  },
+  {
+    "text": "discussing meditation etc is all in that",
+    "begin": "00:01:36.390",
+    "end": "00:01:41.310"
+  },
+  {
+    "text": "space so we're interested in all",
+    "begin": "00:01:38.460",
+    "end": "00:01:43.740"
+  },
+  {
+    "text": "categories of technologies that can",
+    "begin": "00:01:41.310",
+    "end": "00:01:49.200"
+  },
+  {
+    "text": "meaningfully increase the homeostatic",
+    "begin": "00:01:43.740",
+    "end": "00:01:51.960"
+  },
+  {
+    "text": "capacity the dynamics as you like to",
+    "begin": "00:01:49.200",
+    "end": "00:01:54.149"
+  },
+  {
+    "text": "call them yeah of the human neuro",
+    "begin": "00:01:51.960",
+    "end": "00:01:56.670"
+  },
+  {
+    "text": "regulatory system and thereby increase",
+    "begin": "00:01:54.149",
+    "end": "00:01:59.729"
+  },
+  {
+    "text": "people's capacity for complex thinking",
+    "begin": "00:01:56.670",
+    "end": "00:02:02.159"
+  },
+  {
+    "text": "emotional resilience etc and the reason",
+    "begin": "00:01:59.729",
+    "end": "00:02:05.070"
+  },
+  {
+    "text": "why collective is anyone that is doing",
+    "begin": "00:02:02.159",
+    "end": "00:02:06.600"
+  },
+  {
+    "text": "meaningful work here we want to figure",
+    "begin": "00:02:05.070",
+    "end": "00:02:08.730"
+  },
+  {
+    "text": "out how we can participate at a research",
+    "begin": "00:02:06.600",
+    "end": "00:02:10.710"
+  },
+  {
+    "text": "level and at a you know information",
+    "begin": "00:02:08.730",
+    "end": "00:02:13.470"
+  },
+  {
+    "text": "product level etc so like us",
+    "begin": "00:02:10.710",
+    "end": "00:02:15.780"
+  },
+  {
+    "text": "walking here together is is awesome",
+    "begin": "00:02:13.470",
+    "end": "00:02:18.450"
+  },
+  {
+    "text": "shape koshering information in the space",
+    "begin": "00:02:15.780",
+    "end": "00:02:21.000"
+  },
+  {
+    "text": "that's great so you say sovereignty it's",
+    "begin": "00:02:18.450",
+    "end": "00:02:23.810"
+  },
+  {
+    "text": "an interesting way to way to frame that",
+    "begin": "00:02:21.000",
+    "end": "00:02:27.270"
+  },
+  {
+    "text": "agency what do you mean by I mean what",
+    "begin": "00:02:23.810",
+    "end": "00:02:29.940"
+  },
+  {
+    "text": "what kinds of things are bottlenecks to",
+    "begin": "00:02:27.270",
+    "end": "00:02:34.970"
+  },
+  {
+    "text": "human agency that appear to be a mere",
+    "begin": "00:02:29.940",
+    "end": "00:02:38.520"
+  },
+  {
+    "text": "affected by things we can do to the",
+    "begin": "00:02:34.970",
+    "end": "00:02:40.980"
+  },
+  {
+    "text": "brain like what how can we affect agency",
+    "begin": "00:02:38.520",
+    "end": "00:02:42.780"
+  },
+  {
+    "text": "in tractable ways what are you saying",
+    "begin": "00:02:40.980",
+    "end": "00:02:45.780"
+  },
+  {
+    "text": "what are you exploring yeah so by agency",
+    "begin": "00:02:42.780",
+    "end": "00:02:48.990"
+  },
+  {
+    "text": "here we mean the the actuator capacity",
+    "begin": "00:02:45.780",
+    "end": "00:02:50.850"
+  },
+  {
+    "text": "of a complex system the ability to act",
+    "begin": "00:02:48.990",
+    "end": "00:02:53.790"
+  },
+  {
+    "text": "on and in the world okay send chance is",
+    "begin": "00:02:50.850",
+    "end": "00:02:55.800"
+  },
+  {
+    "text": "kind of roughly related to our scent our",
+    "begin": "00:02:53.790",
+    "end": "00:02:58.530"
+  },
+  {
+    "text": "sensory input capacity intelligence to",
+    "begin": "00:02:55.800",
+    "end": "00:03:00.030"
+  },
+  {
+    "text": "our information processing of that",
+    "begin": "00:02:58.530",
+    "end": "00:03:01.980"
+  },
+  {
+    "text": "sensory input so that those exist in a",
+    "begin": "00:03:00.030",
+    "end": "00:03:04.380"
+  },
+  {
+    "text": "closed-loop take in information about",
+    "begin": "00:03:01.980",
+    "end": "00:03:06.150"
+  },
+  {
+    "text": "the world which is internal and external",
+    "begin": "00:03:04.380",
+    "end": "00:03:09.300"
+  },
+  {
+    "text": "sensing process it to inform choice make",
+    "begin": "00:03:06.150",
+    "end": "00:03:11.100"
+  },
+  {
+    "text": "choice get that about that choice",
+    "begin": "00:03:09.300",
+    "end": "00:03:14.820"
+  },
+  {
+    "text": "recursively upregulate and so on the",
+    "begin": "00:03:11.100",
+    "end": "00:03:17.959"
+  },
+  {
+    "text": "agency side on the capacity to act",
+    "begin": "00:03:14.820",
+    "end": "00:03:21.239"
+  },
+  {
+    "text": "obviously that requires the capacity to",
+    "begin": "00:03:17.959",
+    "end": "00:03:22.920"
+  },
+  {
+    "text": "have good information and information",
+    "begin": "00:03:21.239",
+    "end": "00:03:24.540"
+  },
+  {
+    "text": "processing so there's good choice in",
+    "begin": "00:03:22.920",
+    "end": "00:03:26.070"
+  },
+  {
+    "text": "forming it right it also requires",
+    "begin": "00:03:24.540",
+    "end": "00:03:28.410"
+  },
+  {
+    "text": "impulse control yeah yeah one can",
+    "begin": "00:03:26.070",
+    "end": "00:03:30.120"
+  },
+  {
+    "text": "actually have executive function and all",
+    "begin": "00:03:28.410",
+    "end": "00:03:31.950"
+  },
+  {
+    "text": "that they now come to bear it also",
+    "begin": "00:03:30.120",
+    "end": "00:03:36.330"
+  },
+  {
+    "text": "requires the it on the you know kind of",
+    "begin": "00:03:31.950",
+    "end": "00:03:38.400"
+  },
+  {
+    "text": "choice making side of it requires the",
+    "begin": "00:03:36.330",
+    "end": "00:03:41.010"
+  },
+  {
+    "text": "capacity to think through things using",
+    "begin": "00:03:38.400",
+    "end": "00:03:42.989"
+  },
+  {
+    "text": "different frameworks right critical",
+    "begin": "00:03:41.010",
+    "end": "00:03:44.880"
+  },
+  {
+    "text": "thinking frameworks systemic thinking",
+    "begin": "00:03:42.989",
+    "end": "00:03:47.910"
+  },
+  {
+    "text": "frameworks lateral thinking etc but also",
+    "begin": "00:03:44.880",
+    "end": "00:03:51.450"
+  },
+  {
+    "text": "in the agency side emotional resilience",
+    "begin": "00:03:47.910",
+    "end": "00:03:53.190"
+  },
+  {
+    "text": "is a key factor so that as one is",
+    "begin": "00:03:51.450",
+    "end": "00:03:54.660"
+  },
+  {
+    "text": "working with things and difficulties",
+    "begin": "00:03:53.190",
+    "end": "00:03:56.540"
+  },
+  {
+    "text": "come they can process that",
+    "begin": "00:03:54.660",
+    "end": "00:03:58.620"
+  },
+  {
+    "text": "physiologically and psychologically in",
+    "begin": "00:03:56.540",
+    "end": "00:04:00.360"
+  },
+  {
+    "text": "ways that empower them to continue to",
+    "begin": "00:03:58.620",
+    "end": "00:04:02.430"
+  },
+  {
+    "text": "learn rather than get shut down and so",
+    "begin": "00:04:00.360",
+    "end": "00:04:04.080"
+  },
+  {
+    "text": "when we look at the physiology of that",
+    "begin": "00:04:02.430",
+    "end": "00:04:07.980"
+  },
+  {
+    "text": "we know a lot about how dopamine about",
+    "begin": "00:04:04.080",
+    "end": "00:04:10.080"
+  },
+  {
+    "text": "how adrenal hormones about how you know",
+    "begin": "00:04:07.980",
+    "end": "00:04:11.549"
+  },
+  {
+    "text": "many different aspects of neural",
+    "begin": "00:04:10.080",
+    "end": "00:04:13.650"
+  },
+  {
+    "text": "chemistry and physiology are involved in",
+    "begin": "00:04:11.549",
+    "end": "00:04:16.890"
+  },
+  {
+    "text": "one sense of drive one sense of reward",
+    "begin": "00:04:13.650",
+    "end": "00:04:19.100"
+  },
+  {
+    "text": "dynamics that can predispose",
+    "begin": "00:04:16.890",
+    "end": "00:04:20.910"
+  },
+  {
+    "text": "dysfunctional or more functional",
+    "begin": "00:04:19.100",
+    "end": "00:04:23.580"
+  },
+  {
+    "text": "patterns of human behavior increased",
+    "begin": "00:04:20.910",
+    "end": "00:04:25.500"
+  },
+  {
+    "text": "sense of capacity psychologically",
+    "begin": "00:04:23.580",
+    "end": "00:04:27.060"
+  },
+  {
+    "text": "physiologically etc",
+    "begin": "00:04:25.500",
+    "end": "00:04:28.889"
+  },
+  {
+    "text": "so again we're back to this somewhat",
+    "begin": "00:04:27.060",
+    "end": "00:04:30.540"
+  },
+  {
+    "text": "soft division between the software and",
+    "begin": "00:04:28.889",
+    "end": "00:04:33.540"
+  },
+  {
+    "text": "the hardware so on the hardware side",
+    "begin": "00:04:30.540",
+    "end": "00:04:35.400"
+  },
+  {
+    "text": "things as you said like impulsivity or",
+    "begin": "00:04:33.540",
+    "end": "00:04:36.690"
+  },
+  {
+    "text": "executive function",
+    "begin": "00:04:35.400",
+    "end": "00:04:38.220"
+  },
+  {
+    "text": "I think you'e Bleakley referred to",
+    "begin": "00:04:36.690",
+    "end": "00:04:41.280"
+  },
+  {
+    "text": "working memory essentially which is from",
+    "begin": "00:04:38.220",
+    "end": "00:04:43.620"
+  },
+  {
+    "text": "my perspective the biggest bottleneck in",
+    "begin": "00:04:41.280",
+    "end": "00:04:45.960"
+  },
+  {
+    "text": "human performance and one that appears",
+    "begin": "00:04:43.620",
+    "end": "00:04:51.450"
+  },
+  {
+    "text": "to be the least responsive to change but",
+    "begin": "00:04:45.960",
+    "end": "00:04:53.700"
+  },
+  {
+    "text": "also ways of thinking about emotional",
+    "begin": "00:04:51.450",
+    "end": "00:04:56.360"
+  },
+  {
+    "text": "regulation and decision-making criteria",
+    "begin": "00:04:53.700",
+    "end": "00:04:58.800"
+  },
+  {
+    "text": "I'm much more familiar with the",
+    "begin": "00:04:56.360",
+    "end": "00:05:00.900"
+  },
+  {
+    "text": "physiology side you know the biohacking",
+    "begin": "00:04:58.800",
+    "end": "00:05:03.480"
+  },
+  {
+    "text": "idea is on the brain not the mind",
+    "begin": "00:05:00.900",
+    "end": "00:05:06.810"
+  },
+  {
+    "text": "largely what are you seeing of some",
+    "begin": "00:05:03.480",
+    "end": "00:05:08.450"
+  },
+  {
+    "text": "interesting ways that we can get into",
+    "begin": "00:05:06.810",
+    "end": "00:05:14.760"
+  },
+  {
+    "text": "cognitive change so the core",
+    "begin": "00:05:08.450",
+    "end": "00:05:17.520"
+  },
+  {
+    "text": "psychological brain mind question right",
+    "begin": "00:05:14.760",
+    "end": "00:05:19.970"
+  },
+  {
+    "text": "is at the core of the philosophy of",
+    "begin": "00:05:17.520",
+    "end": "00:05:22.110"
+  },
+  {
+    "text": "neuroscience the philosophy of line the",
+    "begin": "00:05:19.970",
+    "end": "00:05:23.310"
+  },
+  {
+    "text": "philosophy of science itself right",
+    "begin": "00:05:22.110",
+    "end": "00:05:25.260"
+  },
+  {
+    "text": "because the brain mind gets into the",
+    "begin": "00:05:23.310",
+    "end": "00:05:27.150"
+  },
+  {
+    "text": "brain physics and the question of what",
+    "begin": "00:05:25.260",
+    "end": "00:05:28.770"
+  },
+  {
+    "text": "is consciousness what is physics how do",
+    "begin": "00:05:27.150",
+    "end": "00:05:30.479"
+  },
+  {
+    "text": "they interact is there bi-directional",
+    "begin": "00:05:28.770",
+    "end": "00:05:33.090"
+  },
+  {
+    "text": "causation beyond the scope of what we're",
+    "begin": "00:05:30.479",
+    "end": "00:05:34.350"
+  },
+  {
+    "text": "probably going to dive into here but",
+    "begin": "00:05:33.090",
+    "end": "00:05:35.790"
+  },
+  {
+    "text": "it's definitely at the core of what's",
+    "begin": "00:05:34.350",
+    "end": "00:05:39.290"
+  },
+  {
+    "text": "informing the whatever you do okay so",
+    "begin": "00:05:35.790",
+    "end": "00:05:39.290"
+  },
+  {
+    "text": "how in any model of philosophy of mind",
+    "begin": "00:05:41.300",
+    "end": "00:05:46.680"
+  },
+  {
+    "text": "however we address this it's clear that",
+    "begin": "00:05:44.700",
+    "end": "00:05:48.390"
+  },
+  {
+    "text": "what's happening physiologically is",
+    "begin": "00:05:46.680",
+    "end": "00:05:50.760"
+  },
+  {
+    "text": "affecting one subjective experience and",
+    "begin": "00:05:48.390",
+    "end": "00:05:52.320"
+  },
+  {
+    "text": "what's happening one subjective",
+    "begin": "00:05:50.760",
+    "end": "00:05:55.110"
+  },
+  {
+    "text": "experience is being mirrored on you know",
+    "begin": "00:05:52.320",
+    "end": "00:05:59.250"
+  },
+  {
+    "text": "affecting the physiology side and so we",
+    "begin": "00:05:55.110",
+    "end": "00:06:02.669"
+  },
+  {
+    "text": "can obviously modify brain chemistry the",
+    "begin": "00:05:59.250",
+    "end": "00:06:05.160"
+  },
+  {
+    "text": "whole field of Psychiatry is focused on",
+    "begin": "00:06:02.669",
+    "end": "00:06:06.930"
+  },
+  {
+    "text": "this right second row pharmacology and",
+    "begin": "00:06:05.160",
+    "end": "00:06:09.030"
+  },
+  {
+    "text": "not just pharmacology but neuro tech in",
+    "begin": "00:06:06.930",
+    "end": "00:06:11.669"
+  },
+  {
+    "text": "general sure sure to affect cognitive",
+    "begin": "00:06:09.030",
+    "end": "00:06:14.100"
+  },
+  {
+    "text": "and psychological predispositions and",
+    "begin": "00:06:11.669",
+    "end": "00:06:19.860"
+  },
+  {
+    "text": "capacities we can also do practices that",
+    "begin": "00:06:14.100",
+    "end": "00:06:22.500"
+  },
+  {
+    "text": "are involving one's direction of their",
+    "begin": "00:06:19.860",
+    "end": "00:06:24.330"
+  },
+  {
+    "text": "own attention and subjective experience",
+    "begin": "00:06:22.500",
+    "end": "00:06:25.289"
+  },
+  {
+    "text": "whether we're talking about cognitive",
+    "begin": "00:06:24.330",
+    "end": "00:06:27.660"
+  },
+  {
+    "text": "behavioral therapy CBT DBT other",
+    "begin": "00:06:25.289",
+    "end": "00:06:30.300"
+  },
+  {
+    "text": "psychotherapeutic processes or even what",
+    "begin": "00:06:27.660",
+    "end": "00:06:31.289"
+  },
+  {
+    "text": "we call more kind of mindfulness",
+    "begin": "00:06:30.300",
+    "end": "00:06:34.080"
+  },
+  {
+    "text": "processes of proprioception pay",
+    "begin": "00:06:31.289",
+    "end": "00:06:36.300"
+  },
+  {
+    "text": "attention to various sensations in the",
+    "begin": "00:06:34.080",
+    "end": "00:06:37.860"
+  },
+  {
+    "text": "body parts of the body and what's the",
+    "begin": "00:06:36.300",
+    "end": "00:06:39.599"
+  },
+  {
+    "text": "changes as I'm sure you've done a lot of",
+    "begin": "00:06:37.860",
+    "end": "00:06:40.390"
+  },
+  {
+    "text": "on",
+    "begin": "00:06:39.599",
+    "end": "00:06:44.300"
+  },
+  {
+    "text": "physiology EEG processes and then what's",
+    "begin": "00:06:40.390",
+    "end": "00:06:47.600"
+  },
+  {
+    "text": "the capacity for neuroplastic changes in",
+    "begin": "00:06:44.300",
+    "end": "00:06:49.430"
+  },
+  {
+    "text": "the connectome with enough time and",
+    "begin": "00:06:47.600",
+    "end": "00:06:53.300"
+  },
+  {
+    "text": "input in there so it's not only that the",
+    "begin": "00:06:49.430",
+    "end": "00:06:54.830"
+  },
+  {
+    "text": "division between hardware and software",
+    "begin": "00:06:53.300",
+    "end": "00:06:58.940"
+  },
+  {
+    "text": "is soft it's they are both Co evolving",
+    "begin": "00:06:54.830",
+    "end": "00:07:00.710"
+  },
+  {
+    "text": "all the time and interdependent and",
+    "begin": "00:06:58.940",
+    "end": "00:07:02.390"
+  },
+  {
+    "text": "changing each others you alluded to yeah",
+    "begin": "00:07:00.710",
+    "end": "00:07:04.280"
+  },
+  {
+    "text": "yeah I mean I have to say I'm a I'm a",
+    "begin": "00:07:02.390",
+    "end": "00:07:05.720"
+  },
+  {
+    "text": "reductionist in this space a little bit",
+    "begin": "00:07:04.280",
+    "end": "00:07:10.070"
+  },
+  {
+    "text": "so for me the mind is simply the part of",
+    "begin": "00:07:05.720",
+    "end": "00:07:11.660"
+  },
+  {
+    "text": "the brain that we are aware of and",
+    "begin": "00:07:10.070",
+    "end": "00:07:14.600"
+  },
+  {
+    "text": "experiencing and and I kind of don't go",
+    "begin": "00:07:11.660",
+    "end": "00:07:16.850"
+  },
+  {
+    "text": "below that I have a somewhat of a",
+    "begin": "00:07:14.600",
+    "end": "00:07:17.900"
+  },
+  {
+    "text": "Buddhist perspective where I don't",
+    "begin": "00:07:16.850",
+    "end": "00:07:20.570"
+  },
+  {
+    "text": "really believe in consciousness",
+    "begin": "00:07:17.900",
+    "end": "00:07:21.650"
+  },
+  {
+    "text": "I believe in moments of consciousness",
+    "begin": "00:07:20.570",
+    "end": "00:07:25.370"
+  },
+  {
+    "text": "but not the overarching I like if the",
+    "begin": "00:07:21.650",
+    "end": "00:07:27.320"
+  },
+  {
+    "text": "brain falls over from my perspective",
+    "begin": "00:07:25.370",
+    "end": "00:07:29.180"
+  },
+  {
+    "text": "that's it there's there's there is no",
+    "begin": "00:07:27.320",
+    "end": "00:07:32.140"
+  },
+  {
+    "text": "mind outside of the the coupe Oriole",
+    "begin": "00:07:29.180",
+    "end": "00:07:34.550"
+  },
+  {
+    "text": "boundary of the skull so to speak even",
+    "begin": "00:07:32.140",
+    "end": "00:07:36.260"
+  },
+  {
+    "text": "though I know that there are non-local",
+    "begin": "00:07:34.550",
+    "end": "00:07:37.490"
+  },
+  {
+    "text": "phenomenon that we're observing now in",
+    "begin": "00:07:36.260",
+    "end": "00:07:39.440"
+  },
+  {
+    "text": "the brain and I'm sure you are deeper",
+    "begin": "00:07:37.490",
+    "end": "00:07:41.240"
+  },
+  {
+    "text": "into this idea of begin the physics",
+    "begin": "00:07:39.440",
+    "end": "00:07:44.120"
+  },
+  {
+    "text": "affecting consciousness I've just saw a",
+    "begin": "00:07:41.240",
+    "end": "00:07:48.260"
+  },
+  {
+    "text": "saw paper last week that showed that",
+    "begin": "00:07:44.120",
+    "end": "00:07:51.350"
+  },
+  {
+    "text": "water has some strange kind of non-local",
+    "begin": "00:07:48.260",
+    "end": "00:07:55.790"
+  },
+  {
+    "text": "I hate to use word but quantum tunneling",
+    "begin": "00:07:51.350",
+    "end": "00:07:58.340"
+  },
+  {
+    "text": "in microtubules apparently under some",
+    "begin": "00:07:55.790",
+    "end": "00:08:00.380"
+  },
+  {
+    "text": "conditions it appears like water",
+    "begin": "00:07:58.340",
+    "end": "00:08:03.620"
+  },
+  {
+    "text": "molecules have a superposition and can",
+    "begin": "00:08:00.380",
+    "end": "00:08:06.020"
+  },
+  {
+    "text": "be in more than one place at once inside",
+    "begin": "00:08:03.620",
+    "end": "00:08:12.380"
+  },
+  {
+    "text": "of cells this is getting very quickly",
+    "begin": "00:08:06.020",
+    "end": "00:08:14.060"
+  },
+  {
+    "text": "out of the realm of anything we fully",
+    "begin": "00:08:12.380",
+    "end": "00:08:17.000"
+  },
+  {
+    "text": "understand but do you think that we are",
+    "begin": "00:08:14.060",
+    "end": "00:08:18.500"
+  },
+  {
+    "text": "getting to a place where we're starting",
+    "begin": "00:08:17.000",
+    "end": "00:08:20.479"
+  },
+  {
+    "text": "to run up against the you know the edge",
+    "begin": "00:08:18.500",
+    "end": "00:08:23.630"
+  },
+  {
+    "text": "of wander said science and we're off in",
+    "begin": "00:08:20.479",
+    "end": "00:08:26.390"
+  },
+  {
+    "text": "the quantum you know weeds or is there",
+    "begin": "00:08:23.630",
+    "end": "00:08:29.120"
+  },
+  {
+    "text": "something here that we're making actual",
+    "begin": "00:08:26.390",
+    "end": "00:08:32.650"
+  },
+  {
+    "text": "progress in you know actionable",
+    "begin": "00:08:29.120",
+    "end": "00:08:37.280"
+  },
+  {
+    "text": "understanding of the brain both so",
+    "begin": "00:08:32.650",
+    "end": "00:08:40.729"
+  },
+  {
+    "text": "quantum mechanics brings us to the limit",
+    "begin": "00:08:37.280",
+    "end": "00:08:42.860"
+  },
+  {
+    "text": "of understand ability not just what we",
+    "begin": "00:08:40.729",
+    "end": "00:08:44.870"
+  },
+  {
+    "text": "currently understand that the upper",
+    "begin": "00:08:42.860",
+    "end": "00:08:47.390"
+  },
+  {
+    "text": "limits on epistemology have",
+    "begin": "00:08:44.870",
+    "end": "00:08:49.850"
+  },
+  {
+    "text": "measurability them yeah and even beyond",
+    "begin": "00:08:47.390",
+    "end": "00:08:51.440"
+  },
+  {
+    "text": "measurability the upper limits on",
+    "begin": "00:08:49.850",
+    "end": "00:08:53.220"
+  },
+  {
+    "text": "ontology Reitman",
+    "begin": "00:08:51.440",
+    "end": "00:08:56.190"
+  },
+  {
+    "text": "Heisenberg's theorem doesn't just say we",
+    "begin": "00:08:53.220",
+    "end": "00:08:57.510"
+  },
+  {
+    "text": "can't know what it is because of",
+    "begin": "00:08:56.190",
+    "end": "00:09:00.120"
+  },
+  {
+    "text": "measurement issues it says it's and it",
+    "begin": "00:08:57.510",
+    "end": "00:09:01.350"
+  },
+  {
+    "text": "depends on which interpretation of",
+    "begin": "00:09:00.120",
+    "end": "00:09:03.990"
+  },
+  {
+    "text": "quantum mechanics but standard model",
+    "begin": "00:09:01.350",
+    "end": "00:09:07.080"
+  },
+  {
+    "text": "interpretation its fundamental nature is",
+    "begin": "00:09:03.990",
+    "end": "00:09:09.120"
+  },
+  {
+    "text": "not yet defined independent of an",
+    "begin": "00:09:07.080",
+    "end": "00:09:12.330"
+  },
+  {
+    "text": "observation dynamic that observation the",
+    "begin": "00:09:09.120",
+    "end": "00:09:14.850"
+  },
+  {
+    "text": "subject object interaction Arco defining",
+    "begin": "00:09:12.330",
+    "end": "00:09:16.470"
+  },
+  {
+    "text": "at the level of quantum particles mhm",
+    "begin": "00:09:14.850",
+    "end": "00:09:19.440"
+  },
+  {
+    "text": "it's a very philosophically weird thing",
+    "begin": "00:09:16.470",
+    "end": "00:09:21.660"
+  },
+  {
+    "text": "for us to think about using the",
+    "begin": "00:09:19.440",
+    "end": "00:09:23.850"
+  },
+  {
+    "text": "intuition that we have from traditional",
+    "begin": "00:09:21.660",
+    "end": "00:09:27.540"
+  },
+  {
+    "text": "larger particle physics yeah now we have",
+    "begin": "00:09:23.850",
+    "end": "00:09:29.640"
+  },
+  {
+    "text": "historically kind of written that off as",
+    "begin": "00:09:27.540",
+    "end": "00:09:31.110"
+  },
+  {
+    "text": "just super weird phenomena that happens",
+    "begin": "00:09:29.640",
+    "end": "00:09:33.570"
+  },
+  {
+    "text": "only below atoms then cancels itself out",
+    "begin": "00:09:31.110",
+    "end": "00:09:35.070"
+  },
+  {
+    "text": "at the level of atoms and so we don't",
+    "begin": "00:09:33.570",
+    "end": "00:09:37.080"
+  },
+  {
+    "text": "have to worry about it the topic of",
+    "begin": "00:09:35.070",
+    "end": "00:09:39.000"
+  },
+  {
+    "text": "quantum amplification are there quantum",
+    "begin": "00:09:37.080",
+    "end": "00:09:40.740"
+  },
+  {
+    "text": "phenomena that then affect the behavior",
+    "begin": "00:09:39.000",
+    "end": "00:09:43.020"
+  },
+  {
+    "text": "of things at a mesoscopic level at a",
+    "begin": "00:09:40.740",
+    "end": "00:09:45.330"
+  },
+  {
+    "text": "Newtonian physics level or right uh-huh",
+    "begin": "00:09:43.020",
+    "end": "00:09:47.550"
+  },
+  {
+    "text": "so this is you know the work of Stewart",
+    "begin": "00:09:45.330",
+    "end": "00:09:49.350"
+  },
+  {
+    "text": "Kaufman the work of other people at",
+    "begin": "00:09:47.550",
+    "end": "00:09:51.120"
+  },
+  {
+    "text": "Santa Fe Institute of complexity science",
+    "begin": "00:09:49.350",
+    "end": "00:09:52.560"
+  },
+  {
+    "text": "the work of people like Stuart Hameroff",
+    "begin": "00:09:51.120",
+    "end": "00:09:57.840"
+  },
+  {
+    "text": "have really shown quite clearly the",
+    "begin": "00:09:52.560",
+    "end": "00:09:59.610"
+  },
+  {
+    "text": "quantum amplification does happen which",
+    "begin": "00:09:57.840",
+    "end": "00:10:02.880"
+  },
+  {
+    "text": "means that the non-deterministic right a",
+    "begin": "00:09:59.610",
+    "end": "00:10:04.830"
+  },
+  {
+    "text": "causal phenomena at a quantum level are",
+    "begin": "00:10:02.880",
+    "end": "00:10:06.660"
+  },
+  {
+    "text": "affecting macroscopic behavior at the",
+    "begin": "00:10:04.830",
+    "end": "00:10:09.020"
+  },
+  {
+    "text": "level of brains that still follows",
+    "begin": "00:10:06.660",
+    "end": "00:10:11.600"
+  },
+  {
+    "text": "probability distributions but not",
+    "begin": "00:10:09.020",
+    "end": "00:10:15.120"
+  },
+  {
+    "text": "determinism and I so this is this is a",
+    "begin": "00:10:11.600",
+    "end": "00:10:17.040"
+  },
+  {
+    "text": "very interesting very important weird",
+    "begin": "00:10:15.120",
+    "end": "00:10:18.150"
+  },
+  {
+    "text": "topic and the whole topic of",
+    "begin": "00:10:17.040",
+    "end": "00:10:20.610"
+  },
+  {
+    "text": "microtubules microtubules in neurons and",
+    "begin": "00:10:18.150",
+    "end": "00:10:24.360"
+  },
+  {
+    "text": "specific and superposition dynamics and",
+    "begin": "00:10:20.610",
+    "end": "00:10:26.220"
+  },
+  {
+    "text": "quantum information processing is one of",
+    "begin": "00:10:24.360",
+    "end": "00:10:27.630"
+  },
+  {
+    "text": "the like kind of interesting cutting",
+    "begin": "00:10:26.220",
+    "end": "00:10:31.440"
+  },
+  {
+    "text": "edges in the field the work of Stuart",
+    "begin": "00:10:27.630",
+    "end": "00:10:33.450"
+  },
+  {
+    "text": "Hameroff and Roger Penrose kind of open",
+    "begin": "00:10:31.440",
+    "end": "00:10:38.280"
+  },
+  {
+    "text": "that space up and the work of dr. honor",
+    "begin": "00:10:33.450",
+    "end": "00:10:39.900"
+  },
+  {
+    "text": "bond there's a few people kind of",
+    "begin": "00:10:38.280",
+    "end": "00:10:42.360"
+  },
+  {
+    "text": "working in that space and it is only",
+    "begin": "00:10:39.900",
+    "end": "00:10:44.550"
+  },
+  {
+    "text": "scratching at the surface of what we can",
+    "begin": "00:10:42.360",
+    "end": "00:10:46.820"
+  },
+  {
+    "text": "claim to know well but there's already",
+    "begin": "00:10:44.550",
+    "end": "00:10:48.720"
+  },
+  {
+    "text": "application happening and things like",
+    "begin": "00:10:46.820",
+    "end": "00:10:50.490"
+  },
+  {
+    "text": "transcranial ultrasound that were based",
+    "begin": "00:10:48.720",
+    "end": "00:10:52.470"
+  },
+  {
+    "text": "on the philosophy from there that seemed",
+    "begin": "00:10:50.490",
+    "end": "00:10:54.270"
+  },
+  {
+    "text": "to be having positive result so it's a",
+    "begin": "00:10:52.470",
+    "end": "00:10:56.040"
+  },
+  {
+    "text": "super interesting field interesting",
+    "begin": "00:10:54.270",
+    "end": "00:10:57.090"
+  },
+  {
+    "text": "that's oh it's wonderful thanks for",
+    "begin": "00:10:56.040",
+    "end": "00:10:58.440"
+  },
+  {
+    "text": "unpacking that just a touch for us I",
+    "begin": "00:10:57.090",
+    "end": "00:10:59.700"
+  },
+  {
+    "text": "would say one more thing about that yeah",
+    "begin": "00:10:58.440",
+    "end": "00:11:02.240"
+  },
+  {
+    "text": "the Buddhist perspective the kind of",
+    "begin": "00:10:59.700",
+    "end": "00:11:05.910"
+  },
+  {
+    "text": "John Cyril idea of that the mind is what",
+    "begin": "00:11:02.240",
+    "end": "00:11:07.460"
+  },
+  {
+    "text": "the brain does",
+    "begin": "00:11:05.910",
+    "end": "00:11:09.230"
+  },
+  {
+    "text": "[Music]",
+    "begin": "00:11:07.460",
+    "end": "00:11:12.960"
+  },
+  {
+    "text": "this is one interpretation of Buddhism",
+    "begin": "00:11:09.230",
+    "end": "00:11:14.730"
+  },
+  {
+    "text": "right there different schools as yours",
+    "begin": "00:11:12.960",
+    "end": "00:11:15.690"
+  },
+  {
+    "text": "I'm sure have very different",
+    "begin": "00:11:14.730",
+    "end": "00:11:20.330"
+  },
+  {
+    "text": "interpretations here obviously the",
+    "begin": "00:11:15.690",
+    "end": "00:11:23.310"
+  },
+  {
+    "text": "foundational idea of what's real",
+    "begin": "00:11:20.330",
+    "end": "00:11:27.380"
+  },
+  {
+    "text": "in Buddhism coming from Vedanta was that",
+    "begin": "00:11:23.310",
+    "end": "00:11:30.060"
+  },
+  {
+    "text": "consciousness is what we actually have a",
+    "begin": "00:11:27.380",
+    "end": "00:11:32.430"
+  },
+  {
+    "text": "stronger sense of no ability on than",
+    "begin": "00:11:30.060",
+    "end": "00:11:34.500"
+  },
+  {
+    "text": "physics mm-hmm right sure sure and so",
+    "begin": "00:11:32.430",
+    "end": "00:11:37.080"
+  },
+  {
+    "text": "their model was well I know that I'm",
+    "begin": "00:11:34.500",
+    "end": "00:11:38.460"
+  },
+  {
+    "text": "experiencing something there's an",
+    "begin": "00:11:37.080",
+    "end": "00:11:39.779"
+  },
+  {
+    "text": "experiencer here I don't know that what",
+    "begin": "00:11:38.460",
+    "end": "00:11:41.310"
+  },
+  {
+    "text": "I'm experiencing is what I think it is",
+    "begin": "00:11:39.779",
+    "end": "00:11:43.740"
+  },
+  {
+    "text": "but in an almost kind of Descartes like",
+    "begin": "00:11:41.310",
+    "end": "00:11:47.160"
+  },
+  {
+    "text": "way there is some witness that is",
+    "begin": "00:11:43.740",
+    "end": "00:11:49.110"
+  },
+  {
+    "text": "witnessing changing phenomena that is",
+    "begin": "00:11:47.160",
+    "end": "00:11:51.750"
+  },
+  {
+    "text": "prima facie real right so their model is",
+    "begin": "00:11:49.110",
+    "end": "00:11:53.460"
+  },
+  {
+    "text": "be was reductionist in the opposite",
+    "begin": "00:11:51.750",
+    "end": "00:11:56.130"
+  },
+  {
+    "text": "direction either that that consciousness",
+    "begin": "00:11:53.460",
+    "end": "00:11:57.779"
+  },
+  {
+    "text": "is an emergent property of physics which",
+    "begin": "00:11:56.130",
+    "end": "00:11:59.790"
+  },
+  {
+    "text": "is where physicalism science has gone",
+    "begin": "00:11:57.779",
+    "end": "00:12:02.400"
+  },
+  {
+    "text": "they saw the rest of universe as either",
+    "begin": "00:11:59.790",
+    "end": "00:12:04.020"
+  },
+  {
+    "text": "not real or an emergent property of",
+    "begin": "00:12:02.400",
+    "end": "00:12:07.350"
+  },
+  {
+    "text": "consciousness and that that kind of",
+    "begin": "00:12:04.020",
+    "end": "00:12:10.710"
+  },
+  {
+    "text": "idealism physicalism divide is right at",
+    "begin": "00:12:07.350",
+    "end": "00:12:11.790"
+  },
+  {
+    "text": "the heart of what we're figuring out",
+    "begin": "00:12:10.710",
+    "end": "00:12:14.100"
+  },
+  {
+    "text": "when we're studying consciousness via",
+    "begin": "00:12:11.790",
+    "end": "00:12:17.070"
+  },
+  {
+    "text": "objective methods in brain science but",
+    "begin": "00:12:14.100",
+    "end": "00:12:19.350"
+  },
+  {
+    "text": "correct if i'm wrong but you know old",
+    "begin": "00:12:17.070",
+    "end": "00:12:21.390"
+  },
+  {
+    "text": "school you know early pali buddhists",
+    "begin": "00:12:19.350",
+    "end": "00:12:23.660"
+  },
+  {
+    "text": "wouldn't consider consciousness a",
+    "begin": "00:12:21.390",
+    "end": "00:12:26.010"
+  },
+  {
+    "text": "phenomena outside of momentary",
+    "begin": "00:12:23.660",
+    "end": "00:12:28.170"
+  },
+  {
+    "text": "experience i mean i nietzsche",
+    "begin": "00:12:26.010",
+    "end": "00:12:31.530"
+  },
+  {
+    "text": "impermanence the nature of reality is",
+    "begin": "00:12:28.170",
+    "end": "00:12:32.160"
+  },
+  {
+    "text": "transient",
+    "begin": "00:12:31.530",
+    "end": "00:12:35.970"
+  },
+  {
+    "text": "so even consciousness the I always even",
+    "begin": "00:12:32.160",
+    "end": "00:12:38.280"
+  },
+  {
+    "text": "fall back to the metaphor classic",
+    "begin": "00:12:35.970",
+    "end": "00:12:39.900"
+  },
+  {
+    "text": "metaphor ship of theseus you know a",
+    "begin": "00:12:38.280",
+    "end": "00:12:41.520"
+  },
+  {
+    "text": "thought experiment here's a model ship",
+    "begin": "00:12:39.900",
+    "end": "00:12:43.200"
+  },
+  {
+    "text": "if I replace one plank is it the same",
+    "begin": "00:12:41.520",
+    "end": "00:12:43.680"
+  },
+  {
+    "text": "ship",
+    "begin": "00:12:43.200",
+    "end": "00:12:46.170"
+  },
+  {
+    "text": "how about two how about three at what",
+    "begin": "00:12:43.680",
+    "end": "00:12:51.030"
+  },
+  {
+    "text": "point is this capital I self the same if",
+    "begin": "00:12:46.170",
+    "end": "00:12:52.830"
+  },
+  {
+    "text": "every seven or eight years all the",
+    "begin": "00:12:51.030",
+    "end": "00:12:54.540"
+  },
+  {
+    "text": "molecules my body are completely",
+    "begin": "00:12:52.830",
+    "end": "00:12:56.610"
+  },
+  {
+    "text": "different and have been replaced you",
+    "begin": "00:12:54.540",
+    "end": "00:12:58.230"
+  },
+  {
+    "text": "know this is where it fundamentally",
+    "begin": "00:12:56.610",
+    "end": "00:12:59.790"
+  },
+  {
+    "text": "breaks down for me personally in terms",
+    "begin": "00:12:58.230",
+    "end": "00:13:04.560"
+  },
+  {
+    "text": "of consciousness but would the you know",
+    "begin": "00:12:59.790",
+    "end": "00:13:07.279"
+  },
+  {
+    "text": "the Vedanta approach say that there is a",
+    "begin": "00:13:04.560",
+    "end": "00:13:10.350"
+  },
+  {
+    "text": "cohesive sense of consciousness or is it",
+    "begin": "00:13:07.279",
+    "end": "00:13:12.240"
+  },
+  {
+    "text": "emergent property of just you know",
+    "begin": "00:13:10.350",
+    "end": "00:13:18.060"
+  },
+  {
+    "text": "having a meatsuit so Sanskrit has a lot",
+    "begin": "00:13:12.240",
+    "end": "00:13:19.080"
+  },
+  {
+    "text": "more words",
+    "begin": "00:13:18.060",
+    "end": "00:13:20.910"
+  },
+  {
+    "text": "that have a lot more specificity in",
+    "begin": "00:13:19.080",
+    "end": "00:13:22.890"
+  },
+  {
+    "text": "their definition than just consciousness",
+    "begin": "00:13:20.910",
+    "end": "00:13:25.290"
+  },
+  {
+    "text": "and self-awareness and they're actually",
+    "begin": "00:13:22.890",
+    "end": "00:13:26.640"
+  },
+  {
+    "text": "very key distinctions in their",
+    "begin": "00:13:25.290",
+    "end": "00:13:30.870"
+  },
+  {
+    "text": "philosophic system okay and again there",
+    "begin": "00:13:26.640",
+    "end": "00:13:32.220"
+  },
+  {
+    "text": "are different interpretations and in",
+    "begin": "00:13:30.870",
+    "end": "00:13:35.040"
+  },
+  {
+    "text": "these systems but the Buddhists",
+    "begin": "00:13:32.220",
+    "end": "00:13:37.710"
+  },
+  {
+    "text": "traditionally say that the foundation of",
+    "begin": "00:13:35.040",
+    "end": "00:13:39.870"
+  },
+  {
+    "text": "reality is neither self nor non-self",
+    "begin": "00:13:37.710",
+    "end": "00:13:43.020"
+  },
+  {
+    "text": "because that distinction doesn't exist",
+    "begin": "00:13:39.870",
+    "end": "00:13:45.030"
+  },
+  {
+    "text": "at that level that the rational",
+    "begin": "00:13:43.020",
+    "end": "00:13:46.890"
+  },
+  {
+    "text": "distinction of the concept of self other",
+    "begin": "00:13:45.030",
+    "end": "00:13:48.990"
+  },
+  {
+    "text": "than self is more superficial than the",
+    "begin": "00:13:46.890",
+    "end": "00:13:50.640"
+  },
+  {
+    "text": "foundation of reality right it's its",
+    "begin": "00:13:48.990",
+    "end": "00:13:52.890"
+  },
+  {
+    "text": "ontological a less primary okay so the",
+    "begin": "00:13:50.640",
+    "end": "00:13:56.040"
+  },
+  {
+    "text": "idea that it's non self or the idea that",
+    "begin": "00:13:52.890",
+    "end": "00:13:58.260"
+  },
+  {
+    "text": "it's self are inadequate so what we",
+    "begin": "00:13:56.040",
+    "end": "00:14:00.150"
+  },
+  {
+    "text": "think of as self is self other than self",
+    "begin": "00:13:58.260",
+    "end": "00:14:02.910"
+  },
+  {
+    "text": "division right they talk about a",
+    "begin": "00:14:00.150",
+    "end": "00:14:05.760"
+  },
+  {
+    "text": "foundational oneness beyond division it",
+    "begin": "00:14:02.910",
+    "end": "00:14:07.770"
+  },
+  {
+    "text": "would be neither of those concepts right",
+    "begin": "00:14:05.760",
+    "end": "00:14:10.500"
+  },
+  {
+    "text": "not self nor non self that's different",
+    "begin": "00:14:07.770",
+    "end": "00:14:13.650"
+  },
+  {
+    "text": "than the traditional way that is spoken",
+    "begin": "00:14:10.500",
+    "end": "00:14:15.690"
+  },
+  {
+    "text": "about in Vedanta which is that at the",
+    "begin": "00:14:13.650",
+    "end": "00:14:18.350"
+  },
+  {
+    "text": "foundation of all of it there is",
+    "begin": "00:14:15.690",
+    "end": "00:14:22.250"
+  },
+  {
+    "text": "consciousness with a capital C that is",
+    "begin": "00:14:18.350",
+    "end": "00:14:25.560"
+  },
+  {
+    "text": "that is different than self right that",
+    "begin": "00:14:22.250",
+    "end": "00:14:28.320"
+  },
+  {
+    "text": "can hmm this is basically if you think",
+    "begin": "00:14:25.560",
+    "end": "00:14:30.630"
+  },
+  {
+    "text": "about it almost in terms of a unified",
+    "begin": "00:14:28.320",
+    "end": "00:14:34.430"
+  },
+  {
+    "text": "field of physics as a field of",
+    "begin": "00:14:30.630",
+    "end": "00:14:34.430"
+  },
+  {
+    "text": "potentiality for dynamics to occur in",
+    "begin": "00:14:35.240",
+    "end": "00:14:40.350"
+  },
+  {
+    "text": "quantum foam to emerge from etc that",
+    "begin": "00:14:38.250",
+    "end": "00:14:41.820"
+  },
+  {
+    "text": "there is reference happening but it's",
+    "begin": "00:14:40.350",
+    "end": "00:14:43.170"
+  },
+  {
+    "text": "referenced within the only thing there",
+    "begin": "00:14:41.820",
+    "end": "00:14:44.550"
+  },
+  {
+    "text": "is other self reference and that the",
+    "begin": "00:14:43.170",
+    "end": "00:14:48.030"
+  },
+  {
+    "text": "foundation of what we think of as self",
+    "begin": "00:14:44.550",
+    "end": "00:14:51.020"
+  },
+  {
+    "text": "referentiality happens at the level of",
+    "begin": "00:14:48.030",
+    "end": "00:14:53.850"
+  },
+  {
+    "text": "Unified Field interesting now I'm not",
+    "begin": "00:14:51.020",
+    "end": "00:14:55.790"
+  },
+  {
+    "text": "saying this is what I think but this is",
+    "begin": "00:14:53.850",
+    "end": "00:14:58.290"
+  },
+  {
+    "text": "some of the kind of interpretations",
+    "begin": "00:14:55.790",
+    "end": "00:15:00.210"
+  },
+  {
+    "text": "there I will say there are real problems",
+    "begin": "00:14:58.290",
+    "end": "00:15:03.260"
+  },
+  {
+    "text": "with most of the models of physicalism",
+    "begin": "00:15:00.210",
+    "end": "00:15:05.160"
+  },
+  {
+    "text": "there are real problems with these",
+    "begin": "00:15:03.260",
+    "end": "00:15:06.750"
+  },
+  {
+    "text": "models and this is why these are",
+    "begin": "00:15:05.160",
+    "end": "00:15:08.700"
+  },
+  {
+    "text": "unsolved famous problems in philosophy",
+    "begin": "00:15:06.750",
+    "end": "00:15:10.560"
+  },
+  {
+    "text": "and you even see like you'll see a",
+    "begin": "00:15:08.700",
+    "end": "00:15:12.390"
+  },
+  {
+    "text": "couple physical lists like the classic",
+    "begin": "00:15:10.560",
+    "end": "00:15:14.310"
+  },
+  {
+    "text": "debate that Sam Harris and Dan Dennett",
+    "begin": "00:15:12.390",
+    "end": "00:15:16.860"
+  },
+  {
+    "text": "had under Sam wrote has become free will",
+    "begin": "00:15:14.310",
+    "end": "00:15:21.650"
+  },
+  {
+    "text": "was that Dan fundamentally said",
+    "begin": "00:15:16.860",
+    "end": "00:15:23.820"
+  },
+  {
+    "text": "consciousness isn't real maybe is a",
+    "begin": "00:15:21.650",
+    "end": "00:15:25.440"
+  },
+  {
+    "text": "radical limit Avista it's an illusion",
+    "begin": "00:15:23.820",
+    "end": "00:15:28.380"
+  },
+  {
+    "text": "but freewill is real and Sam said",
+    "begin": "00:15:25.440",
+    "end": "00:15:30.390"
+  },
+  {
+    "text": "consciousness is fundamentally real an",
+    "begin": "00:15:28.380",
+    "end": "00:15:32.100"
+  },
+  {
+    "text": "emergent property of brain but freewill",
+    "begin": "00:15:30.390",
+    "end": "00:15:32.850"
+  },
+  {
+    "text": "is available",
+    "begin": "00:15:32.100",
+    "end": "00:15:34.829"
+  },
+  {
+    "text": "is a core disagreement on the most",
+    "begin": "00:15:32.850",
+    "end": "00:15:36.389"
+  },
+  {
+    "text": "foundational concepts of existentialism",
+    "begin": "00:15:34.829",
+    "end": "00:15:39.889"
+  },
+  {
+    "text": "of what actually is both being",
+    "begin": "00:15:36.389",
+    "end": "00:15:42.779"
+  },
+  {
+    "text": "physicalists and having the same kind of",
+    "begin": "00:15:39.889",
+    "end": "00:15:44.399"
+  },
+  {
+    "text": "critical thinking background agreeing on",
+    "begin": "00:15:42.779",
+    "end": "00:15:47.250"
+  },
+  {
+    "text": "a lot of other things so it's part of",
+    "begin": "00:15:44.399",
+    "end": "00:15:48.600"
+  },
+  {
+    "text": "why these have been so hard as they're",
+    "begin": "00:15:47.250",
+    "end": "00:15:51.569"
+  },
+  {
+    "text": "beyond our current tools of knowing my",
+    "begin": "00:15:48.600",
+    "end": "00:15:53.160"
+  },
+  {
+    "text": "pistol my logic tools when we do science",
+    "begin": "00:15:51.569",
+    "end": "00:15:55.500"
+  },
+  {
+    "text": "we are studying third-person things",
+    "begin": "00:15:53.160",
+    "end": "00:15:57.990"
+  },
+  {
+    "text": "that's very sure do so when we try and",
+    "begin": "00:15:55.500",
+    "end": "00:15:59.100"
+  },
+  {
+    "text": "study consciousness which is",
+    "begin": "00:15:57.990",
+    "end": "00:16:00.660"
+  },
+  {
+    "text": "first-person by looking at the",
+    "begin": "00:15:59.100",
+    "end": "00:16:03.089"
+  },
+  {
+    "text": "third-person core correlates we're",
+    "begin": "00:16:00.660",
+    "end": "00:16:05.850"
+  },
+  {
+    "text": "actually doing a category mistake mmm by",
+    "begin": "00:16:03.089",
+    "end": "00:16:07.110"
+  },
+  {
+    "text": "assuming that they're the same thing",
+    "begin": "00:16:05.850",
+    "end": "00:16:09.269"
+  },
+  {
+    "text": "also when we assume causation when we",
+    "begin": "00:16:07.110",
+    "end": "00:16:11.370"
+  },
+  {
+    "text": "get to the level of things that are for",
+    "begin": "00:16:09.269",
+    "end": "00:16:14.149"
+  },
+  {
+    "text": "sure via Bell's Theorem a causal our",
+    "begin": "00:16:11.370",
+    "end": "00:16:18.029"
+  },
+  {
+    "text": "intuitions get off right and so these",
+    "begin": "00:16:14.149",
+    "end": "00:16:20.069"
+  },
+  {
+    "text": "are fascinating and tricky areas what we",
+    "begin": "00:16:18.029",
+    "end": "00:16:21.660"
+  },
+  {
+    "text": "can say at the level of what's probably",
+    "begin": "00:16:20.069",
+    "end": "00:16:25.649"
+  },
+  {
+    "text": "useful for people right now is that we",
+    "begin": "00:16:21.660",
+    "end": "00:16:28.829"
+  },
+  {
+    "text": "can do things with our own subjective",
+    "begin": "00:16:25.649",
+    "end": "00:16:31.949"
+  },
+  {
+    "text": "experience of self so what we focus on",
+    "begin": "00:16:28.829",
+    "end": "00:16:34.560"
+  },
+  {
+    "text": "we put our attention and the meaning we",
+    "begin": "00:16:31.949",
+    "end": "00:16:37.439"
+  },
+  {
+    "text": "give to things that has a real effect on",
+    "begin": "00:16:34.560",
+    "end": "00:16:39.750"
+  },
+  {
+    "text": "brain and physiology and we can do",
+    "begin": "00:16:37.439",
+    "end": "00:16:41.310"
+  },
+  {
+    "text": "things to our physiology that are not",
+    "begin": "00:16:39.750",
+    "end": "00:16:43.920"
+  },
+  {
+    "text": "obviously utilizing our subjectivity",
+    "begin": "00:16:41.310",
+    "end": "00:16:45.630"
+  },
+  {
+    "text": "that will affect our subjectivity and",
+    "begin": "00:16:43.920",
+    "end": "00:16:48.899"
+  },
+  {
+    "text": "there can be recursive effects between",
+    "begin": "00:16:45.630",
+    "end": "00:16:51.420"
+  },
+  {
+    "text": "subjective and objective that can either",
+    "begin": "00:16:48.899",
+    "end": "00:16:53.459"
+  },
+  {
+    "text": "depending upon how you do them have the",
+    "begin": "00:16:51.420",
+    "end": "00:16:55.519"
+  },
+  {
+    "text": "potential of being virtuous cycles in",
+    "begin": "00:16:53.459",
+    "end": "00:16:58.410"
+  },
+  {
+    "text": "more adaptive evolutionary directions or",
+    "begin": "00:16:55.519",
+    "end": "00:17:01.350"
+  },
+  {
+    "text": "vicious cycles and so learning how to",
+    "begin": "00:16:58.410",
+    "end": "00:17:05.039"
+  },
+  {
+    "text": "use both the conscious direction of our",
+    "begin": "00:17:01.350",
+    "end": "00:17:07.049"
+  },
+  {
+    "text": "thought awareness attention and what we",
+    "begin": "00:17:05.039",
+    "end": "00:17:09.089"
+  },
+  {
+    "text": "do with our physiology in mutually",
+    "begin": "00:17:07.049",
+    "end": "00:17:11.130"
+  },
+  {
+    "text": "reinforcing adaptive ways is I think",
+    "begin": "00:17:09.089",
+    "end": "00:17:12.990"
+  },
+  {
+    "text": "what we're interested in wow it's quite",
+    "begin": "00:17:11.130",
+    "end": "00:17:14.760"
+  },
+  {
+    "text": "heady stuff no pun intended till you",
+    "begin": "00:17:12.990",
+    "end": "00:17:17.850"
+  },
+  {
+    "text": "taste like a philosophy a guy he read",
+    "begin": "00:17:14.760",
+    "end": "00:17:19.169"
+  },
+  {
+    "text": "you have a philosophy background yeah",
+    "begin": "00:17:17.850",
+    "end": "00:17:22.020"
+  },
+  {
+    "text": "yeah tell us about that what is your",
+    "begin": "00:17:19.169",
+    "end": "00:17:26.760"
+  },
+  {
+    "text": "when he's returning been there uh so I",
+    "begin": "00:17:22.020",
+    "end": "00:17:28.530"
+  },
+  {
+    "text": "was home-schooled growing out okay and",
+    "begin": "00:17:26.760",
+    "end": "00:17:30.450"
+  },
+  {
+    "text": "all the sciences and all the philosophic",
+    "begin": "00:17:28.530",
+    "end": "00:17:32.309"
+  },
+  {
+    "text": "traditions were what I was fascinated by",
+    "begin": "00:17:30.450",
+    "end": "00:17:34.980"
+  },
+  {
+    "text": "and so a particular home school didn't",
+    "begin": "00:17:32.309",
+    "end": "00:17:36.510"
+  },
+  {
+    "text": "have curriculum so I just got to study",
+    "begin": "00:17:34.980",
+    "end": "00:17:38.030"
+  },
+  {
+    "text": "what I wanted to know was",
+    "begin": "00:17:36.510",
+    "end": "00:17:40.169"
+  },
+  {
+    "text": "interdisciplinary science system science",
+    "begin": "00:17:38.030",
+    "end": "00:17:42.690"
+  },
+  {
+    "text": "and the various philosophic traditions",
+    "begin": "00:17:40.169",
+    "end": "00:17:45.659"
+  },
+  {
+    "text": "because the the impulse to study science",
+    "begin": "00:17:42.690",
+    "end": "00:17:46.659"
+  },
+  {
+    "text": "was impulse to",
+    "begin": "00:17:45.659",
+    "end": "00:17:48.789"
+  },
+  {
+    "text": "understand the nature of reality we live",
+    "begin": "00:17:46.659",
+    "end": "00:17:50.649"
+  },
+  {
+    "text": "in sure better yeah which is a",
+    "begin": "00:17:48.789",
+    "end": "00:17:53.940"
+  },
+  {
+    "text": "philosophic impulse right science is a",
+    "begin": "00:17:50.649",
+    "end": "00:17:57.609"
+  },
+  {
+    "text": "method of knowing that correlates to a",
+    "begin": "00:17:53.940",
+    "end": "00:17:59.649"
+  },
+  {
+    "text": "particular philosophic system right",
+    "begin": "00:17:57.609",
+    "end": "00:18:01.899"
+  },
+  {
+    "text": "philosophical system usually a logical",
+    "begin": "00:17:59.649",
+    "end": "00:18:04.119"
+  },
+  {
+    "text": "positivism or the idea that reality",
+    "begin": "00:18:01.899",
+    "end": "00:18:06.789"
+  },
+  {
+    "text": "exists objectively objective stuff is",
+    "begin": "00:18:04.119",
+    "end": "00:18:08.139"
+  },
+  {
+    "text": "real we can measure it get the same",
+    "begin": "00:18:06.789",
+    "end": "00:18:10.450"
+  },
+  {
+    "text": "results so science is a subset of",
+    "begin": "00:18:08.139",
+    "end": "00:18:11.950"
+  },
+  {
+    "text": "philosophy it's a particularly useful",
+    "begin": "00:18:10.450",
+    "end": "00:18:14.379"
+  },
+  {
+    "text": "meaningful one it doesn't happen to be",
+    "begin": "00:18:11.950",
+    "end": "00:18:16.989"
+  },
+  {
+    "text": "an exhaustive one of all sure assurance",
+    "begin": "00:18:14.379",
+    "end": "00:18:20.710"
+  },
+  {
+    "text": "yeah yeah and so fortunately got to",
+    "begin": "00:18:16.989",
+    "end": "00:18:22.869"
+  },
+  {
+    "text": "study many different Eastern traditions",
+    "begin": "00:18:20.710",
+    "end": "00:18:25.779"
+  },
+  {
+    "text": "and Western traditions and my early and",
+    "begin": "00:18:22.869",
+    "end": "00:18:29.049"
+  },
+  {
+    "text": "then you know deeply in my kind of",
+    "begin": "00:18:25.779",
+    "end": "00:18:30.519"
+  },
+  {
+    "text": "method of understanding any new",
+    "begin": "00:18:29.049",
+    "end": "00:18:33.190"
+  },
+  {
+    "text": "discipline is I like to start by going",
+    "begin": "00:18:30.519",
+    "end": "00:18:34.720"
+  },
+  {
+    "text": "to the edge of what the hard problems",
+    "begin": "00:18:33.190",
+    "end": "00:18:36.609"
+  },
+  {
+    "text": "that are not understood and you know",
+    "begin": "00:18:34.720",
+    "end": "00:18:38.200"
+  },
+  {
+    "text": "believe may be unsolvable and then",
+    "begin": "00:18:36.609",
+    "end": "00:18:40.359"
+  },
+  {
+    "text": "understand the range of opinions on that",
+    "begin": "00:18:38.200",
+    "end": "00:18:42.340"
+  },
+  {
+    "text": "and why and then go back and understand",
+    "begin": "00:18:40.359",
+    "end": "00:18:43.899"
+  },
+  {
+    "text": "the core axioms of the field in light of",
+    "begin": "00:18:42.340",
+    "end": "00:18:45.580"
+  },
+  {
+    "text": "recognizing where they might actually",
+    "begin": "00:18:43.899",
+    "end": "00:18:46.239"
+  },
+  {
+    "text": "have limits",
+    "begin": "00:18:45.580",
+    "end": "00:18:47.559"
+  },
+  {
+    "text": "Oh injury all right so let's so with",
+    "begin": "00:18:46.239",
+    "end": "00:18:50.879"
+  },
+  {
+    "text": "that perspective with this lens into you",
+    "begin": "00:18:47.559",
+    "end": "00:18:53.139"
+  },
+  {
+    "text": "what are the hard problems you bump up",
+    "begin": "00:18:50.879",
+    "end": "00:18:55.929"
+  },
+  {
+    "text": "against and enjoy bumping up against in",
+    "begin": "00:18:53.139",
+    "end": "00:18:58.090"
+  },
+  {
+    "text": "the biohacker neuro hacker world what",
+    "begin": "00:18:55.929",
+    "end": "00:19:01.989"
+  },
+  {
+    "text": "are the what are the growth edges I mean",
+    "begin": "00:18:58.090",
+    "end": "00:19:04.570"
+  },
+  {
+    "text": "I I see people acquiring tools and",
+    "begin": "00:19:01.989",
+    "end": "00:19:06.789"
+  },
+  {
+    "text": "technologies and ways of modifying their",
+    "begin": "00:19:04.570",
+    "end": "00:19:09.399"
+  },
+  {
+    "text": "physiology and their minds constantly",
+    "begin": "00:19:06.789",
+    "end": "00:19:13.149"
+  },
+  {
+    "text": "and I provide some of those tools a lot",
+    "begin": "00:19:09.399",
+    "end": "00:19:14.440"
+  },
+  {
+    "text": "of the time we're operating a space we",
+    "begin": "00:19:13.149",
+    "end": "00:19:16.840"
+  },
+  {
+    "text": "really don't fully understand you know",
+    "begin": "00:19:14.440",
+    "end": "00:19:18.190"
+  },
+  {
+    "text": "what we're doing it's this summer",
+    "begin": "00:19:16.840",
+    "end": "00:19:20.649"
+  },
+  {
+    "text": "between art and science and I'm sure",
+    "begin": "00:19:18.190",
+    "end": "00:19:22.739"
+  },
+  {
+    "text": "half the things that biohackers do are",
+    "begin": "00:19:20.649",
+    "end": "00:19:25.840"
+  },
+  {
+    "text": "completely irrelevant and a certain",
+    "begin": "00:19:22.739",
+    "end": "00:19:27.190"
+  },
+  {
+    "text": "percentage is probably working counter",
+    "begin": "00:19:25.840",
+    "end": "00:19:29.320"
+  },
+  {
+    "text": "to what they actually want to do what do",
+    "begin": "00:19:27.190",
+    "end": "00:19:31.330"
+  },
+  {
+    "text": "you find the hard problems are in neuro",
+    "begin": "00:19:29.320",
+    "end": "00:19:37.299"
+  },
+  {
+    "text": "hacking or by hacking so neuro hacking",
+    "begin": "00:19:31.330",
+    "end": "00:19:40.359"
+  },
+  {
+    "text": "bio hacking and what the hard problems",
+    "begin": "00:19:37.299",
+    "end": "00:19:42.220"
+  },
+  {
+    "text": "are in medicine and we kind of looking",
+    "begin": "00:19:40.359",
+    "end": "00:19:44.729"
+  },
+  {
+    "text": "at that as medicine moving from",
+    "begin": "00:19:42.220",
+    "end": "00:19:47.109"
+  },
+  {
+    "text": "dysfunction to function how can bio",
+    "begin": "00:19:44.729",
+    "end": "00:19:48.460"
+  },
+  {
+    "text": "hacking generally thinking of it is",
+    "begin": "00:19:47.109",
+    "end": "00:19:50.019"
+  },
+  {
+    "text": "trying to enhance function build on",
+    "begin": "00:19:48.460",
+    "end": "00:19:51.999"
+  },
+  {
+    "text": "previous baseline we think of that as",
+    "begin": "00:19:50.019",
+    "end": "00:19:57.429"
+  },
+  {
+    "text": "one gradient some of the hard problems",
+    "begin": "00:19:51.999",
+    "end": "00:19:59.259"
+  },
+  {
+    "text": "that are not like philosophically hard",
+    "begin": "00:19:57.429",
+    "end": "00:20:00.130"
+  },
+  {
+    "text": "problems and",
+    "begin": "00:19:59.259",
+    "end": "00:20:02.230"
+  },
+  {
+    "text": "of maybe unsolvable ax T or n stemming",
+    "begin": "00:20:00.130",
+    "end": "00:20:04.780"
+  },
+  {
+    "text": "limits but like the Holy Grails of the",
+    "begin": "00:20:02.230",
+    "end": "00:20:08.169"
+  },
+  {
+    "text": "space yeah one of them has to do with",
+    "begin": "00:20:04.780",
+    "end": "00:20:15.429"
+  },
+  {
+    "text": "complexity okay and so when we're trying",
+    "begin": "00:20:08.169",
+    "end": "00:20:17.380"
+  },
+  {
+    "text": "to look at what's going on for an",
+    "begin": "00:20:15.429",
+    "end": "00:20:18.880"
+  },
+  {
+    "text": "individual person say we're trying to",
+    "begin": "00:20:17.380",
+    "end": "00:20:23.470"
+  },
+  {
+    "text": "look at addressing anxiety for someone",
+    "begin": "00:20:18.880",
+    "end": "00:20:28.720"
+  },
+  {
+    "text": "is their anxiety primarily physio genic",
+    "begin": "00:20:23.470",
+    "end": "00:20:33.730"
+  },
+  {
+    "text": "or psychogenic and what causes in each",
+    "begin": "00:20:28.720",
+    "end": "00:20:35.530"
+  },
+  {
+    "text": "of those if we just look at physio genic",
+    "begin": "00:20:33.730",
+    "end": "00:20:38.500"
+  },
+  {
+    "text": "physiologic causes we see a whole good",
+    "begin": "00:20:35.530",
+    "end": "00:20:40.470"
+  },
+  {
+    "text": "body of work on the ability for",
+    "begin": "00:20:38.500",
+    "end": "00:20:43.659"
+  },
+  {
+    "text": "microbial imbalances in the gut to cause",
+    "begin": "00:20:40.470",
+    "end": "00:20:46.870"
+  },
+  {
+    "text": "anxiety anxiety predispositions because",
+    "begin": "00:20:43.659",
+    "end": "00:20:48.850"
+  },
+  {
+    "text": "of decreasing the total amount of gaba",
+    "begin": "00:20:46.870",
+    "end": "00:20:50.169"
+  },
+  {
+    "text": "produced in the gut or serotonin",
+    "begin": "00:20:48.850",
+    "end": "00:20:51.970"
+  },
+  {
+    "text": "producer in the gut or inflammation on",
+    "begin": "00:20:50.169",
+    "end": "00:20:53.549"
+  },
+  {
+    "text": "the enteric nervous system or whatever",
+    "begin": "00:20:51.970",
+    "end": "00:20:57.429"
+  },
+  {
+    "text": "so if someone went traveling the third",
+    "begin": "00:20:53.549",
+    "end": "00:21:00.190"
+  },
+  {
+    "text": "world got a parasite microbiome got off",
+    "begin": "00:20:57.429",
+    "end": "00:21:02.309"
+  },
+  {
+    "text": "has never restabilized afterwards know",
+    "begin": "00:21:00.190",
+    "end": "00:21:04.600"
+  },
+  {
+    "text": "that could be a tier one cause of",
+    "begin": "00:21:02.309",
+    "end": "00:21:06.700"
+  },
+  {
+    "text": "anxiety that no amount of no tropics or",
+    "begin": "00:21:04.600",
+    "end": "00:21:10.900"
+  },
+  {
+    "text": "CBT or DBT assures yeah yeah or if they",
+    "begin": "00:21:06.700",
+    "end": "00:21:14.289"
+  },
+  {
+    "text": "had minor head trauma where the cat scan",
+    "begin": "00:21:10.900",
+    "end": "00:21:16.030"
+  },
+  {
+    "text": "or the MRI didn't show anything but",
+    "begin": "00:21:14.289",
+    "end": "00:21:18.370"
+  },
+  {
+    "text": "maybe a qejy would or maybe a SPECT scan",
+    "begin": "00:21:16.030",
+    "end": "00:21:19.120"
+  },
+  {
+    "text": "which is this",
+    "begin": "00:21:18.370",
+    "end": "00:21:20.440"
+  },
+  {
+    "text": "you know functional fire hydrant sure",
+    "begin": "00:21:19.120",
+    "end": "00:21:22.330"
+  },
+  {
+    "text": "went off how we're going to address that",
+    "begin": "00:21:20.440",
+    "end": "00:21:24.250"
+  },
+  {
+    "text": "that might require neurofeedback that",
+    "begin": "00:21:22.330",
+    "end": "00:21:26.110"
+  },
+  {
+    "text": "might require neurogenic chemistry right",
+    "begin": "00:21:24.250",
+    "end": "00:21:27.820"
+  },
+  {
+    "text": "that's going to be totally different",
+    "begin": "00:21:26.110",
+    "end": "00:21:31.030"
+  },
+  {
+    "text": "again if they were exposed to mold or",
+    "begin": "00:21:27.820",
+    "end": "00:21:34.000"
+  },
+  {
+    "text": "other forms of cytotoxic sure that can",
+    "begin": "00:21:31.030",
+    "end": "00:21:37.120"
+  },
+  {
+    "text": "cause anxiety it so there can be genetic",
+    "begin": "00:21:34.000",
+    "end": "00:21:39.970"
+  },
+  {
+    "text": "predispositions there and then you can",
+    "begin": "00:21:37.120",
+    "end": "00:21:41.950"
+  },
+  {
+    "text": "we can continue to populate there can be",
+    "begin": "00:21:39.970",
+    "end": "00:21:43.950"
+  },
+  {
+    "text": "methylation disorders right there surely",
+    "begin": "00:21:41.950",
+    "end": "00:21:46.539"
+  },
+  {
+    "text": "thousands of different things and then",
+    "begin": "00:21:43.950",
+    "end": "00:21:48.610"
+  },
+  {
+    "text": "the confluence of those things right and",
+    "begin": "00:21:46.539",
+    "end": "00:21:49.809"
+  },
+  {
+    "text": "then if we're looking at the psychogenic",
+    "begin": "00:21:48.610",
+    "end": "00:21:52.240"
+  },
+  {
+    "text": "side event we're saying someone who had",
+    "begin": "00:21:49.809",
+    "end": "00:21:54.220"
+  },
+  {
+    "text": "anxiety since childhood because of kind",
+    "begin": "00:21:52.240",
+    "end": "00:21:56.140"
+  },
+  {
+    "text": "of attachment early childhood attachment",
+    "begin": "00:21:54.220",
+    "end": "00:21:58.720"
+  },
+  {
+    "text": "stuff of parents versus only after a",
+    "begin": "00:21:56.140",
+    "end": "00:22:00.640"
+  },
+  {
+    "text": "very acute trauma even if dealing",
+    "begin": "00:21:58.720",
+    "end": "00:22:03.820"
+  },
+  {
+    "text": "crowder are sure they're they're",
+    "begin": "00:22:00.640",
+    "end": "00:22:05.350"
+  },
+  {
+    "text": "different psychologically they're",
+    "begin": "00:22:03.820",
+    "end": "00:22:06.970"
+  },
+  {
+    "text": "different neurologically and there are",
+    "begin": "00:22:05.350",
+    "end": "00:22:08.799"
+  },
+  {
+    "text": "different best practices and therapies",
+    "begin": "00:22:06.970",
+    "end": "00:22:11.020"
+  },
+  {
+    "text": "to address all these things and for one",
+    "begin": "00:22:08.799",
+    "end": "00:22:13.179"
+  },
+  {
+    "text": "particular person's anxiety we might be",
+    "begin": "00:22:11.020",
+    "end": "00:22:13.990"
+  },
+  {
+    "text": "looking at",
+    "begin": "00:22:13.179",
+    "end": "00:22:15.640"
+  },
+  {
+    "text": "some confluence of some number of these",
+    "begin": "00:22:13.990",
+    "end": "00:22:17.830"
+  },
+  {
+    "text": "factors right where there was a causal",
+    "begin": "00:22:15.640",
+    "end": "00:22:20.110"
+  },
+  {
+    "text": "cascade and then that person with",
+    "begin": "00:22:17.830",
+    "end": "00:22:22.539"
+  },
+  {
+    "text": "anxiety maybe also has a sleep issue or",
+    "begin": "00:22:20.110",
+    "end": "00:22:25.000"
+  },
+  {
+    "text": "not or maybe also has some autoimmunity",
+    "begin": "00:22:22.539",
+    "end": "00:22:26.830"
+  },
+  {
+    "text": "or so as we're trying to help them are",
+    "begin": "00:22:25.000",
+    "end": "00:22:30.279"
+  },
+  {
+    "text": "we how do we factor all yeah certainly",
+    "begin": "00:22:26.830",
+    "end": "00:22:32.890"
+  },
+  {
+    "text": "complexity and personalization yeah is",
+    "begin": "00:22:30.279",
+    "end": "00:22:34.960"
+  },
+  {
+    "text": "this possible I mean I I work with",
+    "begin": "00:22:32.890",
+    "end": "00:22:38.020"
+  },
+  {
+    "text": "brains every day and I am humbled every",
+    "begin": "00:22:34.960",
+    "end": "00:22:40.270"
+  },
+  {
+    "text": "day by how little I actually understand",
+    "begin": "00:22:38.020",
+    "end": "00:22:42.850"
+  },
+  {
+    "text": "and my strategy for dealing with that is",
+    "begin": "00:22:40.270",
+    "end": "00:22:44.770"
+  },
+  {
+    "text": "you know maslow to a man with a hammer",
+    "begin": "00:22:42.850",
+    "end": "00:22:47.340"
+  },
+  {
+    "text": "every problems a nail my hammer is",
+    "begin": "00:22:44.770",
+    "end": "00:22:50.049"
+  },
+  {
+    "text": "neurofeedback in meditation and to some",
+    "begin": "00:22:47.340",
+    "end": "00:22:52.480"
+  },
+  {
+    "text": "extent nootropics but I view the brain",
+    "begin": "00:22:50.049",
+    "end": "00:22:54.549"
+  },
+  {
+    "text": "as a regulatory machine and when I do a",
+    "begin": "00:22:52.480",
+    "end": "00:22:56.140"
+  },
+  {
+    "text": "QE G and see something off and it",
+    "begin": "00:22:54.549",
+    "end": "00:22:58.120"
+  },
+  {
+    "text": "matches symptoms it's you know it's a",
+    "begin": "00:22:56.140",
+    "end": "00:22:59.529"
+  },
+  {
+    "text": "little bit more skill than being a",
+    "begin": "00:22:58.120",
+    "end": "00:23:01.480"
+  },
+  {
+    "text": "mechanic perhaps but it's that that",
+    "begin": "00:22:59.529",
+    "end": "00:23:03.159"
+  },
+  {
+    "text": "approached it to be let me go region",
+    "begin": "00:23:01.480",
+    "end": "00:23:05.789"
+  },
+  {
+    "text": "twins wake this and see what happens I",
+    "begin": "00:23:03.159",
+    "end": "00:23:08.710"
+  },
+  {
+    "text": "would I mean I'm working on integrating",
+    "begin": "00:23:05.789",
+    "end": "00:23:10.659"
+  },
+  {
+    "text": "lots of different information systems so",
+    "begin": "00:23:08.710",
+    "end": "00:23:13.149"
+  },
+  {
+    "text": "that I can you know do visualization do",
+    "begin": "00:23:10.659",
+    "end": "00:23:15.309"
+  },
+  {
+    "text": "big data do a better sense of what's",
+    "begin": "00:23:13.149",
+    "end": "00:23:18.549"
+  },
+  {
+    "text": "happening but even that will have a",
+    "begin": "00:23:15.309",
+    "end": "00:23:21.549"
+  },
+  {
+    "text": "fraction of the type of the degree of",
+    "begin": "00:23:18.549",
+    "end": "00:23:24.190"
+  },
+  {
+    "text": "things you're talking about right is it",
+    "begin": "00:23:21.549",
+    "end": "00:23:26.110"
+  },
+  {
+    "text": "a solvable problem can we actually bring",
+    "begin": "00:23:24.190",
+    "end": "00:23:28.960"
+  },
+  {
+    "text": "in personalized medicine if you will",
+    "begin": "00:23:26.110",
+    "end": "00:23:31.120"
+  },
+  {
+    "text": "personalized psychology track data this",
+    "begin": "00:23:28.960",
+    "end": "00:23:33.309"
+  },
+  {
+    "text": "way I mean is this being done can we do",
+    "begin": "00:23:31.120",
+    "end": "00:23:35.289"
+  },
+  {
+    "text": "it I think we're getting enough",
+    "begin": "00:23:33.309",
+    "end": "00:23:36.970"
+  },
+  {
+    "text": "information about the the individual",
+    "begin": "00:23:35.289",
+    "end": "00:23:38.289"
+  },
+  {
+    "text": "data points you can do a methylation",
+    "begin": "00:23:36.970",
+    "end": "00:23:40.179"
+  },
+  {
+    "text": "analysis you can do a theta beta ratio",
+    "begin": "00:23:38.289",
+    "end": "00:23:43.450"
+  },
+  {
+    "text": "you can do you know a blood flow imaging",
+    "begin": "00:23:40.179",
+    "end": "00:23:47.320"
+  },
+  {
+    "text": "or something but these measurement tools",
+    "begin": "00:23:43.450",
+    "end": "00:23:51.250"
+  },
+  {
+    "text": "are limited by the tool space that they",
+    "begin": "00:23:47.320",
+    "end": "00:23:53.320"
+  },
+  {
+    "text": "are using and qejy gives me one thing",
+    "begin": "00:23:51.250",
+    "end": "00:23:56.020"
+  },
+  {
+    "text": "because me less than half the EEG only",
+    "begin": "00:23:53.320",
+    "end": "00:23:57.730"
+  },
+  {
+    "text": "the dipoles that are at right angles to",
+    "begin": "00:23:56.020",
+    "end": "00:24:00.549"
+  },
+  {
+    "text": "the skull and it's a 10,000 foot",
+    "begin": "00:23:57.730",
+    "end": "00:24:03.250"
+  },
+  {
+    "text": "population average of average deg across",
+    "begin": "00:24:00.549",
+    "end": "00:24:04.960"
+  },
+  {
+    "text": "several minutes so you're missing states",
+    "begin": "00:24:03.250",
+    "end": "00:24:08.340"
+  },
+  {
+    "text": "completely only emphasizing traits and",
+    "begin": "00:24:04.960",
+    "end": "00:24:11.620"
+  },
+  {
+    "text": "the this you know 30 or 40 big features",
+    "begin": "00:24:08.340",
+    "end": "00:24:13.360"
+  },
+  {
+    "text": "in the Q EEG that I look at and then I",
+    "begin": "00:24:11.620",
+    "end": "00:24:15.850"
+  },
+  {
+    "text": "operate on in terms of intervening but",
+    "begin": "00:24:13.360",
+    "end": "00:24:18.010"
+  },
+  {
+    "text": "it's I default back to that because I",
+    "begin": "00:24:15.850",
+    "end": "00:24:21.730"
+  },
+  {
+    "text": "can't do everything because I can't hold",
+    "begin": "00:24:18.010",
+    "end": "00:24:23.320"
+  },
+  {
+    "text": "everything in my mind and I can't ask",
+    "begin": "00:24:21.730",
+    "end": "00:24:24.820"
+  },
+  {
+    "text": "everyone all the right questions to",
+    "begin": "00:24:23.320",
+    "end": "00:24:27.190"
+  },
+  {
+    "text": "tease out what might be going on because",
+    "begin": "00:24:24.820",
+    "end": "00:24:27.620"
+  },
+  {
+    "text": "I just",
+    "begin": "00:24:27.190",
+    "end": "00:24:30.710"
+  },
+  {
+    "text": "don't understand the brain fully I mean",
+    "begin": "00:24:27.620",
+    "end": "00:24:34.850"
+  },
+  {
+    "text": "as you say probably none of us do are we",
+    "begin": "00:24:30.710",
+    "end": "00:24:36.440"
+  },
+  {
+    "text": "getting to the place where we're going",
+    "begin": "00:24:34.850",
+    "end": "00:24:39.289"
+  },
+  {
+    "text": "to be able to aggregate and analyze and",
+    "begin": "00:24:36.440",
+    "end": "00:24:41.840"
+  },
+  {
+    "text": "extract meaning from this complexity or",
+    "begin": "00:24:39.289",
+    "end": "00:24:43.250"
+  },
+  {
+    "text": "is the complexity because I've secured",
+    "begin": "00:24:41.840",
+    "end": "00:24:46.760"
+  },
+  {
+    "text": "our ability to know what's real I know",
+    "begin": "00:24:43.250",
+    "end": "00:24:49.210"
+  },
+  {
+    "text": "it's important yeah I do believe we are",
+    "begin": "00:24:46.760",
+    "end": "00:24:51.559"
+  },
+  {
+    "text": "starting in the next few years okay",
+    "begin": "00:24:49.210",
+    "end": "00:24:53.659"
+  },
+  {
+    "text": "having an exponential curve this is a",
+    "begin": "00:24:51.559",
+    "end": "00:24:56.870"
+  },
+  {
+    "text": "Kurtz wily and predicting here sorts out",
+    "begin": "00:24:53.659",
+    "end": "00:25:00.440"
+  },
+  {
+    "text": "in a different direction than rank much",
+    "begin": "00:24:56.870",
+    "end": "00:25:02.690"
+  },
+  {
+    "text": "of what we hear about what is going to",
+    "begin": "00:25:00.440",
+    "end": "00:25:04.720"
+  },
+  {
+    "text": "happen with brains from singularity okay",
+    "begin": "00:25:02.690",
+    "end": "00:25:08.000"
+  },
+  {
+    "text": "as you said we can't hold it you can't",
+    "begin": "00:25:04.720",
+    "end": "00:25:08.809"
+  },
+  {
+    "text": "hold it on your brain",
+    "begin": "00:25:08.000",
+    "end": "00:25:11.779"
+  },
+  {
+    "text": "okay total amount of information exceeds",
+    "begin": "00:25:08.809",
+    "end": "00:25:14.720"
+  },
+  {
+    "text": "our conscious processing by a lot mm-hmm",
+    "begin": "00:25:11.779",
+    "end": "00:25:16.880"
+  },
+  {
+    "text": "because of working memory limits mostly",
+    "begin": "00:25:14.720",
+    "end": "00:25:19.370"
+  },
+  {
+    "text": "right yeah there's a storage limit the",
+    "begin": "00:25:16.880",
+    "end": "00:25:20.929"
+  },
+  {
+    "text": "brain as far as we can tell but there is",
+    "begin": "00:25:19.370",
+    "end": "00:25:22.490"
+  },
+  {
+    "text": "a working memory limit for your ability",
+    "begin": "00:25:20.929",
+    "end": "00:25:24.799"
+  },
+  {
+    "text": "to consciously you know try to make",
+    "begin": "00:25:22.490",
+    "end": "00:25:27.080"
+  },
+  {
+    "text": "sense of not just how many different",
+    "begin": "00:25:24.799",
+    "end": "00:25:28.700"
+  },
+  {
+    "text": "metrics but the relationships between",
+    "begin": "00:25:27.080",
+    "end": "00:25:30.020"
+  },
+  {
+    "text": "those mixture or ideal material",
+    "begin": "00:25:28.700",
+    "end": "00:25:33.020"
+  },
+  {
+    "text": "relationships so say we start looking at",
+    "begin": "00:25:30.020",
+    "end": "00:25:35.779"
+  },
+  {
+    "text": "the genome most things aren't affected",
+    "begin": "00:25:33.020",
+    "end": "00:25:38.929"
+  },
+  {
+    "text": "by by snips right by one snip there's",
+    "begin": "00:25:35.779",
+    "end": "00:25:40.460"
+  },
+  {
+    "text": "very few things that are mostly we're",
+    "begin": "00:25:38.929",
+    "end": "00:25:42.799"
+  },
+  {
+    "text": "looking at dynamics combinatorial",
+    "begin": "00:25:40.460",
+    "end": "00:25:45.320"
+  },
+  {
+    "text": "dynamics across tens or hundreds of",
+    "begin": "00:25:42.799",
+    "end": "00:25:47.470"
+  },
+  {
+    "text": "thousands three effects essentially",
+    "begin": "00:25:45.320",
+    "end": "00:25:49.880"
+  },
+  {
+    "text": "right and but that's that's a lot when",
+    "begin": "00:25:47.470",
+    "end": "00:25:51.559"
+  },
+  {
+    "text": "you look at you know three billion base",
+    "begin": "00:25:49.880",
+    "end": "00:25:54.950"
+  },
+  {
+    "text": "pairs yeah and then we have to deal with",
+    "begin": "00:25:51.559",
+    "end": "00:25:57.380"
+  },
+  {
+    "text": "the fact that that doesn't tell us which",
+    "begin": "00:25:54.950",
+    "end": "00:25:59.570"
+  },
+  {
+    "text": "ones are actually coding right we have",
+    "begin": "00:25:57.380",
+    "end": "00:26:01.070"
+  },
+  {
+    "text": "to look at the epigenome for that which",
+    "begin": "00:25:59.570",
+    "end": "00:26:02.960"
+  },
+  {
+    "text": "is not something we do well right now so",
+    "begin": "00:26:01.070",
+    "end": "00:26:04.940"
+  },
+  {
+    "text": "we have to look at the transcriptome or",
+    "begin": "00:26:02.960",
+    "end": "00:26:06.830"
+  },
+  {
+    "text": "eggs Omega proteome which is all stuff",
+    "begin": "00:26:04.940",
+    "end": "00:26:10.940"
+  },
+  {
+    "text": "that is emerging but hard and that's",
+    "begin": "00:26:06.830",
+    "end": "00:26:13.070"
+  },
+  {
+    "text": "just the human genes which is not",
+    "begin": "00:26:10.940",
+    "end": "00:26:14.990"
+  },
+  {
+    "text": "actually the majority of the genes we",
+    "begin": "00:26:13.070",
+    "end": "00:26:16.909"
+  },
+  {
+    "text": "carry around or actually art ours are",
+    "begin": "00:26:14.990",
+    "end": "00:26:19.460"
+  },
+  {
+    "text": "human right so so if you think about it",
+    "begin": "00:26:16.909",
+    "end": "00:26:21.350"
+  },
+  {
+    "text": "this way right when you're saying the",
+    "begin": "00:26:19.460",
+    "end": "00:26:22.820"
+  },
+  {
+    "text": "brain is regulatory system it's a",
+    "begin": "00:26:21.350",
+    "end": "00:26:24.590"
+  },
+  {
+    "text": "top-down regulatory says right the",
+    "begin": "00:26:22.820",
+    "end": "00:26:26.210"
+  },
+  {
+    "text": "bottom-up regulatory system is the code",
+    "begin": "00:26:24.590",
+    "end": "00:26:28.700"
+  },
+  {
+    "text": "layer the genomics the microbiome except",
+    "begin": "00:26:26.210",
+    "end": "00:26:30.649"
+  },
+  {
+    "text": "I romics right they are creating a",
+    "begin": "00:26:28.700",
+    "end": "00:26:32.960"
+  },
+  {
+    "text": "distributed bottom-up regulation of",
+    "begin": "00:26:30.649",
+    "end": "00:26:35.029"
+  },
+  {
+    "text": "individual cell function right and",
+    "begin": "00:26:32.960",
+    "end": "00:26:38.210"
+  },
+  {
+    "text": "routine code is sure sure that bottom-up",
+    "begin": "00:26:35.029",
+    "end": "00:26:41.090"
+  },
+  {
+    "text": "regulatory capacity is what led to the",
+    "begin": "00:26:38.210",
+    "end": "00:26:43.220"
+  },
+  {
+    "text": "the evolutionist top-down regulatory",
+    "begin": "00:26:41.090",
+    "end": "00:26:45.259"
+  },
+  {
+    "text": "capacities that get to control larger",
+    "begin": "00:26:43.220",
+    "end": "00:26:47.509"
+  },
+  {
+    "text": "groups of cells and tissues working",
+    "begin": "00:26:45.259",
+    "end": "00:26:49.610"
+  },
+  {
+    "text": "together in coordination the feedback",
+    "begin": "00:26:47.509",
+    "end": "00:26:51.950"
+  },
+  {
+    "text": "relationships between the bottom up and",
+    "begin": "00:26:49.610",
+    "end": "00:26:53.389"
+  },
+  {
+    "text": "the top down regulatory systems and all",
+    "begin": "00:26:51.950",
+    "end": "00:26:55.490"
+  },
+  {
+    "text": "the dynamics in between is where we're",
+    "begin": "00:26:53.389",
+    "end": "00:26:58.220"
+  },
+  {
+    "text": "what I think we're starting to do is map",
+    "begin": "00:26:55.490",
+    "end": "00:27:01.039"
+  },
+  {
+    "text": "the human as a cybernetic organism okay",
+    "begin": "00:26:58.220",
+    "end": "00:27:04.370"
+  },
+  {
+    "text": "right as a regulatory organism Plex",
+    "begin": "00:27:01.039",
+    "end": "00:27:06.440"
+  },
+  {
+    "text": "adaptive system science and kind of",
+    "begin": "00:27:04.370",
+    "end": "00:27:08.659"
+  },
+  {
+    "text": "systems modeling to understanding that",
+    "begin": "00:27:06.440",
+    "end": "00:27:10.879"
+  },
+  {
+    "text": "better and it is what in computer",
+    "begin": "00:27:08.659",
+    "end": "00:27:12.499"
+  },
+  {
+    "text": "science is called a np-complete issue",
+    "begin": "00:27:10.879",
+    "end": "00:27:14.869"
+  },
+  {
+    "text": "it's an uncomputable issue okay there's",
+    "begin": "00:27:12.499",
+    "end": "00:27:16.429"
+  },
+  {
+    "text": "an uncomputable amount of information",
+    "begin": "00:27:14.869",
+    "end": "00:27:18.159"
+  },
+  {
+    "text": "yeah we're not just going to brute force",
+    "begin": "00:27:16.429",
+    "end": "00:27:20.690"
+  },
+  {
+    "text": "big data and machine learning and figure",
+    "begin": "00:27:18.159",
+    "end": "00:27:22.639"
+  },
+  {
+    "text": "it all out well to chaotic system we",
+    "begin": "00:27:20.690",
+    "end": "00:27:24.759"
+  },
+  {
+    "text": "have we do not have infinite precision",
+    "begin": "00:27:22.639",
+    "end": "00:27:28.840"
+  },
+  {
+    "text": "therefore any model that steps into time",
+    "begin": "00:27:24.759",
+    "end": "00:27:32.119"
+  },
+  {
+    "text": "far at all diverges from the chaotic",
+    "begin": "00:27:28.840",
+    "end": "00:27:36.669"
+  },
+  {
+    "text": "system and so yes chaotic meaning",
+    "begin": "00:27:32.119",
+    "end": "00:27:38.179"
+  },
+  {
+    "text": "there's some fundamental",
+    "begin": "00:27:36.669",
+    "end": "00:27:40.190"
+  },
+  {
+    "text": "unpredictability there our measurement",
+    "begin": "00:27:38.179",
+    "end": "00:27:42.249"
+  },
+  {
+    "text": "limits and then there's there is",
+    "begin": "00:27:40.190",
+    "end": "00:27:45.200"
+  },
+  {
+    "text": "uncomputable complexity and so what that",
+    "begin": "00:27:42.249",
+    "end": "00:27:47.179"
+  },
+  {
+    "text": "means is rather than just depend on",
+    "begin": "00:27:45.200",
+    "end": "00:27:49.450"
+  },
+  {
+    "text": "brute force computation we have to",
+    "begin": "00:27:47.179",
+    "end": "00:27:52.909"
+  },
+  {
+    "text": "understand the dynamics of causation and",
+    "begin": "00:27:49.450",
+    "end": "00:27:54.649"
+  },
+  {
+    "text": "a complex system better so we can",
+    "begin": "00:27:52.909",
+    "end": "00:27:56.659"
+  },
+  {
+    "text": "compute the things that actually seem",
+    "begin": "00:27:54.649",
+    "end": "00:27:58.009"
+  },
+  {
+    "text": "like they would make sense to happen",
+    "begin": "00:27:56.659",
+    "end": "00:28:00.529"
+  },
+  {
+    "text": "right that's the modeling part I think",
+    "begin": "00:27:58.009",
+    "end": "00:28:01.940"
+  },
+  {
+    "text": "the modeling part is key and that's it",
+    "begin": "00:28:00.529",
+    "end": "00:28:03.619"
+  },
+  {
+    "text": "neuro hoc are what we're really focused",
+    "begin": "00:28:01.940",
+    "end": "00:28:07.639"
+  },
+  {
+    "text": "on is taking models like cybernetics",
+    "begin": "00:28:03.619",
+    "end": "00:28:09.769"
+  },
+  {
+    "text": "right like complex adaptive systems and",
+    "begin": "00:28:07.639",
+    "end": "00:28:12.919"
+  },
+  {
+    "text": "like information theory and putting what",
+    "begin": "00:28:09.769",
+    "end": "00:28:14.690"
+  },
+  {
+    "text": "we understand from human biology and",
+    "begin": "00:28:12.919",
+    "end": "00:28:16.549"
+  },
+  {
+    "text": "medicine into those more complex models",
+    "begin": "00:28:14.690",
+    "end": "00:28:18.080"
+  },
+  {
+    "text": "to understand dynamics better right",
+    "begin": "00:28:16.549",
+    "end": "00:28:21.200"
+  },
+  {
+    "text": "complex dynamics and getting to the",
+    "begin": "00:28:18.080",
+    "end": "00:28:22.549"
+  },
+  {
+    "text": "place where we can start to aggregate",
+    "begin": "00:28:21.200",
+    "end": "00:28:24.409"
+  },
+  {
+    "text": "tremendous amounts of data there and",
+    "begin": "00:28:22.549",
+    "end": "00:28:28.009"
+  },
+  {
+    "text": "that of it is has progressively better",
+    "begin": "00:28:24.409",
+    "end": "00:28:31.460"
+  },
+  {
+    "text": "sensitivity and specificity and then be",
+    "begin": "00:28:28.009",
+    "end": "00:28:33.619"
+  },
+  {
+    "text": "able to process that data where you know",
+    "begin": "00:28:31.460",
+    "end": "00:28:35.059"
+  },
+  {
+    "text": "right now for the most part when we look",
+    "begin": "00:28:33.619",
+    "end": "00:28:37.129"
+  },
+  {
+    "text": "at a biometric we look at someone's",
+    "begin": "00:28:35.059",
+    "end": "00:28:38.480"
+  },
+  {
+    "text": "hemoglobin or their vitamin D or",
+    "begin": "00:28:37.129",
+    "end": "00:28:39.740"
+  },
+  {
+    "text": "whatever we're looking at in",
+    "begin": "00:28:38.480",
+    "end": "00:28:42.590"
+  },
+  {
+    "text": "relationship to a reference range sure",
+    "begin": "00:28:39.740",
+    "end": "00:28:45.440"
+  },
+  {
+    "text": "but when we look at someone's someone",
+    "begin": "00:28:42.590",
+    "end": "00:28:48.889"
+  },
+  {
+    "text": "has a kind of dynamic homeostasis right",
+    "begin": "00:28:45.440",
+    "end": "00:28:50.659"
+  },
+  {
+    "text": "I actually really like it we're at homeo",
+    "begin": "00:28:48.889",
+    "end": "00:28:52.009"
+  },
+  {
+    "text": "dynamics it's a better word because the",
+    "begin": "00:28:50.659",
+    "end": "00:28:53.559"
+  },
+  {
+    "text": "stasis is nonsense as you mentioned",
+    "begin": "00:28:52.009",
+    "end": "00:28:55.309"
+  },
+  {
+    "text": "sorry",
+    "begin": "00:28:53.559",
+    "end": "00:28:57.559"
+  },
+  {
+    "text": "I need your response right here the word",
+    "begin": "00:28:55.309",
+    "end": "00:29:01.519"
+  },
+  {
+    "text": "homeostasis sure life is not stasis we",
+    "begin": "00:28:57.559",
+    "end": "00:29:05.440"
+  },
+  {
+    "text": "have these homeo dynamic yeah and then",
+    "begin": "00:29:01.519",
+    "end": "00:29:07.970"
+  },
+  {
+    "text": "thriving health has to do with the homeo",
+    "begin": "00:29:05.440",
+    "end": "00:29:10.129"
+  },
+  {
+    "text": "dynamic capacity and resilience across",
+    "begin": "00:29:07.970",
+    "end": "00:29:12.440"
+  },
+  {
+    "text": "all of those homeo dynamic axes right",
+    "begin": "00:29:10.129",
+    "end": "00:29:15.620"
+  },
+  {
+    "text": "mm-hmm aging is decreased homeo dynamic",
+    "begin": "00:29:12.440",
+    "end": "00:29:18.139"
+  },
+  {
+    "text": "capacity across some of the axes does",
+    "begin": "00:29:15.620",
+    "end": "00:29:20.659"
+  },
+  {
+    "text": "that mean decreased range of variability",
+    "begin": "00:29:18.139",
+    "end": "00:29:25.309"
+  },
+  {
+    "text": "in actually decreased capacity to have a",
+    "begin": "00:29:20.659",
+    "end": "00:29:27.710"
+  },
+  {
+    "text": "stressor right some things that's trying",
+    "begin": "00:29:25.309",
+    "end": "00:29:29.419"
+  },
+  {
+    "text": "to create deviation from homeostasis and",
+    "begin": "00:29:27.710",
+    "end": "00:29:32.090"
+  },
+  {
+    "text": "the ability to stay within the homeo",
+    "begin": "00:29:29.419",
+    "end": "00:29:36.049"
+  },
+  {
+    "text": "dynamic range so then if which means",
+    "begin": "00:29:32.090",
+    "end": "00:29:38.149"
+  },
+  {
+    "text": "less resilience so to be concrete things",
+    "begin": "00:29:36.049",
+    "end": "00:29:40.669"
+  },
+  {
+    "text": "like insulin or cortisol rotla to",
+    "begin": "00:29:38.149",
+    "end": "00:29:42.190"
+  },
+  {
+    "text": "insulin rises when you consume sugar",
+    "begin": "00:29:40.669",
+    "end": "00:29:45.379"
+  },
+  {
+    "text": "right when you know it's a signaling",
+    "begin": "00:29:42.190",
+    "end": "00:29:47.659"
+  },
+  {
+    "text": "molecule cells suck up the glucose",
+    "begin": "00:29:45.379",
+    "end": "00:29:50.710"
+  },
+  {
+    "text": "insulin goes back down to chronically",
+    "begin": "00:29:47.659",
+    "end": "00:29:52.909"
+  },
+  {
+    "text": "pretty sure the insulin system to the",
+    "begin": "00:29:50.710",
+    "end": "00:29:54.470"
+  },
+  {
+    "text": "top of its range eventually it stops",
+    "begin": "00:29:52.909",
+    "end": "00:29:57.110"
+  },
+  {
+    "text": "varying and we call that type 2 diabetes",
+    "begin": "00:29:54.470",
+    "end": "00:29:59.629"
+  },
+  {
+    "text": "and on the way there the kind of",
+    "begin": "00:29:57.110",
+    "end": "00:30:01.730"
+  },
+  {
+    "text": "syndrome X dynamics where fasting",
+    "begin": "00:29:59.629",
+    "end": "00:30:03.289"
+  },
+  {
+    "text": "insulin levels raise you get insulin",
+    "begin": "00:30:01.730",
+    "end": "00:30:05.480"
+  },
+  {
+    "text": "resistance at the level cells now you",
+    "begin": "00:30:03.289",
+    "end": "00:30:06.830"
+  },
+  {
+    "text": "take sugar and in your blood sugar is",
+    "begin": "00:30:05.480",
+    "end": "00:30:08.179"
+  },
+  {
+    "text": "going to go further out of balance no",
+    "begin": "00:30:06.830",
+    "end": "00:30:08.860"
+  },
+  {
+    "text": "longer",
+    "begin": "00:30:08.179",
+    "end": "00:30:11.539"
+  },
+  {
+    "text": "causing more effect on other systems are",
+    "begin": "00:30:08.860",
+    "end": "00:30:13.159"
+  },
+  {
+    "text": "affected by blood sugar so more than",
+    "begin": "00:30:11.539",
+    "end": "00:30:16.749"
+  },
+  {
+    "text": "pathophysiology so we're defining here",
+    "begin": "00:30:13.159",
+    "end": "00:30:19.190"
+  },
+  {
+    "text": "aging is not disease because disease",
+    "begin": "00:30:16.749",
+    "end": "00:30:22.549"
+  },
+  {
+    "text": "we'd actually say is the deviation from",
+    "begin": "00:30:19.190",
+    "end": "00:30:25.539"
+  },
+  {
+    "text": "homeostatic range or homeo dynamic range",
+    "begin": "00:30:22.549",
+    "end": "00:30:28.309"
+  },
+  {
+    "text": "where some metric actually goes out of",
+    "begin": "00:30:25.539",
+    "end": "00:30:30.700"
+  },
+  {
+    "text": "effective range and then you get a",
+    "begin": "00:30:28.309",
+    "end": "00:30:33.169"
+  },
+  {
+    "text": "pathophysiologic cascade okay",
+    "begin": "00:30:30.700",
+    "end": "00:30:35.509"
+  },
+  {
+    "text": "so aging is not that it's the increased",
+    "begin": "00:30:33.169",
+    "end": "00:30:37.100"
+  },
+  {
+    "text": "susceptibility for that so it's",
+    "begin": "00:30:35.509",
+    "end": "00:30:38.539"
+  },
+  {
+    "text": "increased susceptibility for disease",
+    "begin": "00:30:37.100",
+    "end": "00:30:40.960"
+  },
+  {
+    "text": "because someone could have all of their",
+    "begin": "00:30:38.539",
+    "end": "00:30:43.879"
+  },
+  {
+    "text": "markers within homeostatic state range",
+    "begin": "00:30:40.960",
+    "end": "00:30:46.519"
+  },
+  {
+    "text": "mm-hmm but more sensitive to them being",
+    "begin": "00:30:43.879",
+    "end": "00:30:48.440"
+  },
+  {
+    "text": "able to go out of range from whatever",
+    "begin": "00:30:46.519",
+    "end": "00:30:50.629"
+  },
+  {
+    "text": "stresses so they're less label to sit in",
+    "begin": "00:30:48.440",
+    "end": "00:30:52.549"
+  },
+  {
+    "text": "the in the in the healthy basin of the",
+    "begin": "00:30:50.629",
+    "end": "00:30:55.159"
+  },
+  {
+    "text": "phase space so to speak right okay sorry",
+    "begin": "00:30:52.549",
+    "end": "00:30:57.559"
+  },
+  {
+    "text": "and so what we're interested in here is",
+    "begin": "00:30:55.159",
+    "end": "00:31:01.090"
+  },
+  {
+    "text": "how do we where someone already has",
+    "begin": "00:30:57.559",
+    "end": "00:31:03.350"
+  },
+  {
+    "text": "disease dynamics going on how do we",
+    "begin": "00:31:01.090",
+    "end": "00:31:05.750"
+  },
+  {
+    "text": "identify specifically what caused",
+    "begin": "00:31:03.350",
+    "end": "00:31:07.669"
+  },
+  {
+    "text": "deviation from homeostasis on which",
+    "begin": "00:31:05.750",
+    "end": "00:31:08.500"
+  },
+  {
+    "text": "dynamics",
+    "begin": "00:31:07.669",
+    "end": "00:31:10.630"
+  },
+  {
+    "text": "what was the causal cascade that",
+    "begin": "00:31:08.500",
+    "end": "00:31:12.040"
+  },
+  {
+    "text": "happened and how do we specifically",
+    "begin": "00:31:10.630",
+    "end": "00:31:13.900"
+  },
+  {
+    "text": "reverse it like we mentioned with the",
+    "begin": "00:31:12.040",
+    "end": "00:31:17.380"
+  },
+  {
+    "text": "anxiety are we are we keel ating",
+    "begin": "00:31:13.900",
+    "end": "00:31:19.210"
+  },
+  {
+    "text": "neurotoxins or are we fixing the gut",
+    "begin": "00:31:17.380",
+    "end": "00:31:20.770"
+  },
+  {
+    "text": "brain access or those are very different",
+    "begin": "00:31:19.210",
+    "end": "00:31:22.870"
+  },
+  {
+    "text": "things that require specific addressing",
+    "begin": "00:31:20.770",
+    "end": "00:31:25.150"
+  },
+  {
+    "text": "of what the causal cascade was so this",
+    "begin": "00:31:22.870",
+    "end": "00:31:27.340"
+  },
+  {
+    "text": "is not let's say going to insulin the",
+    "begin": "00:31:25.150",
+    "end": "00:31:30.580"
+  },
+  {
+    "text": "insulin insensitivity that cells",
+    "begin": "00:31:27.340",
+    "end": "00:31:32.560"
+  },
+  {
+    "text": "experience after high levels of insulin",
+    "begin": "00:31:30.580",
+    "end": "00:31:34.840"
+  },
+  {
+    "text": "that's not the disease itself that is",
+    "begin": "00:31:32.560",
+    "end": "00:31:38.010"
+  },
+  {
+    "text": "the failure of the dynamic range correct",
+    "begin": "00:31:34.840",
+    "end": "00:31:40.270"
+  },
+  {
+    "text": "and we call these diseases things like",
+    "begin": "00:31:38.010",
+    "end": "00:31:42.580"
+  },
+  {
+    "text": "diabetes and Alzheimer's or other things",
+    "begin": "00:31:40.270",
+    "end": "00:31:45.400"
+  },
+  {
+    "text": "because of the failure now there are",
+    "begin": "00:31:42.580",
+    "end": "00:31:47.350"
+  },
+  {
+    "text": "some people who get type 2 diabetes who",
+    "begin": "00:31:45.400",
+    "end": "00:31:49.420"
+  },
+  {
+    "text": "did not consume too much carbohydrates",
+    "begin": "00:31:47.350",
+    "end": "00:31:51.040"
+  },
+  {
+    "text": "relative to what they burn but they are",
+    "begin": "00:31:49.420",
+    "end": "00:31:53.170"
+  },
+  {
+    "text": "deficient in chromium or vanadium that",
+    "begin": "00:31:51.040",
+    "end": "00:31:55.390"
+  },
+  {
+    "text": "are nary to actually have insulin",
+    "begin": "00:31:53.170",
+    "end": "00:31:58.150"
+  },
+  {
+    "text": "process that receptors so there are",
+    "begin": "00:31:55.390",
+    "end": "00:31:59.740"
+  },
+  {
+    "text": "other dynamics that can go on which is",
+    "begin": "00:31:58.150",
+    "end": "00:32:01.180"
+  },
+  {
+    "text": "why we actually have to understand what",
+    "begin": "00:31:59.740",
+    "end": "00:32:03.820"
+  },
+  {
+    "text": "are what is the entire causal phase",
+    "begin": "00:32:01.180",
+    "end": "00:32:05.620"
+  },
+  {
+    "text": "space of what can cause an imbalance all",
+    "begin": "00:32:03.820",
+    "end": "00:32:07.360"
+  },
+  {
+    "text": "the things that could be involved and",
+    "begin": "00:32:05.620",
+    "end": "00:32:09.700"
+  },
+  {
+    "text": "this is what we've sucked at at medicine",
+    "begin": "00:32:07.360",
+    "end": "00:32:12.730"
+  },
+  {
+    "text": "so far is dealing with complex causation",
+    "begin": "00:32:09.700",
+    "end": "00:32:14.650"
+  },
+  {
+    "text": "yeah feud causation straightforward",
+    "begin": "00:32:12.730",
+    "end": "00:32:16.660"
+  },
+  {
+    "text": "right so injury pretty straightforward",
+    "begin": "00:32:14.650",
+    "end": "00:32:20.110"
+  },
+  {
+    "text": "and so we're going to be able to address",
+    "begin": "00:32:16.660",
+    "end": "00:32:23.080"
+  },
+  {
+    "text": "that in a clearer way but where the",
+    "begin": "00:32:20.110",
+    "end": "00:32:24.700"
+  },
+  {
+    "text": "causation is either delayed in time",
+    "begin": "00:32:23.080",
+    "end": "00:32:26.680"
+  },
+  {
+    "text": "right so something happened and it led",
+    "begin": "00:32:24.700",
+    "end": "00:32:29.350"
+  },
+  {
+    "text": "to a slow deviation from homeo dynamics",
+    "begin": "00:32:26.680",
+    "end": "00:32:31.630"
+  },
+  {
+    "text": "over the course of years or decades it's",
+    "begin": "00:32:29.350",
+    "end": "00:32:33.250"
+  },
+  {
+    "text": "hard to assess what it was yeah",
+    "begin": "00:32:31.630",
+    "end": "00:32:35.110"
+  },
+  {
+    "text": "or where it's multifactorial there's",
+    "begin": "00:32:33.250",
+    "end": "00:32:37.150"
+  },
+  {
+    "text": "many different things going on and where",
+    "begin": "00:32:35.110",
+    "end": "00:32:39.220"
+  },
+  {
+    "text": "it's a combination of some",
+    "begin": "00:32:37.150",
+    "end": "00:32:40.780"
+  },
+  {
+    "text": "multifactorial set that's different for",
+    "begin": "00:32:39.220",
+    "end": "00:32:43.390"
+  },
+  {
+    "text": "different people so I don't think ms is",
+    "begin": "00:32:40.780",
+    "end": "00:32:45.730"
+  },
+  {
+    "text": "a disease I think it is and I don't",
+    "begin": "00:32:43.390",
+    "end": "00:32:47.160"
+  },
+  {
+    "text": "think Alzheimer's is a disease or",
+    "begin": "00:32:45.730",
+    "end": "00:32:49.570"
+  },
+  {
+    "text": "anxiety I think they are conditions",
+    "begin": "00:32:47.160",
+    "end": "00:32:52.780"
+  },
+  {
+    "text": "where some cluster of symptoms and",
+    "begin": "00:32:49.570",
+    "end": "00:32:54.400"
+  },
+  {
+    "text": "biomarkers come together what we call",
+    "begin": "00:32:52.780",
+    "end": "00:32:56.980"
+  },
+  {
+    "text": "with that but the actual causal etiology",
+    "begin": "00:32:54.400",
+    "end": "00:32:58.720"
+  },
+  {
+    "text": "going into it can be radically different",
+    "begin": "00:32:56.980",
+    "end": "00:32:59.890"
+  },
+  {
+    "text": "from one person to the next so Laurie",
+    "begin": "00:32:58.720",
+    "end": "00:33:02.230"
+  },
+  {
+    "text": "syndrome less of a disease a cluster of",
+    "begin": "00:32:59.890",
+    "end": "00:33:04.200"
+  },
+  {
+    "text": "symptoms that may have multiple causal",
+    "begin": "00:33:02.230",
+    "end": "00:33:07.210"
+  },
+  {
+    "text": "features interesting I saw a study out",
+    "begin": "00:33:04.200",
+    "end": "00:33:11.700"
+  },
+  {
+    "text": "of UCLA a couple weeks ago that suggests",
+    "begin": "00:33:07.210",
+    "end": "00:33:14.080"
+  },
+  {
+    "text": "Alzheimer's insulin insensitivity if you",
+    "begin": "00:33:11.700",
+    "end": "00:33:16.030"
+  },
+  {
+    "text": "will can be reduced simply through",
+    "begin": "00:33:14.080",
+    "end": "00:33:17.350"
+  },
+  {
+    "text": "behavioral mechanism to a bunch of",
+    "begin": "00:33:16.030",
+    "end": "00:33:19.960"
+  },
+  {
+    "text": "people off of all the meds off of",
+    "begin": "00:33:17.350",
+    "end": "00:33:22.179"
+  },
+  {
+    "text": "anything instead of doing",
+    "begin": "00:33:19.960",
+    "end": "00:33:23.980"
+  },
+  {
+    "text": "specific intervention they said let's do",
+    "begin": "00:33:22.179",
+    "end": "00:33:26.440"
+  },
+  {
+    "text": "lifestyle things and did you know paleo",
+    "begin": "00:33:23.980",
+    "end": "00:33:28.559"
+  },
+  {
+    "text": "diets and exercise and lo and behold",
+    "begin": "00:33:26.440",
+    "end": "00:33:30.669"
+  },
+  {
+    "text": "symptomatic Alzheimer's individuals",
+    "begin": "00:33:28.559",
+    "end": "00:33:34.899"
+  },
+  {
+    "text": "showed recovery of some function this is",
+    "begin": "00:33:30.669",
+    "end": "00:33:36.639"
+  },
+  {
+    "text": "fairly magical things there was a study",
+    "begin": "00:33:34.899",
+    "end": "00:33:39.789"
+  },
+  {
+    "text": "out a couple weeks ago showing that even",
+    "begin": "00:33:36.639",
+    "end": "00:33:41.320"
+  },
+  {
+    "text": "in people with type 2 and type 1",
+    "begin": "00:33:39.789",
+    "end": "00:33:44.350"
+  },
+  {
+    "text": "diabetes who have no beta islet cells",
+    "begin": "00:33:41.320",
+    "end": "00:33:45.610"
+  },
+  {
+    "text": "essentially anymore in their pancreas",
+    "begin": "00:33:44.350",
+    "end": "00:33:48.490"
+  },
+  {
+    "text": "producing insulin short period of",
+    "begin": "00:33:45.610",
+    "end": "00:33:50.350"
+  },
+  {
+    "text": "fasting if it was 12 or 24 hours a very",
+    "begin": "00:33:48.490",
+    "end": "00:33:53.200"
+  },
+  {
+    "text": "short period seems to cause a read if ur",
+    "begin": "00:33:50.350",
+    "end": "00:33:55.690"
+  },
+  {
+    "text": "enchi a ssin of non beta islet cells",
+    "begin": "00:33:53.200",
+    "end": "00:33:58.059"
+  },
+  {
+    "text": "into beta islet cells to produce insulin",
+    "begin": "00:33:55.690",
+    "end": "00:34:00.700"
+  },
+  {
+    "text": "right that flies in the face of what we",
+    "begin": "00:33:58.059",
+    "end": "00:34:02.860"
+  },
+  {
+    "text": "thought of in the disease model diabetes",
+    "begin": "00:34:00.700",
+    "end": "00:34:04.899"
+  },
+  {
+    "text": "where it's either autoimmune or it's",
+    "begin": "00:34:02.860",
+    "end": "00:34:07.179"
+  },
+  {
+    "text": "toxic from the sugar essentially that",
+    "begin": "00:34:04.899",
+    "end": "00:34:09.879"
+  },
+  {
+    "text": "kills in some person cells once they go",
+    "begin": "00:34:07.179",
+    "end": "00:34:12.129"
+  },
+  {
+    "text": "on to gone that does not appear to be",
+    "begin": "00:34:09.879",
+    "end": "00:34:13.510"
+  },
+  {
+    "text": "accurate is this the kind of thing that",
+    "begin": "00:34:12.129",
+    "end": "00:34:15.250"
+  },
+  {
+    "text": "your your listing is the main thing that",
+    "begin": "00:34:13.510",
+    "end": "00:34:16.659"
+  },
+  {
+    "text": "the idea that we don't produce new",
+    "begin": "00:34:15.250",
+    "end": "00:34:18.099"
+  },
+  {
+    "text": "neurons right that was an old idea",
+    "begin": "00:34:16.659",
+    "end": "00:34:19.839"
+  },
+  {
+    "text": "driven we realized you know Genesis",
+    "begin": "00:34:18.099",
+    "end": "00:34:21.639"
+  },
+  {
+    "text": "happens and it can be up regulated yeah",
+    "begin": "00:34:19.839",
+    "end": "00:34:23.020"
+  },
+  {
+    "text": "and that it was only in three places and",
+    "begin": "00:34:21.639",
+    "end": "00:34:24.609"
+  },
+  {
+    "text": "now it's pretty much everywhere you look",
+    "begin": "00:34:23.020",
+    "end": "00:34:26.679"
+  },
+  {
+    "text": "in the brain we're finding new actually",
+    "begin": "00:34:24.609",
+    "end": "00:34:28.899"
+  },
+  {
+    "text": "button stem cells so and so can we",
+    "begin": "00:34:26.679",
+    "end": "00:34:30.879"
+  },
+  {
+    "text": "increase pluripotent stem cell",
+    "begin": "00:34:28.899",
+    "end": "00:34:32.859"
+  },
+  {
+    "text": "production and their differentiation",
+    "begin": "00:34:30.879",
+    "end": "00:34:35.049"
+  },
+  {
+    "text": "throughout the connectome and can we",
+    "begin": "00:34:32.859",
+    "end": "00:34:37.480"
+  },
+  {
+    "text": "increase neural protection and",
+    "begin": "00:34:35.049",
+    "end": "00:34:39.099"
+  },
+  {
+    "text": "synaptogenesis and yeah like we're",
+    "begin": "00:34:37.480",
+    "end": "00:34:41.200"
+  },
+  {
+    "text": "learning a lot about how that works",
+    "begin": "00:34:39.099",
+    "end": "00:34:43.919"
+  },
+  {
+    "text": "any when you have a system that",
+    "begin": "00:34:41.200",
+    "end": "00:34:46.119"
+  },
+  {
+    "text": "generated itself it's a self generating",
+    "begin": "00:34:43.919",
+    "end": "00:34:48.040"
+  },
+  {
+    "text": "system the idea that it just could not",
+    "begin": "00:34:46.119",
+    "end": "00:34:49.629"
+  },
+  {
+    "text": "generate those tissues that it",
+    "begin": "00:34:48.040",
+    "end": "00:34:51.579"
+  },
+  {
+    "text": "originally generated again doesn't make",
+    "begin": "00:34:49.629",
+    "end": "00:34:53.770"
+  },
+  {
+    "text": "that much sense obviously capacity to do",
+    "begin": "00:34:51.579",
+    "end": "00:34:55.990"
+  },
+  {
+    "text": "it and then the capacity decreases or",
+    "begin": "00:34:53.770",
+    "end": "00:34:58.420"
+  },
+  {
+    "text": "turns off for some reasons those then",
+    "begin": "00:34:55.990",
+    "end": "00:35:01.000"
+  },
+  {
+    "text": "likely are modulated to turn on again so",
+    "begin": "00:34:58.420",
+    "end": "00:35:04.380"
+  },
+  {
+    "text": "sure when we think about life extension",
+    "begin": "00:35:01.000",
+    "end": "00:35:08.230"
+  },
+  {
+    "text": "how do we increase progenitor stem cells",
+    "begin": "00:35:04.380",
+    "end": "00:35:13.079"
+  },
+  {
+    "text": "hmm how do we increase the rate of",
+    "begin": "00:35:08.230",
+    "end": "00:35:16.329"
+  },
+  {
+    "text": "purging senescence structures how do we",
+    "begin": "00:35:13.079",
+    "end": "00:35:18.880"
+  },
+  {
+    "text": "protect cells from senescence these are",
+    "begin": "00:35:16.329",
+    "end": "00:35:20.829"
+  },
+  {
+    "text": "all things that happen already sure they",
+    "begin": "00:35:18.880",
+    "end": "00:35:23.619"
+  },
+  {
+    "text": "can start happening in at suboptimal",
+    "begin": "00:35:20.829",
+    "end": "00:35:25.750"
+  },
+  {
+    "text": "levels for a lot of reasons we can",
+    "begin": "00:35:23.619",
+    "end": "00:35:27.460"
+  },
+  {
+    "text": "support them happening in optimal levels",
+    "begin": "00:35:25.750",
+    "end": "00:35:29.230"
+  },
+  {
+    "text": "and maybe even beyond previous genetic",
+    "begin": "00:35:27.460",
+    "end": "00:35:31.450"
+  },
+  {
+    "text": "optimality right just to give us",
+    "begin": "00:35:29.230",
+    "end": "00:35:34.690"
+  },
+  {
+    "text": "discrete example the gerontologist teach",
+    "begin": "00:35:31.450",
+    "end": "00:35:36.099"
+  },
+  {
+    "text": "courses in aging is a term",
+    "begin": "00:35:34.690",
+    "end": "00:35:39.910"
+  },
+  {
+    "text": "aging called antagonistic pleiotropy the",
+    "begin": "00:35:36.099",
+    "end": "00:35:42.460"
+  },
+  {
+    "text": "idea that a mechanism that is healthy at",
+    "begin": "00:35:39.910",
+    "end": "00:35:44.049"
+  },
+  {
+    "text": "one point in life is harmful another",
+    "begin": "00:35:42.460",
+    "end": "00:35:46.089"
+  },
+  {
+    "text": "point in life and the telomeres you know",
+    "begin": "00:35:44.049",
+    "end": "00:35:47.559"
+  },
+  {
+    "text": "the shortening end caps that prevent",
+    "begin": "00:35:46.089",
+    "end": "00:35:49.630"
+  },
+  {
+    "text": "replication forever when you're young",
+    "begin": "00:35:47.559",
+    "end": "00:35:51.400"
+  },
+  {
+    "text": "prevents cancer from running away with",
+    "begin": "00:35:49.630",
+    "end": "00:35:53.859"
+  },
+  {
+    "text": "yourselves when you're old keeps",
+    "begin": "00:35:51.400",
+    "end": "00:35:56.200"
+  },
+  {
+    "text": "fibroblasts in your collagen from",
+    "begin": "00:35:53.859",
+    "end": "00:35:57.819"
+  },
+  {
+    "text": "cleaning themselves up and they become",
+    "begin": "00:35:56.200",
+    "end": "00:36:00.249"
+  },
+  {
+    "text": "homes for a pro cancer environment",
+    "begin": "00:35:57.819",
+    "end": "00:36:02.049"
+  },
+  {
+    "text": "basically so this kind of thing we're",
+    "begin": "00:36:00.249",
+    "end": "00:36:04.660"
+  },
+  {
+    "text": "identifying where the natural arc of",
+    "begin": "00:36:02.049",
+    "end": "00:36:06.849"
+  },
+  {
+    "text": "development may not be optimal for long",
+    "begin": "00:36:04.660",
+    "end": "00:36:09.279"
+  },
+  {
+    "text": "term performance and turning these",
+    "begin": "00:36:06.849",
+    "end": "00:36:11.369"
+  },
+  {
+    "text": "things back on and controlling it I mean",
+    "begin": "00:36:09.279",
+    "end": "00:36:14.559"
+  },
+  {
+    "text": "from point of view telomeres you know",
+    "begin": "00:36:11.369",
+    "end": "00:36:15.759"
+  },
+  {
+    "text": "for a long time that was of course the",
+    "begin": "00:36:14.559",
+    "end": "00:36:21.789"
+  },
+  {
+    "text": "Holy Grail in antisemitism years you",
+    "begin": "00:36:15.759",
+    "end": "00:36:23.979"
+  },
+  {
+    "text": "know ridiculously it would probably just",
+    "begin": "00:36:21.789",
+    "end": "00:36:27.279"
+  },
+  {
+    "text": "cause huge amounts of cancer so we can't",
+    "begin": "00:36:23.979",
+    "end": "00:36:29.200"
+  },
+  {
+    "text": "simply reach in and turn one thing on I",
+    "begin": "00:36:27.279",
+    "end": "00:36:30.640"
+  },
+  {
+    "text": "mean this is something I struggle with a",
+    "begin": "00:36:29.200",
+    "end": "00:36:32.380"
+  },
+  {
+    "text": "neurofeedback it's not reaching in and",
+    "begin": "00:36:30.640",
+    "end": "00:36:34.140"
+  },
+  {
+    "text": "dialing up and down different",
+    "begin": "00:36:32.380",
+    "end": "00:36:36.009"
+  },
+  {
+    "text": "neurotransmitters or different you know",
+    "begin": "00:36:34.140",
+    "end": "00:36:39.430"
+  },
+  {
+    "text": "brainwave ratios when I perturb a system",
+    "begin": "00:36:36.009",
+    "end": "00:36:41.049"
+  },
+  {
+    "text": "the system reorganizes and I'm never",
+    "begin": "00:36:39.430",
+    "end": "00:36:43.170"
+  },
+  {
+    "text": "quite sure how it's going to reorganize",
+    "begin": "00:36:41.049",
+    "end": "00:36:46.239"
+  },
+  {
+    "text": "this is uh you know little frustrating",
+    "begin": "00:36:43.170",
+    "end": "00:36:48.549"
+  },
+  {
+    "text": "sometimes so if we think of it as",
+    "begin": "00:36:46.239",
+    "end": "00:36:50.979"
+  },
+  {
+    "text": "increasing system resilience right",
+    "begin": "00:36:48.549",
+    "end": "00:36:53.170"
+  },
+  {
+    "text": "homeodomain capacity because it is a",
+    "begin": "00:36:50.979",
+    "end": "00:36:54.579"
+  },
+  {
+    "text": "self-organizing system and the",
+    "begin": "00:36:53.170",
+    "end": "00:36:56.229"
+  },
+  {
+    "text": "complexity is well beyond what we're",
+    "begin": "00:36:54.579",
+    "end": "00:37:00.880"
+  },
+  {
+    "text": "going to understand in a momentary view",
+    "begin": "00:36:56.229",
+    "end": "00:37:03.460"
+  },
+  {
+    "text": "right we're never going to factor all of",
+    "begin": "00:37:00.880",
+    "end": "00:37:05.079"
+  },
+  {
+    "text": "the dynamics happening probably even in",
+    "begin": "00:37:03.460",
+    "end": "00:37:07.690"
+  },
+  {
+    "text": "one cell but we can understand the",
+    "begin": "00:37:05.079",
+    "end": "00:37:10.210"
+  },
+  {
+    "text": "dynamics that are involved in its some",
+    "begin": "00:37:07.690",
+    "end": "00:37:11.849"
+  },
+  {
+    "text": "of the key ones in its own regulatory",
+    "begin": "00:37:10.210",
+    "end": "00:37:14.559"
+  },
+  {
+    "text": "dynamics and how we can increase its",
+    "begin": "00:37:11.849",
+    "end": "00:37:17.950"
+  },
+  {
+    "text": "regulatory capacity and so in general do",
+    "begin": "00:37:14.559",
+    "end": "00:37:20.859"
+  },
+  {
+    "text": "we see things like redox signaling",
+    "begin": "00:37:17.950",
+    "end": "00:37:23.499"
+  },
+  {
+    "text": "decreasing inefficiency in cells yes",
+    "begin": "00:37:20.859",
+    "end": "00:37:25.869"
+  },
+  {
+    "text": "yeah so this is why all the nicotinamide",
+    "begin": "00:37:23.499",
+    "end": "00:37:28.509"
+  },
+  {
+    "text": "right aside stuff has been so if you can",
+    "begin": "00:37:25.869",
+    "end": "00:37:31.450"
+  },
+  {
+    "text": "up regulate the NAD+ NADH ratio there's",
+    "begin": "00:37:28.509",
+    "end": "00:37:33.069"
+  },
+  {
+    "text": "a lot of cool things that happen yeah do",
+    "begin": "00:37:31.450",
+    "end": "00:37:35.529"
+  },
+  {
+    "text": "we see a CP decreasing inside of cells",
+    "begin": "00:37:33.069",
+    "end": "00:37:39.249"
+  },
+  {
+    "text": "yes do all the things that cells do need",
+    "begin": "00:37:35.529",
+    "end": "00:37:41.559"
+  },
+  {
+    "text": "those chemicals sure yeah if we can",
+    "begin": "00:37:39.249",
+    "end": "00:37:45.099"
+  },
+  {
+    "text": "support mitochondrial biogenesis if we",
+    "begin": "00:37:41.559",
+    "end": "00:37:47.200"
+  },
+  {
+    "text": "can support ATP production efficiency",
+    "begin": "00:37:45.099",
+    "end": "00:37:49.420"
+  },
+  {
+    "text": "and krebs cycle upregulation yep if we",
+    "begin": "00:37:47.200",
+    "end": "00:37:53.170"
+  },
+  {
+    "text": "support protection of the mitochondria",
+    "begin": "00:37:49.420",
+    "end": "00:37:54.730"
+  },
+  {
+    "text": "so they don't become senescent right",
+    "begin": "00:37:53.170",
+    "end": "00:37:57.609"
+  },
+  {
+    "text": "these are key things that what exactly",
+    "begin": "00:37:54.730",
+    "end": "00:37:58.630"
+  },
+  {
+    "text": "is that going to do what is going to",
+    "begin": "00:37:57.609",
+    "end": "00:38:00.910"
+  },
+  {
+    "text": "help the complex dynamics of everything",
+    "begin": "00:37:58.630",
+    "end": "00:38:02.559"
+  },
+  {
+    "text": "the cells are doing happened better and",
+    "begin": "00:38:00.910",
+    "end": "00:38:04.780"
+  },
+  {
+    "text": "so I think those are one of the key",
+    "begin": "00:38:02.559",
+    "end": "00:38:07.480"
+  },
+  {
+    "text": "things we so you know we were saying",
+    "begin": "00:38:04.780",
+    "end": "00:38:10.390"
+  },
+  {
+    "text": "earlier there are specific sources of",
+    "begin": "00:38:07.480",
+    "end": "00:38:12.880"
+  },
+  {
+    "text": "pathology right causes of deviation from",
+    "begin": "00:38:10.390",
+    "end": "00:38:14.670"
+  },
+  {
+    "text": "homeostasis that we want to identify",
+    "begin": "00:38:12.880",
+    "end": "00:38:16.690"
+  },
+  {
+    "text": "specifically in Reverse you have the",
+    "begin": "00:38:14.670",
+    "end": "00:38:19.329"
+  },
+  {
+    "text": "Jin's toxins deficiencies etc then there",
+    "begin": "00:38:16.690",
+    "end": "00:38:22.210"
+  },
+  {
+    "text": "are general system dynamics that support",
+    "begin": "00:38:19.329",
+    "end": "00:38:23.890"
+  },
+  {
+    "text": "system resilience and we want to support",
+    "begin": "00:38:22.210",
+    "end": "00:38:27.069"
+  },
+  {
+    "text": "those even though the effects of that",
+    "begin": "00:38:23.890",
+    "end": "00:38:28.780"
+  },
+  {
+    "text": "are going to be general increase",
+    "begin": "00:38:27.069",
+    "end": "00:38:31.569"
+  },
+  {
+    "text": "well-being in crossing systems so EEG",
+    "begin": "00:38:28.780",
+    "end": "00:38:34.059"
+  },
+  {
+    "text": "regulation is going to produce you know",
+    "begin": "00:38:31.569",
+    "end": "00:38:35.230"
+  },
+  {
+    "text": "how much is it going to affect a",
+    "begin": "00:38:34.059",
+    "end": "00:38:38.440"
+  },
+  {
+    "text": "particular gastrointestinal dynamic well",
+    "begin": "00:38:35.230",
+    "end": "00:38:39.790"
+  },
+  {
+    "text": "it depends on what all the causal",
+    "begin": "00:38:38.440",
+    "end": "00:38:41.500"
+  },
+  {
+    "text": "dynamic oh yeah it should move it in the",
+    "begin": "00:38:39.790",
+    "end": "00:38:43.210"
+  },
+  {
+    "text": "right direction to the degree that it's",
+    "begin": "00:38:41.500",
+    "end": "00:38:44.440"
+  },
+  {
+    "text": "creating better sympathetic",
+    "begin": "00:38:43.210",
+    "end": "00:38:46.660"
+  },
+  {
+    "text": "parasympathetic you know ratio dynamics",
+    "begin": "00:38:44.440",
+    "end": "00:38:49.240"
+  },
+  {
+    "text": "etc yeah so we want to in general",
+    "begin": "00:38:46.660",
+    "end": "00:38:52.930"
+  },
+  {
+    "text": "support the homeostatic processes that",
+    "begin": "00:38:49.240",
+    "end": "00:38:55.059"
+  },
+  {
+    "text": "are fundamental and get better at",
+    "begin": "00:38:52.930",
+    "end": "00:38:57.430"
+  },
+  {
+    "text": "diagnosing individual sources of",
+    "begin": "00:38:55.059",
+    "end": "00:38:59.020"
+  },
+  {
+    "text": "pathology and reversing them this is",
+    "begin": "00:38:57.430",
+    "end": "00:39:00.400"
+  },
+  {
+    "text": "great I mean this actually ties into how",
+    "begin": "00:38:59.020",
+    "end": "00:39:02.170"
+  },
+  {
+    "text": "I often frame there a feedback for",
+    "begin": "00:39:00.400",
+    "end": "00:39:03.339"
+  },
+  {
+    "text": "people and they say oh how to do this",
+    "begin": "00:39:02.170",
+    "end": "00:39:05.920"
+  },
+  {
+    "text": "and I'll say well we're probably going",
+    "begin": "00:39:03.339",
+    "end": "00:39:08.260"
+  },
+  {
+    "text": "to give you more resources and all the",
+    "begin": "00:39:05.920",
+    "end": "00:39:10.450"
+  },
+  {
+    "text": "regulatory domains of sleep stress and",
+    "begin": "00:39:08.260",
+    "end": "00:39:12.010"
+  },
+  {
+    "text": "attention and what that means is",
+    "begin": "00:39:10.450",
+    "end": "00:39:14.109"
+  },
+  {
+    "text": "resilience right and we can probably",
+    "begin": "00:39:12.010",
+    "end": "00:39:17.170"
+  },
+  {
+    "text": "reach in and do more specific things for",
+    "begin": "00:39:14.109",
+    "end": "00:39:18.430"
+  },
+  {
+    "text": "you but let's see what happens first",
+    "begin": "00:39:17.170",
+    "end": "00:39:20.079"
+  },
+  {
+    "text": "when we bring the resilience way up and",
+    "begin": "00:39:18.430",
+    "end": "00:39:21.849"
+  },
+  {
+    "text": "get you sleeping like a rocket will and",
+    "begin": "00:39:20.079",
+    "end": "00:39:23.980"
+  },
+  {
+    "text": "being creative and flexible let's do",
+    "begin": "00:39:21.849",
+    "end": "00:39:25.690"
+  },
+  {
+    "text": "that for the first few weeks and then we",
+    "begin": "00:39:23.980",
+    "end": "00:39:26.980"
+  },
+  {
+    "text": "can go in and try to target the thing",
+    "begin": "00:39:25.690",
+    "end": "00:39:29.349"
+  },
+  {
+    "text": "you think you care about me and usually",
+    "begin": "00:39:26.980",
+    "end": "00:39:30.700"
+  },
+  {
+    "text": "the thing that they really want to work",
+    "begin": "00:39:29.349",
+    "end": "00:39:32.619"
+  },
+  {
+    "text": "on sorts itself out along the way",
+    "begin": "00:39:30.700",
+    "end": "00:39:34.690"
+  },
+  {
+    "text": "towards just building everything that",
+    "begin": "00:39:32.619",
+    "end": "00:39:36.940"
+  },
+  {
+    "text": "the complexity of the interconnectedness",
+    "begin": "00:39:34.690",
+    "end": "00:39:40.780"
+  },
+  {
+    "text": "of everything is again why specialties",
+    "begin": "00:39:36.940",
+    "end": "00:39:43.450"
+  },
+  {
+    "text": "have failed at complex illnesses yeah",
+    "begin": "00:39:40.780",
+    "end": "00:39:45.940"
+  },
+  {
+    "text": "but it's also so fascinating because you",
+    "begin": "00:39:43.450",
+    "end": "00:39:48.849"
+  },
+  {
+    "text": "know we can look at a structural issue",
+    "begin": "00:39:45.940",
+    "end": "00:39:50.950"
+  },
+  {
+    "text": "right like a postural issue or",
+    "begin": "00:39:48.849",
+    "end": "00:39:53.049"
+  },
+  {
+    "text": "osteoarthritis that's causing can",
+    "begin": "00:39:50.950",
+    "end": "00:39:55.450"
+  },
+  {
+    "text": "continues inflammation within the",
+    "begin": "00:39:53.049",
+    "end": "00:39:57.339"
+  },
+  {
+    "text": "inflammatory molecules right cytokines",
+    "begin": "00:39:55.450",
+    "end": "00:39:59.410"
+  },
+  {
+    "text": "can cross the blood-brain barrier cause",
+    "begin": "00:39:57.339",
+    "end": "00:40:01.480"
+  },
+  {
+    "text": "neural inflammation and damage to neural",
+    "begin": "00:39:59.410",
+    "end": "00:40:02.860"
+  },
+  {
+    "text": "circuits yeah",
+    "begin": "00:40:01.480",
+    "end": "00:40:05.440"
+  },
+  {
+    "text": "also where the continuous pain dynamic",
+    "begin": "00:40:02.860",
+    "end": "00:40:07.900"
+  },
+  {
+    "text": "is causing sympathetic feedback into the",
+    "begin": "00:40:05.440",
+    "end": "00:40:09.340"
+  },
+  {
+    "text": "brain which then is going to cause",
+    "begin": "00:40:07.900",
+    "end": "00:40:10.930"
+  },
+  {
+    "text": "effects on all the things the brain is",
+    "begin": "00:40:09.340",
+    "end": "00:40:12.760"
+  },
+  {
+    "text": "regulating for helps on perspective life",
+    "begin": "00:40:10.930",
+    "end": "00:40:14.830"
+  },
+  {
+    "text": "and what needed fixed was a structural",
+    "begin": "00:40:12.760",
+    "end": "00:40:19.270"
+  },
+  {
+    "text": "issue in a knee right right and or mold",
+    "begin": "00:40:14.830",
+    "end": "00:40:22.810"
+  },
+  {
+    "text": "in the environment or a runaway process",
+    "begin": "00:40:19.270",
+    "end": "00:40:27.250"
+  },
+  {
+    "text": "of dysfunctional information processing",
+    "begin": "00:40:22.810",
+    "end": "00:40:28.690"
+  },
+  {
+    "text": "in the brain from a particular",
+    "begin": "00:40:27.250",
+    "end": "00:40:30.550"
+  },
+  {
+    "text": "psychologic meaning making pattern right",
+    "begin": "00:40:28.690",
+    "end": "00:40:34.960"
+  },
+  {
+    "text": "so can can structural issues and joints",
+    "begin": "00:40:30.550",
+    "end": "00:40:38.560"
+  },
+  {
+    "text": "or psychological patterns of focus and",
+    "begin": "00:40:34.960",
+    "end": "00:40:40.450"
+  },
+  {
+    "text": "meaning making or things going on in the",
+    "begin": "00:40:38.560",
+    "end": "00:40:42.310"
+  },
+  {
+    "text": "gut or affect any other system in the",
+    "begin": "00:40:40.450",
+    "end": "00:40:44.410"
+  },
+  {
+    "text": "body yes this is what's fascinating is",
+    "begin": "00:40:42.310",
+    "end": "00:40:46.600"
+  },
+  {
+    "text": "why trying to separate neurology and",
+    "begin": "00:40:44.410",
+    "end": "00:40:49.240"
+  },
+  {
+    "text": "gastroenterology and oncology has a pile",
+    "begin": "00:40:46.600",
+    "end": "00:40:51.220"
+  },
+  {
+    "text": "here yeah and so now it's how do we",
+    "begin": "00:40:49.240",
+    "end": "00:40:52.900"
+  },
+  {
+    "text": "synthesize what we understand about the",
+    "begin": "00:40:51.220",
+    "end": "00:40:54.640"
+  },
+  {
+    "text": "parts to understand what happens for",
+    "begin": "00:40:52.900",
+    "end": "00:40:56.230"
+  },
+  {
+    "text": "whole systems and what happens across",
+    "begin": "00:40:54.640",
+    "end": "00:40:58.060"
+  },
+  {
+    "text": "systems so now you're doing this at the",
+    "begin": "00:40:56.230",
+    "end": "00:41:00.370"
+  },
+  {
+    "text": "Niraj collective this idea of bringing",
+    "begin": "00:40:58.060",
+    "end": "00:41:02.260"
+  },
+  {
+    "text": "in different aggregate data types and",
+    "begin": "00:41:00.370",
+    "end": "00:41:03.820"
+  },
+  {
+    "text": "modeling and trying to figure out what",
+    "begin": "00:41:02.260",
+    "end": "00:41:05.650"
+  },
+  {
+    "text": "is the meaningful inflection points for",
+    "begin": "00:41:03.820",
+    "end": "00:41:06.970"
+  },
+  {
+    "text": "these models where you know what wears",
+    "begin": "00:41:05.650",
+    "end": "00:41:09.400"
+  },
+  {
+    "text": "change happening that's very you know",
+    "begin": "00:41:06.970",
+    "end": "00:41:11.980"
+  },
+  {
+    "text": "high level and and those are the kind of",
+    "begin": "00:41:09.400",
+    "end": "00:41:14.170"
+  },
+  {
+    "text": "projects that frustrate PhD students for",
+    "begin": "00:41:11.980",
+    "end": "00:41:17.770"
+  },
+  {
+    "text": "you know 20 30 years yeah I think it's",
+    "begin": "00:41:14.170",
+    "end": "00:41:21.250"
+  },
+  {
+    "text": "great I'm you know I'm incredibly noble",
+    "begin": "00:41:17.770",
+    "end": "00:41:23.140"
+  },
+  {
+    "text": "pursuit to enter those big questions I",
+    "begin": "00:41:21.250",
+    "end": "00:41:24.910"
+  },
+  {
+    "text": "also know you guys are doing something's",
+    "begin": "00:41:23.140",
+    "end": "00:41:26.560"
+  },
+  {
+    "text": "a little bit more okay here are some",
+    "begin": "00:41:24.910",
+    "end": "00:41:28.000"
+  },
+  {
+    "text": "things we can actually do this a product",
+    "begin": "00:41:26.560",
+    "end": "00:41:30.700"
+  },
+  {
+    "text": "you've produced called qualia which is",
+    "begin": "00:41:28.000",
+    "end": "00:41:32.410"
+  },
+  {
+    "text": "Ana tropics is that is it an entropic",
+    "begin": "00:41:30.700",
+    "end": "00:41:35.380"
+  },
+  {
+    "text": "space okay do you consider it in tropic",
+    "begin": "00:41:32.410",
+    "end": "00:41:37.750"
+  },
+  {
+    "text": "or is it more than that is that a good",
+    "begin": "00:41:35.380",
+    "end": "00:41:39.370"
+  },
+  {
+    "text": "frame for it is that too limiting I",
+    "begin": "00:41:37.750",
+    "end": "00:41:41.440"
+  },
+  {
+    "text": "think that's a fine frame as you know",
+    "begin": "00:41:39.370",
+    "end": "00:41:43.060"
+  },
+  {
+    "text": "the term no tropic is a little bit",
+    "begin": "00:41:41.440",
+    "end": "00:41:44.530"
+  },
+  {
+    "text": "loosely defined in terms of how its",
+    "begin": "00:41:43.060",
+    "end": "00:41:46.980"
+  },
+  {
+    "text": "generous yeah how do you define it",
+    "begin": "00:41:44.530",
+    "end": "00:41:49.900"
+  },
+  {
+    "text": "well I would I would in general start by",
+    "begin": "00:41:46.980",
+    "end": "00:41:51.460"
+  },
+  {
+    "text": "making the distinctions between brain",
+    "begin": "00:41:49.900",
+    "end": "00:41:54.220"
+  },
+  {
+    "text": "nutrient no tropic and smart drug which",
+    "begin": "00:41:51.460",
+    "end": "00:41:56.800"
+  },
+  {
+    "text": "are apparently used kind of in relation",
+    "begin": "00:41:54.220",
+    "end": "00:41:58.120"
+  },
+  {
+    "text": "to each other yeah it's worth",
+    "begin": "00:41:56.800",
+    "end": "00:42:00.910"
+  },
+  {
+    "text": "distinguishing so brain nutrient means",
+    "begin": "00:41:58.120",
+    "end": "00:42:02.770"
+  },
+  {
+    "text": "something that you'd normally get from a",
+    "begin": "00:42:00.910",
+    "end": "00:42:04.630"
+  },
+  {
+    "text": "dietary source that's critical to some",
+    "begin": "00:42:02.770",
+    "end": "00:42:06.370"
+  },
+  {
+    "text": "part of neurologic function that can",
+    "begin": "00:42:04.630",
+    "end": "00:42:08.650"
+  },
+  {
+    "text": "often be a suboptimal levels precursors",
+    "begin": "00:42:06.370",
+    "end": "00:42:11.530"
+  },
+  {
+    "text": "like tyrosine all your amino acids fatty",
+    "begin": "00:42:08.650",
+    "end": "00:42:14.770"
+  },
+  {
+    "text": "acids vitamins minerals that are part of",
+    "begin": "00:42:11.530",
+    "end": "00:42:16.660"
+  },
+  {
+    "text": "neural dynamics and",
+    "begin": "00:42:14.770",
+    "end": "00:42:18.670"
+  },
+  {
+    "text": "when we talk about medical deficiency",
+    "begin": "00:42:16.660",
+    "end": "00:42:20.670"
+  },
+  {
+    "text": "we're talking about a level at which",
+    "begin": "00:42:18.670",
+    "end": "00:42:23.140"
+  },
+  {
+    "text": "acute pathologies happening below that",
+    "begin": "00:42:20.670",
+    "end": "00:42:25.530"
+  },
+  {
+    "text": "level there's a pretty huge range",
+    "begin": "00:42:23.140",
+    "end": "00:42:29.260"
+  },
+  {
+    "text": "between medical deficiency and",
+    "begin": "00:42:25.530",
+    "end": "00:42:32.230"
+  },
+  {
+    "text": "optimality hmm right and so we can call",
+    "begin": "00:42:29.260",
+    "end": "00:42:34.120"
+  },
+  {
+    "text": "that subclinical deficiency or sub",
+    "begin": "00:42:32.230",
+    "end": "00:42:36.280"
+  },
+  {
+    "text": "optimality and so there's heaps of brain",
+    "begin": "00:42:34.120",
+    "end": "00:42:38.200"
+  },
+  {
+    "text": "nutrients that depending upon what kind",
+    "begin": "00:42:36.280",
+    "end": "00:42:39.670"
+  },
+  {
+    "text": "of tests we do we see in suboptimal",
+    "begin": "00:42:38.200",
+    "end": "00:42:41.860"
+  },
+  {
+    "text": "levels all the time right okay vitamin D",
+    "begin": "00:42:39.670",
+    "end": "00:42:43.060"
+  },
+  {
+    "text": "is a puck sure yeah",
+    "begin": "00:42:41.860",
+    "end": "00:42:44.890"
+  },
+  {
+    "text": "even in Southern California even in",
+    "begin": "00:42:43.060",
+    "end": "00:42:47.860"
+  },
+  {
+    "text": "Southern California and and because it's",
+    "begin": "00:42:44.890",
+    "end": "00:42:50.430"
+  },
+  {
+    "text": "not at a level four you know rickets",
+    "begin": "00:42:47.860",
+    "end": "00:42:53.680"
+  },
+  {
+    "text": "right someone has a you know thirty",
+    "begin": "00:42:50.430",
+    "end": "00:42:58.150"
+  },
+  {
+    "text": "vitamin D traditional medical process",
+    "begin": "00:42:53.680",
+    "end": "00:43:00.370"
+  },
+  {
+    "text": "hasn't addressed that but when we you",
+    "begin": "00:42:58.150",
+    "end": "00:43:01.690"
+  },
+  {
+    "text": "know have deeper insight about where",
+    "begin": "00:43:00.370",
+    "end": "00:43:03.880"
+  },
+  {
+    "text": "optimality occurs it's a far away way",
+    "begin": "00:43:01.690",
+    "end": "00:43:04.810"
+  },
+  {
+    "text": "which is why the vitamin D",
+    "begin": "00:43:03.880",
+    "end": "00:43:06.460"
+  },
+  {
+    "text": "supplementation is meaningful same would",
+    "begin": "00:43:04.810",
+    "end": "00:43:09.100"
+  },
+  {
+    "text": "be true with omega-3 or tyrosine or Nick",
+    "begin": "00:43:06.460",
+    "end": "00:43:12.820"
+  },
+  {
+    "text": "cetera so brain nutrients that are",
+    "begin": "00:43:09.100",
+    "end": "00:43:15.070"
+  },
+  {
+    "text": "either hard to source adequately in diet",
+    "begin": "00:43:12.820",
+    "end": "00:43:17.200"
+  },
+  {
+    "text": "or where modern lifestyle has used them",
+    "begin": "00:43:15.070",
+    "end": "00:43:19.990"
+  },
+  {
+    "text": "faster so if we're talking about Heidi",
+    "begin": "00:43:17.200",
+    "end": "00:43:21.880"
+  },
+  {
+    "text": "or stress lives where B vitamins are in",
+    "begin": "00:43:19.990",
+    "end": "00:43:23.560"
+  },
+  {
+    "text": "a process faster or whatever those are",
+    "begin": "00:43:21.880",
+    "end": "00:43:25.540"
+  },
+  {
+    "text": "meaningful or you're a vegan if you are",
+    "begin": "00:43:23.560",
+    "end": "00:43:27.340"
+  },
+  {
+    "text": "eating anything with s B vitamins in it",
+    "begin": "00:43:25.540",
+    "end": "00:43:29.770"
+  },
+  {
+    "text": "so tight you know any kind of dietary",
+    "begin": "00:43:27.340",
+    "end": "00:43:32.250"
+  },
+  {
+    "text": "limitation yeah things to address",
+    "begin": "00:43:29.770",
+    "end": "00:43:35.260"
+  },
+  {
+    "text": "nootropics starting with you know",
+    "begin": "00:43:32.250",
+    "end": "00:43:38.290"
+  },
+  {
+    "text": "defining piracetam as that field is some",
+    "begin": "00:43:35.260",
+    "end": "00:43:39.940"
+  },
+  {
+    "text": "chemical that can increase some aspect",
+    "begin": "00:43:38.290",
+    "end": "00:43:42.430"
+  },
+  {
+    "text": "of cognitive function beyond baseline",
+    "begin": "00:43:39.940",
+    "end": "00:43:44.260"
+  },
+  {
+    "text": "without meaningfully negative side",
+    "begin": "00:43:42.430",
+    "end": "00:43:45.460"
+  },
+  {
+    "text": "effects thank you for including that",
+    "begin": "00:43:44.260",
+    "end": "00:43:47.410"
+  },
+  {
+    "text": "last piece the original definition",
+    "begin": "00:43:45.460",
+    "end": "00:43:50.710"
+  },
+  {
+    "text": "essentially I this is one of the axes I",
+    "begin": "00:43:47.410",
+    "end": "00:43:53.350"
+  },
+  {
+    "text": "love to grind you know I'm all over the",
+    "begin": "00:43:50.710",
+    "end": "00:43:55.210"
+  },
+  {
+    "text": "new trophic forms and things and I can't",
+    "begin": "00:43:53.350",
+    "end": "00:43:56.980"
+  },
+  {
+    "text": "tell you the number of times I have to",
+    "begin": "00:43:55.210",
+    "end": "00:43:58.390"
+  },
+  {
+    "text": "resist reaching through the computer and",
+    "begin": "00:43:56.980",
+    "end": "00:43:59.590"
+  },
+  {
+    "text": "throttling some kid who thinks that",
+    "begin": "00:43:58.390",
+    "end": "00:44:02.500"
+  },
+  {
+    "text": "modafinil is mini trophic yeah nothing",
+    "begin": "00:43:59.590",
+    "end": "00:44:03.640"
+  },
+  {
+    "text": "with our people with a significant side",
+    "begin": "00:44:02.500",
+    "end": "00:44:05.500"
+  },
+  {
+    "text": "effect should be considered and I'm",
+    "begin": "00:44:03.640",
+    "end": "00:44:07.030"
+  },
+  {
+    "text": "guessing you have the same perspective I",
+    "begin": "00:44:05.500",
+    "end": "00:44:08.530"
+  },
+  {
+    "text": "do if your performance is already",
+    "begin": "00:44:07.030",
+    "end": "00:44:12.280"
+  },
+  {
+    "text": "relatively good why would you risk side",
+    "begin": "00:44:08.530",
+    "end": "00:44:13.930"
+  },
+  {
+    "text": "effects for small incremental",
+    "begin": "00:44:12.280",
+    "end": "00:44:17.290"
+  },
+  {
+    "text": "improvements Supra baseline improvements",
+    "begin": "00:44:13.930",
+    "end": "00:44:19.120"
+  },
+  {
+    "text": "you're trying to remedy a deficit that",
+    "begin": "00:44:17.290",
+    "end": "00:44:20.830"
+  },
+  {
+    "text": "okay maybe you need to risk some things",
+    "begin": "00:44:19.120",
+    "end": "00:44:23.560"
+  },
+  {
+    "text": "to get a problem sorted out but I don't",
+    "begin": "00:44:20.830",
+    "end": "00:44:27.160"
+  },
+  {
+    "text": "understand the incredible marketing and",
+    "begin": "00:44:23.560",
+    "end": "00:44:29.839"
+  },
+  {
+    "text": "consumer push to seek for you",
+    "begin": "00:44:27.160",
+    "end": "00:44:32.059"
+  },
+  {
+    "text": "all of these drugs and compounds that",
+    "begin": "00:44:29.839",
+    "end": "00:44:33.829"
+  },
+  {
+    "text": "have someone have very very significant",
+    "begin": "00:44:32.059",
+    "end": "00:44:36.589"
+  },
+  {
+    "text": "side effects on the off chance that",
+    "begin": "00:44:33.829",
+    "end": "00:44:38.900"
+  },
+  {
+    "text": "they're going to be you know designed",
+    "begin": "00:44:36.589",
+    "end": "00:44:40.759"
+  },
+  {
+    "text": "for your sort of your chemistry and give",
+    "begin": "00:44:38.900",
+    "end": "00:44:43.130"
+  },
+  {
+    "text": "you that little boost I don't understand",
+    "begin": "00:44:40.759",
+    "end": "00:44:45.799"
+  },
+  {
+    "text": "the the philosophy feel behind that this",
+    "begin": "00:44:43.130",
+    "end": "00:44:47.719"
+  },
+  {
+    "text": "idea that you can you can reach for",
+    "begin": "00:44:45.799",
+    "end": "00:44:50.089"
+  },
+  {
+    "text": "something that might not be unilaterally",
+    "begin": "00:44:47.719",
+    "end": "00:44:52.369"
+  },
+  {
+    "text": "good just in case it might you know",
+    "begin": "00:44:50.089",
+    "end": "00:44:55.789"
+  },
+  {
+    "text": "that's that seems very um non nootropic",
+    "begin": "00:44:52.369",
+    "end": "00:44:58.549"
+  },
+  {
+    "text": "you know to me so to speak so the topic",
+    "begin": "00:44:55.789",
+    "end": "00:45:02.890"
+  },
+  {
+    "text": "of risk benefit ratio yeah is core to",
+    "begin": "00:44:58.549",
+    "end": "00:45:06.049"
+  },
+  {
+    "text": "Western medicine right and it's partly",
+    "begin": "00:45:02.890",
+    "end": "00:45:08.089"
+  },
+  {
+    "text": "why we only have a disease model and we",
+    "begin": "00:45:06.049",
+    "end": "00:45:09.619"
+  },
+  {
+    "text": "don't have an optimization model is",
+    "begin": "00:45:08.089",
+    "end": "00:45:13.099"
+  },
+  {
+    "text": "because in the disease model there is a",
+    "begin": "00:45:09.619",
+    "end": "00:45:15.319"
+  },
+  {
+    "text": "risk to not treating the thing right",
+    "begin": "00:45:13.099",
+    "end": "00:45:18.769"
+  },
+  {
+    "text": "pain problem so some risk of a treatment",
+    "begin": "00:45:15.319",
+    "end": "00:45:20.509"
+  },
+  {
+    "text": "seems warranted sure and you have to",
+    "begin": "00:45:18.769",
+    "end": "00:45:21.890"
+  },
+  {
+    "text": "make sure that the risk makes sense to",
+    "begin": "00:45:20.509",
+    "end": "00:45:23.589"
+  },
+  {
+    "text": "possible benefit if people are already",
+    "begin": "00:45:21.890",
+    "end": "00:45:25.969"
+  },
+  {
+    "text": "generally healthy and this also why",
+    "begin": "00:45:23.589",
+    "end": "00:45:27.979"
+  },
+  {
+    "text": "longevity research hasn't you know had a",
+    "begin": "00:45:25.969",
+    "end": "00:45:30.710"
+  },
+  {
+    "text": "lot of support until recently or any",
+    "begin": "00:45:27.979",
+    "end": "00:45:32.150"
+  },
+  {
+    "text": "kind of optimization which provides been",
+    "begin": "00:45:30.710",
+    "end": "00:45:36.499"
+  },
+  {
+    "text": "left to biohackers is how much risk can",
+    "begin": "00:45:32.150",
+    "end": "00:45:39.739"
+  },
+  {
+    "text": "we justify for how much benefit beyond",
+    "begin": "00:45:36.499",
+    "end": "00:45:41.210"
+  },
+  {
+    "text": "baseline right",
+    "begin": "00:45:39.739",
+    "end": "00:45:43.249"
+  },
+  {
+    "text": "it's actually a really deep question and",
+    "begin": "00:45:41.210",
+    "end": "00:45:46.239"
+  },
+  {
+    "text": "it's a question that should be answered",
+    "begin": "00:45:43.249",
+    "end": "00:45:48.469"
+  },
+  {
+    "text": "individually within a range that is",
+    "begin": "00:45:46.239",
+    "end": "00:45:50.119"
+  },
+  {
+    "text": "reasonable for the field as a whole to",
+    "begin": "00:45:48.469",
+    "end": "00:45:53.900"
+  },
+  {
+    "text": "pursue now I think bodybuilding and",
+    "begin": "00:45:50.119",
+    "end": "00:45:56.029"
+  },
+  {
+    "text": "steroids is a classic example of this",
+    "begin": "00:45:53.900",
+    "end": "00:46:02.950"
+  },
+  {
+    "text": "okay so can people perform in",
+    "begin": "00:45:56.029",
+    "end": "00:46:04.999"
+  },
+  {
+    "text": "fundamentally increased ways with",
+    "begin": "00:46:02.950",
+    "end": "00:46:06.229"
+  },
+  {
+    "text": "anabolic steroids that they couldn't",
+    "begin": "00:46:04.999",
+    "end": "00:46:07.880"
+  },
+  {
+    "text": "otherwise obviously right you know",
+    "begin": "00:46:06.229",
+    "end": "00:46:08.989"
+  },
+  {
+    "text": "otherwise you wouldn't ban them in",
+    "begin": "00:46:07.880",
+    "end": "00:46:11.779"
+  },
+  {
+    "text": "sports is it and you know were the",
+    "begin": "00:46:08.989",
+    "end": "00:46:13.279"
+  },
+  {
+    "text": "people who are really pioneering this",
+    "begin": "00:46:11.779",
+    "end": "00:46:15.609"
+  },
+  {
+    "text": "risking their health and if many of them",
+    "begin": "00:46:13.279",
+    "end": "00:46:17.599"
+  },
+  {
+    "text": "experienced the downsides of that",
+    "begin": "00:46:15.609",
+    "end": "00:46:20.539"
+  },
+  {
+    "text": "already totally yeah and for them at",
+    "begin": "00:46:17.599",
+    "end": "00:46:22.700"
+  },
+  {
+    "text": "least knowing that quite clearly for",
+    "begin": "00:46:20.539",
+    "end": "00:46:23.690"
+  },
+  {
+    "text": "many of them it was worth it because",
+    "begin": "00:46:22.700",
+    "end": "00:46:25.579"
+  },
+  {
+    "text": "that's what they want to do right like",
+    "begin": "00:46:23.690",
+    "end": "00:46:27.049"
+  },
+  {
+    "text": "the same reason anyone would do anything",
+    "begin": "00:46:25.579",
+    "end": "00:46:28.729"
+  },
+  {
+    "text": "that was not a smart longevity decision",
+    "begin": "00:46:27.049",
+    "end": "00:46:33.979"
+  },
+  {
+    "text": "for what the passages where and then the",
+    "begin": "00:46:28.729",
+    "end": "00:46:36.049"
+  },
+  {
+    "text": "field of steroids itself evolved from a",
+    "begin": "00:46:33.979",
+    "end": "00:46:38.690"
+  },
+  {
+    "text": "lot of that experimentation to where the",
+    "begin": "00:46:36.049",
+    "end": "00:46:41.170"
+  },
+  {
+    "text": "you know that some of the Psalms today",
+    "begin": "00:46:38.690",
+    "end": "00:46:43.250"
+  },
+  {
+    "text": "have",
+    "begin": "00:46:41.170",
+    "end": "00:46:45.560"
+  },
+  {
+    "text": "compared to the early anabolics have",
+    "begin": "00:46:43.250",
+    "end": "00:46:47.930"
+  },
+  {
+    "text": "radically more benefit for much less",
+    "begin": "00:46:45.560",
+    "end": "00:46:49.359"
+  },
+  {
+    "text": "risk yep",
+    "begin": "00:46:47.930",
+    "end": "00:46:52.310"
+  },
+  {
+    "text": "partly evolved by kind of the citizen",
+    "begin": "00:46:49.359",
+    "end": "00:46:53.599"
+  },
+  {
+    "text": "science happening in that space that",
+    "begin": "00:46:52.310",
+    "end": "00:46:55.609"
+  },
+  {
+    "text": "just for ethical reasons couldn't happen",
+    "begin": "00:46:53.599",
+    "end": "00:46:57.770"
+  },
+  {
+    "text": "in formal ressure sure so it's a very",
+    "begin": "00:46:55.609",
+    "end": "00:46:59.330"
+  },
+  {
+    "text": "interesting topic right it is a place",
+    "begin": "00:46:57.770",
+    "end": "00:47:00.859"
+  },
+  {
+    "text": "where citizen science is always going to",
+    "begin": "00:46:59.330",
+    "end": "00:47:03.080"
+  },
+  {
+    "text": "be advancing the front edge and I would",
+    "begin": "00:47:00.859",
+    "end": "00:47:06.320"
+  },
+  {
+    "text": "say all of the Psychonauts working with",
+    "begin": "00:47:03.080",
+    "end": "00:47:07.670"
+  },
+  {
+    "text": "deep psychedelics are in the same place",
+    "begin": "00:47:06.320",
+    "end": "00:47:10.640"
+  },
+  {
+    "text": "and so one of the things we really like",
+    "begin": "00:47:07.670",
+    "end": "00:47:12.859"
+  },
+  {
+    "text": "is for people who are for whatever",
+    "begin": "00:47:10.640",
+    "end": "00:47:14.330"
+  },
+  {
+    "text": "reason inclined to do their own research",
+    "begin": "00:47:12.859",
+    "end": "00:47:15.830"
+  },
+  {
+    "text": "give them better quantified self tools",
+    "begin": "00:47:14.330",
+    "end": "00:47:17.630"
+  },
+  {
+    "text": "and learn from that if it's outside of",
+    "begin": "00:47:15.830",
+    "end": "00:47:19.130"
+  },
+  {
+    "text": "what we can do formal research on and",
+    "begin": "00:47:17.630",
+    "end": "00:47:21.380"
+  },
+  {
+    "text": "then you know be able to take the formal",
+    "begin": "00:47:19.130",
+    "end": "00:47:22.880"
+  },
+  {
+    "text": "research from the crowdsource to get a",
+    "begin": "00:47:21.380",
+    "end": "00:47:25.040"
+  },
+  {
+    "text": "very big level essentially that's great",
+    "begin": "00:47:22.880",
+    "end": "00:47:26.950"
+  },
+  {
+    "text": "now with regard to what the appropriate",
+    "begin": "00:47:25.040",
+    "end": "00:47:33.920"
+  },
+  {
+    "text": "risk benefit dynamics are yeah so you",
+    "begin": "00:47:26.950",
+    "end": "00:47:35.480"
+  },
+  {
+    "text": "mentioned modafinil and take it further",
+    "begin": "00:47:33.920",
+    "end": "00:47:37.820"
+  },
+  {
+    "text": "methamphetamine definitely increases",
+    "begin": "00:47:35.480",
+    "end": "00:47:39.830"
+  },
+  {
+    "text": "certain cognitive capacities and it",
+    "begin": "00:47:37.820",
+    "end": "00:47:42.470"
+  },
+  {
+    "text": "kills the flu virus it has a number of",
+    "begin": "00:47:39.830",
+    "end": "00:47:46.970"
+  },
+  {
+    "text": "positive medical credentials yeah and it",
+    "begin": "00:47:42.470",
+    "end": "00:47:51.430"
+  },
+  {
+    "text": "has very real side effects and so if",
+    "begin": "00:47:46.970",
+    "end": "00:47:54.200"
+  },
+  {
+    "text": "someone is in a combat situation and",
+    "begin": "00:47:51.430",
+    "end": "00:47:55.339"
+  },
+  {
+    "text": "then you have stay awake a little bit",
+    "begin": "00:47:54.200",
+    "end": "00:47:55.790"
+  },
+  {
+    "text": "longer",
+    "begin": "00:47:55.339",
+    "end": "00:47:57.530"
+  },
+  {
+    "text": "they have meth might make sense right",
+    "begin": "00:47:55.790",
+    "end": "00:47:59.660"
+  },
+  {
+    "text": "part of how those drugs were developed",
+    "begin": "00:47:57.530",
+    "end": "00:48:03.410"
+  },
+  {
+    "text": "yeah for general use for your midterms",
+    "begin": "00:47:59.660",
+    "end": "00:48:07.099"
+  },
+  {
+    "text": "you know it's not a good idea now if we",
+    "begin": "00:48:03.410",
+    "end": "00:48:10.240"
+  },
+  {
+    "text": "look at how much off-label adderall and",
+    "begin": "00:48:07.099",
+    "end": "00:48:12.770"
+  },
+  {
+    "text": "modafinil and redbull and whatever right",
+    "begin": "00:48:10.240",
+    "end": "00:48:15.320"
+  },
+  {
+    "text": "you know happens for those purposes this",
+    "begin": "00:48:12.770",
+    "end": "00:48:16.640"
+  },
+  {
+    "text": "was one of the main reasons we decided",
+    "begin": "00:48:15.320",
+    "end": "00:48:22.220"
+  },
+  {
+    "text": "to make quality was not only are the",
+    "begin": "00:48:16.640",
+    "end": "00:48:24.710"
+  },
+  {
+    "text": "down regulation and side effects pretty",
+    "begin": "00:48:22.220",
+    "end": "00:48:26.359"
+  },
+  {
+    "text": "significant of most of those but even",
+    "begin": "00:48:24.710",
+    "end": "00:48:28.430"
+  },
+  {
+    "text": "the positives are fairly narrow mm-hmm",
+    "begin": "00:48:26.359",
+    "end": "00:48:31.240"
+  },
+  {
+    "text": "right so if you have if you use it a",
+    "begin": "00:48:28.430",
+    "end": "00:48:33.740"
+  },
+  {
+    "text": "presynaptic dopamine agonist right like",
+    "begin": "00:48:31.240",
+    "end": "00:48:35.720"
+  },
+  {
+    "text": "adderall you will get increased focus",
+    "begin": "00:48:33.740",
+    "end": "00:48:37.430"
+  },
+  {
+    "text": "but you might actually get",
+    "begin": "00:48:35.720",
+    "end": "00:48:39.230"
+  },
+  {
+    "text": "simultaneously decreased working memory",
+    "begin": "00:48:37.430",
+    "end": "00:48:41.359"
+  },
+  {
+    "text": "we would have seen on that is clear",
+    "begin": "00:48:39.230",
+    "end": "00:48:44.660"
+  },
+  {
+    "text": "which is not the kind of total",
+    "begin": "00:48:41.359",
+    "end": "00:48:46.369"
+  },
+  {
+    "text": "intelligence that we're interested in it",
+    "begin": "00:48:44.660",
+    "end": "00:48:49.599"
+  },
+  {
+    "text": "as well as you know anxiety irritability",
+    "begin": "00:48:46.369",
+    "end": "00:48:51.410"
+  },
+  {
+    "text": "depersonalization all those other",
+    "begin": "00:48:49.599",
+    "end": "00:48:53.570"
+  },
+  {
+    "text": "dynamics and then of course because it's",
+    "begin": "00:48:51.410",
+    "end": "00:48:55.490"
+  },
+  {
+    "text": "an external override of an internal",
+    "begin": "00:48:53.570",
+    "end": "00:48:57.019"
+  },
+  {
+    "text": "regulatory system yeah",
+    "begin": "00:48:55.490",
+    "end": "00:48:59.059"
+  },
+  {
+    "text": "regulation independence you know and so",
+    "begin": "00:48:57.019",
+    "end": "00:49:00.649"
+  },
+  {
+    "text": "what we're really interested in I'm what",
+    "begin": "00:48:59.059",
+    "end": "00:49:02.089"
+  },
+  {
+    "text": "I'm sure you've been interested in the",
+    "begin": "00:49:00.649",
+    "end": "00:49:05.779"
+  },
+  {
+    "text": "in the space was can we understanding",
+    "begin": "00:49:02.089",
+    "end": "00:49:09.019"
+  },
+  {
+    "text": "this system more completely and nowhere",
+    "begin": "00:49:05.779",
+    "end": "00:49:10.609"
+  },
+  {
+    "text": "near total completely but more",
+    "begin": "00:49:09.019",
+    "end": "00:49:11.749"
+  },
+  {
+    "text": "completely right we're not just trying",
+    "begin": "00:49:10.609",
+    "end": "00:49:14.509"
+  },
+  {
+    "text": "to a single molecule intervention can we",
+    "begin": "00:49:11.749",
+    "end": "00:49:16.699"
+  },
+  {
+    "text": "have a much more comprehensive set of",
+    "begin": "00:49:14.509",
+    "end": "00:49:18.199"
+  },
+  {
+    "text": "positive effects rather than a narrow",
+    "begin": "00:49:16.699",
+    "end": "00:49:21.559"
+  },
+  {
+    "text": "set without the negative effects in real",
+    "begin": "00:49:18.199",
+    "end": "00:49:24.589"
+  },
+  {
+    "text": "time and without down regulation so that",
+    "begin": "00:49:21.559",
+    "end": "00:49:25.999"
+  },
+  {
+    "text": "when someone gets off of them they're",
+    "begin": "00:49:24.589",
+    "end": "00:49:28.069"
+  },
+  {
+    "text": "not experiencing addiction come down but",
+    "begin": "00:49:25.999",
+    "end": "00:49:30.289"
+  },
+  {
+    "text": "if anything experiencing long-term",
+    "begin": "00:49:28.069",
+    "end": "00:49:32.179"
+  },
+  {
+    "text": "upregulation of the capacity of their",
+    "begin": "00:49:30.289",
+    "end": "00:49:34.759"
+  },
+  {
+    "text": "system so that's obviously that's the",
+    "begin": "00:49:32.179",
+    "end": "00:49:36.259"
+  },
+  {
+    "text": "design principle with which we approach",
+    "begin": "00:49:34.759",
+    "end": "00:49:38.179"
+  },
+  {
+    "text": "the whole space quality and all the",
+    "begin": "00:49:36.259",
+    "end": "00:49:40.099"
+  },
+  {
+    "text": "products and development so follows your",
+    "begin": "00:49:38.179",
+    "end": "00:49:42.019"
+  },
+  {
+    "text": "first product then yeah what's in it I",
+    "begin": "00:49:40.099",
+    "end": "00:49:44.479"
+  },
+  {
+    "text": "haven't dug into the ingredients at this",
+    "begin": "00:49:42.019",
+    "end": "00:49:48.019"
+  },
+  {
+    "text": "point so brain nutrients and no tropics",
+    "begin": "00:49:44.479",
+    "end": "00:49:52.909"
+  },
+  {
+    "text": "okay and so as you know when people",
+    "begin": "00:49:48.019",
+    "end": "00:49:54.769"
+  },
+  {
+    "text": "start in the no tropic space usually",
+    "begin": "00:49:52.909",
+    "end": "00:49:56.419"
+  },
+  {
+    "text": "they dive into a seagull calling for",
+    "begin": "00:49:54.769",
+    "end": "00:49:56.719"
+  },
+  {
+    "text": "sure",
+    "begin": "00:49:56.419",
+    "end": "00:49:58.640"
+  },
+  {
+    "text": "shirring and so rasa Tam's and some",
+    "begin": "00:49:56.719",
+    "end": "00:50:00.380"
+  },
+  {
+    "text": "choline donors that are like the the",
+    "begin": "00:49:58.640",
+    "end": "00:50:03.789"
+  },
+  {
+    "text": "foundation for memory augmentation",
+    "begin": "00:50:00.380",
+    "end": "00:50:06.229"
+  },
+  {
+    "text": "sensory nerve motor nerve you know",
+    "begin": "00:50:03.789",
+    "end": "00:50:12.079"
+  },
+  {
+    "text": "acuity etc so but which rasa thames you",
+    "begin": "00:50:06.229",
+    "end": "00:50:13.669"
+  },
+  {
+    "text": "use are going to have a bunch of other",
+    "begin": "00:50:12.079",
+    "end": "00:50:15.319"
+  },
+  {
+    "text": "differential effects and rasa taking",
+    "begin": "00:50:13.669",
+    "end": "00:50:16.249"
+  },
+  {
+    "text": "impress them are very different",
+    "begin": "00:50:15.319",
+    "end": "00:50:20.659"
+  },
+  {
+    "text": "creatures oh yeah and also are we going",
+    "begin": "00:50:16.249",
+    "end": "00:50:23.329"
+  },
+  {
+    "text": "to address the ability for the",
+    "begin": "00:50:20.659",
+    "end": "00:50:24.769"
+  },
+  {
+    "text": "acetylcholine once it's produced to get",
+    "begin": "00:50:23.329",
+    "end": "00:50:25.969"
+  },
+  {
+    "text": "across the synapse are we looking at",
+    "begin": "00:50:24.769",
+    "end": "00:50:27.679"
+  },
+  {
+    "text": "acetylcholinesterase inhibitors are we",
+    "begin": "00:50:25.969",
+    "end": "00:50:29.899"
+  },
+  {
+    "text": "making sure that the acetyl groups",
+    "begin": "00:50:27.679",
+    "end": "00:50:31.249"
+  },
+  {
+    "text": "aren't rate limiting for the choline",
+    "begin": "00:50:29.899",
+    "end": "00:50:32.299"
+  },
+  {
+    "text": "that's there that people aren't getting",
+    "begin": "00:50:31.249",
+    "end": "00:50:34.339"
+  },
+  {
+    "text": "over cholinergic we look in different",
+    "begin": "00:50:32.299",
+    "end": "00:50:36.769"
+  },
+  {
+    "text": "choline donors central phenoxy is going",
+    "begin": "00:50:34.339",
+    "end": "00:50:37.909"
+  },
+  {
+    "text": "to act on the central nervous system",
+    "begin": "00:50:36.769",
+    "end": "00:50:40.789"
+  },
+  {
+    "text": "more than alpha GPC on the peripheral",
+    "begin": "00:50:37.909",
+    "end": "00:50:42.559"
+  },
+  {
+    "text": "nervous system if we look at the",
+    "begin": "00:50:40.789",
+    "end": "00:50:45.949"
+  },
+  {
+    "text": "conversion of uridine to Citi choline to",
+    "begin": "00:50:42.559",
+    "end": "00:50:48.439"
+  },
+  {
+    "text": "phosphatidylcholine LDPC to",
+    "begin": "00:50:45.949",
+    "end": "00:50:49.639"
+  },
+  {
+    "text": "acetylcholine you're also going to get",
+    "begin": "00:50:48.439",
+    "end": "00:50:52.009"
+  },
+  {
+    "text": "different peak plasma times when HMS",
+    "begin": "00:50:49.639",
+    "end": "00:50:53.509"
+  },
+  {
+    "text": "Eagle : kicks in so if you want to be",
+    "begin": "00:50:52.009",
+    "end": "00:50:55.489"
+  },
+  {
+    "text": "able to have less of a spike and more of",
+    "begin": "00:50:53.509",
+    "end": "00:50:57.859"
+  },
+  {
+    "text": "a continuous process you might put a",
+    "begin": "00:50:55.489",
+    "end": "00:50:59.959"
+  },
+  {
+    "text": "number of those so we focused on like",
+    "begin": "00:50:57.859",
+    "end": "00:51:02.359"
+  },
+  {
+    "text": "with acetylcholine we're looking at what",
+    "begin": "00:50:59.959",
+    "end": "00:51:03.889"
+  },
+  {
+    "text": "is the whole acetylcholine regulatory",
+    "begin": "00:51:02.359",
+    "end": "00:51:06.619"
+  },
+  {
+    "text": "process so and how can we address any of",
+    "begin": "00:51:03.889",
+    "end": "00:51:09.319"
+  },
+  {
+    "text": "the rate limiting factors and make sure",
+    "begin": "00:51:06.619",
+    "end": "00:51:10.730"
+  },
+  {
+    "text": "that",
+    "begin": "00:51:09.319",
+    "end": "00:51:12.770"
+  },
+  {
+    "text": "we're we're acting on peripheral nerves",
+    "begin": "00:51:10.730",
+    "end": "00:51:14.539"
+  },
+  {
+    "text": "were reacting on central nervous system",
+    "begin": "00:51:12.770",
+    "end": "00:51:16.160"
+  },
+  {
+    "text": "differentially more is what we want to",
+    "begin": "00:51:14.539",
+    "end": "00:51:20.599"
+  },
+  {
+    "text": "be doing it the kind of pharmacodynamics",
+    "begin": "00:51:16.160",
+    "end": "00:51:23.900"
+  },
+  {
+    "text": "and kinetics of so not just where it's",
+    "begin": "00:51:20.599",
+    "end": "00:51:25.579"
+  },
+  {
+    "text": "acting but how long it's operating for",
+    "begin": "00:51:23.900",
+    "end": "00:51:27.230"
+  },
+  {
+    "text": "and those curves are things that would",
+    "begin": "00:51:25.579",
+    "end": "00:51:29.869"
+  },
+  {
+    "text": "really look at how much acetylcholine",
+    "begin": "00:51:27.230",
+    "end": "00:51:31.220"
+  },
+  {
+    "text": "we're producing it so that you've also",
+    "begin": "00:51:29.869",
+    "end": "00:51:33.920"
+  },
+  {
+    "text": "got not just a siedel donors which is",
+    "begin": "00:51:31.220",
+    "end": "00:51:35.690"
+  },
+  {
+    "text": "why people love alkar right seal",
+    "begin": "00:51:33.920",
+    "end": "00:51:37.520"
+  },
+  {
+    "text": "quarantine and one of the reasons and",
+    "begin": "00:51:35.690",
+    "end": "00:51:38.900"
+  },
+  {
+    "text": "today I know what protein doesn't kreb",
+    "begin": "00:51:37.520",
+    "end": "00:51:43.940"
+  },
+  {
+    "text": "cycle is b5 is often a rate limiting",
+    "begin": "00:51:38.900",
+    "end": "00:51:45.529"
+  },
+  {
+    "text": "factor for the synthesis rather the",
+    "begin": "00:51:43.940",
+    "end": "00:51:48.170"
+  },
+  {
+    "text": "acetylation of choline so you know what",
+    "begin": "00:51:45.529",
+    "end": "00:51:49.369"
+  },
+  {
+    "text": "are the right ratios of those things",
+    "begin": "00:51:48.170",
+    "end": "00:51:51.770"
+  },
+  {
+    "text": "together and then how much acetylcholine",
+    "begin": "00:51:49.369",
+    "end": "00:51:55.150"
+  },
+  {
+    "text": "support for how much NMDA upregulation",
+    "begin": "00:51:51.770",
+    "end": "00:51:58.130"
+  },
+  {
+    "text": "and then where do you get rate limiting",
+    "begin": "00:51:55.150",
+    "end": "00:51:59.569"
+  },
+  {
+    "text": "effects in terms of the total cellular",
+    "begin": "00:51:58.130",
+    "end": "00:52:02.470"
+  },
+  {
+    "text": "energy to process more acetylcholine and",
+    "begin": "00:51:59.569",
+    "end": "00:52:05.240"
+  },
+  {
+    "text": "then all of that just acetylcholine yeah",
+    "begin": "00:52:02.470",
+    "end": "00:52:07.940"
+  },
+  {
+    "text": "then we look at glutamate and typically",
+    "begin": "00:52:05.240",
+    "end": "00:52:09.980"
+  },
+  {
+    "text": "it's pretty common that rasa terms of am",
+    "begin": "00:52:07.940",
+    "end": "00:52:12.289"
+  },
+  {
+    "text": "packing light properties yeah certainly",
+    "begin": "00:52:09.980",
+    "end": "00:52:15.170"
+  },
+  {
+    "text": "uh any rs.10 does and you kept which",
+    "begin": "00:52:12.289",
+    "end": "00:52:19.190"
+  },
+  {
+    "text": "reviews know I always get confused new",
+    "begin": "00:52:15.170",
+    "end": "00:52:21.650"
+  },
+  {
+    "text": "pep seems to have race at am like",
+    "begin": "00:52:19.190",
+    "end": "00:52:23.539"
+  },
+  {
+    "text": "properties could not be a race at am",
+    "begin": "00:52:21.650",
+    "end": "00:52:25.130"
+  },
+  {
+    "text": "correct I mean I look at the structure",
+    "begin": "00:52:23.539",
+    "end": "00:52:26.990"
+  },
+  {
+    "text": "and doesn't have a protein ring that's",
+    "begin": "00:52:25.130",
+    "end": "00:52:30.380"
+  },
+  {
+    "text": "correct so it called racetam like and am",
+    "begin": "00:52:26.990",
+    "end": "00:52:32.510"
+  },
+  {
+    "text": "packing like okay as of up regulating",
+    "begin": "00:52:30.380",
+    "end": "00:52:34.910"
+  },
+  {
+    "text": "acetylcholine uptake in the NMDA complex",
+    "begin": "00:52:32.510",
+    "end": "00:52:36.740"
+  },
+  {
+    "text": "and up regulating glutamate uptake at",
+    "begin": "00:52:34.910",
+    "end": "00:52:39.260"
+  },
+  {
+    "text": "the AMPA complex but it is actually not",
+    "begin": "00:52:36.740",
+    "end": "00:52:41.539"
+  },
+  {
+    "text": "structurally either of them okay but",
+    "begin": "00:52:39.260",
+    "end": "00:52:43.520"
+  },
+  {
+    "text": "it's very interesting it's a precursor",
+    "begin": "00:52:41.539",
+    "end": "00:52:46.130"
+  },
+  {
+    "text": "to cyclopropyl glycine it is neuro",
+    "begin": "00:52:43.520",
+    "end": "00:52:48.529"
+  },
+  {
+    "text": "protective it's anti excited is anti",
+    "begin": "00:52:46.130",
+    "end": "00:52:50.900"
+  },
+  {
+    "text": "excitotoxins the way that it brings",
+    "begin": "00:52:48.529",
+    "end": "00:52:52.520"
+  },
+  {
+    "text": "excessive glutamate outside of the",
+    "begin": "00:52:50.900",
+    "end": "00:52:54.470"
+  },
+  {
+    "text": "synapse so it's a very interesting",
+    "begin": "00:52:52.520",
+    "end": "00:52:58.849"
+  },
+  {
+    "text": "molecule a new pepsin quality as well",
+    "begin": "00:52:54.470",
+    "end": "00:53:01.400"
+  },
+  {
+    "text": "great now there are plenty of things",
+    "begin": "00:52:58.849",
+    "end": "00:53:05.329"
+  },
+  {
+    "text": "that we would have in qualia if there",
+    "begin": "00:53:01.400",
+    "end": "00:53:08.470"
+  },
+  {
+    "text": "was different regulatory dynamics okay",
+    "begin": "00:53:05.329",
+    "end": "00:53:10.700"
+  },
+  {
+    "text": "but you know so we're working within",
+    "begin": "00:53:08.470",
+    "end": "00:53:14.510"
+  },
+  {
+    "text": "both the general well-tolerated space",
+    "begin": "00:53:10.700",
+    "end": "00:53:17.660"
+  },
+  {
+    "text": "the effective space the and the legal",
+    "begin": "00:53:14.510",
+    "end": "00:53:22.279"
+  },
+  {
+    "text": "space sure yeah people micro dosing LSD",
+    "begin": "00:53:17.660",
+    "end": "00:53:23.750"
+  },
+  {
+    "text": "or psilocybin has a lot of neat effects",
+    "begin": "00:53:22.279",
+    "end": "00:53:24.260"
+  },
+  {
+    "text": "we can",
+    "begin": "00:53:23.750",
+    "end": "00:53:27.830"
+  },
+  {
+    "text": "that's that arising right um not yet not",
+    "begin": "00:53:24.260",
+    "end": "00:53:31.460"
+  },
+  {
+    "text": "yet so actually that's face of the",
+    "begin": "00:53:27.830",
+    "end": "00:53:33.460"
+  },
+  {
+    "text": "appropriate legal categorization of",
+    "begin": "00:53:31.460",
+    "end": "00:53:35.630"
+  },
+  {
+    "text": "medicines as its base that we have",
+    "begin": "00:53:33.460",
+    "end": "00:53:37.490"
+  },
+  {
+    "text": "worked in and intend to more because",
+    "begin": "00:53:35.630",
+    "end": "00:53:39.380"
+  },
+  {
+    "text": "it's important so more political legal",
+    "begin": "00:53:37.490",
+    "end": "00:53:42.950"
+  },
+  {
+    "text": "and regulatory not at the physiology but",
+    "begin": "00:53:39.380",
+    "end": "00:53:47.330"
+  },
+  {
+    "text": "at the body politic exactly interesting",
+    "begin": "00:53:42.950",
+    "end": "00:53:50.750"
+  },
+  {
+    "text": "so when you look at say two men offend",
+    "begin": "00:53:47.330",
+    "end": "00:53:53.330"
+  },
+  {
+    "text": "being over-the-counter hmm as a legacy",
+    "begin": "00:53:50.750",
+    "end": "00:53:55.400"
+  },
+  {
+    "text": "thing in the toxicity of it came to hair",
+    "begin": "00:53:53.330",
+    "end": "00:53:59.900"
+  },
+  {
+    "text": "to pot having been illegal for and still",
+    "begin": "00:53:55.400",
+    "end": "00:54:01.220"
+  },
+  {
+    "text": "illegal and so many plays for so long",
+    "begin": "00:53:59.900",
+    "end": "00:54:03.890"
+  },
+  {
+    "text": "it's just nonsense right right and we",
+    "begin": "00:54:01.220",
+    "end": "00:54:05.150"
+  },
+  {
+    "text": "can look at the whole history of why",
+    "begin": "00:54:03.890",
+    "end": "00:54:07.430"
+  },
+  {
+    "text": "those nonsense decisions were made but",
+    "begin": "00:54:05.150",
+    "end": "00:54:08.840"
+  },
+  {
+    "text": "they're not just nonsense they're really",
+    "begin": "00:54:07.430",
+    "end": "00:54:09.680"
+  },
+  {
+    "text": "bad for people",
+    "begin": "00:54:08.840",
+    "end": "00:54:12.620"
+  },
+  {
+    "text": "yeah because pot doesn't cause liver",
+    "begin": "00:54:09.680",
+    "end": "00:54:14.360"
+  },
+  {
+    "text": "damage and acetaminophen does and it but",
+    "begin": "00:54:12.620",
+    "end": "00:54:16.160"
+  },
+  {
+    "text": "it addresses the same pain dynamics of",
+    "begin": "00:54:14.360",
+    "end": "00:54:17.390"
+  },
+  {
+    "text": "people using it man",
+    "begin": "00:54:16.160",
+    "end": "00:54:19.670"
+  },
+  {
+    "text": "yeah but you can put a few minutes on it",
+    "begin": "00:54:17.390",
+    "end": "00:54:21.740"
+  },
+  {
+    "text": "with opiates and that prevents people",
+    "begin": "00:54:19.670",
+    "end": "00:54:22.940"
+  },
+  {
+    "text": "from taking all the opiates and",
+    "begin": "00:54:21.740",
+    "end": "00:54:25.310"
+  },
+  {
+    "text": "overdosing in theory that's that's of",
+    "begin": "00:54:22.940",
+    "end": "00:54:27.440"
+  },
+  {
+    "text": "course the title three vicodin kind of",
+    "begin": "00:54:25.310",
+    "end": "00:54:29.690"
+  },
+  {
+    "text": "approach is to combine to seem innocent",
+    "begin": "00:54:27.440",
+    "end": "00:54:31.760"
+  },
+  {
+    "text": "to avoid to to say hey it's going to",
+    "begin": "00:54:29.690",
+    "end": "00:54:32.900"
+  },
+  {
+    "text": "kill you if you take too much don't take",
+    "begin": "00:54:31.760",
+    "end": "00:54:35.450"
+  },
+  {
+    "text": "too much and so then people take too",
+    "begin": "00:54:32.900",
+    "end": "00:54:38.570"
+  },
+  {
+    "text": "much and get liver damage right right so",
+    "begin": "00:54:35.450",
+    "end": "00:54:40.610"
+  },
+  {
+    "text": "it's not a good idea but maybe they",
+    "begin": "00:54:38.570",
+    "end": "00:54:41.810"
+  },
+  {
+    "text": "didn't that wasn't well thought out",
+    "begin": "00:54:40.610",
+    "end": "00:54:46.730"
+  },
+  {
+    "text": "right so um it's been heady stuff Daniel",
+    "begin": "00:54:41.810",
+    "end": "00:54:48.290"
+  },
+  {
+    "text": "thank you so much for sharing a video",
+    "begin": "00:54:46.730",
+    "end": "00:54:49.880"
+  },
+  {
+    "text": "wisdom where can people find out more",
+    "begin": "00:54:48.290",
+    "end": "00:54:51.500"
+  },
+  {
+    "text": "about you other projects do you have",
+    "begin": "00:54:49.880",
+    "end": "00:54:54.410"
+  },
+  {
+    "text": "going on how can they dig into the the",
+    "begin": "00:54:51.500",
+    "end": "00:54:56.480"
+  },
+  {
+    "text": "the Daniel list that that we have here",
+    "begin": "00:54:54.410",
+    "end": "00:54:57.560"
+  },
+  {
+    "text": "in front of us a little more if they",
+    "begin": "00:54:56.480",
+    "end": "00:55:00.110"
+  },
+  {
+    "text": "have had their interest sparked as far",
+    "begin": "00:54:57.560",
+    "end": "00:55:01.820"
+  },
+  {
+    "text": "as the topics were talking about here",
+    "begin": "00:55:00.110",
+    "end": "00:55:04.040"
+  },
+  {
+    "text": "neural high kinetics neural hacker calm",
+    "begin": "00:55:01.820",
+    "end": "00:55:05.660"
+  },
+  {
+    "text": "okay a good place to go check it out",
+    "begin": "00:55:04.040",
+    "end": "00:55:08.120"
+  },
+  {
+    "text": "great publishing more information there",
+    "begin": "00:55:05.660",
+    "end": "00:55:11.030"
+  },
+  {
+    "text": "and I want to say that the work that you",
+    "begin": "00:55:08.120",
+    "end": "00:55:12.890"
+  },
+  {
+    "text": "are doing and neurofeedback and the fact",
+    "begin": "00:55:11.030",
+    "end": "00:55:14.870"
+  },
+  {
+    "text": "that you're scaling it with quality",
+    "begin": "00:55:12.890",
+    "end": "00:55:16.670"
+  },
+  {
+    "text": "control and with the systems that allow",
+    "begin": "00:55:14.870",
+    "end": "00:55:19.190"
+  },
+  {
+    "text": "that to happen that's one of the areas",
+    "begin": "00:55:16.670",
+    "end": "00:55:20.570"
+  },
+  {
+    "text": "that if you hadn't done it we would have",
+    "begin": "00:55:19.190",
+    "end": "00:55:21.860"
+  },
+  {
+    "text": "eventually got into because it's",
+    "begin": "00:55:20.570",
+    "end": "00:55:24.320"
+  },
+  {
+    "text": "critical and we think it is one of the",
+    "begin": "00:55:21.860",
+    "end": "00:55:26.750"
+  },
+  {
+    "text": "really most meaningful neuro hacks that",
+    "begin": "00:55:24.320",
+    "end": "00:55:30.170"
+  },
+  {
+    "text": "has the least the least damage box",
+    "begin": "00:55:26.750",
+    "end": "00:55:32.810"
+  },
+  {
+    "text": "really small downside is if done well",
+    "begin": "00:55:30.170",
+    "end": "00:55:34.880"
+  },
+  {
+    "text": "right yeah yeah it's real super high",
+    "begin": "00:55:32.810",
+    "end": "00:55:38.090"
+  },
+  {
+    "text": "reward possibility so I'm excited too",
+    "begin": "00:55:34.880",
+    "end": "00:55:39.470"
+  },
+  {
+    "text": "look at if there's a way we can partner",
+    "begin": "00:55:38.090",
+    "end": "00:55:40.940"
+  },
+  {
+    "text": "and support what you're doing I'm sure",
+    "begin": "00:55:39.470",
+    "end": "00:55:42.200"
+  },
+  {
+    "text": "there is we're both in Southern",
+    "begin": "00:55:40.940",
+    "end": "00:55:43.670"
+  },
+  {
+    "text": "California so we should very at least",
+    "begin": "00:55:42.200",
+    "end": "00:55:46.370"
+  },
+  {
+    "text": "try to work that great so can they fall",
+    "begin": "00:55:43.670",
+    "end": "00:55:47.690"
+  },
+  {
+    "text": "can folks while you on Twitter Instagram",
+    "begin": "00:55:46.370",
+    "end": "00:55:49.760"
+  },
+  {
+    "text": "LinkedIn what's the what's if there's",
+    "begin": "00:55:47.690",
+    "end": "00:55:52.340"
+  },
+  {
+    "text": "one of you know follow you and here so",
+    "begin": "00:55:49.760",
+    "end": "00:55:53.390"
+  },
+  {
+    "text": "you drop wisdom and see all the things",
+    "begin": "00:55:52.340",
+    "end": "00:55:54.740"
+  },
+  {
+    "text": "you do what's the best way to do that",
+    "begin": "00:55:53.390",
+    "end": "00:55:56.570"
+  },
+  {
+    "text": "Facebook is probably best Facebook all",
+    "begin": "00:55:54.740",
+    "end": "00:55:57.200"
+  },
+  {
+    "text": "right great",
+    "begin": "00:55:56.570",
+    "end": "00:55:59.390"
+  },
+  {
+    "text": "so today's guest has been Daniel",
+    "begin": "00:55:57.200",
+    "end": "00:56:01.040"
+  },
+  {
+    "text": "spectrum Berger of the neuro hacker",
+    "begin": "00:55:59.390",
+    "end": "00:56:03.950"
+  },
+  {
+    "text": "collective we packed more into this hour",
+    "begin": "00:56:01.040",
+    "end": "00:56:06.830"
+  },
+  {
+    "text": "than I think most shows we've had I'm",
+    "begin": "00:56:03.950",
+    "end": "00:56:07.820"
+  },
+  {
+    "text": "going to go back and listen to myself",
+    "begin": "00:56:06.830",
+    "end": "00:56:10.430"
+  },
+  {
+    "text": "and look up a few terms which is great",
+    "begin": "00:56:07.820",
+    "end": "00:56:12.650"
+  },
+  {
+    "text": "so I rarely have to stretch myself that",
+    "begin": "00:56:10.430",
+    "end": "00:56:14.420"
+  },
+  {
+    "text": "way I really appreciate it",
+    "begin": "00:56:12.650",
+    "end": "00:56:16.610"
+  },
+  {
+    "text": "so folks it has been another show of",
+    "begin": "00:56:14.420",
+    "end": "00:56:18.770"
+  },
+  {
+    "text": "head first doctor he'll take care of",
+    "begin": "00:56:16.610",
+    "end": "00:56:21.520"
+  },
+  {
+    "text": "your brains and we'll see you next week",
+    "begin": "00:56:18.770",
+    "end": "00:56:28.239"
+  },
+  {
+    "text": "[Music]",
+    "begin": "00:56:21.520",
+    "end": "00:56:28.239"
+  }
+]

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.890" style="s2">okay so today what I&#39;d like to do is</p>
+<p begin="00:00:02.250" end="00:00:07.049" style="s2">talk about something that happens in the</p>
+<p begin="00:00:04.890" end="00:00:09.450" style="s2">context of some of the other things we</p>
+<p begin="00:00:07.049" end="00:00:10.679" style="s2">looked at if you recall the kinetic</p>
+<p begin="00:00:09.450" end="00:00:13.440" style="s2">framework which I think was maybe</p>
+<p begin="00:00:10.679" end="00:00:16.170" style="s2">episode two the distinction between the</p>
+<p begin="00:00:13.440" end="00:00:18.650" style="s2">complex and the complicated and in the</p>
+<p begin="00:00:16.170" end="00:00:22.650" style="s2">complicated what we noticed was that</p>
+<p begin="00:00:18.650" end="00:00:24.869" style="s2">making effective choices was relatively</p>
+<p begin="00:00:22.650" end="00:00:26.340" style="s2">straightforward which is to say that in</p>
+<p begin="00:00:24.869" end="00:00:28.769" style="s2">the complicated the relationship between</p>
+<p begin="00:00:26.340" end="00:00:31.470" style="s2">cause and effect is relatively easy to</p>
+<p begin="00:00:28.769" end="00:00:33.050" style="s2">figure out and doesn&#39;t change any</p>
+<p begin="00:00:31.470" end="00:00:35.940" style="s2">meaningful fashion so we can build</p>
+<p begin="00:00:33.050" end="00:00:38.010" style="s2">expertise and then we can we can set</p>
+<p begin="00:00:35.940" end="00:00:40.050" style="s2">goals and we can develop strategies to</p>
+<p begin="00:00:38.010" end="00:00:42.120" style="s2">be able to achieve those goals and that</p>
+<p begin="00:00:40.050" end="00:00:45.860" style="s2">toolkit is effectively the complicated</p>
+<p begin="00:00:42.120" end="00:00:48.450" style="s2">toolkit and in in the context of</p>
+<p begin="00:00:45.860" end="00:00:50.579" style="s2">complexity this entire toolkit doesn&#39;t</p>
+<p begin="00:00:48.450" end="00:00:52.860" style="s2">work cause and effect or not obviously</p>
+<p begin="00:00:50.579" end="00:00:55.800" style="s2">easily related things are changing too</p>
+<p begin="00:00:52.860" end="00:00:58.890" style="s2">rapidly you can&#39;t actually have goals</p>
+<p begin="00:00:55.800" end="00:01:02.820" style="s2">and strategies in complexity what what</p>
+<p begin="00:00:58.890" end="00:01:04.680" style="s2">you do have is you have principles and</p>
+<p begin="00:01:02.820" end="00:01:07.140" style="s2">so what I&#39;d like to do today is is talk</p>
+<p begin="00:01:04.680" end="00:01:09.510" style="s2">about a particular principle to take</p>
+<p begin="00:01:07.140" end="00:01:11.670" style="s2">that as the object of inquiry and the</p>
+<p begin="00:01:09.510" end="00:01:13.939" style="s2">principle I want to focus on is I think</p>
+<p begin="00:01:11.670" end="00:01:16.380" style="s2">quite useful in the contemporary</p>
+<p begin="00:01:13.939" end="00:01:20.729" style="s2">environment and that is the principle of</p>
+<p begin="00:01:16.380" end="00:01:22.140" style="s2">closing loops okay so to walk through</p>
+<p begin="00:01:20.729" end="00:01:24.570" style="s2">that principle what I want to start with</p>
+<p begin="00:01:22.140" end="00:01:27.450" style="s2">this is the body the human body is our</p>
+<p begin="00:01:24.570" end="00:01:31.590" style="s2">example and what we can say is that the</p>
+<p begin="00:01:27.450" end="00:01:35.009" style="s2">human body can be perceived as a mesh of</p>
+<p begin="00:01:31.590" end="00:01:37.049" style="s2">a wide variety of distinct cells and</p>
+<p begin="00:01:35.009" end="00:01:39.119" style="s2">organelles and organs and metabolic</p>
+<p begin="00:01:37.049" end="00:01:42.240" style="s2">processes and other biological processes</p>
+<p begin="00:01:39.119" end="00:01:44.399" style="s2">that hang together in a homeostatic</p>
+<p begin="00:01:42.240" end="00:01:46.649" style="s2">equilibrium which is to say that this</p>
+<p begin="00:01:44.399" end="00:01:49.079" style="s2">this complex massive of billions and</p>
+<p begin="00:01:46.649" end="00:01:51.930" style="s2">billions of different cells is somehow</p>
+<p begin="00:01:49.079" end="00:01:53.610" style="s2">able to work together to achieve the</p>
+<p begin="00:01:51.930" end="00:01:55.680" style="s2">ability to actually maintain conditions</p>
+<p begin="00:01:53.610" end="00:01:58.530" style="s2">in its environment that are conducive to</p>
+<p begin="00:01:55.680" end="00:02:02.579" style="s2">the long-term well-being of the system</p>
+<p begin="00:01:58.530" end="00:02:05.130" style="s2">itself and a big part of that is the the</p>
+<p begin="00:02:02.579" end="00:02:08.220" style="s2">way that this system connects together</p>
+<p begin="00:02:05.130" end="00:02:10.500" style="s2">in closed loops and so what I mean is</p>
+<p begin="00:02:08.220" end="00:02:11.580" style="s2">for example let&#39;s take a given process</p>
+<p begin="00:02:10.500" end="00:02:13.040" style="s2">like so the contraction of the muscle</p>
+<p begin="00:02:11.580" end="00:02:15.920" style="s2">fiber</p>
+<p begin="00:02:13.040" end="00:02:17.959" style="s2">that process requires certain inputs so</p>
+<p begin="00:02:15.920" end="00:02:19.459" style="s2">it plugs into the environment and looks</p>
+<p begin="00:02:17.959" end="00:02:21.140" style="s2">to the environment to provide the inputs</p>
+<p begin="00:02:19.459" end="00:02:23.720" style="s2">that it needs to be able to achieve its</p>
+<p begin="00:02:21.140" end="00:02:25.010" style="s2">particular function it then provides</p>
+<p begin="00:02:23.720" end="00:02:27.800" style="s2">that function whatever it happens to be</p>
+<p begin="00:02:25.010" end="00:02:32.569" style="s2">and as one of the consequences of that</p>
+<p begin="00:02:27.800" end="00:02:35.959" style="s2">it produces outputs and now here&#39;s the</p>
+<p begin="00:02:32.569" end="00:02:39.140" style="s2">key those outputs and are the waste</p>
+<p begin="00:02:35.959" end="00:02:41.239" style="s2">products of the process and it is</p>
+<p begin="00:02:39.140" end="00:02:44.120" style="s2">necessary to achieve homeostatic</p>
+<p begin="00:02:41.239" end="00:02:46.730" style="s2">equilibrium that there be some other</p>
+<p begin="00:02:44.120" end="00:02:49.430" style="s2">process that plugs in to those outputs</p>
+<p begin="00:02:46.730" end="00:02:51.799" style="s2">and has the capacity could convert that</p>
+<p begin="00:02:49.430" end="00:02:54.829" style="s2">waste to convert those outputs into</p>
+<p begin="00:02:51.799" end="00:02:58.280" style="s2">useful inputs to provide other useful</p>
+<p begin="00:02:54.829" end="00:03:00.950" style="s2">functions so this is a closed loop and</p>
+<p begin="00:02:58.280" end="00:03:03.440" style="s2">the point is that the human body as it</p>
+<p begin="00:03:00.950" end="00:03:05.900" style="s2">evolved biologic system is actually</p>
+<p begin="00:03:03.440" end="00:03:09.860" style="s2">extraordinarily effective at closing</p>
+<p begin="00:03:05.900" end="00:03:12.140" style="s2">loops if you imagine for example the the</p>
+<p begin="00:03:09.860" end="00:03:14.480" style="s2">notion that you can eat just an apple</p>
+<p begin="00:03:12.140" end="00:03:16.760" style="s2">and that would provide enough nutrition</p>
+<p begin="00:03:14.480" end="00:03:19.190" style="s2">in the form of calories and energy and</p>
+<p begin="00:03:16.760" end="00:03:21.859" style="s2">other kinds of nutrients to power this</p>
+<p begin="00:03:19.190" end="00:03:23.450" style="s2">whole giant body for hours even you know</p>
+<p begin="00:03:21.859" end="00:03:25.160" style="s2">running around lifting things and</p>
+<p begin="00:03:23.450" end="00:03:27.170" style="s2">thinking about stuff that this is an</p>
+<p begin="00:03:25.160" end="00:03:29.389" style="s2">extraordinary amount of efficiency and</p>
+<p begin="00:03:27.170" end="00:03:32.630" style="s2">then a relatively minor amount of</p>
+<p begin="00:03:29.389" end="00:03:34.220" style="s2">ultimate waste product achieve this</p>
+<p begin="00:03:32.630" end="00:03:36.680" style="s2">level of efficiency and maintain</p>
+<p begin="00:03:34.220" end="00:03:38.870" style="s2">homeostatic oh Librium these leap</p>
+<p begin="00:03:36.680" end="00:03:41.090" style="s2">closures require a couple of different</p>
+<p begin="00:03:38.870" end="00:03:42.889" style="s2">characteristics one of course is the</p>
+<p begin="00:03:41.090" end="00:03:44.299" style="s2">fact that you actually have to close the</p>
+<p begin="00:03:42.889" end="00:03:45.799" style="s2">loop in the sense that for every output</p>
+<p begin="00:03:44.299" end="00:03:48.709" style="s2">there needs to be some other process</p>
+<p begin="00:03:45.799" end="00:03:50.120" style="s2">that receives it as an input but then to</p>
+<p begin="00:03:48.709" end="00:03:52.849" style="s2">there actually is to be a symmetry</p>
+<p begin="00:03:50.120" end="00:03:54.859" style="s2">between the capacity of output and the</p>
+<p begin="00:03:52.849" end="00:03:56.540" style="s2">capacity of input all right so if my my</p>
+<p begin="00:03:54.859" end="00:03:59.060" style="s2">motion of producing lactic acid at a</p>
+<p begin="00:03:56.540" end="00:04:03.139" style="s2">rate that is much faster than my body&#39;s</p>
+<p begin="00:03:59.060" end="00:04:04.760" style="s2">ability to process that lactic acid then</p>
+<p begin="00:04:03.139" end="00:04:06.530" style="s2">what happens is that I will run into</p>
+<p begin="00:04:04.760" end="00:04:09.290" style="s2">what you might think of as pure pure</p>
+<p begin="00:04:06.530" end="00:04:12.980" style="s2">waste and this pure waste will show up</p>
+<p begin="00:04:09.290" end="00:04:15.500" style="s2">as toxic in the body so then I need to</p>
+<p begin="00:04:12.980" end="00:04:17.870" style="s2">have some kind of mechanism whereby</p>
+<p begin="00:04:15.500" end="00:04:20.989" style="s2">either the rate of production or the</p>
+<p begin="00:04:17.870" end="00:04:23.030" style="s2">rate of processing is is is brought back</p>
+<p begin="00:04:20.989" end="00:04:25.460" style="s2">into symmetry and so maybe something</p>
+<p begin="00:04:23.030" end="00:04:26.300" style="s2">happens where my muscles just can&#39;t fire</p>
+<p begin="00:04:25.460" end="00:04:27.830" style="s2">any law</p>
+<p begin="00:04:26.300" end="00:04:29.000" style="s2">there&#39;s just too much lactic acid in the</p>
+<p begin="00:04:27.830" end="00:04:30.740" style="s2">environment so I can&#39;t produce any more</p>
+<p begin="00:04:29.000" end="00:04:31.940" style="s2">elastic acid and then the body can</p>
+<p begin="00:04:30.740" end="00:04:34.760" style="s2">ultimately get itself back into</p>
+<p begin="00:04:31.940" end="00:04:36.800" style="s2">equilibrium and if I can&#39;t do that if</p>
+<p begin="00:04:34.760" end="00:04:38.780" style="s2">the rate of production continues to</p>
+<p begin="00:04:36.800" end="00:04:40.490" style="s2">outstrip the writ of processing then I</p>
+<p begin="00:04:38.780" end="00:04:42.410" style="s2">end up with a toxic environment and of</p>
+<p begin="00:04:40.490" end="00:04:43.760" style="s2">course certain levels this will begin to</p>
+<p begin="00:04:42.410" end="00:04:45.980" style="s2">break down the well functioning of the</p>
+<p begin="00:04:43.760" end="00:04:50.450" style="s2">broader system and then of course</p>
+<p begin="00:04:45.980" end="00:04:52.370" style="s2">eventually would lead to death and so so</p>
+<p begin="00:04:50.450" end="00:04:55.970" style="s2">that&#39;s that we have a homeostatic</p>
+<p begin="00:04:52.370" end="00:04:58.580" style="s2">equilibrium driven by a mesh of</p>
+<p begin="00:04:55.970" end="00:05:00.560" style="s2">different systems and processes that are</p>
+<p begin="00:04:58.580" end="00:05:04.400" style="s2">able to at a very high level of</p>
+<p begin="00:05:00.560" end="00:05:06.650" style="s2">effectiveness close all loops now of</p>
+<p begin="00:05:04.400" end="00:05:08.210" style="s2">course there&#39;s a limit to this this</p>
+<p begin="00:05:06.650" end="00:05:10.760" style="s2">effectiveness that there is always going</p>
+<p begin="00:05:08.210" end="00:05:12.919" style="s2">to be some portion of output that can&#39;t</p>
+<p begin="00:05:10.760" end="00:05:15.050" style="s2">actually be turned back into input and</p>
+<p begin="00:05:12.919" end="00:05:16.280" style="s2">so this of course is pure waste and the</p>
+<p begin="00:05:15.050" end="00:05:18.140" style="s2">body has to have a mechanism for</p>
+<p begin="00:05:16.280" end="00:05:19.940" style="s2">grabbing that pure waste isolating it</p>
+<p begin="00:05:18.140" end="00:05:21.680" style="s2">pulling out of the environment where</p>
+<p begin="00:05:19.940" end="00:05:23.840" style="s2">it&#39;s currently toxic putting it into</p>
+<p begin="00:05:21.680" end="00:05:26.000" style="s2">other environments like the colon in the</p>
+<p begin="00:05:23.840" end="00:05:27.710" style="s2">bladder and then exiting it from the</p>
+<p begin="00:05:26.000" end="00:05:29.720" style="s2">body all together and that&#39;s that and</p>
+<p begin="00:05:27.710" end="00:05:31.669" style="s2">that&#39;s that&#39;s it like that&#39;s how one of</p>
+<p begin="00:05:29.720" end="00:05:34.460" style="s2">the primary mechanisms whereby we&#39;re</p>
+<p begin="00:05:31.669" end="00:05:35.830" style="s2">able to maintain equilibrium but now</p>
+<p begin="00:05:34.460" end="00:05:39.650" style="s2">things of course get more interesting</p>
+<p begin="00:05:35.830" end="00:05:42.560" style="s2">because I can I can say that I&#39;m exiting</p>
+<p begin="00:05:39.650" end="00:05:44.780" style="s2">pure waste from my body into the outside</p>
+<p begin="00:05:42.560" end="00:05:47.600" style="s2">but properly of course what I&#39;m really</p>
+<p begin="00:05:44.780" end="00:05:50.570" style="s2">doing is I&#39;m and exiting things from one</p>
+<p begin="00:05:47.600" end="00:05:52.880" style="s2">inside into a nested larger inside</p>
+<p begin="00:05:50.570" end="00:05:54.229" style="s2">because of course my body is part of a</p>
+<p begin="00:05:52.880" end="00:05:57.440" style="s2">larger eco systems part of the</p>
+<p begin="00:05:54.229" end="00:05:59.600" style="s2">environment so when the bear shits in</p>
+<p begin="00:05:57.440" end="00:06:03.350" style="s2">the woods the output from the bear</p>
+<p begin="00:05:59.600" end="00:06:05.210" style="s2">becomes input to dung beetles and fungi</p>
+<p begin="00:06:03.350" end="00:06:06.919" style="s2">and other microbes that are then taking</p>
+<p begin="00:06:05.210" end="00:06:09.950" style="s2">that as inputs that are processing it</p>
+<p begin="00:06:06.919" end="00:06:13.430" style="s2">into outputs that are useful in the</p>
+<p begin="00:06:09.950" end="00:06:14.330" style="s2">broader context of the ecosystem and we</p>
+<p begin="00:06:13.430" end="00:06:16.840" style="s2">know that actually that the</p>
+<p begin="00:06:14.330" end="00:06:19.100" style="s2">effectiveness of these loop closures in</p>
+<p begin="00:06:16.840" end="00:06:21.410" style="s2">long-standing ecosystems are also</p>
+<p begin="00:06:19.100" end="00:06:24.380" style="s2">remarkably effective and in some sense</p>
+<p begin="00:06:21.410" end="00:06:29.900" style="s2">this is kind of the point of biology of</p>
+<p begin="00:06:24.380" end="00:06:33.080" style="s2">life is that life exists on the basis of</p>
+<p begin="00:06:29.900" end="00:06:35.419" style="s2">its capacity to maximally effectively</p>
+<p begin="00:06:33.080" end="00:06:36.770" style="s2">process energy that comes into the</p>
+<p begin="00:06:35.419" end="00:06:38.720" style="s2">system resources that come into the</p>
+<p begin="00:06:36.770" end="00:06:42.800" style="s2">system with the absolute</p>
+<p begin="00:06:38.720" end="00:06:44.450" style="s2">waist and then outputs that waist is as</p>
+<p begin="00:06:42.800" end="00:06:45.830" style="s2">delicately and efficiently as possible</p>
+<p begin="00:06:44.450" end="00:06:48.740" style="s2">to maintain the minimum amount of</p>
+<p begin="00:06:45.830" end="00:06:50.960" style="s2">toxicity and you know over the past</p>
+<p begin="00:06:48.740" end="00:06:53.390" style="s2">couple of billion years the biological</p>
+<p begin="00:06:50.960" end="00:06:56.090" style="s2">environment has gotten pretty good at</p>
+<p begin="00:06:53.390" end="00:06:57.890" style="s2">that now of course there are limits</p>
+<p begin="00:06:56.090" end="00:07:02.270" style="s2">we are always bounded by thermodynamics</p>
+<p begin="00:06:57.890" end="00:07:04.820" style="s2">and so are our pale blue dot is by</p>
+<p begin="00:07:02.270" end="00:07:07.370" style="s2">necessity connected as an open system to</p>
+<p begin="00:07:04.820" end="00:07:09.440" style="s2">the Sun which provides us with most of</p>
+<p begin="00:07:07.370" end="00:07:11.600" style="s2">our free energy and to the the legacy</p>
+<p begin="00:07:09.440" end="00:07:15.350" style="s2">energy embodied in various material</p>
+<p begin="00:07:11.600" end="00:07:17.510" style="s2">resources in on the earth but within</p>
+<p begin="00:07:15.350" end="00:07:20.780" style="s2">those contexts would be the biological</p>
+<p begin="00:07:17.510" end="00:07:25.160" style="s2">environment does a remarkably effective</p>
+<p begin="00:07:20.780" end="00:07:27.260" style="s2">job at closing loops so then we bring</p>
+<p begin="00:07:25.160" end="00:07:32.090" style="s2">human beings back into the into the</p>
+<p begin="00:07:27.260" end="00:07:34.970" style="s2">story because one of the things that we</p>
+<p begin="00:07:32.090" end="00:07:38.180" style="s2">have been able to accomplish is the</p>
+<p begin="00:07:34.970" end="00:07:41.450" style="s2">ability to extract and concentrate</p>
+<p begin="00:07:38.180" end="00:07:43.400" style="s2">resources at a level that is just orders</p>
+<p begin="00:07:41.450" end="00:07:46.190" style="s2">and orders of magnitude more intense</p>
+<p begin="00:07:43.400" end="00:07:48.380" style="s2">then Nature has ever proceeded and had</p>
+<p begin="00:07:46.190" end="00:07:50.720" style="s2">to deal with in the past so as a</p>
+<p begin="00:07:48.380" end="00:07:53.840" style="s2">consequence the rate of production of</p>
+<p begin="00:07:50.720" end="00:07:58.040" style="s2">output of human industrial social</p>
+<p begin="00:07:53.840" end="00:08:00.110" style="s2">processes is just way a symmetric to the</p>
+<p begin="00:07:58.040" end="00:08:01.520" style="s2">natural environments capacity to take</p>
+<p begin="00:08:00.110" end="00:08:03.680" style="s2">these as inputs and convert them back</p>
+<p begin="00:08:01.520" end="00:08:06.919" style="s2">into closed loops so as a consequence of</p>
+<p begin="00:08:03.680" end="00:08:08.330" style="s2">course for producing waste all over the</p>
+<p begin="00:08:06.919" end="00:08:10.280" style="s2">place that we&#39;re producing waste</p>
+<p begin="00:08:08.330" end="00:08:11.960" style="s2">nitrogen and waste phosphorus we&#39;re</p>
+<p begin="00:08:10.280" end="00:08:14.150" style="s2">producing waste carbon dioxide we&#39;re</p>
+<p begin="00:08:11.960" end="00:08:15.979" style="s2">producing waste uranium were producing</p>
+<p begin="00:08:14.150" end="00:08:19.250" style="s2">waste estrogen I mean just the out the</p>
+<p begin="00:08:15.979" end="00:08:20.570" style="s2">output of our human environment is open</p>
+<p begin="00:08:19.250" end="00:08:23.000" style="s2">loops all over the place and this</p>
+<p begin="00:08:20.570" end="00:08:25.340" style="s2">consequence waste all over the place and</p>
+<p begin="00:08:23.000" end="00:08:28.820" style="s2">as a consequence of the sort of</p>
+<p begin="00:08:25.340" end="00:08:30.350" style="s2">increasing rate of output with no real</p>
+<p begin="00:08:28.820" end="00:08:34.270" style="s2">significant increase in the rate of</p>
+<p begin="00:08:30.350" end="00:08:36.650" style="s2">input toxicity everywhere and so</p>
+<p begin="00:08:34.270" end="00:08:39.080" style="s2">obviously as just as in the case of the</p>
+<p begin="00:08:36.650" end="00:08:41.539" style="s2">human body the consequence of this</p>
+<p begin="00:08:39.080" end="00:08:44.660" style="s2">toxicity is a breakdown of the well</p>
+<p begin="00:08:41.539" end="00:08:46.100" style="s2">functioning of the processing system the</p>
+<p begin="00:08:44.660" end="00:08:50.180" style="s2">homeostatic system and then ultimately</p>
+<p begin="00:08:46.100" end="00:08:51.380" style="s2">death which may occur within in the</p>
+<p begin="00:08:50.180" end="00:08:52.600" style="s2">lifetime of the people watching this</p>
+<p begin="00:08:51.380" end="00:08:57.519" style="s2">video so it&#39;s</p>
+<p begin="00:08:52.600" end="00:08:58.660" style="s2">worth contemplating but but now things</p>
+<p begin="00:08:57.519" end="00:09:00.850" style="s2">actually get even more interesting</p>
+<p begin="00:08:58.660" end="00:09:03.009" style="s2">because when we&#39;re dealing with humans</p>
+<p begin="00:09:00.850" end="00:09:04.810" style="s2">we&#39;ve so far been talking about this</p>
+<p begin="00:09:03.009" end="00:09:07.800" style="s2">question in this problem of closed loops</p>
+<p begin="00:09:04.810" end="00:09:12.009" style="s2">in the context of the physical of</p>
+<p begin="00:09:07.800" end="00:09:13.750" style="s2">molecules and physical nature but we we</p>
+<p begin="00:09:12.009" end="00:09:15.399" style="s2">can and should also talk about it in the</p>
+<p begin="00:09:13.750" end="00:09:17.860" style="s2">context of the social when our our</p>
+<p begin="00:09:15.399" end="00:09:21.579" style="s2">social environment Civic Society is</p>
+<p begin="00:09:17.860" end="00:09:23.050" style="s2">itself something of an ecosystem we have</p>
+<p begin="00:09:21.579" end="00:09:28.959" style="s2">relationships we have communication</p>
+<p begin="00:09:23.050" end="00:09:31.690" style="s2">channels we have dispositions and these</p>
+<p begin="00:09:28.959" end="00:09:35.230" style="s2">are affected by the flows across those</p>
+<p begin="00:09:31.690" end="00:09:38.050" style="s2">channels and they when they&#39;re working</p>
+<p begin="00:09:35.230" end="00:09:40.120" style="s2">well they also operate as some kind of</p>
+<p begin="00:09:38.050" end="00:09:42.730" style="s2">homeostatic system that is able to</p>
+<p begin="00:09:40.120" end="00:09:46.420" style="s2">maintain its the well-being of the whole</p>
+<p begin="00:09:42.730" end="00:09:47.319" style="s2">over some enduring period of time so</p>
+<p begin="00:09:46.420" end="00:09:50.199" style="s2">take for example something like</p>
+<p begin="00:09:47.319" end="00:09:51.970" style="s2">advertising and in this context we can</p>
+<p begin="00:09:50.199" end="00:09:54.459" style="s2">we can think of advertising as something</p>
+<p begin="00:09:51.970" end="00:09:57.970" style="s2">which has a very very open loop within</p>
+<p begin="00:09:54.459" end="00:10:02.529" style="s2">the ecosystem of civic society that the</p>
+<p begin="00:09:57.970" end="00:10:05.500" style="s2">the outputs of advertising are the sorts</p>
+<p begin="00:10:02.529" end="00:10:07.600" style="s2">of things that so quite significantly</p>
+<p begin="00:10:05.500" end="00:10:10.540" style="s2">outstrip the capacity of our collective</p>
+<p begin="00:10:07.600" end="00:10:13.870" style="s2">sense making mechanisms ability to</p>
+<p begin="00:10:10.540" end="00:10:15.730" style="s2">process them into useful goods then it</p>
+<p begin="00:10:13.870" end="00:10:17.620" style="s2">produces just an enormous amount of</p>
+<p begin="00:10:15.730" end="00:10:21.009" style="s2">toxicity</p>
+<p begin="00:10:17.620" end="00:10:23.500" style="s2">you know advertising has the breaks down</p>
+<p begin="00:10:21.009" end="00:10:26.199" style="s2">the the efficiency of our communications</p>
+<p begin="00:10:23.500" end="00:10:27.939" style="s2">channels and it breaks down the quality</p>
+<p begin="00:10:26.199" end="00:10:30.730" style="s2">of our relationships and generates a</p>
+<p begin="00:10:27.939" end="00:10:33.490" style="s2">lack of trust occur in generates ambient</p>
+<p begin="00:10:30.730" end="00:10:36.370" style="s2">distrust and it creates an enormous</p>
+<p begin="00:10:33.490" end="00:10:39.660" style="s2">amount of noise much the same way to say</p>
+<p begin="00:10:36.370" end="00:10:41.860" style="s2">lactic acid in a muscle system and our</p>
+<p begin="00:10:39.660" end="00:10:44.410" style="s2">collective intelligence does not yet</p>
+<p begin="00:10:41.860" end="00:10:47.829" style="s2">have any meaningful capability to</p>
+<p begin="00:10:44.410" end="00:10:50.019" style="s2">process this noise and these breakdowns</p>
+<p begin="00:10:47.829" end="00:10:53.139" style="s2">of relationships at a level vaguely</p>
+<p begin="00:10:50.019" end="00:10:56.290" style="s2">symmetric to the accelerating capacity</p>
+<p begin="00:10:53.139" end="00:10:57.519" style="s2">to produce it now of course for some</p>
+<p begin="00:10:56.290" end="00:11:01.709" style="s2">period of time we&#39;re able to more or</p>
+<p begin="00:10:57.519" end="00:11:04.120" style="s2">less get along but in the context of</p>
+<p begin="00:11:01.709" end="00:11:05.980" style="s2">exponential technology social media</p>
+<p begin="00:11:04.120" end="00:11:08.650" style="s2">Infotech et cetera</p>
+<p begin="00:11:05.980" end="00:11:12.820" style="s2">ecology neuroscience and the rate of the</p>
+<p begin="00:11:08.650" end="00:11:15.910" style="s2">output of this waste into the social</p>
+<p begin="00:11:12.820" end="00:11:18.220" style="s2">environment now so vastly outstrips the</p>
+<p begin="00:11:15.910" end="00:11:20.710" style="s2">capacity of the environment to endure it</p>
+<p begin="00:11:18.220" end="00:11:23.020" style="s2">much less to process it that we&#39;re</p>
+<p begin="00:11:20.710" end="00:11:26.200" style="s2">beginning to see a breakdown of civil</p>
+<p begin="00:11:23.020" end="00:11:27.640" style="s2">society so on the one hand we need to</p>
+<p begin="00:11:26.200" end="00:11:30.190" style="s2">close those loose we need to find some</p>
+<p begin="00:11:27.640" end="00:11:32.190" style="s2">way of building in those symmetries of</p>
+<p begin="00:11:30.190" end="00:11:35.140" style="s2">output and input we need to build in</p>
+<p begin="00:11:32.190" end="00:11:37.750" style="s2">mechanisms that rate control output at</p>
+<p begin="00:11:35.140" end="00:11:41.470" style="s2">input so as to maintaining within some</p>
+<p begin="00:11:37.750" end="00:11:43.900" style="s2">sort of equilibrium or so as to avoid</p>
+<p begin="00:11:41.470" end="00:11:47.140" style="s2">some level of catastrophic collapse</p>
+<p begin="00:11:43.900" end="00:11:49.900" style="s2">death at the level of civil society but</p>
+<p begin="00:11:47.140" end="00:11:52.210" style="s2">if we close the loop and go back to the</p>
+<p begin="00:11:49.900" end="00:11:53.140" style="s2">first point at the physical level the</p>
+<p begin="00:11:52.210" end="00:11:56.230" style="s2">problem is actually even more</p>
+<p begin="00:11:53.140" end="00:12:00.970" style="s2">significant because not only do we need</p>
+<p begin="00:11:56.230" end="00:12:03.610" style="s2">to avoid a meaningful degradation of our</p>
+<p begin="00:12:00.970" end="00:12:07.210" style="s2">collective intelligence we actually need</p>
+<p begin="00:12:03.610" end="00:12:10.450" style="s2">to witness a quite substantial increase</p>
+<p begin="00:12:07.210" end="00:12:13.690" style="s2">in capacity because obviously if we want</p>
+<p begin="00:12:10.450" end="00:12:16.150" style="s2">to go about being able to have the level</p>
+<p begin="00:12:13.690" end="00:12:18.060" style="s2">of perception and the level of</p>
+<p begin="00:12:16.150" end="00:12:21.100" style="s2">understanding and the level of</p>
+<p begin="00:12:18.060" end="00:12:25.690" style="s2">skillfulness in collective action to be</p>
+<p begin="00:12:21.100" end="00:12:27.580" style="s2">able to be equal to the amount of output</p>
+<p begin="00:12:25.690" end="00:12:29.140" style="s2">that we generate in turn our natural</p>
+<p begin="00:12:27.580" end="00:12:31.090" style="s2">environment if we want to be able to</p>
+<p begin="00:12:29.140" end="00:12:33.610" style="s2">monitor the presence of nitrogen in</p>
+<p begin="00:12:31.090" end="00:12:34.780" style="s2">every cubic centimeter of the ocean and</p>
+<p begin="00:12:33.610" end="00:12:37.330" style="s2">then be able to understand how that</p>
+<p begin="00:12:34.780" end="00:12:39.310" style="s2">nitrogen fits into various kinds of</p>
+<p begin="00:12:37.330" end="00:12:41.320" style="s2">processes both negative and positive and</p>
+<p begin="00:12:39.310" end="00:12:44.050" style="s2">then be able to generate mechanisms</p>
+<p begin="00:12:41.320" end="00:12:46.300" style="s2">whereby we can either process it or</p>
+<p begin="00:12:44.050" end="00:12:48.700" style="s2">reduce the input so that it actually</p>
+<p begin="00:12:46.300" end="00:12:51.910" style="s2">maintains homeostatic equilibrium with</p>
+<p begin="00:12:48.700" end="00:12:54.160" style="s2">the entire global ecosystem well that&#39;s</p>
+<p begin="00:12:51.910" end="00:12:56.590" style="s2">a lot more than we can do right now so</p>
+<p begin="00:12:54.160" end="00:12:59.830" style="s2">we actually need to quite substantially</p>
+<p begin="00:12:56.590" end="00:13:01.960" style="s2">upgrade our collective capacity to</p>
+<p begin="00:12:59.830" end="00:13:03.490" style="s2">engage in these kinds of activities if</p>
+<p begin="00:13:01.960" end="00:13:06.640" style="s2">we want to have any chance of being able</p>
+<p begin="00:13:03.490" end="00:13:09.490" style="s2">to be equal to the problem of closing</p>
+<p begin="00:13:06.640" end="00:13:12.250" style="s2">loops at the physical level and I think</p>
+<p begin="00:13:09.490" end="00:13:15.760" style="s2">that needs to be taken seriously I my</p>
+<p begin="00:13:12.250" end="00:13:19.120" style="s2">sense is that there&#39;s a strong intuitive</p>
+<p begin="00:13:15.760" end="00:13:21.040" style="s2">sense that there is a need to close</p>
+<p begin="00:13:19.120" end="00:13:22.300" style="s2">loop&#39;s at the physical level I think</p>
+<p begin="00:13:21.040" end="00:13:24.130" style="s2">there&#39;s also a strong intuitive sense of</p>
+<p begin="00:13:22.300" end="00:13:26.170" style="s2">the need to close loops at the social</p>
+<p begin="00:13:24.130" end="00:13:30.430" style="s2">level and frankly now even at the</p>
+<p begin="00:13:26.170" end="00:13:33.279" style="s2">personal relational level but it&#39;s a far</p>
+<p begin="00:13:30.430" end="00:13:35.589" style="s2">cry from sensing that something is</p>
+<p begin="00:13:33.279" end="00:13:37.779" style="s2">necessary to being able to actually take</p>
+<p begin="00:13:35.589" end="00:13:41.860" style="s2">responsibility for it to being able to</p>
+<p begin="00:13:37.779" end="00:13:44.860" style="s2">really quite deliberately operate in a</p>
+<p begin="00:13:41.860" end="00:13:47.110" style="s2">truly agenting capacity in relationship</p>
+<p begin="00:13:44.860" end="00:13:48.970" style="s2">to a problem of this magnitude it means</p>
+<p begin="00:13:47.110" end="00:13:51.880" style="s2">being able to actually go slowly and</p>
+<p begin="00:13:48.970" end="00:13:55.540" style="s2">understand how much you can actually do</p>
+<p begin="00:13:51.880" end="00:13:57.190" style="s2">and then understand how you can go about</p>
+<p begin="00:13:55.540" end="00:13:59.380" style="s2">building the capacity building the</p>
+<p begin="00:13:57.190" end="00:14:01.150" style="s2">individual and collective sovereignty</p>
+<p begin="00:13:59.380" end="00:14:02.920" style="s2">that is adequate to the level of</p>
+<p begin="00:14:01.150" end="00:14:07.000" style="s2">complexity the problem domain under</p>
+<p begin="00:14:02.920" end="00:14:08.529" style="s2">investigation of course that&#39;s a lot and</p>
+<p begin="00:14:07.000" end="00:14:09.190" style="s2">we&#39;ll have to the subject of another</p>
+<p begin="00:14:08.529" end="00:14:12.300" style="s2">conversation</p>
+<p begin="00:14:09.190" end="00:14:12.300" style="s2">I hope this was helpful</p>
+</div>
+</body>
+</tt>

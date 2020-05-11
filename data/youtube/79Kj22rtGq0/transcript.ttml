@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:04.020" style="s2">one of the most important things you can</p>
+<p begin="00:00:01.469" end="00:00:05.520" style="s2">focus on is the nature of development</p>
+<p begin="00:00:04.020" end="00:00:07.740" style="s2">itself and the nature of your own</p>
+<p begin="00:00:05.520" end="00:00:10.320" style="s2">learning so learn about the nature of</p>
+<p begin="00:00:07.740" end="00:00:13.469" style="s2">learning scientifically but also learn</p>
+<p begin="00:00:10.320" end="00:00:15.960" style="s2">about your own unique learning needs and</p>
+<p begin="00:00:13.469" end="00:00:17.369" style="s2">patterns right so not everyone can sit</p>
+<p begin="00:00:15.960" end="00:00:19.859" style="s2">with a book for 45 minutes but they can</p>
+<p begin="00:00:17.369" end="00:00:21.630" style="s2">do 15 minutes get up staring space walk</p>
+<p begin="00:00:19.859" end="00:00:24.090" style="s2">around 15 minutes get up stand in space</p>
+<p begin="00:00:21.630" end="00:00:28.230" style="s2">walk around ready so you learn how you</p>
+<p begin="00:00:24.090" end="00:00:29.490" style="s2">work and a lot of research can help with</p>
+<p begin="00:00:28.230" end="00:00:31.590" style="s2">that things like the neuro hacker</p>
+<p begin="00:00:29.490" end="00:00:33.450" style="s2">resources all of these things should be</p>
+<p begin="00:00:31.590" end="00:00:34.890" style="s2">grist for that mill but one of the</p>
+<p begin="00:00:33.450" end="00:00:37.200" style="s2">things that you see with people who go</p>
+<p begin="00:00:34.890" end="00:00:39.090" style="s2">postconventional and kind of become self</p>
+<p begin="00:00:37.200" end="00:00:40.590" style="s2">actualize and move up to these higher</p>
+<p begin="00:00:39.090" end="00:00:44.370" style="s2">levels that they&#39;re very reflective</p>
+<p begin="00:00:40.590" end="00:00:46.379" style="s2">about their own learning they know how</p>
+<p begin="00:00:44.370" end="00:00:48.230" style="s2">they learn when they learn best I know</p>
+<p begin="00:00:46.379" end="00:00:51.719" style="s2">what excites them to know how to follow</p>
+<p begin="00:00:48.230" end="00:00:53.850" style="s2">investigative patterns independently and</p>
+<p begin="00:00:51.719" end="00:00:55.410" style="s2">so they&#39;re reflective and so they create</p>
+<p begin="00:00:53.850" end="00:00:56.430" style="s2">these virtuous cycles of learning for</p>
+<p begin="00:00:55.410" end="00:00:58.559" style="s2">themselves naturally</p>
+<p begin="00:00:56.430" end="00:01:00.149" style="s2">throughout life to watch the full</p>
+<p begin="00:00:58.559" end="00:01:02.250" style="s2">episode or to subscribe to the podcast</p>
+<p begin="00:01:00.149" end="00:01:04.949" style="s2">click the link in the description or</p>
+<p begin="00:01:02.250" end="00:01:07.080" style="s2">visit us at neuro hacker comm slash</p>
+<p begin="00:01:04.949" end="00:01:08.790" style="s2">collective insights to celebrate the</p>
+<p begin="00:01:07.080" end="00:01:11.220" style="s2">launch of this podcast we&#39;re giving away</p>
+<p begin="00:01:08.790" end="00:01:13.380" style="s2">a bunch of great prizes including a six</p>
+<p begin="00:01:11.220" end="00:01:15.390" style="s2">month subscription of qualia for details</p>
+<p begin="00:01:13.380" end="00:01:18.229" style="s2">on how to enter the contest go to neuro</p>
+<p begin="00:01:15.390" end="00:01:18.229" style="s2">hacker com</p>
+</div>
+</body>
+</tt>

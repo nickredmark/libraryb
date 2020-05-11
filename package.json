@@ -5,11 +5,28 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "scrape": "env-cmd node utils/scrape"
   },
   "dependencies": {
+    "@tailwindcss/ui": "^0.3.0",
+    "@types/qs": "^6.9.2",
     "next": "9.3.6",
+    "postcss-preset-env": "^6.7.0",
+    "qs": "^6.9.4",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "tailwindcss": "^1.4.6",
+    "xml2js": "^0.4.23",
+    "youtube-api": "^2.0.10",
+    "youtube-dl": "^3.0.2"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.2.0",
+    "@types/node": "^13.13.5",
+    "@types/react": "^16.9.34",
+    "env-cmd": "^10.1.0",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.8.3"
   }
 }

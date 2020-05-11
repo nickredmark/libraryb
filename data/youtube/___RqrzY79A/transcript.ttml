@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:06.060" style="s2">welcome to another super Lofa edition of</p>
+<p begin="00:00:03.110" end="00:00:09.059" style="s2">deep code today what I want to do is</p>
+<p begin="00:00:06.060" end="00:00:11.160" style="s2">talk about a concept that I&#39;ve mentioned</p>
+<p begin="00:00:09.059" end="00:00:13.290" style="s2">a few times in my writing but I don&#39;t</p>
+<p begin="00:00:11.160" end="00:00:16.109" style="s2">believe I&#39;ve mentioned in the videos and</p>
+<p begin="00:00:13.290" end="00:00:17.820" style="s2">that is supernormal stimuli and a new</p>
+<p begin="00:00:16.109" end="00:00:19.080" style="s2">idea that I have come up with in how we</p>
+<p begin="00:00:17.820" end="00:00:19.380" style="s2">might actually be able to respond to</p>
+<p begin="00:00:19.080" end="00:00:21.420" style="s2">them</p>
+<p begin="00:00:19.380" end="00:00:23.939" style="s2">so first what is the super normal</p>
+<p begin="00:00:21.420" end="00:00:26.039" style="s2">stimulus to get to the bottom of this</p>
+<p begin="00:00:23.939" end="00:00:28.080" style="s2">idea I think we just have to take a look</p>
+<p begin="00:00:26.039" end="00:00:31.349" style="s2">at two different things that seem to</p>
+<p begin="00:00:28.080" end="00:00:33.780" style="s2">show up in our being in the world is</p>
+<p begin="00:00:31.349" end="00:00:35.910" style="s2">evolved organisms the first is that the</p>
+<p begin="00:00:33.780" end="00:00:38.000" style="s2">world is big it&#39;s complex it contains</p>
+<p begin="00:00:35.910" end="00:00:41.489" style="s2">all kinds of stuff that we can&#39;t post&#39;s</p>
+<p begin="00:00:38.000" end="00:00:42.660" style="s2">possibly hope to fully track and we&#39;re</p>
+<p begin="00:00:41.489" end="00:00:45.390" style="s2">relatively limited so it ends up</p>
+<p begin="00:00:42.660" end="00:00:48.120" style="s2">happening is that we have to use some</p>
+<p begin="00:00:45.390" end="00:00:50.700" style="s2">simple model some subset of heuristics</p>
+<p begin="00:00:48.120" end="00:00:53.010" style="s2">and signs and signifiers and rules of</p>
+<p begin="00:00:50.700" end="00:00:54.809" style="s2">thumb to make sense of what&#39;s going on</p>
+<p begin="00:00:53.010" end="00:00:57.930" style="s2">in our environment and guide us to make</p>
+<p begin="00:00:54.809" end="00:01:01.680" style="s2">what we hope are good choices so I&#39;m</p>
+<p begin="00:00:57.930" end="00:01:07.760" style="s2">gonna call these things the things we</p>
+<p begin="00:01:01.680" end="00:01:10.140" style="s2">want so we have a set of symbols of</p>
+<p begin="00:01:07.760" end="00:01:13.200" style="s2">stimuli that we perceive in our</p>
+<p begin="00:01:10.140" end="00:01:15.180" style="s2">environment and of those we&#39;re going to</p>
+<p begin="00:01:13.200" end="00:01:16.860" style="s2">select a few I&#39;m going to identify those</p>
+<p begin="00:01:15.180" end="00:01:18.000" style="s2">as being attractive or good and we will</p>
+<p begin="00:01:16.860" end="00:01:21.090" style="s2">seek them out we&#39;ll be willing to take</p>
+<p begin="00:01:18.000" end="00:01:23.070" style="s2">risks in order to engage with them and</p>
+<p begin="00:01:21.090" end="00:01:25.140" style="s2">then on the other side we actually have</p>
+<p begin="00:01:23.070" end="00:01:26.790" style="s2">the actual effects of the choices that</p>
+<p begin="00:01:25.140" end="00:01:31.320" style="s2">we make in our adaptive fitness in our</p>
+<p begin="00:01:26.790" end="00:01:34.229" style="s2">environment so if for example we seek</p>
+<p begin="00:01:31.320" end="00:01:35.790" style="s2">out a shiny red apple looking object and</p>
+<p begin="00:01:34.229" end="00:01:38.460" style="s2">we consume it and it&#39;s poisonous and we</p>
+<p begin="00:01:35.790" end="00:01:39.720" style="s2">die then you know we&#39;ve received sort of</p>
+<p begin="00:01:38.460" end="00:01:42.420" style="s2">the ultimate feedback from our</p>
+<p begin="00:01:39.720" end="00:01:44.130" style="s2">environment is a bad choice so by</p>
+<p begin="00:01:42.420" end="00:01:46.020" style="s2">contrast if we seek it out and eat it</p>
+<p begin="00:01:44.130" end="00:01:48.149" style="s2">and it&#39;s full of calories and nutrition</p>
+<p begin="00:01:46.020" end="00:01:50.369" style="s2">as a consequence we survive more</p>
+<p begin="00:01:48.149" end="00:01:53.729" style="s2">effectively than those organisms around</p>
+<p begin="00:01:50.369" end="00:01:55.380" style="s2">us that don&#39;t do that then we will get</p>
+<p begin="00:01:53.729" end="00:01:56.820" style="s2">what I&#39;m going to call what we need so</p>
+<p begin="00:01:55.380" end="00:02:00.689" style="s2">I&#39;m making instinct and what we want to</p>
+<p begin="00:01:56.820" end="00:02:02.899" style="s2">what we need what we want is the set of</p>
+<p begin="00:02:00.689" end="00:02:05.759" style="s2">relatively simple symbols that indicate</p>
+<p begin="00:02:02.899" end="00:02:08.250" style="s2">what we think are in fact and in fact</p>
+<p begin="00:02:05.759" end="00:02:10.140" style="s2">are proxies for what we think we need</p>
+<p begin="00:02:08.250" end="00:02:13.540" style="s2">and what we need is in fact the actual</p>
+<p begin="00:02:10.140" end="00:02:16.450" style="s2">complex reality that is adaptive to</p>
+<p begin="00:02:13.540" end="00:02:18.280" style="s2">our environment so this is the first</p>
+<p begin="00:02:16.450" end="00:02:21.219" style="s2">part there&#39;s a separation what we want</p>
+<p begin="00:02:18.280" end="00:02:25.750" style="s2">and what we need then the second part is</p>
+<p begin="00:02:21.219" end="00:02:27.689" style="s2">that any given species will have been</p>
+<p begin="00:02:25.750" end="00:02:30.579" style="s2">involvement with in some particular</p>
+<p begin="00:02:27.689" end="00:02:36.280" style="s2">actual niche which is going to contain</p>
+<p begin="00:02:30.579" end="00:02:38.650" style="s2">some distribution of phenomena so it</p>
+<p begin="00:02:36.280" end="00:02:41.620" style="s2">will have what is in fact normal so if</p>
+<p begin="00:02:38.650" end="00:02:43.659" style="s2">you say spend all of your time in the</p>
+<p begin="00:02:41.620" end="00:02:46.239" style="s2">desert your organs involve to the desert</p>
+<p begin="00:02:43.659" end="00:02:48.639" style="s2">then certain ranges of moisture and</p>
+<p begin="00:02:46.239" end="00:02:50.920" style="s2">certain ranges of temperature are normal</p>
+<p begin="00:02:48.639" end="00:02:52.840" style="s2">and as a consequence they&#39;re going to be</p>
+<p begin="00:02:50.920" end="00:02:55.329" style="s2">different phenomenon that are not</p>
+<p begin="00:02:52.840" end="00:02:56.859" style="s2">normally present in your environment as</p>
+<p begin="00:02:55.329" end="00:02:58.780" style="s2">a certain intensities or certain</p>
+<p begin="00:02:56.859" end="00:03:01.150" style="s2">characteristics and these are going to</p>
+<p begin="00:02:58.780" end="00:03:03.549" style="s2">be other than normal it said that&#39;s more</p>
+<p begin="00:03:01.150" end="00:03:05.200" style="s2">that&#39;s it which is it evolution evolved</p>
+<p begin="00:03:03.549" end="00:03:06.909" style="s2">us to be fit but only within the</p>
+<p begin="00:03:05.200" end="00:03:08.560" style="s2">constraints of the selection pressures</p>
+<p begin="00:03:06.909" end="00:03:10.689" style="s2">and so if we find ourselves encountering</p>
+<p begin="00:03:08.560" end="00:03:13.090" style="s2">something that is well outside of or</p>
+<p begin="00:03:10.689" end="00:03:15.700" style="s2">different to the selection pressures to</p>
+<p begin="00:03:13.090" end="00:03:17.909" style="s2">which we are adapted we will not be</p>
+<p begin="00:03:15.700" end="00:03:21.790" style="s2">adapted to it evolution isn&#39;t to sort of</p>
+<p begin="00:03:17.909" end="00:03:23.019" style="s2">make up lots of redundancy it&#39;s really</p>
+<p begin="00:03:21.790" end="00:03:24.579" style="s2">rather sloppy when it comes to it just</p>
+<p begin="00:03:23.019" end="00:03:27.790" style="s2">just enough there&#39;s kind of a rule of</p>
+<p begin="00:03:24.579" end="00:03:30.069" style="s2">thumb so so these two pieces combined</p>
+<p begin="00:03:27.790" end="00:03:33.269" style="s2">then give rise to the problem and the</p>
+<p begin="00:03:30.069" end="00:03:35.769" style="s2">possibility of supernormal stimuli so</p>
+<p begin="00:03:33.269" end="00:03:38.250" style="s2">and so then you think about that what it</p>
+<p begin="00:03:35.769" end="00:03:41.139" style="s2">makes the stimulus super normal is that</p>
+<p begin="00:03:38.250" end="00:03:44.590" style="s2">again two distinctions well one is that</p>
+<p begin="00:03:41.139" end="00:03:46.930" style="s2">it takes the the aspects of phenomena</p>
+<p begin="00:03:44.590" end="00:03:49.180" style="s2">that we are in fact sensitive to the</p>
+<p begin="00:03:46.930" end="00:03:53.669" style="s2">aspects that are that we want say the</p>
+<p begin="00:03:49.180" end="00:03:56.079" style="s2">shiny red apple nosov an apple and it</p>
+<p begin="00:03:53.669" end="00:03:58.750" style="s2">abstracts and distills that into a</p>
+<p begin="00:03:56.079" end="00:04:03.010" style="s2">concentrated intensity but</p>
+<p begin="00:03:58.750" end="00:04:06.090" style="s2">simultaneously it is not necessarily and</p>
+<p begin="00:04:03.010" end="00:04:08.769" style="s2">therefore for it accordingly is not</p>
+<p begin="00:04:06.090" end="00:04:12.280" style="s2">present to and connected to the</p>
+<p begin="00:04:08.769" end="00:04:14.259" style="s2">complexity of the phenomenon that was in</p>
+<p begin="00:04:12.280" end="00:04:16.199" style="s2">fact made it what made it needful or why</p>
+<p begin="00:04:14.259" end="00:04:18.340" style="s2">we actually were seeking it out</p>
+<p begin="00:04:16.199" end="00:04:21.310" style="s2">adaptively in the first place so you</p>
+<p begin="00:04:18.340" end="00:04:24.610" style="s2">might imagine for example a fake apple</p>
+<p begin="00:04:21.310" end="00:04:26.110" style="s2">it&#39;s a very red very shiny very apple it</p>
+<p begin="00:04:24.610" end="00:04:27.280" style="s2">has no blemishes it looks like the</p>
+<p begin="00:04:26.110" end="00:04:28.690" style="s2">perfect apple and if you</p>
+<p begin="00:04:27.280" end="00:04:30.850" style="s2">would have put a child who&#39;d never</p>
+<p begin="00:04:28.690" end="00:04:32.680" style="s2">encountered such Tintin up to a table</p>
+<p begin="00:04:30.850" end="00:04:35.350" style="s2">where I had a real Apple and I had a</p>
+<p begin="00:04:32.680" end="00:04:36.610" style="s2">sort of a superb normal fake apple the</p>
+<p begin="00:04:35.350" end="00:04:38.169" style="s2">child might actually select the fake</p>
+<p begin="00:04:36.610" end="00:04:39.760" style="s2">Apple in spite of the fact that it</p>
+<p begin="00:04:38.169" end="00:04:42.460" style="s2">doesn&#39;t you can&#39;t eat it as no nutrition</p>
+<p begin="00:04:39.760" end="00:04:44.470" style="s2">in it and these experiment experiments</p>
+<p begin="00:04:42.460" end="00:04:46.060" style="s2">have in fact been done famously for</p>
+<p begin="00:04:44.470" end="00:04:49.360" style="s2">example with a certain species of bird</p>
+<p begin="00:04:46.060" end="00:04:51.940" style="s2">that sort of dispensed with a lot of the</p>
+<p begin="00:04:49.360" end="00:04:53.669" style="s2">nonsense of what it means for a mother</p>
+<p begin="00:04:51.940" end="00:04:56.320" style="s2">bird to encounter a baby bird and</p>
+<p begin="00:04:53.669" end="00:04:59.800" style="s2">evolution notice that as long as the</p>
+<p begin="00:04:56.320" end="00:05:01.690" style="s2">mother bird is feeding patches of you</p>
+<p begin="00:04:59.800" end="00:05:03.640" style="s2">know red that are sort of vaguely</p>
+<p begin="00:05:01.690" end="00:05:05.740" style="s2">circular shaped at a certain height and</p>
+<p begin="00:05:03.640" end="00:05:10.990" style="s2">distance then that turns out to be</p>
+<p begin="00:05:05.740" end="00:05:13.360" style="s2">enough so the mothers want capacity is</p>
+<p begin="00:05:10.990" end="00:05:14.710" style="s2">oriented towards patches of red it&#39;s</p>
+<p begin="00:05:13.360" end="00:05:17.050" style="s2">need fulness of course is to actually</p>
+<p begin="00:05:14.710" end="00:05:19.720" style="s2">feed its offspring but that separation</p>
+<p begin="00:05:17.050" end="00:05:21.460" style="s2">is real and so the mother only really</p>
+<p begin="00:05:19.720" end="00:05:23.590" style="s2">identifies its heuristic is patches of</p>
+<p begin="00:05:21.460" end="00:05:25.960" style="s2">red of a certain intensity in color and</p>
+<p begin="00:05:23.590" end="00:05:28.479" style="s2">if an enterprising and of course this</p>
+<p begin="00:05:25.960" end="00:05:30.070" style="s2">sort of thing is works in the nest right</p>
+<p begin="00:05:28.479" end="00:05:31.930" style="s2">we rarely if ever is that ever going to</p>
+<p begin="00:05:30.070" end="00:05:35.050" style="s2">encounter a patch of red of a certain</p>
+<p begin="00:05:31.930" end="00:05:36.550" style="s2">size and location in nature but if an</p>
+<p begin="00:05:35.050" end="00:05:38.800" style="s2">enterprising young scientist comes along</p>
+<p begin="00:05:36.550" end="00:05:41.290" style="s2">in plants little sticks with patches of</p>
+<p begin="00:05:38.800" end="00:05:43.750" style="s2">red that are more red and more of the</p>
+<p begin="00:05:41.290" end="00:05:46.150" style="s2">right shape than the big birds then the</p>
+<p begin="00:05:43.750" end="00:05:49.720" style="s2">mother will in fact actually try to feed</p>
+<p begin="00:05:46.150" end="00:05:51.220" style="s2">the the fake maybe bird to the detriment</p>
+<p begin="00:05:49.720" end="00:05:54.729" style="s2">of its own offspring all right so this</p>
+<p begin="00:05:51.220" end="00:05:57.190" style="s2">is the this is the point we are even we</p>
+<p begin="00:05:54.729" end="00:05:59.260" style="s2">humans are relatively helpless when it</p>
+<p begin="00:05:57.190" end="00:06:02.080" style="s2">comes to these deeply evolved mechanisms</p>
+<p begin="00:05:59.260" end="00:06:05.470" style="s2">for trying to connect what we want to</p>
+<p begin="00:06:02.080" end="00:06:06.490" style="s2">what we need and then of course the the</p>
+<p begin="00:06:05.470" end="00:06:10.090" style="s2">real problem that we&#39;re encountering</p>
+<p begin="00:06:06.490" end="00:06:11.410" style="s2">somewhere massively now is that we</p>
+<p begin="00:06:10.090" end="00:06:15.960" style="s2">humans have become extraordinarily</p>
+<p begin="00:06:11.410" end="00:06:19.030" style="s2">capable of giving ourselves what we want</p>
+<p begin="00:06:15.960" end="00:06:21.550" style="s2">but haven&#39;t actually yet reached</p>
+<p begin="00:06:19.030" end="00:06:24.940" style="s2">anywhere near the same capability of</p>
+<p begin="00:06:21.550" end="00:06:26.560" style="s2">being able to ensure a binding in actual</p>
+<p begin="00:06:24.940" end="00:06:29.229" style="s2">lived reality between what we want and</p>
+<p begin="00:06:26.560" end="00:06:31.810" style="s2">what we need so junk food for example</p>
+<p begin="00:06:29.229" end="00:06:34.360" style="s2">cotton candy here&#39;s something where</p>
+<p begin="00:06:31.810" end="00:06:35.979" style="s2">we&#39;ve been able to extract the essence</p>
+<p begin="00:06:34.360" end="00:06:37.690" style="s2">of sweetness which would attach to the</p>
+<p begin="00:06:35.979" end="00:06:39.550" style="s2">context of an apple is associated with</p>
+<p begin="00:06:37.690" end="00:06:40.420" style="s2">something that is in fact good for a</p>
+<p begin="00:06:39.550" end="00:06:43.420" style="s2">primate</p>
+<p begin="00:06:40.420" end="00:06:45.130" style="s2">in the forest but we&#39;ve abstracted it</p>
+<p begin="00:06:43.420" end="00:06:46.660" style="s2">from that context we&#39;ve intensified it</p>
+<p begin="00:06:45.130" end="00:06:49.270" style="s2">in the form of say cotton candy or</p>
+<p begin="00:06:46.660" end="00:06:50.620" style="s2">skittles and we&#39;ve completely eliminated</p>
+<p begin="00:06:49.270" end="00:06:53.100" style="s2">the nutritional content that made it</p>
+<p begin="00:06:50.620" end="00:06:56.140" style="s2">needful in the first place</p>
+<p begin="00:06:53.100" end="00:06:58.480" style="s2">and in point of fact actually in a</p>
+<p begin="00:06:56.140" end="00:07:01.750" style="s2">market environment where you&#39;re actually</p>
+<p begin="00:06:58.480" end="00:07:04.330" style="s2">playing precisely with the limits of a</p>
+<p begin="00:07:01.750" end="00:07:05.680" style="s2">human beings capacity to make sense of</p>
+<p begin="00:07:04.330" end="00:07:07.570" style="s2">the binding between what they want and</p>
+<p begin="00:07:05.680" end="00:07:09.010" style="s2">what they need meaning if you give</p>
+<p begin="00:07:07.570" end="00:07:10.420" style="s2">people if you spend the energy you spend</p>
+<p begin="00:07:09.010" end="00:07:12.580" style="s2">the money and effort to give people what</p>
+<p begin="00:07:10.420" end="00:07:14.860" style="s2">they need even if they have no capacity</p>
+<p begin="00:07:12.580" end="00:07:17.140" style="s2">to actually know it because they don&#39;t</p>
+<p begin="00:07:14.860" end="00:07:18.880" style="s2">want it you know what they knew that but</p>
+<p begin="00:07:17.140" end="00:07:21.010" style="s2">they don&#39;t want you&#39;re very unlikely to</p>
+<p begin="00:07:18.880" end="00:07:22.600" style="s2">be rewarded in the market place and of</p>
+<p begin="00:07:21.010" end="00:07:24.070" style="s2">course you&#39;ll probably be punished if as</p>
+<p begin="00:07:22.600" end="00:07:25.960" style="s2">a consequence for your product costs</p>
+<p begin="00:07:24.070" end="00:07:28.930" style="s2">more so of course the market players</p>
+<p begin="00:07:25.960" end="00:07:30.370" style="s2">will tend to select for and increasing</p>
+<p begin="00:07:28.930" end="00:07:34.090" style="s2">skillfulness and being able to identify</p>
+<p begin="00:07:30.370" end="00:07:36.430" style="s2">isolate and produce supernormal stimuli</p>
+<p begin="00:07:34.090" end="00:07:38.650" style="s2">to produce wants that are increasingly</p>
+<p begin="00:07:36.430" end="00:07:40.660" style="s2">abstracted and separate from needs and</p>
+<p begin="00:07:38.650" end="00:07:44.410" style="s2">and I don&#39;t really have to put this in</p>
+<p begin="00:07:40.660" end="00:07:46.360" style="s2">the lap of modern humanity huge portions</p>
+<p begin="00:07:44.410" end="00:07:49.390" style="s2">of what makes up culture are supernormal</p>
+<p begin="00:07:46.360" end="00:07:51.730" style="s2">stimuli and music all forms of</p>
+<p begin="00:07:49.390" end="00:07:54.820" style="s2">storytelling you know all forms of</p>
+<p begin="00:07:51.730" end="00:07:57.790" style="s2">fashion and dress and makeup I mean</p>
+<p begin="00:07:54.820" end="00:07:59.830" style="s2">frankly many of our vocal inflections</p>
+<p begin="00:07:57.790" end="00:08:01.750" style="s2">are themselves supernormal stimuli</p>
+<p begin="00:07:59.830" end="00:08:05.230" style="s2">because we have this capacity to</p>
+<p begin="00:08:01.750" end="00:08:09.250" style="s2">identify what other people want and what</p>
+<p begin="00:08:05.230" end="00:08:11.860" style="s2">we want and to generate that in the</p>
+<p begin="00:08:09.250" end="00:08:14.110" style="s2">world but connecting beyond that leap it</p>
+<p begin="00:08:11.860" end="00:08:17.560" style="s2">leap in the gap to wants and needs is so</p>
+<p begin="00:08:14.110" end="00:08:19.030" style="s2">far proven to be very difficult didn&#39;t</p>
+<p begin="00:08:17.560" end="00:08:21.730" style="s2">they just I&#39;ll just do story time very</p>
+<p begin="00:08:19.030" end="00:08:24.190" style="s2">quickly so you know the heuristic the</p>
+<p begin="00:08:21.730" end="00:08:27.960" style="s2">the underlying evolved attraction to say</p>
+<p begin="00:08:24.190" end="00:08:31.780" style="s2">for example gossip makes sense because</p>
+<p begin="00:08:27.960" end="00:08:33.670" style="s2">in a human society the well-being of the</p>
+<p begin="00:08:31.780" end="00:08:36.490" style="s2">tribus is crucial right if I if I as an</p>
+<p begin="00:08:33.670" end="00:08:37.900" style="s2">individual utterly dependent on the</p>
+<p begin="00:08:36.490" end="00:08:39.670" style="s2">well-being of my tribe of a tribe begins</p>
+<p begin="00:08:37.900" end="00:08:41.710" style="s2">to break apart in some way I&#39;m in deep</p>
+<p begin="00:08:39.670" end="00:08:44.229" style="s2">trouble right so it&#39;s important for me</p>
+<p begin="00:08:41.710" end="00:08:46.420" style="s2">to always be ever so slightly tuned to</p>
+<p begin="00:08:44.229" end="00:08:49.210" style="s2">how well the tribe is doing and it&#39;s</p>
+<p begin="00:08:46.420" end="00:08:50.980" style="s2">therefore attractive like I will in fact</p>
+<p begin="00:08:49.210" end="00:08:52.900" style="s2">be paying attention when there&#39;s some</p>
+<p begin="00:08:50.980" end="00:08:53.590" style="s2">sense there&#39;s some signal being passed</p>
+<p begin="00:08:52.900" end="00:08:55.060" style="s2">the</p>
+<p begin="00:08:53.590" end="00:08:58.870" style="s2">there&#39;s some kind of breakdown so I can</p>
+<p begin="00:08:55.060" end="00:09:01.420" style="s2">make sense of it and respond to it but</p>
+<p begin="00:08:58.870" end="00:09:04.240" style="s2">of course the the actual reality of</p>
+<p begin="00:09:01.420" end="00:09:07.300" style="s2">human relationships is relatively spare</p>
+<p begin="00:09:04.240" end="00:09:09.460" style="s2">right I have had a few quite significant</p>
+<p begin="00:09:07.300" end="00:09:11.200" style="s2">intense experiences in my life</p>
+<p begin="00:09:09.460" end="00:09:12.790" style="s2">few of any are ever going to reach the</p>
+<p begin="00:09:11.200" end="00:09:15.940" style="s2">level that maybe I see in a movie or</p>
+<p begin="00:09:12.790" end="00:09:18.370" style="s2">read about in a book and they certainly</p>
+<p begin="00:09:15.940" end="00:09:20.020" style="s2">don&#39;t occur with the cominis that is</p>
+<p begin="00:09:18.370" end="00:09:22.060" style="s2">available when you turn on the TV and</p>
+<p begin="00:09:20.020" end="00:09:23.380" style="s2">just slip through the channels and so as</p>
+<p begin="00:09:22.060" end="00:09:25.900" style="s2">a consequence we have this evolved</p>
+<p begin="00:09:23.380" end="00:09:29.170" style="s2">capacity to be sensitive to drama and to</p>
+<p begin="00:09:25.900" end="00:09:33.010" style="s2">enter gossip but we have a learned</p>
+<p begin="00:09:29.170" end="00:09:34.960" style="s2">ability to produce that output in orders</p>
+<p begin="00:09:33.010" end="00:09:37.450" style="s2">of magnitude in terms both intensity and</p>
+<p begin="00:09:34.960" end="00:09:38.920" style="s2">in regularity then is part of our</p>
+<p begin="00:09:37.450" end="00:09:40.240" style="s2">natural environment and so of course we</p>
+<p begin="00:09:38.920" end="00:09:42.720" style="s2">now live in a world we&#39;re gonna read</p>
+<p begin="00:09:40.240" end="00:09:46.150" style="s2">People magazine and people go and watch</p>
+<p begin="00:09:42.720" end="00:09:48.040" style="s2">you know Avengers age of Ultron these</p>
+<p begin="00:09:46.150" end="00:09:52.600" style="s2">are just a different way of packaging</p>
+<p begin="00:09:48.040" end="00:09:55.120" style="s2">the notion of supernormal stimuli and I</p>
+<p begin="00:09:52.600" end="00:09:58.150" style="s2">hope you know the key thing here at this</p>
+<p begin="00:09:55.120" end="00:10:00.520" style="s2">level is to recognize that left to its</p>
+<p begin="00:09:58.150" end="00:10:05.170" style="s2">own devices this is disastrous that</p>
+<p begin="00:10:00.520" end="00:10:07.450" style="s2">there&#39;s a massive breakdown in adaptive</p>
+<p begin="00:10:05.170" end="00:10:09.460" style="s2">capacity when we get what we want</p>
+<p begin="00:10:07.450" end="00:10:10.780" style="s2">without regard to what we need it&#39;s a</p>
+<p begin="00:10:09.460" end="00:10:12.730" style="s2">huge Jam I mean it&#39;s effectively the</p>
+<p begin="00:10:10.780" end="00:10:14.260" style="s2">same thing as taking heroin instead of</p>
+<p begin="00:10:12.730" end="00:10:15.850" style="s2">actually being successful in life or</p>
+<p begin="00:10:14.260" end="00:10:16.900" style="s2">spending all day long and clicking on</p>
+<p begin="00:10:15.850" end="00:10:18.730" style="s2">your phone instead of making good</p>
+<p begin="00:10:16.900" end="00:10:20.620" style="s2">decisions right you&#39;re you&#39;re you&#39;re</p>
+<p begin="00:10:18.730" end="00:10:22.480" style="s2">we&#39;re addicted we all addictions at the</p>
+<p begin="00:10:20.620" end="00:10:24.370" style="s2">end of the day are addictions to certain</p>
+<p begin="00:10:22.480" end="00:10:25.960" style="s2">neurotransmitters and supernormal</p>
+<p begin="00:10:24.370" end="00:10:27.730" style="s2">stimuli are different phenomenal</p>
+<p begin="00:10:25.960" end="00:10:29.440" style="s2">mechanisms for allowing us to be fully</p>
+<p begin="00:10:27.730" end="00:10:31.720" style="s2">addicted to certain neurotransmitters</p>
+<p begin="00:10:29.440" end="00:10:33.850" style="s2">without regard at all or at least</p>
+<p begin="00:10:31.720" end="00:10:35.110" style="s2">without much regard to the degree to</p>
+<p begin="00:10:33.850" end="00:10:36.459" style="s2">which those are actually giving us good</p>
+<p begin="00:10:35.110" end="00:10:40.180" style="s2">signs that we&#39;re making good choices in</p>
+<p begin="00:10:36.459" end="00:10:43.060" style="s2">in our lives and you know in the</p>
+<p begin="00:10:40.180" end="00:10:45.100" style="s2">contemporary social environment the</p>
+<p begin="00:10:43.060" end="00:10:47.170" style="s2">culture that we live in now supernormal</p>
+<p begin="00:10:45.100" end="00:10:49.209" style="s2">stimuli are supersaturated in this is</p>
+<p begin="00:10:47.170" end="00:10:52.089" style="s2">breaking down our individual collective</p>
+<p begin="00:10:49.209" end="00:10:53.709" style="s2">capacity so how might we respond to that</p>
+<p begin="00:10:52.089" end="00:10:56.620" style="s2">and here&#39;s where I have something which</p>
+<p begin="00:10:53.709" end="00:10:59.440" style="s2">is very much conjecture but I think it&#39;s</p>
+<p begin="00:10:56.620" end="00:11:01.029" style="s2">very interesting because I suspect we</p>
+<p begin="00:10:59.440" end="00:11:03.070" style="s2">may have actually figured this out we</p>
+<p begin="00:11:01.029" end="00:11:05.649" style="s2">just have lost a thread I would like to</p>
+<p begin="00:11:03.070" end="00:11:07.689" style="s2">propose for your consideration</p>
+<p begin="00:11:05.649" end="00:11:09.369" style="s2">the concept of the sacred and the</p>
+<p begin="00:11:07.689" end="00:11:11.649" style="s2">various other things that are associated</p>
+<p begin="00:11:09.369" end="00:11:16.389" style="s2">with the sacred like awe and reverence</p>
+<p begin="00:11:11.649" end="00:11:19.389" style="s2">and humility are actually precisely the</p>
+<p begin="00:11:16.389" end="00:11:21.819" style="s2">right response to supernormal stimuli in</p>
+<p begin="00:11:19.389" end="00:11:25.029" style="s2">fact may have been fact been developed</p>
+<p begin="00:11:21.819" end="00:11:28.749" style="s2">among humans for that reason so if we</p>
+<p begin="00:11:25.029" end="00:11:32.800" style="s2">think for example of alcohol and you</p>
+<p begin="00:11:28.749" end="00:11:37.149" style="s2">notice that in many traditions alcohol</p>
+<p begin="00:11:32.800" end="00:11:40.029" style="s2">is is obligated to be bound to some kind</p>
+<p begin="00:11:37.149" end="00:11:42.129" style="s2">of sacred context and so on some</p>
+<p begin="00:11:40.029" end="00:11:44.769" style="s2">periodic basis we get together we drink</p>
+<p begin="00:11:42.129" end="00:11:46.179" style="s2">wine we get drunk and when we&#39;re outside</p>
+<p begin="00:11:44.769" end="00:11:49.480" style="s2">of that context it is absolutely</p>
+<p begin="00:11:46.179" end="00:11:51.639" style="s2">prohibited this may actually be an</p>
+<p begin="00:11:49.480" end="00:11:54.970" style="s2">awesome way to make use of the fact of</p>
+<p begin="00:11:51.639" end="00:11:58.869" style="s2">supernormal stimuli on one hand the</p>
+<p begin="00:11:54.970" end="00:12:01.059" style="s2">ability to do a religious or a profane</p>
+<p begin="00:11:58.869" end="00:12:02.499" style="s2">prohibition of something really</p>
+<p begin="00:12:01.059" end="00:12:04.209" style="s2">effectively police&#39;s what otherwise</p>
+<p begin="00:12:02.499" end="00:12:07.420" style="s2">might be a very difficult thing to avoid</p>
+<p begin="00:12:04.209" end="00:12:09.160" style="s2">it uses social system feedback to help</p>
+<p begin="00:12:07.420" end="00:12:11.319" style="s2">people make the choice not to get</p>
+<p begin="00:12:09.160" end="00:12:12.970" style="s2">addicted to something and but then on</p>
+<p begin="00:12:11.319" end="00:12:15.249" style="s2">the other hand the release valve of</p>
+<p begin="00:12:12.970" end="00:12:17.230" style="s2">having access to that in a context which</p>
+<p begin="00:12:15.249" end="00:12:19.329" style="s2">is designed if it&#39;s well designed to</p>
+<p begin="00:12:17.230" end="00:12:20.740" style="s2">reinforce meaningful things you know so</p>
+<p begin="00:12:19.329" end="00:12:22.089" style="s2">if we have this sacred ritual where we</p>
+<p begin="00:12:20.740" end="00:12:24.870" style="s2">consume alcohol and it connects to</p>
+<p begin="00:12:22.089" end="00:12:27.579" style="s2">things like creativity conviviality</p>
+<p begin="00:12:24.870" end="00:12:30.879" style="s2">connection to that which is greater than</p>
+<p begin="00:12:27.579" end="00:12:32.079" style="s2">ourselves liminal States various ways of</p>
+<p begin="00:12:30.879" end="00:12:33.519" style="s2">opening up and shifting and shaping</p>
+<p begin="00:12:32.079" end="00:12:35.589" style="s2">relationships if you could create that</p>
+<p begin="00:12:33.519" end="00:12:37.420" style="s2">sacred container and then in that</p>
+<p begin="00:12:35.589" end="00:12:39.879" style="s2">container invests it with the</p>
+<p begin="00:12:37.420" end="00:12:43.120" style="s2">attractiveness of supernormal stimuli</p>
+<p begin="00:12:39.879" end="00:12:44.470" style="s2">and then anything other positive aspects</p>
+<p begin="00:12:43.120" end="00:12:45.999" style="s2">that happen to open up what supernormal</p>
+<p begin="00:12:44.470" end="00:12:47.740" style="s2">this particular set of supernormal</p>
+<p begin="00:12:45.999" end="00:12:49.679" style="s2">stimuli power alright you&#39;ve actually</p>
+<p begin="00:12:47.740" end="00:12:51.879" style="s2">invented a very powerful tool for</p>
+<p begin="00:12:49.679" end="00:12:54.490" style="s2">shifting a lot of the negative potential</p>
+<p begin="00:12:51.879" end="00:12:57.519" style="s2">of supernormal into it may be a very</p>
+<p begin="00:12:54.490" end="00:12:59.679" style="s2">powerful binding energy that is deeply</p>
+<p begin="00:12:57.519" end="00:13:03.429" style="s2">needful for the human beings they&#39;re</p>
+<p begin="00:12:59.679" end="00:13:05.439" style="s2">using it and so so maybe that&#39;s exactly</p>
+<p begin="00:13:03.429" end="00:13:08.619" style="s2">right you can think about Oh for example</p>
+<p begin="00:13:05.439" end="00:13:10.059" style="s2">that ah is what happens when we</p>
+<p begin="00:13:08.619" end="00:13:13.569" style="s2">encounter something which is super</p>
+<p begin="00:13:10.059" end="00:13:14.709" style="s2">normal to our ordinary perception so I</p>
+<p begin="00:13:13.569" end="00:13:17.100" style="s2">said when you encounter something like</p>
+<p begin="00:13:14.709" end="00:13:19.440" style="s2">the Grand Canyon this is massively more</p>
+<p begin="00:13:17.100" end="00:13:21.240" style="s2">tense and experience then is part of the</p>
+<p begin="00:13:19.440" end="00:13:22.680" style="s2">hominin devolved environment in most</p>
+<p begin="00:13:21.240" end="00:13:24.900" style="s2">people&#39;s developmental environment so</p>
+<p begin="00:13:22.680" end="00:13:27.660" style="s2">you enter into it and the part of you</p>
+<p begin="00:13:24.900" end="00:13:30.030" style="s2">that is designed to evaluate the quality</p>
+<p begin="00:13:27.660" end="00:13:33.000" style="s2">of an environment for say its fitness</p>
+<p begin="00:13:30.030" end="00:13:34.860" style="s2">for habitation is just inadequate to</p>
+<p begin="00:13:33.000" end="00:13:36.720" style="s2">process this grandeur and so pow you&#39;re</p>
+<p begin="00:13:34.860" end="00:13:38.910" style="s2">hit you&#39;re super normally overloaded and</p>
+<p begin="00:13:36.720" end="00:13:40.410" style="s2">you feel the sense of awe but we have a</p>
+<p begin="00:13:38.910" end="00:13:43.230" style="s2">notion of a relationship a right</p>
+<p begin="00:13:40.410" end="00:13:46.050" style="s2">relationship to to awe a notion for</p>
+<p begin="00:13:43.230" end="00:13:47.640" style="s2">example the the word awful that one</p>
+<p begin="00:13:46.050" end="00:13:50.760" style="s2">should be very careful in relationship</p>
+<p begin="00:13:47.640" end="00:13:52.200" style="s2">to awe you know a notion of humility</p>
+<p begin="00:13:50.760" end="00:13:53.880" style="s2">that perhaps one should have is as a</p>
+<p begin="00:13:52.200" end="00:13:56.460" style="s2">reverence and relationship to those</p>
+<p begin="00:13:53.880" end="00:13:58.770" style="s2">things that have this characteristic and</p>
+<p begin="00:13:56.460" end="00:14:02.100" style="s2">so perhaps the toolkit already was</p>
+<p begin="00:13:58.770" end="00:14:03.240" style="s2">developed that early humans already were</p>
+<p begin="00:14:02.100" end="00:14:05.220" style="s2">running up against the problem</p>
+<p begin="00:14:03.240" end="00:14:07.830" style="s2">supernormal stimuli and they developed</p>
+<p begin="00:14:05.220" end="00:14:10.410" style="s2">an entire set of practices that were</p>
+<p begin="00:14:07.830" end="00:14:12.590" style="s2">adapted to this problem and were able to</p>
+<p begin="00:14:10.410" end="00:14:14.700" style="s2">reposition it in the direction of being</p>
+<p begin="00:14:12.590" end="00:14:19.440" style="s2">adapted for the individuals and the</p>
+<p begin="00:14:14.700" end="00:14:21.000" style="s2">societies so then if that&#39;s true and the</p>
+<p begin="00:14:19.440" end="00:14:22.590" style="s2">question would then be can we use it is</p>
+<p begin="00:14:21.000" end="00:14:28.080" style="s2">that it took at the we can make use of</p>
+<p begin="00:14:22.590" end="00:14:31.170" style="s2">can we can we moderns rein in our insane</p>
+<p begin="00:14:28.080" end="00:14:35.700" style="s2">and reckless proliferation supernormal</p>
+<p begin="00:14:31.170" end="00:14:37.320" style="s2">stimuli in all directions and we harness</p>
+<p begin="00:14:35.700" end="00:14:40.470" style="s2">that energy that capacity in that</p>
+<p begin="00:14:37.320" end="00:14:43.890" style="s2">potential in positive directions by</p>
+<p begin="00:14:40.470" end="00:14:46.800" style="s2">making use of this toolkit of the sacred</p>
+<p begin="00:14:43.890" end="00:14:49.680" style="s2">can we for example take our storytelling</p>
+<p begin="00:14:46.800" end="00:14:53.150" style="s2">capability and recognize that the</p>
+<p begin="00:14:49.680" end="00:14:56.880" style="s2">stories that we tell are by definition</p>
+<p begin="00:14:53.150" end="00:14:58.530" style="s2">sacred and and treat them as such can we</p>
+<p begin="00:14:56.880" end="00:15:00.750" style="s2">imagine treating something else say but</p>
+<p begin="00:14:58.530" end="00:15:04.770" style="s2">in all as the Star Wars trilogy as a</p>
+<p begin="00:15:00.750" end="00:15:07.520" style="s2">sacred text and recognized that the the</p>
+<p begin="00:15:04.770" end="00:15:10.620" style="s2">prequels were in fact a profane</p>
+<p begin="00:15:07.520" end="00:15:13.260" style="s2">violation of that sacredness I think all</p>
+<p begin="00:15:10.620" end="00:15:16.560" style="s2">of us intuitively sense that the second</p>
+<p begin="00:15:13.260" end="00:15:19.980" style="s2">third Matrix movies were a certain kind</p>
+<p begin="00:15:16.560" end="00:15:22.020" style="s2">of deep profanity and a violation which</p>
+<p begin="00:15:19.980" end="00:15:24.960" style="s2">is not to say by the way that things</p>
+<p begin="00:15:22.020" end="00:15:26.610" style="s2">like transformers were the highest form</p>
+<p begin="00:15:24.960" end="00:15:29.070" style="s2">of the sacred to be sure they&#39;re already</p>
+<p begin="00:15:26.610" end="00:15:29.540" style="s2">participating in a significant level of</p>
+<p begin="00:15:29.070" end="00:15:33.199" style="s2">profanity</p>
+<p begin="00:15:29.540" end="00:15:36.259" style="s2">but nonetheless we can start somewhere</p>
+<p begin="00:15:33.199" end="00:15:37.699" style="s2">and begin the process is just taking</p>
+<p begin="00:15:36.259" end="00:15:40.399" style="s2">that stance and this is very interesting</p>
+<p begin="00:15:37.699" end="00:15:41.600" style="s2">we don&#39;t do this now we&#39;ve we&#39;ve very</p>
+<p begin="00:15:40.399" end="00:15:42.320" style="s2">much thrown out the baby with the</p>
+<p begin="00:15:41.600" end="00:15:44.750" style="s2">bathwater</p>
+<p begin="00:15:42.320" end="00:15:49.220" style="s2">with regard to the sacred and it may</p>
+<p begin="00:15:44.750" end="00:15:52.399" style="s2">even seem cynically obviously foolish</p>
+<p begin="00:15:49.220" end="00:15:56.149" style="s2">maybe infantile or stupid to imagine the</p>
+<p begin="00:15:52.399" end="00:16:00.139" style="s2">notion of a an artist a creator not</p>
+<p begin="00:15:56.149" end="00:16:02.149" style="s2">being able to ruthlessly exploit through</p>
+<p begin="00:16:00.139" end="00:16:05.480" style="s2">all available commercial merchandising</p>
+<p begin="00:16:02.149" end="00:16:08.930" style="s2">means the object of their creation their</p>
+<p begin="00:16:05.480" end="00:16:10.880" style="s2">stories and yet perhaps that is</p>
+<p begin="00:16:08.930" end="00:16:14.060" style="s2">precisely the antidote and by the way</p>
+<p begin="00:16:10.880" end="00:16:15.949" style="s2">I&#39;m not piling on storytellers I just</p>
+<p begin="00:16:14.060" end="00:16:17.870" style="s2">happened to watch the movie ready player</p>
+<p begin="00:16:15.949" end="00:16:20.149" style="s2">one recently so it&#39;s ready to mind but</p>
+<p begin="00:16:17.870" end="00:16:21.740" style="s2">the same thing goes for everyone else on</p>
+<p begin="00:16:20.149" end="00:16:23.209" style="s2">the planet who is in the process right</p>
+<p begin="00:16:21.740" end="00:16:25.519" style="s2">now of creating some kind of supernormal</p>
+<p begin="00:16:23.209" end="00:16:27.050" style="s2">stimuli that we may in fact find</p>
+<p begin="00:16:25.519" end="00:16:29.149" style="s2">ourselves in a contemporary environment</p>
+<p begin="00:16:27.050" end="00:16:33.550" style="s2">of having to recognize the need fulness</p>
+<p begin="00:16:29.149" end="00:16:36.709" style="s2">of perceiving the sacred everywhere and</p>
+<p begin="00:16:33.550" end="00:16:41.649" style="s2">therefore becoming very good at things</p>
+<p begin="00:16:36.709" end="00:16:46.449" style="s2">like awe and reverence and humility</p>
+<p begin="00:16:41.649" end="00:16:46.449" style="s2">well perhaps worth consideration</p>
+</div>
+</body>
+</tt>

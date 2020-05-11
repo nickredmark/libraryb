@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.850" end="00:00:04.419" style="s2">[Music]</p>
+<p begin="00:00:04.550" end="00:00:10.139" style="s2">so why we call the product qualia most</p>
+<p begin="00:00:09.030" end="00:00:12.720" style="s2">people won&#39;t know what that word means</p>
+<p begin="00:00:10.139" end="00:00:14.910" style="s2">and it&#39;ll just sound like a cool name</p>
+<p begin="00:00:12.720" end="00:00:16.410" style="s2">hopefully a cool name but for those who</p>
+<p begin="00:00:14.910" end="00:00:20.570" style="s2">do the term comes from philosophy of</p>
+<p begin="00:00:16.410" end="00:00:22.890" style="s2">mind and quality refers to the</p>
+<p begin="00:00:20.570" end="00:00:24.570" style="s2">subjective experiences that make up</p>
+<p begin="00:00:22.890" end="00:00:26.609" style="s2">someone&#39;s subjective landscape the</p>
+<p begin="00:00:24.570" end="00:00:28.230" style="s2">quality of what it is like to exist and</p>
+<p begin="00:00:26.609" end="00:00:30.230" style="s2">to being you so where the physical</p>
+<p begin="00:00:28.230" end="00:00:32.730" style="s2">universe is made up of particles and</p>
+<p begin="00:00:30.230" end="00:00:35.220" style="s2">physical force fields subjective</p>
+<p begin="00:00:32.730" end="00:00:38.760" style="s2">universe is made up of emotions and</p>
+<p begin="00:00:35.220" end="00:00:41.219" style="s2">feelings and impulses and intuitions and</p>
+<p begin="00:00:38.760" end="00:00:43.829" style="s2">meaning and these are known as quality</p>
+<p begin="00:00:41.219" end="00:00:46.950" style="s2">it&#39;s a subjective substrate spewing</p>
+<p begin="00:00:43.829" end="00:00:49.410" style="s2">experience of naming the product qualia</p>
+<p begin="00:00:46.950" end="00:00:51.870" style="s2">were alluding to the idea of condensing</p>
+<p begin="00:00:49.410" end="00:00:53.850" style="s2">not just some very limited aspects of</p>
+<p begin="00:00:51.870" end="00:00:55.379" style="s2">cognitive capability like short-term</p>
+<p begin="00:00:53.850" end="00:00:57.239" style="s2">memory and long-term memory but</p>
+<p begin="00:00:55.379" end="00:01:00.690" style="s2">enhancing the quality of what it was</p>
+<p begin="00:00:57.239" end="00:01:04.229" style="s2">like to be enhancing your experience of</p>
+<p begin="00:01:00.690" end="00:01:06.030" style="s2">navigating existing and that&#39;s lost in</p>
+<p begin="00:01:04.229" end="00:01:07.130" style="s2">its Baigent aspiration is really what</p>
+<p begin="00:01:06.030" end="00:01:11.849" style="s2">we&#39;re shooting</p>
+<p begin="00:01:07.130" end="00:01:11.849" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:05.520" style="s2">hey episode 12 as you may have noticed</p>
+<p begin="00:00:03.360" end="00:00:07.620" style="s2">I&#39;ve got my microphone very close to my</p>
+<p begin="00:00:05.520" end="00:00:08.970" style="s2">mouth so hopefully this will actually</p>
+<p begin="00:00:07.620" end="00:00:11.340" style="s2">help solve some of the problems with</p>
+<p begin="00:00:08.970" end="00:00:12.480" style="s2">volume before josh gets the chance to</p>
+<p begin="00:00:11.340" end="00:00:13.049" style="s2">come help me set this thing up more</p>
+<p begin="00:00:12.480" end="00:00:14.790" style="s2">formally</p>
+<p begin="00:00:13.049" end="00:00:16.820" style="s2">maybe I&#39;ll go this way so you can</p>
+<p begin="00:00:14.790" end="00:00:20.130" style="s2">actually see how cool the microphone is</p>
+<p begin="00:00:16.820" end="00:00:22.470" style="s2">all right so episode 12 I thought what I</p>
+<p begin="00:00:20.130" end="00:00:25.980" style="s2">do today is tackle the very fun and</p>
+<p begin="00:00:22.470" end="00:00:28.320" style="s2">useful concept of phase space this</p>
+<p begin="00:00:25.980" end="00:00:29.939" style="s2">concept was actually referenced in the</p>
+<p begin="00:00:28.320" end="00:00:32.899" style="s2">episode around the Kineton framework and</p>
+<p begin="00:00:29.939" end="00:00:35.399" style="s2">at the end of this I&#39;ll loop back and</p>
+<p begin="00:00:32.899" end="00:00:38.510" style="s2">connecting it back in any frame right</p>
+<p begin="00:00:35.399" end="00:00:41.100" style="s2">now and just do face based on his own so</p>
+<p begin="00:00:38.510" end="00:00:42.930" style="s2">Facebook&#39;s this takers our model a</p>
+<p begin="00:00:41.100" end="00:00:44.489" style="s2">bicycle and we&#39;re trying to do is we&#39;re</p>
+<p begin="00:00:42.930" end="00:00:47.399" style="s2">trying to get a handle on how to model</p>
+<p begin="00:00:44.489" end="00:00:49.710" style="s2">the relevant information that describes</p>
+<p begin="00:00:47.399" end="00:00:52.829" style="s2">some kind of system so in the case of a</p>
+<p begin="00:00:49.710" end="00:00:54.600" style="s2">bicycle we have about five fundamental</p>
+<p begin="00:00:52.829" end="00:00:56.730" style="s2">degrees of freedom you&#39;ve got the</p>
+<p begin="00:00:54.600" end="00:00:58.289" style="s2">position of the back wheel we&#39;ve got the</p>
+<p begin="00:00:56.730" end="00:01:00.390" style="s2">position of the chain we&#39;ve got the</p>
+<p begin="00:00:58.289" end="00:01:04.799" style="s2">pedals got the front wheel about the</p>
+<p begin="00:01:00.390" end="00:01:06.260" style="s2">handlebars and you know absent for</p>
+<p begin="00:01:04.799" end="00:01:09.689" style="s2">example trying to do things like</p>
+<p begin="00:01:06.260" end="00:01:12.780" style="s2">position the bike itself and XYZ space</p>
+<p begin="00:01:09.689" end="00:01:15.600" style="s2">and Teton and maybe position the entire</p>
+<p begin="00:01:12.780" end="00:01:20.000" style="s2">orientation of the bike in that time in</p>
+<p begin="00:01:15.600" end="00:01:22.320" style="s2">that space is so four more dimensions</p>
+<p begin="00:01:20.000" end="00:01:23.970" style="s2">we&#39;ve pretty much done I said you got</p>
+<p begin="00:01:22.320" end="00:01:25.290" style="s2">either five dimensions to get the the</p>
+<p begin="00:01:23.970" end="00:01:30.119" style="s2">space of the state and all those</p>
+<p begin="00:01:25.290" end="00:01:31.229" style="s2">characteristics or seven more dimensions</p>
+<p begin="00:01:30.119" end="00:01:32.970" style="s2">if you want to really map this thing</p>
+<p begin="00:01:31.229" end="00:01:33.840" style="s2">close that was just due to the five so</p>
+<p begin="00:01:32.970" end="00:01:35.130" style="s2">now what we do is to say okay the</p>
+<p begin="00:01:33.840" end="00:01:37.290" style="s2">degrees of freedom in each the</p>
+<p begin="00:01:35.130" end="00:01:41.040" style="s2">dimensions well nicely enough the the</p>
+<p begin="00:01:37.290" end="00:01:44.070" style="s2">back wheel the chain the pedals and the</p>
+<p begin="00:01:41.040" end="00:01:45.689" style="s2">front wheel are all just grabbed by</p>
+<p begin="00:01:44.070" end="00:01:47.070" style="s2">circle so I think they go around and</p>
+<p begin="00:01:45.689" end="00:01:49.409" style="s2">they repeat the same thing so they&#39;re</p>
+<p begin="00:01:47.070" end="00:01:52.500" style="s2">just a they&#39;re a model that describes</p>
+<p begin="00:01:49.409" end="00:01:54.030" style="s2">and say 360 degrees you can identify</p>
+<p begin="00:01:52.500" end="00:01:55.829" style="s2">where they are at any point in time and</p>
+<p begin="00:01:54.030" end="00:01:57.450" style="s2">done so you&#39;ve got a variable that</p>
+<p begin="00:01:55.829" end="00:02:00.270" style="s2">describes the the back wheel in terms of</p>
+<p begin="00:01:57.450" end="00:02:01.500" style="s2">where it is in its rotation around 360</p>
+<p begin="00:02:00.270" end="00:02:04.890" style="s2">degrees in the chain the pedal in the</p>
+<p begin="00:02:01.500" end="00:02:06.750" style="s2">front wheel now of course the front</p>
+<p begin="00:02:04.890" end="00:02:09.000" style="s2">wheel also has the ability to have is a</p>
+<p begin="00:02:06.750" end="00:02:11.700" style="s2">separate dimensional behavior I can you</p>
+<p begin="00:02:09.000" end="00:02:13.260" style="s2">can turn and of course the part of the</p>
+<p begin="00:02:11.700" end="00:02:15.360" style="s2">Barr&#39;s do as well so now we have to do</p>
+<p begin="00:02:13.260" end="00:02:16.980" style="s2">is we have to add another dimension for</p>
+<p begin="00:02:15.360" end="00:02:19.560" style="s2">the orientation of the front wheel and</p>
+<p begin="00:02:16.980" end="00:02:21.739" style="s2">the same dimension for the orientation</p>
+<p begin="00:02:19.560" end="00:02:24.840" style="s2">of the Hana boxes it&#39;s a 45 degree</p>
+<p begin="00:02:21.739" end="00:02:25.890" style="s2">rotation so now with this set of</p>
+<p begin="00:02:24.840" end="00:02:28.110" style="s2">dimensions in these set of</p>
+<p begin="00:02:25.890" end="00:02:30.750" style="s2">characteristics we have the ability to</p>
+<p begin="00:02:28.110" end="00:02:32.970" style="s2">actually fully describe the state of the</p>
+<p begin="00:02:30.750" end="00:02:36.180" style="s2">bicycle at any point in time so I can</p>
+<p begin="00:02:32.970" end="00:02:39.810" style="s2">take a spot and I can say okay given the</p>
+<p begin="00:02:36.180" end="00:02:41.849" style="s2">state so we&#39;re around 360 degrees is the</p>
+<p begin="00:02:39.810" end="00:02:44.370" style="s2">back wheel the chain the pedal front</p>
+<p begin="00:02:41.849" end="00:02:45.870" style="s2">wheel we&#39;re in the 45 degree arc because</p>
+<p begin="00:02:44.370" end="00:02:48.989" style="s2">that is the front wheel and the</p>
+<p begin="00:02:45.870" end="00:02:51.209" style="s2">handlebars and that there would be one</p>
+<p begin="00:02:48.989" end="00:02:54.769" style="s2">point that is the unity or this value of</p>
+<p begin="00:02:51.209" end="00:02:57.000" style="s2">all of those different dimensions and</p>
+<p begin="00:02:54.769" end="00:02:59.549" style="s2">that&#39;s gonna be the state of the bicycle</p>
+<p begin="00:02:57.000" end="00:03:01.799" style="s2">unemployment time and then as I move</p>
+<p begin="00:02:59.549" end="00:03:03.569" style="s2">forward in time where I see is that at</p>
+<p begin="00:03:01.799" end="00:03:06.000" style="s2">that point we&#39;ll move right so basically</p>
+<p begin="00:03:03.569" end="00:03:08.880" style="s2">will end up happening is the the value</p>
+<p begin="00:03:06.000" end="00:03:11.220" style="s2">of the 360 degrees for the back wheel</p>
+<p begin="00:03:08.880" end="00:03:13.739" style="s2">will continue to go MSM peddling it will</p>
+<p begin="00:03:11.220" end="00:03:16.230" style="s2">go around in a circle and so on that</p>
+<p begin="00:03:13.739" end="00:03:18.480" style="s2">particular dimension well describes but</p>
+<p begin="00:03:16.230" end="00:03:20.810" style="s2">if I could be a certain value go from</p>
+<p begin="00:03:18.480" end="00:03:23.130" style="s2">zero to 360 and they return back to zero</p>
+<p begin="00:03:20.810" end="00:03:24.690" style="s2">and of course this will happen across</p>
+<p begin="00:03:23.130" end="00:03:26.100" style="s2">the entire system so what I&#39;ll see is</p>
+<p begin="00:03:24.690" end="00:03:29.340" style="s2">I&#39;ll have what&#39;s called a traverse</p>
+<p begin="00:03:26.100" end="00:03:31.920" style="s2">through phase space so phase space is</p>
+<p begin="00:03:29.340" end="00:03:34.530" style="s2">what describes as a word that it</p>
+<p begin="00:03:31.920" end="00:03:38.970" style="s2">describes the various dimensions that</p>
+<p begin="00:03:34.530" end="00:03:43.010" style="s2">we&#39;re using and the Traverse is what</p>
+<p begin="00:03:38.970" end="00:03:46.410" style="s2">what happens as you drive a particular</p>
+<p begin="00:03:43.010" end="00:03:48.090" style="s2">point through face phase as you ride the</p>
+<p begin="00:03:46.410" end="00:03:49.440" style="s2">bike you&#39;re going to be seeing changes</p>
+<p begin="00:03:48.090" end="00:03:51.239" style="s2">in all the various variables and</p>
+<p begin="00:03:49.440" end="00:03:54.630" style="s2">whatever those changes show up as is the</p>
+<p begin="00:03:51.239" end="00:03:57.900" style="s2">point and when you do that with a normal</p>
+<p begin="00:03:54.630" end="00:03:59.190" style="s2">bicycle you&#39;ll notice a number of things</p>
+<p begin="00:03:57.900" end="00:04:01.680" style="s2">do you notice two things in particular</p>
+<p begin="00:03:59.190" end="00:04:05.819" style="s2">one is that you will notice that the</p>
+<p begin="00:04:01.680" end="00:04:07.410" style="s2">back wheel the chain and the pedals seem</p>
+<p begin="00:04:05.819" end="00:04:10.260" style="s2">to be entrained which is to say that</p>
+<p begin="00:04:07.410" end="00:04:12.150" style="s2">there is some strict correlation if it&#39;s</p>
+<p begin="00:04:10.260" end="00:04:13.919" style="s2">a simple bicycle a very strict</p>
+<p begin="00:04:12.150" end="00:04:16.349" style="s2">correlation between those states so that</p>
+<p begin="00:04:13.919" end="00:04:19.139" style="s2">as the state in the back wheel changes</p>
+<p begin="00:04:16.349" end="00:04:22.500" style="s2">the state had changed chain changes and</p>
+<p begin="00:04:19.139" end="00:04:25.230" style="s2">the state in the pedals change and in</p>
+<p begin="00:04:22.500" end="00:04:29.610" style="s2">some fixed ratio so in some sense</p>
+<p begin="00:04:25.230" end="00:04:30.930" style="s2">are the same and they are entrained most</p>
+<p begin="00:04:29.610" end="00:04:33.540" style="s2">likely you will notice that there is</p>
+<p begin="00:04:30.930" end="00:04:34.650" style="s2">more of a correlation between the state</p>
+<p begin="00:04:33.540" end="00:04:37.110" style="s2">of the front wheel in the back wheel</p>
+<p begin="00:04:34.650" end="00:04:39.210" style="s2">meaning that because they are not deeply</p>
+<p begin="00:04:37.110" end="00:04:41.730" style="s2">deeply causally connected although they</p>
+<p begin="00:04:39.210" end="00:04:43.080" style="s2">are somewhat causally connected about</p>
+<p begin="00:04:41.730" end="00:04:44.220" style="s2">the fact that they&#39;re both on the ground</p>
+<p begin="00:04:43.080" end="00:04:47.550" style="s2">and they&#39;re both connected by the</p>
+<p begin="00:04:44.220" end="00:04:49.740" style="s2">chassis you&#39;ll see that there is a high</p>
+<p begin="00:04:47.550" end="00:04:51.600" style="s2">quality relationship between the state</p>
+<p begin="00:04:49.740" end="00:04:52.740" style="s2">of the front wheel on the back wheel but</p>
+<p begin="00:04:51.600" end="00:04:54.120" style="s2">it may not be as tight as the</p>
+<p begin="00:04:52.740" end="00:04:56.790" style="s2">relationship between said the pedals and</p>
+<p begin="00:04:54.120" end="00:04:58.020" style="s2">the back wheel but when you will see is</p>
+<p begin="00:04:56.790" end="00:04:59.730" style="s2">that there is a tight entrainment</p>
+<p begin="00:04:58.020" end="00:05:02.160" style="s2">between the handlebars in the front</p>
+<p begin="00:04:59.730" end="00:05:03.390" style="s2">wheel and I mean when you turn the</p>
+<p begin="00:05:02.160" end="00:05:04.770" style="s2">handlebars one do we didn&#39;t left the</p>
+<p begin="00:05:03.390" end="00:05:08.390" style="s2">front wheel also choice one degrees left</p>
+<p begin="00:05:04.770" end="00:05:08.390" style="s2">if you&#39;ve got a well function your bike</p>
+<p begin="00:05:08.450" end="00:05:13.050" style="s2">okay so that&#39;s that&#39;s it like that&#39;s the</p>
+<p begin="00:05:10.740" end="00:05:14.670" style="s2">concept so so now let&#39;s take this and be</p>
+<p begin="00:05:13.050" end="00:05:16.440" style="s2">a little bit more robust so try to</p>
+<p begin="00:05:14.670" end="00:05:19.680" style="s2">imagine constructing a phase space to</p>
+<p begin="00:05:16.440" end="00:05:21.690" style="s2">describe say a horse well you&#39;re going</p>
+<p begin="00:05:19.680" end="00:05:24.870" style="s2">to notice I think two things the first</p>
+<p begin="00:05:21.690" end="00:05:25.980" style="s2">is that it&#39;s enormously larger face</p>
+<p begin="00:05:24.870" end="00:05:28.830" style="s2">space because we&#39;re dealing with</p>
+<p begin="00:05:25.980" end="00:05:29.940" style="s2">something which is has vastly more</p>
+<p begin="00:05:28.830" end="00:05:32.100" style="s2">degrees of freedom so we&#39;re not just</p>
+<p begin="00:05:29.940" end="00:05:34.920" style="s2">talking about say the the state of each</p>
+<p begin="00:05:32.100" end="00:05:36.510" style="s2">two legs and a head in the tail we might</p>
+<p begin="00:05:34.920" end="00:05:38.870" style="s2">also have to model and for example the</p>
+<p begin="00:05:36.510" end="00:05:41.070" style="s2">state of the blood pressure and the</p>
+<p begin="00:05:38.870" end="00:05:44.280" style="s2">circulation of the pumping of the heart</p>
+<p begin="00:05:41.070" end="00:05:46.440" style="s2">or the dilation of the eye not the total</p>
+<p begin="00:05:44.280" end="00:05:48.620" style="s2">number of possible states the district</p>
+<p begin="00:05:46.440" end="00:05:51.630" style="s2">necessary to describe of course is</p>
+<p begin="00:05:48.620" end="00:05:52.920" style="s2">qualitatively enormous now of course we</p>
+<p begin="00:05:51.630" end="00:05:54.930" style="s2">can decide to do a sampling so you know</p>
+<p begin="00:05:52.920" end="00:05:58.800" style="s2">we&#39;re just going to model say the</p>
+<p begin="00:05:54.930" end="00:06:01.350" style="s2">positions of the legs and be done with</p>
+<p begin="00:05:58.800" end="00:06:03.300" style="s2">it they can simplify the model a lot and</p>
+<p begin="00:06:01.350" end="00:06:04.470" style="s2">that&#39;s a very useful thing to do but the</p>
+<p begin="00:06:03.300" end="00:06:07.070" style="s2">first observation is that you&#39;re dealing</p>
+<p begin="00:06:04.470" end="00:06:09.300" style="s2">with something like an evolved organism</p>
+<p begin="00:06:07.070" end="00:06:12.810" style="s2">you&#39;re dealing with just an enormous</p>
+<p begin="00:06:09.300" end="00:06:15.030" style="s2">amount face space in comparison to a</p>
+<p begin="00:06:12.810" end="00:06:17.940" style="s2">designed object like a bicycle the</p>
+<p begin="00:06:15.030" end="00:06:19.440" style="s2">second thing that you&#39;ll notice is that</p>
+<p begin="00:06:17.940" end="00:06:22.470" style="s2">what you may not notice it the soldiers</p>
+<p begin="00:06:19.440" end="00:06:25.320" style="s2">tell you is that the phase space of a</p>
+<p begin="00:06:22.470" end="00:06:27.990" style="s2">bicycle is finite and bounded which is</p>
+<p begin="00:06:25.320" end="00:06:29.850" style="s2">to say that so long as it is still a</p>
+<p begin="00:06:27.990" end="00:06:31.290" style="s2">bicycle the dimensions that I just</p>
+<p begin="00:06:29.850" end="00:06:33.120" style="s2">described is what they are and the</p>
+<p begin="00:06:31.290" end="00:06:36.860" style="s2">variables that they can they can take</p>
+<p begin="00:06:33.120" end="00:06:38.610" style="s2">aren&#39;t changing so you&#39;re not having</p>
+<p begin="00:06:36.860" end="00:06:40.080" style="s2">361 degrees suddenly</p>
+<p begin="00:06:38.610" end="00:06:41.909" style="s2">merging in your bicycle wheel it&#39;s just</p>
+<p begin="00:06:40.080" end="00:06:45.599" style="s2">commuters 60 degrees and that&#39;s all it</p>
+<p begin="00:06:41.909" end="00:06:48.509" style="s2">is by contrast in the horse the phase</p>
+<p begin="00:06:45.599" end="00:06:51.000" style="s2">space is in fact not bounded meaning</p>
+<p begin="00:06:48.509" end="00:06:53.189" style="s2">that in time in relationship to its</p>
+<p begin="00:06:51.000" end="00:06:56.129" style="s2">environment the horse can actually</p>
+<p begin="00:06:53.189" end="00:06:59.280" style="s2">change the shape of his phase space and</p>
+<p begin="00:06:56.129" end="00:07:01.259" style="s2">new kinds of possible variables can</p>
+<p begin="00:06:59.280" end="00:07:03.199" style="s2">emerge inside certain dimensionality</p>
+<p begin="00:07:01.259" end="00:07:05.490" style="s2">it&#39;s the say for example the horse</p>
+<p begin="00:07:03.199" end="00:07:07.680" style="s2">changes its gait in response to the</p>
+<p begin="00:07:05.490" end="00:07:09.300" style="s2">environment that it&#39;s in and this</p>
+<p begin="00:07:07.680" end="00:07:10.650" style="s2">emerges is something that has never</p>
+<p begin="00:07:09.300" end="00:07:12.509" style="s2">happened before in that particular horse</p>
+<p begin="00:07:10.650" end="00:07:14.270" style="s2">run horses in general this is all</p>
+<p begin="00:07:12.509" end="00:07:17.250" style="s2">possible of course it have that capacity</p>
+<p begin="00:07:14.270" end="00:07:18.599" style="s2">and in fact in principle one can</p>
+<p begin="00:07:17.250" end="00:07:19.979" style="s2">actually imagine the emergence of</p>
+<p begin="00:07:18.599" end="00:07:22.529" style="s2">entirely new degrees of freedom</p>
+<p begin="00:07:19.979" end="00:07:25.349" style="s2">entirely new dimensionalities obviously</p>
+<p begin="00:07:22.529" end="00:07:26.430" style="s2">in the situation of evolution which is</p>
+<p begin="00:07:25.349" end="00:07:31.379" style="s2">this happen all the time like the</p>
+<p begin="00:07:26.430" end="00:07:33.150" style="s2">emergence of light-sensitive cells is</p>
+<p begin="00:07:31.379" end="00:07:35.360" style="s2">entirely novel but that didn&#39;t exist and</p>
+<p begin="00:07:33.150" end="00:07:37.650" style="s2">then it did it&#39;s a pretty entirely new</p>
+<p begin="00:07:35.360" end="00:07:41.400" style="s2">portion of face base not just the value</p>
+<p begin="00:07:37.650" end="00:07:43.409" style="s2">values that it can handle and so the</p>
+<p begin="00:07:41.400" end="00:07:45.620" style="s2">idea here is that now we&#39;re connecting</p>
+<p begin="00:07:43.409" end="00:07:48.810" style="s2">back to the Kineton framework a</p>
+<p begin="00:07:45.620" end="00:07:50.810" style="s2">complicated system is the system but has</p>
+<p begin="00:07:48.810" end="00:07:55.229" style="s2">a finite and bounded phase space so</p>
+<p begin="00:07:50.810" end="00:07:57.180" style="s2">bicycles and airplanes a complex system</p>
+<p begin="00:07:55.229" end="00:08:01.710" style="s2">is the system that does not it has an</p>
+<p begin="00:07:57.180" end="00:08:02.580" style="s2">unbounded phase space and I think that&#39;s</p>
+<p begin="00:08:01.710" end="00:08:04.650" style="s2">that&#39;s pretty much it</p>
+<p begin="00:08:02.580" end="00:08:06.349" style="s2">so with this new concept we&#39;re going to</p>
+<p begin="00:08:04.650" end="00:08:08.789" style="s2">be able to do other stuff in the future</p>
+<p begin="00:08:06.349" end="00:08:10.939" style="s2">but for now I think that&#39;s all we have</p>
+<p begin="00:08:08.789" end="00:08:10.939" style="s2">to do</p>
+</div>
+</body>
+</tt>

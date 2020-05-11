@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.149" end="00:00:09.179" style="s2">hi this is part 2 of the video tutorial</p>
+<p begin="00:00:08.160" end="00:00:13.400" style="s2">series</p>
+<p begin="00:00:09.179" end="00:00:17.449" style="s2">what is the magellan course in this</p>
+<p begin="00:00:13.400" end="00:00:21.420" style="s2">tutorial we are going to look at</p>
+<p begin="00:00:17.449" end="00:00:23.670" style="s2">dialectical reasoning through the work</p>
+<p begin="00:00:21.420" end="00:00:27.269" style="s2">of gebser in his notion of the</p>
+<p begin="00:00:23.670" end="00:00:30.720" style="s2">structures of consciousness in our last</p>
+<p begin="00:00:27.269" end="00:00:33.510" style="s2">tutorial we talked about the magellan</p>
+<p begin="00:00:30.720" end="00:00:37.829" style="s2">course be being interested in crossing a</p>
+<p begin="00:00:33.510" end="00:00:43.789" style="s2">frontier and that frontier was between</p>
+<p begin="00:00:37.829" end="00:00:47.840" style="s2">the current state where our reasoning is</p>
+<p begin="00:00:43.789" end="00:00:53.270" style="s2">dialectical has a dialectical dynamic</p>
+<p begin="00:00:47.840" end="00:00:55.739" style="s2">into a potential situation which is not</p>
+<p begin="00:00:53.270" end="00:00:59.039" style="s2">dialectical but represents a new way of</p>
+<p begin="00:00:55.739" end="00:01:02.180" style="s2">thinking that is not dialectical and so</p>
+<p begin="00:00:59.039" end="00:01:05.280" style="s2">I think it is important to understand</p>
+<p begin="00:01:02.180" end="00:01:09.950" style="s2">the evolution of dialectical reasoning</p>
+<p begin="00:01:05.280" end="00:01:12.299" style="s2">reasoning how it came to be what exactly</p>
+<p begin="00:01:09.950" end="00:01:15.090" style="s2">characterizes in accounts for</p>
+<p begin="00:01:12.299" end="00:01:18.090" style="s2">dialectical reasoning before we go on to</p>
+<p begin="00:01:15.090" end="00:01:21.979" style="s2">investigate the possibility of new types</p>
+<p begin="00:01:18.090" end="00:01:24.530" style="s2">of consciousness and new structures of</p>
+<p begin="00:01:21.979" end="00:01:27.390" style="s2">reasoning that do not operate</p>
+<p begin="00:01:24.530" end="00:01:31.049" style="s2">dialectically so we&#39;re going to look at</p>
+<p begin="00:01:27.390" end="00:01:33.450" style="s2">this today in terms of gaps or</p>
+<p begin="00:01:31.049" end="00:01:39.600" style="s2">structures of consciousness and gap sirs</p>
+<p begin="00:01:33.450" end="00:01:41.820" style="s2">work the ever-present origin and in the</p>
+<p begin="00:01:39.600" end="00:01:47.390" style="s2">subsequent videos part three we&#39;ll look</p>
+<p begin="00:01:41.820" end="00:01:51.930" style="s2">at dialectical reasoning through</p>
+<p begin="00:01:47.390" end="00:01:54.180" style="s2">developmental theory and in part four</p>
+<p begin="00:01:51.930" end="00:01:56.430" style="s2">we&#39;ll look at dialectical reasoning</p>
+<p begin="00:01:54.180" end="00:01:59.880" style="s2">through the history of philosophy but</p>
+<p begin="00:01:56.430" end="00:02:02.790" style="s2">for today we are going to look at</p>
+<p begin="00:01:59.880" end="00:02:05.310" style="s2">dialectical reasoning through gap sirs</p>
+<p begin="00:02:02.790" end="00:02:07.710" style="s2">work from the ever-present</p>
+<p begin="00:02:05.310" end="00:02:11.160" style="s2">origin his book the present origin and</p>
+<p begin="00:02:07.710" end="00:02:13.410" style="s2">this notion of the evolution of the</p>
+<p begin="00:02:11.160" end="00:02:25.640" style="s2">structures of consciousness</p>
+<p begin="00:02:13.410" end="00:02:31.020" style="s2">so I hope you enjoy this tutorial gebser</p>
+<p begin="00:02:25.640" end="00:02:34.950" style="s2">saw the evolution of human consciousness</p>
+<p begin="00:02:31.020" end="00:02:39.480" style="s2">as proceeding through great epochal</p>
+<p begin="00:02:34.950" end="00:02:43.230" style="s2">shifts and he uses that term epic so if</p>
+<p begin="00:02:39.480" end="00:02:47.970" style="s2">we imagine three waves or three great</p>
+<p begin="00:02:43.230" end="00:02:53.700" style="s2">epochal shifts shifts ethics of</p>
+<p begin="00:02:47.970" end="00:03:00.000" style="s2">consciousness and the way he saw these</p>
+<p begin="00:02:53.700" end="00:03:04.650" style="s2">epochs arising were through phases so</p>
+<p begin="00:03:00.000" end="00:03:08.870" style="s2">each epoch would have a phase in the</p>
+<p begin="00:03:04.650" end="00:03:14.610" style="s2">phases would go from latent or the early</p>
+<p begin="00:03:08.870" end="00:03:17.400" style="s2">days to efficient phase the height of</p>
+<p begin="00:03:14.610" end="00:03:19.890" style="s2">the maturity of the essence of the</p>
+<p begin="00:03:17.400" end="00:03:28.230" style="s2">structure consciousness to a deficient</p>
+<p begin="00:03:19.890" end="00:03:31.560" style="s2">phase so we can think of this epoch here</p>
+<p begin="00:03:28.230" end="00:03:36.570" style="s2">between these two points as the epoch we</p>
+<p begin="00:03:31.560" end="00:03:42.120" style="s2">are in this epoch here as the epoch that</p>
+<p begin="00:03:36.570" end="00:03:45.090" style="s2">came before and so this you know just</p>
+<p begin="00:03:42.120" end="00:03:48.240" style="s2">before we start moving into our epoch</p>
+<p begin="00:03:45.090" end="00:03:54.240" style="s2">our structure of consciousness today we</p>
+<p begin="00:03:48.240" end="00:03:58.800" style="s2">would have come from the deficient stage</p>
+<p begin="00:03:54.240" end="00:04:00.840" style="s2">of the previous epoch and moving out of</p>
+<p begin="00:03:58.800" end="00:04:04.170" style="s2">our structure of consciousness</p>
+<p begin="00:04:00.840" end="00:04:08.760" style="s2">developing toward the new we move we&#39;ll</p>
+<p begin="00:04:04.170" end="00:04:14.880" style="s2">see we moving into a new latent stage of</p>
+<p begin="00:04:08.760" end="00:04:16.200" style="s2">the new structure of consciousness now</p>
+<p begin="00:04:14.880" end="00:04:21.270" style="s2">each of these structures of</p>
+<p begin="00:04:16.200" end="00:04:25.590" style="s2">consciousness can be identified by the</p>
+<p begin="00:04:21.270" end="00:04:27.270" style="s2">types of reasoning that are evident</p>
+<p begin="00:04:25.590" end="00:04:31.490" style="s2">through works of art</p>
+<p begin="00:04:27.270" end="00:04:33.810" style="s2">through philosophy through language</p>
+<p begin="00:04:31.490" end="00:04:39.630" style="s2">through different cultural traditions</p>
+<p begin="00:04:33.810" end="00:04:42.810" style="s2">and structures and so what we&#39;re going</p>
+<p begin="00:04:39.630" end="00:04:47.090" style="s2">to look at today is the current</p>
+<p begin="00:04:42.810" end="00:04:49.319" style="s2">structure of consciousness over the last</p>
+<p begin="00:04:47.090" end="00:04:52.229" style="s2">2,000 years is called the mental</p>
+<p begin="00:04:49.319" end="00:04:55.229" style="s2">structure the previous structure of</p>
+<p begin="00:04:52.229" end="00:05:00.630" style="s2">consciousness gifts are called the</p>
+<p begin="00:04:55.229" end="00:05:04.830" style="s2">mythic structure not to be confused with</p>
+<p begin="00:05:00.630" end="00:05:09.360" style="s2">the mythic level of development within</p>
+<p begin="00:05:04.830" end="00:05:12.630" style="s2">the mental structure and the upcoming or</p>
+<p begin="00:05:09.360" end="00:05:17.130" style="s2">the new structure of consciousness gaps</p>
+<p begin="00:05:12.630" end="00:05:21.840" style="s2">are called integral again not to be</p>
+<p begin="00:05:17.130" end="00:05:25.860" style="s2">confused with the term integral in terms</p>
+<p begin="00:05:21.840" end="00:05:27.539" style="s2">of developmental theory within the</p>
+<p begin="00:05:25.860" end="00:05:29.460" style="s2">mental structure and we will look at</p>
+<p begin="00:05:27.539" end="00:05:34.889" style="s2">developmental theory within the mental</p>
+<p begin="00:05:29.460" end="00:05:38.940" style="s2">structure in the next video so each of</p>
+<p begin="00:05:34.889" end="00:05:44.539" style="s2">these epics each of structures of</p>
+<p begin="00:05:38.940" end="00:05:49.710" style="s2">consciousness have a three phase kind of</p>
+<p begin="00:05:44.539" end="00:05:52.740" style="s2">evolutionary momentum within the mental</p>
+<p begin="00:05:49.710" end="00:05:57.090" style="s2">structure of consciousness that we are</p>
+<p begin="00:05:52.740" end="00:06:03.090" style="s2">in now the latent form of reasoning gaps</p>
+<p begin="00:05:57.090" end="00:06:06.659" style="s2">are called ocn ik the efficient form of</p>
+<p begin="00:06:03.090" end="00:06:10.289" style="s2">reasoning gaps are called pyramidal and</p>
+<p begin="00:06:06.659" end="00:06:10.919" style="s2">we&#39;ll see why and the deficient form a</p>
+<p begin="00:06:10.289" end="00:06:19.800" style="s2">reason</p>
+<p begin="00:06:10.919" end="00:06:23.759" style="s2">gaps are called perspectival and in</p>
+<p begin="00:06:19.800" end="00:06:25.800" style="s2">general gifts are left these the detail</p>
+<p begin="00:06:23.759" end="00:06:29.069" style="s2">of the integral structure blank and so</p>
+<p begin="00:06:25.800" end="00:06:31.860" style="s2">this is the territory where we&#39;re we&#39;re</p>
+<p begin="00:06:29.069" end="00:06:34.889" style="s2">doing hypothetical work we&#39;re trying to</p>
+<p begin="00:06:31.860" end="00:06:37.740" style="s2">fill in the blanks in this territory in</p>
+<p begin="00:06:34.889" end="00:06:40.950" style="s2">the magellan course but be consistent</p>
+<p begin="00:06:37.740" end="00:06:46.290" style="s2">with some of the processes</p>
+<p begin="00:06:40.950" end="00:06:50.420" style="s2">gebser described now another thing in</p>
+<p begin="00:06:46.290" end="00:06:56.850" style="s2">terms of what we&#39;re looking at are these</p>
+<p begin="00:06:50.420" end="00:07:01.730" style="s2">three types of reasoning build up to</p>
+<p begin="00:06:56.850" end="00:07:08.070" style="s2">what we understand as dialectical</p>
+<p begin="00:07:01.730" end="00:07:10.500" style="s2">reasoning so the movement from the</p>
+<p begin="00:07:08.070" end="00:07:13.920" style="s2">oceanic to the pyramidal to the</p>
+<p begin="00:07:10.500" end="00:07:18.140" style="s2">perspectival is a development of</p>
+<p begin="00:07:13.920" end="00:07:18.140" style="s2">dialectical reasoning from the history</p>
+<p begin="00:07:18.260" end="00:07:31.500" style="s2">prior to this phase the mythic was was</p>
+<p begin="00:07:23.310" end="00:07:35.840" style="s2">not yet dialectical and in fact even</p>
+<p begin="00:07:31.500" end="00:07:41.190" style="s2">oceanic reasoning is not yet dialectical</p>
+<p begin="00:07:35.840" end="00:07:45.900" style="s2">and so our hypothesis and this would be</p>
+<p begin="00:07:41.190" end="00:07:48.450" style="s2">consistent with gebser is that beyond</p>
+<p begin="00:07:45.900" end="00:07:52.020" style="s2">the epoch of the mental structure of</p>
+<p begin="00:07:48.450" end="00:07:58.970" style="s2">consciousness the types of reasoning</p>
+<p begin="00:07:52.020" end="00:08:03.090" style="s2">would be no longer dialectical so that&#39;s</p>
+<p begin="00:07:58.970" end="00:08:07.620" style="s2">the hypothesis that we go from the</p>
+<p begin="00:08:03.090" end="00:08:09.960" style="s2">not-yet dialectical epoch through this</p>
+<p begin="00:08:07.620" end="00:08:12.030" style="s2">process of the development of</p>
+<p begin="00:08:09.960" end="00:08:15.870" style="s2">dialectical reasoning within this</p>
+<p begin="00:08:12.030" end="00:08:18.180" style="s2">evolutionary epic to a shift and</p>
+<p begin="00:08:15.870" end="00:08:20.340" style="s2">evolutionary shift to a new structure</p>
+<p begin="00:08:18.180" end="00:08:23.310" style="s2">consciousness the integral consciousness</p>
+<p begin="00:08:20.340" end="00:08:27.990" style="s2">drip structure of consciousness where it</p>
+<p begin="00:08:23.310" end="00:08:31.290" style="s2">is no longer dialectical and that would</p>
+<p begin="00:08:27.990" end="00:08:34.470" style="s2">be the reasoning behind the magellan</p>
+<p begin="00:08:31.290" end="00:08:37.440" style="s2">course trying to look into this</p>
+<p begin="00:08:34.470" end="00:08:41.820" style="s2">hypothetical territory to give it more</p>
+<p begin="00:08:37.440" end="00:08:45.810" style="s2">detail the way gebser</p>
+<p begin="00:08:41.820" end="00:08:50.360" style="s2">has detailed the reasoning structures as</p>
+<p begin="00:08:45.810" end="00:08:50.360" style="s2">they develop through the mental epoch</p>
+<p begin="00:08:51.870" end="00:09:02.730" style="s2">okay so that&#39;s basically the grand over</p>
+<p begin="00:08:56.640" end="00:09:09.260" style="s2">view so what we can do is parse out and</p>
+<p begin="00:09:02.730" end="00:09:13.830" style="s2">look at OC anak thinking for oceanic</p>
+<p begin="00:09:09.260" end="00:09:15.230" style="s2">reasoning oceanic reasoning was not</p>
+<p begin="00:09:13.830" end="00:09:19.350" style="s2">quite yet</p>
+<p begin="00:09:15.230" end="00:09:23.040" style="s2">dialectical and it proceeds from the</p>
+<p begin="00:09:19.350" end="00:09:25.350" style="s2">mythic and gaps are dismayed these</p>
+<p begin="00:09:23.040" end="00:09:30.470" style="s2">distinguished distinctions the mythic</p>
+<p begin="00:09:25.350" end="00:09:36.840" style="s2">he&#39;s called the mythic he called</p>
+<p begin="00:09:30.470" end="00:09:39.710" style="s2">two-dimensional and the characteristic</p>
+<p begin="00:09:36.840" end="00:09:42.810" style="s2">of a mythical this would be the mythic</p>
+<p begin="00:09:39.710" end="00:09:48.140" style="s2">stepping back here the characteristic of</p>
+<p begin="00:09:42.810" end="00:09:48.140" style="s2">the mythical is that there was always a</p>
+<p begin="00:09:48.680" end="00:10:03.120" style="s2">return never a progression never never a</p>
+<p begin="00:09:56.670" end="00:10:06.240" style="s2">progression and so we see this in mythic</p>
+<p begin="00:10:03.120" end="00:10:10.610" style="s2">cultures today our mythical systems so</p>
+<p begin="00:10:06.240" end="00:10:13.830" style="s2">you have cycles seasonal cycles where</p>
+<p begin="00:10:10.610" end="00:10:15.900" style="s2">they&#39;re spraying their summer or there&#39;s</p>
+<p begin="00:10:13.830" end="00:10:19.400" style="s2">fall there&#39;s winter in their spring so</p>
+<p begin="00:10:15.900" end="00:10:25.440" style="s2">there&#39;s always a return a mandala like</p>
+<p begin="00:10:19.400" end="00:10:29.340" style="s2">mentality there&#39;s a the temperance or</p>
+<p begin="00:10:25.440" end="00:10:37.380" style="s2">the time frame is always cyclical or</p>
+<p begin="00:10:29.340" end="00:10:44.090" style="s2">periodic Zeus flew around the heavens in</p>
+<p begin="00:10:37.380" end="00:10:51.330" style="s2">a diurnal pattern there&#39;s tales of birth</p>
+<p begin="00:10:44.090" end="00:10:54.740" style="s2">death and rebirth in cyclical patterns</p>
+<p begin="00:10:51.330" end="00:11:00.800" style="s2">like the pale of the Phoenix</p>
+<p begin="00:10:54.740" end="00:11:04.700" style="s2">so the mythic had this two-dimensional</p>
+<p begin="00:11:00.800" end="00:11:08.970" style="s2">character to it</p>
+<p begin="00:11:04.700" end="00:11:12.600" style="s2">in the problem with the mythic is that</p>
+<p begin="00:11:08.970" end="00:11:16.020" style="s2">it represented in its deficient stage</p>
+<p begin="00:11:12.600" end="00:11:19.200" style="s2">just before the new epoch the problem</p>
+<p begin="00:11:16.020" end="00:11:22.410" style="s2">with the mythic is that it became you</p>
+<p begin="00:11:19.200" end="00:11:26.070" style="s2">know it was completely closed but all</p>
+<p begin="00:11:22.410" end="00:11:32.279" style="s2">the systems had been completely closed</p>
+<p begin="00:11:26.070" end="00:11:35.250" style="s2">within this endless cycle of return so</p>
+<p begin="00:11:32.279" end="00:11:41.100" style="s2">the cultural structures the cultural</p>
+<p begin="00:11:35.250" end="00:11:46.560" style="s2">systems the power structures the kinds</p>
+<p begin="00:11:41.100" end="00:11:50.240" style="s2">of justifications human humans used for</p>
+<p begin="00:11:46.560" end="00:11:56.310" style="s2">moral and ethic jurisprudence they all</p>
+<p begin="00:11:50.240" end="00:11:59.310" style="s2">ended up having no ability to get beyond</p>
+<p begin="00:11:56.310" end="00:12:02.910" style="s2">this closure this is the way things are</p>
+<p begin="00:11:59.310" end="00:12:05.700" style="s2">they will always be the same there&#39;s no</p>
+<p begin="00:12:02.910" end="00:12:10.020" style="s2">there&#39;s no the illusion that things</p>
+<p begin="00:12:05.700" end="00:12:13.170" style="s2">change is defeated by the fact that</p>
+<p begin="00:12:10.020" end="00:12:15.990" style="s2">things always return so caps are talked</p>
+<p begin="00:12:13.170" end="00:12:23.839" style="s2">about this this this problem with</p>
+<p begin="00:12:15.990" end="00:12:29.760" style="s2">closure of the system that created the</p>
+<p begin="00:12:23.839" end="00:12:32.430" style="s2">impetus or the dynamics for the mythic</p>
+<p begin="00:12:29.760" end="00:12:36.240" style="s2">type of reasoning this two dimensional</p>
+<p begin="00:12:32.430" end="00:12:38.940" style="s2">reasoning to move into a new type of</p>
+<p begin="00:12:36.240" end="00:12:46.850" style="s2">reasoning in the first indication of</p>
+<p begin="00:12:38.940" end="00:12:46.850" style="s2">that gebser calls oceanic reasoning</p>
+<p begin="00:12:51.990" end="00:12:59.220" style="s2">so if we look at Oceana Creason again</p>
+<p begin="00:12:55.779" end="00:13:01.779" style="s2">just to back up mythic wheezing had this</p>
+<p begin="00:12:59.220" end="00:13:05.020" style="s2">polar structure so if this was the</p>
+<p begin="00:13:01.779" end="00:13:05.560" style="s2">beginning you reason you reason you come</p>
+<p begin="00:13:05.020" end="00:13:07.330" style="s2">back</p>
+<p begin="00:13:05.560" end="00:13:10.810" style="s2">there&#39;s always a return and that</p>
+<p begin="00:13:07.330" end="00:13:14.200" style="s2">represented closure and the mythic style</p>
+<p begin="00:13:10.810" end="00:13:16.779" style="s2">of reasoning it&#39;s two dimensional so you</p>
+<p begin="00:13:14.200" end="00:13:22.620" style="s2">have two dimensional with the closure</p>
+<p begin="00:13:16.779" end="00:13:28.770" style="s2">and the gaps are called this polar</p>
+<p begin="00:13:22.620" end="00:13:32.830" style="s2">reasoning in this closure represented an</p>
+<p begin="00:13:28.770" end="00:13:35.350" style="s2">evolutionary synth dynamics to move</p>
+<p begin="00:13:32.830" end="00:13:41.470" style="s2">toward new types of reasoning so we get</p>
+<p begin="00:13:35.350" end="00:13:45.480" style="s2">to oceanic reasoning which gaps are</p>
+<p begin="00:13:41.470" end="00:13:50.320" style="s2">called oceanic because it has wave-like</p>
+<p begin="00:13:45.480" end="00:13:54.430" style="s2">movements that have indications of</p>
+<p begin="00:13:50.320" end="00:13:58.690" style="s2">progression but that eventually our</p>
+<p begin="00:13:54.430" end="00:14:01.660" style="s2">recursive also return the way the polar</p>
+<p begin="00:13:58.690" end="00:14:04.860" style="s2">reasoning does but in this gap Xerces</p>
+<p begin="00:14:01.660" end="00:14:10.390" style="s2">the beginning of a movement away from</p>
+<p begin="00:14:04.860" end="00:14:14.160" style="s2">polar reasoning and so for example in</p>
+<p begin="00:14:10.390" end="00:14:21.850" style="s2">oceanic reasoning he uses a quote from</p>
+<p begin="00:14:14.160" end="00:14:44.100" style="s2">Heraclitus and the quote goes souls</p>
+<p begin="00:14:21.850" end="00:14:46.510" style="s2">death becomes water water becomes</p>
+<p begin="00:14:44.100" end="00:14:49.020" style="s2">so there&#39;s a sense that there&#39;s a</p>
+<p begin="00:14:46.510" end="00:14:51.970" style="s2">progression from one term to the next</p>
+<p begin="00:14:49.020" end="00:14:54.760" style="s2">and then a progression to another term</p>
+<p begin="00:14:51.970" end="00:14:59.110" style="s2">this is the wave-like structure of</p>
+<p begin="00:14:54.760" end="00:15:04.079" style="s2">oceanic but then the way this quote ends</p>
+<p begin="00:14:59.110" end="00:15:15.069" style="s2">is from Earth</p>
+<p begin="00:15:04.079" end="00:15:19.449" style="s2">water from water soul and so you see</p>
+<p begin="00:15:15.069" end="00:15:26.559" style="s2">despite this progression there&#39;s a real</p>
+<p begin="00:15:19.449" end="00:15:31.740" style="s2">ooping back to origin and so there is</p>
+<p begin="00:15:26.559" end="00:15:44.470" style="s2">this is oceanic thinking is the latent</p>
+<p begin="00:15:31.740" end="00:15:48.490" style="s2">precursor of dialectical thinking for</p>
+<p begin="00:15:44.470" end="00:15:52.929" style="s2">the efficient phase of the mental</p>
+<p begin="00:15:48.490" end="00:15:55.499" style="s2">structure of consciousness and so we go</p>
+<p begin="00:15:52.929" end="00:15:58.809" style="s2">from mythic which has got this closed</p>
+<p begin="00:15:55.499" end="00:16:02.559" style="s2">two dimensional but closed reasoning</p>
+<p begin="00:15:58.809" end="00:16:05.069" style="s2">cycle to oceanic with gives which gives</p>
+<p begin="00:16:02.559" end="00:16:10.329" style="s2">us some indication of this progression</p>
+<p begin="00:16:05.069" end="00:16:14.949" style="s2">to other terms relating the beginning</p>
+<p begin="00:16:10.329" end="00:16:17.230" style="s2">term to other terms but with the</p>
+<p begin="00:16:14.949" end="00:16:19.990" style="s2">completion of the thought argument</p>
+<p begin="00:16:17.230" end="00:16:22.480" style="s2">always going still going back to close</p>
+<p begin="00:16:19.990" end="00:16:25.209" style="s2">on the origin still have this mentality</p>
+<p begin="00:16:22.480" end="00:16:27.879" style="s2">like quality so that&#39;s why it calls</p>
+<p begin="00:16:25.209" end="00:16:31.120" style="s2">oceanic thinking latent it&#39;s it shows</p>
+<p begin="00:16:27.879" end="00:16:33.550" style="s2">signs of moving from polar reasoning in</p>
+<p begin="00:16:31.120" end="00:16:39.360" style="s2">the mythic structure but it&#39;s not quite</p>
+<p begin="00:16:33.550" end="00:16:42.939" style="s2">yeah as mature of dialectical process as</p>
+<p begin="00:16:39.360" end="00:16:47.529" style="s2">the next phase that get gaps are</p>
+<p begin="00:16:42.939" end="00:16:49.059" style="s2">identifies in the mental structure the</p>
+<p begin="00:16:47.529" end="00:16:50.649" style="s2">development of the mental structure of</p>
+<p begin="00:16:49.059" end="00:16:56.410" style="s2">consciousness into the efficient phase</p>
+<p begin="00:16:50.649" end="00:16:59.649" style="s2">he calls that thinking pyramidal so we</p>
+<p begin="00:16:56.410" end="00:17:03.249" style="s2">go from the polar reasoning of a mythic</p>
+<p begin="00:16:59.649" end="00:17:07.569" style="s2">structure to the transitional phase</p>
+<p begin="00:17:03.249" end="00:17:12.549" style="s2">oceanic in its wave-like structure to</p>
+<p begin="00:17:07.569" end="00:17:15.699" style="s2">the efficient phase the pyramidal which</p>
+<p begin="00:17:12.549" end="00:17:16.540" style="s2">today we recognize as dialectical</p>
+<p begin="00:17:15.699" end="00:17:20.380" style="s2">thinking and</p>
+<p begin="00:17:16.540" end="00:17:25.300" style="s2">certainly gebser did also so now we&#39;ll</p>
+<p begin="00:17:20.380" end="00:17:27.190" style="s2">turn to the efficient phase of the</p>
+<p begin="00:17:25.300" end="00:17:38.620" style="s2">mental structure and that&#39;s pyramidal</p>
+<p begin="00:17:27.190" end="00:17:45.040" style="s2">thinking okay so we are going from the</p>
+<p begin="00:17:38.620" end="00:17:50.490" style="s2">mythic to oceanic which is the first</p>
+<p begin="00:17:45.040" end="00:17:55.990" style="s2">indication of dialectical thinking -</p>
+<p begin="00:17:50.490" end="00:17:58.000" style="s2">pyramidal thinking caps are called the</p>
+<p begin="00:17:55.990" end="00:18:00.210" style="s2">mythic two-dimensional with its closure</p>
+<p begin="00:17:58.000" end="00:18:03.310" style="s2">and he called pyramidal</p>
+<p begin="00:18:00.210" end="00:18:06.790" style="s2">three-dimensional in the reason why is</p>
+<p begin="00:18:03.310" end="00:18:10.120" style="s2">that pyramidal thinking we won&#39;t be</p>
+<p begin="00:18:06.790" end="00:18:13.450" style="s2">surprised looks like this can be</p>
+<p begin="00:18:10.120" end="00:18:17.140" style="s2">illustrated like this you have a you</p>
+<p begin="00:18:13.450" end="00:18:27.640" style="s2">have not a and then you have a</p>
+<p begin="00:18:17.140" end="00:18:33.120" style="s2">progression to a higher synthesis so</p>
+<p begin="00:18:27.640" end="00:18:36.640" style="s2">here&#39;s the origin airy term it is</p>
+<p begin="00:18:33.120" end="00:18:40.210" style="s2">contrasted with its opposite so at the</p>
+<p begin="00:18:36.640" end="00:18:42.600" style="s2">far end so if this is summer this would</p>
+<p begin="00:18:40.210" end="00:18:48.270" style="s2">be winter and instead of having a</p>
+<p begin="00:18:42.600" end="00:18:56.290" style="s2">completion in this argument Baptist to</p>
+<p begin="00:18:48.270" end="00:19:00.210" style="s2">summer this tension this gap is held</p>
+<p begin="00:18:56.290" end="00:19:03.880" style="s2">open in lieu of the search for a higher</p>
+<p begin="00:19:00.210" end="00:19:06.430" style="s2">synthesis in this higher that synthesis</p>
+<p begin="00:19:03.880" end="00:19:14.160" style="s2">gaps are talked about as the third term</p>
+<p begin="00:19:06.430" end="00:19:17.980" style="s2">for the tercio in this pyramidal or</p>
+<p begin="00:19:14.160" end="00:19:23.950" style="s2">triangular structure is what gives this</p>
+<p begin="00:19:17.980" end="00:19:26.410" style="s2">type of reasoning the label pyramidal</p>
+<p begin="00:19:23.950" end="00:19:31.300" style="s2">so now the interesting thing is that</p>
+<p begin="00:19:26.410" end="00:19:36.630" style="s2">pyramidal thinking in the term dialectic</p>
+<p begin="00:19:31.300" end="00:19:42.040" style="s2">comes from Plato and he uses the term</p>
+<p begin="00:19:36.630" end="00:19:48.010" style="s2">diuresis and what diuresis means is</p>
+<p begin="00:19:42.040" end="00:19:51.730" style="s2">separation and it refers to the ability</p>
+<p begin="00:19:48.010" end="00:19:57.690" style="s2">for the mind to hold this gap this</p>
+<p begin="00:19:51.730" end="00:20:06.420" style="s2">tension in this gap between antinomies</p>
+<p begin="00:19:57.690" end="00:20:11.050" style="s2">or opposites in order to force a higher</p>
+<p begin="00:20:06.420" end="00:20:19.570" style="s2">synthesis in order to gain a higher</p>
+<p begin="00:20:11.050" end="00:20:23.550" style="s2">synthesis and so you see some of this in</p>
+<p begin="00:20:19.570" end="00:20:31.780" style="s2">Plato and Socrates the way Socrates</p>
+<p begin="00:20:23.550" end="00:20:35.140" style="s2">would tease out the paradoxes and force</p>
+<p begin="00:20:31.780" end="00:20:38.920" style="s2">people to move to a higher level of</p>
+<p begin="00:20:35.140" end="00:20:43.870" style="s2">thinking and this paved the way for all</p>
+<p begin="00:20:38.920" end="00:20:46.890" style="s2">kinds of evolutionary advances in human</p>
+<p begin="00:20:43.870" end="00:20:51.990" style="s2">history but this notion of being of</p>
+<p begin="00:20:46.890" end="00:20:55.000" style="s2">diuresis of being able to hold these</p>
+<p begin="00:20:51.990" end="00:20:59.350" style="s2">antennae means as opposites at the end</p>
+<p begin="00:20:55.000" end="00:21:02.140" style="s2">of a spectrum was a significant</p>
+<p begin="00:20:59.350" end="00:21:05.200" style="s2">difference than what the mythic mind</p>
+<p begin="00:21:02.140" end="00:21:09.250" style="s2">could do the mythic mind would always</p>
+<p begin="00:21:05.200" end="00:21:11.290" style="s2">see these categories as turning over on</p>
+<p begin="00:21:09.250" end="00:21:15.750" style="s2">themselves in the MacDonald like fashion</p>
+<p begin="00:21:11.290" end="00:21:15.750" style="s2">and just recapitulating themselves</p>
+<p begin="00:21:21.450" end="00:21:31.750" style="s2">what we then see in terms of what</p>
+<p begin="00:21:24.960" end="00:21:34.920" style="s2">dialectical reasoning amounts to after</p>
+<p begin="00:21:31.750" end="00:21:41.010" style="s2">2,000 years of dialectical reasoning is</p>
+<p begin="00:21:34.920" end="00:21:45.490" style="s2">that you have this pyramidal thought</p>
+<p begin="00:21:41.010" end="00:21:48.820" style="s2">that leads to a higher synthesis which</p>
+<p begin="00:21:45.490" end="00:21:53.550" style="s2">then finds its antithesis that this</p>
+<p begin="00:21:48.820" end="00:21:58.410" style="s2">leads to a higher level synthesis and</p>
+<p begin="00:21:53.550" end="00:22:07.150" style="s2">after 2,000 years the whole system has</p>
+<p begin="00:21:58.410" end="00:22:09.460" style="s2">created this very progressive or</p>
+<p begin="00:22:07.150" end="00:22:14.620" style="s2">progression this notion of reasoning as</p>
+<p begin="00:22:09.460" end="00:22:21.360" style="s2">progress progress or progression and</p>
+<p begin="00:22:14.620" end="00:22:21.360" style="s2">guess who was very careful and very</p>
+<p begin="00:22:21.720" end="00:22:32.250" style="s2">pains taken to note that this concept of</p>
+<p begin="00:22:28.960" end="00:22:35.620" style="s2">progress or progression is a product of</p>
+<p begin="00:22:32.250" end="00:22:38.560" style="s2">a dialectical style of reasoning of the</p>
+<p begin="00:22:35.620" end="00:22:41.080" style="s2">mental structure of consciousness and so</p>
+<p begin="00:22:38.560" end="00:22:44.050" style="s2">when he talks about the evolution of the</p>
+<p begin="00:22:41.080" end="00:22:51.360" style="s2">structures of consciousness he does not</p>
+<p begin="00:22:44.050" end="00:22:54.730" style="s2">mean to imply or to incorporate this</p>
+<p begin="00:22:51.360" end="00:22:56.620" style="s2">mental structure of progression onto the</p>
+<p begin="00:22:54.730" end="00:22:59.800" style="s2">notion of evolution this is very</p>
+<p begin="00:22:56.620" end="00:23:03.090" style="s2">important way important point in reading</p>
+<p begin="00:22:59.800" end="00:23:11.340" style="s2">gebser that our tendency to see</p>
+<p begin="00:23:03.090" end="00:23:19.390" style="s2">evolutionary processes as progressive is</p>
+<p begin="00:23:11.340" end="00:23:23.500" style="s2">merely a condition of the mental</p>
+<p begin="00:23:19.390" end="00:23:31.710" style="s2">structure of consciousness and so this</p>
+<p begin="00:23:23.500" end="00:23:33.280" style="s2">is another kind of view that is</p>
+<p begin="00:23:31.710" end="00:23:36.210" style="s2">conditional to</p>
+<p begin="00:23:33.280" end="00:23:40.300" style="s2">and depended upon the mental structure</p>
+<p begin="00:23:36.210" end="00:23:43.870" style="s2">ethic of consciousness and so forget sir</p>
+<p begin="00:23:40.300" end="00:23:45.520" style="s2">because he was moving beyond that</p>
+<p begin="00:23:43.870" end="00:23:48.750" style="s2">conditioned mindset</p>
+<p begin="00:23:45.520" end="00:23:54.300" style="s2">he saw evolutionary change as just that</p>
+<p begin="00:23:48.750" end="00:23:57.040" style="s2">epochal shift but not necessarily</p>
+<p begin="00:23:54.300" end="00:24:00.880" style="s2">progressive and that the notion of</p>
+<p begin="00:23:57.040" end="00:24:02.200" style="s2">progression is imputed epochal shift by</p>
+<p begin="00:24:00.880" end="00:24:04.900" style="s2">the mental structure of consciousness</p>
+<p begin="00:24:02.200" end="00:24:08.410" style="s2">because of the dialectical style of</p>
+<p begin="00:24:04.900" end="00:24:15.840" style="s2">reasoning which over 2,000 years sees</p>
+<p begin="00:24:08.410" end="00:24:17.980" style="s2">this constant progression in the in</p>
+<p begin="00:24:15.840" end="00:24:21.880" style="s2">analogous to the way the mythic</p>
+<p begin="00:24:17.980" end="00:24:24.370" style="s2">structure of consciousness saw</p>
+<p begin="00:24:21.880" end="00:24:27.520" style="s2">everything as complete iteration in</p>
+<p begin="00:24:24.370" end="00:24:30.120" style="s2">return the mental structure of</p>
+<p begin="00:24:27.520" end="00:24:33.550" style="s2">consciousness sees everything as</p>
+<p begin="00:24:30.120" end="00:24:40.920" style="s2">increasingly progressing and so we hear</p>
+<p begin="00:24:33.550" end="00:24:40.920" style="s2">of the concept of complexification</p>
+<p begin="00:24:43.920" end="00:24:49.060" style="s2">complexification that systems and</p>
+<p begin="00:24:46.270" end="00:24:54.250" style="s2">evolution complexified over time and</p>
+<p begin="00:24:49.060" end="00:24:57.700" style="s2">this is merely a view of the mental</p>
+<p begin="00:24:54.250" end="00:25:03.570" style="s2">structure in its type of reasoning which</p>
+<p begin="00:24:57.700" end="00:25:03.570" style="s2">it is gives us this progressive</p>
+<p begin="00:25:05.550" end="00:25:14.290" style="s2">understanding of epochal shift so Gibson</p>
+<p begin="00:25:09.610" end="00:25:15.730" style="s2">really worked hard at making these kinds</p>
+<p begin="00:25:14.290" end="00:25:18.660" style="s2">of distinctions so people could</p>
+<p begin="00:25:15.730" end="00:25:23.440" style="s2">understand that the way we view</p>
+<p begin="00:25:18.660" end="00:25:28.510" style="s2">evolution is a byproduct of the epoch</p>
+<p begin="00:25:23.440" end="00:25:32.980" style="s2">that we are in so without a doubt there</p>
+<p begin="00:25:28.510" end="00:25:34.990" style="s2">is this the pockle shift but it it only</p>
+<p begin="00:25:32.980" end="00:25:37.900" style="s2">appears as a progressive</p>
+<p begin="00:25:34.990" end="00:25:42.090" style="s2">complexification a continual progression</p>
+<p begin="00:25:37.900" end="00:25:45.490" style="s2">in complexification because of the</p>
+<p begin="00:25:42.090" end="00:25:47.580" style="s2">dynamics the dialectical dynamics of a</p>
+<p begin="00:25:45.490" end="00:25:52.800" style="s2">mental structure</p>
+<p begin="00:25:47.580" end="00:25:57.520" style="s2">and so this pyramidal type of thinking</p>
+<p begin="00:25:52.800" end="00:26:00.030" style="s2">with it&#39;s positive consequences results</p>
+<p begin="00:25:57.520" end="00:26:03.730" style="s2">in some of its own limitations</p>
+<p begin="00:26:00.030" end="00:26:06.670" style="s2">represents the efficient phase of the</p>
+<p begin="00:26:03.730" end="00:26:09.550" style="s2">mental structure of consciousness and</p>
+<p begin="00:26:06.670" end="00:26:17.830" style="s2">the really the epical opinion for the</p>
+<p begin="00:26:09.550" end="00:26:28.630" style="s2">last two thousand years now the</p>
+<p begin="00:26:17.830" end="00:26:35.260" style="s2">questions we are in the pyramidal or</p>
+<p begin="00:26:28.630" end="00:26:43.810" style="s2">efficient stage phase of the mental</p>
+<p begin="00:26:35.260" end="00:26:46.390" style="s2">structure and we even gaps or could see</p>
+<p begin="00:26:43.810" end="00:26:53.440" style="s2">that this had already begun to become</p>
+<p begin="00:26:46.390" end="00:26:56.890" style="s2">deficient or we could say it had it</p>
+<p begin="00:26:53.440" end="00:27:04.690" style="s2">started to exhaust its useful</p>
+<p begin="00:26:56.890" end="00:27:08.290" style="s2">evolutionary usefulness as it moved into</p>
+<p begin="00:27:04.690" end="00:27:10.930" style="s2">what he called the deficient stage and</p>
+<p begin="00:27:08.290" end="00:27:15.940" style="s2">he associates that with his term for</p>
+<p begin="00:27:10.930" end="00:27:19.360" style="s2">that is perspectival and this is very</p>
+<p begin="00:27:15.940" end="00:27:24.040" style="s2">interesting because if you&#39;re familiar</p>
+<p begin="00:27:19.360" end="00:27:26.890" style="s2">with integral theory or aqua theory then</p>
+<p begin="00:27:24.040" end="00:27:30.280" style="s2">the whole notion of perspective ilysm</p>
+<p begin="00:27:26.890" end="00:27:34.740" style="s2">and Multan integral methodological</p>
+<p begin="00:27:30.280" end="00:27:39.640" style="s2">pluralism and multi-perspective ilysm is</p>
+<p begin="00:27:34.740" end="00:27:44.140" style="s2">touted as the pinnacle of rational</p>
+<p begin="00:27:39.640" end="00:27:47.130" style="s2">development in but for the very same</p>
+<p begin="00:27:44.140" end="00:27:50.860" style="s2">reasons that gebser saw what</p>
+<p begin="00:27:47.130" end="00:27:53.680" style="s2">perspectival reasoning was he sees that</p>
+<p begin="00:27:50.860" end="00:27:58.030" style="s2">he codifies this as the deficient stage</p>
+<p begin="00:27:53.680" end="00:28:00.260" style="s2">of the mental structure so there&#39;s</p>
+<p begin="00:27:58.030" end="00:28:09.290" style="s2">actually a complete</p>
+<p begin="00:28:00.260" end="00:28:16.630" style="s2">disconnect between aqua theory and GAAP</p>
+<p begin="00:28:09.290" end="00:28:21.220" style="s2">sirs notion of the perspectival phase</p>
+<p begin="00:28:16.630" end="00:28:24.500" style="s2">gap sir saw the perspectival phase of</p>
+<p begin="00:28:21.220" end="00:28:29.660" style="s2">reasoning in the mental structure as</p>
+<p begin="00:28:24.500" end="00:28:34.220" style="s2">being deficient so this is a not a small</p>
+<p begin="00:28:29.660" end="00:28:36.680" style="s2">point if you are a scholar of integral</p>
+<p begin="00:28:34.220" end="00:28:42.160" style="s2">theory it&#39;s aqua aqua version of</p>
+<p begin="00:28:36.680" end="00:28:48.820" style="s2">integral theory so why did gaps or sea</p>
+<p begin="00:28:42.160" end="00:28:48.820" style="s2">perspective ilysm as being deficient</p>
+<p begin="00:28:49.330" end="00:28:56.720" style="s2">well it&#39;s quite you know gap stirred</p>
+<p begin="00:28:53.210" end="00:29:03.470" style="s2">himself is quite complicated to read but</p>
+<p begin="00:28:56.720" end="00:29:07.840" style="s2">what I can summarize for you is that</p>
+<p begin="00:29:03.470" end="00:29:13.040" style="s2">after 2000 years of this progressive</p>
+<p begin="00:29:07.840" end="00:29:18.560" style="s2">movement to find the third term there</p>
+<p begin="00:29:13.040" end="00:29:21.970" style="s2">are three major reasons why the pinnacle</p>
+<p begin="00:29:18.560" end="00:29:25.760" style="s2">of this which is prospective ilysm is</p>
+<p begin="00:29:21.970" end="00:29:33.170" style="s2">become deficient and number one is is</p>
+<p begin="00:29:25.760" end="00:29:37.820" style="s2">that the perspectival ism is developed</p>
+<p begin="00:29:33.170" end="00:29:47.750" style="s2">because of 2,000 years of meta</p>
+<p begin="00:29:37.820" end="00:29:50.480" style="s2">theoretical division so you have higher</p>
+<p begin="00:29:47.750" end="00:29:55.280" style="s2">in high the third term represents higher</p>
+<p begin="00:29:50.480" end="00:30:00.590" style="s2">and higher levels of integration but the</p>
+<p begin="00:29:55.280" end="00:30:04.390" style="s2">situation is so complexified in so</p>
+<p begin="00:30:00.590" end="00:30:11.110" style="s2">driven by this notion of progress in</p>
+<p begin="00:30:04.390" end="00:30:11.110" style="s2">higher higher levels</p>
+<p begin="00:30:11.380" end="00:30:27.290" style="s2">that the that the there are no so there</p>
+<p begin="00:30:17.180" end="00:30:31.040" style="s2">they&#39;re no longer and any solutions okay</p>
+<p begin="00:30:27.290" end="00:30:33.680" style="s2">the solutions the enquiries become more</p>
+<p begin="00:30:31.040" end="00:30:36.620" style="s2">and more abstract more and more meta</p>
+<p begin="00:30:33.680" end="00:30:39.170" style="s2">theoretical more and more complexified</p>
+<p begin="00:30:36.620" end="00:30:41.930" style="s2">they can&#39;t solve any it doesn&#39;t solve</p>
+<p begin="00:30:39.170" end="00:30:46.490" style="s2">any more problems so in a sense it</p>
+<p begin="00:30:41.930" end="00:30:49.280" style="s2">represents a closure so there the meta</p>
+<p begin="00:30:46.490" end="00:30:52.220" style="s2">frames that are required these are not</p>
+<p begin="00:30:49.280" end="00:30:54.350" style="s2">get search terms itself represents the</p>
+<p begin="00:30:52.220" end="00:30:56.900" style="s2">kind of closure because you&#39;re</p>
+<p begin="00:30:54.350" end="00:31:00.980" style="s2">constantly moving to more and more</p>
+<p begin="00:30:56.900" end="00:31:04.630" style="s2">complex higher abstract versions of the</p>
+<p begin="00:31:00.980" end="00:31:10.790" style="s2">inquiry and so that&#39;s why he called this</p>
+<p begin="00:31:04.630" end="00:31:15.860" style="s2">phase deficient the second reason is</p>
+<p begin="00:31:10.790" end="00:31:19.730" style="s2">because the meta frames these are not</p>
+<p begin="00:31:15.860" end="00:31:23.140" style="s2">his terms this is a synopsis they exit</p>
+<p begin="00:31:19.730" end="00:31:26.710" style="s2">their own domain the domain of inquiry</p>
+<p begin="00:31:23.140" end="00:31:35.480" style="s2">so for example in Hargens and</p>
+<p begin="00:31:26.710" end="00:31:38.870" style="s2">Zimmerman&#39;s book integral ecology they</p>
+<p begin="00:31:35.480" end="00:31:42.559" style="s2">it&#39;s a compendium of hundreds of</p>
+<p begin="00:31:38.870" end="00:31:47.330" style="s2">different approaches to ecology parsed</p>
+<p begin="00:31:42.559" end="00:31:52.610" style="s2">out based upon altitude this notion of</p>
+<p begin="00:31:47.330" end="00:31:54.590" style="s2">altitude worldview the who the what the</p>
+<p begin="00:31:52.610" end="00:31:58.070" style="s2">where that it makes all these</p>
+<p begin="00:31:54.590" end="00:32:00.770" style="s2">perspective distinctions but when you</p>
+<p begin="00:31:58.070" end="00:32:07.640" style="s2">read the book interval ecology it does</p>
+<p begin="00:32:00.770" end="00:32:11.929" style="s2">not do ecology okay it does meta theory</p>
+<p begin="00:32:07.640" end="00:32:18.770" style="s2">and so the problem with perspective</p>
+<p begin="00:32:11.929" end="00:32:22.370" style="s2">ilysm is that it it creates its own map</p>
+<p begin="00:32:18.770" end="00:32:23.700" style="s2">territory confusion the map becomes so</p>
+<p begin="00:32:22.370" end="00:32:27.000" style="s2">complex and you</p>
+<p begin="00:32:23.700" end="00:32:30.570" style="s2">so compute concern with the map in its</p>
+<p begin="00:32:27.000" end="00:32:32.909" style="s2">ever increasing complexity that you</p>
+<p begin="00:32:30.570" end="00:32:37.440" style="s2">really kind of lost touch with being and</p>
+<p begin="00:32:32.909" end="00:32:41.159" style="s2">this is really the critique that gaps</p>
+<p begin="00:32:37.440" end="00:32:46.470" style="s2">are has with perspectival ISM and that</p>
+<p begin="00:32:41.159" end="00:32:50.789" style="s2">is that all these progressive ships in</p>
+<p begin="00:32:46.470" end="00:32:55.950" style="s2">the pyramidal structure of reasoning</p>
+<p begin="00:32:50.789" end="00:33:00.659" style="s2">after two thousand years has created a</p>
+<p begin="00:32:55.950" end="00:33:06.690" style="s2">transit idea of transcendence as truth</p>
+<p begin="00:33:00.659" end="00:33:11.659" style="s2">and has completely lost touch is made a</p>
+<p begin="00:33:06.690" end="00:33:15.120" style="s2">gap this gap that&#39;s being held between</p>
+<p begin="00:33:11.659" end="00:33:16.950" style="s2">has been iterated over and over and over</p>
+<p begin="00:33:15.120" end="00:33:19.909" style="s2">again so now like there&#39;s this complete</p>
+<p begin="00:33:16.950" end="00:33:23.490" style="s2">gap between this transcendent</p>
+<p begin="00:33:19.909" end="00:33:30.600" style="s2">abstraction and what he would call being</p>
+<p begin="00:33:23.490" end="00:33:33.360" style="s2">or origin in that perspective ilysm and</p>
+<p begin="00:33:30.600" end="00:33:37.110" style="s2">meta theory can no longer get at</p>
+<p begin="00:33:33.360" end="00:33:39.570" style="s2">imminence and the basic fundamental</p>
+<p begin="00:33:37.110" end="00:33:42.750" style="s2">ground of being so this is really the</p>
+<p begin="00:33:39.570" end="00:33:47.700" style="s2">biggest critique about perspective ilysm</p>
+<p begin="00:33:42.750" end="00:33:52.340" style="s2">that it starts to be distracted by its</p>
+<p begin="00:33:47.700" end="00:33:56.159" style="s2">own abstractions and it no longer what</p>
+<p begin="00:33:52.340" end="00:34:02.240" style="s2">gaps earth Kant uses the coins the term</p>
+<p begin="00:33:56.159" end="00:34:06.690" style="s2">no longer a where&#39;s the truth in being</p>
+<p begin="00:34:02.240" end="00:34:10.369" style="s2">and so what was once in the pyramidal</p>
+<p begin="00:34:06.690" end="00:34:13.460" style="s2">form efficient and evolutionarily</p>
+<p begin="00:34:10.369" end="00:34:17.780" style="s2">advantageous has become in the</p>
+<p begin="00:34:13.460" end="00:34:21.179" style="s2">perspectival form deficient in the only</p>
+<p begin="00:34:17.780" end="00:34:24.179" style="s2">place I see this an aqua theory is when</p>
+<p begin="00:34:21.179" end="00:34:27.480" style="s2">Wilbur says that aqua is a map of the</p>
+<p begin="00:34:24.179" end="00:34:32.399" style="s2">prison and this really would resonate</p>
+<p begin="00:34:27.480" end="00:34:35.429" style="s2">with gebser that perspectival ISM is a</p>
+<p begin="00:34:32.399" end="00:34:37.060" style="s2">great map but it&#39;s a map of the prison</p>
+<p begin="00:34:35.429" end="00:34:41.200" style="s2">and the prison</p>
+<p begin="00:34:37.060" end="00:34:44.280" style="s2">been generated by dialectical mind the</p>
+<p begin="00:34:41.200" end="00:34:50.310" style="s2">prison is nothing but the rarefied</p>
+<p begin="00:34:44.280" end="00:34:54.700" style="s2">abstractions of dialectical mind and so</p>
+<p begin="00:34:50.310" end="00:35:01.240" style="s2">this represents what gaps we call the</p>
+<p begin="00:34:54.700" end="00:35:05.220" style="s2">deficient phase of the mental structure</p>
+<p begin="00:35:01.240" end="00:35:16.150" style="s2">of consciousness which is this hyper</p>
+<p begin="00:35:05.220" end="00:35:21.670" style="s2">complexified dialectical reasoning so</p>
+<p begin="00:35:16.150" end="00:35:26.350" style="s2">we&#39;ve moved from the mythic and it&#39;s</p>
+<p begin="00:35:21.670" end="00:35:33.760" style="s2">polar reasoning which is not yet</p>
+<p begin="00:35:26.350" end="00:35:38.860" style="s2">dialectic to the mental structure of</p>
+<p begin="00:35:33.760" end="00:35:43.120" style="s2">consciousness in its three phases the</p>
+<p begin="00:35:38.860" end="00:35:47.740" style="s2">latent phase and the latent phase which</p>
+<p begin="00:35:43.120" end="00:35:53.170" style="s2">is oceanic reasoning the efficient phase</p>
+<p begin="00:35:47.740" end="00:36:00.370" style="s2">which is pyramidal and the deficient</p>
+<p begin="00:35:53.170" end="00:36:04.870" style="s2">phase which is perspectival and so now</p>
+<p begin="00:36:00.370" end="00:36:10.440" style="s2">we want to look at what is the latent</p>
+<p begin="00:36:04.870" end="00:36:10.440" style="s2">phase of the new structure</p>
+<p begin="00:36:17.300" end="00:36:27.930" style="s2">one of the types of reasoning that gets</p>
+<p begin="00:36:20.520" end="00:36:30.390" style="s2">her seized as a candidate we just call</p>
+<p begin="00:36:27.930" end="00:36:35.840" style="s2">it a candidate for this latent phase of</p>
+<p begin="00:36:30.390" end="00:36:48.110" style="s2">the new structure he called paradoxical</p>
+<p begin="00:36:35.840" end="00:36:53.840" style="s2">reasoning and paradoxical reasoning has</p>
+<p begin="00:36:48.110" end="00:36:58.830" style="s2">this can be described as being able to</p>
+<p begin="00:36:53.840" end="00:37:02.880" style="s2">hold this gap of a and not eight let&#39;s</p>
+<p begin="00:36:58.830" end="00:37:07.830" style="s2">say so can still hold this gap so in</p>
+<p begin="00:37:02.880" end="00:37:12.870" style="s2">that sense it retains some of the</p>
+<p begin="00:37:07.830" end="00:37:17.730" style="s2">experience of diuresis or separation but</p>
+<p begin="00:37:12.870" end="00:37:27.600" style="s2">what it does is it resists the synthetic</p>
+<p begin="00:37:17.730" end="00:37:32.510" style="s2">synthetic move move or the tree resists</p>
+<p begin="00:37:27.600" end="00:37:32.510" style="s2">the synthetic or the transcendent or</p>
+<p begin="00:37:33.770" end="00:37:40.950" style="s2">abstraction the higher abstraction move</p>
+<p begin="00:37:38.420" end="00:37:43.760" style="s2">and that&#39;s why it calls it paradoxical</p>
+<p begin="00:37:40.950" end="00:37:49.220" style="s2">because it kind of rests in this</p>
+<p begin="00:37:43.760" end="00:37:54.600" style="s2">paradoxical territory just as that</p>
+<p begin="00:37:49.220" end="00:37:56.460" style="s2">without the synthetic move and what gaps</p>
+<p begin="00:37:54.600" end="00:38:01.820" style="s2">are saw it I think it&#39;s consistent with</p>
+<p begin="00:37:56.460" end="00:38:01.820" style="s2">what we see today the reason why this</p>
+<p begin="00:38:01.970" end="00:38:11.790" style="s2">alternative comes up is because the the</p>
+<p begin="00:38:07.260" end="00:38:14.520" style="s2">people that are starting to in the</p>
+<p begin="00:38:11.790" end="00:38:17.400" style="s2">history of what Gibson was looking at</p>
+<p begin="00:38:14.520" end="00:38:22.100" style="s2">starting to reason in a more paradoxical</p>
+<p begin="00:38:17.400" end="00:38:27.650" style="s2">style or all people related to either</p>
+<p begin="00:38:22.100" end="00:38:30.650" style="s2">spirituality so for example the Buddhist</p>
+<p begin="00:38:27.650" end="00:38:30.650" style="s2">scholastics</p>
+<p begin="00:38:31.700" end="00:38:47.370" style="s2">or that have some kind of reinvent with</p>
+<p begin="00:38:38.070" end="00:38:56.420" style="s2">being as a as for example Heidegger or</p>
+<p begin="00:38:47.370" end="00:39:00.440" style="s2">are interested in theology or religion</p>
+<p begin="00:38:56.420" end="00:39:09.020" style="s2">and so you have the beginning of the</p>
+<p begin="00:39:00.440" end="00:39:12.810" style="s2">Western process philosophers and so this</p>
+<p begin="00:39:09.020" end="00:39:15.990" style="s2">commonality between them is that they</p>
+<p begin="00:39:12.810" end="00:39:23.970" style="s2">were looking outside the mind or beyond</p>
+<p begin="00:39:15.990" end="00:39:26.730" style="s2">the mind to ground truth in being and in</p>
+<p begin="00:39:23.970" end="00:39:33.170" style="s2">that being in that experience of being</p>
+<p begin="00:39:26.730" end="00:39:42.300" style="s2">they found the ability to hold the mind</p>
+<p begin="00:39:33.170" end="00:39:50.360" style="s2">stable in this paradoxical state and so</p>
+<p begin="00:39:42.300" end="00:39:57.230" style="s2">paradoxical reasoning is a transitional</p>
+<p begin="00:39:50.360" end="00:40:00.480" style="s2">phase that gets our saw associated with</p>
+<p begin="00:39:57.230" end="00:40:04.500" style="s2">a movement that was not toward the</p>
+<p begin="00:40:00.480" end="00:40:07.350" style="s2">deficient phase of the mental structure</p>
+<p begin="00:40:04.500" end="00:40:10.920" style="s2">but he saw it as a transitional face he</p>
+<p begin="00:40:07.350" end="00:40:13.800" style="s2">doesn&#39;t quite tag it as the latent phase</p>
+<p begin="00:40:10.920" end="00:40:17.580" style="s2">of the new structure but he does</p>
+<p begin="00:40:13.800" end="00:40:19.680" style="s2">identify paradoxical reasoning as in a</p>
+<p begin="00:40:17.580" end="00:40:24.930" style="s2">category of its own entrance that</p>
+<p begin="00:40:19.680" end="00:40:27.480" style="s2">transitional between dialectical</p>
+<p begin="00:40:24.930" end="00:40:31.920" style="s2">reasoning it has this ability to hold</p>
+<p begin="00:40:27.480" end="00:40:34.700" style="s2">this paradox but resisting this tendency</p>
+<p begin="00:40:31.920" end="00:40:39.570" style="s2">to make the higher synthetic move</p>
+<p begin="00:40:34.700" end="00:40:43.910" style="s2">creates a completely different view and</p>
+<p begin="00:40:39.570" end="00:40:43.910" style="s2">so that is an important</p>
+<p begin="00:40:44.329" end="00:40:53.450" style="s2">phase two consider as we continue our</p>
+<p begin="00:40:49.259" end="00:40:53.450" style="s2">inquiry in the magellan course</p>
+</div>
+</body>
+</tt>

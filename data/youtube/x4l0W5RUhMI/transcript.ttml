@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.179" end="00:00:04.650" style="s2">everybody sorry for the low five both in</p>
+<p begin="00:00:03.090" end="00:00:07.859" style="s2">terms of the camera in terms of my face</p>
+<p begin="00:00:04.650" end="00:00:09.179" style="s2">but we are we are there&#39;s been a whole</p>
+<p begin="00:00:07.859" end="00:00:10.469" style="s2">lot of stuff going on and I&#39;ve been</p>
+<p begin="00:00:09.179" end="00:00:13.259" style="s2">coming across a whole bunch of different</p>
+<p begin="00:00:10.469" end="00:00:14.460" style="s2">ideas both in my own head and</p>
+<p begin="00:00:13.259" end="00:00:16.500" style="s2">interactions with other people and it</p>
+<p begin="00:00:14.460" end="00:00:18.270" style="s2">seems like it&#39;s useful to share these</p>
+<p begin="00:00:16.500" end="00:00:21.630" style="s2">more broadly so I think of this as deep</p>
+<p begin="00:00:18.270" end="00:00:23.789" style="s2">code bits and this particular topic I</p>
+<p begin="00:00:21.630" end="00:00:26.550" style="s2">want to focus on the notion of universal</p>
+<p begin="00:00:23.789" end="00:00:28.830" style="s2">basic income and how it relates to the</p>
+<p begin="00:00:26.550" end="00:00:31.140" style="s2">problem of effective collective</p>
+<p begin="00:00:28.830" end="00:00:33.930" style="s2">intelligence I think there&#39;s a couple of</p>
+<p begin="00:00:31.140" end="00:00:36.120" style="s2">I think bad frames and bad ideas about</p>
+<p begin="00:00:33.930" end="00:00:37.739" style="s2">how ubi is being considered and to be</p>
+<p begin="00:00:36.120" end="00:00:40.020" style="s2">perfectly frank I think these are also</p>
+<p begin="00:00:37.739" end="00:00:43.500" style="s2">part of some bad ideas about the nature</p>
+<p begin="00:00:40.020" end="00:00:45.600" style="s2">of how the market works so when we take</p>
+<p begin="00:00:43.500" end="00:00:47.550" style="s2">a look at the market at least a sizeable</p>
+<p begin="00:00:45.600" end="00:00:50.399" style="s2">fraction of what we are looking at and</p>
+<p begin="00:00:47.550" end="00:00:51.360" style="s2">caring about is distributed intelligence</p>
+<p begin="00:00:50.399" end="00:00:53.190" style="s2">so it&#39;s a form of collective</p>
+<p begin="00:00:51.360" end="00:00:54.809" style="s2">intelligence the whole premise of the</p>
+<p begin="00:00:53.190" end="00:00:56.219" style="s2">market - why it&#39;s the reason why it&#39;s</p>
+<p begin="00:00:54.809" end="00:00:58.739" style="s2">considered to be more powerful and more</p>
+<p begin="00:00:56.219" end="00:01:00.750" style="s2">valuable than a bureaucratic top down</p>
+<p begin="00:00:58.739" end="00:01:02.670" style="s2">since making a choice making mechanism</p>
+<p begin="00:01:00.750" end="00:01:06.240" style="s2">is that it has the advantage of being</p>
+<p begin="00:01:02.670" end="00:01:09.299" style="s2">able to access the perspective and value</p>
+<p begin="00:01:06.240" end="00:01:11.880" style="s2">it&#39;s of capacity and values of everyone</p>
+<p begin="00:01:09.299" end="00:01:13.470" style="s2">everybody at the edge and then through</p>
+<p begin="00:01:11.880" end="00:01:15.750" style="s2">the very specific communications</p>
+<p begin="00:01:13.470" end="00:01:17.880" style="s2">protocol of money and the price signal</p>
+<p begin="00:01:15.750" end="00:01:19.409" style="s2">can propagate that signal in an</p>
+<p begin="00:01:17.880" end="00:01:22.290" style="s2">environment that actually the invisible</p>
+<p begin="00:01:19.409" end="00:01:25.770" style="s2">hand turns into intelligence other</p>
+<p begin="00:01:22.290" end="00:01:29.220" style="s2">people can use it right so the the price</p>
+<p begin="00:01:25.770" end="00:01:32.070" style="s2">of a gallon of gas tells me a lot about</p>
+<p begin="00:01:29.220" end="00:01:34.860" style="s2">what&#39;s going on in a huge distributed</p>
+<p begin="00:01:32.070" end="00:01:36.390" style="s2">marketplace and I don&#39;t have to know any</p>
+<p begin="00:01:34.860" end="00:01:37.829" style="s2">of the rest of that information I don&#39;t</p>
+<p begin="00:01:36.390" end="00:01:39.689" style="s2">have to know anything about the</p>
+<p begin="00:01:37.829" end="00:01:41.070" style="s2">underlying drilling technologies and</p>
+<p begin="00:01:39.689" end="00:01:42.720" style="s2">transportation technologies and</p>
+<p begin="00:01:41.070" end="00:01:44.399" style="s2">geopolitical forces and although this</p>
+<p begin="00:01:42.720" end="00:01:45.750" style="s2">stuff I can actually look at the price</p>
+<p begin="00:01:44.399" end="00:01:47.189" style="s2">of gas and that gives me an the</p>
+<p begin="00:01:45.750" end="00:01:48.899" style="s2">information which is at least relevant</p>
+<p begin="00:01:47.189" end="00:01:52.619" style="s2">to some of my choices certainly not all</p>
+<p begin="00:01:48.899" end="00:01:53.880" style="s2">of them and specifically can give me</p>
+<p begin="00:01:52.619" end="00:01:55.530" style="s2">information that may be relevant to my</p>
+<p begin="00:01:53.880" end="00:01:57.180" style="s2">entrepreneurial choices right so if I</p>
+<p begin="00:01:55.530" end="00:01:58.649" style="s2">see the price of gas is quite high I</p>
+<p begin="00:01:57.180" end="00:02:02.549" style="s2">might decide to focus my efforts on</p>
+<p begin="00:01:58.649" end="00:02:03.659" style="s2">electric cars okay so in that context</p>
+<p begin="00:02:02.549" end="00:02:06.600" style="s2">we&#39;re thinking about the market as a</p>
+<p begin="00:02:03.659" end="00:02:09.000" style="s2">form of distributed intelligence I&#39;d</p>
+<p begin="00:02:06.600" end="00:02:11.160" style="s2">like to introduce you bi as a mechanism</p>
+<p begin="00:02:09.000" end="00:02:13.440" style="s2">to increase the intelligence of the</p>
+<p begin="00:02:11.160" end="00:02:15.870" style="s2">market in fact that&#39;s the point</p>
+<p begin="00:02:13.440" end="00:02:17.910" style="s2">think that there&#39;s a frame of UVI as a</p>
+<p begin="00:02:15.870" end="00:02:20.520" style="s2">form of welfare that I think is wrong I</p>
+<p begin="00:02:17.910" end="00:02:22.350" style="s2">think there&#39;s that happens it happens is</p>
+<p begin="00:02:20.520" end="00:02:24.450" style="s2">this kind of a side benefit a really</p>
+<p begin="00:02:22.350" end="00:02:26.550" style="s2">nice side benefit but more importantly</p>
+<p begin="00:02:24.450" end="00:02:29.220" style="s2">what ubi is is a mechanism of</p>
+<p begin="00:02:26.550" end="00:02:31.740" style="s2">dramatically increasing the value of the</p>
+<p begin="00:02:29.220" end="00:02:33.930" style="s2">Commons of the market as a collective</p>
+<p begin="00:02:31.740" end="00:02:36.300" style="s2">intelligence and I do that it does that</p>
+<p begin="00:02:33.930" end="00:02:38.220" style="s2">in two ways at least two important ways</p>
+<p begin="00:02:36.300" end="00:02:41.280" style="s2">and by the way I&#39;ll throw in a third</p>
+<p begin="00:02:38.220" end="00:02:45.390" style="s2">piece of the story as a as a bonus at</p>
+<p begin="00:02:41.280" end="00:02:48.720" style="s2">the end so one piece of it has to do</p>
+<p begin="00:02:45.390" end="00:02:51.330" style="s2">with the the network topology and the</p>
+<p begin="00:02:48.720" end="00:02:54.510" style="s2">supply of signal right so for example my</p>
+<p begin="00:02:51.330" end="00:02:57.960" style="s2">own sense or iam my my six senses</p>
+<p begin="00:02:54.510" end="00:02:59.610" style="s2">provide input to my my intelligence my</p>
+<p begin="00:02:57.960" end="00:03:01.530" style="s2">time using my senses to make sense of</p>
+<p begin="00:02:59.610" end="00:03:03.720" style="s2">the world around me now if I close my</p>
+<p begin="00:03:01.530" end="00:03:05.040" style="s2">eyes the fact that I have eyes isn&#39;t</p>
+<p begin="00:03:03.720" end="00:03:06.570" style="s2">very helpful because I&#39;ve cut off the</p>
+<p begin="00:03:05.040" end="00:03:08.790" style="s2">amount of signal that I&#39;m getting from</p>
+<p begin="00:03:06.570" end="00:03:10.260" style="s2">the visual field and a lot less</p>
+<p begin="00:03:08.790" end="00:03:13.890" style="s2">intelligent than other words would be</p>
+<p begin="00:03:10.260" end="00:03:17.790" style="s2">okay well in our current distribution of</p>
+<p begin="00:03:13.890" end="00:03:19.530" style="s2">money we have a very bad ratio of signal</p>
+<p begin="00:03:17.790" end="00:03:22.260" style="s2">we have some nodes say like Bill Gates</p>
+<p begin="00:03:19.530" end="00:03:24.360" style="s2">who have an enormous amount of signal</p>
+<p begin="00:03:22.260" end="00:03:26.700" style="s2">meaning enormous amount of money that he</p>
+<p begin="00:03:24.360" end="00:03:29.150" style="s2">is putting into the supply and demand</p>
+<p begin="00:03:26.700" end="00:03:31.650" style="s2">key equation of the entire market a</p>
+<p begin="00:03:29.150" end="00:03:33.750" style="s2">massive massive amount of signal now I</p>
+<p begin="00:03:31.650" end="00:03:35.550" style="s2">will accept the premise that he&#39;s a very</p>
+<p begin="00:03:33.750" end="00:03:37.170" style="s2">smart guy I accept the premise that</p>
+<p begin="00:03:35.550" end="00:03:39.300" style="s2">you&#39;ve learned big skills and has good</p>
+<p begin="00:03:37.170" end="00:03:41.130" style="s2">things to share but the magnitude of</p>
+<p begin="00:03:39.300" end="00:03:43.190" style="s2">asymmetry of that signal to all the rest</p>
+<p begin="00:03:41.130" end="00:03:45.510" style="s2">of the nodes in the environment is</p>
+<p begin="00:03:43.190" end="00:03:47.100" style="s2">clearly disproportionate and therefore</p>
+<p begin="00:03:45.510" end="00:03:49.320" style="s2">it concentrates too much of our</p>
+<p begin="00:03:47.100" end="00:03:51.390" style="s2">collective attention on the things that</p>
+<p begin="00:03:49.320" end="00:03:52.739" style="s2">his particular intelligence is orienting</p>
+<p begin="00:03:51.390" end="00:03:55.160" style="s2">attention towards where his money is</p>
+<p begin="00:03:52.739" end="00:03:58.739" style="s2">flowing all right flip it around</p>
+<p begin="00:03:55.160" end="00:04:01.050" style="s2">contrariwise we have on the global basis</p>
+<p begin="00:03:58.739" end="00:04:02.610" style="s2">a billion people who have scarcely any</p>
+<p begin="00:04:01.050" end="00:04:03.660" style="s2">signal and in the United States we still</p>
+<p begin="00:04:02.610" end="00:04:05.430" style="s2">have a sizable fraction of the</p>
+<p begin="00:04:03.660" end="00:04:08.040" style="s2">population who have far too little</p>
+<p begin="00:04:05.430" end="00:04:10.290" style="s2">signal and so their capacity to perceive</p>
+<p begin="00:04:08.040" end="00:04:12.090" style="s2">what&#39;s going on know what things matter</p>
+<p begin="00:04:10.290" end="00:04:14.820" style="s2">and orient our collective attention in</p>
+<p begin="00:04:12.090" end="00:04:18.060" style="s2">those directions is far too little all</p>
+<p begin="00:04:14.820" end="00:04:18.810" style="s2">right so at a topological level if</p>
+<p begin="00:04:18.060" end="00:04:20.880" style="s2">you&#39;re just trying to create a</p>
+<p begin="00:04:18.810" end="00:04:22.740" style="s2">distributed intelligence graph and</p>
+<p begin="00:04:20.880" end="00:04:26.039" style="s2">you&#39;re using money as a mechanism of</p>
+<p begin="00:04:22.740" end="00:04:26.940" style="s2">trying to get communications from all</p>
+<p begin="00:04:26.039" end="00:04:29.610" style="s2">the different nodes</p>
+<p begin="00:04:26.940" end="00:04:31.260" style="s2">what is what deserves attention and what</p>
+<p begin="00:04:29.610" end="00:04:32.670" style="s2">deserves to flow resource and energy at</p>
+<p begin="00:04:31.260" end="00:04:35.790" style="s2">it which is again what this market is</p>
+<p begin="00:04:32.670" end="00:04:38.010" style="s2">doing you would want to have a least a</p>
+<p begin="00:04:35.790" end="00:04:40.950" style="s2">minimum amount of signal coming from all</p>
+<p begin="00:04:38.010" end="00:04:43.890" style="s2">nodes so instead of UB I why don&#39;t we</p>
+<p begin="00:04:40.950" end="00:04:45.930" style="s2">call UB signal right universal basic</p>
+<p begin="00:04:43.890" end="00:04:48.630" style="s2">signal that every node which say every</p>
+<p begin="00:04:45.930" end="00:04:49.740" style="s2">member of the network has must have for</p>
+<p begin="00:04:48.630" end="00:04:52.170" style="s2">the networked actor should be getting</p>
+<p begin="00:04:49.740" end="00:04:53.970" style="s2">the information it needs to be doing</p>
+<p begin="00:04:52.170" end="00:04:55.590" style="s2">effective sense making right that&#39;s</p>
+<p begin="00:04:53.970" end="00:04:57.000" style="s2">that&#39;s one piece that&#39;s key elements so</p>
+<p begin="00:04:55.590" end="00:04:59.250" style="s2">when you start thinking about it in that</p>
+<p begin="00:04:57.000" end="00:05:01.290" style="s2">way and you&#39;re like well well how</p>
+<p begin="00:04:59.250" end="00:05:04.230" style="s2">powerful would the marketplace be what</p>
+<p begin="00:05:01.290" end="00:05:05.700" style="s2">would be the value of the Commons of the</p>
+<p begin="00:05:04.230" end="00:05:08.190" style="s2">market if we were actually able to get</p>
+<p begin="00:05:05.700" end="00:05:09.780" style="s2">it to have meaningfully substantially</p>
+<p begin="00:05:08.190" end="00:05:11.160" style="s2">better intelligence because we actually</p>
+<p begin="00:05:09.780" end="00:05:13.260" style="s2">just had the right amount of signal well</p>
+<p begin="00:05:11.160" end="00:05:15.630" style="s2">and with the metaphor how much powerful</p>
+<p begin="00:05:13.260" end="00:05:16.680" style="s2">would I be if I open my eyes it&#39;s a lot</p>
+<p begin="00:05:15.630" end="00:05:20.430" style="s2">it&#39;s a big difference</p>
+<p begin="00:05:16.680" end="00:05:23.340" style="s2">and so that&#39;s one big argument in why</p>
+<p begin="00:05:20.430" end="00:05:25.080" style="s2">ubi is is in fact not just a important</p>
+<p begin="00:05:23.340" end="00:05:26.670" style="s2">but I would say as we go forward and as</p>
+<p begin="00:05:25.080" end="00:05:28.370" style="s2">the complexity of the environment we&#39;re</p>
+<p begin="00:05:26.670" end="00:05:30.780" style="s2">dealing with is continuing to grow</p>
+<p begin="00:05:28.370" end="00:05:32.250" style="s2">getting our markets to be vastly more</p>
+<p begin="00:05:30.780" end="00:05:34.640" style="s2">effective at collective intelligence</p>
+<p begin="00:05:32.250" end="00:05:37.170" style="s2">means ubi is almost certainly requisite</p>
+<p begin="00:05:34.640" end="00:05:39.480" style="s2">okay the other side in this other side</p>
+<p begin="00:05:37.170" end="00:05:42.690" style="s2">is where welfare and market</p>
+<p begin="00:05:39.480" end="00:05:45.060" style="s2">effectiveness also did bound up this has</p>
+<p begin="00:05:42.690" end="00:05:47.010" style="s2">to do with the fact that every person</p>
+<p begin="00:05:45.060" end="00:05:48.960" style="s2">every node in the network is going to</p>
+<p begin="00:05:47.010" end="00:05:52.560" style="s2">have a differential relationship around</p>
+<p begin="00:05:48.960" end="00:05:54.990" style="s2">their risk the risk profile that&#39;s so</p>
+<p begin="00:05:52.560" end="00:05:57.620" style="s2">they may be risk neutral they may be</p>
+<p begin="00:05:54.990" end="00:06:00.210" style="s2">risk seeking in the Navy risk-averse now</p>
+<p begin="00:05:57.620" end="00:06:01.950" style="s2">this becomes particularly pointed where</p>
+<p begin="00:06:00.210" end="00:06:03.750" style="s2">risk aversion risk seeking behavior</p>
+<p begin="00:06:01.950" end="00:06:04.919" style="s2">highly asymmetric which is to say when</p>
+<p begin="00:06:03.750" end="00:06:06.720" style="s2">people have a lot of money people have</p>
+<p begin="00:06:04.919" end="00:06:09.000" style="s2">very little money because of course in</p>
+<p begin="00:06:06.720" end="00:06:10.710" style="s2">our environment there&#39;s a smooth curve</p>
+<p begin="00:06:09.000" end="00:06:14.060" style="s2">and then a steep drop-off in terms of</p>
+<p begin="00:06:10.710" end="00:06:17.730" style="s2">how many resources you have - you&#39;ve got</p>
+<p begin="00:06:14.060" end="00:06:20.910" style="s2">$20,000 a year predictably reliably and</p>
+<p begin="00:06:17.730" end="00:06:22.860" style="s2">smoothly and from an end up you have we</p>
+<p begin="00:06:20.910" end="00:06:24.620" style="s2">might call optionality you are</p>
+<p begin="00:06:22.860" end="00:06:28.080" style="s2">relatively risk neutral you at least</p>
+<p begin="00:06:24.620" end="00:06:29.310" style="s2">provisionally ish say no to an option so</p>
+<p begin="00:06:28.080" end="00:06:31.860" style="s2">if somebody comes to you makes you a</p>
+<p begin="00:06:29.310" end="00:06:34.440" style="s2">market transaction says hey would you do</p>
+<p begin="00:06:31.860" end="00:06:36.990" style="s2">X for y dollars your ability to say no</p>
+<p begin="00:06:34.440" end="00:06:38.820" style="s2">is not catastrophic for you right you</p>
+<p begin="00:06:36.990" end="00:06:40.920" style="s2">don&#39;t get stuck having to sort of starve</p>
+<p begin="00:06:38.820" end="00:06:42.120" style="s2">to death if you say no to that</p>
+<p begin="00:06:40.920" end="00:06:43.170" style="s2">but as soon as you start getting below</p>
+<p begin="00:06:42.120" end="00:06:45.330" style="s2">that number and it may in fact be a</p>
+<p begin="00:06:43.170" end="00:06:47.100" style="s2">higher nipple so just use X but below</p>
+<p begin="00:06:45.330" end="00:06:49.410" style="s2">that number you actually become risk</p>
+<p begin="00:06:47.100" end="00:06:52.380" style="s2">averse which means that your ability to</p>
+<p begin="00:06:49.410" end="00:06:54.090" style="s2">say no to it to a transaction isn&#39;t</p>
+<p begin="00:06:52.380" end="00:06:56.280" style="s2">giving the right signal back into the</p>
+<p begin="00:06:54.090" end="00:06:58.380" style="s2">market right had you wereyou</p>
+<p begin="00:06:56.280" end="00:06:59.520" style="s2">risk-neutral you would have said no but</p>
+<p begin="00:06:58.380" end="00:07:00.840" style="s2">you&#39;re not missing neutrals so now</p>
+<p begin="00:06:59.520" end="00:07:03.150" style="s2">you&#39;re saying yes well that&#39;s telling us</p>
+<p begin="00:07:00.840" end="00:07:04.650" style="s2">more than anything else it&#39;s just the</p>
+<p begin="00:07:03.150" end="00:07:06.900" style="s2">market actually is characterized by</p>
+<p begin="00:07:04.650" end="00:07:08.790" style="s2">nonlinear relationships around risk</p>
+<p begin="00:07:06.900" end="00:07:10.140" style="s2">subversion and risk seeking behavior and</p>
+<p begin="00:07:08.790" end="00:07:11.430" style="s2">that actually doesn&#39;t tell us a whole</p>
+<p begin="00:07:10.140" end="00:07:12.990" style="s2">lot more it just means that our network</p>
+<p begin="00:07:11.430" end="00:07:15.120" style="s2">topologies up that&#39;s all it tells</p>
+<p begin="00:07:12.990" end="00:07:18.360" style="s2">us because well let me give you the</p>
+<p begin="00:07:15.120" end="00:07:20.460" style="s2">example so I&#39;ve got a particular</p>
+<p begin="00:07:18.360" end="00:07:22.860" style="s2">archetype of an individual that I read</p>
+<p begin="00:07:20.460" end="00:07:25.170" style="s2">about after the 2008 financial crisis so</p>
+<p begin="00:07:22.860" end="00:07:26.940" style="s2">she was a old woman who cleaned the</p>
+<p begin="00:07:25.170" end="00:07:28.380" style="s2">toilets in the JP Morgan office and she</p>
+<p begin="00:07:26.940" end="00:07:29.280" style="s2">actually ran three shifts so she went to</p>
+<p begin="00:07:28.380" end="00:07:30.780" style="s2">three different places throughout the</p>
+<p begin="00:07:29.280" end="00:07:33.030" style="s2">day so this is a very hardworking person</p>
+<p begin="00:07:30.780" end="00:07:34.410" style="s2">and of course she&#39;s paid minimum wage</p>
+<p begin="00:07:33.030" end="00:07:35.490" style="s2">because that&#39;s what you pay do the</p>
+<p begin="00:07:34.410" end="00:07:37.620" style="s2">people who clean the toilets in your</p>
+<p begin="00:07:35.490" end="00:07:39.390" style="s2">office so you had bankers who were</p>
+<p begin="00:07:37.620" end="00:07:42.060" style="s2">definitely destroying the economy and</p>
+<p begin="00:07:39.390" end="00:07:44.100" style="s2">being very greedy and bad making lots</p>
+<p begin="00:07:42.060" end="00:07:45.360" style="s2">and lots of money and this lady who was</p>
+<p begin="00:07:44.100" end="00:07:47.250" style="s2">definitely not destroying anybody and</p>
+<p begin="00:07:45.360" end="00:07:48.300" style="s2">was doing something of vital service</p>
+<p begin="00:07:47.250" end="00:07:51.360" style="s2">who&#39;s paying great little and working</p>
+<p begin="00:07:48.300" end="00:07:53.370" style="s2">really really hard so that&#39;s what I</p>
+<p begin="00:07:51.360" end="00:07:55.070" style="s2">would say that&#39;s a problem in the nature</p>
+<p begin="00:07:53.370" end="00:07:57.390" style="s2">of the market because here&#39;s the thing</p>
+<p begin="00:07:55.070" end="00:07:59.100" style="s2">imagine if she had the ability to have</p>
+<p begin="00:07:57.390" end="00:08:01.050" style="s2">auction ality imagine if she had a</p>
+<p begin="00:07:59.100" end="00:08:03.750" style="s2">source of income that was not dependent</p>
+<p begin="00:08:01.050" end="00:08:05.880" style="s2">on that particular job and when offered</p>
+<p begin="00:08:03.750" end="00:08:07.830" style="s2">to be paid $8 or $10 an hour to clean</p>
+<p begin="00:08:05.880" end="00:08:08.970" style="s2">toilets you could just say off and</p>
+<p begin="00:08:07.830" end="00:08:10.500" style="s2">go do whatever they else should water</p>
+<p begin="00:08:08.970" end="00:08:12.380" style="s2">including nothing all right it&#39;s crucial</p>
+<p begin="00:08:10.500" end="00:08:14.940" style="s2">the ability to say need to do nothing</p>
+<p begin="00:08:12.380" end="00:08:16.530" style="s2">changes the profile what happens across</p>
+<p begin="00:08:14.940" end="00:08:18.240" style="s2">transactions you now have an actual</p>
+<p begin="00:08:16.530" end="00:08:20.790" style="s2">agreement an actual win-win agreement</p>
+<p begin="00:08:18.240" end="00:08:23.040" style="s2">only works if both parties can actually</p>
+<p begin="00:08:20.790" end="00:08:24.330" style="s2">walk away from that transaction if both</p>
+<p begin="00:08:23.040" end="00:08:25.560" style="s2">parties can walk away then with the</p>
+<p begin="00:08:24.330" end="00:08:27.600" style="s2">price that they agree to as the real</p>
+<p begin="00:08:25.560" end="00:08:29.190" style="s2">market price if one party can&#39;t walk</p>
+<p begin="00:08:27.600" end="00:08:30.300" style="s2">away the price to agree to is not the</p>
+<p begin="00:08:29.190" end="00:08:31.590" style="s2">real market price anymore you&#39;re not</p>
+<p begin="00:08:30.300" end="00:08:33.870" style="s2">getting good signal in your price</p>
+<p begin="00:08:31.590" end="00:08:35.940" style="s2">equation so let&#39;s imagine she could say</p>
+<p begin="00:08:33.870" end="00:08:37.349" style="s2"> off she had a ubi for example and</p>
+<p begin="00:08:35.940" end="00:08:38.820" style="s2">that ubi was big enough that she could</p>
+<p begin="00:08:37.349" end="00:08:40.349" style="s2">literally just say no thank you I&#39;ll</p>
+<p begin="00:08:38.820" end="00:08:42.300" style="s2">just go home and do nothing but raise my</p>
+<p begin="00:08:40.349" end="00:08:45.750" style="s2">kids and grow a garden wherever else I</p>
+<p begin="00:08:42.300" end="00:08:47.940" style="s2">think it&#39;s cool well very soon</p>
+<p begin="00:08:45.750" end="00:08:49.740" style="s2">thereafter the boys at JPMorgan have to</p>
+<p begin="00:08:47.940" end="00:08:51.000" style="s2">figure out how they gonna clean their</p>
+<p begin="00:08:49.740" end="00:08:52.470" style="s2">own toilets of course they could clean</p>
+<p begin="00:08:51.000" end="00:08:53.930" style="s2">their own toilets that&#39;s perfectly valid</p>
+<p begin="00:08:52.470" end="00:08:56.430" style="s2">solution aye-aye sir</p>
+<p begin="00:08:53.930" end="00:08:59.760" style="s2">that&#39;s how I clean my toilet toilet at</p>
+<p begin="00:08:56.430" end="00:09:01.230" style="s2">home or they could choose to hire</p>
+<p begin="00:08:59.760" end="00:09:02.850" style="s2">somebody but now they&#39;re gonna have to</p>
+<p begin="00:09:01.230" end="00:09:06.600" style="s2">actually hire somebody at what we call</p>
+<p begin="00:09:02.850" end="00:09:08.220" style="s2">an actual market transaction wage no ok</p>
+<p begin="00:09:06.600" end="00:09:10.710" style="s2">so what&#39;s it gonna cost what&#39;s it really</p>
+<p begin="00:09:08.220" end="00:09:13.050" style="s2">what&#39;s the right actual price for that</p>
+<p begin="00:09:10.710" end="00:09:14.430" style="s2">particular service well if both parties</p>
+<p begin="00:09:13.050" end="00:09:16.740" style="s2">on the transaction have the ability to</p>
+<p begin="00:09:14.430" end="00:09:18.270" style="s2">say no and to walk away then the market</p>
+<p begin="00:09:16.740" end="00:09:20.610" style="s2">price is whatever they&#39;re actually able</p>
+<p begin="00:09:18.270" end="00:09:22.530" style="s2">to agree to both people now with the</p>
+<p begin="00:09:20.610" end="00:09:24.990" style="s2">free choice to enter into the</p>
+<p begin="00:09:22.530" end="00:09:26.250" style="s2">relationship agree i man assume it&#39;s</p>
+<p begin="00:09:24.990" end="00:09:29.310" style="s2">gonna be a lot more than 8 bucks an hour</p>
+<p begin="00:09:26.250" end="00:09:30.450" style="s2">maybe it&#39;s $80,000 a year ask yourself</p>
+<p begin="00:09:29.310" end="00:09:31.770" style="s2">how much would you have to be paid to</p>
+<p begin="00:09:30.450" end="00:09:35.880" style="s2">clean somebody else&#39;s toilets</p>
+<p begin="00:09:31.770" end="00:09:37.020" style="s2">particularly fuckwads at JPMorgan let&#39;s</p>
+<p begin="00:09:35.880" end="00:09:38.280" style="s2">go to the hundred thousand dollars unit</p>
+<p begin="00:09:37.020" end="00:09:41.190" style="s2">just to make the number right now here&#39;s</p>
+<p begin="00:09:38.280" end="00:09:42.570" style="s2">the thing JPMorgan can afford to pay a</p>
+<p begin="00:09:41.190" end="00:09:44.780" style="s2">hundred thousand dollars a year to get</p>
+<p begin="00:09:42.570" end="00:09:47.070" style="s2">the toilets cleaned I mean their annual</p>
+<p begin="00:09:44.780" end="00:09:48.870" style="s2">bonus check might go down by a little</p>
+<p begin="00:09:47.070" end="00:09:50.700" style="s2">about they&#39;ll still be very well-heeled</p>
+<p begin="00:09:48.870" end="00:09:53.580" style="s2">and the toilets would still be a clean</p>
+<p begin="00:09:50.700" end="00:09:56.130" style="s2">but now the market is actually correctly</p>
+<p begin="00:09:53.580" end="00:09:57.450" style="s2">seeing what is really valuable in the</p>
+<p begin="00:09:56.130" end="00:09:59.220" style="s2">marketplace at a much higher level the</p>
+<p begin="00:09:57.450" end="00:10:00.810" style="s2">real value of our actual services when</p>
+<p begin="00:09:59.220" end="00:10:03.660" style="s2">we actually want our actual demands is</p>
+<p begin="00:10:00.810" end="00:10:05.070" style="s2">more effectively revealed and so our</p>
+<p begin="00:10:03.660" end="00:10:06.630" style="s2">collective intelligence is more able to</p>
+<p begin="00:10:05.070" end="00:10:08.940" style="s2">orient resources which is to say for</p>
+<p begin="00:10:06.630" end="00:10:10.560" style="s2">example if the sort of total amount of</p>
+<p begin="00:10:08.940" end="00:10:12.870" style="s2">GDP that was going to toilet cleaning</p>
+<p begin="00:10:10.560" end="00:10:14.790" style="s2">went from 0.1 percent to 3 percent</p>
+<p begin="00:10:12.870" end="00:10:19.350" style="s2">because the price actually went up or in</p>
+<p begin="00:10:14.790" end="00:10:20.730" style="s2">this case 1% then maybe a lot of must</p>
+<p begin="00:10:19.350" end="00:10:22.560" style="s2">would turn his attention from building</p>
+<p begin="00:10:20.730" end="00:10:24.690" style="s2">electric cars to building toilet</p>
+<p begin="00:10:22.560" end="00:10:26.250" style="s2">cleaning robots my just entrepreneurs</p>
+<p begin="00:10:24.690" end="00:10:29.100" style="s2">and start getting right signals from the</p>
+<p begin="00:10:26.250" end="00:10:30.180" style="s2">marketplace of what places to point</p>
+<p begin="00:10:29.100" end="00:10:31.290" style="s2">their attention because those are the</p>
+<p begin="00:10:30.180" end="00:10:34.440" style="s2">places that they can make the most money</p>
+<p begin="00:10:31.290" end="00:10:36.660" style="s2">all right so this is the thing ubi is a</p>
+<p begin="00:10:34.440" end="00:10:38.700" style="s2">mechanism for actually making our market</p>
+<p begin="00:10:36.660" end="00:10:40.920" style="s2">work effectively as a collective</p>
+<p begin="00:10:38.700" end="00:10:42.360" style="s2">intelligence device it creates a</p>
+<p begin="00:10:40.920" end="00:10:43.980" style="s2">mechanism we&#39;re getting enough signal</p>
+<p begin="00:10:42.360" end="00:10:45.360" style="s2">from all the nodes who actually benefit</p>
+<p begin="00:10:43.980" end="00:10:47.520" style="s2">from the distributed intelligence that&#39;s</p>
+<p begin="00:10:45.360" end="00:10:48.810" style="s2">available in the entire market and it</p>
+<p begin="00:10:47.520" end="00:10:49.980" style="s2">creates the ability of the price</p>
+<p begin="00:10:48.810" end="00:10:51.510" style="s2">equation is actually getting real</p>
+<p begin="00:10:49.980" end="00:10:52.920" style="s2">information because the transactions</p>
+<p begin="00:10:51.510" end="00:10:54.750" style="s2">they&#39;re being made are actually</p>
+<p begin="00:10:52.920" end="00:10:56.160" style="s2">reflecting the real values in the</p>
+<p begin="00:10:54.750" end="00:10:57.750" style="s2">environment and those are two key</p>
+<p begin="00:10:56.160" end="00:10:59.730" style="s2">elements once you&#39;ve got those two key</p>
+<p begin="00:10:57.750" end="00:11:03.660" style="s2">elements in place you get a vastly more</p>
+<p begin="00:10:59.730" end="00:11:06.570" style="s2">powerful market as a comment so then the</p>
+<p begin="00:11:03.660" end="00:11:09.300" style="s2">last piece the bonus the</p>
+<p begin="00:11:06.570" end="00:11:10.920" style="s2">this notion of a human sensor network</p>
+<p begin="00:11:09.300" end="00:11:13.620" style="s2">right the idea of the marketplace as</p>
+<p begin="00:11:10.920" end="00:11:15.540" style="s2">being a way of human using human beings</p>
+<p begin="00:11:13.620" end="00:11:17.550" style="s2">everywhere as super super high quality</p>
+<p begin="00:11:15.540" end="00:11:19.410" style="s2">sensors of what&#39;s going on in the in the</p>
+<p begin="00:11:17.550" end="00:11:21.630" style="s2">world and what kinds of choices would</p>
+<p begin="00:11:19.410" end="00:11:22.770" style="s2">actually have the most value if we say</p>
+<p begin="00:11:21.630" end="00:11:24.960" style="s2">that&#39;s the thing we&#39;re trying to</p>
+<p begin="00:11:22.770" end="00:11:26.790" style="s2">accomplish or this one big piece of the</p>
+<p begin="00:11:24.960" end="00:11:29.010" style="s2">thing we&#39;re trying to accomplish then</p>
+<p begin="00:11:26.790" end="00:11:30.480" style="s2">the market is one piece of that it&#39;s not</p>
+<p begin="00:11:29.010" end="00:11:32.130" style="s2">the whole piece there&#39;s lots of</p>
+<p begin="00:11:30.480" end="00:11:34.380" style="s2">different ways that human beings can be</p>
+<p begin="00:11:32.130" end="00:11:36.870" style="s2">empowered to provide a signal back into</p>
+<p begin="00:11:34.380" end="00:11:38.520" style="s2">and then back out you can actually have</p>
+<p begin="00:11:36.870" end="00:11:41.180" style="s2">a highly decentralized mechanism where</p>
+<p begin="00:11:38.520" end="00:11:44.360" style="s2">like the market like my economic choices</p>
+<p begin="00:11:41.180" end="00:11:46.800" style="s2">come from me they go to everyone</p>
+<p begin="00:11:44.360" end="00:11:47.880" style="s2">suddenly and come from everyone back to</p>
+<p begin="00:11:46.800" end="00:11:49.500" style="s2">me suddenly in a way that I can make</p>
+<p begin="00:11:47.880" end="00:11:50.880" style="s2">sense of them so if we sit there as a</p>
+<p begin="00:11:49.500" end="00:11:52.620" style="s2">higher-order objective and say alright</p>
+<p begin="00:11:50.880" end="00:11:54.750" style="s2">our choice our challenge is to figure</p>
+<p begin="00:11:52.620" end="00:11:56.880" style="s2">out how do we actually design a</p>
+<p begin="00:11:54.750" end="00:11:59.940" style="s2">distributed collective intelligence that</p>
+<p begin="00:11:56.880" end="00:12:01.530" style="s2">has the characteristic that everyone&#39;s</p>
+<p begin="00:11:59.940" end="00:12:02.760" style="s2">full perception across all the</p>
+<p begin="00:12:01.530" end="00:12:04.620" style="s2">modalities of perception are</p>
+<p begin="00:12:02.760" end="00:12:07.050" style="s2">communicated in communications channels</p>
+<p begin="00:12:04.620" end="00:12:08.940" style="s2">that propagates smoothly and easily to</p>
+<p begin="00:12:07.050" end="00:12:10.620" style="s2">everyone else in a way that is maxima</p>
+<p begin="00:12:08.940" end="00:12:12.960" style="s2">supporting their own choice making and</p>
+<p begin="00:12:10.620" end="00:12:16.920" style="s2">then back that&#39;s the design we&#39;re trying</p>
+<p begin="00:12:12.960" end="00:12:20.060" style="s2">to get in place and ubi is a significant</p>
+<p begin="00:12:16.920" end="00:12:20.060" style="s2">piece of that in my estimation</p>
+</div>
+</body>
+</tt>

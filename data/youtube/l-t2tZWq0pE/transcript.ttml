@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:05.819" style="s2">welcome back folks welcome to another</p>
+<p begin="00:00:01.800" end="00:00:08.849" style="s2">episode of the soul talk podcast today&#39;s</p>
+<p begin="00:00:05.819" end="00:00:11.160" style="s2">episodes are going to be I think another</p>
+<p begin="00:00:08.849" end="00:00:14.519" style="s2">special one I&#39;m actually very curious</p>
+<p begin="00:00:11.160" end="00:00:17.010" style="s2">and excited to interview my guest today</p>
+<p begin="00:00:14.519" end="00:00:19.590" style="s2">at the opportunity to him speak at a</p>
+<p begin="00:00:17.010" end="00:00:22.230" style="s2">very special conference an association</p>
+<p begin="00:00:19.590" end="00:00:25.500" style="s2">of transformational leaders last year</p>
+<p begin="00:00:22.230" end="00:00:28.830" style="s2">and I think he really shook the audience</p>
+<p begin="00:00:25.500" end="00:00:30.929" style="s2">those who were in attendance and brought</p>
+<p begin="00:00:28.830" end="00:00:34.640" style="s2">some profound perspective and insights</p>
+<p begin="00:00:30.929" end="00:00:37.710" style="s2">that were really really proud deep and</p>
+<p begin="00:00:34.640" end="00:00:40.800" style="s2">challenging in terms of a typical way we</p>
+<p begin="00:00:37.710" end="00:00:43.379" style="s2">we view life and see things and so I</p>
+<p begin="00:00:40.800" end="00:00:45.120" style="s2">think today&#39;s will be very interesting</p>
+<p begin="00:00:43.379" end="00:00:47.360" style="s2">so get the milk pads ready either</p>
+<p begin="00:00:45.120" end="00:00:50.160" style="s2">co-founder epi neuro hacker collective</p>
+<p begin="00:00:47.360" end="00:00:52.379" style="s2">director of research and development</p>
+<p begin="00:00:50.160" end="00:00:54.570" style="s2">which focused on developing processes</p>
+<p begin="00:00:52.379" end="00:00:58.520" style="s2">technologies for advancing medicine</p>
+<p begin="00:00:54.570" end="00:01:02.160" style="s2">human optimization here&#39;s a blog on</p>
+<p begin="00:00:58.520" end="00:01:04.799" style="s2">redesigning civilization at civilization</p>
+<p begin="00:01:02.160" end="00:01:07.710" style="s2">emerging I mean when I heard him speak I</p>
+<p begin="00:01:04.799" end="00:01:10.770" style="s2">consider him a philosopher so welcome to</p>
+<p begin="00:01:07.710" end="00:01:14.390" style="s2">the conversation today my friend Daniel</p>
+<p begin="00:01:10.770" end="00:01:16.770" style="s2">schmuck limburger Daniel welcome</p>
+<p begin="00:01:14.390" end="00:01:18.560" style="s2">thank to my friend I&#39;m happy to be here</p>
+<p begin="00:01:16.770" end="00:01:21.899" style="s2">I&#39;m looking forward to this conversation</p>
+<p begin="00:01:18.560" end="00:01:23.579" style="s2">great to have you on and so look I&#39;m</p>
+<p begin="00:01:21.899" end="00:01:25.619" style="s2">curious I have a bunch of questions for</p>
+<p begin="00:01:23.579" end="00:01:30.179" style="s2">you but I&#39;m curious especially for those</p>
+<p begin="00:01:25.619" end="00:01:32.159" style="s2">that may you know not know your work or</p>
+<p begin="00:01:30.179" end="00:01:35.220" style="s2">your blog or you know what you&#39;ve been</p>
+<p begin="00:01:32.159" end="00:01:37.679" style="s2">sharing in terms of interviews can I saw</p>
+<p begin="00:01:35.220" end="00:01:40.229" style="s2">you speak and it was very very deep you</p>
+<p begin="00:01:37.679" end="00:01:44.159" style="s2">shared a lot of I think at least for me</p>
+<p begin="00:01:40.229" end="00:01:46.020" style="s2">profound insights what what exactly it&#39;s</p>
+<p begin="00:01:44.159" end="00:01:49.140" style="s2">my sound simple or strange but what</p>
+<p begin="00:01:46.020" end="00:01:52.560" style="s2">Daniel what exactly do you do I mean it</p>
+<p begin="00:01:49.140" end="00:01:54.810" style="s2">like are you a hack</p>
+<p begin="00:01:52.560" end="00:01:56.610" style="s2">I hear philosophy I mean for me you are</p>
+<p begin="00:01:54.810" end="00:01:58.500" style="s2">philosophizing you know are you what</p>
+<p begin="00:01:56.610" end="00:01:59.640" style="s2">what would you call yourself you know</p>
+<p begin="00:01:58.500" end="00:02:02.610" style="s2">what what do you do what you call</p>
+<p begin="00:01:59.640" end="00:02:04.799" style="s2">yourself what you know what I&#39;m saying</p>
+<p begin="00:02:02.610" end="00:02:07.490" style="s2">well what&#39;s the deal</p>
+<p begin="00:02:04.799" end="00:02:07.490" style="s2">yeah</p>
+<p begin="00:02:09.729" end="00:02:16.680" style="s2">I don&#39;t know that really be all that</p>
+<p begin="00:02:12.280" end="00:02:16.680" style="s2">interested in calling myself anything</p>
+<p begin="00:02:16.800" end="00:02:22.300" style="s2">what do i what do I do I can talk about</p>
+<p begin="00:02:20.140" end="00:02:25.330" style="s2">what I&#39;m interested in and things that</p>
+<p begin="00:02:22.300" end="00:02:29.740" style="s2">I&#39;m that I put energy towards and study</p>
+<p begin="00:02:25.330" end="00:02:32.530" style="s2">and you mentioned a little bit</p>
+<p begin="00:02:29.740" end="00:02:34.150" style="s2">with regard to medicine and</p>
+<p begin="00:02:32.530" end="00:02:38.830" style="s2">biotechnology I</p>
+<p begin="00:02:34.150" end="00:02:41.650" style="s2">it&#39;s a area that I&#39;m fascinated by and</p>
+<p begin="00:02:38.830" end="00:02:44.250" style="s2">love and so there&#39;s some attention in</p>
+<p begin="00:02:41.650" end="00:02:47.410" style="s2">that space that was actually kind of</p>
+<p begin="00:02:44.250" end="00:02:50.730" style="s2">unintentional that was because while I</p>
+<p begin="00:02:47.410" end="00:02:54.910" style="s2">was working on other things I had some</p>
+<p begin="00:02:50.730" end="00:02:56.709" style="s2">illness arise that was uncurable from</p>
+<p begin="00:02:54.910" end="00:02:58.870" style="s2">traditional methods and so I had to put</p>
+<p begin="00:02:56.709" end="00:03:01.840" style="s2">attention to seeing if I could figure</p>
+<p begin="00:02:58.870" end="00:03:02.800" style="s2">out some way to work with it and it</p>
+<p begin="00:03:01.840" end="00:03:04.570" style="s2">happened to be that some of the</p>
+<p begin="00:03:02.800" end="00:03:06.600" style="s2">scientific background and approach that</p>
+<p begin="00:03:04.570" end="00:03:09.340" style="s2">I have and working on things like</p>
+<p begin="00:03:06.600" end="00:03:11.350" style="s2">ecology and economies and like complex</p>
+<p begin="00:03:09.340" end="00:03:13.269" style="s2">systems were applicable to having new</p>
+<p begin="00:03:11.350" end="00:03:17.970" style="s2">insights and medicine so there&#39;s still</p>
+<p begin="00:03:13.269" end="00:03:17.970" style="s2">some work there my primary focus is</p>
+<p begin="00:03:19.340" end="00:03:29.970" style="s2">how do we design a civilization that</p>
+<p begin="00:03:26.160" end="00:03:31.980" style="s2">doesn&#39;t cause all of the problems that</p>
+<p begin="00:03:29.970" end="00:03:33.600" style="s2">the types of civilization that we</p>
+<p begin="00:03:31.980" end="00:03:35.970" style="s2">currently have in the past historically</p>
+<p begin="00:03:33.600" end="00:03:38.130" style="s2">environmental and social justice and war</p>
+<p begin="00:03:35.970" end="00:03:39.720" style="s2">and etc like what are the underlying</p>
+<p begin="00:03:38.130" end="00:03:41.760" style="s2">basis of all those problems</p>
+<p begin="00:03:39.720" end="00:03:43.470" style="s2">and can we actually change that at the</p>
+<p begin="00:03:41.760" end="00:03:45.840" style="s2">level of the design of a civilization</p>
+<p begin="00:03:43.470" end="00:03:47.760" style="s2">system itself so that looks like you</p>
+<p begin="00:03:45.840" end="00:03:50.610" style="s2">know whether we&#39;re looking at species</p>
+<p begin="00:03:47.760" end="00:03:52.830" style="s2">extinction or biodiversity loss of trees</p>
+<p begin="00:03:50.610" end="00:03:54.540" style="s2">getting cut down we we can see that</p>
+<p begin="00:03:52.830" end="00:03:57.810" style="s2">underneath all those issues you have the</p>
+<p begin="00:03:54.540" end="00:03:59.519" style="s2">fact that most trees are worth more cut</p>
+<p begin="00:03:57.810" end="00:04:01.620" style="s2">down than they are alive most animals</p>
+<p begin="00:03:59.519" end="00:04:03.060" style="s2">are worth more killed than they are</p>
+<p begin="00:04:01.620" end="00:04:06.180" style="s2">alive there&#39;s a perverse incentive</p>
+<p begin="00:04:03.060" end="00:04:07.530" style="s2">underneath that war is more profitable</p>
+<p begin="00:04:06.180" end="00:04:10.110" style="s2">than peace sick people are more</p>
+<p begin="00:04:07.530" end="00:04:12.269" style="s2">profitable than healthy people and so</p>
+<p begin="00:04:10.110" end="00:04:15.239" style="s2">you start to say okay well as long as a</p>
+<p begin="00:04:12.269" end="00:04:19.079" style="s2">problem is being incentivized it&#39;s not</p>
+<p begin="00:04:15.239" end="00:04:22.109" style="s2">going to stop and so that&#39;s like an</p>
+<p begin="00:04:19.079" end="00:04:25.260" style="s2">example of if we if we really want to</p>
+<p begin="00:04:22.109" end="00:04:28.770" style="s2">change the dynamics of the world we have</p>
+<p begin="00:04:25.260" end="00:04:30.180" style="s2">to change how people coordinate and how</p>
+<p begin="00:04:28.770" end="00:04:32.100" style="s2">they make sense of the world and what</p>
+<p begin="00:04:30.180" end="00:04:35.940" style="s2">they&#39;re incentivized to do in a deeper</p>
+<p begin="00:04:32.100" end="00:04:39.150" style="s2">way and kind of how I got into thinking</p>
+<p begin="00:04:35.940" end="00:04:41.940" style="s2">about this was I was as a kid I was</p>
+<p begin="00:04:39.150" end="00:04:43.890" style="s2">working in activism in a bunch of</p>
+<p begin="00:04:41.940" end="00:04:48.150" style="s2">different fields environmental stuff and</p>
+<p begin="00:04:43.890" end="00:04:51.870" style="s2">animal rights and social justice and we</p>
+<p begin="00:04:48.150" end="00:04:55.830" style="s2">made profoundly little progress and okay</p>
+<p begin="00:04:51.870" end="00:04:58.919" style="s2">I really want to understand why we&#39;re</p>
+<p begin="00:04:55.830" end="00:05:01.020" style="s2">humans like those of us in activism</p>
+<p begin="00:04:58.919" end="00:05:02.460" style="s2">it seems so clear that we don&#39;t want to</p>
+<p begin="00:05:01.020" end="00:05:04.770" style="s2">kill the elephants for their ivory or</p>
+<p begin="00:05:02.460" end="00:05:06.360" style="s2">clear cut the Amazon and yet so many</p>
+<p begin="00:05:04.770" end="00:05:07.800" style="s2">people and large corporations were</p>
+<p begin="00:05:06.360" end="00:05:10.500" style="s2">continuing to do those things so it&#39;s</p>
+<p begin="00:05:07.800" end="00:05:12.630" style="s2">like what is it that is driving all of</p>
+<p begin="00:05:10.500" end="00:05:15.000" style="s2">those how are they interconnected and</p>
+<p begin="00:05:12.630" end="00:05:18.780" style="s2">are there some foundational structures</p>
+<p begin="00:05:15.000" end="00:05:21.060" style="s2">that need addressed and I was you know</p>
+<p begin="00:05:18.780" end="00:05:23.940" style="s2">studying and a Systems Theory in</p>
+<p begin="00:05:21.060" end="00:05:25.950" style="s2">complexity and how how things fit</p>
+<p begin="00:05:23.940" end="00:05:28.740" style="s2">together at the same time and so that</p>
+<p begin="00:05:25.950" end="00:05:31.070" style="s2">just led to deeper and deeper inquiry</p>
+<p begin="00:05:28.740" end="00:05:31.070" style="s2">into</p>
+<p begin="00:05:32.040" end="00:05:36.730" style="s2">fundamental civilization design stuff so</p>
+<p begin="00:05:34.420" end="00:05:38.680" style="s2">you say kind of what do I do now with it</p>
+<p begin="00:05:36.730" end="00:05:41.620" style="s2">partly looks like looking at near-term</p>
+<p begin="00:05:38.680" end="00:05:44.710" style="s2">risks for the world and seeing how we</p>
+<p begin="00:05:41.620" end="00:05:47.110" style="s2">can mitigate those and then also looking</p>
+<p begin="00:05:44.710" end="00:05:49.060" style="s2">at how can we actually design new</p>
+<p begin="00:05:47.110" end="00:05:51.280" style="s2">systems of how humanity can make sense</p>
+<p begin="00:05:49.060" end="00:05:53.200" style="s2">of the world and make choices which is</p>
+<p begin="00:05:51.280" end="00:05:55.270" style="s2">like new methods of governance and</p>
+<p begin="00:05:53.200" end="00:05:57.370" style="s2">resource allocation that are</p>
+<p begin="00:05:55.270" end="00:05:59.170" style="s2">structurally different than the types of</p>
+<p begin="00:05:57.370" end="00:06:02.790" style="s2">top-down government&#39;s the types of</p>
+<p begin="00:05:59.170" end="00:06:05.260" style="s2">market systems we&#39;ve had so far that</p>
+<p begin="00:06:02.790" end="00:06:07.630" style="s2">predispose different patterns of human</p>
+<p begin="00:06:05.260" end="00:06:09.190" style="s2">behavior that don&#39;t predispose for</p>
+<p begin="00:06:07.630" end="00:06:11.370" style="s2">environmental destruction and things</p>
+<p begin="00:06:09.190" end="00:06:11.370" style="s2">like that</p>
+</div>
+</body>
+</tt>

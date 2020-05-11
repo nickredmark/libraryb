@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.620" style="s2">a roll let&#39;s try yet another one like I</p>
+<p begin="00:00:02.550" end="00:00:09.059" style="s2">said it was a good conversation so this</p>
+<p begin="00:00:04.620" end="00:00:10.980" style="s2">has to do with Fitness landscapes and</p>
+<p begin="00:00:09.059" end="00:00:14.070" style="s2">choices around different strategies and</p>
+<p begin="00:00:10.980" end="00:00:15.540" style="s2">responses Fitness landscapes so remember</p>
+<p begin="00:00:14.070" end="00:00:18.570" style="s2">the concept of Fitness landscapes and we</p>
+<p begin="00:00:15.540" end="00:00:21.020" style="s2">have this notion of Hills we had this</p>
+<p begin="00:00:18.570" end="00:00:23.100" style="s2">notion as so let me just give it a</p>
+<p begin="00:00:21.020" end="00:00:25.170" style="s2">imagine XY plane and I&#39;m going to Z</p>
+<p begin="00:00:23.100" end="00:00:28.680" style="s2">dimension so I&#39;m like creating Hills on</p>
+<p begin="00:00:25.170" end="00:00:31.349" style="s2">a map and the hill represents the degree</p>
+<p begin="00:00:28.680" end="00:00:34.800" style="s2">to which the strategy at that point in</p>
+<p begin="00:00:31.349" end="00:00:37.230" style="s2">the location is fit it survives it&#39;s a</p>
+<p begin="00:00:34.800" end="00:00:40.170" style="s2">good reproductive strategy so superfood</p>
+<p begin="00:00:37.230" end="00:00:41.820" style="s2">tiger in Paleolithic North America is</p>
+<p begin="00:00:40.170" end="00:00:43.020" style="s2">sitting on top of a very high hill it&#39;s</p>
+<p begin="00:00:41.820" end="00:00:45.930" style="s2">a peak predator it&#39;s an adaptive</p>
+<p begin="00:00:43.020" end="00:00:47.850" style="s2">strategy ok now when you&#39;re in a</p>
+<p begin="00:00:45.930" end="00:00:49.710" style="s2">particular circumstance you&#39;re always</p>
+<p begin="00:00:47.850" end="00:00:51.149" style="s2">going to be making choices about how you</p>
+<p begin="00:00:49.710" end="00:00:53.640" style="s2">actually move around that Fitness</p>
+<p begin="00:00:51.149" end="00:00:55.410" style="s2">landscape if you find yourself at the</p>
+<p begin="00:00:53.640" end="00:00:57.300" style="s2">base of the hill and you begin the</p>
+<p begin="00:00:55.410" end="00:00:59.520" style="s2">process of climbing that hill that&#39;s</p>
+<p begin="00:00:57.300" end="00:01:01.260" style="s2">called a hill climbing strategy this is</p>
+<p begin="00:00:59.520" end="00:01:03.090" style="s2">a baseline called like the fundamental</p>
+<p begin="00:01:01.260" end="00:01:06.869" style="s2">strategy it&#39;s sort of generally the</p>
+<p begin="00:01:03.090" end="00:01:07.950" style="s2">right thing to do now here&#39;s the</p>
+<p begin="00:01:06.869" end="00:01:11.280" style="s2">interesting point right here&#39;s the</p>
+<p begin="00:01:07.950" end="00:01:12.600" style="s2">extension that I want to make so think</p>
+<p begin="00:01:11.280" end="00:01:14.130" style="s2">about a SERP tooth tiger it&#39;s at the</p>
+<p begin="00:01:12.600" end="00:01:15.630" style="s2">peak now when you&#39;re at the peak you&#39;re</p>
+<p begin="00:01:14.130" end="00:01:18.689" style="s2">an interesting situation because what</p>
+<p begin="00:01:15.630" end="00:01:20.400" style="s2">ends up happening is if I refer back to</p>
+<p begin="00:01:18.689" end="00:01:21.450" style="s2">the video that I haven&#39;t uploaded yet</p>
+<p begin="00:01:20.400" end="00:01:22.890" style="s2">but hopefully by the time you watch this</p>
+<p begin="00:01:21.450" end="00:01:25.020" style="s2">will have already been uploaded about</p>
+<p begin="00:01:22.890" end="00:01:27.780" style="s2">the distinct division the phenomenal and</p>
+<p begin="00:01:25.020" end="00:01:30.770" style="s2">the new middle where Linda happening is</p>
+<p begin="00:01:27.780" end="00:01:34.140" style="s2">as you begin the process of going about</p>
+<p begin="00:01:30.770" end="00:01:37.560" style="s2">climbing a hill what you end up doing is</p>
+<p begin="00:01:34.140" end="00:01:40.530" style="s2">finding that the responsiveness of your</p>
+<p begin="00:01:37.560" end="00:01:42.570" style="s2">phenomenal schema to the Newman reality</p>
+<p begin="00:01:40.530" end="00:01:44.490" style="s2">that you find yourself in is actually</p>
+<p begin="00:01:42.570" end="00:01:46.380" style="s2">very effective that&#39;s the whole point is</p>
+<p begin="00:01:44.490" end="00:01:47.850" style="s2">the definition of climbing a hill your</p>
+<p begin="00:01:46.380" end="00:01:51.329" style="s2">your adaptive strategies are in fact</p>
+<p begin="00:01:47.850" end="00:01:54.149" style="s2">adaptive and the process of climbing a</p>
+<p begin="00:01:51.329" end="00:01:56.549" style="s2">hill is a process of refinement it&#39;s a</p>
+<p begin="00:01:54.149" end="00:02:00.899" style="s2">process of making your phenomenal</p>
+<p begin="00:01:56.549" end="00:02:03.360" style="s2">strategies more quick more efficient</p>
+<p begin="00:02:00.899" end="00:02:05.820" style="s2">more effective right you&#39;re actually</p>
+<p begin="00:02:03.360" end="00:02:07.229" style="s2">needing to clean out stuff that is</p>
+<p begin="00:02:05.820" end="00:02:10.410" style="s2">extraneous right you&#39;re really</p>
+<p begin="00:02:07.229" end="00:02:13.590" style="s2">tightening in and kind of an exactly the</p>
+<p begin="00:02:10.410" end="00:02:16.319" style="s2">same way that if you have a</p>
+<p begin="00:02:13.590" end="00:02:18.599" style="s2">a telescope exquisitely focused on a</p>
+<p begin="00:02:16.319" end="00:02:20.400" style="s2">distant star you can actually get real</p>
+<p begin="00:02:18.599" end="00:02:23.190" style="s2">clarity on that tiny tiny point of light</p>
+<p begin="00:02:20.400" end="00:02:24.840" style="s2">but you can&#39;t see anything else this</p>
+<p begin="00:02:23.190" end="00:02:26.819" style="s2">happens this is actually just a</p>
+<p begin="00:02:24.840" end="00:02:30.150" style="s2">fundamental trade-off so what I want to</p>
+<p begin="00:02:26.819" end="00:02:33.120" style="s2">do some introduced now is maybe a new</p>
+<p begin="00:02:30.150" end="00:02:35.940" style="s2">concept I&#39;m gonna call it the generator</p>
+<p begin="00:02:33.120" end="00:02:37.950" style="s2">function of adaptive capacity or the</p>
+<p begin="00:02:35.940" end="00:02:39.840" style="s2">more generalized adaptive capacity</p>
+<p begin="00:02:37.950" end="00:02:42.180" style="s2">rather than the specialized adaptive</p>
+<p begin="00:02:39.840" end="00:02:44.250" style="s2">capacity so what ends up happening is</p>
+<p begin="00:02:42.180" end="00:02:46.860" style="s2">you have a generator function which is</p>
+<p begin="00:02:44.250" end="00:02:49.530" style="s2">just sort of raw exploration of</p>
+<p begin="00:02:46.860" end="00:02:51.360" style="s2">possibility space and then you have the</p>
+<p begin="00:02:49.530" end="00:02:53.099" style="s2">things that it generates which are your</p>
+<p begin="00:02:51.360" end="00:02:54.660" style="s2">phenomenal sense making choice making</p>
+<p begin="00:02:53.099" end="00:02:55.890" style="s2">schema or you can actually feel like</p>
+<p begin="00:02:54.660" end="00:02:57.349" style="s2">this if you want the generator function</p>
+<p begin="00:02:55.890" end="00:02:59.879" style="s2">these things kind of come out of it and</p>
+<p begin="00:02:57.349" end="00:03:01.290" style="s2">if for the saber-tooth Tiger what ends</p>
+<p begin="00:02:59.879" end="00:03:03.690" style="s2">up happening is that this actually</p>
+<p begin="00:03:01.290" end="00:03:05.790" style="s2">becomes a waste you don&#39;t need to have</p>
+<p begin="00:03:03.690" end="00:03:07.349" style="s2">the ability to edit and update your</p>
+<p begin="00:03:05.790" end="00:03:09.030" style="s2">carrying stuff that you don&#39;t need to</p>
+<p begin="00:03:07.349" end="00:03:10.560" style="s2">have and what you do is you just keep</p>
+<p begin="00:03:09.030" end="00:03:13.440" style="s2">pushing more and more and more into the</p>
+<p begin="00:03:10.560" end="00:03:15.930" style="s2">surface layer you become all surface you</p>
+<p begin="00:03:13.440" end="00:03:19.100" style="s2">become perfectly efficient perfectly</p>
+<p begin="00:03:15.930" end="00:03:23.760" style="s2">mapped exquisitely detailed filigreed no</p>
+<p begin="00:03:19.100" end="00:03:26.220" style="s2">fat on this surface so that you&#39;re the</p>
+<p begin="00:03:23.760" end="00:03:28.950" style="s2">most effective saber-tooth Tiger which</p>
+<p begin="00:03:26.220" end="00:03:30.840" style="s2">is perfect unless inhaled the hill</p>
+<p begin="00:03:28.950" end="00:03:33.090" style="s2">changes right because now you&#39;ve lost</p>
+<p begin="00:03:30.840" end="00:03:34.470" style="s2">that thing down here which is the</p>
+<p begin="00:03:33.090" end="00:03:35.250" style="s2">editing function which changes this</p>
+<p begin="00:03:34.470" end="00:03:37.109" style="s2">thing up here</p>
+<p begin="00:03:35.250" end="00:03:41.340" style="s2">these are giving it up in exchange for</p>
+<p begin="00:03:37.109" end="00:03:42.569" style="s2">local selective advantage so it ends up</p>
+<p begin="00:03:41.340" end="00:03:44.940" style="s2">happening of course you cannot become</p>
+<p begin="00:03:42.569" end="00:03:48.329" style="s2">brittle and if you if you have any minor</p>
+<p begin="00:03:44.940" end="00:03:51.720" style="s2">change in the hill then your adaptive</p>
+<p begin="00:03:48.329" end="00:03:53.760" style="s2">capacity begins to go down but you no</p>
+<p begin="00:03:51.720" end="00:03:55.560" style="s2">longer can respond to it your generator</p>
+<p begin="00:03:53.760" end="00:03:56.730" style="s2">function has been given up and this is a</p>
+<p begin="00:03:55.560" end="00:03:57.930" style="s2">trade-off right you have these trades</p>
+<p begin="00:03:56.730" end="00:04:02.880" style="s2">between them if you&#39;re all a generator</p>
+<p begin="00:03:57.930" end="00:04:04.859" style="s2">function and no adaptive strategy then</p>
+<p begin="00:04:02.880" end="00:04:06.510" style="s2">you know you suck you can&#39;t do anything</p>
+<p begin="00:04:04.859" end="00:04:08.760" style="s2">in the world you&#39;re sort of constantly</p>
+<p begin="00:04:06.510" end="00:04:11.730" style="s2">having to process from first principles</p>
+<p begin="00:04:08.760" end="00:04:15.120" style="s2">if you&#39;re all fundamentally responding</p>
+<p begin="00:04:11.730" end="00:04:17.070" style="s2">to well-defined scripts then you&#39;ve lost</p>
+<p begin="00:04:15.120" end="00:04:18.419" style="s2">general capacity if you would call the</p>
+<p begin="00:04:17.070" end="00:04:19.680" style="s2">video on thinking and not thinking it&#39;s</p>
+<p begin="00:04:18.419" end="00:04:23.729" style="s2">the same thing it&#39;s just a more</p>
+<p begin="00:04:19.680" end="00:04:26.889" style="s2">fundamental version of that notion now</p>
+<p begin="00:04:23.729" end="00:04:30.039" style="s2">the the other primary strategy that is</p>
+<p begin="00:04:26.889" end="00:04:31.599" style="s2">about an evolutionary theory is Valley</p>
+<p begin="00:04:30.039" end="00:04:34.030" style="s2">crossing right so this is the capacity</p>
+<p begin="00:04:31.599" end="00:04:35.949" style="s2">to actually go down in local Fitness go</p>
+<p begin="00:04:34.030" end="00:04:37.330" style="s2">across some adaptive ballet which sucks</p>
+<p begin="00:04:35.949" end="00:04:39.069" style="s2">from an evolutionary perspective for</p>
+<p begin="00:04:37.330" end="00:04:40.180" style="s2">some who knows how long or it may</p>
+<p begin="00:04:39.069" end="00:04:42.520" style="s2">actually be just wandering the desert</p>
+<p begin="00:04:40.180" end="00:04:43.960" style="s2">but under the expectation at some point</p>
+<p begin="00:04:42.520" end="00:04:46.120" style="s2">finding another hill over here which is</p>
+<p begin="00:04:43.960" end="00:04:49.479" style="s2">in fact higher or at least one which you</p>
+<p begin="00:04:46.120" end="00:04:50.590" style="s2">can climb to a higher point on you can</p>
+<p begin="00:04:49.479" end="00:04:53.860" style="s2">think about that as the ability in a</p>
+<p begin="00:04:50.590" end="00:04:56.500" style="s2">great time to take you future potential</p>
+<p begin="00:04:53.860" end="00:04:57.909" style="s2">large payout take some discount rate</p>
+<p begin="00:04:56.500" end="00:04:59.949" style="s2">with the possibility of actually</p>
+<p begin="00:04:57.909" end="00:05:02.469" style="s2">discovering and finding it comparing it</p>
+<p begin="00:04:59.949" end="00:05:04.360" style="s2">to your instantaneous value of where you</p>
+<p begin="00:05:02.469" end="00:05:06.789" style="s2">are now and making the choice of</p>
+<p begin="00:05:04.360" end="00:05:08.409" style="s2">undergoing that longer thing this shows</p>
+<p begin="00:05:06.789" end="00:05:10.599" style="s2">up by the way and human beings in say</p>
+<p begin="00:05:08.409" end="00:05:11.830" style="s2">for example the cookie test which I</p>
+<p begin="00:05:10.599" end="00:05:13.779" style="s2">understand is actually a really really</p>
+<p begin="00:05:11.830" end="00:05:15.279" style="s2">effective predictor of the degree to</p>
+<p begin="00:05:13.779" end="00:05:17.020" style="s2">which human beings are able to have life</p>
+<p begin="00:05:15.279" end="00:05:19.360" style="s2">success as children so you take a child</p>
+<p begin="00:05:17.020" end="00:05:21.069" style="s2">put them in a room put down a cookie in</p>
+<p begin="00:05:19.360" end="00:05:24.300" style="s2">front of them ideally a really delicious</p>
+<p begin="00:05:21.069" end="00:05:26.110" style="s2">cookie and you say hey here&#39;s the deal</p>
+<p begin="00:05:24.300" end="00:05:27.789" style="s2">yeah I&#39;m gonna leave I&#39;m gonna leave</p>
+<p begin="00:05:26.110" end="00:05:30.009" style="s2">this room and nobody&#39;s gonna be here no</p>
+<p begin="00:05:27.789" end="00:05:32.319" style="s2">but I can see what happens but if I come</p>
+<p begin="00:05:30.009" end="00:05:35.110" style="s2">back and there&#39;s still a cookie here you</p>
+<p begin="00:05:32.319" end="00:05:36.969" style="s2">get another cookie but if you if you eat</p>
+<p begin="00:05:35.110" end="00:05:39.009" style="s2">the cookie while I&#39;m gone and feeling</p>
+<p begin="00:05:36.969" end="00:05:41.259" style="s2">cookie you get but you will be punished</p>
+<p begin="00:05:39.009" end="00:05:42.729" style="s2">it&#39;s okay it&#39;s your choice and then you</p>
+<p begin="00:05:41.259" end="00:05:44.740" style="s2">leave can you see what happens and the</p>
+<p begin="00:05:42.729" end="00:05:46.779" style="s2">point is that if the kid has the</p>
+<p begin="00:05:44.740" end="00:05:48.339" style="s2">capacity to Valley cross the arduous</p>
+<p begin="00:05:46.779" end="00:05:50.050" style="s2">five minutes of being a kid from a</p>
+<p begin="00:05:48.339" end="00:05:51.250" style="s2">delicious cookie that means they have a</p>
+<p begin="00:05:50.050" end="00:05:52.990" style="s2">generator function that&#39;s able to</p>
+<p begin="00:05:51.250" end="00:05:54.370" style="s2">actually do things like sense future</p>
+<p begin="00:05:52.990" end="00:05:56.469" style="s2">value and make discount rates to make a</p>
+<p begin="00:05:54.370" end="00:05:57.759" style="s2">choice now that doesn&#39;t pay off now but</p>
+<p begin="00:05:56.469" end="00:05:59.289" style="s2">pays off bigger in the future that&#39;s a</p>
+<p begin="00:05:57.759" end="00:06:00.879" style="s2">valley crossing fundamental and of</p>
+<p begin="00:05:59.289" end="00:06:03.939" style="s2">course anybody who has a valid crossing</p>
+<p begin="00:06:00.879" end="00:06:05.710" style="s2">capacity and say the age of five may be</p>
+<p begin="00:06:03.939" end="00:06:11.169" style="s2">able to offer then use that to respond</p>
+<p begin="00:06:05.710" end="00:06:13.210" style="s2">more effectively to the world so so now</p>
+<p begin="00:06:11.169" end="00:06:14.860" style="s2">we find ourselves in this generalized</p>
+<p begin="00:06:13.210" end="00:06:18.039" style="s2">problematic this is the generalized</p>
+<p begin="00:06:14.860" end="00:06:20.050" style="s2">situation where you have your localized</p>
+<p begin="00:06:18.039" end="00:06:21.219" style="s2">adaptive capacity you have your</p>
+<p begin="00:06:20.050" end="00:06:23.770" style="s2">generative function you have the</p>
+<p begin="00:06:21.219" end="00:06:25.900" style="s2">trade-off between maintaining the</p>
+<p begin="00:06:23.770" end="00:06:27.339" style="s2">resources and attention and capacity of</p>
+<p begin="00:06:25.900" end="00:06:31.360" style="s2">the ability for the generator function</p>
+<p begin="00:06:27.339" end="00:06:34.389" style="s2">to modify upgrade and edit the sort of</p>
+<p begin="00:06:31.360" end="00:06:35.770" style="s2">the phenomenal schema and/or the</p>
+<p begin="00:06:34.389" end="00:06:38.409" style="s2">effectiveness and efficiency of the</p>
+<p begin="00:06:35.770" end="00:06:40.720" style="s2">phenomenal schema and this shows up for</p>
+<p begin="00:06:38.409" end="00:06:42.640" style="s2">example in the famous s curves that</p>
+<p begin="00:06:40.720" end="00:06:45.670" style="s2">describe why and how corporations rise</p>
+<p begin="00:06:42.640" end="00:06:48.010" style="s2">and fall so I&#39;m a early startup I&#39;m</p>
+<p begin="00:06:45.670" end="00:06:49.240" style="s2">effectively all adapting faster I&#39;m just</p>
+<p begin="00:06:48.010" end="00:06:50.830" style="s2">generator function of a bunch of smart</p>
+<p begin="00:06:49.240" end="00:06:53.200" style="s2">people know quite idea exactly who I am</p>
+<p begin="00:06:50.830" end="00:06:55.090" style="s2">what I&#39;m doing how to do it</p>
+<p begin="00:06:53.200" end="00:06:56.530" style="s2">I&#39;m creatively exploring my environment</p>
+<p begin="00:06:55.090" end="00:06:57.970" style="s2">there&#39;s the big up bottom of the s-curve</p>
+<p begin="00:06:56.530" end="00:06:58.870" style="s2">I&#39;m not showing up as winning in any</p>
+<p begin="00:06:57.970" end="00:07:00.760" style="s2">meaningful way in fact what I&#39;m actually</p>
+<p begin="00:06:58.870" end="00:07:02.050" style="s2">doing here is I&#39;m Valley crossing but</p>
+<p begin="00:07:00.760" end="00:07:03.580" style="s2">then I find something that works now if</p>
+<p begin="00:07:02.050" end="00:07:06.850" style="s2">it turns out that I found a good hill to</p>
+<p begin="00:07:03.580" end="00:07:08.620" style="s2">say I found search or social media then</p>
+<p begin="00:07:06.850" end="00:07:11.250" style="s2">I begin the process of actually</p>
+<p begin="00:07:08.620" end="00:07:13.750" style="s2">converting adapt generator function into</p>
+<p begin="00:07:11.250" end="00:07:16.540" style="s2">excellence into effectiveness into</p>
+<p begin="00:07:13.750" end="00:07:18.730" style="s2">efficiency into scripts and schemas that</p>
+<p begin="00:07:16.540" end="00:07:21.180" style="s2">are able to work well quickly</p>
+<p begin="00:07:18.730" end="00:07:23.290" style="s2">responsibly at low cost with low error</p>
+<p begin="00:07:21.180" end="00:07:26.290" style="s2">so then I actually enter into the</p>
+<p begin="00:07:23.290" end="00:07:28.450" style="s2">accelerating curve of the s-curve and I</p>
+<p begin="00:07:26.290" end="00:07:31.660" style="s2">get to get what shows up as at a</p>
+<p begin="00:07:28.450" end="00:07:33.610" style="s2">phenomenal level it shows up as winning</p>
+<p begin="00:07:31.660" end="00:07:35.290" style="s2">and I actually feel like I&#39;m winning</p>
+<p begin="00:07:33.610" end="00:07:37.510" style="s2">them generating a trade off I&#39;m</p>
+<p begin="00:07:35.290" end="00:07:40.930" style="s2">converting my generator capacity into</p>
+<p begin="00:07:37.510" end="00:07:44.320" style="s2">what my phenomenal signals are telling</p>
+<p begin="00:07:40.930" end="00:07:46.150" style="s2">me is good and that&#39;s actually true my</p>
+<p begin="00:07:44.320" end="00:07:47.830" style="s2">adaptive capacity is rising up this</p>
+<p begin="00:07:46.150" end="00:07:50.710" style="s2">curve until roughly about the midpoint</p>
+<p begin="00:07:47.830" end="00:07:53.350" style="s2">at the midpoint I actually enter into a</p>
+<p begin="00:07:50.710" end="00:07:54.640" style="s2">very interesting switch and you might</p>
+<p begin="00:07:53.350" end="00:07:56.830" style="s2">call this the addictive switch to the</p>
+<p begin="00:07:54.640" end="00:08:00.700" style="s2">delusional switch which is that I&#39;m</p>
+<p begin="00:07:56.830" end="00:08:01.600" style="s2">actually still getting returned I&#39;m</p>
+<p begin="00:08:00.700" end="00:08:03.700" style="s2">getting same for example as a</p>
+<p begin="00:08:01.600" end="00:08:04.479" style="s2">corporation my my profit line is growing</p>
+<p begin="00:08:03.700" end="00:08:05.620" style="s2">this is actually the point where my</p>
+<p begin="00:08:04.479" end="00:08:08.530" style="s2">profit line is growing at its biggest</p>
+<p begin="00:08:05.620" end="00:08:10.300" style="s2">I&#39;ve no really one market share I&#39;ve got</p>
+<p begin="00:08:08.530" end="00:08:12.340" style="s2">a really good at it nobody can compete</p>
+<p begin="00:08:10.300" end="00:08:13.390" style="s2">so I&#39;m actually generating really really</p>
+<p begin="00:08:12.340" end="00:08:17.800" style="s2">outsized returns much they&#39;ve been</p>
+<p begin="00:08:13.390" end="00:08:19.450" style="s2">golden age but my rate of acceleration</p>
+<p begin="00:08:17.800" end="00:08:20.890" style="s2">is actually beginning to slow down my</p>
+<p begin="00:08:19.450" end="00:08:23.020" style="s2">velocity might actually didn&#39;t be</p>
+<p begin="00:08:20.890" end="00:08:25.000" style="s2">increasing but my rate of acceleration</p>
+<p begin="00:08:23.020" end="00:08:26.680" style="s2">is slowing down at second derivative so</p>
+<p begin="00:08:25.000" end="00:08:28.840" style="s2">what ends up happening is that line is</p>
+<p begin="00:08:26.680" end="00:08:29.979" style="s2">starting to get ready to go here it may</p>
+<p begin="00:08:28.840" end="00:08:32.440" style="s2">not be here yet but it&#39;s starting you&#39;re</p>
+<p begin="00:08:29.979" end="00:08:34.240" style="s2">ready to go here and this is that that</p>
+<p begin="00:08:32.440" end="00:08:36.490" style="s2">moment from the movie the matrix where</p>
+<p begin="00:08:34.240" end="00:08:38.050" style="s2">lieutenant your men are already dead</p>
+<p begin="00:08:36.490" end="00:08:40.900" style="s2">you don&#39;t know it now you&#39;ve got a whole</p>
+<p begin="00:08:38.050" end="00:08:42.219" style="s2">bunch of well-trained well-armed cops</p>
+<p begin="00:08:40.900" end="00:08:45.360" style="s2">getting ready to go in and fight with</p>
+<p begin="00:08:42.219" end="00:08:47.650" style="s2">one little girl what you don&#39;t know is</p>
+<p begin="00:08:45.360" end="00:08:49.120" style="s2">you&#39;re a saber-tooth tiger and aneasha</p>
+<p begin="00:08:47.650" end="00:08:51.280" style="s2">it&#39;s about to go away you don&#39;t know</p>
+<p begin="00:08:49.120" end="00:08:53.500" style="s2">that you&#39;ve externalized your</p>
+<p begin="00:08:51.280" end="00:08:53.820" style="s2">fundamental generator function into what</p>
+<p begin="00:08:53.500" end="00:08:56.360" style="s2">is</p>
+<p begin="00:08:53.820" end="00:08:58.950" style="s2">about to become an obsolete set of</p>
+<p begin="00:08:56.360" end="00:09:00.990" style="s2">schema you just don&#39;t know it because</p>
+<p begin="00:08:58.950" end="00:09:04.310" style="s2">the signaling mechanism that phenomenal</p>
+<p begin="00:09:00.990" end="00:09:06.990" style="s2">neumann old gap has separated out and</p>
+<p begin="00:09:04.310" end="00:09:08.520" style="s2">you remember that loop that we had in</p>
+<p begin="00:09:06.990" end="00:09:10.500" style="s2">the phenomenal numeral conversation that</p>
+<p begin="00:09:08.520" end="00:09:11.970" style="s2">the signaling mechanisms that actually</p>
+<p begin="00:09:10.500" end="00:09:14.190" style="s2">are able to come all the way back and</p>
+<p begin="00:09:11.970" end="00:09:16.410" style="s2">make it conscious that there&#39;s something</p>
+<p begin="00:09:14.190" end="00:09:17.940" style="s2">wrong are dwarfed by the signaling</p>
+<p begin="00:09:16.410" end="00:09:19.980" style="s2">mechanism happening at the surface I&#39;m</p>
+<p begin="00:09:17.940" end="00:09:21.930" style="s2">drinking my coke I&#39;m getting what it is</p>
+<p begin="00:09:19.980" end="00:09:23.760" style="s2">that I need nope I&#39;m getting what I want</p>
+<p begin="00:09:21.930" end="00:09:27.120" style="s2">so now I&#39;m addicted to my wants I&#39;m</p>
+<p begin="00:09:23.760" end="00:09:28.740" style="s2">blind to my my underlying needs I&#39;m even</p>
+<p begin="00:09:27.120" end="00:09:30.030" style="s2">more blind to the fact that I&#39;ve begun</p>
+<p begin="00:09:28.740" end="00:09:32.580" style="s2">making choices that take me out of</p>
+<p begin="00:09:30.030" end="00:09:34.080" style="s2">sovereignty and the top of the curve</p>
+<p begin="00:09:32.580" end="00:09:38.070" style="s2">begins to happen which means that you</p>
+<p begin="00:09:34.080" end="00:09:40.740" style="s2">are now in senescence as an organism as</p>
+<p begin="00:09:38.070" end="00:09:42.870" style="s2">a corporation and you&#39;re fragile</p>
+<p begin="00:09:40.740" end="00:09:46.530" style="s2">meaning that if at any meaningful point</p>
+<p begin="00:09:42.870" end="00:09:47.850" style="s2">the adapted landscape changes you&#39;re not</p>
+<p begin="00:09:46.530" end="00:09:49.970" style="s2">gonna be able to respond and you will</p>
+<p begin="00:09:47.850" end="00:09:49.970" style="s2">die</p>
+</div>
+</body>
+</tt>

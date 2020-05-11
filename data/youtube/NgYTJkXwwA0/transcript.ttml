@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.410" end="00:00:04.470" style="s2">all right welcome everyone to this</p>
+<p begin="00:00:02.490" end="00:00:06.750" style="s2">week&#39;s foreign seminar this week we&#39;ve</p>
+<p begin="00:00:04.470" end="00:00:09.540" style="s2">got Zach Stein who&#39;s going to talk to us</p>
+<p begin="00:00:06.750" end="00:00:11.460" style="s2">about stuff in his new book that is just</p>
+<p begin="00:00:09.540" end="00:00:15.809" style="s2">come out take it away</p>
+<p begin="00:00:11.460" end="00:00:18.029" style="s2">thank you John so thanks thank you for</p>
+<p begin="00:00:15.809" end="00:00:19.980" style="s2">having me here you know it&#39;s a sacs I&#39;m</p>
+<p begin="00:00:18.029" end="00:00:23.070" style="s2">very excited I haven&#39;t spoken about my</p>
+<p begin="00:00:19.980" end="00:00:26.760" style="s2">book yet so so a few words about me</p>
+<p begin="00:00:23.070" end="00:00:28.859" style="s2">before I get going so let&#39;s see I am</p>
+<p begin="00:00:26.760" end="00:00:32.130" style="s2">what&#39;s sometimes called a high achieving</p>
+<p begin="00:00:28.859" end="00:00:34.590" style="s2">dyslexic which means that it&#39;s not a</p>
+<p begin="00:00:32.130" end="00:00:37.829" style="s2">coincidence I&#39;m a theorist of education</p>
+<p begin="00:00:34.590" end="00:00:40.410" style="s2">and so I went to Hampshire College which</p>
+<p begin="00:00:37.829" end="00:00:43.700" style="s2">is a unique school and then the Harvard</p>
+<p begin="00:00:40.410" end="00:00:46.020" style="s2">University Graduate School of Education</p>
+<p begin="00:00:43.700" end="00:00:49.890" style="s2">where I worked with kurt fischer and</p>
+<p begin="00:00:46.020" end="00:00:53.010" style="s2">howard gardner kathryn Elgon along the</p>
+<p begin="00:00:49.890" end="00:00:54.059" style="s2">way i co-founded with dr. theo linda</p>
+<p begin="00:00:53.010" end="00:00:56.520" style="s2">Dawson</p>
+<p begin="00:00:54.059" end="00:00:59.670" style="s2">Latika which is a nonprofit that&#39;s</p>
+<p begin="00:00:56.520" end="00:01:01.230" style="s2">dedicated to using the new sciences of</p>
+<p begin="00:00:59.670" end="00:01:04.199" style="s2">learning and especially developmental</p>
+<p begin="00:01:01.230" end="00:01:07.229" style="s2">psychology to re design testing</p>
+<p begin="00:01:04.199" end="00:01:09.240" style="s2">infrastructures very broadly in the k-12</p>
+<p begin="00:01:07.229" end="00:01:13.380" style="s2">system and in the realm of adult</p>
+<p begin="00:01:09.240" end="00:01:16.200" style="s2">assessment so recently I&#39;ve stepped back</p>
+<p begin="00:01:13.380" end="00:01:18.240" style="s2">from luck teeka and have been writing</p>
+<p begin="00:01:16.200" end="00:01:20.009" style="s2">and doing consulting work and I&#39;m now a</p>
+<p begin="00:01:18.240" end="00:01:22.049" style="s2">scholar here at the road and Institute</p>
+<p begin="00:01:20.009" end="00:01:24.750" style="s2">and so this book I&#39;m going to talk about</p>
+<p begin="00:01:22.049" end="00:01:27.000" style="s2">is my second book my first book was my</p>
+<p begin="00:01:24.750" end="00:01:30.240" style="s2">dissertation which was published by</p>
+<p begin="00:01:27.000" end="00:01:35.040" style="s2">Routledge under the title social justice</p>
+<p begin="00:01:30.240" end="00:01:37.860" style="s2">and standardized testing and I focus on</p>
+<p begin="00:01:35.040" end="00:01:41.310" style="s2">John Rawls his theory of justice and the</p>
+<p begin="00:01:37.860" end="00:01:44.040" style="s2">history of standardized testing so I</p>
+<p begin="00:01:41.310" end="00:01:49.680" style="s2">kind of look backwards in that book this</p>
+<p begin="00:01:44.040" end="00:01:51.360" style="s2">book I&#39;ll share my screen now so this</p>
+<p begin="00:01:49.680" end="00:01:53.820" style="s2">book&#39;s that&#39;s coming out probably late</p>
+<p begin="00:01:51.360" end="00:01:55.799" style="s2">summer early fall putting the final</p>
+<p begin="00:01:53.820" end="00:01:58.380" style="s2">final touches on of course as a dyslexic</p>
+<p begin="00:01:55.799" end="00:02:02.009" style="s2">the hardest part is the final part and</p>
+<p begin="00:01:58.380" end="00:02:04.020" style="s2">so my wife is Megan is a very skilled</p>
+<p begin="00:02:02.009" end="00:02:05.759" style="s2">copy either there and so she and I&#39;ve</p>
+<p begin="00:02:04.020" end="00:02:08.310" style="s2">been going over the final proofs of it</p>
+<p begin="00:02:05.759" end="00:02:09.929" style="s2">and so she&#39;ll be out soon and like I</p>
+<p begin="00:02:08.310" end="00:02:13.190" style="s2">said my previous book looked backwards</p>
+<p begin="00:02:09.929" end="00:02:15.020" style="s2">and this book is looking for</p>
+<p begin="00:02:13.190" end="00:02:18.200" style="s2">this is in some ways a book of</p>
+<p begin="00:02:15.020" end="00:02:21.530" style="s2">educational futurism but it is also a</p>
+<p begin="00:02:18.200" end="00:02:22.790" style="s2">book that calls for really radical</p>
+<p begin="00:02:21.530" end="00:02:27.230" style="s2">changes in the way we think about</p>
+<p begin="00:02:22.790" end="00:02:28.250" style="s2">education and theorized education so</p>
+<p begin="00:02:27.230" end="00:02:31.040" style="s2">what I&#39;m gonna do is I&#39;m going to walk</p>
+<p begin="00:02:28.250" end="00:02:32.770" style="s2">through the key themes of the book and</p>
+<p begin="00:02:31.040" end="00:02:36.650" style="s2">kind of give an overview of the book</p>
+<p begin="00:02:32.770" end="00:02:40.250" style="s2">pausing in some places to elaborate what</p>
+<p begin="00:02:36.650" end="00:02:43.670" style="s2">I think are important details and yeah</p>
+<p begin="00:02:40.250" end="00:02:45.020" style="s2">so that&#39;ll be that&#39;ll be the plan so</p>
+<p begin="00:02:43.670" end="00:02:48.320" style="s2">this is the best way to actually frame</p>
+<p begin="00:02:45.020" end="00:02:52.040" style="s2">the book and this was drawn on a napkin</p>
+<p begin="00:02:48.320" end="00:02:56.860" style="s2">for me by a colleague and basically it&#39;s</p>
+<p begin="00:02:52.040" end="00:02:56.860" style="s2">the structure of educational crisis and</p>
+<p begin="00:02:57.550" end="00:03:02.930" style="s2">this happens both for individuals and</p>
+<p begin="00:03:00.430" end="00:03:05.080" style="s2">collectives which is to say any time the</p>
+<p begin="00:03:02.930" end="00:03:08.870" style="s2">task demands of what you have to do</p>
+<p begin="00:03:05.080" end="00:03:10.130" style="s2">outstrip your actual capabilities you&#39;re</p>
+<p begin="00:03:08.870" end="00:03:14.780" style="s2">in the learning crisis you need to</p>
+<p begin="00:03:10.130" end="00:03:19.190" style="s2">transform or fail or change what you&#39;re</p>
+<p begin="00:03:14.780" end="00:03:21.260" style="s2">trying to do and so this I think is one</p>
+<p begin="00:03:19.190" end="00:03:23.150" style="s2">way to characterize what&#39;s happening on</p>
+<p begin="00:03:21.260" end="00:03:26.870" style="s2">the whole for our culture in this</p>
+<p begin="00:03:23.150" end="00:03:29.989" style="s2">historical moment we are facing a</p>
+<p begin="00:03:26.870" end="00:03:33.020" style="s2">educational crisis of unprecedented</p>
+<p begin="00:03:29.989" end="00:03:36.440" style="s2">proportion and it&#39;s trickling down into</p>
+<p begin="00:03:33.020" end="00:03:37.910" style="s2">the life world of everyone and that</p>
+<p begin="00:03:36.440" end="00:03:41.120" style="s2">means that many individuals are</p>
+<p begin="00:03:37.910" end="00:03:43.430" style="s2">themselves in a situation of educational</p>
+<p begin="00:03:41.120" end="00:03:44.780" style="s2">crisis and of course those people most</p>
+<p begin="00:03:43.430" end="00:03:47.000" style="s2">in that situation aren&#39;t the young</p>
+<p begin="00:03:44.780" end="00:03:50.959" style="s2">people the people who are actually in</p>
+<p begin="00:03:47.000" end="00:03:53.510" style="s2">school and so what I&#39;m arguing is that</p>
+<p begin="00:03:50.959" end="00:03:55.880" style="s2">unless we don&#39;t unless unless we change</p>
+<p begin="00:03:53.510" end="00:03:57.920" style="s2">schools very radically unless there are</p>
+<p begin="00:03:55.880" end="00:04:01.400" style="s2">major changes to the spare structure of</p>
+<p begin="00:03:57.920" end="00:04:03.500" style="s2">schooling those young people now being</p>
+<p begin="00:04:01.400" end="00:04:05.510" style="s2">socialized into our society will not be</p>
+<p begin="00:04:03.500" end="00:04:08.510" style="s2">able to meet the task demands made of</p>
+<p begin="00:04:05.510" end="00:04:11.000" style="s2">them in order to reproduce the social</p>
+<p begin="00:04:08.510" end="00:04:14.060" style="s2">system so it&#39;s a strong argument so you</p>
+<p begin="00:04:11.000" end="00:04:18.049" style="s2">notice these learning curves and then</p>
+<p begin="00:04:14.060" end="00:04:20.239" style="s2">you look at these data and so the key</p>
+<p begin="00:04:18.049" end="00:04:22.190" style="s2">chapter one of the first check the first</p>
+<p begin="00:04:20.239" end="00:04:24.800" style="s2">chapter in the book is health education</p>
+<p begin="00:04:22.190" end="00:04:26.750" style="s2">and Anthony and</p>
+<p begin="00:04:24.800" end="00:04:29.300" style="s2">it allows me to make this broad argument</p>
+<p begin="00:04:26.750" end="00:04:32.479" style="s2">where I can contextualise education in</p>
+<p begin="00:04:29.300" end="00:04:35.180" style="s2">the context of global crisis global</p>
+<p begin="00:04:32.479" end="00:04:37.789" style="s2">meta-crisis so these come from some work</p>
+<p begin="00:04:35.180" end="00:04:39.949" style="s2">that&#39;s being done on the Anthropocene</p>
+<p begin="00:04:37.789" end="00:04:43.069" style="s2">and the Anthropocene has to do with the</p>
+<p begin="00:04:39.949" end="00:04:46.340" style="s2">melding and forever now inextricably</p>
+<p begin="00:04:43.069" end="00:04:50.120" style="s2">bound relationship between the biosphere</p>
+<p begin="00:04:46.340" end="00:04:53.270" style="s2">and even some of the you know geological</p>
+<p begin="00:04:50.120" end="00:04:54.740" style="s2">features of the earth and humans and so</p>
+<p begin="00:04:53.270" end="00:04:57.500" style="s2">what you&#39;re seeing here socio-economic</p>
+<p begin="00:04:54.740" end="00:05:02.090" style="s2">trends which are mirrored by earth</p>
+<p begin="00:04:57.500" end="00:05:03.199" style="s2">system trends and what this means is</p>
+<p begin="00:05:02.090" end="00:05:06.199" style="s2">that and you&#39;ll see all of these are</p>
+<p begin="00:05:03.199" end="00:05:09.169" style="s2">quasi hockey-stick type things and this</p>
+<p begin="00:05:06.199" end="00:05:11.300" style="s2">is um exactly back to the first figure</p>
+<p begin="00:05:09.169" end="00:05:14.389" style="s2">which shows well ya to task demands of</p>
+<p begin="00:05:11.300" end="00:05:16.789" style="s2">what it means to live in society and the</p>
+<p begin="00:05:14.389" end="00:05:19.610" style="s2">task demands of sustaining human</p>
+<p begin="00:05:16.789" end="00:05:22.639" style="s2">civilization are becoming more complex</p>
+<p begin="00:05:19.610" end="00:05:24.469" style="s2">you know each one of these gr systems</p>
+<p begin="00:05:22.639" end="00:05:30.050" style="s2">and each one of these key socio-economic</p>
+<p begin="00:05:24.469" end="00:05:30.560" style="s2">trends is turning into a problem to be</p>
+<p begin="00:05:30.050" end="00:05:35.690" style="s2">solved</p>
+<p begin="00:05:30.560" end="00:05:37.639" style="s2">it&#39;s but better so what I do in the</p>
+<p begin="00:05:35.690" end="00:05:39.800" style="s2">preface to the book because it&#39;s a</p>
+<p begin="00:05:37.639" end="00:05:41.210" style="s2">collection of essays what I do in the</p>
+<p begin="00:05:39.800" end="00:05:45.199" style="s2">preface of the book is weave together</p>
+<p begin="00:05:41.210" end="00:05:47.210" style="s2">these essays with a set of themes and so</p>
+<p begin="00:05:45.199" end="00:05:49.460" style="s2">this is the only text heavy slide which</p>
+<p begin="00:05:47.210" end="00:05:51.380" style="s2">I&#39;m gonna kind of read to you in my</p>
+<p begin="00:05:49.460" end="00:05:55.460" style="s2">whole deck but it&#39;s worth getting these</p>
+<p begin="00:05:51.380" end="00:05:58.490" style="s2">themes direct and clear so the book</p>
+<p begin="00:05:55.460" end="00:05:59.990" style="s2">talks about as I&#39;ve already done putting</p>
+<p begin="00:05:58.490" end="00:06:02.029" style="s2">education in the context of a global</p>
+<p begin="00:05:59.990" end="00:06:03.979" style="s2">meta-crisis and by meta-crisis what I</p>
+<p begin="00:06:02.029" end="00:06:06.169" style="s2">mean is that it&#39;s not it&#39;s not one</p>
+<p begin="00:06:03.979" end="00:06:08.650" style="s2">crisis it&#39;s actually a crisis of crises</p>
+<p begin="00:06:06.169" end="00:06:12.680" style="s2">it&#39;s a crisis that has to do with the</p>
+<p begin="00:06:08.650" end="00:06:14.090" style="s2">confluence of many other crises so in</p>
+<p begin="00:06:12.680" end="00:06:16.039" style="s2">that context I&#39;m saying that that</p>
+<p begin="00:06:14.090" end="00:06:18.590" style="s2">traditional approaches to thinking about</p>
+<p begin="00:06:16.039" end="00:06:21.190" style="s2">educational systems which have depended</p>
+<p begin="00:06:18.590" end="00:06:26.060" style="s2">on human capital theory are now obsolete</p>
+<p begin="00:06:21.190" end="00:06:28.219" style="s2">if they were ever really good so it&#39;s a</p>
+<p begin="00:06:26.060" end="00:06:30.110" style="s2">strong critique of especially reductive</p>
+<p begin="00:06:28.219" end="00:06:32.180" style="s2">human capital theory which I&#39;ll talk</p>
+<p begin="00:06:30.110" end="00:06:35.360" style="s2">about later as a way of thinking about</p>
+<p begin="00:06:32.180" end="00:06:36.940" style="s2">the function of Education Society so I&#39;m</p>
+<p begin="00:06:35.360" end="00:06:39.220" style="s2">pointing out the interdependence between</p>
+<p begin="00:06:36.940" end="00:06:41.170" style="s2">educational organizations the teach</p>
+<p begin="00:06:39.220" end="00:06:43.840" style="s2">early practices that occur in them and</p>
+<p begin="00:06:41.170" end="00:06:45.400" style="s2">the rest of society culture kind of</p>
+<p begin="00:06:43.840" end="00:06:46.750" style="s2">related to that is the potentially</p>
+<p begin="00:06:45.400" end="00:06:48.820" style="s2">revolutionary impact of computer</p>
+<p begin="00:06:46.750" end="00:06:49.810" style="s2">technologies on educational practice so</p>
+<p begin="00:06:48.820" end="00:06:52.240" style="s2">I think these things speak for</p>
+<p begin="00:06:49.810" end="00:06:54.250" style="s2">themselves it is the culture and society</p>
+<p begin="00:06:52.240" end="00:06:56.200" style="s2">and the technological basis on which</p>
+<p begin="00:06:54.250" end="00:06:59.740" style="s2">education takes place as we go from the</p>
+<p begin="00:06:56.200" end="00:07:02.500" style="s2">chalkboard to the flatscreen right from</p>
+<p begin="00:06:59.740" end="00:07:04.090" style="s2">the chalkboard to the smart board we&#39;re</p>
+<p begin="00:07:02.500" end="00:07:06.280" style="s2">we&#39;re changing the nature of teach early</p>
+<p begin="00:07:04.090" end="00:07:09.130" style="s2">practice in a very fundamental way so</p>
+<p begin="00:07:06.280" end="00:07:10.900" style="s2">that&#39;s that&#39;s key so part of that</p>
+<p begin="00:07:09.130" end="00:07:12.490" style="s2">transformation of teach early practice</p>
+<p begin="00:07:10.900" end="00:07:15.010" style="s2">has to do with the transformation of the</p>
+<p begin="00:07:12.490" end="00:07:20.470" style="s2">nature of teach early Authority and this</p>
+<p begin="00:07:15.010" end="00:07:22.060" style="s2">is a particular kind of effort kind of</p>
+<p begin="00:07:20.470" end="00:07:24.990" style="s2">it&#39;s the flourishing of certain post</p>
+<p begin="00:07:22.060" end="00:07:28.900" style="s2">modernist views which question authority</p>
+<p begin="00:07:24.990" end="00:07:30.160" style="s2">period and I&#39;m saying that obviously</p>
+<p begin="00:07:28.900" end="00:07:32.410" style="s2">there&#39;s pathological forms of authority</p>
+<p begin="00:07:30.160" end="00:07:35.020" style="s2">like there are pathological forms of</p>
+<p begin="00:07:32.410" end="00:07:36.550" style="s2">Authority and yet there are very</p>
+<p begin="00:07:35.020" end="00:07:38.700" style="s2">important forms of authority like teach</p>
+<p begin="00:07:36.550" end="00:07:41.460" style="s2">really Authority and parental authority</p>
+<p begin="00:07:38.700" end="00:07:44.230" style="s2">which should not be used pejoratively</p>
+<p begin="00:07:41.460" end="00:07:45.760" style="s2">but should be actually researched into</p>
+<p begin="00:07:44.230" end="00:07:47.410" style="s2">their structure so one of the things I</p>
+<p begin="00:07:45.760" end="00:07:49.120" style="s2">do in this book is look at the structure</p>
+<p begin="00:07:47.410" end="00:07:50.980" style="s2">of teaching the authority from the</p>
+<p begin="00:07:49.120" end="00:07:53.700" style="s2">perspective of cognitive science and</p>
+<p begin="00:07:50.980" end="00:07:56.950" style="s2">developmental psychology and philosophy</p>
+<p begin="00:07:53.700" end="00:07:59.380" style="s2">so and then related to this issue has to</p>
+<p begin="00:07:56.950" end="00:08:02.620" style="s2">do with what our teachers allowed to</p>
+<p begin="00:07:59.380" end="00:08:04.720" style="s2">talk about and as the meta crisis</p>
+<p begin="00:08:02.620" end="00:08:07.720" style="s2">deepens and the existential issues get</p>
+<p begin="00:08:04.720" end="00:08:09.250" style="s2">more complex that humanity faces I&#39;m</p>
+<p begin="00:08:07.720" end="00:08:11.110" style="s2">saying that we&#39;re gonna actually need to</p>
+<p begin="00:08:09.250" end="00:08:14.650" style="s2">revisit the role of religiosity and</p>
+<p begin="00:08:11.110" end="00:08:17.590" style="s2">spirituality as an aspect of human</p>
+<p begin="00:08:14.650" end="00:08:19.960" style="s2">development and education and I&#39;ll talk</p>
+<p begin="00:08:17.590" end="00:08:21.910" style="s2">about that more and then what kind of</p>
+<p begin="00:08:19.960" end="00:08:25.480" style="s2">ties it all together is the need to</p>
+<p begin="00:08:21.910" end="00:08:27.580" style="s2">engage in some serious out-of-the-box</p>
+<p begin="00:08:25.480" end="00:08:32.440" style="s2">thinking which is to say some concrete</p>
+<p begin="00:08:27.580" end="00:08:36.370" style="s2">utopian theorizing adjacent futures near</p>
+<p begin="00:08:32.440" end="00:08:37.900" style="s2">adjacent futures which are not a matter</p>
+<p begin="00:08:36.370" end="00:08:41.680" style="s2">of resources but a matter of political</p>
+<p begin="00:08:37.900" end="00:08:43.980" style="s2">will and imagination and so much of what</p>
+<p begin="00:08:41.680" end="00:08:46.770" style="s2">I lay out here could be seen as utopian</p>
+<p begin="00:08:43.980" end="00:08:49.510" style="s2">especially my vision for a kind of</p>
+<p begin="00:08:46.770" end="00:08:50.720" style="s2">self-organizing educational hub network</p>
+<p begin="00:08:49.510" end="00:08:54.019" style="s2">to replace our big</p>
+<p begin="00:08:50.720" end="00:08:57.589" style="s2">dinosaur schools bunch of micro schools</p>
+<p begin="00:08:54.019" end="00:09:00.589" style="s2">that are all related and I also lay out</p>
+<p begin="00:08:57.589" end="00:09:02.420" style="s2">13 social miracles which I see is the</p>
+<p begin="00:09:00.589" end="00:09:05.000" style="s2">condition for the possibility of actual</p>
+<p begin="00:09:02.420" end="00:09:09.019" style="s2">schooling so these are things like basic</p>
+<p begin="00:09:05.000" end="00:09:14.029" style="s2">income guarantees and you know</p>
+<p begin="00:09:09.019" end="00:09:15.589" style="s2">guarantees of life continuation of the</p>
+<p begin="00:09:14.029" end="00:09:17.959" style="s2">biosphere for example needs to be</p>
+<p begin="00:09:15.589" end="00:09:20.959" style="s2">assured if we want to educate in any</p>
+<p begin="00:09:17.959" end="00:09:25.129" style="s2">kind of sincere way a generation that&#39;s</p>
+<p begin="00:09:20.959" end="00:09:28.639" style="s2">going to reside in the future and so yes</p>
+<p begin="00:09:25.129" end="00:09:31.819" style="s2">I&#39;m speculating but the point here is</p>
+<p begin="00:09:28.639" end="00:09:34.339" style="s2">that in times of crisis and in times of</p>
+<p begin="00:09:31.819" end="00:09:37.519" style="s2">rapid transformation there needs to be a</p>
+<p begin="00:09:34.339" end="00:09:39.829" style="s2">sense of what&#39;s possible not just what&#39;s</p>
+<p begin="00:09:37.519" end="00:09:43.810" style="s2">bad about what&#39;s going on but what we</p>
+<p begin="00:09:39.829" end="00:09:48.350" style="s2">can do next so one of the things that</p>
+<p begin="00:09:43.810" end="00:09:53.360" style="s2">holds the book together is my work in</p>
+<p begin="00:09:48.350" end="00:09:57.670" style="s2">meta theory and so meta theory is a kind</p>
+<p begin="00:09:53.360" end="00:09:59.959" style="s2">of super discipline and it is often</p>
+<p begin="00:09:57.670" end="00:10:04.459" style="s2">characterized as part of the emergence</p>
+<p begin="00:09:59.959" end="00:10:06.790" style="s2">of the meta modern phase of cultural</p>
+<p begin="00:10:04.459" end="00:10:08.930" style="s2">development and so that&#39;s a mouthful and</p>
+<p begin="00:10:06.790" end="00:10:11.870" style="s2">so a minute modernism and post-modernism</p>
+<p begin="00:10:08.930" end="00:10:14.019" style="s2">and the question of how many prefixes we</p>
+<p begin="00:10:11.870" end="00:10:18.199" style="s2">can afix them to modern is a good one</p>
+<p begin="00:10:14.019" end="00:10:20.839" style="s2">but the meta modern is unique and the</p>
+<p begin="00:10:18.199" end="00:10:23.839" style="s2">meta modern is a structure of feeling</p>
+<p begin="00:10:20.839" end="00:10:26.660" style="s2">that emerges after post-modernism</p>
+<p begin="00:10:23.839" end="00:10:29.480" style="s2">so the meta modern doesn&#39;t just seek to</p>
+<p begin="00:10:26.660" end="00:10:30.410" style="s2">fragment and multiply perspectives and</p>
+<p begin="00:10:29.480" end="00:10:32.360" style="s2">subjectivity</p>
+<p begin="00:10:30.410" end="00:10:34.519" style="s2">the meta modern seeks to actually</p>
+<p begin="00:10:32.360" end="00:10:37.879" style="s2">reintegrate those perspectives that have</p>
+<p begin="00:10:34.519" end="00:10:40.339" style="s2">been fragmented if the modern takes a</p>
+<p begin="00:10:37.879" end="00:10:43.009" style="s2">singular perspective and the postmodern</p>
+<p begin="00:10:40.339" end="00:10:44.720" style="s2">takes all possible perspectives the meta</p>
+<p begin="00:10:43.009" end="00:10:46.670" style="s2">modern steps tend to organize all of</p>
+<p begin="00:10:44.720" end="00:10:48.559" style="s2">those perspectives usually in some kind</p>
+<p begin="00:10:46.670" end="00:10:51.680" style="s2">of hierarchy or some kind of set of</p>
+<p begin="00:10:48.559" end="00:10:54.199" style="s2">comprehensive categories if you&#39;re doing</p>
+<p begin="00:10:51.680" end="00:10:55.519" style="s2">meta theory in a meta modern way now</p>
+<p begin="00:10:54.199" end="00:10:57.620" style="s2">there are meta modern forms of</p>
+<p begin="00:10:55.519" end="00:11:01.130" style="s2">aesthetics meta modern literature etc</p>
+<p begin="00:10:57.620" end="00:11:03.070" style="s2">XANA murder it&#39;s emerging I believe and</p>
+<p begin="00:11:01.130" end="00:11:06.520" style="s2">I think it&#39;s useful to think about</p>
+<p begin="00:11:03.070" end="00:11:09.340" style="s2">this here are the four quadrants of ken</p>
+<p begin="00:11:06.520" end="00:11:11.230" style="s2">wilber integral meta theory which is one</p>
+<p begin="00:11:09.340" end="00:11:13.270" style="s2">of several meta theories that I used</p>
+<p begin="00:11:11.230" end="00:11:16.270" style="s2">throughout the book I find his to be</p>
+<p begin="00:11:13.270" end="00:11:19.750" style="s2">particularly clear and so what you&#39;re</p>
+<p begin="00:11:16.270" end="00:11:22.480" style="s2">seeing here is a kind of checklist to</p>
+<p begin="00:11:19.750" end="00:11:24.430" style="s2">assure epistemological comprehensiveness</p>
+<p begin="00:11:22.480" end="00:11:26.410" style="s2">for interdisciplinary investigation</p>
+<p begin="00:11:24.430" end="00:11:27.730" style="s2">which is to say that if you&#39;re doing an</p>
+<p begin="00:11:26.410" end="00:11:30.460" style="s2">investigation into something that&#39;s very</p>
+<p begin="00:11:27.730" end="00:11:31.690" style="s2">complicated like education you want to</p>
+<p begin="00:11:30.460" end="00:11:33.640" style="s2">make sure that you&#39;re covering all your</p>
+<p begin="00:11:31.690" end="00:11:35.650" style="s2">bases and not just looking at it through</p>
+<p begin="00:11:33.640" end="00:11:37.210" style="s2">one particular set of perspectives right</p>
+<p begin="00:11:35.650" end="00:11:38.770" style="s2">so this is the postmodern insight that</p>
+<p begin="00:11:37.210" end="00:11:40.060" style="s2">you don&#39;t want to take one perspective</p>
+<p begin="00:11:38.770" end="00:11:42.820" style="s2">certainly not the perspective that&#39;s</p>
+<p begin="00:11:40.060" end="00:11:44.410" style="s2">been dominant and oppressive for so long</p>
+<p begin="00:11:42.820" end="00:11:46.750" style="s2">you want to take many many many</p>
+<p begin="00:11:44.410" end="00:11:49.440" style="s2">perspectives what this does is organize</p>
+<p begin="00:11:46.750" end="00:11:51.370" style="s2">perspectives and it says there are</p>
+<p begin="00:11:49.440" end="00:11:53.200" style="s2">disciplines and perspectives that deal</p>
+<p begin="00:11:51.370" end="00:11:54.730" style="s2">with the subject so for example this</p>
+<p begin="00:11:53.200" end="00:11:56.140" style="s2">would be the experience of the student</p>
+<p begin="00:11:54.730" end="00:11:58.330" style="s2">in the classroom this is the upper left</p>
+<p begin="00:11:56.140" end="00:11:59.920" style="s2">quadrant so there&#39;s the experience of</p>
+<p begin="00:11:58.330" end="00:12:00.850" style="s2">the first-person experience of a student</p>
+<p begin="00:11:59.920" end="00:12:03.100" style="s2">which can&#39;t be neglected</p>
+<p begin="00:12:00.850" end="00:12:05.620" style="s2">now the first-person experience of the</p>
+<p begin="00:12:03.100" end="00:12:07.540" style="s2">student is related to the physiology of</p>
+<p begin="00:12:05.620" end="00:12:09.520" style="s2">that student the neuro chemistry</p>
+<p begin="00:12:07.540" end="00:12:13.000" style="s2">especially stress hormones in schools</p>
+<p begin="00:12:09.520" end="00:12:17.490" style="s2">right so what the student experiences as</p>
+<p begin="00:12:13.000" end="00:12:20.530" style="s2">internally anxiety has a neurochemical</p>
+<p begin="00:12:17.490" end="00:12:23.980" style="s2">mirror or relation which could also be</p>
+<p begin="00:12:20.530" end="00:12:26.230" style="s2">investigated right similarly in the</p>
+<p begin="00:12:23.980" end="00:12:28.360" style="s2">lower right-hand quadrant you could look</p>
+<p begin="00:12:26.230" end="00:12:31.120" style="s2">at the student entirely from the</p>
+<p begin="00:12:28.360" end="00:12:34.630" style="s2">perspective of the school system and all</p>
+<p begin="00:12:31.120" end="00:12:37.420" style="s2">of the forms of measurement that encode</p>
+<p begin="00:12:34.630" end="00:12:40.360" style="s2">the student within the infrastructure of</p>
+<p begin="00:12:37.420" end="00:12:41.980" style="s2">the bureaucracy and the school buses and</p>
+<p begin="00:12:40.360" end="00:12:44.850" style="s2">the roads in the actual building all</p>
+<p begin="00:12:41.980" end="00:12:47.800" style="s2">stuff that is about the systems of</p>
+<p begin="00:12:44.850" end="00:12:49.600" style="s2">Education and then there&#39;s the culture</p>
+<p begin="00:12:47.800" end="00:12:52.210" style="s2">the lower left quadrant which has to do</p>
+<p begin="00:12:49.600" end="00:12:53.920" style="s2">with the interiors of the collective</p>
+<p begin="00:12:52.210" end="00:12:55.990" style="s2">right not just the experience of the</p>
+<p begin="00:12:53.920" end="00:12:58.300" style="s2">student but what&#39;s the culture of the</p>
+<p begin="00:12:55.990" end="00:13:00.370" style="s2">school so in each of these four</p>
+<p begin="00:12:58.300" end="00:13:03.040" style="s2">quadrants there&#39;s whole branches of</p>
+<p begin="00:13:00.370" end="00:13:05.320" style="s2">educational theory and neuroscience and</p>
+<p begin="00:13:03.040" end="00:13:07.180" style="s2">things that are sold not educational</p>
+<p begin="00:13:05.320" end="00:13:08.740" style="s2">theory but as someone who does deep</p>
+<p begin="00:13:07.180" end="00:13:11.470" style="s2">educational theory actually everything&#39;s</p>
+<p begin="00:13:08.740" end="00:13:13.639" style="s2">related to education and</p>
+<p begin="00:13:11.470" end="00:13:16.550" style="s2">so yeah so that&#39;s integral Metta theory</p>
+<p begin="00:13:13.639" end="00:13:18.620" style="s2">which I use alongside several other men</p>
+<p begin="00:13:16.550" end="00:13:22.279" style="s2">theories including the dialectical</p>
+<p begin="00:13:18.620" end="00:13:24.350" style="s2">critical realism of Roy Bhaskar and a</p>
+<p begin="00:13:22.279" end="00:13:28.360" style="s2">couple others so that&#39;s worth thinking</p>
+<p begin="00:13:24.350" end="00:13:32.269" style="s2">about not part of Metta theory</p>
+<p begin="00:13:28.360" end="00:13:33.410" style="s2">especially in to Romed a theory is this</p>
+<p begin="00:13:32.269" end="00:13:38.689" style="s2">is one of the things that allows us to</p>
+<p begin="00:13:33.410" end="00:13:40.399" style="s2">get beyond human capital theory and so</p>
+<p begin="00:13:38.689" end="00:13:42.319" style="s2">it&#39;s important to recognize that human</p>
+<p begin="00:13:40.399" end="00:13:44.329" style="s2">capital theory is basically theorized</p>
+<p begin="00:13:42.319" end="00:13:47.420" style="s2">into the lower right quadrant in</p>
+<p begin="00:13:44.329" end="00:13:49.579" style="s2">Wilbur&#39;s diagram right human capital</p>
+<p begin="00:13:47.420" end="00:13:53.059" style="s2">theories says that the function of</p>
+<p begin="00:13:49.579" end="00:13:55.120" style="s2">education is to produce workers</p>
+<p begin="00:13:53.059" end="00:13:57.110" style="s2">basically I mean this is like a terrible</p>
+<p begin="00:13:55.120" end="00:13:58.189" style="s2">simplification but that&#39;s at the end of</p>
+<p begin="00:13:57.110" end="00:13:59.779" style="s2">the day of I was explaining it to a</p>
+<p begin="00:13:58.189" end="00:14:02.389" style="s2">middle schooler I&#39;d say that that&#39;s a</p>
+<p begin="00:13:59.779" end="00:14:04.370" style="s2">human capital theory so that the skills</p>
+<p begin="00:14:02.389" end="00:14:06.379" style="s2">and capacities that are developed within</p>
+<p begin="00:14:04.370" end="00:14:09.470" style="s2">schools are ultimately to be fed into</p>
+<p begin="00:14:06.379" end="00:14:12.860" style="s2">the economic system and the marker of a</p>
+<p begin="00:14:09.470" end="00:14:16.220" style="s2">successful school system is one that can</p>
+<p begin="00:14:12.860" end="00:14:18.589" style="s2">act effectively and efficiently populate</p>
+<p begin="00:14:16.220" end="00:14:20.240" style="s2">the roles within the economy with the</p>
+<p begin="00:14:18.589" end="00:14:22.519" style="s2">appropriate skills and subjectivities</p>
+<p begin="00:14:20.240" end="00:14:25.429" style="s2">and dispositions that were fostered</p>
+<p begin="00:14:22.519" end="00:14:27.079" style="s2">during school and so what that means as</p>
+<p begin="00:14:25.429" end="00:14:28.939" style="s2">we measure educational success by the</p>
+<p begin="00:14:27.079" end="00:14:32.629" style="s2">degree to which education raises to the</p>
+<p begin="00:14:28.939" end="00:14:35.029" style="s2">GDP so if you want a really simplified</p>
+<p begin="00:14:32.629" end="00:14:37.160" style="s2">well notice I&#39;m mentoring the metric</p>
+<p begin="00:14:35.029" end="00:14:39.379" style="s2">here a lot of kids are measured in</p>
+<p begin="00:14:37.160" end="00:14:40.699" style="s2">school we measure educational</p>
+<p begin="00:14:39.379" end="00:14:42.319" style="s2">effectiveness at the level of the school</p>
+<p begin="00:14:40.699" end="00:14:44.149" style="s2">and the level of the country in terms of</p>
+<p begin="00:14:42.319" end="00:14:45.470" style="s2">numbers and measures this is going to be</p>
+<p begin="00:14:44.149" end="00:14:48.079" style="s2">a theme that is woven throughout the</p>
+<p begin="00:14:45.470" end="00:14:49.819" style="s2">book and a theme in my meta theoretical</p>
+<p begin="00:14:48.079" end="00:14:51.110" style="s2">investigations in general have to do</p>
+<p begin="00:14:49.819" end="00:14:54.050" style="s2">with measurement and measurement</p>
+<p begin="00:14:51.110" end="00:14:55.579" style="s2">technologies something I&#39;ll return to so</p>
+<p begin="00:14:54.050" end="00:14:59.329" style="s2">but when human capital Theory did was</p>
+<p begin="00:14:55.579" end="00:15:01.819" style="s2">allowed for the triumph of objective</p>
+<p begin="00:14:59.329" end="00:15:03.519" style="s2">measurement in education and the</p>
+<p begin="00:15:01.819" end="00:15:06.829" style="s2">emergence of what I called the education</p>
+<p begin="00:15:03.519" end="00:15:08.089" style="s2">commodity proposition which is the idea</p>
+<p begin="00:15:06.829" end="00:15:13.309" style="s2">that the best way to understand</p>
+<p begin="00:15:08.089" end="00:15:15.019" style="s2">education is as a commodity and the</p>
+<p begin="00:15:13.309" end="00:15:16.699" style="s2">education commodity propositions similar</p>
+<p begin="00:15:15.019" end="00:15:19.689" style="s2">to film the labor commodity proposition</p>
+<p begin="00:15:16.699" end="00:15:22.459" style="s2">which argues that labourers come on and</p>
+<p begin="00:15:19.689" end="00:15:23.870" style="s2">what that does is it reduces theorizing</p>
+<p begin="00:15:22.459" end="00:15:25.460" style="s2">about education</p>
+<p begin="00:15:23.870" end="00:15:28.160" style="s2">is to say the education commodity</p>
+<p begin="00:15:25.460" end="00:15:29.830" style="s2">proposition has us thinking about things</p>
+<p begin="00:15:28.160" end="00:15:32.920" style="s2">like return on investment in education</p>
+<p begin="00:15:29.830" end="00:15:36.860" style="s2">right as this thinking about quantifying</p>
+<p begin="00:15:32.920" end="00:15:39.740" style="s2">in terms of finances and a structure of</p>
+<p begin="00:15:36.860" end="00:15:43.880" style="s2">you know flows of people as being</p>
+<p begin="00:15:39.740" end="00:15:47.360" style="s2">related so that&#39;s one of the things that</p>
+<p begin="00:15:43.880" end="00:15:49.670" style="s2">I argue against is the use of</p>
+<p begin="00:15:47.360" end="00:15:51.830" style="s2">standardized testing to encode the</p>
+<p begin="00:15:49.670" end="00:15:53.930" style="s2">education commodity proposition on to</p>
+<p begin="00:15:51.830" end="00:15:56.089" style="s2">the subjectivity of a student so that</p>
+<p begin="00:15:53.930" end="00:16:01.820" style="s2">there are financial consequences for how</p>
+<p begin="00:15:56.089" end="00:16:03.320" style="s2">they do on the SAT it&#39;s true so yes so</p>
+<p begin="00:16:01.820" end="00:16:05.029" style="s2">one of the things that the whole book is</p>
+<p begin="00:16:03.320" end="00:16:07.279" style="s2">trying to do is to say we gotta shake</p>
+<p begin="00:16:05.029" end="00:16:09.950" style="s2">loose from thinking about education as</p>
+<p begin="00:16:07.279" end="00:16:11.630" style="s2">being entirely wedded to the economy and</p>
+<p begin="00:16:09.950" end="00:16:13.940" style="s2">started thinking about education very</p>
+<p begin="00:16:11.630" end="00:16:15.050" style="s2">differently in part because the economy</p>
+<p begin="00:16:13.940" end="00:16:16.880" style="s2">is gonna be very different ten years</p>
+<p begin="00:16:15.050" end="00:16:17.210" style="s2">from that so but I&#39;m getting out of the</p>
+<p begin="00:16:16.880" end="00:16:20.660" style="s2">story</p>
+<p begin="00:16:17.210" end="00:16:24.470" style="s2">okay so that was meta modern metatheory</p>
+<p begin="00:16:20.660" end="00:16:26.270" style="s2">which is part of the book but I also do</p>
+<p begin="00:16:24.470" end="00:16:28.490" style="s2">a lot of theorize in human development</p>
+<p begin="00:16:26.270" end="00:16:31.310" style="s2">and trying to bring together several</p>
+<p begin="00:16:28.490" end="00:16:36.890" style="s2">different models of learning and several</p>
+<p begin="00:16:31.310" end="00:16:38.660" style="s2">different models of you know the way the</p>
+<p begin="00:16:36.890" end="00:16:40.400" style="s2">human develops over time these</p>
+<p begin="00:16:38.660" end="00:16:44.330" style="s2">developmental models let&#39;s say that neo</p>
+<p begin="00:16:40.400" end="00:16:47.600" style="s2">Piaget didn&#39;t work and this is a quote</p>
+<p begin="00:16:44.330" end="00:16:51.650" style="s2">that frames a section heading of the</p>
+<p begin="00:16:47.600" end="00:16:53.510" style="s2">book and characterizes in many ways you</p>
+<p begin="00:16:51.650" end="00:16:58.520" style="s2">know my view of what&#39;s wrong with</p>
+<p begin="00:16:53.510" end="00:17:00.350" style="s2">educational psychology you know despite</p>
+<p begin="00:16:58.520" end="00:17:04.370" style="s2">the dominance of cognitive science that</p>
+<p begin="00:17:00.350" end="00:17:05.900" style="s2">for the past couple decades the evidence</p>
+<p begin="00:17:04.370" end="00:17:08.780" style="s2">has not suggested that the mind is</p>
+<p begin="00:17:05.900" end="00:17:10.160" style="s2">computer like if you look at it what</p>
+<p begin="00:17:08.780" end="00:17:12.170" style="s2">it&#39;s suggesting is actually that the</p>
+<p begin="00:17:10.160" end="00:17:13.730" style="s2">mind is it&#39;s doing the opposite of a</p>
+<p begin="00:17:12.170" end="00:17:16.040" style="s2">computer the mind is much more like an</p>
+<p begin="00:17:13.730" end="00:17:19.730" style="s2">ecosystem which is my preferred metaphor</p>
+<p begin="00:17:16.040" end="00:17:21.290" style="s2">for the mind so but the way we measure</p>
+<p begin="00:17:19.730" end="00:17:24.470" style="s2">the mind and the way we talk about the</p>
+<p begin="00:17:21.290" end="00:17:27.470" style="s2">mind has been deeply affected by the</p>
+<p begin="00:17:24.470" end="00:17:29.750" style="s2">metaphor of the mind as a computer so</p>
+<p begin="00:17:27.470" end="00:17:33.710" style="s2">you&#39;ll remember that Freud changed</p>
+<p begin="00:17:29.750" end="00:17:36.740" style="s2">history by using the metaphor of a of a</p>
+<p begin="00:17:33.710" end="00:17:37.400" style="s2">steam engine right which was the one of</p>
+<p begin="00:17:36.740" end="00:17:39.830" style="s2">the key technologies</p>
+<p begin="00:17:37.400" end="00:17:41.690" style="s2">of his day that the psyche has energy</p>
+<p begin="00:17:39.830" end="00:17:44.210" style="s2">the energy builds up it needs to be</p>
+<p begin="00:17:41.690" end="00:17:46.820" style="s2">released this kind of psychodynamic</p>
+<p begin="00:17:44.210" end="00:17:50.480" style="s2">theory was about this basic metaphor of</p>
+<p begin="00:17:46.820" end="00:17:53.810" style="s2">steam so the metaphor of the computer</p>
+<p begin="00:17:50.480" end="00:17:55.820" style="s2">has been very dominant so and again it</p>
+<p begin="00:17:53.810" end="00:17:57.290" style="s2">reflects our obsession with the most</p>
+<p begin="00:17:55.820" end="00:18:01.520" style="s2">sophisticated technology and and</p>
+<p begin="00:17:57.290" end="00:18:04.010" style="s2">anthropometry take it and encode it onto</p>
+<p begin="00:18:01.520" end="00:18:06.290" style="s2">the subjectivity of the people in that</p>
+<p begin="00:18:04.010" end="00:18:08.690" style="s2">culture who are run by that technology</p>
+<p begin="00:18:06.290" end="00:18:11.180" style="s2">and so you know when you&#39;re looking at</p>
+<p begin="00:18:08.690" end="00:18:12.650" style="s2">the mind as computer metaphor and if you</p>
+<p begin="00:18:11.180" end="00:18:14.300" style="s2">look at it carefully image the table in</p>
+<p begin="00:18:12.650" end="00:18:16.310" style="s2">my book where I compare the mind as</p>
+<p begin="00:18:14.300" end="00:18:19.190" style="s2">computer metaphor with the mind that&#39;s</p>
+<p begin="00:18:16.310" end="00:18:21.350" style="s2">ecosystem metaphor and what&#39;s striking</p>
+<p begin="00:18:19.190" end="00:18:25.220" style="s2">is that the mind is computer metaphors</p>
+<p begin="00:18:21.350" end="00:18:26.750" style="s2">that&#39;s really bad like it so for example</p>
+<p begin="00:18:25.220" end="00:18:30.290" style="s2">if you&#39;re not a good learner it means</p>
+<p begin="00:18:26.750" end="00:18:31.400" style="s2">you&#39;ve got broken hardware right it</p>
+<p begin="00:18:30.290" end="00:18:34.010" style="s2">means is that you can accurately</p>
+<p begin="00:18:31.400" end="00:18:37.400" style="s2">characterize its total power of someone</p>
+<p begin="00:18:34.010" end="00:18:40.340" style="s2">with a single number IQ similar to the</p>
+<p begin="00:18:37.400" end="00:18:43.040" style="s2">kind of computing power a computer you</p>
+<p begin="00:18:40.340" end="00:18:46.220" style="s2">know it also has you thinking about</p>
+<p begin="00:18:43.040" end="00:18:49.880" style="s2">teachers as repair people or factory</p>
+<p begin="00:18:46.220" end="00:18:54.410" style="s2">workers that are dealing with a complex</p>
+<p begin="00:18:49.880" end="00:18:56.840" style="s2">or rather a complicated object that kind</p>
+<p begin="00:18:54.410" end="00:19:00.080" style="s2">of can be fixed or updated in a</p>
+<p begin="00:18:56.840" end="00:19:02.360" style="s2">mechanical way so I&#39;m trying to steer us</p>
+<p begin="00:19:00.080" end="00:19:04.370" style="s2">away from that metaphor and towards a</p>
+<p begin="00:19:02.360" end="00:19:07.270" style="s2">metaphor we think of the mind as this</p>
+<p begin="00:19:04.370" end="00:19:12.140" style="s2">organic it&#39;s very complex evolving</p>
+<p begin="00:19:07.270" end="00:19:14.480" style="s2">organism or set of organisms so the mind</p>
+<p begin="00:19:12.140" end="00:19:16.370" style="s2">is the ecosystem metaphor allows us to</p>
+<p begin="00:19:14.480" end="00:19:19.580" style="s2">think of the mind as metabolizing this</p>
+<p begin="00:19:16.370" end="00:19:22.070" style="s2">environment and as having within its</p>
+<p begin="00:19:19.580" end="00:19:25.490" style="s2">self internal complexity that can create</p>
+<p begin="00:19:22.070" end="00:19:28.130" style="s2">growth and it also means that the</p>
+<p begin="00:19:25.490" end="00:19:30.530" style="s2">metaphor changes and the teachers no</p>
+<p begin="00:19:28.130" end="00:19:32.240" style="s2">longer a repair person or a factory</p>
+<p begin="00:19:30.530" end="00:19:35.720" style="s2">worker the teacher is now much more like</p>
+<p begin="00:19:32.240" end="00:19:38.540" style="s2">a gardener or someone who tends to the</p>
+<p begin="00:19:35.720" end="00:19:41.060" style="s2">maintenance of ecosystems it also means</p>
+<p begin="00:19:38.540" end="00:19:43.730" style="s2">that each student is unique as opposed</p>
+<p begin="00:19:41.060" end="00:19:45.380" style="s2">to a computer metaphor where if you&#39;re</p>
+<p begin="00:19:43.730" end="00:19:47.240" style="s2">not like this kid there&#39;s something</p>
+<p begin="00:19:45.380" end="00:19:50.120" style="s2">wrong with your hardware you know by</p>
+<p begin="00:19:47.240" end="00:19:50.809" style="s2">definition huge ecosystem is different</p>
+<p begin="00:19:50.120" end="00:19:52.370" style="s2">from each other</p>
+<p begin="00:19:50.809" end="00:19:53.960" style="s2">system and you should expect that and</p>
+<p begin="00:19:52.370" end="00:19:56.840" style="s2">leverage that so when you think about</p>
+<p begin="00:19:53.960" end="00:20:00.230" style="s2">the mind is when you go system you get</p>
+<p begin="00:19:56.840" end="00:20:03.350" style="s2">that advantage and there&#39;s a whole whole</p>
+<p begin="00:20:00.230" end="00:20:05.990" style="s2">list of so I&#39;m doing deep theory in</p>
+<p begin="00:20:03.350" end="00:20:07.549" style="s2">human development and I worked from a</p>
+<p begin="00:20:05.990" end="00:20:09.529" style="s2">developmental model that is based on</p>
+<p begin="00:20:07.549" end="00:20:13.460" style="s2">from the work of my adviser Kurt Fisher</p>
+<p begin="00:20:09.529" end="00:20:16.070" style="s2">and it&#39;s an EOP is yet Ian&#39;s model and</p>
+<p begin="00:20:13.460" end="00:20:19.389" style="s2">what this tells us I&#39;m not gonna rehash</p>
+<p begin="00:20:16.070" end="00:20:22.070" style="s2">the whole thing what it tells us is that</p>
+<p begin="00:20:19.389" end="00:20:24.799" style="s2">there are very different qualitatively</p>
+<p begin="00:20:22.070" end="00:20:29.570" style="s2">distinct capacities that emerge over the</p>
+<p begin="00:20:24.799" end="00:20:33.860" style="s2">course of the lifespan and we need to</p>
+<p begin="00:20:29.570" end="00:20:37.039" style="s2">respect the internal working of the</p>
+<p begin="00:20:33.860" end="00:20:40.249" style="s2">organic development of the mind and not</p>
+<p begin="00:20:37.039" end="00:20:41.809" style="s2">impose upon it what we wish it was as if</p>
+<p begin="00:20:40.249" end="00:20:44.210" style="s2">it was a computer that we did software</p>
+<p begin="00:20:41.809" end="00:20:48.019" style="s2">update instead we need to be able to</p>
+<p begin="00:20:44.210" end="00:20:49.730" style="s2">track growth patterns and what Kurt did</p>
+<p begin="00:20:48.019" end="00:20:51.529" style="s2">along with some other colleagues was to</p>
+<p begin="00:20:49.730" end="00:20:54.649" style="s2">apply dynamic systems modeling</p>
+<p begin="00:20:51.529" end="00:20:56.450" style="s2">techniques as used in biology to track</p>
+<p begin="00:20:54.649" end="00:20:59.690" style="s2">the development of psychological</p>
+<p begin="00:20:56.450" end="00:21:02.690" style="s2">capacities across these levels and Kurt</p>
+<p begin="00:20:59.690" end="00:21:05.749" style="s2">demonstrated very clearly that what you</p>
+<p begin="00:21:02.690" end="00:21:09.440" style="s2">see in growth it&#39;s not the stereotyped</p>
+<p begin="00:21:05.749" end="00:21:11.119" style="s2">Pease Union ladder of growth but in fact</p>
+<p begin="00:21:09.440" end="00:21:14.330" style="s2">what you see in growth is a very dynamic</p>
+<p begin="00:21:11.119" end="00:21:17.749" style="s2">third by kind of like rhythmic up and</p>
+<p begin="00:21:14.330" end="00:21:21.169" style="s2">down with bifurcations and nonlinear</p>
+<p begin="00:21:17.749" end="00:21:23.360" style="s2">jumps and other dynamics that reveal in</p>
+<p begin="00:21:21.169" end="00:21:26.720" style="s2">mind to be not mechanical in lockstep</p>
+<p begin="00:21:23.360" end="00:21:29.149" style="s2">but in fact fluid contextualise and</p>
+<p begin="00:21:26.720" end="00:21:33.919" style="s2">changing moment to moment up and down</p>
+<p begin="00:21:29.149" end="00:21:35.360" style="s2">the skill scale right so I don&#39;t want to</p>
+<p begin="00:21:33.919" end="00:21:38.119" style="s2">linger too long on the learning theory</p>
+<p begin="00:21:35.360" end="00:21:39.860" style="s2">but there&#39;s a lot to say so along that</p>
+<p begin="00:21:38.119" end="00:21:42.259" style="s2">skill scale which is the far left here</p>
+<p begin="00:21:39.860" end="00:21:44.899" style="s2">there have been other researchers who</p>
+<p begin="00:21:42.259" end="00:21:47.419" style="s2">have looked at how various domains of</p>
+<p begin="00:21:44.899" end="00:21:49.940" style="s2">capacity on the fold and become more</p>
+<p begin="00:21:47.419" end="00:21:51.559" style="s2">abstract and complex so from the from</p>
+<p begin="00:21:49.940" end="00:21:55.009" style="s2">the top to the bottom here this reads</p>
+<p begin="00:21:51.559" end="00:21:59.779" style="s2">from early childhood through very mature</p>
+<p begin="00:21:55.009" end="00:22:01.759" style="s2">highly educated and again what we&#39;re</p>
+<p begin="00:21:59.779" end="00:22:03.710" style="s2">looking for our school systems that</p>
+<p begin="00:22:01.759" end="00:22:04.710" style="s2">don&#39;t put a ceiling on people&#39;s</p>
+<p begin="00:22:03.710" end="00:22:07.520" style="s2">development</p>
+<p begin="00:22:04.710" end="00:22:10.380" style="s2">right so for example a nationalistic</p>
+<p begin="00:22:07.520" end="00:22:13.100" style="s2">school system will not allow for the</p>
+<p begin="00:22:10.380" end="00:22:15.899" style="s2">emergence of level six moral reasoning</p>
+<p begin="00:22:13.100" end="00:22:18.679" style="s2">right a nationalistic school system</p>
+<p begin="00:22:15.899" end="00:22:22.159" style="s2">especially one that&#39;s national</p>
+<p begin="00:22:18.679" end="00:22:24.570" style="s2">ethnocentric is going to constrain the</p>
+<p begin="00:22:22.159" end="00:22:27.330" style="s2">reflective ability of adolescents</p>
+<p begin="00:22:24.570" end="00:22:30.240" style="s2">intentionally to keep them thinking</p>
+<p begin="00:22:27.330" end="00:22:32.580" style="s2">below a universal universalistic moral</p>
+<p begin="00:22:30.240" end="00:22:35.159" style="s2">view right so that the power of these</p>
+<p begin="00:22:32.580" end="00:22:42.830" style="s2">developmental models is that they allow</p>
+<p begin="00:22:35.159" end="00:22:45.510" style="s2">us to give aspirations and to critique</p>
+<p begin="00:22:42.830" end="00:22:47.130" style="s2">you know those things which inhibit the</p>
+<p begin="00:22:45.510" end="00:22:48.870" style="s2">full flourishing of these capacities</p>
+<p begin="00:22:47.130" end="00:22:50.399" style="s2">which are mapped out this is a map of</p>
+<p begin="00:22:48.870" end="00:22:53.429" style="s2">human potential is one way to think</p>
+<p begin="00:22:50.399" end="00:22:55.620" style="s2">about it so I use maps like these to</p>
+<p begin="00:22:53.429" end="00:22:57.090" style="s2">characterize some of what needs to take</p>
+<p begin="00:22:55.620" end="00:23:00.200" style="s2">place when we&#39;re thinking about</p>
+<p begin="00:22:57.090" end="00:23:02.490" style="s2">education reform and then this last one</p>
+<p begin="00:23:00.200" end="00:23:04.830" style="s2">is very interesting in terms of the</p>
+<p begin="00:23:02.490" end="00:23:10.169" style="s2">ecosystem metaphor and the best way to</p>
+<p begin="00:23:04.830" end="00:23:13.700" style="s2">characterize the mind as dynamic so this</p>
+<p begin="00:23:10.169" end="00:23:16.440" style="s2">is basically a very complex</p>
+<p begin="00:23:13.700" end="00:23:20.880" style="s2">representation of a psychotherapeutic</p>
+<p begin="00:23:16.440" end="00:23:22.529" style="s2">dyad that has basically a hundred and</p>
+<p begin="00:23:20.880" end="00:23:25.710" style="s2">eighteen conversational turns you can</p>
+<p begin="00:23:22.529" end="00:23:27.210" style="s2">see if they&#39;re along the bottom axis and</p>
+<p begin="00:23:25.710" end="00:23:28.890" style="s2">what it&#39;s tracking is both the</p>
+<p begin="00:23:27.210" end="00:23:31.140" style="s2">developmental level which is the gray</p>
+<p begin="00:23:28.890" end="00:23:33.710" style="s2">upper line and then the conceptual</p>
+<p begin="00:23:31.140" end="00:23:35.580" style="s2">content which is the black lower line</p>
+<p begin="00:23:33.710" end="00:23:37.500" style="s2">alright so what we&#39;re seeing here is</p>
+<p begin="00:23:35.580" end="00:23:39.450" style="s2">that the number of concepts varies the</p>
+<p begin="00:23:37.500" end="00:23:41.610" style="s2">black line goes up and down the</p>
+<p begin="00:23:39.450" end="00:23:43.559" style="s2">complexity or difficulty of working with</p>
+<p begin="00:23:41.610" end="00:23:45.659" style="s2">those concepts berries that the person</p>
+<p begin="00:23:43.559" end="00:23:47.039" style="s2">is moving between very complicated forms</p>
+<p begin="00:23:45.659" end="00:23:50.179" style="s2">of reasoning and simpler forms of</p>
+<p begin="00:23:47.039" end="00:23:53.490" style="s2">reasoning in the same conversation and</p>
+<p begin="00:23:50.179" end="00:23:57.210" style="s2">then the beads along the string at the</p>
+<p begin="00:23:53.490" end="00:24:00.929" style="s2">top like the black and and white kind of</p>
+<p begin="00:23:57.210" end="00:24:02.250" style="s2">diamonds these are emotional coatings so</p>
+<p begin="00:24:00.929" end="00:24:04.649" style="s2">what they did it was videotaped and they</p>
+<p begin="00:24:02.250" end="00:24:07.490" style="s2">were able to code the emotional dynamics</p>
+<p begin="00:24:04.649" end="00:24:11.429" style="s2">and you&#39;ll see that the emotional</p>
+<p begin="00:24:07.490" end="00:24:15.179" style="s2">salience and the effect present in the</p>
+<p begin="00:24:11.429" end="00:24:17.220" style="s2">conversation varies with the complexity</p>
+<p begin="00:24:15.179" end="00:24:17.920" style="s2">of the conversation and the total</p>
+<p begin="00:24:17.220" end="00:24:20.560" style="s2">conceptual</p>
+<p begin="00:24:17.920" end="00:24:22.360" style="s2">load of the conversation so what this is</p>
+<p begin="00:24:20.560" end="00:24:25.360" style="s2">is like it&#39;s like it&#39;s like a time</p>
+<p begin="00:24:22.360" end="00:24:29.680" style="s2">capture of kind of the natural behavior</p>
+<p begin="00:24:25.360" end="00:24:32.860" style="s2">of learning which is nothing like a</p>
+<p begin="00:24:29.680" end="00:24:34.870" style="s2">simple pet in ladder and also nothing</p>
+<p begin="00:24:32.860" end="00:24:38.530" style="s2">like a computer that simply gets a</p>
+<p begin="00:24:34.870" end="00:24:41.590" style="s2">download what we&#39;re looking at is the</p>
+<p begin="00:24:38.530" end="00:24:46.330" style="s2">sciences of learning telling us that our</p>
+<p begin="00:24:41.590" end="00:24:49.540" style="s2">schools are broken the sciences of</p>
+<p begin="00:24:46.330" end="00:24:53.470" style="s2">learning are telling us that each kid in</p>
+<p begin="00:24:49.540" end="00:24:58.360" style="s2">the classroom is gonna have such a</p>
+<p begin="00:24:53.470" end="00:25:01.810" style="s2">complex and unique experience that we</p>
+<p begin="00:24:58.360" end="00:25:05.200" style="s2">either constrain that or we leverage</p>
+<p begin="00:25:01.810" end="00:25:07.960" style="s2">that this is the sum of my messaging in</p>
+<p begin="00:25:05.200" end="00:25:11.710" style="s2">the book has to do with listen this is</p>
+<p begin="00:25:07.960" end="00:25:15.010" style="s2">not this is not just political right the</p>
+<p begin="00:25:11.710" end="00:25:17.410" style="s2">the mind works in a certain way as the</p>
+<p begin="00:25:15.010" end="00:25:19.000" style="s2">body works in a certain way so there are</p>
+<p begin="00:25:17.410" end="00:25:21.460" style="s2">things that work and do not work with</p>
+<p begin="00:25:19.000" end="00:25:24.010" style="s2">regards to the human body in terms of</p>
+<p begin="00:25:21.460" end="00:25:25.780" style="s2">healing illness similarly there is a</p>
+<p begin="00:25:24.010" end="00:25:27.690" style="s2">reality to the structure of the mind and</p>
+<p begin="00:25:25.780" end="00:25:31.420" style="s2">how it works and education has long</p>
+<p begin="00:25:27.690" end="00:25:34.270" style="s2">neglected to take account of this if we</p>
+<p begin="00:25:31.420" end="00:25:36.310" style="s2">continue to ignore the sciences of</p>
+<p begin="00:25:34.270" end="00:25:38.590" style="s2">learning then as I said we will have a</p>
+<p begin="00:25:36.310" end="00:25:40.090" style="s2">whole generation that is unable to meet</p>
+<p begin="00:25:38.590" end="00:25:44.020" style="s2">the task demands that are going to be</p>
+<p begin="00:25:40.090" end="00:25:45.610" style="s2">put upon by the global meta-crisis so</p>
+<p begin="00:25:44.020" end="00:25:47.910" style="s2">the meta theory the human development</p>
+<p begin="00:25:45.610" end="00:25:50.140" style="s2">work that frames rethinking about</p>
+<p begin="00:25:47.910" end="00:25:51.790" style="s2">education in general and then I move</p>
+<p begin="00:25:50.140" end="00:25:57.460" style="s2">through several chapters where I look at</p>
+<p begin="00:25:51.790" end="00:26:00.490" style="s2">various aspects of the issues so one of</p>
+<p begin="00:25:57.460" end="00:26:03.310" style="s2">the most important themes in the book</p>
+<p begin="00:26:00.490" end="00:26:06.310" style="s2">has to do with the extinction of the</p>
+<p begin="00:26:03.310" end="00:26:08.740" style="s2">large school system with centralized</p>
+<p begin="00:26:06.310" end="00:26:13.480" style="s2">factor like buildings and the</p>
+<p begin="00:26:08.740" end="00:26:17.190" style="s2">obsolescence of that factory model so</p>
+<p begin="00:26:13.480" end="00:26:19.780" style="s2">this is a picture of Russo&#39;s amino and</p>
+<p begin="00:26:17.190" end="00:26:22.690" style="s2">this is supposedly the only book that</p>
+<p begin="00:26:19.780" end="00:26:24.640" style="s2">got comped to miss his daily walk when</p>
+<p begin="00:26:22.690" end="00:26:27.040" style="s2">when Immanuel Kant got his copy of</p>
+<p begin="00:26:24.640" end="00:26:28.450" style="s2">irzu&#39;s Emile he would sit on a tree they</p>
+<p begin="00:26:27.040" end="00:26:31.330" style="s2">just sat and read it and that&#39;s because</p>
+<p begin="00:26:28.450" end="00:26:34.360" style="s2">it was it was it was taking</p>
+<p begin="00:26:31.330" end="00:26:37.180" style="s2">the basic structure of education out of</p>
+<p begin="00:26:34.360" end="00:26:39.550" style="s2">institution and looking at the most kind</p>
+<p begin="00:26:37.180" end="00:26:41.800" style="s2">of primordial dynamic between teacher</p>
+<p begin="00:26:39.550" end="00:26:44.230" style="s2">and student and it was also thinking</p>
+<p begin="00:26:41.800" end="00:26:46.480" style="s2">about in a post conventional way how can</p>
+<p begin="00:26:44.230" end="00:26:49.240" style="s2">education be something that brings the</p>
+<p begin="00:26:46.480" end="00:26:50.500" style="s2">child to society eventually it&#39;s not you</p>
+<p begin="00:26:49.240" end="00:26:54.490" style="s2">like that that child can then change</p>
+<p begin="00:26:50.500" end="00:26:57.340" style="s2">society as opposed to fitting in and so</p>
+<p begin="00:26:54.490" end="00:26:59.500" style="s2">of course in the 70s the great theorist</p>
+<p begin="00:26:57.340" end="00:27:03.490" style="s2">Paul Ilic wrote a book called D</p>
+<p begin="00:26:59.500" end="00:27:05.950" style="s2">schooling society and similarly to this</p>
+<p begin="00:27:03.490" end="00:27:07.530" style="s2">in this vision of Rousseau is what</p>
+<p begin="00:27:05.950" end="00:27:10.180" style="s2">you&#39;re looking at is this radically</p>
+<p begin="00:27:07.530" end="00:27:12.370" style="s2">individualized education without school</p>
+<p begin="00:27:10.180" end="00:27:14.800" style="s2">without schools and a traditional sense</p>
+<p begin="00:27:12.370" end="00:27:16.900" style="s2">without walls right where the whole city</p>
+<p begin="00:27:14.800" end="00:27:18.310" style="s2">is a school and the child gets basically</p>
+<p begin="00:27:16.900" end="00:27:20.890" style="s2">the equivalent of educational credit</p>
+<p begin="00:27:18.310" end="00:27:23.710" style="s2">card and they can redeem it for time</p>
+<p begin="00:27:20.890" end="00:27:25.120" style="s2">with elders this is alleges visions very</p>
+<p begin="00:27:23.710" end="00:27:28.420" style="s2">interesting but it was written before</p>
+<p begin="00:27:25.120" end="00:27:31.080" style="s2">the internet and before the emergence of</p>
+<p begin="00:27:28.420" end="00:27:34.210" style="s2">both the postmodern and the meta modern</p>
+<p begin="00:27:31.080" end="00:27:37.330" style="s2">kind of structures of feeling and theory</p>
+<p begin="00:27:34.210" end="00:27:39.520" style="s2">and so what I do in this book is to kind</p>
+<p begin="00:27:37.330" end="00:27:42.880" style="s2">of an integral Redux of the d.school</p>
+<p begin="00:27:39.520" end="00:27:45.550" style="s2">mood and suggest a network of Education</p>
+<p begin="00:27:42.880" end="00:27:47.740" style="s2">hubs and so that was written about and</p>
+<p begin="00:27:45.550" end="00:27:49.120" style="s2">you&#39;ve blurred that John circulated it&#39;s</p>
+<p begin="00:27:47.740" end="00:27:53.770" style="s2">an excerpt of my book that&#39;s been online</p>
+<p begin="00:27:49.120" end="00:27:56.500" style="s2">for a while now and you know to</p>
+<p begin="00:27:53.770" end="00:28:00.910" style="s2">summarize the idea is that I&#39;m arguing</p>
+<p begin="00:27:56.500" end="00:28:02.680" style="s2">that we should literally dismantle the</p>
+<p begin="00:28:00.910" end="00:28:05.140" style="s2">insides of most of our existing schools</p>
+<p begin="00:28:02.680" end="00:28:06.700" style="s2">and replace the basic infrastructure</p>
+<p begin="00:28:05.140" end="00:28:09.970" style="s2">with something that looks more like a</p>
+<p begin="00:28:06.700" end="00:28:12.160" style="s2">combination of a daycare a co-working</p>
+<p begin="00:28:09.970" end="00:28:16.800" style="s2">Center a library a museum that a</p>
+<p begin="00:28:12.160" end="00:28:19.570" style="s2">computer out and what this means is that</p>
+<p begin="00:28:16.800" end="00:28:22.960" style="s2">it&#39;s going to be a hub where the</p>
+<p begin="00:28:19.570" end="00:28:25.150" style="s2">community organizes using all kinds of</p>
+<p begin="00:28:22.960" end="00:28:27.790" style="s2">resources which I specify in the book</p>
+<p begin="00:28:25.150" end="00:28:28.900" style="s2">when community organizes around the</p>
+<p begin="00:28:27.790" end="00:28:31.630" style="s2">engine the intergenerational</p>
+<p begin="00:28:28.900" end="00:28:33.790" style="s2">transmission of knowledge right so that</p>
+<p begin="00:28:31.630" end="00:28:39.810" style="s2">instead of having a school in</p>
+<p begin="00:28:33.790" end="00:28:39.810" style="s2">traditional sense you have hub</p>
+<p begin="00:28:39.820" end="00:28:44.259" style="s2">with very different sets of norms about</p>
+<p begin="00:28:42.070" end="00:28:45.600" style="s2">what counts as education and there are</p>
+<p begin="00:28:44.259" end="00:28:47.679" style="s2">different ways of tracking and measuring</p>
+<p begin="00:28:45.600" end="00:28:50.109" style="s2">students moving through it and of</p>
+<p begin="00:28:47.679" end="00:28:52.210" style="s2">organizing pop-up classrooms and of</p>
+<p begin="00:28:50.109" end="00:28:54.429" style="s2">having tutorials and of having working</p>
+<p begin="00:28:52.210" end="00:28:56.710" style="s2">groups of kids at different ages and so</p>
+<p begin="00:28:54.429" end="00:28:59.649" style="s2">what you&#39;re looking at is what I call</p>
+<p begin="00:28:56.710" end="00:29:02.049" style="s2">the the kind of 21st century one-room</p>
+<p begin="00:28:59.649" end="00:29:04.210" style="s2">schoolhouse put all the youth together</p>
+<p begin="00:29:02.049" end="00:29:06.759" style="s2">and put all the resources of adults</p>
+<p begin="00:29:04.210" end="00:29:07.809" style="s2">together you can call it a school if you</p>
+<p begin="00:29:06.759" end="00:29:09.820" style="s2">want to but it doesn&#39;t look like a</p>
+<p begin="00:29:07.809" end="00:29:12.960" style="s2">school anymore especially when it&#39;s</p>
+<p begin="00:29:09.820" end="00:29:16.299" style="s2">facilitated by very sophisticated</p>
+<p begin="00:29:12.960" end="00:29:18.249" style="s2">technological infrastructure which</p>
+<p begin="00:29:16.299" end="00:29:19.509" style="s2">allows for tracking each student all the</p>
+<p begin="00:29:18.249" end="00:29:22.239" style="s2">learning opportunities available</p>
+<p begin="00:29:19.509" end="00:29:24.669" style="s2">basically a complex time and skill</p>
+<p begin="00:29:22.239" end="00:29:28.509" style="s2">sharing network so that&#39;s one of the</p>
+<p begin="00:29:24.669" end="00:29:31.960" style="s2">visions that I lay out I also do some</p>
+<p begin="00:29:28.509" end="00:29:34.989" style="s2">basic thinking in theoretical metrology</p>
+<p begin="00:29:31.960" end="00:29:37.389" style="s2">and probably the core chapter of the</p>
+<p begin="00:29:34.989" end="00:29:40.419" style="s2">book has to do with what I call the</p>
+<p begin="00:29:37.389" end="00:29:41.919" style="s2">global crisis of measurement and it</p>
+<p begin="00:29:40.419" end="00:29:44.200" style="s2">became clear to me as a theorist of</p>
+<p begin="00:29:41.919" end="00:29:48.340" style="s2">education that one of the main things</p>
+<p begin="00:29:44.200" end="00:29:49.929" style="s2">distorting the educational system has to</p>
+<p begin="00:29:48.340" end="00:29:51.820" style="s2">do with the way that we measure it and</p>
+<p begin="00:29:49.929" end="00:29:53.289" style="s2">think about measuring it and then I</p>
+<p begin="00:29:51.820" end="00:29:55.779" style="s2">started looking around and realized that</p>
+<p begin="00:29:53.289" end="00:29:57.879" style="s2">wow a lot of the problems that we&#39;re</p>
+<p begin="00:29:55.779" end="00:29:59.649" style="s2">facing globally have to do with the way</p>
+<p begin="00:29:57.879" end="00:30:02.080" style="s2">we measure things and think about</p>
+<p begin="00:29:59.649" end="00:30:04.509" style="s2">measuring them GDP is a great example</p>
+<p begin="00:30:02.080" end="00:30:08.889" style="s2">the gross domestic product is still</p>
+<p begin="00:30:04.509" end="00:30:11.349" style="s2">widely used as a index of economic</p>
+<p begin="00:30:08.889" end="00:30:14.320" style="s2">health for policy decision making and</p>
+<p begin="00:30:11.349" end="00:30:16.619" style="s2">yet it&#39;s been known for and argued by</p>
+<p begin="00:30:14.320" end="00:30:19.419" style="s2">economists even mainstream economists</p>
+<p begin="00:30:16.619" end="00:30:21.009" style="s2">that you know in essence we&#39;re we&#39;re</p>
+<p begin="00:30:19.419" end="00:30:23.349" style="s2">looking at a simplification that may be</p>
+<p begin="00:30:21.009" end="00:30:24.849" style="s2">more damaging than useful as opposed to</p>
+<p begin="00:30:23.349" end="00:30:28.029" style="s2">something like the Gini coefficient</p>
+<p begin="00:30:24.849" end="00:30:30.429" style="s2">which actually represents inequality</p>
+<p begin="00:30:28.029" end="00:30:32.979" style="s2">within the economy not just the total</p>
+<p begin="00:30:30.429" end="00:30:35.950" style="s2">growth but the distribution of economic</p>
+<p begin="00:30:32.979" end="00:30:38.279" style="s2">productivity and reward Gini coefficient</p>
+<p begin="00:30:35.950" end="00:30:41.200" style="s2">right so as an example and there&#39;s</p>
+<p begin="00:30:38.279" end="00:30:43.989" style="s2">literally hundreds and I discussed many</p>
+<p begin="00:30:41.200" end="00:30:45.549" style="s2">of them in this chapter where the basic</p>
+<p begin="00:30:43.989" end="00:30:48.129" style="s2">measurement infrastructure setting the</p>
+<p begin="00:30:45.549" end="00:30:50.730" style="s2">wrong set of constraints and mapping</p>
+<p begin="00:30:48.129" end="00:30:53.090" style="s2">reality in the wrong way and having a</p>
+<p begin="00:30:50.730" end="00:30:55.029" style="s2">measurement structure that doesn&#39;t</p>
+<p begin="00:30:53.090" end="00:30:57.679" style="s2">or come from an infrastructure that is</p>
+<p begin="00:30:55.029" end="00:31:00.620" style="s2">distorted creates what Bhaskar calls</p>
+<p begin="00:30:57.679" end="00:31:01.909" style="s2">Demi realities small versions of</p>
+<p begin="00:31:00.620" end="00:31:03.409" style="s2">something that&#39;s there you&#39;re tracking</p>
+<p begin="00:31:01.909" end="00:31:05.960" style="s2">something but you don&#39;t know what it is</p>
+<p begin="00:31:03.409" end="00:31:08.149" style="s2">and it&#39;s actually worse you know it&#39;s</p>
+<p begin="00:31:05.960" end="00:31:09.499" style="s2">worse than flying blind because if</p>
+<p begin="00:31:08.149" end="00:31:13.999" style="s2">you&#39;re flying with instruments that you</p>
+<p begin="00:31:09.499" end="00:31:17.990" style="s2">think you can trust but you can&#39;t so so</p>
+<p begin="00:31:13.999" end="00:31:19.580" style="s2">that&#39;s that&#39;s important and then towards</p>
+<p begin="00:31:17.990" end="00:31:22.820" style="s2">the end of the book I lay out a series</p>
+<p begin="00:31:19.580" end="00:31:24.620" style="s2">of social miracles and as I&#39;ve already</p>
+<p begin="00:31:22.820" end="00:31:28.190" style="s2">mentioned these are conditions for the</p>
+<p begin="00:31:24.620" end="00:31:31.070" style="s2">possibility of real education and they</p>
+<p begin="00:31:28.190" end="00:31:32.450" style="s2">include really radical suggestions about</p>
+<p begin="00:31:31.070" end="00:31:36.340" style="s2">how we could change the nature of</p>
+<p begin="00:31:32.450" end="00:31:39.159" style="s2">society in order to allow for a</p>
+<p begin="00:31:36.340" end="00:31:40.940" style="s2">different way of fostering</p>
+<p begin="00:31:39.159" end="00:31:42.889" style="s2">intergenerational transmission which is</p>
+<p begin="00:31:40.940" end="00:31:45.139" style="s2">to say a different form of Education</p>
+<p begin="00:31:42.889" end="00:31:46.759" style="s2">would result if we for example thought</p>
+<p begin="00:31:45.139" end="00:31:49.070" style="s2">about the world boy but mr. fuller did</p>
+<p begin="00:31:46.759" end="00:31:51.769" style="s2">beyond the traditional boundaries of</p>
+<p begin="00:31:49.070" end="00:31:54.169" style="s2">nation-states one of the things I argue</p>
+<p begin="00:31:51.769" end="00:31:56.299" style="s2">for in the book is a redrawing of the</p>
+<p begin="00:31:54.169" end="00:31:58.999" style="s2">borders and a rethinking of the nature</p>
+<p begin="00:31:56.299" end="00:32:02.769" style="s2">of nationality as part of fostering a</p>
+<p begin="00:31:58.999" end="00:32:06.559" style="s2">cosmopolitan educational edge you know</p>
+<p begin="00:32:02.769" end="00:32:10.190" style="s2">initiative and so that the social</p>
+<p begin="00:32:06.559" end="00:32:12.200" style="s2">miracles chapter is the most utopian but</p>
+<p begin="00:32:10.190" end="00:32:14.029" style="s2">I think it also shows the the real</p>
+<p begin="00:32:12.200" end="00:32:17.299" style="s2">challenge in the clearest way of over</p>
+<p begin="00:32:14.029" end="00:32:20.360" style="s2">faced with a basic income guarantee for</p>
+<p begin="00:32:17.299" end="00:32:22.519" style="s2">example is characterized as an economic</p>
+<p begin="00:32:20.360" end="00:32:24.789" style="s2">issue but the basic income guarantee is</p>
+<p begin="00:32:22.519" end="00:32:27.799" style="s2">fundamentally an educational issue</p>
+<p begin="00:32:24.789" end="00:32:30.289" style="s2">making that transition and the results</p>
+<p begin="00:32:27.799" end="00:32:31.669" style="s2">of that transmission the transition</p>
+<p begin="00:32:30.289" end="00:32:33.950" style="s2">rather you know making that transition</p>
+<p begin="00:32:31.669" end="00:32:36.769" style="s2">would be probably one of the greatest</p>
+<p begin="00:32:33.950" end="00:32:39.200" style="s2">educational challenges we faced when you</p>
+<p begin="00:32:36.769" end="00:32:41.899" style="s2">have a generation who didn&#39;t have it and</p>
+<p begin="00:32:39.200" end="00:32:45.590" style="s2">then a generation that does and then of</p>
+<p begin="00:32:41.899" end="00:32:47.499" style="s2">course disentangling education from the</p>
+<p begin="00:32:45.590" end="00:32:49.580" style="s2">need to become a wage laborer</p>
+<p begin="00:32:47.499" end="00:32:52.639" style="s2">disentangling the definition of what it</p>
+<p begin="00:32:49.580" end="00:32:55.009" style="s2">means to be human from what it means to</p>
+<p begin="00:32:52.639" end="00:32:58.639" style="s2">be a wage laborer right these things are</p>
+<p begin="00:32:55.009" end="00:33:00.110" style="s2">emerging and again I&#39;m saying towards</p>
+<p begin="00:32:58.639" end="00:33:02.179" style="s2">the end of the book that or actually</p>
+<p begin="00:33:00.110" end="00:33:05.750" style="s2">need to revisit the way we think about</p>
+<p begin="00:33:02.179" end="00:33:06.400" style="s2">what it means to be human you know the</p>
+<p begin="00:33:05.750" end="00:33:11.710" style="s2">answer</p>
+<p begin="00:33:06.400" end="00:33:15.760" style="s2">is a significant enough marker of the</p>
+<p begin="00:33:11.710" end="00:33:18.130" style="s2">uniqueness of humanities power in the</p>
+<p begin="00:33:15.760" end="00:33:23.520" style="s2">universe which is to say the power to</p>
+<p begin="00:33:18.130" end="00:33:25.870" style="s2">changed the nature of a whole planet and</p>
+<p begin="00:33:23.520" end="00:33:28.720" style="s2">so we need to take that seriously and</p>
+<p begin="00:33:25.870" end="00:33:32.020" style="s2">it&#39;s also also worth noting that you</p>
+<p begin="00:33:28.720" end="00:33:35.620" style="s2">know one of the most kind of generative</p>
+<p begin="00:33:32.020" end="00:33:38.050" style="s2">and long-lasting radically alternative</p>
+<p begin="00:33:35.620" end="00:33:41.230" style="s2">educational systems was the Waldorf</p>
+<p begin="00:33:38.050" end="00:33:43.720" style="s2">School and the Waller school model is</p>
+<p begin="00:33:41.230" end="00:33:47.140" style="s2">revered by people who don&#39;t even think</p>
+<p begin="00:33:43.720" end="00:33:48.970" style="s2">have a religious thought it works but</p>
+<p begin="00:33:47.140" end="00:33:51.040" style="s2">it&#39;s worth noting that it was founded</p>
+<p begin="00:33:48.970" end="00:33:52.660" style="s2">and all of the founding learning theory</p>
+<p begin="00:33:51.040" end="00:33:54.160" style="s2">and all the educational structures and</p>
+<p begin="00:33:52.660" end="00:33:57.670" style="s2">even the architecture of those buildings</p>
+<p begin="00:33:54.160" end="00:34:00.370" style="s2">is from a merging religious worldview of</p>
+<p begin="00:33:57.670" end="00:34:03.460" style="s2">Rudolf Steiner which incidentally had to</p>
+<p begin="00:34:00.370" end="00:34:06.880" style="s2">do a lot with life and the meaning of</p>
+<p begin="00:34:03.460" end="00:34:09.340" style="s2">death and so this Alex gray painting</p>
+<p begin="00:34:06.880" end="00:34:11.350" style="s2">shows that especially again as the</p>
+<p begin="00:34:09.340" end="00:34:13.960" style="s2">global crisis demons and things get more</p>
+<p begin="00:34:11.350" end="00:34:16.840" style="s2">complicated and the numbers of people</p>
+<p begin="00:34:13.960" end="00:34:20.470" style="s2">who are subject to geopolitical violence</p>
+<p begin="00:34:16.840" end="00:34:23.040" style="s2">or ecological catastrophe increases then</p>
+<p begin="00:34:20.470" end="00:34:25.560" style="s2">we&#39;re gonna have to deal with some moral</p>
+<p begin="00:34:23.040" end="00:34:30.159" style="s2">conversations in the public sphere and</p>
+<p begin="00:34:25.560" end="00:34:31.840" style="s2">with our children and so yes we&#39;re gonna</p>
+<p begin="00:34:30.159" end="00:34:34.240" style="s2">need to start thinking about what to say</p>
+<p begin="00:34:31.840" end="00:34:38.860" style="s2">in response to the deepest questions</p>
+<p begin="00:34:34.240" end="00:34:41.140" style="s2">that can be asked by the youth and right</p>
+<p begin="00:34:38.860" end="00:34:43.860" style="s2">now we&#39;re very inarticulate and one of</p>
+<p begin="00:34:41.140" end="00:34:47.070" style="s2">the reasons there&#39;s been a resurgence of</p>
+<p begin="00:34:43.860" end="00:34:50.169" style="s2">neoconservative neo reactionary thought</p>
+<p begin="00:34:47.070" end="00:34:52.500" style="s2">and even the resurgence of ethno</p>
+<p begin="00:34:50.169" end="00:34:54.250" style="s2">nationalist sentiments has to do with</p>
+<p begin="00:34:52.500" end="00:34:57.810" style="s2">the inability of</p>
+<p begin="00:34:54.250" end="00:35:00.190" style="s2">some of the most educated to make</p>
+<p begin="00:34:57.810" end="00:35:04.650" style="s2">sincere and profound responses to</p>
+<p begin="00:35:00.190" end="00:35:07.420" style="s2">deepest questions that can be asked so</p>
+<p begin="00:35:04.650" end="00:35:10.570" style="s2">that&#39;s kind of the broadest overview of</p>
+<p begin="00:35:07.420" end="00:35:11.980" style="s2">the book and you know from what I just</p>
+<p begin="00:35:10.570" end="00:35:15.190" style="s2">said it seems like half of this book</p>
+<p begin="00:35:11.980" end="00:35:18.310" style="s2">possibly have been written and it took a</p>
+<p begin="00:35:15.190" end="00:35:20.170" style="s2">long time to write but as a result of it</p>
+<p begin="00:35:18.310" end="00:35:22.420" style="s2">being so much in it</p>
+<p begin="00:35:20.170" end="00:35:24.040" style="s2">I think it&#39;s gonna be exciting when it</p>
+<p begin="00:35:22.420" end="00:35:28.150" style="s2">comes out and just to see what happens</p>
+<p begin="00:35:24.040" end="00:35:30.790" style="s2">so I will stop and stop sharing my</p>
+<p begin="00:35:28.150" end="00:35:33.510" style="s2">screen and take questions so thanks</p>
+<p begin="00:35:30.790" end="00:35:33.510" style="s2">everyone for listening</p>
+<p begin="00:35:35.690" end="00:36:00.970" style="s2">[Music]</p>
+<p begin="00:35:58.940" end="00:36:00.970" style="s2">Oh</p>
+</div>
+</body>
+</tt>

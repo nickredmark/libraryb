@@ -1,0 +1,5367 @@
+[
+  {
+    "text": "welcome back to part three of our",
+    "begin": "00:00:00.030",
+    "end": "00:00:03.510"
+  },
+  {
+    "text": "three-part series with Daniel smoked a",
+    "begin": "00:00:01.890",
+    "end": "00:00:05.190"
+  },
+  {
+    "text": "burger on the generator function of",
+    "begin": "00:00:03.510",
+    "end": "00:00:07.529"
+  },
+  {
+    "text": "existential risks in this episode Daniel",
+    "begin": "00:00:05.190",
+    "end": "00:00:09.330"
+  },
+  {
+    "text": "shares his vision for a path towards a",
+    "begin": "00:00:07.529",
+    "end": "00:00:11.280"
+  },
+  {
+    "text": "post existential risk future and the",
+    "begin": "00:00:09.330",
+    "end": "00:00:12.540"
+  },
+  {
+    "text": "three key features of this new",
+    "begin": "00:00:11.280",
+    "end": "00:00:15.059"
+  },
+  {
+    "text": "civilization design he also talks about",
+    "begin": "00:00:12.540",
+    "end": "00:00:16.949"
+  },
+  {
+    "text": "why there is no place for incentives in",
+    "begin": "00:00:15.059",
+    "end": "00:00:18.810"
+  },
+  {
+    "text": "such a world to get all the links and",
+    "begin": "00:00:16.949",
+    "end": "00:00:20.310"
+  },
+  {
+    "text": "show notes from this episode go to",
+    "begin": "00:00:18.810",
+    "end": "00:00:22.949"
+  },
+  {
+    "text": "future thinkers org slash 57 you can",
+    "begin": "00:00:20.310",
+    "end": "00:00:24.720"
+  },
+  {
+    "text": "also find the first and second part of",
+    "begin": "00:00:22.949",
+    "end": "00:00:27.060"
+  },
+  {
+    "text": "this interview there this episode is",
+    "begin": "00:00:24.720",
+    "end": "00:00:28.890"
+  },
+  {
+    "text": "brought to you by quality at a premium a",
+    "begin": "00:00:27.060",
+    "end": "00:00:30.510"
+  },
+  {
+    "text": "nootropic supplement that helps support",
+    "begin": "00:00:28.890",
+    "end": "00:00:32.369"
+  },
+  {
+    "text": "mental performance and brain health it's",
+    "begin": "00:00:30.510",
+    "end": "00:00:34.050"
+  },
+  {
+    "text": "specifically designed to promote focus",
+    "begin": "00:00:32.369",
+    "end": "00:00:36.149"
+  },
+  {
+    "text": "support energy mental clarity mood",
+    "begin": "00:00:34.050",
+    "end": "00:00:38.670"
+  },
+  {
+    "text": "memory and creativity UV and I have both",
+    "begin": "00:00:36.149",
+    "end": "00:00:40.350"
+  },
+  {
+    "text": "used it in the past we really liked it",
+    "begin": "00:00:38.670",
+    "end": "00:00:41.879"
+  },
+  {
+    "text": "and we actually met the founders and",
+    "begin": "00:00:40.350",
+    "end": "00:00:43.469"
+  },
+  {
+    "text": "interviewed them on future thinkers and",
+    "begin": "00:00:41.879",
+    "end": "00:00:44.550"
+  },
+  {
+    "text": "you can check out those interviews",
+    "begin": "00:00:43.469",
+    "end": "00:00:46.170"
+  },
+  {
+    "text": "they're one of our favorites at future",
+    "begin": "00:00:44.550",
+    "end": "00:00:48.629"
+  },
+  {
+    "text": "thinkers org slash Daniel and future",
+    "begin": "00:00:46.170",
+    "end": "00:00:50.730"
+  },
+  {
+    "text": "thinkers org slash jordan they've got a",
+    "begin": "00:00:48.629",
+    "end": "00:00:52.710"
+  },
+  {
+    "text": "new formula up called qualia mind it's",
+    "begin": "00:00:50.730",
+    "end": "00:00:54.239"
+  },
+  {
+    "text": "got more natural ingredients and you can",
+    "begin": "00:00:52.710",
+    "end": "00:00:55.800"
+  },
+  {
+    "text": "get it at future thinkers org slash",
+    "begin": "00:00:54.239",
+    "end": "00:00:57.750"
+  },
+  {
+    "text": "brain hack and you can get 10% off if",
+    "begin": "00:00:55.800",
+    "end": "00:01:00.120"
+  },
+  {
+    "text": "you use the code future alright let's",
+    "begin": "00:00:57.750",
+    "end": "00:01:02.570"
+  },
+  {
+    "text": "get into the show",
+    "begin": "00:01:00.120",
+    "end": "00:01:02.570"
+  },
+  {
+    "text": "welcome to future thinkers org a podcast",
+    "begin": "00:01:03.539",
+    "end": "00:01:07.680"
+  },
+  {
+    "text": "about the evolution of technology",
+    "begin": "00:01:06.270",
+    "end": "00:01:09.990"
+  },
+  {
+    "text": "society and consciousness I'm Mike",
+    "begin": "00:01:07.680",
+    "end": "00:01:12.750"
+  },
+  {
+    "text": "Gilliland and I'm UV Ivanova if you new",
+    "begin": "00:01:09.990",
+    "end": "00:01:14.430"
+  },
+  {
+    "text": "to the show and you'd like a list of our",
+    "begin": "00:01:12.750",
+    "end": "00:01:16.710"
+  },
+  {
+    "text": "top episodes and resources go to future",
+    "begin": "00:01:14.430",
+    "end": "00:01:19.439"
+  },
+  {
+    "text": "thinkers Dyer org slash start and if you",
+    "begin": "00:01:16.710",
+    "end": "00:01:21.270"
+  },
+  {
+    "text": "like our podcast leave us a rating and a",
+    "begin": "00:01:19.439",
+    "end": "00:01:23.070"
+  },
+  {
+    "text": "review on iTunes and elsewhere",
+    "begin": "00:01:21.270",
+    "end": "00:01:24.810"
+  },
+  {
+    "text": "it really helps others find the show and",
+    "begin": "00:01:23.070",
+    "end": "00:01:28.770"
+  },
+  {
+    "text": "we really appreciate it I'm reading Carl",
+    "begin": "00:01:24.810",
+    "end": "00:01:30.299"
+  },
+  {
+    "text": "Jung right now and he's talking about",
+    "begin": "00:01:28.770",
+    "end": "00:01:32.490"
+  },
+  {
+    "text": "his experience of going to live with the",
+    "begin": "00:01:30.299",
+    "end": "00:01:35.189"
+  },
+  {
+    "text": "Pueblo Indians and how it completely",
+    "begin": "00:01:32.490",
+    "end": "00:01:38.159"
+  },
+  {
+    "text": "just blew apart his conception of what",
+    "begin": "00:01:35.189",
+    "end": "00:01:41.100"
+  },
+  {
+    "text": "was natural and how the Western world",
+    "begin": "00:01:38.159",
+    "end": "00:01:43.440"
+  },
+  {
+    "text": "view is different from other worldviews",
+    "begin": "00:01:41.100",
+    "end": "00:01:47.280"
+  },
+  {
+    "text": "and he noticed that they were so happy",
+    "begin": "00:01:43.440",
+    "end": "00:01:50.340"
+  },
+  {
+    "text": "and serene and they felt themselves as",
+    "begin": "00:01:47.280",
+    "end": "00:01:52.080"
+  },
+  {
+    "text": "one with their environment and they had",
+    "begin": "00:01:50.340",
+    "end": "00:01:53.640"
+  },
+  {
+    "text": "this very special relationship with the",
+    "begin": "00:01:52.080",
+    "end": "00:01:55.590"
+  },
+  {
+    "text": "Sun and it was just it was very",
+    "begin": "00:01:53.640",
+    "end": "00:01:57.690"
+  },
+  {
+    "text": "beautiful but at the same time he",
+    "begin": "00:01:55.590",
+    "end": "00:01:59.729"
+  },
+  {
+    "text": "realized how they were very vulnerable",
+    "begin": "00:01:57.690",
+    "end": "00:02:02.970"
+  },
+  {
+    "text": "to you know the invasion of the Western",
+    "begin": "00:01:59.729",
+    "end": "00:02:05.340"
+  },
+  {
+    "text": "civilization so if we create a new",
+    "begin": "00:02:02.970",
+    "end": "00:02:07.319"
+  },
+  {
+    "text": "civilization operating system that is",
+    "begin": "00:02:05.340",
+    "end": "00:02:09.750"
+  },
+  {
+    "text": "not oriented towards winning wars then",
+    "begin": "00:02:07.319",
+    "end": "00:02:11.489"
+  },
+  {
+    "text": "how do we ensure that it doesn't get",
+    "begin": "00:02:09.750",
+    "end": "00:02:14.280"
+  },
+  {
+    "text": "destroyed by those who are imagine",
+    "begin": "00:02:11.489",
+    "end": "00:02:15.959"
+  },
+  {
+    "text": "there's a group of people that get a",
+    "begin": "00:02:14.280",
+    "end": "00:02:18.270"
+  },
+  {
+    "text": "stronger theory of causation so they",
+    "begin": "00:02:15.959",
+    "end": "00:02:21.360"
+  },
+  {
+    "text": "learn Newton's physics and so now they",
+    "begin": "00:02:18.270",
+    "end": "00:02:23.250"
+  },
+  {
+    "text": "can use calculus to plot a ballistic",
+    "begin": "00:02:21.360",
+    "end": "00:02:24.480"
+  },
+  {
+    "text": "curve and make the cannon ball hit the",
+    "begin": "00:02:23.250",
+    "end": "00:02:26.220"
+  },
+  {
+    "text": "right spot every time rather than the",
+    "begin": "00:02:24.480",
+    "end": "00:02:27.750"
+  },
+  {
+    "text": "pendulum dowsing which is kind of a hit",
+    "begin": "00:02:26.220",
+    "end": "00:02:30.090"
+  },
+  {
+    "text": "or miss that belief is going to catch on",
+    "begin": "00:02:27.750",
+    "end": "00:02:32.250"
+  },
+  {
+    "text": "and that's why science really caught on",
+    "begin": "00:02:30.090",
+    "end": "00:02:33.900"
+  },
+  {
+    "text": "took us out of the Dark Ages was because",
+    "begin": "00:02:32.250",
+    "end": "00:02:36.510"
+  },
+  {
+    "text": "it led to better weapons and better",
+    "begin": "00:02:33.900",
+    "end": "00:02:38.099"
+  },
+  {
+    "text": "agriculture tech and better like real",
+    "begin": "00:02:36.510",
+    "end": "00:02:39.660"
+  },
+  {
+    "text": " so it proliferated because it was",
+    "begin": "00:02:38.099",
+    "end": "00:02:41.849"
+  },
+  {
+    "text": "proliferative if we increased our theory",
+    "begin": "00:02:39.660",
+    "end": "00:02:43.650"
+  },
+  {
+    "text": "of causation that ends up catching on",
+    "begin": "00:02:41.849",
+    "end": "00:02:46.800"
+  },
+  {
+    "text": "but if we could increase our theory of",
+    "begin": "00:02:43.650",
+    "end": "00:02:48.750"
+  },
+  {
+    "text": "causation and our theory of choice and",
+    "begin": "00:02:46.800",
+    "end": "00:02:50.250"
+  },
+  {
+    "text": "the relationship between them that would",
+    "begin": "00:02:48.750",
+    "end": "00:02:52.349"
+  },
+  {
+    "text": "actually be the most adaptive especially",
+    "begin": "00:02:50.250",
+    "end": "00:02:54.090"
+  },
+  {
+    "text": "in the presence of where a particular",
+    "begin": "00:02:52.349",
+    "end": "00:02:57.569"
+  },
+  {
+    "text": "game theoretic model of choice with the",
+    "begin": "00:02:54.090",
+    "end": "00:02:59.190"
+  },
+  {
+    "text": "extension of causation we have is",
+    "begin": "00:02:57.569",
+    "end": "00:03:00.900"
+  },
+  {
+    "text": "definitely self terminating definitely",
+    "begin": "00:02:59.190",
+    "end": "00:03:03.810"
+  },
+  {
+    "text": "anti adaptive and so I know we've been",
+    "begin": "00:03:00.900",
+    "end": "00:03:05.489"
+  },
+  {
+    "text": "on for a long time so there's really",
+    "begin": "00:03:03.810",
+    "end": "00:03:07.260"
+  },
+  {
+    "text": "only one more thing that I want to share",
+    "begin": "00:03:05.489",
+    "end": "00:03:09.150"
+  },
+  {
+    "text": "that kind of closes this set of concepts",
+    "begin": "00:03:07.260",
+    "end": "00:03:12.499"
+  },
+  {
+    "text": "so remember we said that any source of",
+    "begin": "00:03:09.150",
+    "end": "00:03:14.459"
+  },
+  {
+    "text": "asymmetric advantage competitive",
+    "begin": "00:03:12.499",
+    "end": "00:03:17.040"
+  },
+  {
+    "text": "advantage in a win-lose game will end up",
+    "begin": "00:03:14.459",
+    "end": "00:03:19.260"
+  },
+  {
+    "text": "once it's deployed being figured out in",
+    "begin": "00:03:17.040",
+    "end": "00:03:20.819"
+  },
+  {
+    "text": "utilized by everybody you just up the",
+    "begin": "00:03:19.260",
+    "end": "00:03:24.090"
+  },
+  {
+    "text": "level of fancy and playing field so but",
+    "begin": "00:03:20.819",
+    "end": "00:03:26.459"
+  },
+  {
+    "text": "we also said the Indians you were just",
+    "begin": "00:03:24.090",
+    "end": "00:03:27.720"
+  },
+  {
+    "text": "mentioning and many of the treasures",
+    "begin": "00:03:26.459",
+    "end": "00:03:31.349"
+  },
+  {
+    "text": "we've mentioned lost win lose games we",
+    "begin": "00:03:27.720",
+    "end": "00:03:33.239"
+  },
+  {
+    "text": "don't want to try and build something",
+    "begin": "00:03:31.349",
+    "end": "00:03:35.129"
+  },
+  {
+    "text": "that's just going to lose at a win-lose",
+    "begin": "00:03:33.239",
+    "end": "00:03:37.920"
+  },
+  {
+    "text": "game but we know that if it tries to win",
+    "begin": "00:03:35.129",
+    "end": "00:03:39.599"
+  },
+  {
+    "text": "at win-lose games it's just still part",
+    "begin": "00:03:37.920",
+    "end": "00:03:41.129"
+  },
+  {
+    "text": "of the same existential curve that we're",
+    "begin": "00:03:39.599",
+    "end": "00:03:44.849"
+  },
+  {
+    "text": "on so it has to not lose at a win-lose",
+    "begin": "00:03:41.129",
+    "end": "00:03:47.190"
+  },
+  {
+    "text": "game while also not seeking to win but",
+    "begin": "00:03:44.849",
+    "end": "00:03:49.170"
+  },
+  {
+    "text": "do it so it's basically not playing the",
+    "begin": "00:03:47.190",
+    "end": "00:03:51.120"
+  },
+  {
+    "text": "game but it is oriented about how not to",
+    "begin": "00:03:49.170",
+    "end": "00:03:53.579"
+  },
+  {
+    "text": "lose this is a very important thing and",
+    "begin": "00:03:51.120",
+    "end": "00:03:57.870"
+  },
+  {
+    "text": "so we can think about power the way we",
+    "begin": "00:03:53.579",
+    "end": "00:03:59.250"
+  },
+  {
+    "text": "have traditionally thought of power is a",
+    "begin": "00:03:57.870",
+    "end": "00:04:02.069"
+  },
+  {
+    "text": "power over or power against type dynamic",
+    "begin": "00:03:59.250",
+    "end": "00:04:04.140"
+  },
+  {
+    "text": "a game theoretic win-lose dynamic and",
+    "begin": "00:04:02.069",
+    "end": "00:04:06.329"
+  },
+  {
+    "text": "that that any agent that deploys a",
+    "begin": "00:04:04.140",
+    "end": "00:04:07.709"
+  },
+  {
+    "text": "particular kind of power leads to other",
+    "begin": "00:04:06.329",
+    "end": "00:04:09.569"
+  },
+  {
+    "text": "agents for you on how to deploy the same",
+    "begin": "00:04:07.709",
+    "end": "00:04:11.609"
+  },
+  {
+    "text": "and other kinds of powered power keeps",
+    "begin": "00:04:09.569",
+    "end": "00:04:13.769"
+  },
+  {
+    "text": "it anting up till we get to problems but",
+    "begin": "00:04:11.609",
+    "end": "00:04:15.269"
+  },
+  {
+    "text": "we could think about another term we",
+    "begin": "00:04:13.769",
+    "end": "00:04:17.160"
+  },
+  {
+    "text": "might call strength which is not the",
+    "begin": "00:04:15.269",
+    "end": "00:04:19.169"
+  },
+  {
+    "text": "power to beat someone else but it's the",
+    "begin": "00:04:17.160",
+    "end": "00:04:21.150"
+  },
+  {
+    "text": "ability to not be beat by someone else",
+    "begin": "00:04:19.169",
+    "end": "00:04:23.340"
+  },
+  {
+    "text": "it's the ability to maintain our own",
+    "begin": "00:04:21.150",
+    "end": "00:04:25.320"
+  },
+  {
+    "text": "sovereignty and our own coherence in the",
+    "begin": "00:04:23.340",
+    "end": "00:04:28.500"
+  },
+  {
+    "text": "presence of outside forces and so we can",
+    "begin": "00:04:25.320",
+    "end": "00:04:29.910"
+  },
+  {
+    "text": "talk about my power like can I go beat",
+    "begin": "00:04:28.500",
+    "end": "00:04:31.830"
+  },
+  {
+    "text": "somebody up but my strength is can my",
+    "begin": "00:04:29.910",
+    "end": "00:04:36.870"
+  },
+  {
+    "text": "body fend off viruses and can I fend off",
+    "begin": "00:04:31.830",
+    "end": "00:04:38.639"
+  },
+  {
+    "text": "cancers and can I actually protect",
+    "begin": "00:04:36.870",
+    "end": "00:04:40.260"
+  },
+  {
+    "text": "myself if I need to protect myself which",
+    "begin": "00:04:38.639",
+    "end": "00:04:41.340"
+  },
+  {
+    "text": "is different than can I go beat other",
+    "begin": "00:04:40.260",
+    "end": "00:04:44.760"
+  },
+  {
+    "text": "people up and now the power game is the",
+    "begin": "00:04:41.340",
+    "end": "00:04:47.130"
+  },
+  {
+    "text": "game we actually have to cure power over",
+    "begin": "00:04:44.760",
+    "end": "00:04:48.990"
+  },
+  {
+    "text": "dynamics mean rivalry sign AMEX mean",
+    "begin": "00:04:47.130",
+    "end": "00:04:50.820"
+  },
+  {
+    "text": "when loose dynamics is the source of",
+    "begin": "00:04:48.990",
+    "end": "00:04:52.770"
+  },
+  {
+    "text": "evil it's not that money is the source",
+    "begin": "00:04:50.820",
+    "end": "00:04:54.840"
+  },
+  {
+    "text": "of evil it's that power over where I",
+    "begin": "00:04:52.770",
+    "end": "00:04:58.530"
+  },
+  {
+    "text": "think my well-being is ante coupled to",
+    "begin": "00:04:54.840",
+    "end": "00:05:00.660"
+  },
+  {
+    "text": "yours ends up being the source of evil",
+    "begin": "00:04:58.530",
+    "end": "00:05:02.310"
+  },
+  {
+    "text": "and money's just very deep in the stack",
+    "begin": "00:05:00.660",
+    "end": "00:05:04.979"
+  },
+  {
+    "text": "of power dynamics but statuses and",
+    "begin": "00:05:02.310",
+    "end": "00:05:07.020"
+  },
+  {
+    "text": "certain ways of relating to sex and the",
+    "begin": "00:05:04.979",
+    "end": "00:05:08.550"
+  },
+  {
+    "text": "number of things are so we have to get",
+    "begin": "00:05:07.020",
+    "end": "00:05:10.289"
+  },
+  {
+    "text": "rid of the power over dynamics but it",
+    "begin": "00:05:08.550",
+    "end": "00:05:11.490"
+  },
+  {
+    "text": "doesn't mean that I can't develop",
+    "begin": "00:05:10.289",
+    "end": "00:05:14.130"
+  },
+  {
+    "text": "strength that makes me anti fragile in",
+    "begin": "00:05:11.490",
+    "end": "00:05:16.889"
+  },
+  {
+    "text": "the presence of rivalry and then I say",
+    "begin": "00:05:14.130",
+    "end": "00:05:19.500"
+  },
+  {
+    "text": "well what kind of capacity can I",
+    "begin": "00:05:16.889",
+    "end": "00:05:21.419"
+  },
+  {
+    "text": "developed it doesn't get weaponized by",
+    "begin": "00:05:19.500",
+    "end": "00:05:23.789"
+  },
+  {
+    "text": "somebody else and used against me given",
+    "begin": "00:05:21.419",
+    "end": "00:05:25.950"
+  },
+  {
+    "text": "that any asymmetric capacity I get can",
+    "begin": "00:05:23.789",
+    "end": "00:05:26.640"
+  },
+  {
+    "text": "be weaponized",
+    "begin": "00:05:25.950",
+    "end": "00:05:29.039"
+  },
+  {
+    "text": "there's really only one and this is a",
+    "begin": "00:05:26.640",
+    "end": "00:05:30.389"
+  },
+  {
+    "text": "really interesting thing",
+    "begin": "00:05:29.039",
+    "end": "00:05:34.620"
+  },
+  {
+    "text": "if I make the adaptive capacity of they",
+    "begin": "00:05:30.389",
+    "end": "00:05:35.610"
+  },
+  {
+    "text": "were trying to make a new civilization",
+    "begin": "00:05:34.620",
+    "end": "00:05:39.120"
+  },
+  {
+    "text": "as a model and the new full-stack",
+    "begin": "00:05:35.610",
+    "end": "00:05:40.949"
+  },
+  {
+    "text": "civilization new economics new",
+    "begin": "00:05:39.120",
+    "end": "00:05:42.389"
+  },
+  {
+    "text": "governance new infrastructure new",
+    "begin": "00:05:40.949",
+    "end": "00:05:45.389"
+  },
+  {
+    "text": "culture that has comprehensive loop",
+    "begin": "00:05:42.389",
+    "end": "00:05:47.129"
+  },
+  {
+    "text": "closure right doesn't create",
+    "begin": "00:05:45.389",
+    "end": "00:05:49.020"
+  },
+  {
+    "text": "accumulation or depletion doesn't have",
+    "begin": "00:05:47.129",
+    "end": "00:05:52.650"
+  },
+  {
+    "text": "rival risk games within it etc if I try",
+    "begin": "00:05:49.020",
+    "end": "00:05:54.539"
+  },
+  {
+    "text": "to have some unique adaptive capacity",
+    "begin": "00:05:52.650",
+    "end": "00:05:57.930"
+  },
+  {
+    "text": "via certain type of information tech the",
+    "begin": "00:05:54.539",
+    "end": "00:05:59.550"
+  },
+  {
+    "text": "other world will see that information",
+    "begin": "00:05:57.930",
+    "end": "00:06:01.289"
+  },
+  {
+    "text": "Tekken is it for all kinds of purposes",
+    "begin": "00:05:59.550",
+    "end": "00:06:03.539"
+  },
+  {
+    "text": "including against me where there's an",
+    "begin": "00:06:01.289",
+    "end": "00:06:05.370"
+  },
+  {
+    "text": "incentive to do so and the same is true",
+    "begin": "00:06:03.539",
+    "end": "00:06:07.319"
+  },
+  {
+    "text": "if I used military tech or if I use",
+    "begin": "00:06:05.370",
+    "end": "00:06:13.529"
+  },
+  {
+    "text": "environmental extraction technology the",
+    "begin": "00:06:07.319",
+    "end": "00:06:15.090"
+  },
+  {
+    "text": "advantage of the way the civilization",
+    "begin": "00:06:13.529",
+    "end": "00:06:17.430"
+  },
+  {
+    "text": "structured has to do with increased",
+    "begin": "00:06:15.090",
+    "end": "00:06:19.680"
+  },
+  {
+    "text": "coherence in the sense making and choice",
+    "begin": "00:06:17.430",
+    "end": "00:06:21.240"
+  },
+  {
+    "text": "making between all the agents in the",
+    "begin": "00:06:19.680",
+    "end": "00:06:22.740"
+  },
+  {
+    "text": "system all the people in the system",
+    "begin": "00:06:21.240",
+    "end": "00:06:26.340"
+  },
+  {
+    "text": "increase interpersonal coherence this",
+    "begin": "00:06:22.740",
+    "end": "00:06:29.099"
+  },
+  {
+    "text": "cannot be weaponized and anyone else",
+    "begin": "00:06:26.340",
+    "end": "00:06:31.259"
+  },
+  {
+    "text": "employing it is now just a system itself",
+    "begin": "00:06:29.099",
+    "end": "00:06:34.620"
+  },
+  {
+    "text": "propagating so for instance when we",
+    "begin": "00:06:31.259",
+    "end": "00:06:37.229"
+  },
+  {
+    "text": "start playing rival risk games we start",
+    "begin": "00:06:34.620",
+    "end": "00:06:39.180"
+  },
+  {
+    "text": "realizing that it's not just us against",
+    "begin": "00:06:37.229",
+    "end": "00:06:41.279"
+  },
+  {
+    "text": "somebody else it's teams against larger",
+    "begin": "00:06:39.180",
+    "end": "00:06:43.529"
+  },
+  {
+    "text": "teams right answer them the idea of the",
+    "begin": "00:06:41.279",
+    "end": "00:06:45.210"
+  },
+  {
+    "text": "team is we're supposed to cooperate with",
+    "begin": "00:06:43.529",
+    "end": "00:06:46.740"
+  },
+  {
+    "text": "each other to compete against somebody",
+    "begin": "00:06:45.210",
+    "end": "00:06:49.199"
+  },
+  {
+    "text": "else but compete against someone else",
+    "begin": "00:06:46.740",
+    "end": "00:06:51.389"
+  },
+  {
+    "text": "idea ends up going fractal and I end up",
+    "begin": "00:06:49.199",
+    "end": "00:06:52.800"
+  },
+  {
+    "text": "even competing against my teammates",
+    "begin": "00:06:51.389",
+    "end": "00:06:55.199"
+  },
+  {
+    "text": "sometimes and that's part of that why",
+    "begin": "00:06:52.800",
+    "end": "00:06:56.669"
+  },
+  {
+    "text": "the collective intelligence doesn't",
+    "begin": "00:06:55.199",
+    "end": "00:06:59.669"
+  },
+  {
+    "text": "scale thing is because ou cooperate with",
+    "begin": "00:06:56.669",
+    "end": "00:07:01.080"
+  },
+  {
+    "text": "my other buddies on the basketball team",
+    "begin": "00:06:59.669",
+    "end": "00:07:03.360"
+  },
+  {
+    "text": "unless there's also a thing called the",
+    "begin": "00:07:01.080",
+    "end": "00:07:05.490"
+  },
+  {
+    "text": "most valuable player and I'm in the",
+    "begin": "00:07:03.360",
+    "end": "00:07:06.990"
+  },
+  {
+    "text": "running for it and I have a chance to",
+    "begin": "00:07:05.490",
+    "end": "00:07:08.819"
+  },
+  {
+    "text": "make the three-point shot rather than",
+    "begin": "00:07:06.990",
+    "end": "00:07:11.009"
+  },
+  {
+    "text": "pass even though it decreases the chance",
+    "begin": "00:07:08.819",
+    "end": "00:07:12.990"
+  },
+  {
+    "text": "of the team winning now I have a",
+    "begin": "00:07:11.009",
+    "end": "00:07:15.539"
+  },
+  {
+    "text": "incentive misalignment so I might go for",
+    "begin": "00:07:12.990",
+    "end": "00:07:17.099"
+  },
+  {
+    "text": "that and then it gets bigger where",
+    "begin": "00:07:15.539",
+    "end": "00:07:19.139"
+  },
+  {
+    "text": "there's a couple of us that both want",
+    "begin": "00:07:17.099",
+    "end": "00:07:21.839"
+  },
+  {
+    "text": "the same promotion to the same position",
+    "begin": "00:07:19.139",
+    "end": "00:07:23.789"
+  },
+  {
+    "text": "at the company and we're actually going",
+    "begin": "00:07:21.839",
+    "end": "00:07:26.069"
+  },
+  {
+    "text": "to try and sabotage the other one even",
+    "begin": "00:07:23.789",
+    "end": "00:07:28.469"
+  },
+  {
+    "text": "though that harms the company because my",
+    "begin": "00:07:26.069",
+    "end": "00:07:30.900"
+  },
+  {
+    "text": "own incentive is not coupled with their",
+    "begin": "00:07:28.469",
+    "end": "00:07:33.300"
+  },
+  {
+    "text": "incentive and with the company and then",
+    "begin": "00:07:30.900",
+    "end": "00:07:35.819"
+  },
+  {
+    "text": "I can look at say a couple different",
+    "begin": "00:07:33.300",
+    "end": "00:07:37.710"
+  },
+  {
+    "text": "government agencies that are competing",
+    "begin": "00:07:35.819",
+    "end": "00:07:39.930"
+  },
+  {
+    "text": "for the same chunk of budget it will",
+    "begin": "00:07:37.710",
+    "end": "00:07:41.669"
+  },
+  {
+    "text": "actually seek to undermine each other so",
+    "begin": "00:07:39.930",
+    "end": "00:07:42.959"
+  },
+  {
+    "text": "they get more of the budget when they're",
+    "begin": "00:07:41.669",
+    "end": "00:07:43.969"
+  },
+  {
+    "text": "supposed to be on the same",
+    "begin": "00:07:42.959",
+    "end": "00:07:46.099"
+  },
+  {
+    "text": "called that country and so what we",
+    "begin": "00:07:43.969",
+    "end": "00:07:48.379"
+  },
+  {
+    "text": "realized as we get this thing called you",
+    "begin": "00:07:46.099",
+    "end": "00:07:50.959"
+  },
+  {
+    "text": "know like fractal disinformation fractal",
+    "begin": "00:07:48.379",
+    "end": "00:07:53.749"
+  },
+  {
+    "text": "decoherence and defection happening",
+    "begin": "00:07:50.959",
+    "end": "00:07:55.009"
+  },
+  {
+    "text": "everywhere and that creates the most",
+    "begin": "00:07:53.749",
+    "end": "00:07:57.199"
+  },
+  {
+    "text": "broken information ecology and the least",
+    "begin": "00:07:55.009",
+    "end": "00:07:59.239"
+  },
+  {
+    "text": "effective coordination and cooperation",
+    "begin": "00:07:57.199",
+    "end": "00:08:01.459"
+  },
+  {
+    "text": "possible and that's everywhere right",
+    "begin": "00:07:59.239",
+    "end": "00:08:03.529"
+  },
+  {
+    "text": "that's ubiquitous and it's the result of",
+    "begin": "00:08:01.459",
+    "end": "00:08:06.709"
+  },
+  {
+    "text": "that underlying rivalry so as we",
+    "begin": "00:08:03.529",
+    "end": "00:08:09.289"
+  },
+  {
+    "text": "mentioned before now if I have some",
+    "begin": "00:08:06.709",
+    "end": "00:08:11.149"
+  },
+  {
+    "text": "information I want to make it to where",
+    "begin": "00:08:09.289",
+    "end": "00:08:12.469"
+  },
+  {
+    "text": "nobody else can use it I'm gonna",
+    "begin": "00:08:11.149",
+    "end": "00:08:14.629"
+  },
+  {
+    "text": "trademark it patented protect my",
+    "begin": "00:08:12.469",
+    "end": "00:08:17.839"
+  },
+  {
+    "text": "intellectual property and before I've",
+    "begin": "00:08:14.629",
+    "end": "00:08:19.129"
+  },
+  {
+    "text": "released it I actually want to dis",
+    "begin": "00:08:17.839",
+    "end": "00:08:20.929"
+  },
+  {
+    "text": "inform everybody else about it right",
+    "begin": "00:08:19.129",
+    "end": "00:08:22.429"
+  },
+  {
+    "text": "tell them the gold is somewhere else so",
+    "begin": "00:08:20.929",
+    "end": "00:08:24.319"
+  },
+  {
+    "text": "that they go dig in someone else and",
+    "begin": "00:08:22.429",
+    "end": "00:08:25.969"
+  },
+  {
+    "text": "don't pay attention when I'm doing so if",
+    "begin": "00:08:24.319",
+    "end": "00:08:29.119"
+  },
+  {
+    "text": "I am both hoarding information dis",
+    "begin": "00:08:25.969",
+    "end": "00:08:31.039"
+  },
+  {
+    "text": "informing others and keeping my",
+    "begin": "00:08:29.119",
+    "end": "00:08:32.089"
+  },
+  {
+    "text": "information from being able to be",
+    "begin": "00:08:31.039",
+    "end": "00:08:34.219"
+  },
+  {
+    "text": "synthesized with others that means that",
+    "begin": "00:08:32.089",
+    "end": "00:08:36.800"
+  },
+  {
+    "text": "I'm going to not let my knowledge about",
+    "begin": "00:08:34.219",
+    "end": "00:08:38.750"
+  },
+  {
+    "text": "cancer research and whatever it is be",
+    "begin": "00:08:36.800",
+    "end": "00:08:40.399"
+  },
+  {
+    "text": "out there because I got to make the farm",
+    "begin": "00:08:38.750",
+    "end": "00:08:43.579"
+  },
+  {
+    "text": "on your back so the best computer that",
+    "begin": "00:08:40.399",
+    "end": "00:08:45.550"
+  },
+  {
+    "text": "the world could build doesn't exist",
+    "begin": "00:08:43.579",
+    "end": "00:08:49.569"
+  },
+  {
+    "text": "because Apple has some of the IP but",
+    "begin": "00:08:45.550",
+    "end": "00:08:52.730"
+  },
+  {
+    "text": "Google has some of the IP and ten other",
+    "begin": "00:08:49.569",
+    "end": "00:08:54.500"
+  },
+  {
+    "text": "companies there some of the IP and to",
+    "begin": "00:08:52.730",
+    "end": "00:08:56.480"
+  },
+  {
+    "text": "the best computer that science knows how",
+    "begin": "00:08:54.500",
+    "end": "00:08:58.879"
+  },
+  {
+    "text": "to build can legally not be built in and",
+    "begin": "00:08:56.480",
+    "end": "00:09:01.250"
+  },
+  {
+    "text": "the best phone and the best car and the",
+    "begin": "00:08:58.879",
+    "end": "00:09:02.899"
+  },
+  {
+    "text": "best medicine and the best every",
+    "begin": "00:09:01.250",
+    "end": "00:09:05.839"
+  },
+  {
+    "text": "thing there is because we keep the",
+    "begin": "00:09:02.899",
+    "end": "00:09:07.339"
+  },
+  {
+    "text": "actual adaptive knowledge from",
+    "begin": "00:09:05.839",
+    "end": "00:09:09.800"
+  },
+  {
+    "text": "synthesizing let alone that everybody is",
+    "begin": "00:09:07.339",
+    "end": "00:09:11.629"
+  },
+  {
+    "text": "having to reproduce the same work",
+    "begin": "00:09:09.800",
+    "end": "00:09:13.939"
+  },
+  {
+    "text": "because we don't want to share our best",
+    "begin": "00:09:11.629",
+    "end": "00:09:16.160"
+  },
+  {
+    "text": "practices and then almost all the budget",
+    "begin": "00:09:13.939",
+    "end": "00:09:17.899"
+  },
+  {
+    "text": "is going into marketing against the",
+    "begin": "00:09:16.160",
+    "end": "00:09:19.160"
+  },
+  {
+    "text": "other ones rather than actual",
+    "begin": "00:09:17.899",
+    "end": "00:09:20.629"
+  },
+  {
+    "text": "development and the marketing is just",
+    "begin": "00:09:19.160",
+    "end": "00:09:23.420"
+  },
+  {
+    "text": "lying in manipulation you know at least",
+    "begin": "00:09:20.629",
+    "end": "00:09:25.610"
+  },
+  {
+    "text": "about why ours comprehensively better",
+    "begin": "00:09:23.420",
+    "end": "00:09:27.920"
+  },
+  {
+    "text": "when they then have to say the same",
+    "begin": "00:09:25.610",
+    "end": "00:09:29.689"
+  },
+  {
+    "text": "thing about what their IP does that's",
+    "begin": "00:09:27.920",
+    "end": "00:09:32.269"
+  },
+  {
+    "text": "good in our IP does nothing now imagine",
+    "begin": "00:09:29.689",
+    "end": "00:09:33.980"
+  },
+  {
+    "text": "if we had a world where all the IP gotta",
+    "begin": "00:09:32.269",
+    "end": "00:09:35.410"
+  },
+  {
+    "text": "be synthesized",
+    "begin": "00:09:33.980",
+    "end": "00:09:37.850"
+  },
+  {
+    "text": "nobody was dis informing anybody else",
+    "begin": "00:09:35.410",
+    "end": "00:09:39.350"
+  },
+  {
+    "text": "nobody was sabotaging anyone else",
+    "begin": "00:09:37.850",
+    "end": "00:09:41.870"
+  },
+  {
+    "text": "everyone was an incentive to share all",
+    "begin": "00:09:39.350",
+    "end": "00:09:45.230"
+  },
+  {
+    "text": "of the info and to synthesize all the",
+    "begin": "00:09:41.870",
+    "end": "00:09:47.480"
+  },
+  {
+    "text": "info to synthesize all of the",
+    "begin": "00:09:45.230",
+    "end": "00:09:49.790"
+  },
+  {
+    "text": "intellectual property ideas etc work",
+    "begin": "00:09:47.480",
+    "end": "00:09:51.769"
+  },
+  {
+    "text": "towards the best things possible imagine",
+    "begin": "00:09:49.790",
+    "end": "00:09:53.839"
+  },
+  {
+    "text": "how much more innovation would actually",
+    "begin": "00:09:51.769",
+    "end": "00:09:54.889"
+  },
+  {
+    "text": "be possible how much more collective",
+    "begin": "00:09:53.839",
+    "end": "00:09:57.319"
+  },
+  {
+    "text": "intelligence and capacity would actually",
+    "begin": "00:09:54.889",
+    "end": "00:09:57.830"
+  },
+  {
+    "text": "be possible",
+    "begin": "00:09:57.319",
+    "end": "00:10:00.290"
+  },
+  {
+    "text": "now if our source of adaptive advantage",
+    "begin": "00:09:57.830",
+    "end": "00:10:02.930"
+  },
+  {
+    "text": "is that right is we make a world where",
+    "begin": "00:10:00.290",
+    "end": "00:10:05.930"
+  },
+  {
+    "text": "and now we have to come back to we were",
+    "begin": "00:10:02.930",
+    "end": "00:10:09.290"
+  },
+  {
+    "text": "talking about if you possess a good and",
+    "begin": "00:10:05.930",
+    "end": "00:10:11.089"
+  },
+  {
+    "text": "I no longer have access to it were in a",
+    "begin": "00:10:09.290",
+    "end": "00:10:12.860"
+  },
+  {
+    "text": "rival risk relationship right you",
+    "begin": "00:10:11.089",
+    "end": "00:10:14.329"
+  },
+  {
+    "text": "possessed a piece of information and",
+    "begin": "00:10:12.860",
+    "end": "00:10:16.010"
+  },
+  {
+    "text": "that I don't didn't get to have access",
+    "begin": "00:10:14.329",
+    "end": "00:10:17.300"
+  },
+  {
+    "text": "to were in Reverse information of",
+    "begin": "00:10:16.010",
+    "end": "00:10:19.310"
+  },
+  {
+    "text": "knowledge etc but if you have access to",
+    "begin": "00:10:17.300",
+    "end": "00:10:21.230"
+  },
+  {
+    "text": "something and we've structured the",
+    "begin": "00:10:19.310",
+    "end": "00:10:23.300"
+  },
+  {
+    "text": "nature of access where we have",
+    "begin": "00:10:21.230",
+    "end": "00:10:24.529"
+  },
+  {
+    "text": "engineered the scarcity out of the",
+    "begin": "00:10:23.300",
+    "end": "00:10:26.450"
+  },
+  {
+    "text": "system such that you're having access",
+    "begin": "00:10:24.529",
+    "end": "00:10:29.149"
+  },
+  {
+    "text": "doesn't make me not have access and you",
+    "begin": "00:10:26.450",
+    "end": "00:10:31.339"
+  },
+  {
+    "text": "having access leads to you being a human",
+    "begin": "00:10:29.149",
+    "end": "00:10:32.990"
+  },
+  {
+    "text": "who has a full life and some of your",
+    "begin": "00:10:31.339",
+    "end": "00:10:34.730"
+  },
+  {
+    "text": "full life is creativity and generativity",
+    "begin": "00:10:32.990",
+    "end": "00:10:36.800"
+  },
+  {
+    "text": "and so now not only do you have the full",
+    "begin": "00:10:34.730",
+    "end": "00:10:38.690"
+  },
+  {
+    "text": "access to those transportation resources",
+    "begin": "00:10:36.800",
+    "end": "00:10:41.240"
+  },
+  {
+    "text": "but also maker studios and art studios",
+    "begin": "00:10:38.690",
+    "end": "00:10:42.950"
+  },
+  {
+    "text": "and education and healthcare and all the",
+    "begin": "00:10:41.240",
+    "end": "00:10:44.480"
+  },
+  {
+    "text": "kinds of things would make you a healthy",
+    "begin": "00:10:42.950",
+    "end": "00:10:46.220"
+  },
+  {
+    "text": "well adaptive creative person and every",
+    "begin": "00:10:44.480",
+    "end": "00:10:47.990"
+  },
+  {
+    "text": "well adapted person's creative because",
+    "begin": "00:10:46.220",
+    "end": "00:10:49.399"
+  },
+  {
+    "text": "nobody wants to just chill out watching",
+    "begin": "00:10:47.990",
+    "end": "00:10:51.350"
+  },
+  {
+    "text": "TV all the time unless they were already",
+    "begin": "00:10:49.399",
+    "end": "00:10:53.750"
+  },
+  {
+    "text": "broken broken by a system that tried to",
+    "begin": "00:10:51.350",
+    "end": "00:10:55.370"
+  },
+  {
+    "text": "incent them to do that nobody wants",
+    "begin": "00:10:53.750",
+    "end": "00:10:56.690"
+  },
+  {
+    "text": "to do or if they can get away out they",
+    "begin": "00:10:55.370",
+    "end": "00:10:58.519"
+  },
+  {
+    "text": "will be there broken person but if",
+    "begin": "00:10:56.690",
+    "end": "00:11:00.649"
+  },
+  {
+    "text": "someone was supported in an education",
+    "begin": "00:10:58.519",
+    "end": "00:11:02.209"
+  },
+  {
+    "text": "system to pay attention to what they",
+    "begin": "00:11:00.649",
+    "end": "00:11:03.740"
+  },
+  {
+    "text": "were innately fascinated in and",
+    "begin": "00:11:02.209",
+    "end": "00:11:05.029"
+  },
+  {
+    "text": "facilitate that they'll all become",
+    "begin": "00:11:03.740",
+    "end": "00:11:07.459"
+  },
+  {
+    "text": "masterful at some things within eight",
+    "begin": "00:11:05.029",
+    "end": "00:11:09.290"
+  },
+  {
+    "text": "intrinsic motivation to do those things",
+    "begin": "00:11:07.459",
+    "end": "00:11:11.899"
+  },
+  {
+    "text": "and so now in a world where we support",
+    "begin": "00:11:09.290",
+    "end": "00:11:15.529"
+  },
+  {
+    "text": "everybody to have access to the things",
+    "begin": "00:11:11.899",
+    "end": "00:11:17.720"
+  },
+  {
+    "text": "that they are intrinsically incentive to",
+    "begin": "00:11:15.529",
+    "end": "00:11:20.839"
+  },
+  {
+    "text": "want to create which if right now I get",
+    "begin": "00:11:17.720",
+    "end": "00:11:23.750"
+  },
+  {
+    "text": "status by having stuff but if we are",
+    "begin": "00:11:20.839",
+    "end": "00:11:25.130"
+  },
+  {
+    "text": "engineering secure SEOs system everyone",
+    "begin": "00:11:23.750",
+    "end": "00:11:26.750"
+  },
+  {
+    "text": "has access nobody possesses any of it",
+    "begin": "00:11:25.130",
+    "end": "00:11:27.920"
+  },
+  {
+    "text": "everybody has access to all but there's",
+    "begin": "00:11:26.750",
+    "end": "00:11:29.450"
+  },
+  {
+    "text": "no status of having things as totally",
+    "begin": "00:11:27.920",
+    "end": "00:11:30.920"
+  },
+  {
+    "text": "boring there's no differential advantage",
+    "begin": "00:11:29.450",
+    "end": "00:11:33.230"
+  },
+  {
+    "text": "the only way you get status the only way",
+    "begin": "00:11:30.920",
+    "end": "00:11:35.149"
+  },
+  {
+    "text": "you get to express the uniqueness of who",
+    "begin": "00:11:33.230",
+    "end": "00:11:37.250"
+  },
+  {
+    "text": "yours by what you create and so now the",
+    "begin": "00:11:35.149",
+    "end": "00:11:38.420"
+  },
+  {
+    "text": "whole system's oriented towards that",
+    "begin": "00:11:37.250",
+    "end": "00:11:39.589"
+  },
+  {
+    "text": "they don't create something to get money",
+    "begin": "00:11:38.420",
+    "end": "00:11:41.690"
+  },
+  {
+    "text": "because money for what to have access to",
+    "begin": "00:11:39.589",
+    "end": "00:11:43.160"
+  },
+  {
+    "text": "she already have access to it but",
+    "begin": "00:11:41.690",
+    "end": "00:11:45.770"
+  },
+  {
+    "text": "because you get to be someone who",
+    "begin": "00:11:43.160",
+    "end": "00:11:47.480"
+  },
+  {
+    "text": "created that thing in both your own",
+    "begin": "00:11:45.770",
+    "end": "00:11:49.490"
+  },
+  {
+    "text": "intrinsic experience evident extras are",
+    "begin": "00:11:47.480",
+    "end": "00:11:51.199"
+  },
+  {
+    "text": "they getting to offer to the world will",
+    "begin": "00:11:49.490",
+    "end": "00:11:53.000"
+  },
+  {
+    "text": "recognize that so now we have a",
+    "begin": "00:11:51.199",
+    "end": "00:11:55.670"
+  },
+  {
+    "text": "situation where we all have access to",
+    "begin": "00:11:53.000",
+    "end": "00:11:57.890"
+  },
+  {
+    "text": "Commonwealth resources they create an",
+    "begin": "00:11:55.670",
+    "end": "00:11:59.779"
+  },
+  {
+    "text": "anti rivalries relationship to each",
+    "begin": "00:11:57.890",
+    "end": "00:12:02.300"
+  },
+  {
+    "text": "other and obviously I'm just speaking",
+    "begin": "00:11:59.779",
+    "end": "00:12:03.709"
+  },
+  {
+    "text": "about this at a hundred thousand foot",
+    "begin": "00:12:02.300",
+    "end": "00:12:05.240"
+  },
+  {
+    "text": "level and we could drill down on what",
+    "begin": "00:12:03.709",
+    "end": "00:12:06.890"
+  },
+  {
+    "text": "the actual architecture looks like but",
+    "begin": "00:12:05.240",
+    "end": "00:12:08.720"
+  },
+  {
+    "text": "there's actual architecture here that is",
+    "begin": "00:12:06.890",
+    "end": "00:12:10.810"
+  },
+  {
+    "text": "viable that means the designs create",
+    "begin": "00:12:08.720",
+    "end": "00:12:13.960"
+  },
+  {
+    "text": "and we have sense-making processes where",
+    "begin": "00:12:10.810",
+    "end": "00:12:15.310"
+  },
+  {
+    "text": "we look at what a good design would be",
+    "begin": "00:12:13.960",
+    "end": "00:12:17.260"
+  },
+  {
+    "text": "before making a proposition for a design",
+    "begin": "00:12:15.310",
+    "end": "00:12:18.820"
+  },
+  {
+    "text": "that don't lead to polarization and",
+    "begin": "00:12:17.260",
+    "end": "00:12:20.680"
+  },
+  {
+    "text": "radicalization but that lead to",
+    "begin": "00:12:18.820",
+    "end": "00:12:23.230"
+  },
+  {
+    "text": "progressively better synergistic",
+    "begin": "00:12:20.680",
+    "end": "00:12:25.480"
+  },
+  {
+    "text": "satisfiers that get us out of theory of",
+    "begin": "00:12:23.230",
+    "end": "00:12:27.850"
+  },
+  {
+    "text": "trade-offs and into race and interested",
+    "begin": "00:12:25.480",
+    "end": "00:12:29.500"
+  },
+  {
+    "text": "satisfiers also as a way of having",
+    "begin": "00:12:27.850",
+    "end": "00:12:32.530"
+  },
+  {
+    "text": "people be more unifying and on the same",
+    "begin": "00:12:29.500",
+    "end": "00:12:34.450"
+  },
+  {
+    "text": "team now if I've got this world where",
+    "begin": "00:12:32.530",
+    "end": "00:12:37.120"
+  },
+  {
+    "text": "its source of competitive advantage if",
+    "begin": "00:12:34.450",
+    "end": "00:12:38.920"
+  },
+  {
+    "text": "you want to call it that is it it is",
+    "begin": "00:12:37.120",
+    "end": "00:12:41.110"
+  },
+  {
+    "text": "obsoleted competition within itself so",
+    "begin": "00:12:38.920",
+    "end": "00:12:44.470"
+  },
+  {
+    "text": "it has real coherence then not only is",
+    "begin": "00:12:41.110",
+    "end": "00:12:46.090"
+  },
+  {
+    "text": "the quality of life they radically",
+    "begin": "00:12:44.470",
+    "end": "00:12:47.380"
+  },
+  {
+    "text": "higher because the people don't feel",
+    "begin": "00:12:46.090",
+    "end": "00:12:48.760"
+  },
+  {
+    "text": "lonely and they actually have creative",
+    "begin": "00:12:47.380",
+    "end": "00:12:51.330"
+  },
+  {
+    "text": " to do and they aren't being used as",
+    "begin": "00:12:48.760",
+    "end": "00:12:54.220"
+  },
+  {
+    "text": "instrumental pawns to some other purpose",
+    "begin": "00:12:51.330",
+    "end": "00:12:56.650"
+  },
+  {
+    "text": "and etc and the quality of life is",
+    "begin": "00:12:54.220",
+    "end": "00:12:58.060"
+  },
+  {
+    "text": "better because they're actually making",
+    "begin": "00:12:56.650",
+    "end": "00:12:59.710"
+  },
+  {
+    "text": "better medicine and better technology",
+    "begin": "00:12:58.060",
+    "end": "00:13:02.080"
+  },
+  {
+    "text": "and better etc because of the ability",
+    "begin": "00:12:59.710",
+    "end": "00:13:03.970"
+  },
+  {
+    "text": "for the IP to synthesize and you know",
+    "begin": "00:13:02.080",
+    "end": "00:13:05.680"
+  },
+  {
+    "text": "everything else but this world can also",
+    "begin": "00:13:03.970",
+    "end": "00:13:08.740"
+  },
+  {
+    "text": "out in to innovate in really key ways",
+    "begin": "00:13:05.680",
+    "end": "00:13:11.470"
+  },
+  {
+    "text": "other places in the world and for then",
+    "begin": "00:13:08.740",
+    "end": "00:13:12.790"
+  },
+  {
+    "text": "rather than the rest of the world",
+    "begin": "00:13:11.470",
+    "end": "00:13:15.010"
+  },
+  {
+    "text": "wanting to attack it the world it can",
+    "begin": "00:13:12.790",
+    "end": "00:13:16.870"
+  },
+  {
+    "text": "actually say here will export solutions",
+    "begin": "00:13:15.010",
+    "end": "00:13:18.730"
+  },
+  {
+    "text": "you want and to the rest of world sorts",
+    "begin": "00:13:16.870",
+    "end": "00:13:19.780"
+  },
+  {
+    "text": "of creative cause like dependence",
+    "begin": "00:13:18.730",
+    "end": "00:13:21.730"
+  },
+  {
+    "text": "relationship then the rest of world says",
+    "begin": "00:13:19.780",
+    "end": "00:13:23.080"
+  },
+  {
+    "text": " we want to be able to innovate why",
+    "begin": "00:13:21.730",
+    "end": "00:13:24.280"
+  },
+  {
+    "text": "were they able to solve that problem we",
+    "begin": "00:13:23.080",
+    "end": "00:13:25.570"
+  },
+  {
+    "text": "weren't able to solve what cooler guys",
+    "begin": "00:13:24.280",
+    "end": "00:13:27.190"
+  },
+  {
+    "text": "were like sabotaging each other and",
+    "begin": "00:13:25.570",
+    "end": "00:13:28.480"
+  },
+  {
+    "text": "their guys weren't sabotaging each other",
+    "begin": "00:13:27.190",
+    "end": "00:13:30.460"
+  },
+  {
+    "text": "we say great here's the social",
+    "begin": "00:13:28.480",
+    "end": "00:13:32.830"
+  },
+  {
+    "text": "technology we use now as soon as they",
+    "begin": "00:13:30.460",
+    "end": "00:13:34.390"
+  },
+  {
+    "text": "implement that it's not being recognized",
+    "begin": "00:13:32.830",
+    "end": "00:13:36.070"
+  },
+  {
+    "text": "that's just the world actually shifting",
+    "begin": "00:13:34.390",
+    "end": "00:13:37.600"
+  },
+  {
+    "text": "that's where this model actually becomes",
+    "begin": "00:13:36.070",
+    "end": "00:13:39.430"
+  },
+  {
+    "text": "a new basin of Attraction the world",
+    "begin": "00:13:37.600",
+    "end": "00:13:42.940"
+  },
+  {
+    "text": "starts flowing - and so you have to do",
+    "begin": "00:13:39.430",
+    "end": "00:13:45.310"
+  },
+  {
+    "text": "that you create a prototype of an of a",
+    "begin": "00:13:42.940",
+    "end": "00:13:48.130"
+  },
+  {
+    "text": "full-stack civilization that is anti",
+    "begin": "00:13:45.310",
+    "end": "00:13:51.040"
+  },
+  {
+    "text": "rivalries it is anti fragile against",
+    "begin": "00:13:48.130",
+    "end": "00:13:54.310"
+  },
+  {
+    "text": "rivalry Frank's non power and that is",
+    "begin": "00:13:51.040",
+    "end": "00:13:56.200"
+  },
+  {
+    "text": "Otto propagating but by the nature of",
+    "begin": "00:13:54.310",
+    "end": "00:13:58.600"
+  },
+  {
+    "text": "the solutions that it is exporting and",
+    "begin": "00:13:56.200",
+    "end": "00:14:00.970"
+  },
+  {
+    "text": "by its own adaptive capacity its own",
+    "begin": "00:13:58.600",
+    "end": "00:14:02.680"
+  },
+  {
+    "text": "design starts to get implemented other",
+    "begin": "00:14:00.970",
+    "end": "00:14:05.410"
+  },
+  {
+    "text": "places and that's ultimately the",
+    "begin": "00:14:02.680",
+    "end": "00:14:09.280"
+  },
+  {
+    "text": "designer that is a path to a post",
+    "begin": "00:14:05.410",
+    "end": "00:14:12.580"
+  },
+  {
+    "text": "existential risk world which is building",
+    "begin": "00:14:09.280",
+    "end": "00:14:14.350"
+  },
+  {
+    "text": "it and prototype in a way we're at Otto",
+    "begin": "00:14:12.580",
+    "end": "00:14:16.540"
+  },
+  {
+    "text": "propagates that's so exciting",
+    "begin": "00:14:14.350",
+    "end": "00:14:19.210"
+  },
+  {
+    "text": "are there places where these prototypes",
+    "begin": "00:14:16.540",
+    "end": "00:14:21.220"
+  },
+  {
+    "text": "are being built kind of but not really",
+    "begin": "00:14:19.210",
+    "end": "00:14:24.190"
+  },
+  {
+    "text": "there are intentional communities where",
+    "begin": "00:14:21.220",
+    "end": "00:14:24.640"
+  },
+  {
+    "text": "people are",
+    "begin": "00:14:24.190",
+    "end": "00:14:27.220"
+  },
+  {
+    "text": "trying to practice some things that they",
+    "begin": "00:14:24.640",
+    "end": "00:14:28.810"
+  },
+  {
+    "text": "feel will be relevant a closed-loop",
+    "begin": "00:14:27.220",
+    "end": "00:14:31.570"
+  },
+  {
+    "text": "agriculture system right where they at",
+    "begin": "00:14:28.810",
+    "end": "00:14:33.640"
+  },
+  {
+    "text": "least have regenerative agriculture and",
+    "begin": "00:14:31.570",
+    "end": "00:14:36.700"
+  },
+  {
+    "text": "maybe some kinds of social coherence",
+    "begin": "00:14:33.640",
+    "end": "00:14:38.320"
+  },
+  {
+    "text": "technologies where they have a better",
+    "begin": "00:14:36.700",
+    "end": "00:14:40.180"
+  },
+  {
+    "text": "system of conflict resolution than our",
+    "begin": "00:14:38.320",
+    "end": "00:14:42.190"
+  },
+  {
+    "text": "current judicial system better parenting",
+    "begin": "00:14:40.180",
+    "end": "00:14:43.600"
+  },
+  {
+    "text": "better education like we have those",
+    "begin": "00:14:42.190",
+    "end": "00:14:44.649"
+  },
+  {
+    "text": "things and those are cool and they're",
+    "begin": "00:14:43.600",
+    "end": "00:14:47.079"
+  },
+  {
+    "text": "valuable but they still have to buy",
+    "begin": "00:14:44.649",
+    "end": "00:14:49.300"
+  },
+  {
+    "text": "their computers from Apple and fly on a",
+    "begin": "00:14:47.079",
+    "end": "00:14:51.100"
+  },
+  {
+    "text": "Boeing to get somewhere that depends",
+    "begin": "00:14:49.300",
+    "end": "00:14:53.920"
+  },
+  {
+    "text": "upon environmental destruction war and",
+    "begin": "00:14:51.100",
+    "end": "00:14:56.680"
+  },
+  {
+    "text": "so they can't actually provide a",
+    "begin": "00:14:53.920",
+    "end": "00:14:59.230"
+  },
+  {
+    "text": "high-tech civilization so then they're",
+    "begin": "00:14:56.680",
+    "end": "00:15:01.060"
+  },
+  {
+    "text": "not yet civilization models and the",
+    "begin": "00:14:59.230",
+    "end": "00:15:02.829"
+  },
+  {
+    "text": "civilization models are all part of this",
+    "begin": "00:15:01.060",
+    "end": "00:15:05.110"
+  },
+  {
+    "text": "one dominant subluxation model so this",
+    "begin": "00:15:02.829",
+    "end": "00:15:08.019"
+  },
+  {
+    "text": "is a next endeavor and before a",
+    "begin": "00:15:05.110",
+    "end": "00:15:10.329"
+  },
+  {
+    "text": "full-stack civilization occurs obviously",
+    "begin": "00:15:08.019",
+    "end": "00:15:12.760"
+  },
+  {
+    "text": "partial ones but that are directed",
+    "begin": "00:15:10.329",
+    "end": "00:15:14.470"
+  },
+  {
+    "text": "towards a full-stack civilization have",
+    "begin": "00:15:12.760",
+    "end": "00:15:16.269"
+  },
+  {
+    "text": "to occur because in the world we're",
+    "begin": "00:15:14.470",
+    "end": "00:15:17.829"
+  },
+  {
+    "text": "talking about there is no place for the",
+    "begin": "00:15:16.269",
+    "end": "00:15:19.540"
+  },
+  {
+    "text": "things currency called judges or lawyers",
+    "begin": "00:15:17.829",
+    "end": "00:15:21.730"
+  },
+  {
+    "text": "or politicians or bankers because those",
+    "begin": "00:15:19.540",
+    "end": "00:15:23.920"
+  },
+  {
+    "text": "systems don't exist now that doesn't",
+    "begin": "00:15:21.730",
+    "end": "00:15:26.829"
+  },
+  {
+    "text": "mean that there isn't a equivalent of a",
+    "begin": "00:15:23.920",
+    "end": "00:15:29.199"
+  },
+  {
+    "text": "judicial system but it's totally",
+    "begin": "00:15:26.829",
+    "end": "00:15:30.640"
+  },
+  {
+    "text": "different from the level of the theory",
+    "begin": "00:15:29.199",
+    "end": "00:15:32.230"
+  },
+  {
+    "text": "of ethics to the jurisprudence and",
+    "begin": "00:15:30.640",
+    "end": "00:15:34.149"
+  },
+  {
+    "text": "somebody has to be getting trained in",
+    "begin": "00:15:32.230",
+    "end": "00:15:37.300"
+  },
+  {
+    "text": "the Civic's of that system and there's",
+    "begin": "00:15:34.149",
+    "end": "00:15:39.010"
+  },
+  {
+    "text": "nothing like banking but there are",
+    "begin": "00:15:37.300",
+    "end": "00:15:40.779"
+  },
+  {
+    "text": "things like paying attention to how the",
+    "begin": "00:15:39.010",
+    "end": "00:15:43.300"
+  },
+  {
+    "text": "accounting of this new economy works but",
+    "begin": "00:15:40.779",
+    "end": "00:15:44.589"
+  },
+  {
+    "text": "people have be trained in that I'll give",
+    "begin": "00:15:43.300",
+    "end": "00:15:46.329"
+  },
+  {
+    "text": "you one for instance if we think about",
+    "begin": "00:15:44.589",
+    "end": "00:15:49.000"
+  },
+  {
+    "text": "the physical economy so we'll take",
+    "begin": "00:15:46.329",
+    "end": "00:15:50.380"
+  },
+  {
+    "text": "attention now and just look at physics",
+    "begin": "00:15:49.000",
+    "end": "00:15:52.240"
+  },
+  {
+    "text": "we see that there's at least three",
+    "begin": "00:15:50.380",
+    "end": "00:15:54.579"
+  },
+  {
+    "text": "different kinds of physics involved in",
+    "begin": "00:15:52.240",
+    "end": "00:15:56.070"
+  },
+  {
+    "text": "the materials economy that are",
+    "begin": "00:15:54.579",
+    "end": "00:15:58.510"
+  },
+  {
+    "text": "fundamentally different in their math so",
+    "begin": "00:15:56.070",
+    "end": "00:16:01.029"
+  },
+  {
+    "text": "there is a physics of atoms physical",
+    "begin": "00:15:58.510",
+    "end": "00:16:04.209"
+  },
+  {
+    "text": "atoms there is a physics of energy and",
+    "begin": "00:16:01.029",
+    "end": "00:16:07.600"
+  },
+  {
+    "text": "there's the physics of bits and right",
+    "begin": "00:16:04.209",
+    "end": "00:16:09.519"
+  },
+  {
+    "text": "now those are all fungible I can use the",
+    "begin": "00:16:07.600",
+    "end": "00:16:12.550"
+  },
+  {
+    "text": "same dollar to buy software or to buy",
+    "begin": "00:16:09.519",
+    "end": "00:16:15.850"
+  },
+  {
+    "text": "energy or to buy metals or physical",
+    "begin": "00:16:12.550",
+    "end": "00:16:18.910"
+  },
+  {
+    "text": "stuff right food but there's a fixed",
+    "begin": "00:16:15.850",
+    "end": "00:16:21.220"
+  },
+  {
+    "text": "number of atoms of a certain type on the",
+    "begin": "00:16:18.910",
+    "end": "00:16:22.660"
+  },
+  {
+    "text": "planet that are reasonably accessible",
+    "begin": "00:16:21.220",
+    "end": "00:16:24.670"
+  },
+  {
+    "text": "and right now we're just taking them",
+    "begin": "00:16:22.660",
+    "end": "00:16:25.810"
+  },
+  {
+    "text": "from the environment in a way that",
+    "begin": "00:16:24.670",
+    "end": "00:16:27.850"
+  },
+  {
+    "text": "causes depletion and then putting them",
+    "begin": "00:16:25.810",
+    "end": "00:16:29.709"
+  },
+  {
+    "text": "back into the environment as wastes and",
+    "begin": "00:16:27.850",
+    "end": "00:16:31.209"
+  },
+  {
+    "text": "way the caused accumulation talks to see",
+    "begin": "00:16:29.709",
+    "end": "00:16:32.260"
+  },
+  {
+    "text": "on both sides you can't keep doing that",
+    "begin": "00:16:31.209",
+    "end": "00:16:33.640"
+  },
+  {
+    "text": "we have to closed-loop it where we have",
+    "begin": "00:16:32.260",
+    "end": "00:16:36.010"
+  },
+  {
+    "text": "been a give or take finite amount of",
+    "begin": "00:16:33.640",
+    "end": "00:16:37.150"
+  },
+  {
+    "text": "metals and",
+    "begin": "00:16:36.010",
+    "end": "00:16:38.890"
+  },
+  {
+    "text": "just medals but hydrocarbons everything",
+    "begin": "00:16:37.150",
+    "end": "00:16:40.930"
+  },
+  {
+    "text": "a finite amount of atoms that are in a",
+    "begin": "00:16:38.890",
+    "end": "00:16:44.230"
+  },
+  {
+    "text": "closed-loop relationship but it can be",
+    "begin": "00:16:40.930",
+    "end": "00:16:45.910"
+  },
+  {
+    "text": "up cycled because we have the energy to",
+    "begin": "00:16:44.230",
+    "end": "00:16:47.380"
+  },
+  {
+    "text": "upcycle them which means putting the",
+    "begin": "00:16:45.910",
+    "end": "00:16:50.080"
+  },
+  {
+    "text": "same atoms into higher pattern where the",
+    "begin": "00:16:47.380",
+    "end": "00:16:51.580"
+  },
+  {
+    "text": "pattern is evolving the pattern stored",
+    "begin": "00:16:50.080",
+    "end": "00:16:53.590"
+  },
+  {
+    "text": "in bits so if I take the atoms out of",
+    "begin": "00:16:51.580",
+    "end": "00:16:55.060"
+  },
+  {
+    "text": "one battery put it in a new battery",
+    "begin": "00:16:53.590",
+    "end": "00:16:57.970"
+  },
+  {
+    "text": "which evolved as battery technology that",
+    "begin": "00:16:55.060",
+    "end": "00:17:00.850"
+  },
+  {
+    "text": "new battery is in bits a blueprint and",
+    "begin": "00:16:57.970",
+    "end": "00:17:04.210"
+  },
+  {
+    "text": "I'm going to use energy to take the",
+    "begin": "00:17:00.850",
+    "end": "00:17:06.310"
+  },
+  {
+    "text": "atoms in the current form disassemble",
+    "begin": "00:17:04.210",
+    "end": "00:17:08.070"
+  },
+  {
+    "text": "them and reassemble them into this new",
+    "begin": "00:17:06.310",
+    "end": "00:17:11.920"
+  },
+  {
+    "text": "battery and so there's a fixed amount of",
+    "begin": "00:17:08.070",
+    "end": "00:17:13.420"
+  },
+  {
+    "text": "atoms we have to close loop those",
+    "begin": "00:17:11.920",
+    "end": "00:17:15.250"
+  },
+  {
+    "text": "there's not a fixed amount of energy we",
+    "begin": "00:17:13.420",
+    "end": "00:17:16.510"
+  },
+  {
+    "text": "get new energy from the Sun every day",
+    "begin": "00:17:15.250",
+    "end": "00:17:19.630"
+  },
+  {
+    "text": "but we have kind of a finite bandwidth",
+    "begin": "00:17:16.510",
+    "end": "00:17:21.520"
+  },
+  {
+    "text": "to how much we get so we have to operate",
+    "begin": "00:17:19.630",
+    "end": "00:17:23.980"
+  },
+  {
+    "text": "within that's not closed loop right we",
+    "begin": "00:17:21.520",
+    "end": "00:17:26.860"
+  },
+  {
+    "text": "can use that up and it has entropy but",
+    "begin": "00:17:23.980",
+    "end": "00:17:31.090"
+  },
+  {
+    "text": "within that bandwidth we have to work",
+    "begin": "00:17:26.860",
+    "end": "00:17:32.890"
+  },
+  {
+    "text": "and then dips are fundamentally",
+    "begin": "00:17:31.090",
+    "end": "00:17:35.230"
+  },
+  {
+    "text": "unlimited limited only by the compute of",
+    "begin": "00:17:32.890",
+    "end": "00:17:37.090"
+  },
+  {
+    "text": "the energy and matter",
+    "begin": "00:17:35.230",
+    "end": "00:17:39.760"
+  },
+  {
+    "text": "so that can keep you know expanding",
+    "begin": "00:17:37.090",
+    "end": "00:17:41.110"
+  },
+  {
+    "text": "basically indefinitely once I've made a",
+    "begin": "00:17:39.760",
+    "end": "00:17:43.540"
+  },
+  {
+    "text": "bit I can reproduce it exponentially",
+    "begin": "00:17:41.110",
+    "end": "00:17:46.390"
+  },
+  {
+    "text": "without any unit cost because I can",
+    "begin": "00:17:43.540",
+    "end": "00:17:48.190"
+  },
+  {
+    "text": "reproduce it exponentially without unit",
+    "begin": "00:17:46.390",
+    "end": "00:17:50.290"
+  },
+  {
+    "text": "cost once I've developed it once I can",
+    "begin": "00:17:48.190",
+    "end": "00:17:52.600"
+  },
+  {
+    "text": "get exponential returns on software in a",
+    "begin": "00:17:50.290",
+    "end": "00:17:53.950"
+  },
+  {
+    "text": "way that I could never get on atomic",
+    "begin": "00:17:52.600",
+    "end": "00:17:57.100"
+  },
+  {
+    "text": "stuff which is why Elon has a hard time",
+    "begin": "00:17:53.950",
+    "end": "00:17:59.890"
+  },
+  {
+    "text": "raising money for physical stuff and",
+    "begin": "00:17:57.100",
+    "end": "00:18:01.840"
+  },
+  {
+    "text": "what's that sold for 19 billion dollars",
+    "begin": "00:17:59.890",
+    "end": "00:18:04.540"
+  },
+  {
+    "text": "it's why all the unicorns are software",
+    "begin": "00:18:01.840",
+    "end": "00:18:07.360"
+  },
+  {
+    "text": "and mostly social tech or FinTech or",
+    "begin": "00:18:04.540",
+    "end": "00:18:09.160"
+  },
+  {
+    "text": "something that is actually doing not",
+    "begin": "00:18:07.360",
+    "end": "00:18:11.830"
+  },
+  {
+    "text": "good things for the world but it can",
+    "begin": "00:18:09.160",
+    "end": "00:18:15.310"
+  },
+  {
+    "text": "create exponential returns and it's why",
+    "begin": "00:18:11.830",
+    "end": "00:18:17.710"
+  },
+  {
+    "text": "Silicon Valley has been basically mostly",
+    "begin": "00:18:15.310",
+    "end": "00:18:20.140"
+  },
+  {
+    "text": "just invested in software stuff if you",
+    "begin": "00:18:17.710",
+    "end": "00:18:22.060"
+  },
+  {
+    "text": "make those fungible you'll actually be",
+    "begin": "00:18:20.140",
+    "end": "00:18:24.670"
+  },
+  {
+    "text": "moving the energy away from the atom and",
+    "begin": "00:18:22.060",
+    "end": "00:18:27.190"
+  },
+  {
+    "text": "away from the energy into the virtual",
+    "begin": "00:18:24.670",
+    "end": "00:18:28.660"
+  },
+  {
+    "text": "will away from the physical into the",
+    "begin": "00:18:27.190",
+    "end": "00:18:30.880"
+  },
+  {
+    "text": "virtual even the virtual depends on the",
+    "begin": "00:18:28.660",
+    "end": "00:18:32.740"
+  },
+  {
+    "text": "physical so you're actually debasing the",
+    "begin": "00:18:30.880",
+    "end": "00:18:34.960"
+  },
+  {
+    "text": "substrate upon which it depends and so",
+    "begin": "00:18:32.740",
+    "end": "00:18:37.780"
+  },
+  {
+    "text": "you notice that since the bit we can",
+    "begin": "00:18:34.960",
+    "end": "00:18:39.310"
+  },
+  {
+    "text": "keep having more of forever they don't",
+    "begin": "00:18:37.780",
+    "end": "00:18:41.470"
+  },
+  {
+    "text": "go through an entropic degradation when",
+    "begin": "00:18:39.310",
+    "end": "00:18:44.380"
+  },
+  {
+    "text": "we use them the energy we can use it",
+    "begin": "00:18:41.470",
+    "end": "00:18:46.210"
+  },
+  {
+    "text": "entropically degrades but we get more of",
+    "begin": "00:18:44.380",
+    "end": "00:18:47.740"
+  },
+  {
+    "text": "it every day and the atoms don't",
+    "begin": "00:18:46.210",
+    "end": "00:18:50.380"
+  },
+  {
+    "text": "entropically degrade but we have to keep",
+    "begin": "00:18:47.740",
+    "end": "00:18:51.070"
+  },
+  {
+    "text": "cycling them",
+    "begin": "00:18:50.380",
+    "end": "00:18:52.990"
+  },
+  {
+    "text": "there's a fixed number the physics the",
+    "begin": "00:18:51.070",
+    "end": "00:18:54.100"
+  },
+  {
+    "text": "accounting of those are totally",
+    "begin": "00:18:52.990",
+    "end": "00:18:55.990"
+  },
+  {
+    "text": "different that's not one economy that's",
+    "begin": "00:18:54.100",
+    "end": "00:18:57.519"
+  },
+  {
+    "text": "fungible to itself with one accounting",
+    "begin": "00:18:55.990",
+    "end": "00:19:00.490"
+  },
+  {
+    "text": "system that's three completely separate",
+    "begin": "00:18:57.519",
+    "end": "00:19:02.620"
+  },
+  {
+    "text": "but interacting physical economies and",
+    "begin": "00:19:00.490",
+    "end": "00:19:04.570"
+  },
+  {
+    "text": "now again we already said we're not",
+    "begin": "00:19:02.620",
+    "end": "00:19:07.450"
+  },
+  {
+    "text": "owning goods we're having access to",
+    "begin": "00:19:04.570",
+    "end": "00:19:09.519"
+  },
+  {
+    "text": "shared common wealth services but this",
+    "begin": "00:19:07.450",
+    "end": "00:19:11.049"
+  },
+  {
+    "text": "is just first to really go into it it's",
+    "begin": "00:19:09.519",
+    "end": "00:19:12.429"
+  },
+  {
+    "text": "a lot of things but these are examples",
+    "begin": "00:19:11.049",
+    "end": "00:19:14.110"
+  },
+  {
+    "text": "of some of the considerations that have",
+    "begin": "00:19:12.429",
+    "end": "00:19:16.480"
+  },
+  {
+    "text": "to happen to actually be able to think",
+    "begin": "00:19:14.110",
+    "end": "00:19:18.940"
+  },
+  {
+    "text": "about things like economics at a level",
+    "begin": "00:19:16.480",
+    "end": "00:19:20.860"
+  },
+  {
+    "text": "of depth that is appropriate to the",
+    "begin": "00:19:18.940",
+    "end": "00:19:26.320"
+  },
+  {
+    "text": "nature of the issues if we don't answer",
+    "begin": "00:19:20.860",
+    "end": "00:19:28.539"
+  },
+  {
+    "text": "the question of what makes a good",
+    "begin": "00:19:26.320",
+    "end": "00:19:30.519"
+  },
+  {
+    "text": "civilization and we simply say would",
+    "begin": "00:19:28.539",
+    "end": "00:19:32.590"
+  },
+  {
+    "text": "allow civilization to endure and so we",
+    "begin": "00:19:30.519",
+    "end": "00:19:35.019"
+  },
+  {
+    "text": "start with let's just say we don't want",
+    "begin": "00:19:32.590",
+    "end": "00:19:37.440"
+  },
+  {
+    "text": "excess centralized traffic risk and",
+    "begin": "00:19:35.019",
+    "end": "00:19:39.909"
+  },
+  {
+    "text": "there's a whole bunch of different types",
+    "begin": "00:19:37.440",
+    "end": "00:19:41.529"
+  },
+  {
+    "text": "of excess and from catastrophic risks",
+    "begin": "00:19:39.909",
+    "end": "00:19:42.789"
+  },
+  {
+    "text": "that all have the same generator",
+    "begin": "00:19:41.529",
+    "end": "00:19:44.019"
+  },
+  {
+    "text": "functions so we have to create",
+    "begin": "00:19:42.789",
+    "end": "00:19:45.850"
+  },
+  {
+    "text": "categorical solutions to the generator",
+    "begin": "00:19:44.019",
+    "end": "00:19:47.860"
+  },
+  {
+    "text": "functions it turns out that those are",
+    "begin": "00:19:45.850",
+    "end": "00:19:49.419"
+  },
+  {
+    "text": "the generator functions that have made",
+    "begin": "00:19:47.860",
+    "end": "00:19:52.120"
+  },
+  {
+    "text": "all the things that we intuitively have",
+    "begin": "00:19:49.419",
+    "end": "00:19:54.370"
+  },
+  {
+    "text": "experienced that sucking like violence",
+    "begin": "00:19:52.120",
+    "end": "00:19:57.009"
+  },
+  {
+    "text": "and environmental devastation and that",
+    "begin": "00:19:54.370",
+    "end": "00:19:58.779"
+  },
+  {
+    "text": "solving those generator functions",
+    "begin": "00:19:57.009",
+    "end": "00:20:00.639"
+  },
+  {
+    "text": "doesn't just allow us to survive and",
+    "begin": "00:19:58.779",
+    "end": "00:20:03.549"
+  },
+  {
+    "text": "maybe some dystopian dynamic anti rival",
+    "begin": "00:20:00.639",
+    "end": "00:20:05.379"
+  },
+  {
+    "text": "risk dynamics with each other and closed",
+    "begin": "00:20:03.549",
+    "end": "00:20:07.059"
+  },
+  {
+    "text": "loop dynamics and the proper",
+    "begin": "00:20:05.379",
+    "end": "00:20:08.769"
+  },
+  {
+    "text": "relationship between the complicated and",
+    "begin": "00:20:07.059",
+    "end": "00:20:10.659"
+  },
+  {
+    "text": "the complex scalable collective",
+    "begin": "00:20:08.769",
+    "end": "00:20:12.759"
+  },
+  {
+    "text": "intelligence systems and a right",
+    "begin": "00:20:10.659",
+    "end": "00:20:14.529"
+  },
+  {
+    "text": "understanding and theory of choice in",
+    "begin": "00:20:12.759",
+    "end": "00:20:15.940"
+  },
+  {
+    "text": "relationship with theory of causation",
+    "begin": "00:20:14.529",
+    "end": "00:20:19.149"
+  },
+  {
+    "text": "end up being a way of mapping to a world",
+    "begin": "00:20:15.940",
+    "end": "00:20:21.700"
+  },
+  {
+    "text": "that is definitely proto becan any",
+    "begin": "00:20:19.149",
+    "end": "00:20:24.250"
+  },
+  {
+    "text": "meaningful definition of proto P and any",
+    "begin": "00:20:21.700",
+    "end": "00:20:26.620"
+  },
+  {
+    "text": "meaningful kind of consideration of what",
+    "begin": "00:20:24.250",
+    "end": "00:20:29.590"
+  },
+  {
+    "text": "good could mean and so we come back to",
+    "begin": "00:20:26.620",
+    "end": "00:20:31.840"
+  },
+  {
+    "text": "this mythopoetic we can't keep going the",
+    "begin": "00:20:29.590",
+    "end": "00:20:33.700"
+  },
+  {
+    "text": "way that we're going there's a purgatory",
+    "begin": "00:20:31.840",
+    "end": "00:20:35.919"
+  },
+  {
+    "text": "coming and it's gonna go one way or the",
+    "begin": "00:20:33.700",
+    "end": "00:20:38.860"
+  },
+  {
+    "text": "other and one way is really fitting one",
+    "begin": "00:20:35.919",
+    "end": "00:20:40.690"
+  },
+  {
+    "text": "way is really lovely that's the true",
+    "begin": "00:20:38.860",
+    "end": "00:20:43.029"
+  },
+  {
+    "text": "story and Bucky fuller said utopia or",
+    "begin": "00:20:40.690",
+    "end": "00:20:44.889"
+  },
+  {
+    "text": "oblivion and it's gonna be hit or miss",
+    "begin": "00:20:43.029",
+    "end": "00:20:46.539"
+  },
+  {
+    "text": "til we're actually there when I couldn't",
+    "begin": "00:20:44.889",
+    "end": "00:20:49.120"
+  },
+  {
+    "text": "know which which way it goes this the",
+    "begin": "00:20:46.539",
+    "end": "00:20:50.710"
+  },
+  {
+    "text": "thing I would just kind of end on is",
+    "begin": "00:20:49.120",
+    "end": "00:20:53.769"
+  },
+  {
+    "text": "what it takes if we try to solve the",
+    "begin": "00:20:50.710",
+    "end": "00:20:56.110"
+  },
+  {
+    "text": "various risks in isolation is impossible",
+    "begin": "00:20:53.769",
+    "end": "00:20:58.330"
+  },
+  {
+    "text": "we fail if what it takes to solve them",
+    "begin": "00:20:56.110",
+    "end": "00:21:01.809"
+  },
+  {
+    "text": "categorically ends up also mapping to",
+    "begin": "00:20:58.330",
+    "end": "00:21:03.650"
+  },
+  {
+    "text": "how we in",
+    "begin": "00:21:01.809",
+    "end": "00:21:07.580"
+  },
+  {
+    "text": "everyone in creating the true the good",
+    "begin": "00:21:03.650",
+    "end": "00:21:09.289"
+  },
+  {
+    "text": "and the beautiful that is there to",
+    "begin": "00:21:07.580",
+    "end": "00:21:11.090"
+  },
+  {
+    "text": "create progressively better both up",
+    "begin": "00:21:09.289",
+    "end": "00:21:12.620"
+  },
+  {
+    "text": "regulating their sense making of what",
+    "begin": "00:21:11.090",
+    "end": "00:21:14.150"
+  },
+  {
+    "text": "that is with themselves and with each",
+    "begin": "00:21:12.620",
+    "end": "00:21:15.890"
+  },
+  {
+    "text": "other and being able to make that",
+    "begin": "00:21:14.150",
+    "end": "00:21:18.230"
+  },
+  {
+    "text": "scaling the collective intelligence that",
+    "begin": "00:21:15.890",
+    "end": "00:21:19.909"
+  },
+  {
+    "text": "is progressively answering those",
+    "begin": "00:21:18.230",
+    "end": "00:21:22.159"
+  },
+  {
+    "text": "questions better can you leave us with",
+    "begin": "00:21:19.909",
+    "end": "00:21:24.289"
+  },
+  {
+    "text": "some book recommendations for anyone who",
+    "begin": "00:21:22.159",
+    "end": "00:21:26.240"
+  },
+  {
+    "text": "wants to read up on this a little more",
+    "begin": "00:21:24.289",
+    "end": "00:21:28.700"
+  },
+  {
+    "text": "and and expand their understanding books",
+    "begin": "00:21:26.240",
+    "end": "00:21:32.150"
+  },
+  {
+    "text": "are are there resources yes I wish I",
+    "begin": "00:21:28.700",
+    "end": "00:21:35.690"
+  },
+  {
+    "text": "could share more things than I can but a",
+    "begin": "00:21:32.150",
+    "end": "00:21:37.340"
+  },
+  {
+    "text": "lot of what we're thinking in terms of",
+    "begin": "00:21:35.690",
+    "end": "00:21:40.399"
+  },
+  {
+    "text": "new civilization design like this has is",
+    "begin": "00:21:37.340",
+    "end": "00:21:42.020"
+  },
+  {
+    "text": "new doesn't mean it's not drawing on",
+    "begin": "00:21:40.399",
+    "end": "00:21:43.970"
+  },
+  {
+    "text": "lots of elements so a couple things we",
+    "begin": "00:21:42.020",
+    "end": "00:21:45.770"
+  },
+  {
+    "text": "mentioned Jeffery West's work scale on",
+    "begin": "00:21:43.970",
+    "end": "00:21:47.600"
+  },
+  {
+    "text": "collective intelligence that's very",
+    "begin": "00:21:45.770",
+    "end": "00:21:50.029"
+  },
+  {
+    "text": "valuable we talk about some of the",
+    "begin": "00:21:47.600",
+    "end": "00:21:51.649"
+  },
+  {
+    "text": "dynamics of game theory that have to",
+    "begin": "00:21:50.029",
+    "end": "00:21:53.419"
+  },
+  {
+    "text": "shift and so finite and infinite games",
+    "begin": "00:21:51.649",
+    "end": "00:21:55.309"
+  },
+  {
+    "text": "is just my favorite starting point and",
+    "begin": "00:21:53.419",
+    "end": "00:21:57.860"
+  },
+  {
+    "text": "it's one of the types of books that is",
+    "begin": "00:21:55.309",
+    "end": "00:21:59.960"
+  },
+  {
+    "text": "very simple but has multiple levels of",
+    "begin": "00:21:57.860",
+    "end": "00:22:01.220"
+  },
+  {
+    "text": "depth of meaning that if you read it",
+    "begin": "00:21:59.960",
+    "end": "00:22:02.630"
+  },
+  {
+    "text": "multiple times you'll be in new insights",
+    "begin": "00:22:01.220",
+    "end": "00:22:04.520"
+  },
+  {
+    "text": "yeah that wouldn't blew my mind",
+    "begin": "00:22:02.630",
+    "end": "00:22:08.210"
+  },
+  {
+    "text": "yep me too James cars very beautiful and",
+    "begin": "00:22:04.520",
+    "end": "00:22:10.250"
+  },
+  {
+    "text": "you know I have a blog civilization",
+    "begin": "00:22:08.210",
+    "end": "00:22:12.409"
+  },
+  {
+    "text": "emerging calm that has some articles and",
+    "begin": "00:22:10.250",
+    "end": "00:22:14.390"
+  },
+  {
+    "text": "these types of topics and there's also a",
+    "begin": "00:22:12.409",
+    "end": "00:22:16.390"
+  },
+  {
+    "text": "book list there with a heap of books",
+    "begin": "00:22:14.390",
+    "end": "00:22:21.110"
+  },
+  {
+    "text": "great great awesome this as always is",
+    "begin": "00:22:16.390",
+    "end": "00:22:24.620"
+  },
+  {
+    "text": "enlightening and and so fun you know",
+    "begin": "00:22:21.110",
+    "end": "00:22:25.970"
+  },
+  {
+    "text": "there are books that are valuable and",
+    "begin": "00:22:24.620",
+    "end": "00:22:27.649"
+  },
+  {
+    "text": "there's obviously like all of your",
+    "begin": "00:22:25.970",
+    "end": "00:22:30.470"
+  },
+  {
+    "text": "podcasts are valuable if you had the",
+    "begin": "00:22:27.649",
+    "end": "00:22:32.090"
+  },
+  {
+    "text": "experience of anything that I said",
+    "begin": "00:22:30.470",
+    "end": "00:22:33.860"
+  },
+  {
+    "text": "making sense and actually seeming",
+    "begin": "00:22:32.090",
+    "end": "00:22:35.570"
+  },
+  {
+    "text": "obvious but then you also realize you",
+    "begin": "00:22:33.860",
+    "end": "00:22:37.220"
+  },
+  {
+    "text": "never thought it in that particular way",
+    "begin": "00:22:35.570",
+    "end": "00:22:38.720"
+  },
+  {
+    "text": "and there's a question why did I never",
+    "begin": "00:22:37.220",
+    "end": "00:22:40.220"
+  },
+  {
+    "text": "think it in that way even though it",
+    "begin": "00:22:38.720",
+    "end": "00:22:43.190"
+  },
+  {
+    "text": "seems obvious after the fact and that's",
+    "begin": "00:22:40.220",
+    "end": "00:22:45.470"
+  },
+  {
+    "text": "one of the principles that clarity when",
+    "begin": "00:22:43.190",
+    "end": "00:22:47.960"
+  },
+  {
+    "text": "the properties that clarity has is it",
+    "begin": "00:22:45.470",
+    "end": "00:22:50.149"
+  },
+  {
+    "text": "can add a novel insight but it seems",
+    "begin": "00:22:47.960",
+    "end": "00:22:52.399"
+  },
+  {
+    "text": "obvious and kind of prima facie relates",
+    "begin": "00:22:50.149",
+    "end": "00:22:54.049"
+  },
+  {
+    "text": "to everything that you know let me say",
+    "begin": "00:22:52.399",
+    "end": "00:22:56.270"
+  },
+  {
+    "text": "okay I wasn't thinking about rival risk",
+    "begin": "00:22:54.049",
+    "end": "00:22:59.480"
+  },
+  {
+    "text": "dynamics and upping the ante clearly",
+    "begin": "00:22:56.270",
+    "end": "00:23:01.520"
+  },
+  {
+    "text": "enough I wasn't thinking about the",
+    "begin": "00:22:59.480",
+    "end": "00:23:03.700"
+  },
+  {
+    "text": "exponential economy in software and",
+    "begin": "00:23:01.520",
+    "end": "00:23:06.049"
+  },
+  {
+    "text": "atoms all being fungible like there's a",
+    "begin": "00:23:03.700",
+    "end": "00:23:07.429"
+  },
+  {
+    "text": "problem there I wasn't thinking about",
+    "begin": "00:23:06.049",
+    "end": "00:23:09.110"
+  },
+  {
+    "text": "open loops closed loops in this",
+    "begin": "00:23:07.429",
+    "end": "00:23:11.840"
+  },
+  {
+    "text": "particular way but you can if you start",
+    "begin": "00:23:09.110",
+    "end": "00:23:14.059"
+  },
+  {
+    "text": "just asking for yourself what do I think",
+    "begin": "00:23:11.840",
+    "end": "00:23:16.930"
+  },
+  {
+    "text": "is actually wrong and",
+    "begin": "00:23:14.059",
+    "end": "00:23:18.700"
+  },
+  {
+    "text": "of all the things that seem wrong what",
+    "begin": "00:23:16.930",
+    "end": "00:23:21.880"
+  },
+  {
+    "text": "do they have in common and why are those",
+    "begin": "00:23:18.700",
+    "end": "00:23:23.680"
+  },
+  {
+    "text": "things that are wrong wrong what is",
+    "begin": "00:23:21.880",
+    "end": "00:23:26.320"
+  },
+  {
+    "text": "going on and then go deeper keep going",
+    "begin": "00:23:23.680",
+    "end": "00:23:28.090"
+  },
+  {
+    "text": "deeper with that and don't look for one",
+    "begin": "00:23:26.320",
+    "end": "00:23:29.320"
+  },
+  {
+    "text": "answer are there a number of different",
+    "begin": "00:23:28.090",
+    "end": "00:23:31.390"
+  },
+  {
+    "text": "things that come together that are",
+    "begin": "00:23:29.320",
+    "end": "00:23:33.490"
+  },
+  {
+    "text": "partial answers to this and what would",
+    "begin": "00:23:31.390",
+    "end": "00:23:36.610"
+  },
+  {
+    "text": "solving that look like and there are",
+    "begin": "00:23:33.490",
+    "end": "00:23:38.230"
+  },
+  {
+    "text": "resources of other people's thinking on",
+    "begin": "00:23:36.610",
+    "end": "00:23:39.970"
+  },
+  {
+    "text": "these things but they won't replace they",
+    "begin": "00:23:38.230",
+    "end": "00:23:42.160"
+  },
+  {
+    "text": "will inspire they won't replace your own",
+    "begin": "00:23:39.970",
+    "end": "00:23:43.780"
+  },
+  {
+    "text": "deep thinking on these things for your",
+    "begin": "00:23:42.160",
+    "end": "00:23:45.940"
+  },
+  {
+    "text": "own sense making and so the resource",
+    "begin": "00:23:43.780",
+    "end": "00:23:49.210"
+  },
+  {
+    "text": "that I would offer the most is when you",
+    "begin": "00:23:45.940",
+    "end": "00:23:51.550"
+  },
+  {
+    "text": "are bothered by something where you wish",
+    "begin": "00:23:49.210",
+    "end": "00:23:54.070"
+  },
+  {
+    "text": "some beautiful thing existed more than",
+    "begin": "00:23:51.550",
+    "end": "00:23:55.900"
+  },
+  {
+    "text": "it does really think hard about why",
+    "begin": "00:23:54.070",
+    "end": "00:23:58.330"
+  },
+  {
+    "text": "things are the way they are and know",
+    "begin": "00:23:55.900",
+    "end": "00:23:59.920"
+  },
+  {
+    "text": "that the first thought you will come up",
+    "begin": "00:23:58.330",
+    "end": "00:24:02.200"
+  },
+  {
+    "text": "with are not that good but if you stop",
+    "begin": "00:23:59.920",
+    "end": "00:24:04.360"
+  },
+  {
+    "text": "you won't get beyond there but if you",
+    "begin": "00:24:02.200",
+    "end": "00:24:05.710"
+  },
+  {
+    "text": "really keep working on and thinking",
+    "begin": "00:24:04.360",
+    "end": "00:24:07.540"
+  },
+  {
+    "text": "about it and then going and researching",
+    "begin": "00:24:05.710",
+    "end": "00:24:09.760"
+  },
+  {
+    "text": "in light of that question and then",
+    "begin": "00:24:07.540",
+    "end": "00:24:11.020"
+  },
+  {
+    "text": "thinking about it more you actually",
+    "begin": "00:24:09.760",
+    "end": "00:24:13.390"
+  },
+  {
+    "text": "start to get novel and meaningful and",
+    "begin": "00:24:11.020",
+    "end": "00:24:15.730"
+  },
+  {
+    "text": "deeper sense making that is aligned with",
+    "begin": "00:24:13.390",
+    "end": "00:24:17.590"
+  },
+  {
+    "text": "what is yours to pay attention to a",
+    "begin": "00:24:15.730",
+    "end": "00:24:20.140"
+  },
+  {
+    "text": "marker to relate to what you said",
+    "begin": "00:24:17.590",
+    "end": "00:24:23.380"
+  },
+  {
+    "text": "earlier I think it really helps to use",
+    "begin": "00:24:20.140",
+    "end": "00:24:26.290"
+  },
+  {
+    "text": "different modes of inquiry people can",
+    "begin": "00:24:23.380",
+    "end": "00:24:28.390"
+  },
+  {
+    "text": "get stuck in just intellectual enquiry",
+    "begin": "00:24:26.290",
+    "end": "00:24:32.080"
+  },
+  {
+    "text": "or just spiritual inquiry but you know",
+    "begin": "00:24:28.390",
+    "end": "00:24:34.600"
+  },
+  {
+    "text": "all are valuable and when we can see the",
+    "begin": "00:24:32.080",
+    "end": "00:24:36.340"
+  },
+  {
+    "text": "same thing from several different",
+    "begin": "00:24:34.600",
+    "end": "00:24:38.530"
+  },
+  {
+    "text": "perspectives it becomes a 3d object",
+    "begin": "00:24:36.340",
+    "end": "00:24:41.260"
+  },
+  {
+    "text": "rather than just being flat you just",
+    "begin": "00:24:38.530",
+    "end": "00:24:43.600"
+  },
+  {
+    "text": "actually mentioned one of my favorite",
+    "begin": "00:24:41.260",
+    "end": "00:24:46.840"
+  },
+  {
+    "text": "practices is really endeavoring to see",
+    "begin": "00:24:43.600",
+    "end": "00:24:48.490"
+  },
+  {
+    "text": "and experience the world through the",
+    "begin": "00:24:46.840",
+    "end": "00:24:51.720"
+  },
+  {
+    "text": "perspective of someone else and actually",
+    "begin": "00:24:48.490",
+    "end": "00:24:54.160"
+  },
+  {
+    "text": "see and experience it and if I'm still",
+    "begin": "00:24:51.720",
+    "end": "00:24:56.290"
+  },
+  {
+    "text": "thinking no if I was in their position I",
+    "begin": "00:24:54.160",
+    "end": "00:24:57.820"
+  },
+  {
+    "text": "wouldn't do that I haven't got it yet so",
+    "begin": "00:24:56.290",
+    "end": "00:24:59.710"
+  },
+  {
+    "text": "I was in that position would be if I'm",
+    "begin": "00:24:57.820",
+    "end": "00:25:01.270"
+  },
+  {
+    "text": "really putting myself in a position I",
+    "begin": "00:24:59.710",
+    "end": "00:25:02.740"
+  },
+  {
+    "text": "would get enraged by the things they're",
+    "begin": "00:25:01.270",
+    "end": "00:25:04.420"
+  },
+  {
+    "text": "enraged by I would get excited by the",
+    "begin": "00:25:02.740",
+    "end": "00:25:06.490"
+  },
+  {
+    "text": "things are excited by and so this both",
+    "begin": "00:25:04.420",
+    "end": "00:25:09.580"
+  },
+  {
+    "text": "has a practice of empathy in connection",
+    "begin": "00:25:06.490",
+    "end": "00:25:11.980"
+  },
+  {
+    "text": "as a practice of understanding as a",
+    "begin": "00:25:09.580",
+    "end": "00:25:13.750"
+  },
+  {
+    "text": "practice of intelligence and learning",
+    "begin": "00:25:11.980",
+    "end": "00:25:15.610"
+  },
+  {
+    "text": "because I see different things if I look",
+    "begin": "00:25:13.750",
+    "end": "00:25:17.170"
+  },
+  {
+    "text": "at the world through the lens of a",
+    "begin": "00:25:15.610",
+    "end": "00:25:18.730"
+  },
+  {
+    "text": "mechanical engineer I see",
+    "begin": "00:25:17.170",
+    "end": "00:25:20.380"
+  },
+  {
+    "text": "everywhere that mechanical engineer see",
+    "begin": "00:25:18.730",
+    "end": "00:25:22.450"
+  },
+  {
+    "text": "that you never saw which is different",
+    "begin": "00:25:20.380",
+    "end": "00:25:23.530"
+  },
+  {
+    "text": "than if you look through the lens of a",
+    "begin": "00:25:22.450",
+    "end": "00:25:25.390"
+  },
+  {
+    "text": "fashion designer where you look through",
+    "begin": "00:25:23.530",
+    "end": "00:25:27.340"
+  },
+  {
+    "text": "the lens of you know a game theory",
+    "begin": "00:25:25.390",
+    "end": "00:25:28.540"
+  },
+  {
+    "text": "person they're looking at different",
+    "begin": "00:25:27.340",
+    "end": "00:25:30.490"
+  },
+  {
+    "text": "things or an evolutionary biologist well",
+    "begin": "00:25:28.540",
+    "end": "00:25:30.800"
+  },
+  {
+    "text": "is",
+    "begin": "00:25:30.490",
+    "end": "00:25:31.700"
+  },
+  {
+    "text": "the universe that wasn't paying",
+    "begin": "00:25:30.800",
+    "end": "00:25:33.230"
+  },
+  {
+    "text": "attention to like when you buy the car",
+    "begin": "00:25:31.700",
+    "end": "00:25:35.030"
+  },
+  {
+    "text": "and you see it everywhere you put on the",
+    "begin": "00:25:33.230",
+    "end": "00:25:36.620"
+  },
+  {
+    "text": "lens you start seeing all kinds of stuff",
+    "begin": "00:25:35.030",
+    "end": "00:25:38.750"
+  },
+  {
+    "text": "your factory sends me but also as a kind",
+    "begin": "00:25:36.620",
+    "end": "00:25:40.910"
+  },
+  {
+    "text": "of spiritual technology of getting out",
+    "begin": "00:25:38.750",
+    "end": "00:25:42.980"
+  },
+  {
+    "text": "of the default mode of what you think",
+    "begin": "00:25:40.910",
+    "end": "00:25:45.470"
+  },
+  {
+    "text": "you are and when I'm trying to be",
+    "begin": "00:25:42.980",
+    "end": "00:25:47.330"
+  },
+  {
+    "text": "someone else it's not my personality",
+    "begin": "00:25:45.470",
+    "end": "00:25:49.010"
+  },
+  {
+    "text": "that can do that if I'm trying to take",
+    "begin": "00:25:47.330",
+    "end": "00:25:50.390"
+  },
+  {
+    "text": "their personality well it's not my",
+    "begin": "00:25:49.010",
+    "end": "00:25:52.250"
+  },
+  {
+    "text": "perspective that can do it it is same",
+    "begin": "00:25:50.390",
+    "end": "00:25:53.900"
+  },
+  {
+    "text": "consciousness of witnessing my",
+    "begin": "00:25:52.250",
+    "end": "00:25:55.280"
+  },
+  {
+    "text": "perspective that can then make me",
+    "begin": "00:25:53.900",
+    "end": "00:25:57.140"
+  },
+  {
+    "text": "somebody else's as soon as I do that I",
+    "begin": "00:25:55.280",
+    "end": "00:26:00.140"
+  },
+  {
+    "text": "actually dissociate from just being my",
+    "begin": "00:25:57.140",
+    "end": "00:26:01.940"
+  },
+  {
+    "text": "personality and then I get some more",
+    "begin": "00:26:00.140",
+    "end": "00:26:03.500"
+  },
+  {
+    "text": "spaciousness around it and less reactive",
+    "begin": "00:26:01.940",
+    "end": "00:26:06.830"
+  },
+  {
+    "text": "by it and this also relates to not just",
+    "begin": "00:26:03.500",
+    "end": "00:26:08.300"
+  },
+  {
+    "text": "looking through the lens of different",
+    "begin": "00:26:06.830",
+    "end": "00:26:10.340"
+  },
+  {
+    "text": "personalities or different modern",
+    "begin": "00:26:08.300",
+    "end": "00:26:12.980"
+  },
+  {
+    "text": "frameworks it's also looking through the",
+    "begin": "00:26:10.340",
+    "end": "00:26:15.410"
+  },
+  {
+    "text": "lens of pre-modern frameworks or even",
+    "begin": "00:26:12.980",
+    "end": "00:26:17.240"
+  },
+  {
+    "text": "animal frameworks and that can all be",
+    "begin": "00:26:15.410",
+    "end": "00:26:19.670"
+  },
+  {
+    "text": "very useful as well because if we look",
+    "begin": "00:26:17.240",
+    "end": "00:26:20.990"
+  },
+  {
+    "text": "at the world through the lens of",
+    "begin": "00:26:19.670",
+    "end": "00:26:23.500"
+  },
+  {
+    "text": "quote-unquote primitive tribe then",
+    "begin": "00:26:20.990",
+    "end": "00:26:25.880"
+  },
+  {
+    "text": "different things come into focus and",
+    "begin": "00:26:23.500",
+    "end": "00:26:27.470"
+  },
+  {
+    "text": "different things become very meaningful",
+    "begin": "00:26:25.880",
+    "end": "00:26:29.570"
+  },
+  {
+    "text": "and very powerfully meaningful like it",
+    "begin": "00:26:27.470",
+    "end": "00:26:31.520"
+  },
+  {
+    "text": "resonates through your whole being just",
+    "begin": "00:26:29.570",
+    "end": "00:26:35.420"
+  },
+  {
+    "text": "you know Wow and that's not to be",
+    "begin": "00:26:31.520",
+    "end": "00:26:36.710"
+  },
+  {
+    "text": "dismissed because there's something",
+    "begin": "00:26:35.420",
+    "end": "00:26:38.810"
+  },
+  {
+    "text": "there I mean at the very minimum for",
+    "begin": "00:26:36.710",
+    "end": "00:26:40.820"
+  },
+  {
+    "text": "self-discovery it's super useful because",
+    "begin": "00:26:38.810",
+    "end": "00:26:42.830"
+  },
+  {
+    "text": "you know we spent more time as those",
+    "begin": "00:26:40.820",
+    "end": "00:26:44.630"
+  },
+  {
+    "text": "primitive versions of ourselves and we",
+    "begin": "00:26:42.830",
+    "end": "00:26:46.640"
+  },
+  {
+    "text": "have the modern versions and you can",
+    "begin": "00:26:44.630",
+    "end": "00:26:48.650"
+  },
+  {
+    "text": "kind of untie a lot of behaviors that",
+    "begin": "00:26:46.640",
+    "end": "00:26:50.960"
+  },
+  {
+    "text": "you don't really realize you have based",
+    "begin": "00:26:48.650",
+    "end": "00:26:52.460"
+  },
+  {
+    "text": "off of just looking at the world from a",
+    "begin": "00:26:50.960",
+    "end": "00:26:56.870"
+  },
+  {
+    "text": "primitive standpoint well your air has",
+    "begin": "00:26:52.460",
+    "end": "00:26:59.120"
+  },
+  {
+    "text": "some people decide to go visit the",
+    "begin": "00:26:56.870",
+    "end": "00:27:00.560"
+  },
+  {
+    "text": "Amazon and live with the tribe and",
+    "begin": "00:26:59.120",
+    "end": "00:27:02.900"
+  },
+  {
+    "text": "experience the world through those eyes",
+    "begin": "00:27:00.560",
+    "end": "00:27:06.050"
+  },
+  {
+    "text": "and be affected by it and then look at",
+    "begin": "00:27:02.900",
+    "end": "00:27:08.540"
+  },
+  {
+    "text": "how they can incorporate elements of",
+    "begin": "00:27:06.050",
+    "end": "00:27:10.400"
+  },
+  {
+    "text": "that experience of the world and their",
+    "begin": "00:27:08.540",
+    "end": "00:27:12.200"
+  },
+  {
+    "text": "previous experience of the world to",
+    "begin": "00:27:10.400",
+    "end": "00:27:14.630"
+  },
+  {
+    "text": "being able to live more fully they'll be",
+    "begin": "00:27:12.200",
+    "end": "00:27:15.580"
+  },
+  {
+    "text": "beautiful",
+    "begin": "00:27:14.630",
+    "end": "00:27:18.110"
+  },
+  {
+    "text": "I really appreciated being here with you",
+    "begin": "00:27:15.580",
+    "end": "00:27:20.840"
+  },
+  {
+    "text": "both and I think I really do want to say",
+    "begin": "00:27:18.110",
+    "end": "00:27:24.500"
+  },
+  {
+    "text": "that I love war podcast and I level",
+    "begin": "00:27:20.840",
+    "end": "00:27:27.350"
+  },
+  {
+    "text": "you're creating both of you together",
+    "begin": "00:27:24.500",
+    "end": "00:27:31.430"
+  },
+  {
+    "text": "it's very easy to have well informed",
+    "begin": "00:27:27.350",
+    "end": "00:27:35.270"
+  },
+  {
+    "text": "dystopian beauty and it's easy to not",
+    "begin": "00:27:31.430",
+    "end": "00:27:37.700"
+  },
+  {
+    "text": "think about things or it's easy to have",
+    "begin": "00:27:35.270",
+    "end": "00:27:41.030"
+  },
+  {
+    "text": "poorly informed positive views but to",
+    "begin": "00:27:37.700",
+    "end": "00:27:42.830"
+  },
+  {
+    "text": "have well-informed positive views is",
+    "begin": "00:27:41.030",
+    "end": "00:27:44.650"
+  },
+  {
+    "text": "actually tricky because",
+    "begin": "00:27:42.830",
+    "end": "00:27:47.559"
+  },
+  {
+    "text": "if we keep being anything like the kinds",
+    "begin": "00:27:44.650",
+    "end": "00:27:49.870"
+  },
+  {
+    "text": "of people that we have always been that",
+    "begin": "00:27:47.559",
+    "end": "00:27:51.490"
+  },
+  {
+    "text": "do really wonderful and really atrocious",
+    "begin": "00:27:49.870",
+    "end": "00:27:53.230"
+  },
+  {
+    "text": " with our power but having",
+    "begin": "00:27:51.490",
+    "end": "00:27:55.180"
+  },
+  {
+    "text": "exponentially more power they're all",
+    "begin": "00:27:53.230",
+    "end": "00:27:57.610"
+  },
+  {
+    "text": "dystopian scenarios and so we have to be",
+    "begin": "00:27:55.180",
+    "end": "00:27:58.809"
+  },
+  {
+    "text": "something really different than we've",
+    "begin": "00:27:57.610",
+    "end": "00:28:00.580"
+  },
+  {
+    "text": "ever been which requires some type of",
+    "begin": "00:27:58.809",
+    "end": "00:28:02.140"
+  },
+  {
+    "text": "deep shifts that could make that happen",
+    "begin": "00:28:00.580",
+    "end": "00:28:04.240"
+  },
+  {
+    "text": "that requires some deep thinking right",
+    "begin": "00:28:02.140",
+    "end": "00:28:06.640"
+  },
+  {
+    "text": "in some deep imagination and I know",
+    "begin": "00:28:04.240",
+    "end": "00:28:08.590"
+  },
+  {
+    "text": "that's what you are really dedicated to",
+    "begin": "00:28:06.640",
+    "end": "00:28:11.170"
+  },
+  {
+    "text": "doing here on the show and minded of",
+    "begin": "00:28:08.590",
+    "end": "00:28:14.290"
+  },
+  {
+    "text": "this quote from the book of Romans it",
+    "begin": "00:28:11.170",
+    "end": "00:28:17.890"
+  },
+  {
+    "text": "says the pathway to heaven is narrow and",
+    "begin": "00:28:14.290",
+    "end": "00:28:19.720"
+  },
+  {
+    "text": "steep and the pathway to hell is wide",
+    "begin": "00:28:17.890",
+    "end": "00:28:21.520"
+  },
+  {
+    "text": "and many and it's kind of just like a",
+    "begin": "00:28:19.720",
+    "end": "00:28:23.710"
+  },
+  {
+    "text": "way of thinking about thermodynamics",
+    "begin": "00:28:21.520",
+    "end": "00:28:25.450"
+  },
+  {
+    "text": "which is that there's just more ways to",
+    "begin": "00:28:23.710",
+    "end": "00:28:26.980"
+  },
+  {
+    "text": "break shape than to build it there's",
+    "begin": "00:28:25.450",
+    "end": "00:28:29.470"
+  },
+  {
+    "text": "like not that many ways this all the",
+    "begin": "00:28:26.980",
+    "end": "00:28:30.910"
+  },
+  {
+    "text": "cells and your body can come together",
+    "begin": "00:28:29.470",
+    "end": "00:28:32.679"
+  },
+  {
+    "text": "that make you with the emergent property",
+    "begin": "00:28:30.910",
+    "end": "00:28:34.120"
+  },
+  {
+    "text": "of you there's a lot of ways that you",
+    "begin": "00:28:32.679",
+    "end": "00:28:38.050"
+  },
+  {
+    "text": "just get like 150 pounds of goo and so",
+    "begin": "00:28:34.120",
+    "end": "00:28:40.030"
+  },
+  {
+    "text": "who is they like okay we got a lot of",
+    "begin": "00:28:38.050",
+    "end": "00:28:42.070"
+  },
+  {
+    "text": "power and most of those scenarios with a",
+    "begin": "00:28:40.030",
+    "end": "00:28:44.380"
+  },
+  {
+    "text": "lot of power suck how could we have this",
+    "begin": "00:28:42.070",
+    "end": "00:28:46.030"
+  },
+  {
+    "text": "much power that doesn't suck how could",
+    "begin": "00:28:44.380",
+    "end": "00:28:47.230"
+  },
+  {
+    "text": "we have this much power not use it",
+    "begin": "00:28:46.030",
+    "end": "00:28:49.120"
+  },
+  {
+    "text": "against each other and we start seeing",
+    "begin": "00:28:47.230",
+    "end": "00:28:51.670"
+  },
+  {
+    "text": "Orwell in control systems and we start",
+    "begin": "00:28:49.120",
+    "end": "00:28:54.190"
+  },
+  {
+    "text": "seeing how that sucks too and to keep",
+    "begin": "00:28:51.670",
+    "end": "00:28:55.990"
+  },
+  {
+    "text": "thinking through how could we have it",
+    "begin": "00:28:54.190",
+    "end": "00:28:59.260"
+  },
+  {
+    "text": "that doesn't suck oh and I can't depend",
+    "begin": "00:28:55.990",
+    "end": "00:29:01.690"
+  },
+  {
+    "text": "on aliens or Jesus with coming back like",
+    "begin": "00:28:59.260",
+    "end": "00:29:04.090"
+  },
+  {
+    "text": "how do we get us to be that kind of",
+    "begin": "00:29:01.690",
+    "end": "00:29:05.890"
+  },
+  {
+    "text": "consciousness it's a really good way of",
+    "begin": "00:29:04.090",
+    "end": "00:29:07.540"
+  },
+  {
+    "text": "thinking about how to actually address",
+    "begin": "00:29:05.890",
+    "end": "00:29:09.070"
+  },
+  {
+    "text": "these problems because if we can't no",
+    "begin": "00:29:07.540",
+    "end": "00:29:10.690"
+  },
+  {
+    "text": "Voltaire's without vision man perishes",
+    "begin": "00:29:09.070",
+    "end": "00:29:14.460"
+  },
+  {
+    "text": "if we can't even see a well grounded",
+    "begin": "00:29:10.690",
+    "end": "00:29:16.690"
+  },
+  {
+    "text": "positive future and positive use of the",
+    "begin": "00:29:14.460",
+    "end": "00:29:18.400"
+  },
+  {
+    "text": "technological capacity you have we are",
+    "begin": "00:29:16.690",
+    "end": "00:29:19.300"
+  },
+  {
+    "text": "not gonna make it",
+    "begin": "00:29:18.400",
+    "end": "00:29:22.780"
+  },
+  {
+    "text": "and so I love that you all have this",
+    "begin": "00:29:19.300",
+    "end": "00:29:26.580"
+  },
+  {
+    "text": "space dedicated to exploring I think",
+    "begin": "00:29:22.780",
+    "end": "00:29:30.190"
+  },
+  {
+    "text": "incentive is always evil to Mitch so I",
+    "begin": "00:29:26.580",
+    "end": "00:29:31.720"
+  },
+  {
+    "text": "don't want to move from perverse",
+    "begin": "00:29:30.190",
+    "end": "00:29:34.090"
+  },
+  {
+    "text": "incentive to positive incentive positive",
+    "begin": "00:29:31.720",
+    "end": "00:29:37.030"
+  },
+  {
+    "text": "incentive means my sense making has",
+    "begin": "00:29:34.090",
+    "end": "00:29:39.190"
+  },
+  {
+    "text": "determined what I think is good and I'm",
+    "begin": "00:29:37.030",
+    "end": "00:29:41.559"
+  },
+  {
+    "text": "going to try and extrinsic ly override",
+    "begin": "00:29:39.190",
+    "end": "00:29:43.420"
+  },
+  {
+    "text": "your sense making to make a choice",
+    "begin": "00:29:41.559",
+    "end": "00:29:45.100"
+  },
+  {
+    "text": "aligned with my sense making I'm gonna",
+    "begin": "00:29:43.420",
+    "end": "00:29:48.460"
+  },
+  {
+    "text": "use a extrinsic reward strategy to",
+    "begin": "00:29:45.100",
+    "end": "00:29:50.590"
+  },
+  {
+    "text": "co-opt your sovereignty and have your",
+    "begin": "00:29:48.460",
+    "end": "00:29:52.540"
+  },
+  {
+    "text": "choice making be based on my sense",
+    "begin": "00:29:50.590",
+    "end": "00:29:54.900"
+  },
+  {
+    "text": "making incentive scheme are the neurons",
+    "begin": "00:29:52.540",
+    "end": "00:29:58.800"
+  },
+  {
+    "text": "and that is always the basis of evil if",
+    "begin": "00:29:54.900",
+    "end": "00:30:00.660"
+  },
+  {
+    "text": "I once have a collective intelligence",
+    "begin": "00:29:58.800",
+    "end": "00:30:03.059"
+  },
+  {
+    "text": "that's actually intelligent I need",
+    "begin": "00:30:00.660",
+    "end": "00:30:06.600"
+  },
+  {
+    "text": "everyone to have intrinsic sense making",
+    "begin": "00:30:03.059",
+    "end": "00:30:09.900"
+  },
+  {
+    "text": "and choice making that is uncorruptible",
+    "begin": "00:30:06.600",
+    "end": "00:30:12.510"
+  },
+  {
+    "text": "which means it's not being co-opted by",
+    "begin": "00:30:09.900",
+    "end": "00:30:14.820"
+  },
+  {
+    "text": "extrinsic reward and Punishment schemas",
+    "begin": "00:30:12.510",
+    "end": "00:30:17.790"
+  },
+  {
+    "text": "I got this wrong at first I used to say",
+    "begin": "00:30:14.820",
+    "end": "00:30:20.370"
+  },
+  {
+    "text": "we have to create a world where the",
+    "begin": "00:30:17.790",
+    "end": "00:30:22.920"
+  },
+  {
+    "text": "incentive of every agent is rigorously",
+    "begin": "00:30:20.370",
+    "end": "00:30:24.360"
+  },
+  {
+    "text": "aligned with the well-being of every",
+    "begin": "00:30:22.920",
+    "end": "00:30:26.160"
+  },
+  {
+    "text": "other agent and of the Commons that is",
+    "begin": "00:30:24.360",
+    "end": "00:30:29.460"
+  },
+  {
+    "text": "wrong what is right is to say that we",
+    "begin": "00:30:26.160",
+    "end": "00:30:33.120"
+  },
+  {
+    "text": "must rigorously remove any place where",
+    "begin": "00:30:29.460",
+    "end": "00:30:35.429"
+  },
+  {
+    "text": "the incentive of an agent is misaligned",
+    "begin": "00:30:33.120",
+    "end": "00:30:38.190"
+  },
+  {
+    "text": "with the well-being of other agents in",
+    "begin": "00:30:35.429",
+    "end": "00:30:41.490"
+  },
+  {
+    "text": "the Commons but a adequate future is one",
+    "begin": "00:30:38.190",
+    "end": "00:30:44.429"
+  },
+  {
+    "text": "that has no system of structural",
+    "begin": "00:30:41.490",
+    "end": "00:30:48.510"
+  },
+  {
+    "text": "incentive that's a mind-blower the cells",
+    "begin": "00:30:44.429",
+    "end": "00:30:52.200"
+  },
+  {
+    "text": "in your body are actually not trying to",
+    "begin": "00:30:48.510",
+    "end": "00:30:53.790"
+  },
+  {
+    "text": "get the other ones to do what they want",
+    "begin": "00:30:52.200",
+    "end": "00:30:56.160"
+  },
+  {
+    "text": "them to do they have their own internal",
+    "begin": "00:30:53.790",
+    "end": "00:30:57.660"
+  },
+  {
+    "text": "sense making processes and they do what",
+    "begin": "00:30:56.160",
+    "end": "00:30:59.220"
+  },
+  {
+    "text": "makes sense to them and what makes sense",
+    "begin": "00:30:57.660",
+    "end": "00:31:00.510"
+  },
+  {
+    "text": "them also happens to be what's good for",
+    "begin": "00:30:59.220",
+    "end": "00:31:01.590"
+  },
+  {
+    "text": "the ones around them because they depend",
+    "begin": "00:31:00.510",
+    "end": "00:31:02.940"
+  },
+  {
+    "text": "on the ones around them and vice versa",
+    "begin": "00:31:01.590",
+    "end": "00:31:04.290"
+  },
+  {
+    "text": "and they're in a communication process",
+    "begin": "00:31:02.940",
+    "end": "00:31:06.750"
+  },
+  {
+    "text": "but the brain is not overriding the",
+    "begin": "00:31:04.290",
+    "end": "00:31:09.150"
+  },
+  {
+    "text": "salesmen and in no way could handle the",
+    "begin": "00:31:06.750",
+    "end": "00:31:11.160"
+  },
+  {
+    "text": "complexity necessary of the cells not",
+    "begin": "00:31:09.150",
+    "end": "00:31:13.340"
+  },
+  {
+    "text": "doing their own sense making and so",
+    "begin": "00:31:11.160",
+    "end": "00:31:16.530"
+  },
+  {
+    "text": "better incentive schemas as a transition",
+    "begin": "00:31:13.340",
+    "end": "00:31:17.940"
+  },
+  {
+    "text": "which is happening in the blockchain is",
+    "begin": "00:31:16.530",
+    "end": "00:31:18.570"
+  },
+  {
+    "text": "nice",
+    "begin": "00:31:17.940",
+    "end": "00:31:21.120"
+  },
+  {
+    "text": "it's worse than more births incentives",
+    "begin": "00:31:18.570",
+    "end": "00:31:22.800"
+  },
+  {
+    "text": "but it is transitional not post",
+    "begin": "00:31:21.120",
+    "end": "00:31:24.030"
+  },
+  {
+    "text": "transitional it actually does not",
+    "begin": "00:31:22.800",
+    "end": "00:31:26.160"
+  },
+  {
+    "text": "address existential risk it doesn't give",
+    "begin": "00:31:24.030",
+    "end": "00:31:28.230"
+  },
+  {
+    "text": "us the right collective intelligence the",
+    "begin": "00:31:26.160",
+    "end": "00:31:30.150"
+  },
+  {
+    "text": "right collective intelligence has to be",
+    "begin": "00:31:28.230",
+    "end": "00:31:33.360"
+  },
+  {
+    "text": "fractal sovereignty meaning at the level",
+    "begin": "00:31:30.150",
+    "end": "00:31:35.940"
+  },
+  {
+    "text": "of an individual and every group size it",
+    "begin": "00:31:33.360",
+    "end": "00:31:38.370"
+  },
+  {
+    "text": "has its own intact sense making in",
+    "begin": "00:31:35.940",
+    "end": "00:31:41.400"
+  },
+  {
+    "text": "choice making it ends up being vectoring",
+    "begin": "00:31:38.370",
+    "end": "00:31:43.800"
+  },
+  {
+    "text": "towards Omni consideration the level of",
+    "begin": "00:31:41.400",
+    "end": "00:31:47.100"
+  },
+  {
+    "text": "that we're talking about is hard to",
+    "begin": "00:31:43.800",
+    "end": "00:31:50.309"
+  },
+  {
+    "text": "imagine yeah and what has to be invented",
+    "begin": "00:31:47.100",
+    "end": "00:31:54.030"
+  },
+  {
+    "text": "to even begin a transition and then be",
+    "begin": "00:31:50.309",
+    "end": "00:31:56.610"
+  },
+  {
+    "text": "put to rest so that the next version can",
+    "begin": "00:31:54.030",
+    "end": "00:31:59.880"
+  },
+  {
+    "text": "come along is such a long road the",
+    "begin": "00:31:56.610",
+    "end": "00:32:02.610"
+  },
+  {
+    "text": "reason that we incent people is because",
+    "begin": "00:31:59.880",
+    "end": "00:32:05.220"
+  },
+  {
+    "text": "we have a civilization that needs a lot",
+    "begin": "00:32:02.610",
+    "end": "00:32:06.960"
+  },
+  {
+    "text": "of done that is not fun",
+    "begin": "00:32:05.220",
+    "end": "00:32:08.520"
+  },
+  {
+    "text": "it's dreadful stuff",
+    "begin": "00:32:06.960",
+    "end": "00:32:10.530"
+  },
+  {
+    "text": "we want to get the people to do the",
+    "begin": "00:32:08.520",
+    "end": "00:32:12.540"
+  },
+  {
+    "text": "dreadful stuff if we created a",
+    "begin": "00:32:10.530",
+    "end": "00:32:13.890"
+  },
+  {
+    "text": "Commonwealth River and had access to",
+    "begin": "00:32:12.540",
+    "end": "00:32:16.710"
+  },
+  {
+    "text": "resources then nobody would do the",
+    "begin": "00:32:13.890",
+    "end": "00:32:18.780"
+  },
+  {
+    "text": "dreadful stuff and so then the state",
+    "begin": "00:32:16.710",
+    "end": "00:32:20.220"
+  },
+  {
+    "text": "would have to force them that's why we",
+    "begin": "00:32:18.780",
+    "end": "00:32:22.710"
+  },
+  {
+    "text": "don't like communism then you get the",
+    "begin": "00:32:20.220",
+    "end": "00:32:24.840"
+  },
+  {
+    "text": "state imperialism so we say okay cool",
+    "begin": "00:32:22.710",
+    "end": "00:32:26.130"
+  },
+  {
+    "text": "we'll let the free market force them",
+    "begin": "00:32:24.840",
+    "end": "00:32:27.960"
+  },
+  {
+    "text": "instead it's the economic servitude but",
+    "begin": "00:32:26.130",
+    "end": "00:32:29.310"
+  },
+  {
+    "text": "at least that doesn't look like somebody",
+    "begin": "00:32:27.960",
+    "end": "00:32:31.080"
+  },
+  {
+    "text": "did it because the market is the just",
+    "begin": "00:32:29.310",
+    "end": "00:32:33.060"
+  },
+  {
+    "text": "anonymous thing right if you don't do",
+    "begin": "00:32:31.080",
+    "end": "00:32:34.440"
+  },
+  {
+    "text": "the shitty job you're homeless and your",
+    "begin": "00:32:33.060",
+    "end": "00:32:36.390"
+  },
+  {
+    "text": "kids can't eat cool but we'll tell you",
+    "begin": "00:32:34.440",
+    "end": "00:32:37.950"
+  },
+  {
+    "text": "the story that you can work your way up",
+    "begin": "00:32:36.390",
+    "end": "00:32:39.600"
+  },
+  {
+    "text": "and you know become wealthy even though",
+    "begin": "00:32:37.950",
+    "end": "00:32:41.820"
+  },
+  {
+    "text": "statistically we know that it's silly it",
+    "begin": "00:32:39.600",
+    "end": "00:32:45.170"
+  },
+  {
+    "text": "happened to those two guys that one time",
+    "begin": "00:32:41.820",
+    "end": "00:32:48.180"
+  },
+  {
+    "text": "even though statistically the rest of",
+    "begin": "00:32:45.170",
+    "end": "00:32:50.220"
+  },
+  {
+    "text": "the time having more resources makes it",
+    "begin": "00:32:48.180",
+    "end": "00:32:52.080"
+  },
+  {
+    "text": "easier to make more resources and having",
+    "begin": "00:32:50.220",
+    "end": "00:32:53.850"
+  },
+  {
+    "text": "less resources makes it harder to make",
+    "begin": "00:32:52.080",
+    "end": "00:32:55.710"
+  },
+  {
+    "text": "more resources into the system as a",
+    "begin": "00:32:53.850",
+    "end": "00:32:58.170"
+  },
+  {
+    "text": "gradient it makes it actually continue",
+    "begin": "00:32:55.710",
+    "end": "00:32:59.820"
+  },
+  {
+    "text": "in the direction of inequality not that",
+    "begin": "00:32:58.170",
+    "end": "00:33:02.160"
+  },
+  {
+    "text": "you know otherwise but so that's where",
+    "begin": "00:32:59.820",
+    "end": "00:33:05.580"
+  },
+  {
+    "text": "incentive came from right was that's the",
+    "begin": "00:33:02.160",
+    "end": "00:33:07.380"
+  },
+  {
+    "text": "good side at the negative side is a few",
+    "begin": "00:33:05.580",
+    "end": "00:33:09.960"
+  },
+  {
+    "text": "controlling of many one to use incentive",
+    "begin": "00:33:07.380",
+    "end": "00:33:12.900"
+  },
+  {
+    "text": "reward and punishment and to get people",
+    "begin": "00:33:09.960",
+    "end": "00:33:14.160"
+  },
+  {
+    "text": "to do the shitty things we have to do",
+    "begin": "00:33:12.900",
+    "end": "00:33:19.320"
+  },
+  {
+    "text": "that this is using choice to create a",
+    "begin": "00:33:14.160",
+    "end": "00:33:21.240"
+  },
+  {
+    "text": "system of causation incentive as a",
+    "begin": "00:33:19.320",
+    "end": "00:33:23.190"
+  },
+  {
+    "text": "causal system game theory as a causal",
+    "begin": "00:33:21.240",
+    "end": "00:33:25.820"
+  },
+  {
+    "text": "system to control the choice of others",
+    "begin": "00:33:23.190",
+    "end": "00:33:28.740"
+  },
+  {
+    "text": "controller co-op I want to have my",
+    "begin": "00:33:25.820",
+    "end": "00:33:31.200"
+  },
+  {
+    "text": "theory of choice effect causal dynamics",
+    "begin": "00:33:28.740",
+    "end": "00:33:32.910"
+  },
+  {
+    "text": "that are only causal ie",
+    "begin": "00:33:31.200",
+    "end": "00:33:35.940"
+  },
+  {
+    "text": "if I make an automated robot I haven't",
+    "begin": "00:33:32.910",
+    "end": "00:33:38.810"
+  },
+  {
+    "text": "actually made a sentient being a utility",
+    "begin": "00:33:35.940",
+    "end": "00:33:41.340"
+  },
+  {
+    "text": "so I'm gonna say something even deeper",
+    "begin": "00:33:38.810",
+    "end": "00:33:43.740"
+  },
+  {
+    "text": "which is instrumental relationships are",
+    "begin": "00:33:41.340",
+    "end": "00:33:47.370"
+  },
+  {
+    "text": "evil can you expand that yeah I'm",
+    "begin": "00:33:43.740",
+    "end": "00:33:50.880"
+  },
+  {
+    "text": "interacting with you to meet some people",
+    "begin": "00:33:47.370",
+    "end": "00:33:53.910"
+  },
+  {
+    "text": "that you know to get my network ahead or",
+    "begin": "00:33:50.880",
+    "end": "00:33:56.460"
+  },
+  {
+    "text": "to get some knowledge from you or to",
+    "begin": "00:33:53.910",
+    "end": "00:33:58.980"
+  },
+  {
+    "text": "gain access to something or to whatever",
+    "begin": "00:33:56.460",
+    "end": "00:34:01.530"
+  },
+  {
+    "text": "it is I have something that I want to do",
+    "begin": "00:33:58.980",
+    "end": "00:34:03.180"
+  },
+  {
+    "text": "that you are an instrument towards",
+    "begin": "00:34:01.530",
+    "end": "00:34:05.610"
+  },
+  {
+    "text": "you're a path towards to utilitarian",
+    "begin": "00:34:03.180",
+    "end": "00:34:10.260"
+  },
+  {
+    "text": "ethic then you are a into a means for me",
+    "begin": "00:34:05.610",
+    "end": "00:34:12.390"
+  },
+  {
+    "text": "so however I relate with you however it",
+    "begin": "00:34:10.260",
+    "end": "00:34:14.670"
+  },
+  {
+    "text": "affects your own sovereign sentient",
+    "begin": "00:34:12.390",
+    "end": "00:34:16.890"
+  },
+  {
+    "text": "experience is a place I might",
+    "begin": "00:34:14.670",
+    "end": "00:34:18.930"
+  },
+  {
+    "text": "externalize harm because it's not why",
+    "begin": "00:34:16.890",
+    "end": "00:34:22.240"
+  },
+  {
+    "text": "I'm relating with you yeah yeah",
+    "begin": "00:34:18.930",
+    "end": "00:34:25.929"
+  },
+  {
+    "text": "and so in a healthy world world of the",
+    "begin": "00:34:22.240",
+    "end": "00:34:29.379"
+  },
+  {
+    "text": "future other people need to have",
+    "begin": "00:34:25.929",
+    "end": "00:34:32.050"
+  },
+  {
+    "text": "intrinsic value independent of",
+    "begin": "00:34:29.379",
+    "end": "00:34:34.419"
+  },
+  {
+    "text": "utilitarian value to everyone that's a",
+    "begin": "00:34:32.050",
+    "end": "00:34:36.250"
+  },
+  {
+    "text": "part of the culture and not just the",
+    "begin": "00:34:34.419",
+    "end": "00:34:39.429"
+  },
+  {
+    "text": "other people and other beings all kinds",
+    "begin": "00:34:36.250",
+    "end": "00:34:41.980"
+  },
+  {
+    "text": "of sentient beings but relationships",
+    "begin": "00:34:39.429",
+    "end": "00:34:43.599"
+  },
+  {
+    "text": "have intrinsic values so I'm gonna",
+    "begin": "00:34:41.980",
+    "end": "00:34:45.129"
+  },
+  {
+    "text": "invest in the integrity of our",
+    "begin": "00:34:43.599",
+    "end": "00:34:47.080"
+  },
+  {
+    "text": "relationship independent of me getting",
+    "begin": "00:34:45.129",
+    "end": "00:34:49.659"
+  },
+  {
+    "text": "anything out of it because it is",
+    "begin": "00:34:47.080",
+    "end": "00:34:51.429"
+  },
+  {
+    "text": "actually the basis of meaningfulness",
+    "begin": "00:34:49.659",
+    "end": "00:34:54.730"
+  },
+  {
+    "text": "itself which is why in a utilitarian and",
+    "begin": "00:34:51.429",
+    "end": "00:34:56.619"
+  },
+  {
+    "text": "instrumental dynamic we're getting ahead",
+    "begin": "00:34:54.730",
+    "end": "00:34:57.820"
+  },
+  {
+    "text": "while feeling utterly",
+    "begin": "00:34:56.619",
+    "end": "00:35:00.099"
+  },
+  {
+    "text": "meaningless and destroying everything",
+    "begin": "00:34:57.820",
+    "end": "00:35:02.680"
+  },
+  {
+    "text": "that is meaningful in the process that",
+    "begin": "00:35:00.099",
+    "end": "00:35:06.310"
+  },
+  {
+    "text": "is us being hooked to addiction to a",
+    "begin": "00:35:02.680",
+    "end": "00:35:08.589"
+  },
+  {
+    "text": "stupid game where what we think we want",
+    "begin": "00:35:06.310",
+    "end": "00:35:11.320"
+  },
+  {
+    "text": "is not not what we actually want and",
+    "begin": "00:35:08.589",
+    "end": "00:35:13.839"
+  },
+  {
+    "text": "what we think of as a win is actually a",
+    "begin": "00:35:11.320",
+    "end": "00:35:16.780"
+  },
+  {
+    "text": "Omni stupid thing and this is why you",
+    "begin": "00:35:13.839",
+    "end": "00:35:19.359"
+  },
+  {
+    "text": "know like the the Hindu concept of",
+    "begin": "00:35:16.780",
+    "end": "00:35:21.160"
+  },
+  {
+    "text": "Dharma was a virtue ethics not a",
+    "begin": "00:35:19.359",
+    "end": "00:35:23.410"
+  },
+  {
+    "text": "utilitarian ethic and and there was a",
+    "begin": "00:35:21.160",
+    "end": "00:35:26.140"
+  },
+  {
+    "text": "very meaningful set of concepts if do",
+    "begin": "00:35:23.410",
+    "end": "00:35:28.630"
+  },
+  {
+    "text": "what is inherently right in your",
+    "begin": "00:35:26.140",
+    "end": "00:35:31.599"
+  },
+  {
+    "text": "relationship with life independent of",
+    "begin": "00:35:28.630",
+    "end": "00:35:33.099"
+  },
+  {
+    "text": "what the outcome might be because you",
+    "begin": "00:35:31.599",
+    "end": "00:35:34.300"
+  },
+  {
+    "text": "really don't know what the",
+    "begin": "00:35:33.099",
+    "end": "00:35:36.220"
+  },
+  {
+    "text": "outcome is gonna be and if you try and",
+    "begin": "00:35:34.300",
+    "end": "00:35:37.510"
+  },
+  {
+    "text": "just figure out the outcome is gonna be",
+    "begin": "00:35:36.220",
+    "end": "00:35:39.130"
+  },
+  {
+    "text": "you're gonna be wrong a lot of times and",
+    "begin": "00:35:37.510",
+    "end": "00:35:40.660"
+  },
+  {
+    "text": "you're also gonna justify a lot of",
+    "begin": "00:35:39.130",
+    "end": "00:35:44.320"
+  },
+  {
+    "text": "unethical styles and utilitarianism is",
+    "begin": "00:35:40.660",
+    "end": "00:35:46.960"
+  },
+  {
+    "text": "kind of the rampant ethics that anyone",
+    "begin": "00:35:44.320",
+    "end": "00:35:48.220"
+  },
+  {
+    "text": "who's paying attention to ethics pays",
+    "begin": "00:35:46.960",
+    "end": "00:35:49.690"
+  },
+  {
+    "text": "attention to right now and it's not",
+    "begin": "00:35:48.220",
+    "end": "00:35:52.420"
+  },
+  {
+    "text": "without any merit but it is also",
+    "begin": "00:35:49.690",
+    "end": "00:35:54.580"
+  },
+  {
+    "text": "problematic it is up there with",
+    "begin": "00:35:52.420",
+    "end": "00:35:57.250"
+  },
+  {
+    "text": "democracy and capitalism you know in the",
+    "begin": "00:35:54.580",
+    "end": "00:35:58.900"
+  },
+  {
+    "text": "philosophy of science in terms of being",
+    "begin": "00:35:57.250",
+    "end": "00:36:00.970"
+  },
+  {
+    "text": "a problematic thing to be the dominant",
+    "begin": "00:35:58.900",
+    "end": "00:36:03.220"
+  },
+  {
+    "text": "system because we cannot actually",
+    "begin": "00:36:00.970",
+    "end": "00:36:04.869"
+  },
+  {
+    "text": "predict and complex systems well enough",
+    "begin": "00:36:03.220",
+    "end": "00:36:07.800"
+  },
+  {
+    "text": "to do a utilitarian thing and they",
+    "begin": "00:36:04.869",
+    "end": "00:36:11.560"
+  },
+  {
+    "text": "intrinsic dynamics of a relationship and",
+    "begin": "00:36:07.800",
+    "end": "00:36:13.750"
+  },
+  {
+    "text": "another being in that becoming moved to",
+    "begin": "00:36:11.560",
+    "end": "00:36:17.130"
+  },
+  {
+    "text": "being a means to an end other than them",
+    "begin": "00:36:13.750",
+    "end": "00:36:20.650"
+  },
+  {
+    "text": "and as soon as I start factoring",
+    "begin": "00:36:17.130",
+    "end": "00:36:22.990"
+  },
+  {
+    "text": "everything meaningful along the chain of",
+    "begin": "00:36:20.650",
+    "end": "00:36:24.730"
+  },
+  {
+    "text": "whatever I think my howcome is to where",
+    "begin": "00:36:22.990",
+    "end": "00:36:26.740"
+  },
+  {
+    "text": "my outcome is actually being in a way",
+    "begin": "00:36:24.730",
+    "end": "00:36:28.810"
+  },
+  {
+    "text": "that is an integrity with an honoring of",
+    "begin": "00:36:26.740",
+    "end": "00:36:31.690"
+  },
+  {
+    "text": "all life now it's the virtue of it yeah",
+    "begin": "00:36:28.810",
+    "end": "00:36:34.170"
+  },
+  {
+    "text": "I I was having this conversation",
+    "begin": "00:36:31.690",
+    "end": "00:36:35.900"
+  },
+  {
+    "text": "recently",
+    "begin": "00:36:34.170",
+    "end": "00:36:38.539"
+  },
+  {
+    "text": "about people who are obsessed with life",
+    "begin": "00:36:35.900",
+    "end": "00:36:40.910"
+  },
+  {
+    "text": "hacking and optimizing everything and",
+    "begin": "00:36:38.539",
+    "end": "00:36:42.140"
+  },
+  {
+    "text": "when they get into that mindset",
+    "begin": "00:36:40.910",
+    "end": "00:36:44.270"
+  },
+  {
+    "text": "eventually they get to what what they",
+    "begin": "00:36:42.140",
+    "end": "00:36:46.579"
+  },
+  {
+    "text": "call optimizing relationships and then",
+    "begin": "00:36:44.270",
+    "end": "00:36:48.380"
+  },
+  {
+    "text": "they start putting people on a value",
+    "begin": "00:36:46.579",
+    "end": "00:36:50.089"
+  },
+  {
+    "text": "hierarchy where they want to interact",
+    "begin": "00:36:48.380",
+    "end": "00:36:51.799"
+  },
+  {
+    "text": "with high-value people and they want to",
+    "begin": "00:36:50.089",
+    "end": "00:36:53.510"
+  },
+  {
+    "text": "get a high value woman and they're using",
+    "begin": "00:36:51.799",
+    "end": "00:36:55.819"
+  },
+  {
+    "text": "these tactics to find and attract the",
+    "begin": "00:36:53.510",
+    "end": "00:36:58.369"
+  },
+  {
+    "text": "most high-value woman and it's funny",
+    "begin": "00:36:55.819",
+    "end": "00:37:01.880"
+  },
+  {
+    "text": "because those people in my experience",
+    "begin": "00:36:58.369",
+    "end": "00:37:03.980"
+  },
+  {
+    "text": "are some of the most existentially",
+    "begin": "00:37:01.880",
+    "end": "00:37:06.319"
+  },
+  {
+    "text": "unhappy people that I've met and they",
+    "begin": "00:37:03.980",
+    "end": "00:37:09.230"
+  },
+  {
+    "text": "will never demonstrate it outward in an",
+    "begin": "00:37:06.319",
+    "end": "00:37:11.329"
+  },
+  {
+    "text": "outward way but that's what I've noticed",
+    "begin": "00:37:09.230",
+    "end": "00:37:13.430"
+  },
+  {
+    "text": "that you know people who try to optimize",
+    "begin": "00:37:11.329",
+    "end": "00:37:15.440"
+  },
+  {
+    "text": "everything in this kind of utilitarian",
+    "begin": "00:37:13.430",
+    "end": "00:37:17.710"
+  },
+  {
+    "text": "way end up really profoundly unhappy",
+    "begin": "00:37:15.440",
+    "end": "00:37:20.650"
+  },
+  {
+    "text": "yeah what's the same thing as",
+    "begin": "00:37:17.710",
+    "end": "00:37:23.720"
+  },
+  {
+    "text": "continuously pursuing a better hi it's",
+    "begin": "00:37:20.650",
+    "end": "00:37:25.460"
+  },
+  {
+    "text": "I'm getting a hit from winning at a",
+    "begin": "00:37:23.720",
+    "end": "00:37:26.990"
+  },
+  {
+    "text": "particular thing so I got to try and win",
+    "begin": "00:37:25.460",
+    "end": "00:37:27.829"
+  },
+  {
+    "text": "at it all the time",
+    "begin": "00:37:26.990",
+    "end": "00:37:30.710"
+  },
+  {
+    "text": "but I need the hit because my baseline",
+    "begin": "00:37:27.829",
+    "end": "00:37:32.059"
+  },
+  {
+    "text": "is the lay feels meaningless",
+    "begin": "00:37:30.710",
+    "end": "00:37:33.410"
+  },
+  {
+    "text": "because I don't actually have any real",
+    "begin": "00:37:32.059",
+    "end": "00:37:35.059"
+  },
+  {
+    "text": "relationships and there I don't even",
+    "begin": "00:37:33.410",
+    "end": "00:37:37.460"
+  },
+  {
+    "text": "know what meaning needs I don't even",
+    "begin": "00:37:35.059",
+    "end": "00:37:40.000"
+  },
+  {
+    "text": "know what intimacy means and so that",
+    "begin": "00:37:37.460",
+    "end": "00:37:43.190"
+  },
+  {
+    "text": "hypo normal environment needs a hyper",
+    "begin": "00:37:40.000",
+    "end": "00:37:45.559"
+  },
+  {
+    "text": "normal stimuli to feel anything and then",
+    "begin": "00:37:43.190",
+    "end": "00:37:47.119"
+  },
+  {
+    "text": "the fact that I used people",
+    "begin": "00:37:45.559",
+    "end": "00:37:49.069"
+  },
+  {
+    "text": "instrumentally has people end up not",
+    "begin": "00:37:47.119",
+    "end": "00:37:50.990"
+  },
+  {
+    "text": "liking me which makes me hurt even more",
+    "begin": "00:37:49.069",
+    "end": "00:37:52.539"
+  },
+  {
+    "text": "which makes me want another hit II",
+    "begin": "00:37:50.990",
+    "end": "00:37:56.150"
+  },
+  {
+    "text": "people like you make it super DC you",
+    "begin": "00:37:52.539",
+    "end": "00:37:58.039"
+  },
+  {
+    "text": "just come on and it's like we listen to",
+    "begin": "00:37:56.150",
+    "end": "00:37:59.450"
+  },
+  {
+    "text": "audiobooks all day and then we get to",
+    "begin": "00:37:58.039",
+    "end": "00:38:01.339"
+  },
+  {
+    "text": "actually talk to the person who is",
+    "begin": "00:37:59.450",
+    "end": "00:38:02.660"
+  },
+  {
+    "text": "coming up with the cutting-edge ideas",
+    "begin": "00:38:01.339",
+    "end": "00:38:04.490"
+  },
+  {
+    "text": "themselves so it's quite interesting",
+    "begin": "00:38:02.660",
+    "end": "00:38:07.579"
+  },
+  {
+    "text": "Thank You y'all it's always wonderful",
+    "begin": "00:38:04.490",
+    "end": "00:38:09.980"
+  },
+  {
+    "text": "getting our brains blown by you thank",
+    "begin": "00:38:07.579",
+    "end": "00:38:14.950"
+  },
+  {
+    "text": "you thank you both this is really fun",
+    "begin": "00:38:09.980",
+    "end": "00:38:17.450"
+  },
+  {
+    "text": "all right that's it thanks for listening",
+    "begin": "00:38:14.950",
+    "end": "00:38:19.220"
+  },
+  {
+    "text": "guys that was the last part of our",
+    "begin": "00:38:17.450",
+    "end": "00:38:20.930"
+  },
+  {
+    "text": "fascinating conversation with Daniel",
+    "begin": "00:38:19.220",
+    "end": "00:38:22.819"
+  },
+  {
+    "text": "schmuck John Berger if you haven't heard",
+    "begin": "00:38:20.930",
+    "end": "00:38:24.349"
+  },
+  {
+    "text": "the first and second part of this",
+    "begin": "00:38:22.819",
+    "end": "00:38:26.720"
+  },
+  {
+    "text": "interview you can find it at future",
+    "begin": "00:38:24.349",
+    "end": "00:38:29.059"
+  },
+  {
+    "text": "thinkers our org slash 57 you can also",
+    "begin": "00:38:26.720",
+    "end": "00:38:30.230"
+  },
+  {
+    "text": "find all the links and resources",
+    "begin": "00:38:29.059",
+    "end": "00:38:32.240"
+  },
+  {
+    "text": "mentioned in all three episodes there",
+    "begin": "00:38:30.230",
+    "end": "00:38:34.970"
+  },
+  {
+    "text": "and to check out our sponsor qual yet go",
+    "begin": "00:38:32.240",
+    "end": "00:38:37.130"
+  },
+  {
+    "text": "to future thinkers org slash brain hat",
+    "begin": "00:38:34.970",
+    "end": "00:38:39.140"
+  },
+  {
+    "text": "if you're new to the show and you like a",
+    "begin": "00:38:37.130",
+    "end": "00:38:41.180"
+  },
+  {
+    "text": "list of our top episodes and resources",
+    "begin": "00:38:39.140",
+    "end": "00:38:43.670"
+  },
+  {
+    "text": "go to future thinkers org slash start if",
+    "begin": "00:38:41.180",
+    "end": "00:38:45.020"
+  },
+  {
+    "text": "you want to sponsor our show go to",
+    "begin": "00:38:43.670",
+    "end": "00:38:46.160"
+  },
+  {
+    "text": "future thinkers that org",
+    "begin": "00:38:45.020",
+    "end": "00:38:48.349"
+  },
+  {
+    "text": "laughs sponsor if you liked our podcast",
+    "begin": "00:38:46.160",
+    "end": "00:38:50.240"
+  },
+  {
+    "text": "leave us a rating and a review on iTunes",
+    "begin": "00:38:48.349",
+    "end": "00:38:52.700"
+  },
+  {
+    "text": "and elsewhere it helps others find the",
+    "begin": "00:38:50.240",
+    "end": "00:38:54.710"
+  },
+  {
+    "text": "show and we really appreciate it",
+    "begin": "00:38:52.700",
+    "end": "00:38:56.720"
+  },
+  {
+    "text": "thanks for listening and we'll see you",
+    "begin": "00:38:54.710",
+    "end": "00:38:59.500"
+  },
+  {
+    "text": "in the next episode",
+    "begin": "00:38:56.720",
+    "end": "00:38:59.500"
+  },
+  {
+    "text": "[Music]",
+    "begin": "00:39:00.270",
+    "end": "00:39:05.409"
+  }
+]

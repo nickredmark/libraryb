@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:03.510" style="s2">welcome back to part three of our</p>
+<p begin="00:00:01.890" end="00:00:05.190" style="s2">three-part series with Daniel smoked a</p>
+<p begin="00:00:03.510" end="00:00:07.529" style="s2">burger on the generator function of</p>
+<p begin="00:00:05.190" end="00:00:09.330" style="s2">existential risks in this episode Daniel</p>
+<p begin="00:00:07.529" end="00:00:11.280" style="s2">shares his vision for a path towards a</p>
+<p begin="00:00:09.330" end="00:00:12.540" style="s2">post existential risk future and the</p>
+<p begin="00:00:11.280" end="00:00:15.059" style="s2">three key features of this new</p>
+<p begin="00:00:12.540" end="00:00:16.949" style="s2">civilization design he also talks about</p>
+<p begin="00:00:15.059" end="00:00:18.810" style="s2">why there is no place for incentives in</p>
+<p begin="00:00:16.949" end="00:00:20.310" style="s2">such a world to get all the links and</p>
+<p begin="00:00:18.810" end="00:00:22.949" style="s2">show notes from this episode go to</p>
+<p begin="00:00:20.310" end="00:00:24.720" style="s2">future thinkers org slash 57 you can</p>
+<p begin="00:00:22.949" end="00:00:27.060" style="s2">also find the first and second part of</p>
+<p begin="00:00:24.720" end="00:00:28.890" style="s2">this interview there this episode is</p>
+<p begin="00:00:27.060" end="00:00:30.510" style="s2">brought to you by quality at a premium a</p>
+<p begin="00:00:28.890" end="00:00:32.369" style="s2">nootropic supplement that helps support</p>
+<p begin="00:00:30.510" end="00:00:34.050" style="s2">mental performance and brain health it&#39;s</p>
+<p begin="00:00:32.369" end="00:00:36.149" style="s2">specifically designed to promote focus</p>
+<p begin="00:00:34.050" end="00:00:38.670" style="s2">support energy mental clarity mood</p>
+<p begin="00:00:36.149" end="00:00:40.350" style="s2">memory and creativity UV and I have both</p>
+<p begin="00:00:38.670" end="00:00:41.879" style="s2">used it in the past we really liked it</p>
+<p begin="00:00:40.350" end="00:00:43.469" style="s2">and we actually met the founders and</p>
+<p begin="00:00:41.879" end="00:00:44.550" style="s2">interviewed them on future thinkers and</p>
+<p begin="00:00:43.469" end="00:00:46.170" style="s2">you can check out those interviews</p>
+<p begin="00:00:44.550" end="00:00:48.629" style="s2">they&#39;re one of our favorites at future</p>
+<p begin="00:00:46.170" end="00:00:50.730" style="s2">thinkers org slash Daniel and future</p>
+<p begin="00:00:48.629" end="00:00:52.710" style="s2">thinkers org slash jordan they&#39;ve got a</p>
+<p begin="00:00:50.730" end="00:00:54.239" style="s2">new formula up called qualia mind it&#39;s</p>
+<p begin="00:00:52.710" end="00:00:55.800" style="s2">got more natural ingredients and you can</p>
+<p begin="00:00:54.239" end="00:00:57.750" style="s2">get it at future thinkers org slash</p>
+<p begin="00:00:55.800" end="00:01:00.120" style="s2">brain hack and you can get 10% off if</p>
+<p begin="00:00:57.750" end="00:01:02.570" style="s2">you use the code future alright let&#39;s</p>
+<p begin="00:01:00.120" end="00:01:02.570" style="s2">get into the show</p>
+<p begin="00:01:03.539" end="00:01:07.680" style="s2">welcome to future thinkers org a podcast</p>
+<p begin="00:01:06.270" end="00:01:09.990" style="s2">about the evolution of technology</p>
+<p begin="00:01:07.680" end="00:01:12.750" style="s2">society and consciousness I&#39;m Mike</p>
+<p begin="00:01:09.990" end="00:01:14.430" style="s2">Gilliland and I&#39;m UV Ivanova if you new</p>
+<p begin="00:01:12.750" end="00:01:16.710" style="s2">to the show and you&#39;d like a list of our</p>
+<p begin="00:01:14.430" end="00:01:19.439" style="s2">top episodes and resources go to future</p>
+<p begin="00:01:16.710" end="00:01:21.270" style="s2">thinkers Dyer org slash start and if you</p>
+<p begin="00:01:19.439" end="00:01:23.070" style="s2">like our podcast leave us a rating and a</p>
+<p begin="00:01:21.270" end="00:01:24.810" style="s2">review on iTunes and elsewhere</p>
+<p begin="00:01:23.070" end="00:01:28.770" style="s2">it really helps others find the show and</p>
+<p begin="00:01:24.810" end="00:01:30.299" style="s2">we really appreciate it I&#39;m reading Carl</p>
+<p begin="00:01:28.770" end="00:01:32.490" style="s2">Jung right now and he&#39;s talking about</p>
+<p begin="00:01:30.299" end="00:01:35.189" style="s2">his experience of going to live with the</p>
+<p begin="00:01:32.490" end="00:01:38.159" style="s2">Pueblo Indians and how it completely</p>
+<p begin="00:01:35.189" end="00:01:41.100" style="s2">just blew apart his conception of what</p>
+<p begin="00:01:38.159" end="00:01:43.440" style="s2">was natural and how the Western world</p>
+<p begin="00:01:41.100" end="00:01:47.280" style="s2">view is different from other worldviews</p>
+<p begin="00:01:43.440" end="00:01:50.340" style="s2">and he noticed that they were so happy</p>
+<p begin="00:01:47.280" end="00:01:52.080" style="s2">and serene and they felt themselves as</p>
+<p begin="00:01:50.340" end="00:01:53.640" style="s2">one with their environment and they had</p>
+<p begin="00:01:52.080" end="00:01:55.590" style="s2">this very special relationship with the</p>
+<p begin="00:01:53.640" end="00:01:57.690" style="s2">Sun and it was just it was very</p>
+<p begin="00:01:55.590" end="00:01:59.729" style="s2">beautiful but at the same time he</p>
+<p begin="00:01:57.690" end="00:02:02.970" style="s2">realized how they were very vulnerable</p>
+<p begin="00:01:59.729" end="00:02:05.340" style="s2">to you know the invasion of the Western</p>
+<p begin="00:02:02.970" end="00:02:07.319" style="s2">civilization so if we create a new</p>
+<p begin="00:02:05.340" end="00:02:09.750" style="s2">civilization operating system that is</p>
+<p begin="00:02:07.319" end="00:02:11.489" style="s2">not oriented towards winning wars then</p>
+<p begin="00:02:09.750" end="00:02:14.280" style="s2">how do we ensure that it doesn&#39;t get</p>
+<p begin="00:02:11.489" end="00:02:15.959" style="s2">destroyed by those who are imagine</p>
+<p begin="00:02:14.280" end="00:02:18.270" style="s2">there&#39;s a group of people that get a</p>
+<p begin="00:02:15.959" end="00:02:21.360" style="s2">stronger theory of causation so they</p>
+<p begin="00:02:18.270" end="00:02:23.250" style="s2">learn Newton&#39;s physics and so now they</p>
+<p begin="00:02:21.360" end="00:02:24.480" style="s2">can use calculus to plot a ballistic</p>
+<p begin="00:02:23.250" end="00:02:26.220" style="s2">curve and make the cannon ball hit the</p>
+<p begin="00:02:24.480" end="00:02:27.750" style="s2">right spot every time rather than the</p>
+<p begin="00:02:26.220" end="00:02:30.090" style="s2">pendulum dowsing which is kind of a hit</p>
+<p begin="00:02:27.750" end="00:02:32.250" style="s2">or miss that belief is going to catch on</p>
+<p begin="00:02:30.090" end="00:02:33.900" style="s2">and that&#39;s why science really caught on</p>
+<p begin="00:02:32.250" end="00:02:36.510" style="s2">took us out of the Dark Ages was because</p>
+<p begin="00:02:33.900" end="00:02:38.099" style="s2">it led to better weapons and better</p>
+<p begin="00:02:36.510" end="00:02:39.660" style="s2">agriculture tech and better like real</p>
+<p begin="00:02:38.099" end="00:02:41.849" style="s2"> so it proliferated because it was</p>
+<p begin="00:02:39.660" end="00:02:43.650" style="s2">proliferative if we increased our theory</p>
+<p begin="00:02:41.849" end="00:02:46.800" style="s2">of causation that ends up catching on</p>
+<p begin="00:02:43.650" end="00:02:48.750" style="s2">but if we could increase our theory of</p>
+<p begin="00:02:46.800" end="00:02:50.250" style="s2">causation and our theory of choice and</p>
+<p begin="00:02:48.750" end="00:02:52.349" style="s2">the relationship between them that would</p>
+<p begin="00:02:50.250" end="00:02:54.090" style="s2">actually be the most adaptive especially</p>
+<p begin="00:02:52.349" end="00:02:57.569" style="s2">in the presence of where a particular</p>
+<p begin="00:02:54.090" end="00:02:59.190" style="s2">game theoretic model of choice with the</p>
+<p begin="00:02:57.569" end="00:03:00.900" style="s2">extension of causation we have is</p>
+<p begin="00:02:59.190" end="00:03:03.810" style="s2">definitely self terminating definitely</p>
+<p begin="00:03:00.900" end="00:03:05.489" style="s2">anti adaptive and so I know we&#39;ve been</p>
+<p begin="00:03:03.810" end="00:03:07.260" style="s2">on for a long time so there&#39;s really</p>
+<p begin="00:03:05.489" end="00:03:09.150" style="s2">only one more thing that I want to share</p>
+<p begin="00:03:07.260" end="00:03:12.499" style="s2">that kind of closes this set of concepts</p>
+<p begin="00:03:09.150" end="00:03:14.459" style="s2">so remember we said that any source of</p>
+<p begin="00:03:12.499" end="00:03:17.040" style="s2">asymmetric advantage competitive</p>
+<p begin="00:03:14.459" end="00:03:19.260" style="s2">advantage in a win-lose game will end up</p>
+<p begin="00:03:17.040" end="00:03:20.819" style="s2">once it&#39;s deployed being figured out in</p>
+<p begin="00:03:19.260" end="00:03:24.090" style="s2">utilized by everybody you just up the</p>
+<p begin="00:03:20.819" end="00:03:26.459" style="s2">level of fancy and playing field so but</p>
+<p begin="00:03:24.090" end="00:03:27.720" style="s2">we also said the Indians you were just</p>
+<p begin="00:03:26.459" end="00:03:31.349" style="s2">mentioning and many of the treasures</p>
+<p begin="00:03:27.720" end="00:03:33.239" style="s2">we&#39;ve mentioned lost win lose games we</p>
+<p begin="00:03:31.349" end="00:03:35.129" style="s2">don&#39;t want to try and build something</p>
+<p begin="00:03:33.239" end="00:03:37.920" style="s2">that&#39;s just going to lose at a win-lose</p>
+<p begin="00:03:35.129" end="00:03:39.599" style="s2">game but we know that if it tries to win</p>
+<p begin="00:03:37.920" end="00:03:41.129" style="s2">at win-lose games it&#39;s just still part</p>
+<p begin="00:03:39.599" end="00:03:44.849" style="s2">of the same existential curve that we&#39;re</p>
+<p begin="00:03:41.129" end="00:03:47.190" style="s2">on so it has to not lose at a win-lose</p>
+<p begin="00:03:44.849" end="00:03:49.170" style="s2">game while also not seeking to win but</p>
+<p begin="00:03:47.190" end="00:03:51.120" style="s2">do it so it&#39;s basically not playing the</p>
+<p begin="00:03:49.170" end="00:03:53.579" style="s2">game but it is oriented about how not to</p>
+<p begin="00:03:51.120" end="00:03:57.870" style="s2">lose this is a very important thing and</p>
+<p begin="00:03:53.579" end="00:03:59.250" style="s2">so we can think about power the way we</p>
+<p begin="00:03:57.870" end="00:04:02.069" style="s2">have traditionally thought of power is a</p>
+<p begin="00:03:59.250" end="00:04:04.140" style="s2">power over or power against type dynamic</p>
+<p begin="00:04:02.069" end="00:04:06.329" style="s2">a game theoretic win-lose dynamic and</p>
+<p begin="00:04:04.140" end="00:04:07.709" style="s2">that that any agent that deploys a</p>
+<p begin="00:04:06.329" end="00:04:09.569" style="s2">particular kind of power leads to other</p>
+<p begin="00:04:07.709" end="00:04:11.609" style="s2">agents for you on how to deploy the same</p>
+<p begin="00:04:09.569" end="00:04:13.769" style="s2">and other kinds of powered power keeps</p>
+<p begin="00:04:11.609" end="00:04:15.269" style="s2">it anting up till we get to problems but</p>
+<p begin="00:04:13.769" end="00:04:17.160" style="s2">we could think about another term we</p>
+<p begin="00:04:15.269" end="00:04:19.169" style="s2">might call strength which is not the</p>
+<p begin="00:04:17.160" end="00:04:21.150" style="s2">power to beat someone else but it&#39;s the</p>
+<p begin="00:04:19.169" end="00:04:23.340" style="s2">ability to not be beat by someone else</p>
+<p begin="00:04:21.150" end="00:04:25.320" style="s2">it&#39;s the ability to maintain our own</p>
+<p begin="00:04:23.340" end="00:04:28.500" style="s2">sovereignty and our own coherence in the</p>
+<p begin="00:04:25.320" end="00:04:29.910" style="s2">presence of outside forces and so we can</p>
+<p begin="00:04:28.500" end="00:04:31.830" style="s2">talk about my power like can I go beat</p>
+<p begin="00:04:29.910" end="00:04:36.870" style="s2">somebody up but my strength is can my</p>
+<p begin="00:04:31.830" end="00:04:38.639" style="s2">body fend off viruses and can I fend off</p>
+<p begin="00:04:36.870" end="00:04:40.260" style="s2">cancers and can I actually protect</p>
+<p begin="00:04:38.639" end="00:04:41.340" style="s2">myself if I need to protect myself which</p>
+<p begin="00:04:40.260" end="00:04:44.760" style="s2">is different than can I go beat other</p>
+<p begin="00:04:41.340" end="00:04:47.130" style="s2">people up and now the power game is the</p>
+<p begin="00:04:44.760" end="00:04:48.990" style="s2">game we actually have to cure power over</p>
+<p begin="00:04:47.130" end="00:04:50.820" style="s2">dynamics mean rivalry sign AMEX mean</p>
+<p begin="00:04:48.990" end="00:04:52.770" style="s2">when loose dynamics is the source of</p>
+<p begin="00:04:50.820" end="00:04:54.840" style="s2">evil it&#39;s not that money is the source</p>
+<p begin="00:04:52.770" end="00:04:58.530" style="s2">of evil it&#39;s that power over where I</p>
+<p begin="00:04:54.840" end="00:05:00.660" style="s2">think my well-being is ante coupled to</p>
+<p begin="00:04:58.530" end="00:05:02.310" style="s2">yours ends up being the source of evil</p>
+<p begin="00:05:00.660" end="00:05:04.979" style="s2">and money&#39;s just very deep in the stack</p>
+<p begin="00:05:02.310" end="00:05:07.020" style="s2">of power dynamics but statuses and</p>
+<p begin="00:05:04.979" end="00:05:08.550" style="s2">certain ways of relating to sex and the</p>
+<p begin="00:05:07.020" end="00:05:10.289" style="s2">number of things are so we have to get</p>
+<p begin="00:05:08.550" end="00:05:11.490" style="s2">rid of the power over dynamics but it</p>
+<p begin="00:05:10.289" end="00:05:14.130" style="s2">doesn&#39;t mean that I can&#39;t develop</p>
+<p begin="00:05:11.490" end="00:05:16.889" style="s2">strength that makes me anti fragile in</p>
+<p begin="00:05:14.130" end="00:05:19.500" style="s2">the presence of rivalry and then I say</p>
+<p begin="00:05:16.889" end="00:05:21.419" style="s2">well what kind of capacity can I</p>
+<p begin="00:05:19.500" end="00:05:23.789" style="s2">developed it doesn&#39;t get weaponized by</p>
+<p begin="00:05:21.419" end="00:05:25.950" style="s2">somebody else and used against me given</p>
+<p begin="00:05:23.789" end="00:05:26.640" style="s2">that any asymmetric capacity I get can</p>
+<p begin="00:05:25.950" end="00:05:29.039" style="s2">be weaponized</p>
+<p begin="00:05:26.640" end="00:05:30.389" style="s2">there&#39;s really only one and this is a</p>
+<p begin="00:05:29.039" end="00:05:34.620" style="s2">really interesting thing</p>
+<p begin="00:05:30.389" end="00:05:35.610" style="s2">if I make the adaptive capacity of they</p>
+<p begin="00:05:34.620" end="00:05:39.120" style="s2">were trying to make a new civilization</p>
+<p begin="00:05:35.610" end="00:05:40.949" style="s2">as a model and the new full-stack</p>
+<p begin="00:05:39.120" end="00:05:42.389" style="s2">civilization new economics new</p>
+<p begin="00:05:40.949" end="00:05:45.389" style="s2">governance new infrastructure new</p>
+<p begin="00:05:42.389" end="00:05:47.129" style="s2">culture that has comprehensive loop</p>
+<p begin="00:05:45.389" end="00:05:49.020" style="s2">closure right doesn&#39;t create</p>
+<p begin="00:05:47.129" end="00:05:52.650" style="s2">accumulation or depletion doesn&#39;t have</p>
+<p begin="00:05:49.020" end="00:05:54.539" style="s2">rival risk games within it etc if I try</p>
+<p begin="00:05:52.650" end="00:05:57.930" style="s2">to have some unique adaptive capacity</p>
+<p begin="00:05:54.539" end="00:05:59.550" style="s2">via certain type of information tech the</p>
+<p begin="00:05:57.930" end="00:06:01.289" style="s2">other world will see that information</p>
+<p begin="00:05:59.550" end="00:06:03.539" style="s2">Tekken is it for all kinds of purposes</p>
+<p begin="00:06:01.289" end="00:06:05.370" style="s2">including against me where there&#39;s an</p>
+<p begin="00:06:03.539" end="00:06:07.319" style="s2">incentive to do so and the same is true</p>
+<p begin="00:06:05.370" end="00:06:13.529" style="s2">if I used military tech or if I use</p>
+<p begin="00:06:07.319" end="00:06:15.090" style="s2">environmental extraction technology the</p>
+<p begin="00:06:13.529" end="00:06:17.430" style="s2">advantage of the way the civilization</p>
+<p begin="00:06:15.090" end="00:06:19.680" style="s2">structured has to do with increased</p>
+<p begin="00:06:17.430" end="00:06:21.240" style="s2">coherence in the sense making and choice</p>
+<p begin="00:06:19.680" end="00:06:22.740" style="s2">making between all the agents in the</p>
+<p begin="00:06:21.240" end="00:06:26.340" style="s2">system all the people in the system</p>
+<p begin="00:06:22.740" end="00:06:29.099" style="s2">increase interpersonal coherence this</p>
+<p begin="00:06:26.340" end="00:06:31.259" style="s2">cannot be weaponized and anyone else</p>
+<p begin="00:06:29.099" end="00:06:34.620" style="s2">employing it is now just a system itself</p>
+<p begin="00:06:31.259" end="00:06:37.229" style="s2">propagating so for instance when we</p>
+<p begin="00:06:34.620" end="00:06:39.180" style="s2">start playing rival risk games we start</p>
+<p begin="00:06:37.229" end="00:06:41.279" style="s2">realizing that it&#39;s not just us against</p>
+<p begin="00:06:39.180" end="00:06:43.529" style="s2">somebody else it&#39;s teams against larger</p>
+<p begin="00:06:41.279" end="00:06:45.210" style="s2">teams right answer them the idea of the</p>
+<p begin="00:06:43.529" end="00:06:46.740" style="s2">team is we&#39;re supposed to cooperate with</p>
+<p begin="00:06:45.210" end="00:06:49.199" style="s2">each other to compete against somebody</p>
+<p begin="00:06:46.740" end="00:06:51.389" style="s2">else but compete against someone else</p>
+<p begin="00:06:49.199" end="00:06:52.800" style="s2">idea ends up going fractal and I end up</p>
+<p begin="00:06:51.389" end="00:06:55.199" style="s2">even competing against my teammates</p>
+<p begin="00:06:52.800" end="00:06:56.669" style="s2">sometimes and that&#39;s part of that why</p>
+<p begin="00:06:55.199" end="00:06:59.669" style="s2">the collective intelligence doesn&#39;t</p>
+<p begin="00:06:56.669" end="00:07:01.080" style="s2">scale thing is because ou cooperate with</p>
+<p begin="00:06:59.669" end="00:07:03.360" style="s2">my other buddies on the basketball team</p>
+<p begin="00:07:01.080" end="00:07:05.490" style="s2">unless there&#39;s also a thing called the</p>
+<p begin="00:07:03.360" end="00:07:06.990" style="s2">most valuable player and I&#39;m in the</p>
+<p begin="00:07:05.490" end="00:07:08.819" style="s2">running for it and I have a chance to</p>
+<p begin="00:07:06.990" end="00:07:11.009" style="s2">make the three-point shot rather than</p>
+<p begin="00:07:08.819" end="00:07:12.990" style="s2">pass even though it decreases the chance</p>
+<p begin="00:07:11.009" end="00:07:15.539" style="s2">of the team winning now I have a</p>
+<p begin="00:07:12.990" end="00:07:17.099" style="s2">incentive misalignment so I might go for</p>
+<p begin="00:07:15.539" end="00:07:19.139" style="s2">that and then it gets bigger where</p>
+<p begin="00:07:17.099" end="00:07:21.839" style="s2">there&#39;s a couple of us that both want</p>
+<p begin="00:07:19.139" end="00:07:23.789" style="s2">the same promotion to the same position</p>
+<p begin="00:07:21.839" end="00:07:26.069" style="s2">at the company and we&#39;re actually going</p>
+<p begin="00:07:23.789" end="00:07:28.469" style="s2">to try and sabotage the other one even</p>
+<p begin="00:07:26.069" end="00:07:30.900" style="s2">though that harms the company because my</p>
+<p begin="00:07:28.469" end="00:07:33.300" style="s2">own incentive is not coupled with their</p>
+<p begin="00:07:30.900" end="00:07:35.819" style="s2">incentive and with the company and then</p>
+<p begin="00:07:33.300" end="00:07:37.710" style="s2">I can look at say a couple different</p>
+<p begin="00:07:35.819" end="00:07:39.930" style="s2">government agencies that are competing</p>
+<p begin="00:07:37.710" end="00:07:41.669" style="s2">for the same chunk of budget it will</p>
+<p begin="00:07:39.930" end="00:07:42.959" style="s2">actually seek to undermine each other so</p>
+<p begin="00:07:41.669" end="00:07:43.969" style="s2">they get more of the budget when they&#39;re</p>
+<p begin="00:07:42.959" end="00:07:46.099" style="s2">supposed to be on the same</p>
+<p begin="00:07:43.969" end="00:07:48.379" style="s2">called that country and so what we</p>
+<p begin="00:07:46.099" end="00:07:50.959" style="s2">realized as we get this thing called you</p>
+<p begin="00:07:48.379" end="00:07:53.749" style="s2">know like fractal disinformation fractal</p>
+<p begin="00:07:50.959" end="00:07:55.009" style="s2">decoherence and defection happening</p>
+<p begin="00:07:53.749" end="00:07:57.199" style="s2">everywhere and that creates the most</p>
+<p begin="00:07:55.009" end="00:07:59.239" style="s2">broken information ecology and the least</p>
+<p begin="00:07:57.199" end="00:08:01.459" style="s2">effective coordination and cooperation</p>
+<p begin="00:07:59.239" end="00:08:03.529" style="s2">possible and that&#39;s everywhere right</p>
+<p begin="00:08:01.459" end="00:08:06.709" style="s2">that&#39;s ubiquitous and it&#39;s the result of</p>
+<p begin="00:08:03.529" end="00:08:09.289" style="s2">that underlying rivalry so as we</p>
+<p begin="00:08:06.709" end="00:08:11.149" style="s2">mentioned before now if I have some</p>
+<p begin="00:08:09.289" end="00:08:12.469" style="s2">information I want to make it to where</p>
+<p begin="00:08:11.149" end="00:08:14.629" style="s2">nobody else can use it I&#39;m gonna</p>
+<p begin="00:08:12.469" end="00:08:17.839" style="s2">trademark it patented protect my</p>
+<p begin="00:08:14.629" end="00:08:19.129" style="s2">intellectual property and before I&#39;ve</p>
+<p begin="00:08:17.839" end="00:08:20.929" style="s2">released it I actually want to dis</p>
+<p begin="00:08:19.129" end="00:08:22.429" style="s2">inform everybody else about it right</p>
+<p begin="00:08:20.929" end="00:08:24.319" style="s2">tell them the gold is somewhere else so</p>
+<p begin="00:08:22.429" end="00:08:25.969" style="s2">that they go dig in someone else and</p>
+<p begin="00:08:24.319" end="00:08:29.119" style="s2">don&#39;t pay attention when I&#39;m doing so if</p>
+<p begin="00:08:25.969" end="00:08:31.039" style="s2">I am both hoarding information dis</p>
+<p begin="00:08:29.119" end="00:08:32.089" style="s2">informing others and keeping my</p>
+<p begin="00:08:31.039" end="00:08:34.219" style="s2">information from being able to be</p>
+<p begin="00:08:32.089" end="00:08:36.800" style="s2">synthesized with others that means that</p>
+<p begin="00:08:34.219" end="00:08:38.750" style="s2">I&#39;m going to not let my knowledge about</p>
+<p begin="00:08:36.800" end="00:08:40.399" style="s2">cancer research and whatever it is be</p>
+<p begin="00:08:38.750" end="00:08:43.579" style="s2">out there because I got to make the farm</p>
+<p begin="00:08:40.399" end="00:08:45.550" style="s2">on your back so the best computer that</p>
+<p begin="00:08:43.579" end="00:08:49.569" style="s2">the world could build doesn&#39;t exist</p>
+<p begin="00:08:45.550" end="00:08:52.730" style="s2">because Apple has some of the IP but</p>
+<p begin="00:08:49.569" end="00:08:54.500" style="s2">Google has some of the IP and ten other</p>
+<p begin="00:08:52.730" end="00:08:56.480" style="s2">companies there some of the IP and to</p>
+<p begin="00:08:54.500" end="00:08:58.879" style="s2">the best computer that science knows how</p>
+<p begin="00:08:56.480" end="00:09:01.250" style="s2">to build can legally not be built in and</p>
+<p begin="00:08:58.879" end="00:09:02.899" style="s2">the best phone and the best car and the</p>
+<p begin="00:09:01.250" end="00:09:05.839" style="s2">best medicine and the best every</p>
+<p begin="00:09:02.899" end="00:09:07.339" style="s2">thing there is because we keep the</p>
+<p begin="00:09:05.839" end="00:09:09.800" style="s2">actual adaptive knowledge from</p>
+<p begin="00:09:07.339" end="00:09:11.629" style="s2">synthesizing let alone that everybody is</p>
+<p begin="00:09:09.800" end="00:09:13.939" style="s2">having to reproduce the same work</p>
+<p begin="00:09:11.629" end="00:09:16.160" style="s2">because we don&#39;t want to share our best</p>
+<p begin="00:09:13.939" end="00:09:17.899" style="s2">practices and then almost all the budget</p>
+<p begin="00:09:16.160" end="00:09:19.160" style="s2">is going into marketing against the</p>
+<p begin="00:09:17.899" end="00:09:20.629" style="s2">other ones rather than actual</p>
+<p begin="00:09:19.160" end="00:09:23.420" style="s2">development and the marketing is just</p>
+<p begin="00:09:20.629" end="00:09:25.610" style="s2">lying in manipulation you know at least</p>
+<p begin="00:09:23.420" end="00:09:27.920" style="s2">about why ours comprehensively better</p>
+<p begin="00:09:25.610" end="00:09:29.689" style="s2">when they then have to say the same</p>
+<p begin="00:09:27.920" end="00:09:32.269" style="s2">thing about what their IP does that&#39;s</p>
+<p begin="00:09:29.689" end="00:09:33.980" style="s2">good in our IP does nothing now imagine</p>
+<p begin="00:09:32.269" end="00:09:35.410" style="s2">if we had a world where all the IP gotta</p>
+<p begin="00:09:33.980" end="00:09:37.850" style="s2">be synthesized</p>
+<p begin="00:09:35.410" end="00:09:39.350" style="s2">nobody was dis informing anybody else</p>
+<p begin="00:09:37.850" end="00:09:41.870" style="s2">nobody was sabotaging anyone else</p>
+<p begin="00:09:39.350" end="00:09:45.230" style="s2">everyone was an incentive to share all</p>
+<p begin="00:09:41.870" end="00:09:47.480" style="s2">of the info and to synthesize all the</p>
+<p begin="00:09:45.230" end="00:09:49.790" style="s2">info to synthesize all of the</p>
+<p begin="00:09:47.480" end="00:09:51.769" style="s2">intellectual property ideas etc work</p>
+<p begin="00:09:49.790" end="00:09:53.839" style="s2">towards the best things possible imagine</p>
+<p begin="00:09:51.769" end="00:09:54.889" style="s2">how much more innovation would actually</p>
+<p begin="00:09:53.839" end="00:09:57.319" style="s2">be possible how much more collective</p>
+<p begin="00:09:54.889" end="00:09:57.830" style="s2">intelligence and capacity would actually</p>
+<p begin="00:09:57.319" end="00:10:00.290" style="s2">be possible</p>
+<p begin="00:09:57.830" end="00:10:02.930" style="s2">now if our source of adaptive advantage</p>
+<p begin="00:10:00.290" end="00:10:05.930" style="s2">is that right is we make a world where</p>
+<p begin="00:10:02.930" end="00:10:09.290" style="s2">and now we have to come back to we were</p>
+<p begin="00:10:05.930" end="00:10:11.089" style="s2">talking about if you possess a good and</p>
+<p begin="00:10:09.290" end="00:10:12.860" style="s2">I no longer have access to it were in a</p>
+<p begin="00:10:11.089" end="00:10:14.329" style="s2">rival risk relationship right you</p>
+<p begin="00:10:12.860" end="00:10:16.010" style="s2">possessed a piece of information and</p>
+<p begin="00:10:14.329" end="00:10:17.300" style="s2">that I don&#39;t didn&#39;t get to have access</p>
+<p begin="00:10:16.010" end="00:10:19.310" style="s2">to were in Reverse information of</p>
+<p begin="00:10:17.300" end="00:10:21.230" style="s2">knowledge etc but if you have access to</p>
+<p begin="00:10:19.310" end="00:10:23.300" style="s2">something and we&#39;ve structured the</p>
+<p begin="00:10:21.230" end="00:10:24.529" style="s2">nature of access where we have</p>
+<p begin="00:10:23.300" end="00:10:26.450" style="s2">engineered the scarcity out of the</p>
+<p begin="00:10:24.529" end="00:10:29.149" style="s2">system such that you&#39;re having access</p>
+<p begin="00:10:26.450" end="00:10:31.339" style="s2">doesn&#39;t make me not have access and you</p>
+<p begin="00:10:29.149" end="00:10:32.990" style="s2">having access leads to you being a human</p>
+<p begin="00:10:31.339" end="00:10:34.730" style="s2">who has a full life and some of your</p>
+<p begin="00:10:32.990" end="00:10:36.800" style="s2">full life is creativity and generativity</p>
+<p begin="00:10:34.730" end="00:10:38.690" style="s2">and so now not only do you have the full</p>
+<p begin="00:10:36.800" end="00:10:41.240" style="s2">access to those transportation resources</p>
+<p begin="00:10:38.690" end="00:10:42.950" style="s2">but also maker studios and art studios</p>
+<p begin="00:10:41.240" end="00:10:44.480" style="s2">and education and healthcare and all the</p>
+<p begin="00:10:42.950" end="00:10:46.220" style="s2">kinds of things would make you a healthy</p>
+<p begin="00:10:44.480" end="00:10:47.990" style="s2">well adaptive creative person and every</p>
+<p begin="00:10:46.220" end="00:10:49.399" style="s2">well adapted person&#39;s creative because</p>
+<p begin="00:10:47.990" end="00:10:51.350" style="s2">nobody wants to just chill out watching</p>
+<p begin="00:10:49.399" end="00:10:53.750" style="s2">TV all the time unless they were already</p>
+<p begin="00:10:51.350" end="00:10:55.370" style="s2">broken broken by a system that tried to</p>
+<p begin="00:10:53.750" end="00:10:56.690" style="s2">incent them to do that nobody wants</p>
+<p begin="00:10:55.370" end="00:10:58.519" style="s2">to do or if they can get away out they</p>
+<p begin="00:10:56.690" end="00:11:00.649" style="s2">will be there broken person but if</p>
+<p begin="00:10:58.519" end="00:11:02.209" style="s2">someone was supported in an education</p>
+<p begin="00:11:00.649" end="00:11:03.740" style="s2">system to pay attention to what they</p>
+<p begin="00:11:02.209" end="00:11:05.029" style="s2">were innately fascinated in and</p>
+<p begin="00:11:03.740" end="00:11:07.459" style="s2">facilitate that they&#39;ll all become</p>
+<p begin="00:11:05.029" end="00:11:09.290" style="s2">masterful at some things within eight</p>
+<p begin="00:11:07.459" end="00:11:11.899" style="s2">intrinsic motivation to do those things</p>
+<p begin="00:11:09.290" end="00:11:15.529" style="s2">and so now in a world where we support</p>
+<p begin="00:11:11.899" end="00:11:17.720" style="s2">everybody to have access to the things</p>
+<p begin="00:11:15.529" end="00:11:20.839" style="s2">that they are intrinsically incentive to</p>
+<p begin="00:11:17.720" end="00:11:23.750" style="s2">want to create which if right now I get</p>
+<p begin="00:11:20.839" end="00:11:25.130" style="s2">status by having stuff but if we are</p>
+<p begin="00:11:23.750" end="00:11:26.750" style="s2">engineering secure SEOs system everyone</p>
+<p begin="00:11:25.130" end="00:11:27.920" style="s2">has access nobody possesses any of it</p>
+<p begin="00:11:26.750" end="00:11:29.450" style="s2">everybody has access to all but there&#39;s</p>
+<p begin="00:11:27.920" end="00:11:30.920" style="s2">no status of having things as totally</p>
+<p begin="00:11:29.450" end="00:11:33.230" style="s2">boring there&#39;s no differential advantage</p>
+<p begin="00:11:30.920" end="00:11:35.149" style="s2">the only way you get status the only way</p>
+<p begin="00:11:33.230" end="00:11:37.250" style="s2">you get to express the uniqueness of who</p>
+<p begin="00:11:35.149" end="00:11:38.420" style="s2">yours by what you create and so now the</p>
+<p begin="00:11:37.250" end="00:11:39.589" style="s2">whole system&#39;s oriented towards that</p>
+<p begin="00:11:38.420" end="00:11:41.690" style="s2">they don&#39;t create something to get money</p>
+<p begin="00:11:39.589" end="00:11:43.160" style="s2">because money for what to have access to</p>
+<p begin="00:11:41.690" end="00:11:45.770" style="s2">she already have access to it but</p>
+<p begin="00:11:43.160" end="00:11:47.480" style="s2">because you get to be someone who</p>
+<p begin="00:11:45.770" end="00:11:49.490" style="s2">created that thing in both your own</p>
+<p begin="00:11:47.480" end="00:11:51.199" style="s2">intrinsic experience evident extras are</p>
+<p begin="00:11:49.490" end="00:11:53.000" style="s2">they getting to offer to the world will</p>
+<p begin="00:11:51.199" end="00:11:55.670" style="s2">recognize that so now we have a</p>
+<p begin="00:11:53.000" end="00:11:57.890" style="s2">situation where we all have access to</p>
+<p begin="00:11:55.670" end="00:11:59.779" style="s2">Commonwealth resources they create an</p>
+<p begin="00:11:57.890" end="00:12:02.300" style="s2">anti rivalries relationship to each</p>
+<p begin="00:11:59.779" end="00:12:03.709" style="s2">other and obviously I&#39;m just speaking</p>
+<p begin="00:12:02.300" end="00:12:05.240" style="s2">about this at a hundred thousand foot</p>
+<p begin="00:12:03.709" end="00:12:06.890" style="s2">level and we could drill down on what</p>
+<p begin="00:12:05.240" end="00:12:08.720" style="s2">the actual architecture looks like but</p>
+<p begin="00:12:06.890" end="00:12:10.810" style="s2">there&#39;s actual architecture here that is</p>
+<p begin="00:12:08.720" end="00:12:13.960" style="s2">viable that means the designs create</p>
+<p begin="00:12:10.810" end="00:12:15.310" style="s2">and we have sense-making processes where</p>
+<p begin="00:12:13.960" end="00:12:17.260" style="s2">we look at what a good design would be</p>
+<p begin="00:12:15.310" end="00:12:18.820" style="s2">before making a proposition for a design</p>
+<p begin="00:12:17.260" end="00:12:20.680" style="s2">that don&#39;t lead to polarization and</p>
+<p begin="00:12:18.820" end="00:12:23.230" style="s2">radicalization but that lead to</p>
+<p begin="00:12:20.680" end="00:12:25.480" style="s2">progressively better synergistic</p>
+<p begin="00:12:23.230" end="00:12:27.850" style="s2">satisfiers that get us out of theory of</p>
+<p begin="00:12:25.480" end="00:12:29.500" style="s2">trade-offs and into race and interested</p>
+<p begin="00:12:27.850" end="00:12:32.530" style="s2">satisfiers also as a way of having</p>
+<p begin="00:12:29.500" end="00:12:34.450" style="s2">people be more unifying and on the same</p>
+<p begin="00:12:32.530" end="00:12:37.120" style="s2">team now if I&#39;ve got this world where</p>
+<p begin="00:12:34.450" end="00:12:38.920" style="s2">its source of competitive advantage if</p>
+<p begin="00:12:37.120" end="00:12:41.110" style="s2">you want to call it that is it it is</p>
+<p begin="00:12:38.920" end="00:12:44.470" style="s2">obsoleted competition within itself so</p>
+<p begin="00:12:41.110" end="00:12:46.090" style="s2">it has real coherence then not only is</p>
+<p begin="00:12:44.470" end="00:12:47.380" style="s2">the quality of life they radically</p>
+<p begin="00:12:46.090" end="00:12:48.760" style="s2">higher because the people don&#39;t feel</p>
+<p begin="00:12:47.380" end="00:12:51.330" style="s2">lonely and they actually have creative</p>
+<p begin="00:12:48.760" end="00:12:54.220" style="s2"> to do and they aren&#39;t being used as</p>
+<p begin="00:12:51.330" end="00:12:56.650" style="s2">instrumental pawns to some other purpose</p>
+<p begin="00:12:54.220" end="00:12:58.060" style="s2">and etc and the quality of life is</p>
+<p begin="00:12:56.650" end="00:12:59.710" style="s2">better because they&#39;re actually making</p>
+<p begin="00:12:58.060" end="00:13:02.080" style="s2">better medicine and better technology</p>
+<p begin="00:12:59.710" end="00:13:03.970" style="s2">and better etc because of the ability</p>
+<p begin="00:13:02.080" end="00:13:05.680" style="s2">for the IP to synthesize and you know</p>
+<p begin="00:13:03.970" end="00:13:08.740" style="s2">everything else but this world can also</p>
+<p begin="00:13:05.680" end="00:13:11.470" style="s2">out in to innovate in really key ways</p>
+<p begin="00:13:08.740" end="00:13:12.790" style="s2">other places in the world and for then</p>
+<p begin="00:13:11.470" end="00:13:15.010" style="s2">rather than the rest of the world</p>
+<p begin="00:13:12.790" end="00:13:16.870" style="s2">wanting to attack it the world it can</p>
+<p begin="00:13:15.010" end="00:13:18.730" style="s2">actually say here will export solutions</p>
+<p begin="00:13:16.870" end="00:13:19.780" style="s2">you want and to the rest of world sorts</p>
+<p begin="00:13:18.730" end="00:13:21.730" style="s2">of creative cause like dependence</p>
+<p begin="00:13:19.780" end="00:13:23.080" style="s2">relationship then the rest of world says</p>
+<p begin="00:13:21.730" end="00:13:24.280" style="s2"> we want to be able to innovate why</p>
+<p begin="00:13:23.080" end="00:13:25.570" style="s2">were they able to solve that problem we</p>
+<p begin="00:13:24.280" end="00:13:27.190" style="s2">weren&#39;t able to solve what cooler guys</p>
+<p begin="00:13:25.570" end="00:13:28.480" style="s2">were like sabotaging each other and</p>
+<p begin="00:13:27.190" end="00:13:30.460" style="s2">their guys weren&#39;t sabotaging each other</p>
+<p begin="00:13:28.480" end="00:13:32.830" style="s2">we say great here&#39;s the social</p>
+<p begin="00:13:30.460" end="00:13:34.390" style="s2">technology we use now as soon as they</p>
+<p begin="00:13:32.830" end="00:13:36.070" style="s2">implement that it&#39;s not being recognized</p>
+<p begin="00:13:34.390" end="00:13:37.600" style="s2">that&#39;s just the world actually shifting</p>
+<p begin="00:13:36.070" end="00:13:39.430" style="s2">that&#39;s where this model actually becomes</p>
+<p begin="00:13:37.600" end="00:13:42.940" style="s2">a new basin of Attraction the world</p>
+<p begin="00:13:39.430" end="00:13:45.310" style="s2">starts flowing - and so you have to do</p>
+<p begin="00:13:42.940" end="00:13:48.130" style="s2">that you create a prototype of an of a</p>
+<p begin="00:13:45.310" end="00:13:51.040" style="s2">full-stack civilization that is anti</p>
+<p begin="00:13:48.130" end="00:13:54.310" style="s2">rivalries it is anti fragile against</p>
+<p begin="00:13:51.040" end="00:13:56.200" style="s2">rivalry Frank&#39;s non power and that is</p>
+<p begin="00:13:54.310" end="00:13:58.600" style="s2">Otto propagating but by the nature of</p>
+<p begin="00:13:56.200" end="00:14:00.970" style="s2">the solutions that it is exporting and</p>
+<p begin="00:13:58.600" end="00:14:02.680" style="s2">by its own adaptive capacity its own</p>
+<p begin="00:14:00.970" end="00:14:05.410" style="s2">design starts to get implemented other</p>
+<p begin="00:14:02.680" end="00:14:09.280" style="s2">places and that&#39;s ultimately the</p>
+<p begin="00:14:05.410" end="00:14:12.580" style="s2">designer that is a path to a post</p>
+<p begin="00:14:09.280" end="00:14:14.350" style="s2">existential risk world which is building</p>
+<p begin="00:14:12.580" end="00:14:16.540" style="s2">it and prototype in a way we&#39;re at Otto</p>
+<p begin="00:14:14.350" end="00:14:19.210" style="s2">propagates that&#39;s so exciting</p>
+<p begin="00:14:16.540" end="00:14:21.220" style="s2">are there places where these prototypes</p>
+<p begin="00:14:19.210" end="00:14:24.190" style="s2">are being built kind of but not really</p>
+<p begin="00:14:21.220" end="00:14:24.640" style="s2">there are intentional communities where</p>
+<p begin="00:14:24.190" end="00:14:27.220" style="s2">people are</p>
+<p begin="00:14:24.640" end="00:14:28.810" style="s2">trying to practice some things that they</p>
+<p begin="00:14:27.220" end="00:14:31.570" style="s2">feel will be relevant a closed-loop</p>
+<p begin="00:14:28.810" end="00:14:33.640" style="s2">agriculture system right where they at</p>
+<p begin="00:14:31.570" end="00:14:36.700" style="s2">least have regenerative agriculture and</p>
+<p begin="00:14:33.640" end="00:14:38.320" style="s2">maybe some kinds of social coherence</p>
+<p begin="00:14:36.700" end="00:14:40.180" style="s2">technologies where they have a better</p>
+<p begin="00:14:38.320" end="00:14:42.190" style="s2">system of conflict resolution than our</p>
+<p begin="00:14:40.180" end="00:14:43.600" style="s2">current judicial system better parenting</p>
+<p begin="00:14:42.190" end="00:14:44.649" style="s2">better education like we have those</p>
+<p begin="00:14:43.600" end="00:14:47.079" style="s2">things and those are cool and they&#39;re</p>
+<p begin="00:14:44.649" end="00:14:49.300" style="s2">valuable but they still have to buy</p>
+<p begin="00:14:47.079" end="00:14:51.100" style="s2">their computers from Apple and fly on a</p>
+<p begin="00:14:49.300" end="00:14:53.920" style="s2">Boeing to get somewhere that depends</p>
+<p begin="00:14:51.100" end="00:14:56.680" style="s2">upon environmental destruction war and</p>
+<p begin="00:14:53.920" end="00:14:59.230" style="s2">so they can&#39;t actually provide a</p>
+<p begin="00:14:56.680" end="00:15:01.060" style="s2">high-tech civilization so then they&#39;re</p>
+<p begin="00:14:59.230" end="00:15:02.829" style="s2">not yet civilization models and the</p>
+<p begin="00:15:01.060" end="00:15:05.110" style="s2">civilization models are all part of this</p>
+<p begin="00:15:02.829" end="00:15:08.019" style="s2">one dominant subluxation model so this</p>
+<p begin="00:15:05.110" end="00:15:10.329" style="s2">is a next endeavor and before a</p>
+<p begin="00:15:08.019" end="00:15:12.760" style="s2">full-stack civilization occurs obviously</p>
+<p begin="00:15:10.329" end="00:15:14.470" style="s2">partial ones but that are directed</p>
+<p begin="00:15:12.760" end="00:15:16.269" style="s2">towards a full-stack civilization have</p>
+<p begin="00:15:14.470" end="00:15:17.829" style="s2">to occur because in the world we&#39;re</p>
+<p begin="00:15:16.269" end="00:15:19.540" style="s2">talking about there is no place for the</p>
+<p begin="00:15:17.829" end="00:15:21.730" style="s2">things currency called judges or lawyers</p>
+<p begin="00:15:19.540" end="00:15:23.920" style="s2">or politicians or bankers because those</p>
+<p begin="00:15:21.730" end="00:15:26.829" style="s2">systems don&#39;t exist now that doesn&#39;t</p>
+<p begin="00:15:23.920" end="00:15:29.199" style="s2">mean that there isn&#39;t a equivalent of a</p>
+<p begin="00:15:26.829" end="00:15:30.640" style="s2">judicial system but it&#39;s totally</p>
+<p begin="00:15:29.199" end="00:15:32.230" style="s2">different from the level of the theory</p>
+<p begin="00:15:30.640" end="00:15:34.149" style="s2">of ethics to the jurisprudence and</p>
+<p begin="00:15:32.230" end="00:15:37.300" style="s2">somebody has to be getting trained in</p>
+<p begin="00:15:34.149" end="00:15:39.010" style="s2">the Civic&#39;s of that system and there&#39;s</p>
+<p begin="00:15:37.300" end="00:15:40.779" style="s2">nothing like banking but there are</p>
+<p begin="00:15:39.010" end="00:15:43.300" style="s2">things like paying attention to how the</p>
+<p begin="00:15:40.779" end="00:15:44.589" style="s2">accounting of this new economy works but</p>
+<p begin="00:15:43.300" end="00:15:46.329" style="s2">people have be trained in that I&#39;ll give</p>
+<p begin="00:15:44.589" end="00:15:49.000" style="s2">you one for instance if we think about</p>
+<p begin="00:15:46.329" end="00:15:50.380" style="s2">the physical economy so we&#39;ll take</p>
+<p begin="00:15:49.000" end="00:15:52.240" style="s2">attention now and just look at physics</p>
+<p begin="00:15:50.380" end="00:15:54.579" style="s2">we see that there&#39;s at least three</p>
+<p begin="00:15:52.240" end="00:15:56.070" style="s2">different kinds of physics involved in</p>
+<p begin="00:15:54.579" end="00:15:58.510" style="s2">the materials economy that are</p>
+<p begin="00:15:56.070" end="00:16:01.029" style="s2">fundamentally different in their math so</p>
+<p begin="00:15:58.510" end="00:16:04.209" style="s2">there is a physics of atoms physical</p>
+<p begin="00:16:01.029" end="00:16:07.600" style="s2">atoms there is a physics of energy and</p>
+<p begin="00:16:04.209" end="00:16:09.519" style="s2">there&#39;s the physics of bits and right</p>
+<p begin="00:16:07.600" end="00:16:12.550" style="s2">now those are all fungible I can use the</p>
+<p begin="00:16:09.519" end="00:16:15.850" style="s2">same dollar to buy software or to buy</p>
+<p begin="00:16:12.550" end="00:16:18.910" style="s2">energy or to buy metals or physical</p>
+<p begin="00:16:15.850" end="00:16:21.220" style="s2">stuff right food but there&#39;s a fixed</p>
+<p begin="00:16:18.910" end="00:16:22.660" style="s2">number of atoms of a certain type on the</p>
+<p begin="00:16:21.220" end="00:16:24.670" style="s2">planet that are reasonably accessible</p>
+<p begin="00:16:22.660" end="00:16:25.810" style="s2">and right now we&#39;re just taking them</p>
+<p begin="00:16:24.670" end="00:16:27.850" style="s2">from the environment in a way that</p>
+<p begin="00:16:25.810" end="00:16:29.709" style="s2">causes depletion and then putting them</p>
+<p begin="00:16:27.850" end="00:16:31.209" style="s2">back into the environment as wastes and</p>
+<p begin="00:16:29.709" end="00:16:32.260" style="s2">way the caused accumulation talks to see</p>
+<p begin="00:16:31.209" end="00:16:33.640" style="s2">on both sides you can&#39;t keep doing that</p>
+<p begin="00:16:32.260" end="00:16:36.010" style="s2">we have to closed-loop it where we have</p>
+<p begin="00:16:33.640" end="00:16:37.150" style="s2">been a give or take finite amount of</p>
+<p begin="00:16:36.010" end="00:16:38.890" style="s2">metals and</p>
+<p begin="00:16:37.150" end="00:16:40.930" style="s2">just medals but hydrocarbons everything</p>
+<p begin="00:16:38.890" end="00:16:44.230" style="s2">a finite amount of atoms that are in a</p>
+<p begin="00:16:40.930" end="00:16:45.910" style="s2">closed-loop relationship but it can be</p>
+<p begin="00:16:44.230" end="00:16:47.380" style="s2">up cycled because we have the energy to</p>
+<p begin="00:16:45.910" end="00:16:50.080" style="s2">upcycle them which means putting the</p>
+<p begin="00:16:47.380" end="00:16:51.580" style="s2">same atoms into higher pattern where the</p>
+<p begin="00:16:50.080" end="00:16:53.590" style="s2">pattern is evolving the pattern stored</p>
+<p begin="00:16:51.580" end="00:16:55.060" style="s2">in bits so if I take the atoms out of</p>
+<p begin="00:16:53.590" end="00:16:57.970" style="s2">one battery put it in a new battery</p>
+<p begin="00:16:55.060" end="00:17:00.850" style="s2">which evolved as battery technology that</p>
+<p begin="00:16:57.970" end="00:17:04.210" style="s2">new battery is in bits a blueprint and</p>
+<p begin="00:17:00.850" end="00:17:06.310" style="s2">I&#39;m going to use energy to take the</p>
+<p begin="00:17:04.210" end="00:17:08.070" style="s2">atoms in the current form disassemble</p>
+<p begin="00:17:06.310" end="00:17:11.920" style="s2">them and reassemble them into this new</p>
+<p begin="00:17:08.070" end="00:17:13.420" style="s2">battery and so there&#39;s a fixed amount of</p>
+<p begin="00:17:11.920" end="00:17:15.250" style="s2">atoms we have to close loop those</p>
+<p begin="00:17:13.420" end="00:17:16.510" style="s2">there&#39;s not a fixed amount of energy we</p>
+<p begin="00:17:15.250" end="00:17:19.630" style="s2">get new energy from the Sun every day</p>
+<p begin="00:17:16.510" end="00:17:21.520" style="s2">but we have kind of a finite bandwidth</p>
+<p begin="00:17:19.630" end="00:17:23.980" style="s2">to how much we get so we have to operate</p>
+<p begin="00:17:21.520" end="00:17:26.860" style="s2">within that&#39;s not closed loop right we</p>
+<p begin="00:17:23.980" end="00:17:31.090" style="s2">can use that up and it has entropy but</p>
+<p begin="00:17:26.860" end="00:17:32.890" style="s2">within that bandwidth we have to work</p>
+<p begin="00:17:31.090" end="00:17:35.230" style="s2">and then dips are fundamentally</p>
+<p begin="00:17:32.890" end="00:17:37.090" style="s2">unlimited limited only by the compute of</p>
+<p begin="00:17:35.230" end="00:17:39.760" style="s2">the energy and matter</p>
+<p begin="00:17:37.090" end="00:17:41.110" style="s2">so that can keep you know expanding</p>
+<p begin="00:17:39.760" end="00:17:43.540" style="s2">basically indefinitely once I&#39;ve made a</p>
+<p begin="00:17:41.110" end="00:17:46.390" style="s2">bit I can reproduce it exponentially</p>
+<p begin="00:17:43.540" end="00:17:48.190" style="s2">without any unit cost because I can</p>
+<p begin="00:17:46.390" end="00:17:50.290" style="s2">reproduce it exponentially without unit</p>
+<p begin="00:17:48.190" end="00:17:52.600" style="s2">cost once I&#39;ve developed it once I can</p>
+<p begin="00:17:50.290" end="00:17:53.950" style="s2">get exponential returns on software in a</p>
+<p begin="00:17:52.600" end="00:17:57.100" style="s2">way that I could never get on atomic</p>
+<p begin="00:17:53.950" end="00:17:59.890" style="s2">stuff which is why Elon has a hard time</p>
+<p begin="00:17:57.100" end="00:18:01.840" style="s2">raising money for physical stuff and</p>
+<p begin="00:17:59.890" end="00:18:04.540" style="s2">what&#39;s that sold for 19 billion dollars</p>
+<p begin="00:18:01.840" end="00:18:07.360" style="s2">it&#39;s why all the unicorns are software</p>
+<p begin="00:18:04.540" end="00:18:09.160" style="s2">and mostly social tech or FinTech or</p>
+<p begin="00:18:07.360" end="00:18:11.830" style="s2">something that is actually doing not</p>
+<p begin="00:18:09.160" end="00:18:15.310" style="s2">good things for the world but it can</p>
+<p begin="00:18:11.830" end="00:18:17.710" style="s2">create exponential returns and it&#39;s why</p>
+<p begin="00:18:15.310" end="00:18:20.140" style="s2">Silicon Valley has been basically mostly</p>
+<p begin="00:18:17.710" end="00:18:22.060" style="s2">just invested in software stuff if you</p>
+<p begin="00:18:20.140" end="00:18:24.670" style="s2">make those fungible you&#39;ll actually be</p>
+<p begin="00:18:22.060" end="00:18:27.190" style="s2">moving the energy away from the atom and</p>
+<p begin="00:18:24.670" end="00:18:28.660" style="s2">away from the energy into the virtual</p>
+<p begin="00:18:27.190" end="00:18:30.880" style="s2">will away from the physical into the</p>
+<p begin="00:18:28.660" end="00:18:32.740" style="s2">virtual even the virtual depends on the</p>
+<p begin="00:18:30.880" end="00:18:34.960" style="s2">physical so you&#39;re actually debasing the</p>
+<p begin="00:18:32.740" end="00:18:37.780" style="s2">substrate upon which it depends and so</p>
+<p begin="00:18:34.960" end="00:18:39.310" style="s2">you notice that since the bit we can</p>
+<p begin="00:18:37.780" end="00:18:41.470" style="s2">keep having more of forever they don&#39;t</p>
+<p begin="00:18:39.310" end="00:18:44.380" style="s2">go through an entropic degradation when</p>
+<p begin="00:18:41.470" end="00:18:46.210" style="s2">we use them the energy we can use it</p>
+<p begin="00:18:44.380" end="00:18:47.740" style="s2">entropically degrades but we get more of</p>
+<p begin="00:18:46.210" end="00:18:50.380" style="s2">it every day and the atoms don&#39;t</p>
+<p begin="00:18:47.740" end="00:18:51.070" style="s2">entropically degrade but we have to keep</p>
+<p begin="00:18:50.380" end="00:18:52.990" style="s2">cycling them</p>
+<p begin="00:18:51.070" end="00:18:54.100" style="s2">there&#39;s a fixed number the physics the</p>
+<p begin="00:18:52.990" end="00:18:55.990" style="s2">accounting of those are totally</p>
+<p begin="00:18:54.100" end="00:18:57.519" style="s2">different that&#39;s not one economy that&#39;s</p>
+<p begin="00:18:55.990" end="00:19:00.490" style="s2">fungible to itself with one accounting</p>
+<p begin="00:18:57.519" end="00:19:02.620" style="s2">system that&#39;s three completely separate</p>
+<p begin="00:19:00.490" end="00:19:04.570" style="s2">but interacting physical economies and</p>
+<p begin="00:19:02.620" end="00:19:07.450" style="s2">now again we already said we&#39;re not</p>
+<p begin="00:19:04.570" end="00:19:09.519" style="s2">owning goods we&#39;re having access to</p>
+<p begin="00:19:07.450" end="00:19:11.049" style="s2">shared common wealth services but this</p>
+<p begin="00:19:09.519" end="00:19:12.429" style="s2">is just first to really go into it it&#39;s</p>
+<p begin="00:19:11.049" end="00:19:14.110" style="s2">a lot of things but these are examples</p>
+<p begin="00:19:12.429" end="00:19:16.480" style="s2">of some of the considerations that have</p>
+<p begin="00:19:14.110" end="00:19:18.940" style="s2">to happen to actually be able to think</p>
+<p begin="00:19:16.480" end="00:19:20.860" style="s2">about things like economics at a level</p>
+<p begin="00:19:18.940" end="00:19:26.320" style="s2">of depth that is appropriate to the</p>
+<p begin="00:19:20.860" end="00:19:28.539" style="s2">nature of the issues if we don&#39;t answer</p>
+<p begin="00:19:26.320" end="00:19:30.519" style="s2">the question of what makes a good</p>
+<p begin="00:19:28.539" end="00:19:32.590" style="s2">civilization and we simply say would</p>
+<p begin="00:19:30.519" end="00:19:35.019" style="s2">allow civilization to endure and so we</p>
+<p begin="00:19:32.590" end="00:19:37.440" style="s2">start with let&#39;s just say we don&#39;t want</p>
+<p begin="00:19:35.019" end="00:19:39.909" style="s2">excess centralized traffic risk and</p>
+<p begin="00:19:37.440" end="00:19:41.529" style="s2">there&#39;s a whole bunch of different types</p>
+<p begin="00:19:39.909" end="00:19:42.789" style="s2">of excess and from catastrophic risks</p>
+<p begin="00:19:41.529" end="00:19:44.019" style="s2">that all have the same generator</p>
+<p begin="00:19:42.789" end="00:19:45.850" style="s2">functions so we have to create</p>
+<p begin="00:19:44.019" end="00:19:47.860" style="s2">categorical solutions to the generator</p>
+<p begin="00:19:45.850" end="00:19:49.419" style="s2">functions it turns out that those are</p>
+<p begin="00:19:47.860" end="00:19:52.120" style="s2">the generator functions that have made</p>
+<p begin="00:19:49.419" end="00:19:54.370" style="s2">all the things that we intuitively have</p>
+<p begin="00:19:52.120" end="00:19:57.009" style="s2">experienced that sucking like violence</p>
+<p begin="00:19:54.370" end="00:19:58.779" style="s2">and environmental devastation and that</p>
+<p begin="00:19:57.009" end="00:20:00.639" style="s2">solving those generator functions</p>
+<p begin="00:19:58.779" end="00:20:03.549" style="s2">doesn&#39;t just allow us to survive and</p>
+<p begin="00:20:00.639" end="00:20:05.379" style="s2">maybe some dystopian dynamic anti rival</p>
+<p begin="00:20:03.549" end="00:20:07.059" style="s2">risk dynamics with each other and closed</p>
+<p begin="00:20:05.379" end="00:20:08.769" style="s2">loop dynamics and the proper</p>
+<p begin="00:20:07.059" end="00:20:10.659" style="s2">relationship between the complicated and</p>
+<p begin="00:20:08.769" end="00:20:12.759" style="s2">the complex scalable collective</p>
+<p begin="00:20:10.659" end="00:20:14.529" style="s2">intelligence systems and a right</p>
+<p begin="00:20:12.759" end="00:20:15.940" style="s2">understanding and theory of choice in</p>
+<p begin="00:20:14.529" end="00:20:19.149" style="s2">relationship with theory of causation</p>
+<p begin="00:20:15.940" end="00:20:21.700" style="s2">end up being a way of mapping to a world</p>
+<p begin="00:20:19.149" end="00:20:24.250" style="s2">that is definitely proto becan any</p>
+<p begin="00:20:21.700" end="00:20:26.620" style="s2">meaningful definition of proto P and any</p>
+<p begin="00:20:24.250" end="00:20:29.590" style="s2">meaningful kind of consideration of what</p>
+<p begin="00:20:26.620" end="00:20:31.840" style="s2">good could mean and so we come back to</p>
+<p begin="00:20:29.590" end="00:20:33.700" style="s2">this mythopoetic we can&#39;t keep going the</p>
+<p begin="00:20:31.840" end="00:20:35.919" style="s2">way that we&#39;re going there&#39;s a purgatory</p>
+<p begin="00:20:33.700" end="00:20:38.860" style="s2">coming and it&#39;s gonna go one way or the</p>
+<p begin="00:20:35.919" end="00:20:40.690" style="s2">other and one way is really fitting one</p>
+<p begin="00:20:38.860" end="00:20:43.029" style="s2">way is really lovely that&#39;s the true</p>
+<p begin="00:20:40.690" end="00:20:44.889" style="s2">story and Bucky fuller said utopia or</p>
+<p begin="00:20:43.029" end="00:20:46.539" style="s2">oblivion and it&#39;s gonna be hit or miss</p>
+<p begin="00:20:44.889" end="00:20:49.120" style="s2">til we&#39;re actually there when I couldn&#39;t</p>
+<p begin="00:20:46.539" end="00:20:50.710" style="s2">know which which way it goes this the</p>
+<p begin="00:20:49.120" end="00:20:53.769" style="s2">thing I would just kind of end on is</p>
+<p begin="00:20:50.710" end="00:20:56.110" style="s2">what it takes if we try to solve the</p>
+<p begin="00:20:53.769" end="00:20:58.330" style="s2">various risks in isolation is impossible</p>
+<p begin="00:20:56.110" end="00:21:01.809" style="s2">we fail if what it takes to solve them</p>
+<p begin="00:20:58.330" end="00:21:03.650" style="s2">categorically ends up also mapping to</p>
+<p begin="00:21:01.809" end="00:21:07.580" style="s2">how we in</p>
+<p begin="00:21:03.650" end="00:21:09.289" style="s2">everyone in creating the true the good</p>
+<p begin="00:21:07.580" end="00:21:11.090" style="s2">and the beautiful that is there to</p>
+<p begin="00:21:09.289" end="00:21:12.620" style="s2">create progressively better both up</p>
+<p begin="00:21:11.090" end="00:21:14.150" style="s2">regulating their sense making of what</p>
+<p begin="00:21:12.620" end="00:21:15.890" style="s2">that is with themselves and with each</p>
+<p begin="00:21:14.150" end="00:21:18.230" style="s2">other and being able to make that</p>
+<p begin="00:21:15.890" end="00:21:19.909" style="s2">scaling the collective intelligence that</p>
+<p begin="00:21:18.230" end="00:21:22.159" style="s2">is progressively answering those</p>
+<p begin="00:21:19.909" end="00:21:24.289" style="s2">questions better can you leave us with</p>
+<p begin="00:21:22.159" end="00:21:26.240" style="s2">some book recommendations for anyone who</p>
+<p begin="00:21:24.289" end="00:21:28.700" style="s2">wants to read up on this a little more</p>
+<p begin="00:21:26.240" end="00:21:32.150" style="s2">and and expand their understanding books</p>
+<p begin="00:21:28.700" end="00:21:35.690" style="s2">are are there resources yes I wish I</p>
+<p begin="00:21:32.150" end="00:21:37.340" style="s2">could share more things than I can but a</p>
+<p begin="00:21:35.690" end="00:21:40.399" style="s2">lot of what we&#39;re thinking in terms of</p>
+<p begin="00:21:37.340" end="00:21:42.020" style="s2">new civilization design like this has is</p>
+<p begin="00:21:40.399" end="00:21:43.970" style="s2">new doesn&#39;t mean it&#39;s not drawing on</p>
+<p begin="00:21:42.020" end="00:21:45.770" style="s2">lots of elements so a couple things we</p>
+<p begin="00:21:43.970" end="00:21:47.600" style="s2">mentioned Jeffery West&#39;s work scale on</p>
+<p begin="00:21:45.770" end="00:21:50.029" style="s2">collective intelligence that&#39;s very</p>
+<p begin="00:21:47.600" end="00:21:51.649" style="s2">valuable we talk about some of the</p>
+<p begin="00:21:50.029" end="00:21:53.419" style="s2">dynamics of game theory that have to</p>
+<p begin="00:21:51.649" end="00:21:55.309" style="s2">shift and so finite and infinite games</p>
+<p begin="00:21:53.419" end="00:21:57.860" style="s2">is just my favorite starting point and</p>
+<p begin="00:21:55.309" end="00:21:59.960" style="s2">it&#39;s one of the types of books that is</p>
+<p begin="00:21:57.860" end="00:22:01.220" style="s2">very simple but has multiple levels of</p>
+<p begin="00:21:59.960" end="00:22:02.630" style="s2">depth of meaning that if you read it</p>
+<p begin="00:22:01.220" end="00:22:04.520" style="s2">multiple times you&#39;ll be in new insights</p>
+<p begin="00:22:02.630" end="00:22:08.210" style="s2">yeah that wouldn&#39;t blew my mind</p>
+<p begin="00:22:04.520" end="00:22:10.250" style="s2">yep me too James cars very beautiful and</p>
+<p begin="00:22:08.210" end="00:22:12.409" style="s2">you know I have a blog civilization</p>
+<p begin="00:22:10.250" end="00:22:14.390" style="s2">emerging calm that has some articles and</p>
+<p begin="00:22:12.409" end="00:22:16.390" style="s2">these types of topics and there&#39;s also a</p>
+<p begin="00:22:14.390" end="00:22:21.110" style="s2">book list there with a heap of books</p>
+<p begin="00:22:16.390" end="00:22:24.620" style="s2">great great awesome this as always is</p>
+<p begin="00:22:21.110" end="00:22:25.970" style="s2">enlightening and and so fun you know</p>
+<p begin="00:22:24.620" end="00:22:27.649" style="s2">there are books that are valuable and</p>
+<p begin="00:22:25.970" end="00:22:30.470" style="s2">there&#39;s obviously like all of your</p>
+<p begin="00:22:27.649" end="00:22:32.090" style="s2">podcasts are valuable if you had the</p>
+<p begin="00:22:30.470" end="00:22:33.860" style="s2">experience of anything that I said</p>
+<p begin="00:22:32.090" end="00:22:35.570" style="s2">making sense and actually seeming</p>
+<p begin="00:22:33.860" end="00:22:37.220" style="s2">obvious but then you also realize you</p>
+<p begin="00:22:35.570" end="00:22:38.720" style="s2">never thought it in that particular way</p>
+<p begin="00:22:37.220" end="00:22:40.220" style="s2">and there&#39;s a question why did I never</p>
+<p begin="00:22:38.720" end="00:22:43.190" style="s2">think it in that way even though it</p>
+<p begin="00:22:40.220" end="00:22:45.470" style="s2">seems obvious after the fact and that&#39;s</p>
+<p begin="00:22:43.190" end="00:22:47.960" style="s2">one of the principles that clarity when</p>
+<p begin="00:22:45.470" end="00:22:50.149" style="s2">the properties that clarity has is it</p>
+<p begin="00:22:47.960" end="00:22:52.399" style="s2">can add a novel insight but it seems</p>
+<p begin="00:22:50.149" end="00:22:54.049" style="s2">obvious and kind of prima facie relates</p>
+<p begin="00:22:52.399" end="00:22:56.270" style="s2">to everything that you know let me say</p>
+<p begin="00:22:54.049" end="00:22:59.480" style="s2">okay I wasn&#39;t thinking about rival risk</p>
+<p begin="00:22:56.270" end="00:23:01.520" style="s2">dynamics and upping the ante clearly</p>
+<p begin="00:22:59.480" end="00:23:03.700" style="s2">enough I wasn&#39;t thinking about the</p>
+<p begin="00:23:01.520" end="00:23:06.049" style="s2">exponential economy in software and</p>
+<p begin="00:23:03.700" end="00:23:07.429" style="s2">atoms all being fungible like there&#39;s a</p>
+<p begin="00:23:06.049" end="00:23:09.110" style="s2">problem there I wasn&#39;t thinking about</p>
+<p begin="00:23:07.429" end="00:23:11.840" style="s2">open loops closed loops in this</p>
+<p begin="00:23:09.110" end="00:23:14.059" style="s2">particular way but you can if you start</p>
+<p begin="00:23:11.840" end="00:23:16.930" style="s2">just asking for yourself what do I think</p>
+<p begin="00:23:14.059" end="00:23:18.700" style="s2">is actually wrong and</p>
+<p begin="00:23:16.930" end="00:23:21.880" style="s2">of all the things that seem wrong what</p>
+<p begin="00:23:18.700" end="00:23:23.680" style="s2">do they have in common and why are those</p>
+<p begin="00:23:21.880" end="00:23:26.320" style="s2">things that are wrong wrong what is</p>
+<p begin="00:23:23.680" end="00:23:28.090" style="s2">going on and then go deeper keep going</p>
+<p begin="00:23:26.320" end="00:23:29.320" style="s2">deeper with that and don&#39;t look for one</p>
+<p begin="00:23:28.090" end="00:23:31.390" style="s2">answer are there a number of different</p>
+<p begin="00:23:29.320" end="00:23:33.490" style="s2">things that come together that are</p>
+<p begin="00:23:31.390" end="00:23:36.610" style="s2">partial answers to this and what would</p>
+<p begin="00:23:33.490" end="00:23:38.230" style="s2">solving that look like and there are</p>
+<p begin="00:23:36.610" end="00:23:39.970" style="s2">resources of other people&#39;s thinking on</p>
+<p begin="00:23:38.230" end="00:23:42.160" style="s2">these things but they won&#39;t replace they</p>
+<p begin="00:23:39.970" end="00:23:43.780" style="s2">will inspire they won&#39;t replace your own</p>
+<p begin="00:23:42.160" end="00:23:45.940" style="s2">deep thinking on these things for your</p>
+<p begin="00:23:43.780" end="00:23:49.210" style="s2">own sense making and so the resource</p>
+<p begin="00:23:45.940" end="00:23:51.550" style="s2">that I would offer the most is when you</p>
+<p begin="00:23:49.210" end="00:23:54.070" style="s2">are bothered by something where you wish</p>
+<p begin="00:23:51.550" end="00:23:55.900" style="s2">some beautiful thing existed more than</p>
+<p begin="00:23:54.070" end="00:23:58.330" style="s2">it does really think hard about why</p>
+<p begin="00:23:55.900" end="00:23:59.920" style="s2">things are the way they are and know</p>
+<p begin="00:23:58.330" end="00:24:02.200" style="s2">that the first thought you will come up</p>
+<p begin="00:23:59.920" end="00:24:04.360" style="s2">with are not that good but if you stop</p>
+<p begin="00:24:02.200" end="00:24:05.710" style="s2">you won&#39;t get beyond there but if you</p>
+<p begin="00:24:04.360" end="00:24:07.540" style="s2">really keep working on and thinking</p>
+<p begin="00:24:05.710" end="00:24:09.760" style="s2">about it and then going and researching</p>
+<p begin="00:24:07.540" end="00:24:11.020" style="s2">in light of that question and then</p>
+<p begin="00:24:09.760" end="00:24:13.390" style="s2">thinking about it more you actually</p>
+<p begin="00:24:11.020" end="00:24:15.730" style="s2">start to get novel and meaningful and</p>
+<p begin="00:24:13.390" end="00:24:17.590" style="s2">deeper sense making that is aligned with</p>
+<p begin="00:24:15.730" end="00:24:20.140" style="s2">what is yours to pay attention to a</p>
+<p begin="00:24:17.590" end="00:24:23.380" style="s2">marker to relate to what you said</p>
+<p begin="00:24:20.140" end="00:24:26.290" style="s2">earlier I think it really helps to use</p>
+<p begin="00:24:23.380" end="00:24:28.390" style="s2">different modes of inquiry people can</p>
+<p begin="00:24:26.290" end="00:24:32.080" style="s2">get stuck in just intellectual enquiry</p>
+<p begin="00:24:28.390" end="00:24:34.600" style="s2">or just spiritual inquiry but you know</p>
+<p begin="00:24:32.080" end="00:24:36.340" style="s2">all are valuable and when we can see the</p>
+<p begin="00:24:34.600" end="00:24:38.530" style="s2">same thing from several different</p>
+<p begin="00:24:36.340" end="00:24:41.260" style="s2">perspectives it becomes a 3d object</p>
+<p begin="00:24:38.530" end="00:24:43.600" style="s2">rather than just being flat you just</p>
+<p begin="00:24:41.260" end="00:24:46.840" style="s2">actually mentioned one of my favorite</p>
+<p begin="00:24:43.600" end="00:24:48.490" style="s2">practices is really endeavoring to see</p>
+<p begin="00:24:46.840" end="00:24:51.720" style="s2">and experience the world through the</p>
+<p begin="00:24:48.490" end="00:24:54.160" style="s2">perspective of someone else and actually</p>
+<p begin="00:24:51.720" end="00:24:56.290" style="s2">see and experience it and if I&#39;m still</p>
+<p begin="00:24:54.160" end="00:24:57.820" style="s2">thinking no if I was in their position I</p>
+<p begin="00:24:56.290" end="00:24:59.710" style="s2">wouldn&#39;t do that I haven&#39;t got it yet so</p>
+<p begin="00:24:57.820" end="00:25:01.270" style="s2">I was in that position would be if I&#39;m</p>
+<p begin="00:24:59.710" end="00:25:02.740" style="s2">really putting myself in a position I</p>
+<p begin="00:25:01.270" end="00:25:04.420" style="s2">would get enraged by the things they&#39;re</p>
+<p begin="00:25:02.740" end="00:25:06.490" style="s2">enraged by I would get excited by the</p>
+<p begin="00:25:04.420" end="00:25:09.580" style="s2">things are excited by and so this both</p>
+<p begin="00:25:06.490" end="00:25:11.980" style="s2">has a practice of empathy in connection</p>
+<p begin="00:25:09.580" end="00:25:13.750" style="s2">as a practice of understanding as a</p>
+<p begin="00:25:11.980" end="00:25:15.610" style="s2">practice of intelligence and learning</p>
+<p begin="00:25:13.750" end="00:25:17.170" style="s2">because I see different things if I look</p>
+<p begin="00:25:15.610" end="00:25:18.730" style="s2">at the world through the lens of a</p>
+<p begin="00:25:17.170" end="00:25:20.380" style="s2">mechanical engineer I see</p>
+<p begin="00:25:18.730" end="00:25:22.450" style="s2">everywhere that mechanical engineer see</p>
+<p begin="00:25:20.380" end="00:25:23.530" style="s2">that you never saw which is different</p>
+<p begin="00:25:22.450" end="00:25:25.390" style="s2">than if you look through the lens of a</p>
+<p begin="00:25:23.530" end="00:25:27.340" style="s2">fashion designer where you look through</p>
+<p begin="00:25:25.390" end="00:25:28.540" style="s2">the lens of you know a game theory</p>
+<p begin="00:25:27.340" end="00:25:30.490" style="s2">person they&#39;re looking at different</p>
+<p begin="00:25:28.540" end="00:25:30.800" style="s2">things or an evolutionary biologist well</p>
+<p begin="00:25:30.490" end="00:25:31.700" style="s2">is</p>
+<p begin="00:25:30.800" end="00:25:33.230" style="s2">the universe that wasn&#39;t paying</p>
+<p begin="00:25:31.700" end="00:25:35.030" style="s2">attention to like when you buy the car</p>
+<p begin="00:25:33.230" end="00:25:36.620" style="s2">and you see it everywhere you put on the</p>
+<p begin="00:25:35.030" end="00:25:38.750" style="s2">lens you start seeing all kinds of stuff</p>
+<p begin="00:25:36.620" end="00:25:40.910" style="s2">your factory sends me but also as a kind</p>
+<p begin="00:25:38.750" end="00:25:42.980" style="s2">of spiritual technology of getting out</p>
+<p begin="00:25:40.910" end="00:25:45.470" style="s2">of the default mode of what you think</p>
+<p begin="00:25:42.980" end="00:25:47.330" style="s2">you are and when I&#39;m trying to be</p>
+<p begin="00:25:45.470" end="00:25:49.010" style="s2">someone else it&#39;s not my personality</p>
+<p begin="00:25:47.330" end="00:25:50.390" style="s2">that can do that if I&#39;m trying to take</p>
+<p begin="00:25:49.010" end="00:25:52.250" style="s2">their personality well it&#39;s not my</p>
+<p begin="00:25:50.390" end="00:25:53.900" style="s2">perspective that can do it it is same</p>
+<p begin="00:25:52.250" end="00:25:55.280" style="s2">consciousness of witnessing my</p>
+<p begin="00:25:53.900" end="00:25:57.140" style="s2">perspective that can then make me</p>
+<p begin="00:25:55.280" end="00:26:00.140" style="s2">somebody else&#39;s as soon as I do that I</p>
+<p begin="00:25:57.140" end="00:26:01.940" style="s2">actually dissociate from just being my</p>
+<p begin="00:26:00.140" end="00:26:03.500" style="s2">personality and then I get some more</p>
+<p begin="00:26:01.940" end="00:26:06.830" style="s2">spaciousness around it and less reactive</p>
+<p begin="00:26:03.500" end="00:26:08.300" style="s2">by it and this also relates to not just</p>
+<p begin="00:26:06.830" end="00:26:10.340" style="s2">looking through the lens of different</p>
+<p begin="00:26:08.300" end="00:26:12.980" style="s2">personalities or different modern</p>
+<p begin="00:26:10.340" end="00:26:15.410" style="s2">frameworks it&#39;s also looking through the</p>
+<p begin="00:26:12.980" end="00:26:17.240" style="s2">lens of pre-modern frameworks or even</p>
+<p begin="00:26:15.410" end="00:26:19.670" style="s2">animal frameworks and that can all be</p>
+<p begin="00:26:17.240" end="00:26:20.990" style="s2">very useful as well because if we look</p>
+<p begin="00:26:19.670" end="00:26:23.500" style="s2">at the world through the lens of</p>
+<p begin="00:26:20.990" end="00:26:25.880" style="s2">quote-unquote primitive tribe then</p>
+<p begin="00:26:23.500" end="00:26:27.470" style="s2">different things come into focus and</p>
+<p begin="00:26:25.880" end="00:26:29.570" style="s2">different things become very meaningful</p>
+<p begin="00:26:27.470" end="00:26:31.520" style="s2">and very powerfully meaningful like it</p>
+<p begin="00:26:29.570" end="00:26:35.420" style="s2">resonates through your whole being just</p>
+<p begin="00:26:31.520" end="00:26:36.710" style="s2">you know Wow and that&#39;s not to be</p>
+<p begin="00:26:35.420" end="00:26:38.810" style="s2">dismissed because there&#39;s something</p>
+<p begin="00:26:36.710" end="00:26:40.820" style="s2">there I mean at the very minimum for</p>
+<p begin="00:26:38.810" end="00:26:42.830" style="s2">self-discovery it&#39;s super useful because</p>
+<p begin="00:26:40.820" end="00:26:44.630" style="s2">you know we spent more time as those</p>
+<p begin="00:26:42.830" end="00:26:46.640" style="s2">primitive versions of ourselves and we</p>
+<p begin="00:26:44.630" end="00:26:48.650" style="s2">have the modern versions and you can</p>
+<p begin="00:26:46.640" end="00:26:50.960" style="s2">kind of untie a lot of behaviors that</p>
+<p begin="00:26:48.650" end="00:26:52.460" style="s2">you don&#39;t really realize you have based</p>
+<p begin="00:26:50.960" end="00:26:56.870" style="s2">off of just looking at the world from a</p>
+<p begin="00:26:52.460" end="00:26:59.120" style="s2">primitive standpoint well your air has</p>
+<p begin="00:26:56.870" end="00:27:00.560" style="s2">some people decide to go visit the</p>
+<p begin="00:26:59.120" end="00:27:02.900" style="s2">Amazon and live with the tribe and</p>
+<p begin="00:27:00.560" end="00:27:06.050" style="s2">experience the world through those eyes</p>
+<p begin="00:27:02.900" end="00:27:08.540" style="s2">and be affected by it and then look at</p>
+<p begin="00:27:06.050" end="00:27:10.400" style="s2">how they can incorporate elements of</p>
+<p begin="00:27:08.540" end="00:27:12.200" style="s2">that experience of the world and their</p>
+<p begin="00:27:10.400" end="00:27:14.630" style="s2">previous experience of the world to</p>
+<p begin="00:27:12.200" end="00:27:15.580" style="s2">being able to live more fully they&#39;ll be</p>
+<p begin="00:27:14.630" end="00:27:18.110" style="s2">beautiful</p>
+<p begin="00:27:15.580" end="00:27:20.840" style="s2">I really appreciated being here with you</p>
+<p begin="00:27:18.110" end="00:27:24.500" style="s2">both and I think I really do want to say</p>
+<p begin="00:27:20.840" end="00:27:27.350" style="s2">that I love war podcast and I level</p>
+<p begin="00:27:24.500" end="00:27:31.430" style="s2">you&#39;re creating both of you together</p>
+<p begin="00:27:27.350" end="00:27:35.270" style="s2">it&#39;s very easy to have well informed</p>
+<p begin="00:27:31.430" end="00:27:37.700" style="s2">dystopian beauty and it&#39;s easy to not</p>
+<p begin="00:27:35.270" end="00:27:41.030" style="s2">think about things or it&#39;s easy to have</p>
+<p begin="00:27:37.700" end="00:27:42.830" style="s2">poorly informed positive views but to</p>
+<p begin="00:27:41.030" end="00:27:44.650" style="s2">have well-informed positive views is</p>
+<p begin="00:27:42.830" end="00:27:47.559" style="s2">actually tricky because</p>
+<p begin="00:27:44.650" end="00:27:49.870" style="s2">if we keep being anything like the kinds</p>
+<p begin="00:27:47.559" end="00:27:51.490" style="s2">of people that we have always been that</p>
+<p begin="00:27:49.870" end="00:27:53.230" style="s2">do really wonderful and really atrocious</p>
+<p begin="00:27:51.490" end="00:27:55.180" style="s2"> with our power but having</p>
+<p begin="00:27:53.230" end="00:27:57.610" style="s2">exponentially more power they&#39;re all</p>
+<p begin="00:27:55.180" end="00:27:58.809" style="s2">dystopian scenarios and so we have to be</p>
+<p begin="00:27:57.610" end="00:28:00.580" style="s2">something really different than we&#39;ve</p>
+<p begin="00:27:58.809" end="00:28:02.140" style="s2">ever been which requires some type of</p>
+<p begin="00:28:00.580" end="00:28:04.240" style="s2">deep shifts that could make that happen</p>
+<p begin="00:28:02.140" end="00:28:06.640" style="s2">that requires some deep thinking right</p>
+<p begin="00:28:04.240" end="00:28:08.590" style="s2">in some deep imagination and I know</p>
+<p begin="00:28:06.640" end="00:28:11.170" style="s2">that&#39;s what you are really dedicated to</p>
+<p begin="00:28:08.590" end="00:28:14.290" style="s2">doing here on the show and minded of</p>
+<p begin="00:28:11.170" end="00:28:17.890" style="s2">this quote from the book of Romans it</p>
+<p begin="00:28:14.290" end="00:28:19.720" style="s2">says the pathway to heaven is narrow and</p>
+<p begin="00:28:17.890" end="00:28:21.520" style="s2">steep and the pathway to hell is wide</p>
+<p begin="00:28:19.720" end="00:28:23.710" style="s2">and many and it&#39;s kind of just like a</p>
+<p begin="00:28:21.520" end="00:28:25.450" style="s2">way of thinking about thermodynamics</p>
+<p begin="00:28:23.710" end="00:28:26.980" style="s2">which is that there&#39;s just more ways to</p>
+<p begin="00:28:25.450" end="00:28:29.470" style="s2">break shape than to build it there&#39;s</p>
+<p begin="00:28:26.980" end="00:28:30.910" style="s2">like not that many ways this all the</p>
+<p begin="00:28:29.470" end="00:28:32.679" style="s2">cells and your body can come together</p>
+<p begin="00:28:30.910" end="00:28:34.120" style="s2">that make you with the emergent property</p>
+<p begin="00:28:32.679" end="00:28:38.050" style="s2">of you there&#39;s a lot of ways that you</p>
+<p begin="00:28:34.120" end="00:28:40.030" style="s2">just get like 150 pounds of goo and so</p>
+<p begin="00:28:38.050" end="00:28:42.070" style="s2">who is they like okay we got a lot of</p>
+<p begin="00:28:40.030" end="00:28:44.380" style="s2">power and most of those scenarios with a</p>
+<p begin="00:28:42.070" end="00:28:46.030" style="s2">lot of power suck how could we have this</p>
+<p begin="00:28:44.380" end="00:28:47.230" style="s2">much power that doesn&#39;t suck how could</p>
+<p begin="00:28:46.030" end="00:28:49.120" style="s2">we have this much power not use it</p>
+<p begin="00:28:47.230" end="00:28:51.670" style="s2">against each other and we start seeing</p>
+<p begin="00:28:49.120" end="00:28:54.190" style="s2">Orwell in control systems and we start</p>
+<p begin="00:28:51.670" end="00:28:55.990" style="s2">seeing how that sucks too and to keep</p>
+<p begin="00:28:54.190" end="00:28:59.260" style="s2">thinking through how could we have it</p>
+<p begin="00:28:55.990" end="00:29:01.690" style="s2">that doesn&#39;t suck oh and I can&#39;t depend</p>
+<p begin="00:28:59.260" end="00:29:04.090" style="s2">on aliens or Jesus with coming back like</p>
+<p begin="00:29:01.690" end="00:29:05.890" style="s2">how do we get us to be that kind of</p>
+<p begin="00:29:04.090" end="00:29:07.540" style="s2">consciousness it&#39;s a really good way of</p>
+<p begin="00:29:05.890" end="00:29:09.070" style="s2">thinking about how to actually address</p>
+<p begin="00:29:07.540" end="00:29:10.690" style="s2">these problems because if we can&#39;t no</p>
+<p begin="00:29:09.070" end="00:29:14.460" style="s2">Voltaire&#39;s without vision man perishes</p>
+<p begin="00:29:10.690" end="00:29:16.690" style="s2">if we can&#39;t even see a well grounded</p>
+<p begin="00:29:14.460" end="00:29:18.400" style="s2">positive future and positive use of the</p>
+<p begin="00:29:16.690" end="00:29:19.300" style="s2">technological capacity you have we are</p>
+<p begin="00:29:18.400" end="00:29:22.780" style="s2">not gonna make it</p>
+<p begin="00:29:19.300" end="00:29:26.580" style="s2">and so I love that you all have this</p>
+<p begin="00:29:22.780" end="00:29:30.190" style="s2">space dedicated to exploring I think</p>
+<p begin="00:29:26.580" end="00:29:31.720" style="s2">incentive is always evil to Mitch so I</p>
+<p begin="00:29:30.190" end="00:29:34.090" style="s2">don&#39;t want to move from perverse</p>
+<p begin="00:29:31.720" end="00:29:37.030" style="s2">incentive to positive incentive positive</p>
+<p begin="00:29:34.090" end="00:29:39.190" style="s2">incentive means my sense making has</p>
+<p begin="00:29:37.030" end="00:29:41.559" style="s2">determined what I think is good and I&#39;m</p>
+<p begin="00:29:39.190" end="00:29:43.420" style="s2">going to try and extrinsic ly override</p>
+<p begin="00:29:41.559" end="00:29:45.100" style="s2">your sense making to make a choice</p>
+<p begin="00:29:43.420" end="00:29:48.460" style="s2">aligned with my sense making I&#39;m gonna</p>
+<p begin="00:29:45.100" end="00:29:50.590" style="s2">use a extrinsic reward strategy to</p>
+<p begin="00:29:48.460" end="00:29:52.540" style="s2">co-opt your sovereignty and have your</p>
+<p begin="00:29:50.590" end="00:29:54.900" style="s2">choice making be based on my sense</p>
+<p begin="00:29:52.540" end="00:29:58.800" style="s2">making incentive scheme are the neurons</p>
+<p begin="00:29:54.900" end="00:30:00.660" style="s2">and that is always the basis of evil if</p>
+<p begin="00:29:58.800" end="00:30:03.059" style="s2">I once have a collective intelligence</p>
+<p begin="00:30:00.660" end="00:30:06.600" style="s2">that&#39;s actually intelligent I need</p>
+<p begin="00:30:03.059" end="00:30:09.900" style="s2">everyone to have intrinsic sense making</p>
+<p begin="00:30:06.600" end="00:30:12.510" style="s2">and choice making that is uncorruptible</p>
+<p begin="00:30:09.900" end="00:30:14.820" style="s2">which means it&#39;s not being co-opted by</p>
+<p begin="00:30:12.510" end="00:30:17.790" style="s2">extrinsic reward and Punishment schemas</p>
+<p begin="00:30:14.820" end="00:30:20.370" style="s2">I got this wrong at first I used to say</p>
+<p begin="00:30:17.790" end="00:30:22.920" style="s2">we have to create a world where the</p>
+<p begin="00:30:20.370" end="00:30:24.360" style="s2">incentive of every agent is rigorously</p>
+<p begin="00:30:22.920" end="00:30:26.160" style="s2">aligned with the well-being of every</p>
+<p begin="00:30:24.360" end="00:30:29.460" style="s2">other agent and of the Commons that is</p>
+<p begin="00:30:26.160" end="00:30:33.120" style="s2">wrong what is right is to say that we</p>
+<p begin="00:30:29.460" end="00:30:35.429" style="s2">must rigorously remove any place where</p>
+<p begin="00:30:33.120" end="00:30:38.190" style="s2">the incentive of an agent is misaligned</p>
+<p begin="00:30:35.429" end="00:30:41.490" style="s2">with the well-being of other agents in</p>
+<p begin="00:30:38.190" end="00:30:44.429" style="s2">the Commons but a adequate future is one</p>
+<p begin="00:30:41.490" end="00:30:48.510" style="s2">that has no system of structural</p>
+<p begin="00:30:44.429" end="00:30:52.200" style="s2">incentive that&#39;s a mind-blower the cells</p>
+<p begin="00:30:48.510" end="00:30:53.790" style="s2">in your body are actually not trying to</p>
+<p begin="00:30:52.200" end="00:30:56.160" style="s2">get the other ones to do what they want</p>
+<p begin="00:30:53.790" end="00:30:57.660" style="s2">them to do they have their own internal</p>
+<p begin="00:30:56.160" end="00:30:59.220" style="s2">sense making processes and they do what</p>
+<p begin="00:30:57.660" end="00:31:00.510" style="s2">makes sense to them and what makes sense</p>
+<p begin="00:30:59.220" end="00:31:01.590" style="s2">them also happens to be what&#39;s good for</p>
+<p begin="00:31:00.510" end="00:31:02.940" style="s2">the ones around them because they depend</p>
+<p begin="00:31:01.590" end="00:31:04.290" style="s2">on the ones around them and vice versa</p>
+<p begin="00:31:02.940" end="00:31:06.750" style="s2">and they&#39;re in a communication process</p>
+<p begin="00:31:04.290" end="00:31:09.150" style="s2">but the brain is not overriding the</p>
+<p begin="00:31:06.750" end="00:31:11.160" style="s2">salesmen and in no way could handle the</p>
+<p begin="00:31:09.150" end="00:31:13.340" style="s2">complexity necessary of the cells not</p>
+<p begin="00:31:11.160" end="00:31:16.530" style="s2">doing their own sense making and so</p>
+<p begin="00:31:13.340" end="00:31:17.940" style="s2">better incentive schemas as a transition</p>
+<p begin="00:31:16.530" end="00:31:18.570" style="s2">which is happening in the blockchain is</p>
+<p begin="00:31:17.940" end="00:31:21.120" style="s2">nice</p>
+<p begin="00:31:18.570" end="00:31:22.800" style="s2">it&#39;s worse than more births incentives</p>
+<p begin="00:31:21.120" end="00:31:24.030" style="s2">but it is transitional not post</p>
+<p begin="00:31:22.800" end="00:31:26.160" style="s2">transitional it actually does not</p>
+<p begin="00:31:24.030" end="00:31:28.230" style="s2">address existential risk it doesn&#39;t give</p>
+<p begin="00:31:26.160" end="00:31:30.150" style="s2">us the right collective intelligence the</p>
+<p begin="00:31:28.230" end="00:31:33.360" style="s2">right collective intelligence has to be</p>
+<p begin="00:31:30.150" end="00:31:35.940" style="s2">fractal sovereignty meaning at the level</p>
+<p begin="00:31:33.360" end="00:31:38.370" style="s2">of an individual and every group size it</p>
+<p begin="00:31:35.940" end="00:31:41.400" style="s2">has its own intact sense making in</p>
+<p begin="00:31:38.370" end="00:31:43.800" style="s2">choice making it ends up being vectoring</p>
+<p begin="00:31:41.400" end="00:31:47.100" style="s2">towards Omni consideration the level of</p>
+<p begin="00:31:43.800" end="00:31:50.309" style="s2">that we&#39;re talking about is hard to</p>
+<p begin="00:31:47.100" end="00:31:54.030" style="s2">imagine yeah and what has to be invented</p>
+<p begin="00:31:50.309" end="00:31:56.610" style="s2">to even begin a transition and then be</p>
+<p begin="00:31:54.030" end="00:31:59.880" style="s2">put to rest so that the next version can</p>
+<p begin="00:31:56.610" end="00:32:02.610" style="s2">come along is such a long road the</p>
+<p begin="00:31:59.880" end="00:32:05.220" style="s2">reason that we incent people is because</p>
+<p begin="00:32:02.610" end="00:32:06.960" style="s2">we have a civilization that needs a lot</p>
+<p begin="00:32:05.220" end="00:32:08.520" style="s2">of done that is not fun</p>
+<p begin="00:32:06.960" end="00:32:10.530" style="s2">it&#39;s dreadful stuff</p>
+<p begin="00:32:08.520" end="00:32:12.540" style="s2">we want to get the people to do the</p>
+<p begin="00:32:10.530" end="00:32:13.890" style="s2">dreadful stuff if we created a</p>
+<p begin="00:32:12.540" end="00:32:16.710" style="s2">Commonwealth River and had access to</p>
+<p begin="00:32:13.890" end="00:32:18.780" style="s2">resources then nobody would do the</p>
+<p begin="00:32:16.710" end="00:32:20.220" style="s2">dreadful stuff and so then the state</p>
+<p begin="00:32:18.780" end="00:32:22.710" style="s2">would have to force them that&#39;s why we</p>
+<p begin="00:32:20.220" end="00:32:24.840" style="s2">don&#39;t like communism then you get the</p>
+<p begin="00:32:22.710" end="00:32:26.130" style="s2">state imperialism so we say okay cool</p>
+<p begin="00:32:24.840" end="00:32:27.960" style="s2">we&#39;ll let the free market force them</p>
+<p begin="00:32:26.130" end="00:32:29.310" style="s2">instead it&#39;s the economic servitude but</p>
+<p begin="00:32:27.960" end="00:32:31.080" style="s2">at least that doesn&#39;t look like somebody</p>
+<p begin="00:32:29.310" end="00:32:33.060" style="s2">did it because the market is the just</p>
+<p begin="00:32:31.080" end="00:32:34.440" style="s2">anonymous thing right if you don&#39;t do</p>
+<p begin="00:32:33.060" end="00:32:36.390" style="s2">the shitty job you&#39;re homeless and your</p>
+<p begin="00:32:34.440" end="00:32:37.950" style="s2">kids can&#39;t eat cool but we&#39;ll tell you</p>
+<p begin="00:32:36.390" end="00:32:39.600" style="s2">the story that you can work your way up</p>
+<p begin="00:32:37.950" end="00:32:41.820" style="s2">and you know become wealthy even though</p>
+<p begin="00:32:39.600" end="00:32:45.170" style="s2">statistically we know that it&#39;s silly it</p>
+<p begin="00:32:41.820" end="00:32:48.180" style="s2">happened to those two guys that one time</p>
+<p begin="00:32:45.170" end="00:32:50.220" style="s2">even though statistically the rest of</p>
+<p begin="00:32:48.180" end="00:32:52.080" style="s2">the time having more resources makes it</p>
+<p begin="00:32:50.220" end="00:32:53.850" style="s2">easier to make more resources and having</p>
+<p begin="00:32:52.080" end="00:32:55.710" style="s2">less resources makes it harder to make</p>
+<p begin="00:32:53.850" end="00:32:58.170" style="s2">more resources into the system as a</p>
+<p begin="00:32:55.710" end="00:32:59.820" style="s2">gradient it makes it actually continue</p>
+<p begin="00:32:58.170" end="00:33:02.160" style="s2">in the direction of inequality not that</p>
+<p begin="00:32:59.820" end="00:33:05.580" style="s2">you know otherwise but so that&#39;s where</p>
+<p begin="00:33:02.160" end="00:33:07.380" style="s2">incentive came from right was that&#39;s the</p>
+<p begin="00:33:05.580" end="00:33:09.960" style="s2">good side at the negative side is a few</p>
+<p begin="00:33:07.380" end="00:33:12.900" style="s2">controlling of many one to use incentive</p>
+<p begin="00:33:09.960" end="00:33:14.160" style="s2">reward and punishment and to get people</p>
+<p begin="00:33:12.900" end="00:33:19.320" style="s2">to do the shitty things we have to do</p>
+<p begin="00:33:14.160" end="00:33:21.240" style="s2">that this is using choice to create a</p>
+<p begin="00:33:19.320" end="00:33:23.190" style="s2">system of causation incentive as a</p>
+<p begin="00:33:21.240" end="00:33:25.820" style="s2">causal system game theory as a causal</p>
+<p begin="00:33:23.190" end="00:33:28.740" style="s2">system to control the choice of others</p>
+<p begin="00:33:25.820" end="00:33:31.200" style="s2">controller co-op I want to have my</p>
+<p begin="00:33:28.740" end="00:33:32.910" style="s2">theory of choice effect causal dynamics</p>
+<p begin="00:33:31.200" end="00:33:35.940" style="s2">that are only causal ie</p>
+<p begin="00:33:32.910" end="00:33:38.810" style="s2">if I make an automated robot I haven&#39;t</p>
+<p begin="00:33:35.940" end="00:33:41.340" style="s2">actually made a sentient being a utility</p>
+<p begin="00:33:38.810" end="00:33:43.740" style="s2">so I&#39;m gonna say something even deeper</p>
+<p begin="00:33:41.340" end="00:33:47.370" style="s2">which is instrumental relationships are</p>
+<p begin="00:33:43.740" end="00:33:50.880" style="s2">evil can you expand that yeah I&#39;m</p>
+<p begin="00:33:47.370" end="00:33:53.910" style="s2">interacting with you to meet some people</p>
+<p begin="00:33:50.880" end="00:33:56.460" style="s2">that you know to get my network ahead or</p>
+<p begin="00:33:53.910" end="00:33:58.980" style="s2">to get some knowledge from you or to</p>
+<p begin="00:33:56.460" end="00:34:01.530" style="s2">gain access to something or to whatever</p>
+<p begin="00:33:58.980" end="00:34:03.180" style="s2">it is I have something that I want to do</p>
+<p begin="00:34:01.530" end="00:34:05.610" style="s2">that you are an instrument towards</p>
+<p begin="00:34:03.180" end="00:34:10.260" style="s2">you&#39;re a path towards to utilitarian</p>
+<p begin="00:34:05.610" end="00:34:12.390" style="s2">ethic then you are a into a means for me</p>
+<p begin="00:34:10.260" end="00:34:14.670" style="s2">so however I relate with you however it</p>
+<p begin="00:34:12.390" end="00:34:16.890" style="s2">affects your own sovereign sentient</p>
+<p begin="00:34:14.670" end="00:34:18.930" style="s2">experience is a place I might</p>
+<p begin="00:34:16.890" end="00:34:22.240" style="s2">externalize harm because it&#39;s not why</p>
+<p begin="00:34:18.930" end="00:34:25.929" style="s2">I&#39;m relating with you yeah yeah</p>
+<p begin="00:34:22.240" end="00:34:29.379" style="s2">and so in a healthy world world of the</p>
+<p begin="00:34:25.929" end="00:34:32.050" style="s2">future other people need to have</p>
+<p begin="00:34:29.379" end="00:34:34.419" style="s2">intrinsic value independent of</p>
+<p begin="00:34:32.050" end="00:34:36.250" style="s2">utilitarian value to everyone that&#39;s a</p>
+<p begin="00:34:34.419" end="00:34:39.429" style="s2">part of the culture and not just the</p>
+<p begin="00:34:36.250" end="00:34:41.980" style="s2">other people and other beings all kinds</p>
+<p begin="00:34:39.429" end="00:34:43.599" style="s2">of sentient beings but relationships</p>
+<p begin="00:34:41.980" end="00:34:45.129" style="s2">have intrinsic values so I&#39;m gonna</p>
+<p begin="00:34:43.599" end="00:34:47.080" style="s2">invest in the integrity of our</p>
+<p begin="00:34:45.129" end="00:34:49.659" style="s2">relationship independent of me getting</p>
+<p begin="00:34:47.080" end="00:34:51.429" style="s2">anything out of it because it is</p>
+<p begin="00:34:49.659" end="00:34:54.730" style="s2">actually the basis of meaningfulness</p>
+<p begin="00:34:51.429" end="00:34:56.619" style="s2">itself which is why in a utilitarian and</p>
+<p begin="00:34:54.730" end="00:34:57.820" style="s2">instrumental dynamic we&#39;re getting ahead</p>
+<p begin="00:34:56.619" end="00:35:00.099" style="s2">while feeling utterly</p>
+<p begin="00:34:57.820" end="00:35:02.680" style="s2">meaningless and destroying everything</p>
+<p begin="00:35:00.099" end="00:35:06.310" style="s2">that is meaningful in the process that</p>
+<p begin="00:35:02.680" end="00:35:08.589" style="s2">is us being hooked to addiction to a</p>
+<p begin="00:35:06.310" end="00:35:11.320" style="s2">stupid game where what we think we want</p>
+<p begin="00:35:08.589" end="00:35:13.839" style="s2">is not not what we actually want and</p>
+<p begin="00:35:11.320" end="00:35:16.780" style="s2">what we think of as a win is actually a</p>
+<p begin="00:35:13.839" end="00:35:19.359" style="s2">Omni stupid thing and this is why you</p>
+<p begin="00:35:16.780" end="00:35:21.160" style="s2">know like the the Hindu concept of</p>
+<p begin="00:35:19.359" end="00:35:23.410" style="s2">Dharma was a virtue ethics not a</p>
+<p begin="00:35:21.160" end="00:35:26.140" style="s2">utilitarian ethic and and there was a</p>
+<p begin="00:35:23.410" end="00:35:28.630" style="s2">very meaningful set of concepts if do</p>
+<p begin="00:35:26.140" end="00:35:31.599" style="s2">what is inherently right in your</p>
+<p begin="00:35:28.630" end="00:35:33.099" style="s2">relationship with life independent of</p>
+<p begin="00:35:31.599" end="00:35:34.300" style="s2">what the outcome might be because you</p>
+<p begin="00:35:33.099" end="00:35:36.220" style="s2">really don&#39;t know what the</p>
+<p begin="00:35:34.300" end="00:35:37.510" style="s2">outcome is gonna be and if you try and</p>
+<p begin="00:35:36.220" end="00:35:39.130" style="s2">just figure out the outcome is gonna be</p>
+<p begin="00:35:37.510" end="00:35:40.660" style="s2">you&#39;re gonna be wrong a lot of times and</p>
+<p begin="00:35:39.130" end="00:35:44.320" style="s2">you&#39;re also gonna justify a lot of</p>
+<p begin="00:35:40.660" end="00:35:46.960" style="s2">unethical styles and utilitarianism is</p>
+<p begin="00:35:44.320" end="00:35:48.220" style="s2">kind of the rampant ethics that anyone</p>
+<p begin="00:35:46.960" end="00:35:49.690" style="s2">who&#39;s paying attention to ethics pays</p>
+<p begin="00:35:48.220" end="00:35:52.420" style="s2">attention to right now and it&#39;s not</p>
+<p begin="00:35:49.690" end="00:35:54.580" style="s2">without any merit but it is also</p>
+<p begin="00:35:52.420" end="00:35:57.250" style="s2">problematic it is up there with</p>
+<p begin="00:35:54.580" end="00:35:58.900" style="s2">democracy and capitalism you know in the</p>
+<p begin="00:35:57.250" end="00:36:00.970" style="s2">philosophy of science in terms of being</p>
+<p begin="00:35:58.900" end="00:36:03.220" style="s2">a problematic thing to be the dominant</p>
+<p begin="00:36:00.970" end="00:36:04.869" style="s2">system because we cannot actually</p>
+<p begin="00:36:03.220" end="00:36:07.800" style="s2">predict and complex systems well enough</p>
+<p begin="00:36:04.869" end="00:36:11.560" style="s2">to do a utilitarian thing and they</p>
+<p begin="00:36:07.800" end="00:36:13.750" style="s2">intrinsic dynamics of a relationship and</p>
+<p begin="00:36:11.560" end="00:36:17.130" style="s2">another being in that becoming moved to</p>
+<p begin="00:36:13.750" end="00:36:20.650" style="s2">being a means to an end other than them</p>
+<p begin="00:36:17.130" end="00:36:22.990" style="s2">and as soon as I start factoring</p>
+<p begin="00:36:20.650" end="00:36:24.730" style="s2">everything meaningful along the chain of</p>
+<p begin="00:36:22.990" end="00:36:26.740" style="s2">whatever I think my howcome is to where</p>
+<p begin="00:36:24.730" end="00:36:28.810" style="s2">my outcome is actually being in a way</p>
+<p begin="00:36:26.740" end="00:36:31.690" style="s2">that is an integrity with an honoring of</p>
+<p begin="00:36:28.810" end="00:36:34.170" style="s2">all life now it&#39;s the virtue of it yeah</p>
+<p begin="00:36:31.690" end="00:36:35.900" style="s2">I I was having this conversation</p>
+<p begin="00:36:34.170" end="00:36:38.539" style="s2">recently</p>
+<p begin="00:36:35.900" end="00:36:40.910" style="s2">about people who are obsessed with life</p>
+<p begin="00:36:38.539" end="00:36:42.140" style="s2">hacking and optimizing everything and</p>
+<p begin="00:36:40.910" end="00:36:44.270" style="s2">when they get into that mindset</p>
+<p begin="00:36:42.140" end="00:36:46.579" style="s2">eventually they get to what what they</p>
+<p begin="00:36:44.270" end="00:36:48.380" style="s2">call optimizing relationships and then</p>
+<p begin="00:36:46.579" end="00:36:50.089" style="s2">they start putting people on a value</p>
+<p begin="00:36:48.380" end="00:36:51.799" style="s2">hierarchy where they want to interact</p>
+<p begin="00:36:50.089" end="00:36:53.510" style="s2">with high-value people and they want to</p>
+<p begin="00:36:51.799" end="00:36:55.819" style="s2">get a high value woman and they&#39;re using</p>
+<p begin="00:36:53.510" end="00:36:58.369" style="s2">these tactics to find and attract the</p>
+<p begin="00:36:55.819" end="00:37:01.880" style="s2">most high-value woman and it&#39;s funny</p>
+<p begin="00:36:58.369" end="00:37:03.980" style="s2">because those people in my experience</p>
+<p begin="00:37:01.880" end="00:37:06.319" style="s2">are some of the most existentially</p>
+<p begin="00:37:03.980" end="00:37:09.230" style="s2">unhappy people that I&#39;ve met and they</p>
+<p begin="00:37:06.319" end="00:37:11.329" style="s2">will never demonstrate it outward in an</p>
+<p begin="00:37:09.230" end="00:37:13.430" style="s2">outward way but that&#39;s what I&#39;ve noticed</p>
+<p begin="00:37:11.329" end="00:37:15.440" style="s2">that you know people who try to optimize</p>
+<p begin="00:37:13.430" end="00:37:17.710" style="s2">everything in this kind of utilitarian</p>
+<p begin="00:37:15.440" end="00:37:20.650" style="s2">way end up really profoundly unhappy</p>
+<p begin="00:37:17.710" end="00:37:23.720" style="s2">yeah what&#39;s the same thing as</p>
+<p begin="00:37:20.650" end="00:37:25.460" style="s2">continuously pursuing a better hi it&#39;s</p>
+<p begin="00:37:23.720" end="00:37:26.990" style="s2">I&#39;m getting a hit from winning at a</p>
+<p begin="00:37:25.460" end="00:37:27.829" style="s2">particular thing so I got to try and win</p>
+<p begin="00:37:26.990" end="00:37:30.710" style="s2">at it all the time</p>
+<p begin="00:37:27.829" end="00:37:32.059" style="s2">but I need the hit because my baseline</p>
+<p begin="00:37:30.710" end="00:37:33.410" style="s2">is the lay feels meaningless</p>
+<p begin="00:37:32.059" end="00:37:35.059" style="s2">because I don&#39;t actually have any real</p>
+<p begin="00:37:33.410" end="00:37:37.460" style="s2">relationships and there I don&#39;t even</p>
+<p begin="00:37:35.059" end="00:37:40.000" style="s2">know what meaning needs I don&#39;t even</p>
+<p begin="00:37:37.460" end="00:37:43.190" style="s2">know what intimacy means and so that</p>
+<p begin="00:37:40.000" end="00:37:45.559" style="s2">hypo normal environment needs a hyper</p>
+<p begin="00:37:43.190" end="00:37:47.119" style="s2">normal stimuli to feel anything and then</p>
+<p begin="00:37:45.559" end="00:37:49.069" style="s2">the fact that I used people</p>
+<p begin="00:37:47.119" end="00:37:50.990" style="s2">instrumentally has people end up not</p>
+<p begin="00:37:49.069" end="00:37:52.539" style="s2">liking me which makes me hurt even more</p>
+<p begin="00:37:50.990" end="00:37:56.150" style="s2">which makes me want another hit II</p>
+<p begin="00:37:52.539" end="00:37:58.039" style="s2">people like you make it super DC you</p>
+<p begin="00:37:56.150" end="00:37:59.450" style="s2">just come on and it&#39;s like we listen to</p>
+<p begin="00:37:58.039" end="00:38:01.339" style="s2">audiobooks all day and then we get to</p>
+<p begin="00:37:59.450" end="00:38:02.660" style="s2">actually talk to the person who is</p>
+<p begin="00:38:01.339" end="00:38:04.490" style="s2">coming up with the cutting-edge ideas</p>
+<p begin="00:38:02.660" end="00:38:07.579" style="s2">themselves so it&#39;s quite interesting</p>
+<p begin="00:38:04.490" end="00:38:09.980" style="s2">Thank You y&#39;all it&#39;s always wonderful</p>
+<p begin="00:38:07.579" end="00:38:14.950" style="s2">getting our brains blown by you thank</p>
+<p begin="00:38:09.980" end="00:38:17.450" style="s2">you thank you both this is really fun</p>
+<p begin="00:38:14.950" end="00:38:19.220" style="s2">all right that&#39;s it thanks for listening</p>
+<p begin="00:38:17.450" end="00:38:20.930" style="s2">guys that was the last part of our</p>
+<p begin="00:38:19.220" end="00:38:22.819" style="s2">fascinating conversation with Daniel</p>
+<p begin="00:38:20.930" end="00:38:24.349" style="s2">schmuck John Berger if you haven&#39;t heard</p>
+<p begin="00:38:22.819" end="00:38:26.720" style="s2">the first and second part of this</p>
+<p begin="00:38:24.349" end="00:38:29.059" style="s2">interview you can find it at future</p>
+<p begin="00:38:26.720" end="00:38:30.230" style="s2">thinkers our org slash 57 you can also</p>
+<p begin="00:38:29.059" end="00:38:32.240" style="s2">find all the links and resources</p>
+<p begin="00:38:30.230" end="00:38:34.970" style="s2">mentioned in all three episodes there</p>
+<p begin="00:38:32.240" end="00:38:37.130" style="s2">and to check out our sponsor qual yet go</p>
+<p begin="00:38:34.970" end="00:38:39.140" style="s2">to future thinkers org slash brain hat</p>
+<p begin="00:38:37.130" end="00:38:41.180" style="s2">if you&#39;re new to the show and you like a</p>
+<p begin="00:38:39.140" end="00:38:43.670" style="s2">list of our top episodes and resources</p>
+<p begin="00:38:41.180" end="00:38:45.020" style="s2">go to future thinkers org slash start if</p>
+<p begin="00:38:43.670" end="00:38:46.160" style="s2">you want to sponsor our show go to</p>
+<p begin="00:38:45.020" end="00:38:48.349" style="s2">future thinkers that org</p>
+<p begin="00:38:46.160" end="00:38:50.240" style="s2">laughs sponsor if you liked our podcast</p>
+<p begin="00:38:48.349" end="00:38:52.700" style="s2">leave us a rating and a review on iTunes</p>
+<p begin="00:38:50.240" end="00:38:54.710" style="s2">and elsewhere it helps others find the</p>
+<p begin="00:38:52.700" end="00:38:56.720" style="s2">show and we really appreciate it</p>
+<p begin="00:38:54.710" end="00:38:59.500" style="s2">thanks for listening and we&#39;ll see you</p>
+<p begin="00:38:56.720" end="00:38:59.500" style="s2">in the next episode</p>
+<p begin="00:39:00.270" end="00:39:05.409" style="s2">[Music]</p>
+</div>
+</body>
+</tt>
