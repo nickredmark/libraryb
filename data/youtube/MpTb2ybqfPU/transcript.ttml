@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:05.640" style="s2">hey folks Brett here this video is a</p>
+<p begin="00:00:03.090" end="00:00:07.500" style="s2">response to a question submitted by one</p>
+<p begin="00:00:05.640" end="00:00:10.139" style="s2">of my longest standing patreon</p>
+<p begin="00:00:07.500" end="00:00:13.219" style="s2">supporters Kevin Fosse it&#39;s an excellent</p>
+<p begin="00:00:10.139" end="00:00:18.779" style="s2">question question is is there a cultural</p>
+<p begin="00:00:13.219" end="00:00:20.609" style="s2">analog to senescence now senescence is a</p>
+<p begin="00:00:18.779" end="00:00:22.859" style="s2">term that is probably not terribly</p>
+<p begin="00:00:20.609" end="00:00:24.480" style="s2">familiar to most of you so I&#39;m going to</p>
+<p begin="00:00:22.859" end="00:00:26.849" style="s2">explain it a little bit and explain why</p>
+<p begin="00:00:24.480" end="00:00:30.090" style="s2">it happens biologically and then we can</p>
+<p begin="00:00:26.849" end="00:00:33.180" style="s2">address Kevin&#39;s question so senescence</p>
+<p begin="00:00:30.090" end="00:00:36.660" style="s2">is what we typically refer to as aging</p>
+<p begin="00:00:33.180" end="00:00:38.489" style="s2">it is the tendency of creatures to</p>
+<p begin="00:00:36.660" end="00:00:40.800" style="s2">become less efficient and more</p>
+<p begin="00:00:38.489" end="00:00:42.809" style="s2">vulnerable with age and it&#39;s a very</p>
+<p begin="00:00:40.800" end="00:00:47.010" style="s2">interesting process it&#39;s when I studied</p>
+<p begin="00:00:42.809" end="00:00:50.039" style="s2">during that in my dissertation work it</p>
+<p begin="00:00:47.010" end="00:00:52.250" style="s2">happens for a reason we have come to</p>
+<p begin="00:00:50.039" end="00:00:56.640" style="s2">understand pretty well evolutionarily</p>
+<p begin="00:00:52.250" end="00:01:01.050" style="s2">the reason is this the genes in our</p>
+<p begin="00:00:56.640" end="00:01:03.300" style="s2">genome have to do multiple jobs they&#39;re</p>
+<p begin="00:01:01.050" end="00:01:05.270" style="s2">just simply aren&#39;t enough of them to do</p>
+<p begin="00:01:03.300" end="00:01:09.360" style="s2">all of the work necessary to make a</p>
+<p begin="00:01:05.270" end="00:01:13.110" style="s2">self-assembling 30 trillion cell self</p>
+<p begin="00:01:09.360" end="00:01:16.500" style="s2">maintaining organism like ourselves we</p>
+<p begin="00:01:13.110" end="00:01:19.860" style="s2">have something like 20,000 genes in our</p>
+<p begin="00:01:16.500" end="00:01:22.650" style="s2">protein coding genomes those genes may</p>
+<p begin="00:01:19.860" end="00:01:24.689" style="s2">have five different edits on average per</p>
+<p begin="00:01:22.650" end="00:01:27.570" style="s2">gene which gives you something like a</p>
+<p begin="00:01:24.689" end="00:01:30.960" style="s2">hundred thousand different combinations</p>
+<p begin="00:01:27.570" end="00:01:35.729" style="s2">that&#39;s not nearly enough to deal with</p>
+<p begin="00:01:30.960" end="00:01:37.650" style="s2">all of the machinery of the 200-plus</p>
+<p begin="00:01:35.729" end="00:01:40.020" style="s2">cell types that we have in our bodies</p>
+<p begin="00:01:37.650" end="00:01:41.490" style="s2">and the long developmental program that</p>
+<p begin="00:01:40.020" end="00:01:44.720" style="s2">puts all of these things in the correct</p>
+<p begin="00:01:41.490" end="00:01:48.060" style="s2">order so it is necessarily true that</p>
+<p begin="00:01:44.720" end="00:01:51.000" style="s2">genes will tend to do more than one</p>
+<p begin="00:01:48.060" end="00:01:54.090" style="s2">thing we call a gene that does more than</p>
+<p begin="00:01:51.000" end="00:01:56.640" style="s2">one thing pleiotropic it is a playa</p>
+<p begin="00:01:54.090" end="00:01:59.909" style="s2">trophy and it means a gene that has</p>
+<p begin="00:01:56.640" end="00:02:02.460" style="s2">multiple functions so the key insight as</p>
+<p begin="00:01:59.909" end="00:02:04.439" style="s2">to what this has to do with the process</p>
+<p begin="00:02:02.460" end="00:02:06.630" style="s2">of senescence comes from one of the</p>
+<p begin="00:02:04.439" end="00:02:09.360" style="s2">great evolutionary biologists of the</p>
+<p begin="00:02:06.630" end="00:02:12.360" style="s2">20th century guy named George Williams</p>
+<p begin="00:02:09.360" end="00:02:14.100" style="s2">who I knew before his death George</p>
+<p begin="00:02:12.360" end="00:02:17.730" style="s2">Williams reck</p>
+<p begin="00:02:14.100" end="00:02:20.220" style="s2">that pleiotropic effects would very</p>
+<p begin="00:02:17.730" end="00:02:24.420" style="s2">often pull in different directions and</p>
+<p begin="00:02:20.220" end="00:02:27.000" style="s2">that for any gene where the benefit came</p>
+<p begin="00:02:24.420" end="00:02:30.300" style="s2">early in life and the harm came late in</p>
+<p begin="00:02:27.000" end="00:02:33.270" style="s2">life selection would tend to favor the</p>
+<p begin="00:02:30.300" end="00:02:37.080" style="s2">team in spite of the harm and the reason</p>
+<p begin="00:02:33.270" end="00:02:39.510" style="s2">for that is fairly simple the late life</p>
+<p begin="00:02:37.080" end="00:02:41.580" style="s2">effect of that gene will not be</p>
+<p begin="00:02:39.510" end="00:02:44.280" style="s2">experienced by nearly as many</p>
+<p begin="00:02:41.580" end="00:02:46.350" style="s2">individuals as the early life benefit of</p>
+<p begin="00:02:44.280" end="00:02:49.590" style="s2">the gene because many individuals won&#39;t</p>
+<p begin="00:02:46.350" end="00:02:51.600" style="s2">survive to experience so the later in</p>
+<p begin="00:02:49.590" end="00:02:53.970" style="s2">life the negative effect happens the</p>
+<p begin="00:02:51.600" end="00:02:56.240" style="s2">less selection is capable of purging it</p>
+<p begin="00:02:53.970" end="00:02:59.850" style="s2">from our genomes</p>
+<p begin="00:02:56.240" end="00:03:02.120" style="s2">this results in genes that have early</p>
+<p begin="00:02:59.850" end="00:03:04.830" style="s2">life benefits and late life harms</p>
+<p begin="00:03:02.120" end="00:03:06.960" style="s2">accumulating in our genomes and creates</p>
+<p begin="00:03:04.830" end="00:03:09.350" style="s2">a tendency for those late life effects</p>
+<p begin="00:03:06.960" end="00:03:12.630" style="s2">to degrade our function over time</p>
+<p begin="00:03:09.350" end="00:03:16.410" style="s2">beginning not at Birth but beginning at</p>
+<p begin="00:03:12.630" end="00:03:18.630" style="s2">the moment of first reproduction for the</p>
+<p begin="00:03:16.410" end="00:03:20.430" style="s2">species that is the usual moment at</p>
+<p begin="00:03:18.630" end="00:03:23.250" style="s2">which individuals in that species begin</p>
+<p begin="00:03:20.430" end="00:03:27.750" style="s2">reproducing so for human beings we don&#39;t</p>
+<p begin="00:03:23.250" end="00:03:31.080" style="s2">measure senescence until an individual</p>
+<p begin="00:03:27.750" end="00:03:32.910" style="s2">reaches something like 18 or 20 years of</p>
+<p begin="00:03:31.080" end="00:03:35.040" style="s2">age at which point decline begins to be</p>
+<p begin="00:03:32.910" end="00:03:38.810" style="s2">measurable and it accelerates through</p>
+<p begin="00:03:35.040" end="00:03:43.140" style="s2">the lifespan until there&#39;s nobody left</p>
+<p begin="00:03:38.810" end="00:03:47.730" style="s2">so the question is is there a cultural</p>
+<p begin="00:03:43.140" end="00:03:50.519" style="s2">analog to this process of selection of</p>
+<p begin="00:03:47.730" end="00:03:52.680" style="s2">senescence that is driven by selection</p>
+<p begin="00:03:50.519" end="00:03:56.250" style="s2">for early life benefits in spite of late</p>
+<p begin="00:03:52.680" end="00:03:59.760" style="s2">life costs and unfortunately the answer</p>
+<p begin="00:03:56.250" end="00:04:02.250" style="s2">is yes and our economic and political</p>
+<p begin="00:03:59.760" end="00:04:04.650" style="s2">systems are tailor-made to bring it</p>
+<p begin="00:04:02.250" end="00:04:07.080" style="s2">about I believe we are actually seeing a</p>
+<p begin="00:04:04.650" end="00:04:08.060" style="s2">kind of senescence unfold right before</p>
+<p begin="00:04:07.080" end="00:04:15.049" style="s2">our eyes</p>
+<p begin="00:04:08.060" end="00:04:17.430" style="s2">here&#39;s the reason our system has a</p>
+<p begin="00:04:15.049" end="00:04:21.570" style="s2">fundamentally competitive nature at its</p>
+<p begin="00:04:17.430" end="00:04:23.820" style="s2">core and ideas that work in the</p>
+<p begin="00:04:21.570" end="00:04:25.950" style="s2">short-term but fail and cause</p>
+<p begin="00:04:23.820" end="00:04:29.840" style="s2">vulnerability in the long term</p>
+<p begin="00:04:25.950" end="00:04:33.120" style="s2">tend to survive in our system because</p>
+<p begin="00:04:29.840" end="00:04:36.030" style="s2">they tend to produce economic benefits</p>
+<p begin="00:04:33.120" end="00:04:40.410" style="s2">so if you engage in the production of</p>
+<p begin="00:04:36.030" end="00:04:43.590" style="s2">some technology that produces benefits</p>
+<p begin="00:04:40.410" end="00:04:46.080" style="s2">for Humanity over the course of several</p>
+<p begin="00:04:43.590" end="00:04:48.380" style="s2">decades and then the harm of that</p>
+<p begin="00:04:46.080" end="00:04:51.060" style="s2">technology manifests over later decades</p>
+<p begin="00:04:48.380" end="00:04:53.640" style="s2">you will have become wealthy in the</p>
+<p begin="00:04:51.060" end="00:04:56.610" style="s2">short term that wealth will have</p>
+<p begin="00:04:53.640" end="00:04:59.220" style="s2">resulted in an increase in your</p>
+<p begin="00:04:56.610" end="00:05:02.070" style="s2">political influence and therefore it</p>
+<p begin="00:04:59.220" end="00:05:04.230" style="s2">will reinforce the belief structures</p>
+<p begin="00:05:02.070" end="00:05:07.920" style="s2">that made it seem like a good idea in</p>
+<p begin="00:05:04.230" end="00:05:10.470" style="s2">the first place even if they delayed</p>
+<p begin="00:05:07.920" end="00:05:12.900" style="s2">costs of whatever modality it is that</p>
+<p begin="00:05:10.470" end="00:05:14.910" style="s2">you introduced into the world far exceed</p>
+<p begin="00:05:12.900" end="00:05:19.200" style="s2">the benefits that initially came from it</p>
+<p begin="00:05:14.910" end="00:05:22.140" style="s2">so the simple fact that the market tends</p>
+<p begin="00:05:19.200" end="00:05:25.650" style="s2">to see those short-term gains and</p>
+<p begin="00:05:22.140" end="00:05:27.600" style="s2">discount the long-term effects until the</p>
+<p begin="00:05:25.650" end="00:05:30.990" style="s2">political structure has already been</p>
+<p begin="00:05:27.600" end="00:05:33.780" style="s2">modified by that success will create a</p>
+<p begin="00:05:30.990" end="00:05:35.760" style="s2">phenomenon that is not just like</p>
+<p begin="00:05:33.780" end="00:05:38.450" style="s2">biological senescence but I would argue</p>
+<p begin="00:05:35.760" end="00:05:41.550" style="s2">is actually the very same process</p>
+<p begin="00:05:38.450" end="00:05:46.260" style="s2">unfolding now how would that manifest</p>
+<p begin="00:05:41.550" end="00:05:49.580" style="s2">for us it would manifest in a system</p>
+<p begin="00:05:46.260" end="00:05:52.170" style="s2">that was incapable of going in Reverse a</p>
+<p begin="00:05:49.580" end="00:05:54.360" style="s2">system that would drive off the cliff</p>
+<p begin="00:05:52.170" end="00:05:58.050" style="s2">rather than recognize that something at</p>
+<p begin="00:05:54.360" end="00:05:58.950" style="s2">its core was awry and leading us into</p>
+<p begin="00:05:58.050" end="00:06:02.820" style="s2">danger</p>
+<p begin="00:05:58.950" end="00:06:06.000" style="s2">so that really couldn&#39;t be a better</p>
+<p begin="00:06:02.820" end="00:06:08.850" style="s2">description of where we are we have a</p>
+<p begin="00:06:06.000" end="00:06:11.130" style="s2">system that makes us very comfortable in</p>
+<p begin="00:06:08.850" end="00:06:13.860" style="s2">the short term it provides for our needs</p>
+<p begin="00:06:11.130" end="00:06:16.230" style="s2">and it is liquidating the well-being of</p>
+<p begin="00:06:13.860" end="00:06:19.170" style="s2">the planet at an incredible rate that</p>
+<p begin="00:06:16.230" end="00:06:21.990" style="s2">analytically we know full well cannot</p>
+<p begin="00:06:19.170" end="00:06:24.300" style="s2">continue and yet we do not change course</p>
+<p begin="00:06:21.990" end="00:06:26.700" style="s2">because of the senescence of</p>
+<p begin="00:06:24.300" end="00:06:28.710" style="s2">civilization hey folks if you like this</p>
+<p begin="00:06:26.700" end="00:06:30.660" style="s2">video click like subscribe to the</p>
+<p begin="00:06:28.710" end="00:06:32.100" style="s2">channel and if you feel like supporting</p>
+<p begin="00:06:30.660" end="00:06:34.860" style="s2">the creation of more content like this</p>
+<p begin="00:06:32.100" end="00:06:38.360" style="s2">head on over to my patreon page and sign</p>
+<p begin="00:06:34.860" end="00:06:38.360" style="s2">up at whatever level feels comfortable</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.220" end="00:00:03.449" style="s2">[Music]</p>
+<p begin="00:00:05.660" end="00:00:10.740" style="s2">if it&#39;s a real pleasure to to speak</p>
+<p begin="00:00:08.670" end="00:00:13.980" style="s2">you run the intellectual explorers</p>
+<p begin="00:00:10.740" end="00:00:16.470" style="s2">podcast in Toronto so in a kind of</p>
+<p begin="00:00:13.980" end="00:00:17.850" style="s2">similar place with the podcast and the</p>
+<p begin="00:00:16.470" end="00:00:18.720" style="s2">people that you&#39;re interviewing sort of</p>
+<p begin="00:00:17.850" end="00:00:19.890" style="s2">some of the same people that we&#39;ve</p>
+<p begin="00:00:18.720" end="00:00:22.470" style="s2">interviewed you&#39;ve interviewed on your</p>
+<p begin="00:00:19.890" end="00:00:25.080" style="s2">podcast and you also wrote this amazing</p>
+<p begin="00:00:22.470" end="00:00:27.810" style="s2">piece that went kind of viral in the</p>
+<p begin="00:00:25.080" end="00:00:30.300" style="s2">circles that that we both move in called</p>
+<p begin="00:00:27.810" end="00:00:32.820" style="s2">mimetic tribes tried to give a sort of</p>
+<p begin="00:00:30.300" end="00:00:35.430" style="s2">greater definition to what&#39;s going on</p>
+<p begin="00:00:32.820" end="00:00:37.890" style="s2">below in the sort of culture what you&#39;ve</p>
+<p begin="00:00:35.430" end="00:00:40.500" style="s2">called culture war 2.0 could you</p>
+<p begin="00:00:37.890" end="00:00:43.170" style="s2">describe briefly what the thesis of that</p>
+<p begin="00:00:40.500" end="00:00:45.920" style="s2">piece was I guess it&#39;s prudent to</p>
+<p begin="00:00:43.170" end="00:00:50.520" style="s2">describe what a culture war is right and</p>
+<p begin="00:00:45.920" end="00:00:53.100" style="s2">put simply it&#39;s a war to define what&#39;s</p>
+<p begin="00:00:50.520" end="00:00:57.870" style="s2">sacred and profane in society or culture</p>
+<p begin="00:00:53.100" end="00:01:00.980" style="s2">and culture at one point it happened in</p>
+<p begin="00:00:57.870" end="00:01:04.350" style="s2">the 90s people like Pat Buchanan and</p>
+<p begin="00:01:00.980" end="00:01:06.540" style="s2">religious right kind of fighting by</p>
+<p begin="00:01:04.350" end="00:01:08.150" style="s2">secular left and using international</p>
+<p begin="00:01:06.540" end="00:01:11.250" style="s2">relations terms sort of like them</p>
+<p begin="00:01:08.150" end="00:01:13.979" style="s2">bipolar war we had two left and the</p>
+<p begin="00:01:11.250" end="00:01:17.790" style="s2">right and we make the speculation that</p>
+<p begin="00:01:13.979" end="00:01:20.130" style="s2">culture war 2.0 is what they call a</p>
+<p begin="00:01:17.790" end="00:01:22.470" style="s2">multipolar war it&#39;s a fragmented war</p>
+<p begin="00:01:20.130" end="00:01:24.930" style="s2">it&#39;s no longer left and right</p>
+<p begin="00:01:22.470" end="00:01:27.720" style="s2">it&#39;s a multitude of what we dub the</p>
+<p begin="00:01:24.930" end="00:01:29.909" style="s2">mimetic tribes fighting each other in</p>
+<p begin="00:01:27.720" end="00:01:32.159" style="s2">order to control the narrative of our</p>
+<p begin="00:01:29.909" end="00:01:33.960" style="s2">culture can you outline some of those</p>
+<p begin="00:01:32.159" end="00:01:35.970" style="s2">tribes maybe that might Ellis trace it a</p>
+<p begin="00:01:33.960" end="00:01:38.880" style="s2">little bit more people maybe describe</p>
+<p begin="00:01:35.970" end="00:01:42.450" style="s2">what a memetic tribe is describe what a</p>
+<p begin="00:01:38.880" end="00:01:43.920" style="s2">meme is first what people popularly</p>
+<p begin="00:01:42.450" end="00:01:46.619" style="s2">known as a meme is those images that go</p>
+<p begin="00:01:43.920" end="00:01:48.119" style="s2">viral of a cat or whatever and meme and</p>
+<p begin="00:01:46.619" end="00:01:50.460" style="s2">the Richard Dawkins sense when he coined</p>
+<p begin="00:01:48.119" end="00:01:52.290" style="s2">it in The Selfish Gene is a unit of</p>
+<p begin="00:01:50.460" end="00:01:56.280" style="s2">information that wants to replicate</p>
+<p begin="00:01:52.290" end="00:01:58.590" style="s2">itself and when memes take team and they</p>
+<p begin="00:01:56.280" end="00:02:01.740" style="s2">team up they call it a meme Plex and</p>
+<p begin="00:01:58.590" end="00:02:04.560" style="s2">that enhances its ability to replicate</p>
+<p begin="00:02:01.740" end="00:02:06.509" style="s2">so a religion or an ideology it could be</p>
+<p begin="00:02:04.560" end="00:02:10.020" style="s2">described as a meme Plex and so a</p>
+<p begin="00:02:06.509" end="00:02:12.480" style="s2">memetic tribe is the idea that people</p>
+<p begin="00:02:10.020" end="00:02:15.180" style="s2">are becoming tribal around me</p>
+<p begin="00:02:12.480" end="00:02:16.560" style="s2">Lexa&#39;s and we listed this the</p>
+<p begin="00:02:15.180" end="00:02:18.780" style="s2">spreadsheet that has about 30 different</p>
+<p begin="00:02:16.560" end="00:02:22.200" style="s2">mimetic tribes and some examples would</p>
+<p begin="00:02:18.780" end="00:02:25.530" style="s2">be social justice activists or me to</p>
+<p begin="00:02:22.200" end="00:02:28.069" style="s2">black life matters the alt-right the old</p>
+<p begin="00:02:25.530" end="00:02:30.360" style="s2">light neo reactionaries manosphere</p>
+<p begin="00:02:28.069" end="00:02:33.959" style="s2">rationalist post rationals new atheist</p>
+<p begin="00:02:30.360" end="00:02:37.400" style="s2">there&#39;s a slew of them and we argue that</p>
+<p begin="00:02:33.959" end="00:02:40.700" style="s2">where we speculate that these tribes are</p>
+<p begin="00:02:37.400" end="00:02:43.920" style="s2">fighting amongst each other</p>
+<p begin="00:02:40.700" end="00:02:45.329" style="s2">internally as well as externally and I</p>
+<p begin="00:02:43.920" end="00:02:48.209" style="s2">know one of those tribes was the</p>
+<p begin="00:02:45.329" end="00:02:49.230" style="s2">intellectual dark web right yeah I&#39;d</p>
+<p begin="00:02:48.209" end="00:02:50.549" style="s2">like to hear your take on the</p>
+<p begin="00:02:49.230" end="00:02:51.870" style="s2">intellectual dialogue first because I&#39;d</p>
+<p begin="00:02:50.549" end="00:02:54.359" style="s2">like to talk about sort of where it</p>
+<p begin="00:02:51.870" end="00:02:57.299" style="s2">might be going and kind of air critique</p>
+<p begin="00:02:54.359" end="00:03:00.000" style="s2">of of it as well right right so the way</p>
+<p begin="00:02:57.299" end="00:03:01.440" style="s2">I view it is it was sort of we were</p>
+<p begin="00:03:00.000" end="00:03:03.480" style="s2">talking about this offline about a</p>
+<p begin="00:03:01.440" end="00:03:06.150" style="s2">placeholder tribe that was sort of</p>
+<p begin="00:03:03.480" end="00:03:08.430" style="s2">pushing back on some of the social</p>
+<p begin="00:03:06.150" end="00:03:10.140" style="s2">justice activists or kind of a coalition</p>
+<p begin="00:03:08.430" end="00:03:13.940" style="s2">of the woek tribe me too black lives</p>
+<p begin="00:03:10.140" end="00:03:16.500" style="s2">matter and they were trying to fight for</p>
+<p begin="00:03:13.940" end="00:03:18.810" style="s2">I guess they&#39;re pushing back against</p>
+<p begin="00:03:16.500" end="00:03:21.540" style="s2">blank slate ISM and fighting for reason</p>
+<p begin="00:03:18.810" end="00:03:23.040" style="s2">in science and and promoting that as a</p>
+<p begin="00:03:21.540" end="00:03:25.260" style="s2">sacred value in our culture with that</p>
+<p begin="00:03:23.040" end="00:03:29.519" style="s2">can&#39;t be compromised in free speech</p>
+<p begin="00:03:25.260" end="00:03:31.950" style="s2">obviously and so I view it as sort of</p>
+<p begin="00:03:29.519" end="00:03:35.790" style="s2">yeah pushing back against blank slate</p>
+<p begin="00:03:31.950" end="00:03:38.750" style="s2">ISM but more more reactionary a more</p>
+<p begin="00:03:35.790" end="00:03:42.060" style="s2">reactionary tribe it&#39;s responding to</p>
+<p begin="00:03:38.750" end="00:03:44.280" style="s2">sort of this push of woke nests in the</p>
+<p begin="00:03:42.060" end="00:03:46.859" style="s2">culture yeah and this is something that</p>
+<p begin="00:03:44.280" end="00:03:47.790" style="s2">I even said to to Eric and he really</p>
+<p begin="00:03:46.859" end="00:03:51.480" style="s2">didn&#39;t like my use of the word</p>
+<p begin="00:03:47.790" end="00:03:52.950" style="s2">reactionary because the the unifying</p>
+<p begin="00:03:51.480" end="00:03:54.379" style="s2">factor for the people that were</p>
+<p begin="00:03:52.950" end="00:03:56.819" style="s2">originally considered to be in the IDW</p>
+<p begin="00:03:54.379" end="00:03:59.700" style="s2">was this sort of sense of reacting to</p>
+<p begin="00:03:56.819" end="00:04:01.440" style="s2">something in the culture now you could</p>
+<p begin="00:03:59.700" end="00:04:03.750" style="s2">argue that that needs to be reacted</p>
+<p begin="00:04:01.440" end="00:04:05.310" style="s2">against but my question is whether it&#39;s</p>
+<p begin="00:04:03.750" end="00:04:06.989" style="s2">being reacted against in a way that sort</p>
+<p begin="00:04:05.310" end="00:04:09.269" style="s2">of drags the conversation up to a new</p>
+<p begin="00:04:06.989" end="00:04:12.540" style="s2">level or whether it drags it down into</p>
+<p begin="00:04:09.269" end="00:04:15.419" style="s2">the more polarizing kind of being at</p>
+<p begin="00:04:12.540" end="00:04:17.729" style="s2">before or anti social justice whereas</p>
+<p begin="00:04:15.419" end="00:04:20.280" style="s2">what I what I see is the necessary kind</p>
+<p begin="00:04:17.729" end="00:04:24.419" style="s2">of move is to say the values that you</p>
+<p begin="00:04:20.280" end="00:04:26.410" style="s2">care about fairness being the principal</p>
+<p begin="00:04:24.419" end="00:04:28.240" style="s2">one they&#39;re hardwired into it</p>
+<p begin="00:04:26.410" end="00:04:29.590" style="s2">some hike talks about like these are</p>
+<p begin="00:04:28.240" end="00:04:31.600" style="s2">values that are important to everyone</p>
+<p begin="00:04:29.590" end="00:04:35.650" style="s2">but there are other values that are also</p>
+<p begin="00:04:31.600" end="00:04:38.230" style="s2">important and also that any value system</p>
+<p begin="00:04:35.650" end="00:04:40.570" style="s2">when taken to extremes and becomes an</p>
+<p begin="00:04:38.230" end="00:04:42.460" style="s2">ideology can&#39;t become self-defeating and</p>
+<p begin="00:04:40.570" end="00:04:44.110" style="s2">that&#39;s sort of that&#39;s the nuance of the</p>
+<p begin="00:04:42.460" end="00:04:44.710" style="s2">conversation that I see that is being</p>
+<p begin="00:04:44.110" end="00:04:48.580" style="s2">lost</p>
+<p begin="00:04:44.710" end="00:04:51.040" style="s2">especially when you have people like</p>
+<p begin="00:04:48.580" end="00:04:53.020" style="s2">Jordan Peterson and Dave Rubin who at</p>
+<p begin="00:04:51.040" end="00:04:54.730" style="s2">times can slip into very simplistic</p>
+<p begin="00:04:53.020" end="00:04:57.340" style="s2">critiques of the left I feel that what&#39;s</p>
+<p begin="00:04:54.730" end="00:04:59.110" style="s2">required is a much more nuanced critique</p>
+<p begin="00:04:57.340" end="00:05:01.600" style="s2">that kind of takes us up to a new a new</p>
+<p begin="00:04:59.110" end="00:05:04.960" style="s2">level in the discourse right and that</p>
+<p begin="00:05:01.600" end="00:05:06.790" style="s2">resonates a lot my to be charitable</p>
+<p begin="00:05:04.960" end="00:05:09.430" style="s2">someone like David Rubin or Jordan</p>
+<p begin="00:05:06.790" end="00:05:13.780" style="s2">Peterson I think if you are embattled in</p>
+<p begin="00:05:09.430" end="00:05:16.840" style="s2">this culture war right you potentially</p>
+<p begin="00:05:13.780" end="00:05:18.910" style="s2">stop evolving or looking for that kind</p>
+<p begin="00:05:16.840" end="00:05:20.890" style="s2">of liminal space where you can push</p>
+<p begin="00:05:18.910" end="00:05:24.280" style="s2">yourself at the edge of your map of</p>
+<p begin="00:05:20.890" end="00:05:27.910" style="s2">reality and you&#39;re pushing back against</p>
+<p begin="00:05:24.280" end="00:05:30.010" style="s2">another mean Plex and so from looking at</p>
+<p begin="00:05:27.910" end="00:05:31.930" style="s2">it from the outside it might looks taken</p>
+<p begin="00:05:30.010" end="00:05:35.230" style="s2">right it might not be evolving this</p>
+<p begin="00:05:31.930" end="00:05:37.750" style="s2">intellectual dark web but maybe that</p>
+<p begin="00:05:35.230" end="00:05:39.790" style="s2">battle between the intellectual dark web</p>
+<p begin="00:05:37.750" end="00:05:42.610" style="s2">and these world tribes is evolution</p>
+<p begin="00:05:39.790" end="00:05:45.850" style="s2">itself and we&#39;re sort of is someone</p>
+<p begin="00:05:42.610" end="00:05:48.640" style="s2">who&#39;s studying this kind of the warring</p>
+<p begin="00:05:45.850" end="00:05:51.340" style="s2">tribes of culture war 2.0 where do you</p>
+<p begin="00:05:48.640" end="00:05:52.870" style="s2">get the sense that the the IDW kind of</p>
+<p begin="00:05:51.340" end="00:05:54.370" style="s2">needs which is a relatively new tribe</p>
+<p begin="00:05:52.870" end="00:05:57.730" style="s2">what do you think that it kind of is it</p>
+<p begin="00:05:54.370" end="00:06:01.090" style="s2">is right now like part of me sees it as</p>
+<p begin="00:05:57.730" end="00:06:02.680" style="s2">sort of an engineered tribe and when</p>
+<p begin="00:06:01.090" end="00:06:05.860" style="s2">something gets engineered and doesn&#39;t</p>
+<p begin="00:06:02.680" end="00:06:08.950" style="s2">manifest organically there&#39;s sort of a</p>
+<p begin="00:06:05.860" end="00:06:12.010" style="s2">deadness to it right so maybe it was</p>
+<p begin="00:06:08.950" end="00:06:13.960" style="s2">born to die and maybe it was just sort</p>
+<p begin="00:06:12.010" end="00:06:16.210" style="s2">of a temporary tribe they needed to push</p>
+<p begin="00:06:13.960" end="00:06:21.640" style="s2">back and create some space where either</p>
+<p begin="00:06:16.210" end="00:06:24.160" style="s2">dialogue could ensue you know I don&#39;t</p>
+<p begin="00:06:21.640" end="00:06:25.690" style="s2">personally find it interesting and I</p>
+<p begin="00:06:24.160" end="00:06:29.140" style="s2">think a lot of people are not finding it</p>
+<p begin="00:06:25.690" end="00:06:30.850" style="s2">interesting there&#39;s this quote that by</p>
+<p begin="00:06:29.140" end="00:06:33.280" style="s2">the post rationalist I really like they</p>
+<p begin="00:06:30.850" end="00:06:36.370" style="s2">say that it&#39;s better to be interesting</p>
+<p begin="00:06:33.280" end="00:06:37.930" style="s2">and wrong than right and boring right</p>
+<p begin="00:06:36.370" end="00:06:39.660" style="s2">because being interesting and wrong</p>
+<p begin="00:06:37.930" end="00:06:42.330" style="s2">inspires others</p>
+<p begin="00:06:39.660" end="00:06:44.490" style="s2">to be right in the future so with that</p>
+<p begin="00:06:42.330" end="00:06:46.500" style="s2">whole white paper I&#39;m not attached to it</p>
+<p begin="00:06:44.490" end="00:06:49.500" style="s2">but the idea is to provide an</p>
+<p begin="00:06:46.500" end="00:06:52.860" style="s2">interesting speculation for others to</p>
+<p begin="00:06:49.500" end="00:06:54.360" style="s2">play with and I think that is where all</p>
+<p begin="00:06:52.860" end="00:06:56.810" style="s2">the live players are going to be</p>
+<p begin="00:06:54.360" end="00:06:58.830" style="s2">operating in in that kind of sandbox</p>
+<p begin="00:06:56.810" end="00:07:02.610" style="s2">environment and I know we&#39;ve talked</p>
+<p begin="00:06:58.830" end="00:07:04.500" style="s2">about the idea of the intellectual deep</p>
+<p begin="00:07:02.610" end="00:07:07.590" style="s2">web as a kind of place for the</p>
+<p begin="00:07:04.500" end="00:07:08.910" style="s2">intellectual dark web to go next I mean</p>
+<p begin="00:07:07.590" end="00:07:12.090" style="s2">my sense of the intellectual dark web is</p>
+<p begin="00:07:08.910" end="00:07:14.870" style="s2">I was really excited by it when it first</p>
+<p begin="00:07:12.090" end="00:07:17.310" style="s2">emerged because there&#39;s a quality of</p>
+<p begin="00:07:14.870" end="00:07:19.830" style="s2">conversation that felt very alive and</p>
+<p begin="00:07:17.310" end="00:07:21.990" style="s2">very emergent thinking about sort of</p>
+<p begin="00:07:19.830" end="00:07:23.960" style="s2">Brett and Eric Weinstein on the Rubin</p>
+<p begin="00:07:21.990" end="00:07:28.020" style="s2">report and then a conversation between</p>
+<p begin="00:07:23.960" end="00:07:30.000" style="s2">Jordan Pederson and Ben Shapiro about</p>
+<p begin="00:07:28.020" end="00:07:31.410" style="s2">religious truth that also seemed to be</p>
+<p begin="00:07:30.000" end="00:07:33.480" style="s2">kind of scaffolding each other&#39;s thought</p>
+<p begin="00:07:31.410" end="00:07:37.460" style="s2">and moving in a direction there was a</p>
+<p begin="00:07:33.480" end="00:07:39.780" style="s2">sense of an emergent conversation and me</p>
+<p begin="00:07:37.460" end="00:07:42.090" style="s2">personally I&#39;ve been slightly</p>
+<p begin="00:07:39.780" end="00:07:45.360" style="s2">disappointed with the lack of that sense</p>
+<p begin="00:07:42.090" end="00:07:47.940" style="s2">in the IDW conversations probably for a</p>
+<p begin="00:07:45.360" end="00:07:52.170" style="s2">over eight months maybe a year or so and</p>
+<p begin="00:07:47.940" end="00:07:54.090" style="s2">this sense of everyone almost starting</p>
+<p begin="00:07:52.170" end="00:07:56.370" style="s2">to stagnate in their positions and just</p>
+<p begin="00:07:54.090" end="00:07:59.060" style="s2">repeating themselves more and more and</p>
+<p begin="00:07:56.370" end="00:08:01.680" style="s2">not getting this sense of an emergent</p>
+<p begin="00:07:59.060" end="00:08:03.930" style="s2">synthesis of conversation that maybe was</p>
+<p begin="00:08:01.680" end="00:08:06.600" style="s2">promised when it first arrived it&#39;s like</p>
+<p begin="00:08:03.930" end="00:08:09.900" style="s2">its audience they have an audience now</p>
+<p begin="00:08:06.600" end="00:08:11.210" style="s2">right and it&#39;s almost a business</p>
+<p begin="00:08:09.900" end="00:08:15.900" style="s2">[Music]</p>
+<p begin="00:08:11.210" end="00:08:17.460" style="s2">speaking against certain mean plexes and</p>
+<p begin="00:08:15.900" end="00:08:20.490" style="s2">ideologies are speaking for free speech</p>
+<p begin="00:08:17.460" end="00:08:22.500" style="s2">just to speak personally I just am</p>
+<p begin="00:08:20.490" end="00:08:25.080" style="s2">somewhat bored by the dialogue and I&#39;ve</p>
+<p begin="00:08:22.500" end="00:08:26.760" style="s2">been for a while and you mentioned the</p>
+<p begin="00:08:25.080" end="00:08:29.310" style="s2">intellectual deep web that&#39;s something</p>
+<p begin="00:08:26.760" end="00:08:31.170" style="s2">that excites me right and I don&#39;t think</p>
+<p begin="00:08:29.310" end="00:08:32.610" style="s2">it&#39;s been established yet this mimetic</p>
+<p begin="00:08:31.170" end="00:08:35.550" style="s2">tribe this intellectual deep web the</p>
+<p begin="00:08:32.610" end="00:08:37.979" style="s2">other tribe but it&#39;s it&#39;s calling out</p>
+<p begin="00:08:35.550" end="00:08:39.719" style="s2">you know and the way I look at it is a</p>
+<p begin="00:08:37.979" end="00:08:42.599" style="s2">more embodied</p>
+<p begin="00:08:39.719" end="00:08:44.550" style="s2">tribe you know someone who kind of it&#39;s</p>
+<p begin="00:08:42.599" end="00:08:46.980" style="s2">like a spiritual embodiment of the ideas</p>
+<p begin="00:08:44.550" end="00:08:50.490" style="s2">where the intellectual dark web is just</p>
+<p begin="00:08:46.980" end="00:08:53.220" style="s2">sort of a ragtag group of people pushing</p>
+<p begin="00:08:50.490" end="00:08:54.810" style="s2">back against this will</p>
+<p begin="00:08:53.220" end="00:08:57.480" style="s2">yeah I want to pick up on that because</p>
+<p begin="00:08:54.810" end="00:09:01.200" style="s2">that&#39;s I think we both have a sense like</p>
+<p begin="00:08:57.480" end="00:09:03.839" style="s2">of what is needed to in the kind of</p>
+<p begin="00:09:01.200" end="00:09:05.160" style="s2">emergent conversation to move forward</p>
+<p begin="00:09:03.839" end="00:09:07.709" style="s2">and this kind of intellectual deep where</p>
+<p begin="00:09:05.160" end="00:09:10.170" style="s2">idea brings in those thinkers for me</p>
+<p begin="00:09:07.709" end="00:09:11.760" style="s2">it&#39;s people like John Vevey key who&#39;s</p>
+<p begin="00:09:10.170" end="00:09:13.529" style="s2">talking about kind of deliberately</p>
+<p begin="00:09:11.760" end="00:09:15.899" style="s2">integrating the wisdom traditions and</p>
+<p begin="00:09:13.529" end="00:09:18.750" style="s2">the much more embodied knowing it&#39;s</p>
+<p begin="00:09:15.899" end="00:09:21.899" style="s2">people like stan grof with the kind of</p>
+<p begin="00:09:18.750" end="00:09:24.839" style="s2">integration of like really cutting-edge</p>
+<p begin="00:09:21.899" end="00:09:28.770" style="s2">psychedelic thinking psychedelic therapy</p>
+<p begin="00:09:24.839" end="00:09:30.480" style="s2">it&#39;s people like Richard tarnis who I&#39;ve</p>
+<p begin="00:09:28.770" end="00:09:32.010" style="s2">been hugely influenced by it&#39;s people</p>
+<p begin="00:09:30.480" end="00:09:34.980" style="s2">like it&#39;s also the people sort of on the</p>
+<p begin="00:09:32.010" end="00:09:37.350" style="s2">fringes of the critiquing the sort of</p>
+<p begin="00:09:34.980" end="00:09:39.600" style="s2">the Western materialist model so people</p>
+<p begin="00:09:37.350" end="00:09:41.760" style="s2">like Rudolf Steiner Carl Jung obviously</p>
+<p begin="00:09:39.600" end="00:09:43.140" style="s2">was already being kind of brought in</p>
+<p begin="00:09:41.760" end="00:09:44.730" style="s2">through Jordan Peterson I say Jordan</p>
+<p begin="00:09:43.140" end="00:09:48.029" style="s2">Pederson is more intellectual deep web</p>
+<p begin="00:09:44.730" end="00:09:49.260" style="s2">than an intellectual dark web almost</p>
+<p begin="00:09:48.029" end="00:09:51.120" style="s2">because he is bringing this kind of</p>
+<p begin="00:09:49.260" end="00:09:53.520" style="s2">liminal space and the idea of</p>
+<p begin="00:09:51.120" end="00:09:55.770" style="s2">integration of mythopoetic sand so I</p>
+<p begin="00:09:53.520" end="00:09:57.720" style="s2">think he he he would be one figure that</p>
+<p begin="00:09:55.770" end="00:10:00.630" style="s2">I would see it as being part of both of</p>
+<p begin="00:09:57.720" end="00:10:02.520" style="s2">those I&#39;m not sure he strikes me as a</p>
+<p begin="00:10:00.630" end="00:10:04.440" style="s2">potential bridge so who are the other</p>
+<p begin="00:10:02.520" end="00:10:07.050" style="s2">figures that you would put into this</p>
+<p begin="00:10:04.440" end="00:10:11.360" style="s2">kind of emerging constellation like I&#39;m</p>
+<p begin="00:10:07.050" end="00:10:17.870" style="s2">not 100% sure right but John rebecky</p>
+<p begin="00:10:11.360" end="00:10:21.720" style="s2">definitely Ken Wilber and again this</p>
+<p begin="00:10:17.870" end="00:10:25.290" style="s2">this intellectual deep web well what</p>
+<p begin="00:10:21.720" end="00:10:27.240" style="s2">comes to mind is is mmm there might need</p>
+<p begin="00:10:25.290" end="00:10:28.560" style="s2">to be an intellectual meta web and I</p>
+<p begin="00:10:27.240" end="00:10:30.360" style="s2">think we were talking about this right</p>
+<p begin="00:10:28.560" end="00:10:32.430" style="s2">because what I&#39;m doing in Toronto this</p>
+<p begin="00:10:30.360" end="00:10:34.890" style="s2">intellectual Explorers Club the idea</p>
+<p begin="00:10:32.430" end="00:10:37.800" style="s2">there is to view different maps of</p>
+<p begin="00:10:34.890" end="00:10:40.040" style="s2">reality on their own terms and have the</p>
+<p begin="00:10:37.800" end="00:10:41.940" style="s2">capacity to articulate it back to them</p>
+<p begin="00:10:40.040" end="00:10:43.800" style="s2">to the point where they feel fully</p>
+<p begin="00:10:41.940" end="00:10:45.839" style="s2">understood right and just hold that</p>
+<p begin="00:10:43.800" end="00:10:47.970" style="s2">space hold all those different maps of</p>
+<p begin="00:10:45.839" end="00:10:51.270" style="s2">reality without any judgement without</p>
+<p begin="00:10:47.970" end="00:10:53.399" style="s2">any kind of being seduced by any one of</p>
+<p begin="00:10:51.270" end="00:10:56.010" style="s2">them and I think we need to be in that</p>
+<p begin="00:10:53.399" end="00:10:58.680" style="s2">space kind of there&#39;s a dialogue all</p>
+<p begin="00:10:56.010" end="00:11:00.500" style="s2">right an understanding because I think</p>
+<p begin="00:10:58.680" end="00:11:03.360" style="s2">true understanding is an act of love and</p>
+<p begin="00:11:00.500" end="00:11:05.490" style="s2">once we can get there how that capacity</p>
+<p begin="00:11:03.360" end="00:11:08.040" style="s2">to understand another mean Plex and me</p>
+<p begin="00:11:05.490" end="00:11:10.080" style="s2">intellectual deep web might naturally</p>
+<p begin="00:11:08.040" end="00:11:12.120" style="s2">emerge but I don&#39;t think he can be</p>
+<p begin="00:11:10.080" end="00:11:14.730" style="s2">predicted or engineered I&#39;ve heard the</p>
+<p begin="00:11:12.120" end="00:11:17.459" style="s2">phrase the trans paradigm attic mind is</p>
+<p begin="00:11:14.730" end="00:11:18.870" style="s2">that does that fit in to like the idea</p>
+<p begin="00:11:17.459" end="00:11:21.300" style="s2">that you can see a wall of all of these</p>
+<p begin="00:11:18.870" end="00:11:23.610" style="s2">different and also it maps onto Ken</p>
+<p begin="00:11:21.300" end="00:11:25.649" style="s2">Wilbur&#39;s integral and that very well the</p>
+<p begin="00:11:23.610" end="00:11:28.170" style="s2">idea that you can see all of these value</p>
+<p begin="00:11:25.649" end="00:11:29.430" style="s2">systems as containing some truth but</p>
+<p begin="00:11:28.170" end="00:11:31.230" style="s2">there is also perspective that</p>
+<p begin="00:11:29.430" end="00:11:34.110" style="s2">incorporates all of them rather than</p>
+<p begin="00:11:31.230" end="00:11:35.310" style="s2">being in conflict because you&#39;re</p>
+<p begin="00:11:34.110" end="00:11:39.029" style="s2">thinking that your truth is the only</p>
+<p begin="00:11:35.310" end="00:11:43.080" style="s2">truth right right it&#39;s a yes end yeah</p>
+<p begin="00:11:39.029" end="00:11:45.060" style="s2">what comes to mind there is you know all</p>
+<p begin="00:11:43.080" end="00:11:47.190" style="s2">those mimetic tries we listed a lot of</p>
+<p begin="00:11:45.060" end="00:11:48.930" style="s2">them it strikes me and again this is a</p>
+<p begin="00:11:47.190" end="00:11:50.610" style="s2">lot of this would I talk about a</p>
+<p begin="00:11:48.930" end="00:11:52.470" style="s2">speculation right I don&#39;t really hold on</p>
+<p begin="00:11:50.610" end="00:11:54.870" style="s2">to this with with I hold on open with</p>
+<p begin="00:11:52.470" end="00:11:56.220" style="s2">lightness but a lot of those mimetic</p>
+<p begin="00:11:54.870" end="00:11:58.890" style="s2">tribes they seem like they come from an</p>
+<p begin="00:11:56.220" end="00:12:00.630" style="s2">egoic space right it&#39;s like a zero-sum</p>
+<p begin="00:11:58.890" end="00:12:03.630" style="s2">game that they&#39;re playing their map is</p>
+<p begin="00:12:00.630" end="00:12:05.399" style="s2">right your map is wrong right where were</p>
+<p begin="00:12:03.630" end="00:12:06.870" style="s2">these kind of these trans egoic tribes</p>
+<p begin="00:12:05.399" end="00:12:08.970" style="s2">that are merging like integral theorists</p>
+<p begin="00:12:06.870" end="00:12:11.190" style="s2">or post rationalist strands rationalists</p>
+<p begin="00:12:08.970" end="00:12:13.560" style="s2">is this kind of placeholder of an</p>
+<p begin="00:12:11.190" end="00:12:17.250" style="s2">intellectual deep web they seem trans</p>
+<p begin="00:12:13.560" end="00:12:19.680" style="s2">egoic right and ego at tribes they view</p>
+<p begin="00:12:17.250" end="00:12:21.300" style="s2">it as a culture war right where trans</p>
+<p begin="00:12:19.680" end="00:12:25.079" style="s2">egoic tribes do and as a culture dance</p>
+<p begin="00:12:21.300" end="00:12:26.940" style="s2">this is a part of the evolution and so</p>
+<p begin="00:12:25.079" end="00:12:28.380" style="s2">any kind of thinker who views it as a</p>
+<p begin="00:12:26.940" end="00:12:30.899" style="s2">cultural dances it&#39;s kind of like an</p>
+<p begin="00:12:28.380" end="00:12:32.370" style="s2">evolutionary necessity I would say we</p>
+<p begin="00:12:30.899" end="00:12:34.020" style="s2">belong to this potential intellectual</p>
+<p begin="00:12:32.370" end="00:12:36.000" style="s2">deep web and Jordan Peterson do you</p>
+<p begin="00:12:34.020" end="00:12:38.790" style="s2">think he&#39;s you do you think he&#39;s maybe a</p>
+<p begin="00:12:36.000" end="00:12:40.950" style="s2">bridge between the two I don&#39;t know what</p>
+<p begin="00:12:38.790" end="00:12:43.950" style="s2">Jordan Peterson is or what he&#39;s going to</p>
+<p begin="00:12:40.950" end="00:12:46.529" style="s2">be about but he&#39;s obviously an important</p>
+<p begin="00:12:43.950" end="00:12:48.029" style="s2">figure in this culture war cultural</p>
+<p begin="00:12:46.529" end="00:12:50.540" style="s2">dance whether he likes it or not</p>
+<p begin="00:12:48.029" end="00:12:52.890" style="s2">I think we&#39;ve called him before one man</p>
+<p begin="00:12:50.540" end="00:12:56.040" style="s2">lightning rod for the culture war so</p>
+<p begin="00:12:52.890" end="00:12:58.560" style="s2">what you&#39;ve called a culture war 2.0 why</p>
+<p begin="00:12:56.040" end="00:13:01.950" style="s2">why 2.0 what do you think is different</p>
+<p begin="00:12:58.560" end="00:13:03.450" style="s2">about this iteration the idea is sort of</p>
+<p begin="00:13:01.950" end="00:13:05.520" style="s2">like a postmodern war right it&#39;s a</p>
+<p begin="00:13:03.450" end="00:13:07.980" style="s2">multipolar war it&#39;s not about left or</p>
+<p begin="00:13:05.520" end="00:13:09.920" style="s2">right these monolithic forces it&#39;s a</p>
+<p begin="00:13:07.980" end="00:13:11.970" style="s2">multitude of memetic tribes competing</p>
+<p begin="00:13:09.920" end="00:13:13.680" style="s2">and I like to term the noosphere</p>
+<p begin="00:13:11.970" end="00:13:15.060" style="s2">collective consciousness right they&#39;re</p>
+<p begin="00:13:13.680" end="00:13:16.970" style="s2">all kind of swimming in this space</p>
+<p begin="00:13:15.060" end="00:13:18.769" style="s2">trying to</p>
+<p begin="00:13:16.970" end="00:13:22.879" style="s2">dominate the narrative or the</p>
+<p begin="00:13:18.769" end="00:13:25.579" style="s2">meta-narrative and we we speculate that</p>
+<p begin="00:13:22.879" end="00:13:30.439" style="s2">they&#39;re there six crisis crises that led</p>
+<p begin="00:13:25.579" end="00:13:33.050" style="s2">to this culture war 2.0 right one was</p>
+<p begin="00:13:30.439" end="00:13:36.889" style="s2">the meaning crisis right and the other</p>
+<p begin="00:13:33.050" end="00:13:39.290" style="s2">was the reality crisis and those two</p>
+<p begin="00:13:36.889" end="00:13:42.680" style="s2">together kind of give you the is in the</p>
+<p begin="00:13:39.290" end="00:13:45.170" style="s2">art right so the reality crisis tells</p>
+<p begin="00:13:42.680" end="00:13:46.970" style="s2">you what what is what is the map of</p>
+<p begin="00:13:45.170" end="00:13:48.709" style="s2">reality but if we can&#39;t have a</p>
+<p begin="00:13:46.970" end="00:13:50.750" style="s2">consistent collective sense making</p>
+<p begin="00:13:48.709" end="00:13:54.230" style="s2">capacities if we can&#39;t dialogue together</p>
+<p begin="00:13:50.750" end="00:13:56.870" style="s2">and figure out what is true or even have</p>
+<p begin="00:13:54.230" end="00:13:59.660" style="s2">a the same Epis Tamala G to arrive at</p>
+<p begin="00:13:56.870" end="00:14:02.629" style="s2">truth then we have a reality crisis on</p>
+<p begin="00:13:59.660" end="00:14:04.189" style="s2">our hands right and Scott Adams commonly</p>
+<p begin="00:14:02.629" end="00:14:07.160" style="s2">talks about how there&#39;s like two movie</p>
+<p begin="00:14:04.189" end="00:14:09.379" style="s2">screens where we kind of flirt with the</p>
+<p begin="00:14:07.160" end="00:14:11.029" style="s2">idea that it&#39;s Netflix level variety of</p>
+<p begin="00:14:09.379" end="00:14:15.279" style="s2">reality of tunnels that we&#39;re wrestling</p>
+<p begin="00:14:11.029" end="00:14:17.930" style="s2">with and the meaning crisis gives us a</p>
+<p begin="00:14:15.279" end="00:14:18.410" style="s2">not right what we should do with our</p>
+<p begin="00:14:17.930" end="00:14:21.559" style="s2">lives</p>
+<p begin="00:14:18.410" end="00:14:24.680" style="s2">and when you have one sort of religion</p>
+<p begin="00:14:21.559" end="00:14:26.930" style="s2">or meta-narrative that dominates it kind</p>
+<p begin="00:14:24.680" end="00:14:29.899" style="s2">of creates internal coherence with</p>
+<p begin="00:14:26.930" end="00:14:32.240" style="s2">society but if you have a bunch of them</p>
+<p begin="00:14:29.899" end="00:14:35.420" style="s2">competing with each other then that&#39;s a</p>
+<p begin="00:14:32.240" end="00:14:37.490" style="s2">crisis right the other ones we have a</p>
+<p begin="00:14:35.420" end="00:14:38.899" style="s2">belonging this crisis where people don&#39;t</p>
+<p begin="00:14:37.490" end="00:14:41.540" style="s2">feel like they&#39;re they&#39;re connected with</p>
+<p begin="00:14:38.899" end="00:14:46.129" style="s2">each other there&#39;s a warfare crisis</p>
+<p begin="00:14:41.540" end="00:14:48.620" style="s2">going on which is with the internet some</p>
+<p begin="00:14:46.129" end="00:14:51.199" style="s2">speculate that we&#39;re in a fourth World</p>
+<p begin="00:14:48.620" end="00:14:52.790" style="s2">War and it&#39;s a memetic war whether it&#39;s</p>
+<p begin="00:14:51.199" end="00:14:55.189" style="s2">sort of memetic mercenaries like</p>
+<p begin="00:14:52.790" end="00:14:56.899" style="s2">Cambridge analytic ah Russians hacking</p>
+<p begin="00:14:55.189" end="00:15:00.019" style="s2">or Chinese hacking the United States</p>
+<p begin="00:14:56.899" end="00:15:02.269" style="s2">government but everyone can be a memetic</p>
+<p begin="00:15:00.019" end="00:15:05.389" style="s2">warrior in this kind of ecology that</p>
+<p begin="00:15:02.269" end="00:15:08.029" style="s2">we&#39;re operating in if this is a wool</p>
+<p begin="00:15:05.389" end="00:15:11.899" style="s2">what do you think of the key from it so</p>
+<p begin="00:15:08.029" end="00:15:13.220" style="s2">out of the 36 mimetic tribes that we</p>
+<p begin="00:15:11.899" end="00:15:16.699" style="s2">listed and I mentioned a few already</p>
+<p begin="00:15:13.220" end="00:15:18.350" style="s2">both social justice activists me too</p>
+<p begin="00:15:16.699" end="00:15:21.649" style="s2">black life matters I&#39;ll write all that</p>
+<p begin="00:15:18.350" end="00:15:22.670" style="s2">stuff you could say that there&#39;s and</p>
+<p begin="00:15:21.649" end="00:15:24.230" style="s2">again this is me at the edge of my</p>
+<p begin="00:15:22.670" end="00:15:26.689" style="s2">thinking there&#39;s there&#39;s two broad</p>
+<p begin="00:15:24.230" end="00:15:29.269" style="s2">coalition&#39;s if you want to call the woke</p>
+<p begin="00:15:26.689" end="00:15:30.499" style="s2">coalition and sort of this red pill</p>
+<p begin="00:15:29.269" end="00:15:33.019" style="s2">coalition my</p>
+<p begin="00:15:30.499" end="00:15:34.999" style="s2">map over to Jordan hauls the blue church</p>
+<p begin="00:15:33.019" end="00:15:37.219" style="s2">red church I think those are the two</p>
+<p begin="00:15:34.999" end="00:15:38.809" style="s2">driving forces currently in the in the</p>
+<p begin="00:15:37.219" end="00:15:39.979" style="s2">culture war and they&#39;re fighting</p>
+<p begin="00:15:38.809" end="00:15:41.539" style="s2">internally amongst themselves but</p>
+<p begin="00:15:39.979" end="00:15:45.229" style="s2">they&#39;re also fighting themselves as well</p>
+<p begin="00:15:41.539" end="00:15:48.079" style="s2">and I would say the one that has power</p>
+<p begin="00:15:45.229" end="00:15:50.779" style="s2">is the woke coalition&#39;s because they</p>
+<p begin="00:15:48.079" end="00:15:52.549" style="s2">dominate most media except Fox News and</p>
+<p begin="00:15:50.779" end="00:15:54.829" style="s2">Breitbart they dominate a lot of our</p>
+<p begin="00:15:52.549" end="00:16:02.029" style="s2">institutions HR departments PR</p>
+<p begin="00:15:54.829" end="00:16:04.129" style="s2">departments politics and the red pill</p>
+<p begin="00:16:02.029" end="00:16:07.309" style="s2">tried to soar like a gorilla warriors in</p>
+<p begin="00:16:04.129" end="00:16:08.599" style="s2">a way some people would kind of pick you</p>
+<p begin="00:16:07.309" end="00:16:10.729" style="s2">up at that point if I can you said they</p>
+<p begin="00:16:08.599" end="00:16:13.099" style="s2">dominated politics when Trump is in</p>
+<p begin="00:16:10.729" end="00:16:14.779" style="s2">power and right right and I should I</p>
+<p begin="00:16:13.099" end="00:16:16.249" style="s2">should speak a little bit more nuanced</p>
+<p begin="00:16:14.779" end="00:16:18.079" style="s2">they&#39;re they don&#39;t dominate all politics</p>
+<p begin="00:16:16.249" end="00:16:20.629" style="s2">but they dominate sort of the liberal</p>
+<p begin="00:16:18.079" end="00:16:21.919" style="s2">parties but yeah you&#39;re a hundred</p>
+<p begin="00:16:20.629" end="00:16:26.449" style="s2">percent right that the rightist parties</p>
+<p begin="00:16:21.919" end="00:16:27.649" style="s2">are sort of red pill in a way and I</p>
+<p begin="00:16:26.449" end="00:16:31.309" style="s2">would say these these two broad</p>
+<p begin="00:16:27.649" end="00:16:34.039" style="s2">coalition&#39;s the woke coalition they kind</p>
+<p begin="00:16:31.309" end="00:16:36.139" style="s2">of use virtue extortion ISM I like this</p>
+<p begin="00:16:34.039" end="00:16:38.629" style="s2">term that I&#39;m flirting with and you know</p>
+<p begin="00:16:36.139" end="00:16:39.859" style="s2">the Mafia if they wanted to get money</p>
+<p begin="00:16:38.629" end="00:16:43.129" style="s2">from a business they break a few windows</p>
+<p begin="00:16:39.859" end="00:16:45.859" style="s2">and we&#39;ll protect you right so if you&#39;re</p>
+<p begin="00:16:43.129" end="00:16:48.919" style="s2">not virtue signaling a certain way then</p>
+<p begin="00:16:45.859" end="00:16:51.289" style="s2">you&#39;re at risk of being called a racist</p>
+<p begin="00:16:48.919" end="00:16:54.559" style="s2">sexist whatever right and that&#39;s a form</p>
+<p begin="00:16:51.289" end="00:16:56.739" style="s2">of power where people on the the red</p>
+<p begin="00:16:54.559" end="00:16:59.629" style="s2">pill right it&#39;s more or I would say</p>
+<p begin="00:16:56.739" end="00:17:01.189" style="s2">virtue terrorism you know in a sense</p>
+<p begin="00:16:59.629" end="00:17:03.019" style="s2">rein where they engage in online</p>
+<p begin="00:17:01.189" end="00:17:04.429" style="s2">harassment if somebody is critical</p>
+<p begin="00:17:03.019" end="00:17:06.439" style="s2">Jordan Peterson whether it&#39;s in bad</p>
+<p begin="00:17:04.429" end="00:17:10.039" style="s2">faith or good faith they can be attacked</p>
+<p begin="00:17:06.439" end="00:17:13.970" style="s2">by trolls and in the worst case as in</p>
+<p begin="00:17:10.039" end="00:17:15.889" style="s2">cells who engage in actual terrorism so</p>
+<p begin="00:17:13.970" end="00:17:18.019" style="s2">those are this virtue of extortion ISM</p>
+<p begin="00:17:15.889" end="00:17:21.110" style="s2">and virtue terrorism we&#39;re kind of two</p>
+<p begin="00:17:18.019" end="00:17:23.059" style="s2">ways this culture wars and being engaged</p>
+<p begin="00:17:21.110" end="00:17:24.799" style="s2">in but one thing it&#39;s not happening is</p>
+<p begin="00:17:23.059" end="00:17:27.730" style="s2">dialogue genuine dialogue between the</p>
+<p begin="00:17:24.799" end="00:17:30.860" style="s2">two and some may say this could be what</p>
+<p begin="00:17:27.730" end="00:17:33.619" style="s2">Robert focalin calls a deep disagreement</p>
+<p begin="00:17:30.860" end="00:17:36.529" style="s2">something that can&#39;t be reconciled or</p>
+<p begin="00:17:33.619" end="00:17:41.090" style="s2">it&#39;s just bad faith actors engaging in</p>
+<p begin="00:17:36.529" end="00:17:43.160" style="s2">in combat do you have a sense of where</p>
+<p begin="00:17:41.090" end="00:17:46.430" style="s2">this is going at the moment</p>
+<p begin="00:17:43.160" end="00:17:48.860" style="s2">do you have a sense of that there is do</p>
+<p begin="00:17:46.430" end="00:17:49.760" style="s2">you see much hope that this this could</p>
+<p begin="00:17:48.860" end="00:17:51.820" style="s2">be resolved</p>
+<p begin="00:17:49.760" end="00:17:54.860" style="s2">I like this term called existential Hope</p>
+<p begin="00:17:51.820" end="00:17:56.600" style="s2">the idea and you know I&#39;m as you know</p>
+<p begin="00:17:54.860" end="00:17:58.430" style="s2">I&#39;m a kind of practicing stoic and I</p>
+<p begin="00:17:56.600" end="00:18:00.080" style="s2">operate the stoic community in Toronto</p>
+<p begin="00:17:58.430" end="00:18:02.960" style="s2">and there&#39;s this thing called the</p>
+<p begin="00:18:00.080" end="00:18:04.700" style="s2">Stockdale paradox and John Stockdale or</p>
+<p begin="00:18:02.960" end="00:18:07.640" style="s2">the James Stockdale he was a fighter</p>
+<p begin="00:18:04.700" end="00:18:09.500" style="s2">pilot in the Vietnam War and when he</p>
+<p begin="00:18:07.640" end="00:18:12.230" style="s2">crashed his plane he was playing got</p>
+<p begin="00:18:09.500" end="00:18:13.850" style="s2">shot down and he says I&#39;m having a date</p>
+<p begin="00:18:12.230" end="00:18:15.710" style="s2">with Epictetus one of the prominent</p>
+<p begin="00:18:13.850" end="00:18:20.090" style="s2">Stoics and he practiced his stoicism</p>
+<p begin="00:18:15.710" end="00:18:23.510" style="s2">when he was a captive and he noticed</p>
+<p begin="00:18:20.090" end="00:18:25.520" style="s2">something that the the soldiers who were</p>
+<p begin="00:18:23.510" end="00:18:29.300" style="s2">held captive that kind of set a time</p>
+<p begin="00:18:25.520" end="00:18:32.690" style="s2">line towards being released gave into</p>
+<p begin="00:18:29.300" end="00:18:34.310" style="s2">nihilism they gave up they gave hope and</p>
+<p begin="00:18:32.690" end="00:18:37.880" style="s2">he noticed the healthy balance to have</p>
+<p begin="00:18:34.310" end="00:18:40.130" style="s2">is to have this ridiculous hope that</p>
+<p begin="00:18:37.880" end="00:18:42.100" style="s2">your situation will be resolved that you</p>
+<p begin="00:18:40.130" end="00:18:44.600" style="s2">know heaven will arrive but be</p>
+<p begin="00:18:42.100" end="00:18:46.880" style="s2">absolutely realistic about the brute</p>
+<p begin="00:18:44.600" end="00:18:49.130" style="s2">facts of your situation you don&#39;t know</p>
+<p begin="00:18:46.880" end="00:18:50.510" style="s2">when you&#39;re gonna get out right so</p>
+<p begin="00:18:49.130" end="00:18:52.640" style="s2">holding that tension between that</p>
+<p begin="00:18:50.510" end="00:18:54.890" style="s2">existential Hope and then that kind of</p>
+<p begin="00:18:52.640" end="00:18:57.940" style="s2">that gritty reality right and when I</p>
+<p begin="00:18:54.890" end="00:19:00.920" style="s2">have those moments you know</p>
+<p begin="00:18:57.940" end="00:19:03.160" style="s2">possibilities open up and one thing I&#39;m</p>
+<p begin="00:19:00.920" end="00:19:05.780" style="s2">flirting with right now going back to</p>
+<p begin="00:19:03.160" end="00:19:07.310" style="s2">this potential of intellectual deep web</p>
+<p begin="00:19:05.780" end="00:19:10.210" style="s2">and how they don&#39;t view it as a culture</p>
+<p begin="00:19:07.310" end="00:19:13.240" style="s2">war but they view it as a cultural dance</p>
+<p begin="00:19:10.210" end="00:19:16.640" style="s2">how can people playing in this space</p>
+<p begin="00:19:13.240" end="00:19:19.220" style="s2">dance so seductively that they want</p>
+<p begin="00:19:16.640" end="00:19:21.860" style="s2">others to dance with them or how do you</p>
+<p begin="00:19:19.220" end="00:19:24.050" style="s2">have you make the meta space cool enough</p>
+<p begin="00:19:21.860" end="00:19:26.000" style="s2">that people want to want to go that</p>
+<p begin="00:19:24.050" end="00:19:28.580" style="s2">right yeah and so in Daniel thorn from</p>
+<p begin="00:19:26.000" end="00:19:30.860" style="s2">the emerge podcast we were talking about</p>
+<p begin="00:19:28.580" end="00:19:32.720" style="s2">this that one thing that I&#39;m almost</p>
+<p begin="00:19:30.860" end="00:19:35.180" style="s2">allergic to these days is this kind of</p>
+<p begin="00:19:32.720" end="00:19:37.130" style="s2">like certainty that&#39;s radical certainty</p>
+<p begin="00:19:35.180" end="00:19:40.540" style="s2">which a lot of medic tribes and kind of</p>
+<p begin="00:19:37.130" end="00:19:43.250" style="s2">the Chieftains in it have and I love</p>
+<p begin="00:19:40.540" end="00:19:44.990" style="s2">being uncertain these days right and</p>
+<p begin="00:19:43.250" end="00:19:47.810" style="s2">there used to be a sense of anxiety when</p>
+<p begin="00:19:44.990" end="00:19:50.270" style="s2">I held this uncertainty but now it feels</p>
+<p begin="00:19:47.810" end="00:19:51.860" style="s2">I&#39;m very comfortable with it and there&#39;s</p>
+<p begin="00:19:50.270" end="00:19:53.100" style="s2">this term called the the gray pill I</p>
+<p begin="00:19:51.860" end="00:19:55.200" style="s2">don&#39;t need it</p>
+<p begin="00:19:53.100" end="00:19:57.270" style="s2">kind of like map it out the the blue</p>
+<p begin="00:19:55.200" end="00:19:59.100" style="s2">pill red pill analogy from the matrix</p>
+<p begin="00:19:57.270" end="00:20:01.110" style="s2">right they got repurposed by some of the</p>
+<p begin="00:19:59.100" end="00:20:02.700" style="s2">reactionary tribes but if you you&#39;re</p>
+<p begin="00:20:01.110" end="00:20:04.309" style="s2">kind of born into a blue pill you don&#39;t</p>
+<p begin="00:20:02.700" end="00:20:07.020" style="s2">take it right and that&#39;s kind of</p>
+<p begin="00:20:04.309" end="00:20:08.730" style="s2">consensus reality then you take a red</p>
+<p begin="00:20:07.020" end="00:20:11.610" style="s2">pill then you&#39;re kind of shown the harsh</p>
+<p begin="00:20:08.730" end="00:20:13.830" style="s2">truths of reality but then the gray pill</p>
+<p begin="00:20:11.610" end="00:20:15.660" style="s2">is sort of muddying the waters of your</p>
+<p begin="00:20:13.830" end="00:20:18.570" style="s2">red pill truths right it&#39;s kind of</p>
+<p begin="00:20:15.660" end="00:20:20.190" style="s2">dancing with nuance and you can get an</p>
+<p begin="00:20:18.570" end="00:20:22.830" style="s2">existential crisis if you take a gray</p>
+<p begin="00:20:20.190" end="00:20:25.320" style="s2">pill but if you kind of sit with it long</p>
+<p begin="00:20:22.830" end="00:20:26.880" style="s2">enough it starts becoming fun and sexy</p>
+<p begin="00:20:25.320" end="00:20:30.270" style="s2">and you don&#39;t know where you&#39;re going</p>
+<p begin="00:20:26.880" end="00:20:32.970" style="s2">you don&#39;t know what will emerge so how</p>
+<p begin="00:20:30.270" end="00:20:34.440" style="s2">can we make uncertainty sexy right</p>
+<p begin="00:20:32.970" end="00:20:35.820" style="s2">that&#39;s kind of like something I&#39;m</p>
+<p begin="00:20:34.440" end="00:20:38.940" style="s2">thinking about and how can you be</p>
+<p begin="00:20:35.820" end="00:20:41.309" style="s2">confident with yourself with uncertainty</p>
+<p begin="00:20:38.940" end="00:20:44.580" style="s2">hmm I guess there&#39;s something around</p>
+<p begin="00:20:41.309" end="00:20:48.090" style="s2">aesthetics and fun like how can you have</p>
+<p begin="00:20:44.580" end="00:20:49.409" style="s2">more fun in the kind of meta tribe that</p>
+<p begin="00:20:48.090" end="00:20:51.480" style="s2">then encourages more people to want to</p>
+<p begin="00:20:49.409" end="00:20:52.679" style="s2">join and the aesthetics around that as</p>
+<p begin="00:20:51.480" end="00:20:55.830" style="s2">well which is something we think about a</p>
+<p begin="00:20:52.679" end="00:20:57.780" style="s2">lot like for me there&#39;s this sort of the</p>
+<p begin="00:20:55.830" end="00:20:58.770" style="s2">more meta tribe embraces what we&#39;ve</p>
+<p begin="00:20:57.780" end="00:21:02.700" style="s2">talked about before like the more</p>
+<p begin="00:20:58.770" end="00:21:04.590" style="s2">embodied practices the personal growth</p>
+<p begin="00:21:02.700" end="00:21:06.030" style="s2">background that I come from as well like</p>
+<p begin="00:21:04.590" end="00:21:07.620" style="s2">I see as absolutely core to that because</p>
+<p begin="00:21:06.030" end="00:21:09.530" style="s2">you&#39;ve got to be able to hold complexity</p>
+<p begin="00:21:07.620" end="00:21:12.030" style="s2">you&#39;ve got to be able to kind of be in</p>
+<p begin="00:21:09.530" end="00:21:13.710" style="s2">much more aware of your inner processes</p>
+<p begin="00:21:12.030" end="00:21:16.470" style="s2">while you&#39;re having conversations to</p>
+<p begin="00:21:13.710" end="00:21:18.900" style="s2">avoid cutting getting hijacked limbic</p>
+<p begin="00:21:16.470" end="00:21:20.580" style="s2">hijack and Migdal hijack all of those</p>
+<p begin="00:21:18.900" end="00:21:22.590" style="s2">things so there&#39;s there&#39;s a there&#39;s a</p>
+<p begin="00:21:20.580" end="00:21:25.230" style="s2">big part of that right and I do think</p>
+<p begin="00:21:22.590" end="00:21:27.419" style="s2">that you know the aesthetics is a Trojan</p>
+<p begin="00:21:25.230" end="00:21:28.830" style="s2">horse to get into that deep stuff and</p>
+<p begin="00:21:27.419" end="00:21:31.820" style="s2">what I like about rebel wisdom is you</p>
+<p begin="00:21:28.830" end="00:21:34.880" style="s2">guys are engaged and a wealth of kind of</p>
+<p begin="00:21:31.820" end="00:21:38.190" style="s2">spiritual and and kind of</p>
+<p begin="00:21:34.880" end="00:21:41.760" style="s2">psychotherapeutic modalities right and I</p>
+<p begin="00:21:38.190" end="00:21:44.549" style="s2">think that is key to engage in that</p>
+<p begin="00:21:41.760" end="00:21:46.860" style="s2">these these modalities because there&#39;s</p>
+<p begin="00:21:44.549" end="00:21:49.770" style="s2">something that this term of flirting</p>
+<p begin="00:21:46.860" end="00:21:51.900" style="s2">with is the outrage portal right we no</p>
+<p begin="00:21:49.770" end="00:21:54.390" style="s2">longer have a culture we&#39;re in an</p>
+<p begin="00:21:51.900" end="00:21:56.010" style="s2">outrage portal right outrage porn is</p>
+<p begin="00:21:54.390" end="00:21:59.190" style="s2">what connects us the longer shared</p>
+<p begin="00:21:56.010" end="00:22:02.070" style="s2">values or whatever right whether it&#39;s on</p>
+<p begin="00:21:59.190" end="00:22:03.990" style="s2">the left or the right we&#39;re all an</p>
+<p begin="00:22:02.070" end="00:22:05.560" style="s2">iPhone away from being on the casting</p>
+<p begin="00:22:03.990" end="00:22:08.230" style="s2">couch of the culture war</p>
+<p begin="00:22:05.560" end="00:22:11.290" style="s2">whereas producers by sharing memes on</p>
+<p begin="00:22:08.230" end="00:22:14.350" style="s2">Twitter but we&#39;re also it&#39;s um you know</p>
+<p begin="00:22:11.290" end="00:22:15.220" style="s2">stars we never know when we&#39;re gonna be</p>
+<p begin="00:22:14.350" end="00:22:21.270" style="s2">cast into it</p>
+<p begin="00:22:15.220" end="00:22:24.250" style="s2">and but in order to be a participant in</p>
+<p begin="00:22:21.270" end="00:22:27.490" style="s2">this culture or this outrage porno you</p>
+<p begin="00:22:24.250" end="00:22:30.430" style="s2">got to be a dick an addict right in some</p>
+<p begin="00:22:27.490" end="00:22:33.370" style="s2">capacity and if you kind of remove that</p>
+<p begin="00:22:30.430" end="00:22:36.640" style="s2">impulse to for addiction which what you</p>
+<p begin="00:22:33.370" end="00:22:39.490" style="s2">guys are doing then you might peek your</p>
+<p begin="00:22:36.640" end="00:22:41.440" style="s2">head an outrage porno and they won&#39;t</p>
+<p begin="00:22:39.490" end="00:22:43.150" style="s2">have real sex yeah and there&#39;s I don&#39;t</p>
+<p begin="00:22:41.440" end="00:22:46.360" style="s2">know if it&#39;s just because of what I&#39;m</p>
+<p begin="00:22:43.150" end="00:22:48.010" style="s2">interested in but the most interesting</p>
+<p begin="00:22:46.360" end="00:22:49.660" style="s2">conversations I think we&#39;ve had on the</p>
+<p begin="00:22:48.010" end="00:22:53.980" style="s2">channel of being with people who are</p>
+<p begin="00:22:49.660" end="00:22:58.780" style="s2">also sensing this drive towards that we</p>
+<p begin="00:22:53.980" end="00:23:00.340" style="s2">have to get down into the how we have</p>
+<p begin="00:22:58.780" end="00:23:02.980" style="s2">these conversations as much as what</p>
+<p begin="00:23:00.340" end="00:23:05.500" style="s2">we&#39;re talking about and and and the</p>
+<p begin="00:23:02.980" end="00:23:08.410" style="s2">necessity for getting into this sort of</p>
+<p begin="00:23:05.500" end="00:23:10.240" style="s2">collective expect of intelligence space</p>
+<p begin="00:23:08.410" end="00:23:12.250" style="s2">like Jamie wheel talks about Jordan</p>
+<p begin="00:23:10.240" end="00:23:15.520" style="s2">Green all talks about daniel</p>
+<p begin="00:23:12.250" end="00:23:17.740" style="s2">trachtenberg er those kind of that there</p>
+<p begin="00:23:15.520" end="00:23:20.110" style="s2">seems to be a destination to the</p>
+<p begin="00:23:17.740" end="00:23:23.470" style="s2">intellectual exploration and it&#39;s it&#39;s</p>
+<p begin="00:23:20.110" end="00:23:25.390" style="s2">coming together in a much more nuanced</p>
+<p begin="00:23:23.470" end="00:23:26.830" style="s2">way in the sort of space of coherence</p>
+<p begin="00:23:25.390" end="00:23:32.110" style="s2">which I think can only happen from this</p>
+<p begin="00:23:26.830" end="00:23:33.430" style="s2">more meta perspective right and three</p>
+<p begin="00:23:32.110" end="00:23:34.540" style="s2">things come to mind and I don&#39;t know how</p>
+<p begin="00:23:33.430" end="00:23:37.180" style="s2">they&#39;re related to what you just said</p>
+<p begin="00:23:34.540" end="00:23:38.790" style="s2">but I think intuitively they are there&#39;s</p>
+<p begin="00:23:37.180" end="00:23:40.930" style="s2">just one term called meta communication</p>
+<p begin="00:23:38.790" end="00:23:43.330" style="s2">that I quite like right it&#39;s being</p>
+<p begin="00:23:40.930" end="00:23:44.980" style="s2">sensitive to not only the content that&#39;s</p>
+<p begin="00:23:43.330" end="00:23:47.860" style="s2">being exchanged but their relationship</p>
+<p begin="00:23:44.980" end="00:23:49.540" style="s2">right and being able to call out each of</p>
+<p begin="00:23:47.860" end="00:23:50.880" style="s2">those and have a discussion about it</p>
+<p begin="00:23:49.540" end="00:23:53.080" style="s2">right so just step out of the</p>
+<p begin="00:23:50.880" end="00:23:55.840" style="s2">interaction and talk about interaction</p>
+<p begin="00:23:53.080" end="00:23:58.360" style="s2">itself another term I like is</p>
+<p begin="00:23:55.840" end="00:23:59.590" style="s2">conversational narcissism right and then</p>
+<p begin="00:23:58.360" end="00:24:01.300" style="s2">there&#39;s two components to that there&#39;s</p>
+<p begin="00:23:59.590" end="00:24:05.050" style="s2">the shift response and the support</p>
+<p begin="00:24:01.300" end="00:24:08.050" style="s2">response and so let&#39;s say you tell me</p>
+<p begin="00:24:05.050" end="00:24:09.610" style="s2">that you went to Cuba and then I say</p>
+<p begin="00:24:08.050" end="00:24:11.170" style="s2">well great what you do there right</p>
+<p begin="00:24:09.610" end="00:24:12.430" style="s2">that&#39;s the support response the shift</p>
+<p begin="00:24:11.170" end="00:24:13.780" style="s2">response is turning it back to myself</p>
+<p begin="00:24:12.430" end="00:24:16.090" style="s2">right anyway like oh I remember the time</p>
+<p begin="00:24:13.780" end="00:24:17.920" style="s2">I went to Cuba and you know you&#39;re</p>
+<p begin="00:24:16.090" end="00:24:19.010" style="s2">talking to a narcissist or at least a</p>
+<p begin="00:24:17.920" end="00:24:21.500" style="s2">conversational nurses</p>
+<p begin="00:24:19.010" end="00:24:24.410" style="s2">they&#39;re pathologically use the shift</p>
+<p begin="00:24:21.500" end="00:24:26.060" style="s2">response right and I operate a lot of</p>
+<p begin="00:24:24.410" end="00:24:28.640" style="s2">could you explain that again I&#39;ll just</p>
+<p begin="00:24:26.060" end="00:24:32.030" style="s2">describe what that is sure so the shift</p>
+<p begin="00:24:28.640" end="00:24:33.590" style="s2">response so conversational narcissism is</p>
+<p begin="00:24:32.030" end="00:24:36.050" style="s2">someone who constantly shifts the</p>
+<p begin="00:24:33.590" end="00:24:37.520" style="s2">conversation back to themselves the</p>
+<p begin="00:24:36.050" end="00:24:41.750" style="s2">offense decline of someone who does that</p>
+<p begin="00:24:37.520" end="00:24:43.310" style="s2">yeah they the authentic relating</p>
+<p begin="00:24:41.750" end="00:24:45.980" style="s2">community they have an appendage term</p>
+<p begin="00:24:43.310" end="00:24:49.160" style="s2">for it like asking interested questions</p>
+<p begin="00:24:45.980" end="00:24:50.900" style="s2">versus asking interesting questions so</p>
+<p begin="00:24:49.160" end="00:24:52.460" style="s2">an interesting question is inquiring</p>
+<p begin="00:24:50.900" end="00:24:54.620" style="s2">into the person that you&#39;re genuinely</p>
+<p begin="00:24:52.460" end="00:24:56.030" style="s2">interested in but asking an interesting</p>
+<p begin="00:24:54.620" end="00:24:58.040" style="s2">question points the finger back on you</p>
+<p begin="00:24:56.030" end="00:25:00.230" style="s2">right and that&#39;s that&#39;s what kind of</p>
+<p begin="00:24:58.040" end="00:25:02.900" style="s2">conversational narcissism do and when</p>
+<p begin="00:25:00.230" end="00:25:05.030" style="s2">I&#39;m in Toronto I have a lot of these</p>
+<p begin="00:25:02.900" end="00:25:07.070" style="s2">impersonal in-person communities where</p>
+<p begin="00:25:05.030" end="00:25:08.870" style="s2">we have a lot of like in the book clubs</p>
+<p begin="00:25:07.070" end="00:25:10.280" style="s2">to base and stuff like that and there&#39;s</p>
+<p begin="00:25:08.870" end="00:25:12.590" style="s2">always a couple of characters who are</p>
+<p begin="00:25:10.280" end="00:25:13.910" style="s2">constantly pointing the fingers back at</p>
+<p begin="00:25:12.590" end="00:25:16.160" style="s2">themselves by making these kind of</p>
+<p begin="00:25:13.910" end="00:25:18.590" style="s2">interesting statements and they usually</p>
+<p begin="00:25:16.160" end="00:25:21.560" style="s2">don&#39;t have the space to hold someone</p>
+<p begin="00:25:18.590" end="00:25:23.510" style="s2">else&#39;s reality tunnel right and there&#39;s</p>
+<p begin="00:25:21.560" end="00:25:25.430" style="s2">ways to kind of break into that like we</p>
+<p begin="00:25:23.510" end="00:25:27.310" style="s2">were kind of playing with this modality</p>
+<p begin="00:25:25.430" end="00:25:30.230" style="s2">called the anti debate</p>
+<p begin="00:25:27.310" end="00:25:32.480" style="s2">so if we have opposing disagreements you</p>
+<p begin="00:25:30.230" end="00:25:34.310" style="s2">tell me your position and I repeat your</p>
+<p begin="00:25:32.480" end="00:25:36.470" style="s2">position back in my own words until you</p>
+<p begin="00:25:34.310" end="00:25:38.690" style="s2">feel fully understood and we can only go</p>
+<p begin="00:25:36.470" end="00:25:40.820" style="s2">to the next stage if you say I feel</p>
+<p begin="00:25:38.690" end="00:25:42.710" style="s2">fully understood but if you like if I</p>
+<p begin="00:25:40.820" end="00:25:44.810" style="s2">only got 50% of what you said then I</p>
+<p begin="00:25:42.710" end="00:25:46.820" style="s2">have to repeat that 50% to you say you</p>
+<p begin="00:25:44.810" end="00:25:48.740" style="s2">feel fully understood and only then I</p>
+<p begin="00:25:46.820" end="00:25:50.330" style="s2">can give my disagreement and then when</p>
+<p begin="00:25:48.740" end="00:25:51.980" style="s2">you hear my disagreement you repeat my</p>
+<p begin="00:25:50.330" end="00:25:53.960" style="s2">disagreement back and your own words</p>
+<p begin="00:25:51.980" end="00:25:55.970" style="s2">tell I feel fully understood right and</p>
+<p begin="00:25:53.960" end="00:25:58.100" style="s2">so it&#39;s like a sense making debate and</p>
+<p begin="00:25:55.970" end="00:26:01.280" style="s2">you&#39;re Trojan horsing a real dialogue</p>
+<p begin="00:25:58.100" end="00:26:02.690" style="s2">between two people who can&#39;t dialogue it</p>
+<p begin="00:26:01.280" end="00:26:05.390" style="s2">is really like couples therapy at the</p>
+<p begin="00:26:02.690" end="00:26:07.460" style="s2">Raj Aryan argument so that&#39;s one way I</p>
+<p begin="00:26:05.390" end="00:26:09.620" style="s2">find to get over the conversational</p>
+<p begin="00:26:07.460" end="00:26:13.070" style="s2">narcissism so it&#39;s interesting that you</p>
+<p begin="00:26:09.620" end="00:26:15.560" style="s2">use the Yeats poem as your the last pee</p>
+<p begin="00:26:13.070" end="00:26:17.120" style="s2">bit in your piece that the center cannot</p>
+<p begin="00:26:15.560" end="00:26:19.970" style="s2">hold mere anarchy is released upon the</p>
+<p begin="00:26:17.120" end="00:26:22.310" style="s2">world because that of all the that just</p>
+<p begin="00:26:19.970" end="00:26:23.690" style="s2">seems to resonate so clearly and I&#39;ve</p>
+<p begin="00:26:22.310" end="00:26:25.310" style="s2">had it kind of come to mind several</p>
+<p begin="00:26:23.690" end="00:26:27.760" style="s2">times I&#39;ve sort of thought about what&#39;s</p>
+<p begin="00:26:25.310" end="00:26:27.760" style="s2">going on in</p>
+<p begin="00:26:27.790" end="00:26:33.680" style="s2">do you think the center can hold or not</p>
+<p begin="00:26:29.990" end="00:26:37.220" style="s2">I think maybe we&#39;re faced with two paths</p>
+<p begin="00:26:33.680" end="00:26:40.310" style="s2">right or the center can&#39;t hold and maybe</p>
+<p begin="00:26:37.220" end="00:26:43.820" style="s2">it shouldn&#39;t hold and we&#39;re kin and we</p>
+<p begin="00:26:40.310" end="00:26:51.020" style="s2">have to unify come together find common</p>
+<p begin="00:26:43.820" end="00:26:53.090" style="s2">ground as they say maybe the most</p>
+<p begin="00:26:51.020" end="00:26:56.410" style="s2">heavenly existence could be found in</p>
+<p begin="00:26:53.090" end="00:26:59.270" style="s2">either one of those possibilities I</p>
+<p begin="00:26:56.410" end="00:27:03.160" style="s2">don&#39;t know but I think that&#39;s the choice</p>
+<p begin="00:26:59.270" end="00:27:03.160" style="s2">that we&#39;re heading towards</p>
+<p begin="00:27:04.250" end="00:27:19.880" style="s2">[Music]</p>
+<p begin="00:27:18.900" end="00:27:23.059" style="s2">you</p>
+<p begin="00:27:19.880" end="00:27:23.059" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

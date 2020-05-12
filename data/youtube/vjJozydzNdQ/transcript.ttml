@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.620" end="00:00:05.240" style="s2">hello there it&#39;s been a little while I</p>
+<p begin="00:00:03.270" end="00:00:07.080" style="s2">wanted to do a video about this</p>
+<p begin="00:00:05.240" end="00:00:09.000" style="s2">coronavirus thing that you may have</p>
+<p begin="00:00:07.080" end="00:00:12.480" style="s2">heard of I&#39;m gonna do this in one take</p>
+<p begin="00:00:09.000" end="00:00:15.210" style="s2">and so forgive me if it&#39;s not perfectly</p>
+<p begin="00:00:12.480" end="00:00:16.410" style="s2">articulated but I wanted to do it</p>
+<p begin="00:00:15.210" end="00:00:17.520" style="s2">reasonably spontaneously I&#39;ll put a</p>
+<p begin="00:00:16.410" end="00:00:20.760" style="s2">couple of notes here but I just wanted</p>
+<p begin="00:00:17.520" end="00:00:22.680" style="s2">to do it all in one here and so because</p>
+<p begin="00:00:20.760" end="00:00:24.720" style="s2">the circumstances of my life somewhat</p>
+<p begin="00:00:22.680" end="00:00:26.279" style="s2">insulate me from the fallout of all of</p>
+<p begin="00:00:24.720" end="00:00:29.460" style="s2">this I&#39;m nowhere near as effective as</p>
+<p begin="00:00:26.279" end="00:00:30.960" style="s2">many many people are I&#39;ve had a chance</p>
+<p begin="00:00:29.460" end="00:00:32.969" style="s2">to spend a lot of time talking to people</p>
+<p begin="00:00:30.960" end="00:00:35.309" style="s2">listening to people and getting a pretty</p>
+<p begin="00:00:32.969" end="00:00:37.500" style="s2">broad perspective on all of this and for</p>
+<p begin="00:00:35.309" end="00:00:41.219" style="s2">me the most important question to emerge</p>
+<p begin="00:00:37.500" end="00:00:43.050" style="s2">is the idea of how we have been for</p>
+<p begin="00:00:41.219" end="00:00:44.730" style="s2">decades whether consciously or not</p>
+<p begin="00:00:43.050" end="00:00:48.719" style="s2">whether we actually agree to it or not</p>
+<p begin="00:00:44.730" end="00:00:53.129" style="s2">we have been sacrificing resiliency for</p>
+<p begin="00:00:48.719" end="00:00:54.360" style="s2">efficiency and I say I hear no talk of</p>
+<p begin="00:00:53.129" end="00:00:56.520" style="s2">this whatsoever in the sort of legacy</p>
+<p begin="00:00:54.360" end="00:00:58.260" style="s2">mainstream media but there is importance</p>
+<p begin="00:00:56.520" end="00:01:00.300" style="s2">of the internet conversations about this</p>
+<p begin="00:00:58.260" end="00:01:03.359" style="s2">and I wanted to do my little tiny bit on</p>
+<p begin="00:01:00.300" end="00:01:05.519" style="s2">my youtube channel just to turn the</p>
+<p begin="00:01:03.359" end="00:01:07.110" style="s2">volume up on those questions and those</p>
+<p begin="00:01:05.519" end="00:01:09.450" style="s2">conversations because I think that for</p>
+<p begin="00:01:07.110" end="00:01:11.729" style="s2">me anyway it&#39;s the most important idea</p>
+<p begin="00:01:09.450" end="00:01:14.600" style="s2">to emerge from all of this and so what</p>
+<p begin="00:01:11.729" end="00:01:18.920" style="s2">I&#39;m talking about is the trade-off that</p>
+<p begin="00:01:14.600" end="00:01:21.900" style="s2">inevitably exists between efficiency and</p>
+<p begin="00:01:18.920" end="00:01:24.869" style="s2">resiliency so as you increase efficiency</p>
+<p begin="00:01:21.900" end="00:01:27.540" style="s2">you also increase for Gillette fragility</p>
+<p begin="00:01:24.869" end="00:01:29.729" style="s2">it&#39;s an inevitability so for example the</p>
+<p begin="00:01:27.540" end="00:01:31.590" style="s2">just-in-time supply chains that so many</p>
+<p begin="00:01:29.729" end="00:01:33.299" style="s2">organizations work on meaning that</p>
+<p begin="00:01:31.590" end="00:01:34.470" style="s2">they&#39;re not having to hold stock they</p>
+<p begin="00:01:33.299" end="00:01:36.030" style="s2">don&#39;t have to have as much warehouse</p>
+<p begin="00:01:34.470" end="00:01:37.439" style="s2">space they don&#39;t have to you know</p>
+<p begin="00:01:36.030" end="00:01:40.619" style="s2">they&#39;re there less wastage all of that</p>
+<p begin="00:01:37.439" end="00:01:42.960" style="s2">kind of thing but because everything&#39;s</p>
+<p begin="00:01:40.619" end="00:01:44.850" style="s2">arriving just in time to be deliverable</p>
+<p begin="00:01:42.960" end="00:01:46.470" style="s2">on to the next step in the chain if that</p>
+<p begin="00:01:44.850" end="00:01:50.759" style="s2">chain gets interrupted at any point</p>
+<p begin="00:01:46.470" end="00:01:52.860" style="s2">there&#39;s no slack there to to be taken up</p>
+<p begin="00:01:50.759" end="00:01:55.110" style="s2">and so that the chain potentially</p>
+<p begin="00:01:52.860" end="00:01:58.439" style="s2">immediately collapses so this is</p>
+<p begin="00:01:55.110" end="00:02:01.320" style="s2">extremely fragile another idea is that</p>
+<p begin="00:01:58.439" end="00:02:03.509" style="s2">things run at primarily full capacity</p>
+<p begin="00:02:01.320" end="00:02:05.869" style="s2">right it&#39;s inefficient to have room</p>
+<p begin="00:02:03.509" end="00:02:08.520" style="s2">standing empty you know staff not</p>
+<p begin="00:02:05.869" end="00:02:12.120" style="s2">engaged in actually doing things all the</p>
+<p begin="00:02:08.520" end="00:02:13.740" style="s2">time and so you know cutbacks in wages</p>
+<p begin="00:02:12.120" end="00:02:18.360" style="s2">cost cutting exercises in</p>
+<p begin="00:02:13.740" end="00:02:21.420" style="s2">reducing premises costs etc etc means</p>
+<p begin="00:02:18.360" end="00:02:22.590" style="s2">that there is again no slack to be taken</p>
+<p begin="00:02:21.420" end="00:02:24.270" style="s2">up when when there is a surge in</p>
+<p begin="00:02:22.590" end="00:02:25.830" style="s2">tomorrow there&#39;s no slack taken up to be</p>
+<p begin="00:02:24.270" end="00:02:28.260" style="s2">shaken up I mean in the UK certainly</p>
+<p begin="00:02:25.830" end="00:02:29.730" style="s2">already the emergency rooms were</p>
+<p begin="00:02:28.260" end="00:02:31.620" style="s2">overwhelmed right that was already</p>
+<p begin="00:02:29.730" end="00:02:33.810" style="s2">excessive waiting times and emergency</p>
+<p begin="00:02:31.620" end="00:02:35.220" style="s2">rooms and so add a tiny little bit of</p>
+<p begin="00:02:33.810" end="00:02:39.060" style="s2">extra pressure to that and the whole</p>
+<p begin="00:02:35.220" end="00:02:41.310" style="s2">thing potentially falls apart so that&#39;s</p>
+<p begin="00:02:39.060" end="00:02:43.560" style="s2">another one and then the third example</p>
+<p begin="00:02:41.310" end="00:02:45.120" style="s2">I&#39;ve got here is the notion of always</p>
+<p begin="00:02:43.560" end="00:02:47.340" style="s2">being optimized for one thing and this</p>
+<p begin="00:02:45.120" end="00:02:48.990" style="s2">is both people and equipment right so</p>
+<p begin="00:02:47.340" end="00:02:50.610" style="s2">when you&#39;re building a factory to make a</p>
+<p begin="00:02:48.990" end="00:02:52.830" style="s2">car for example the only thing that</p>
+<p begin="00:02:50.610" end="00:02:55.110" style="s2">factory knows how to make is cars to</p>
+<p begin="00:02:52.830" end="00:02:56.910" style="s2">repurpose that Factory is a major major</p>
+<p begin="00:02:55.110" end="00:02:59.940" style="s2">undertaking takes time it takes huge</p>
+<p begin="00:02:56.910" end="00:03:02.430" style="s2">capital staff are trained generally in</p>
+<p begin="00:02:59.940" end="00:03:05.900" style="s2">most organizations not all some already</p>
+<p begin="00:03:02.430" end="00:03:09.570" style="s2">do you know sort of more diverse</p>
+<p begin="00:03:05.900" end="00:03:11.340" style="s2">exposure to skills but in many</p>
+<p begin="00:03:09.570" end="00:03:13.680" style="s2">organisations each person in their</p>
+<p begin="00:03:11.340" end="00:03:15.060" style="s2">organization in in that organization is</p>
+<p begin="00:03:13.680" end="00:03:16.590" style="s2">trained to do one thing and one thing</p>
+<p begin="00:03:15.060" end="00:03:19.880" style="s2">only and they may do it very well but</p>
+<p begin="00:03:16.590" end="00:03:22.140" style="s2">that&#39;s all they know how to do and so</p>
+<p begin="00:03:19.880" end="00:03:24.900" style="s2">someone made a point in a conversation I</p>
+<p begin="00:03:22.140" end="00:03:27.090" style="s2">had that as global calamities go this is</p>
+<p begin="00:03:24.900" end="00:03:29.130" style="s2">a really gentle one you know it&#39;s like</p>
+<p begin="00:03:27.090" end="00:03:30.510" style="s2">you&#39;ve got some important lessons to</p>
+<p begin="00:03:29.130" end="00:03:32.670" style="s2">learn here&#39;s a little kick up the</p>
+<p begin="00:03:30.510" end="00:03:34.830" style="s2">backside wake up learn these lessons</p>
+<p begin="00:03:32.670" end="00:03:36.960" style="s2">otherwise next time it&#39;s only going to</p>
+<p begin="00:03:34.830" end="00:03:38.790" style="s2">be much much worse you know it&#39;s</p>
+<p begin="00:03:36.960" end="00:03:41.220" style="s2">important to understand that although</p>
+<p begin="00:03:38.790" end="00:03:43.170" style="s2">nobody could have predicted six months</p>
+<p begin="00:03:41.220" end="00:03:44.910" style="s2">ago that we were going to you know have</p>
+<p begin="00:03:43.170" end="00:03:47.640" style="s2">a novel virus spreading around the globe</p>
+<p begin="00:03:44.910" end="00:03:50.730" style="s2">it was easy to predict it&#39;s a certainty</p>
+<p begin="00:03:47.640" end="00:03:52.170" style="s2">that at some point along the road there</p>
+<p begin="00:03:50.730" end="00:03:56.190" style="s2">is going to be an unexpected calamity</p>
+<p begin="00:03:52.170" end="00:03:59.280" style="s2">and the greater our ability to in a</p>
+<p begin="00:03:56.190" end="00:04:02.310" style="s2">general sense absorb the impact of the</p>
+<p begin="00:03:59.280" end="00:04:04.410" style="s2">unexpected the less of this kind of</p>
+<p begin="00:04:02.310" end="00:04:06.780" style="s2">nonsense you know the weather the</p>
+<p begin="00:04:04.410" end="00:04:09.000" style="s2">complete shutdown of absolutely bloody</p>
+<p begin="00:04:06.780" end="00:04:10.830" style="s2">everything and that we that we need to</p>
+<p begin="00:04:09.000" end="00:04:14.310" style="s2">see in the future and so I would like to</p>
+<p begin="00:04:10.830" end="00:04:17.549" style="s2">offer a few things just basically off</p>
+<p begin="00:04:14.310" end="00:04:20.640" style="s2">the top of my head types of suggestions</p>
+<p begin="00:04:17.549" end="00:04:21.900" style="s2">that will build resilience but we you</p>
+<p begin="00:04:20.640" end="00:04:23.340" style="s2">know it&#39;s going to be at the expense of</p>
+<p begin="00:04:21.900" end="00:04:24.390" style="s2">efficiency which in turn is at the</p>
+<p begin="00:04:23.340" end="00:04:26.010" style="s2">expense of profits and shareholder</p>
+<p begin="00:04:24.390" end="00:04:27.660" style="s2">returns and all of that kind of thing</p>
+<p begin="00:04:26.010" end="00:04:30.450" style="s2">and this has just got to be accepted or</p>
+<p begin="00:04:27.660" end="00:04:31.890" style="s2">or if shareholder returns and profits</p>
+<p begin="00:04:30.450" end="00:04:34.950" style="s2">are the most important thing then let&#39;s</p>
+<p begin="00:04:31.890" end="00:04:36.510" style="s2">be explicit about their let&#39;s say okay</p>
+<p begin="00:04:34.950" end="00:04:37.980" style="s2">we accept we were going to have a high</p>
+<p begin="00:04:36.510" end="00:04:39.690" style="s2">level of fragility because we want to</p>
+<p begin="00:04:37.980" end="00:04:41.880" style="s2">have high levels of profits but you know</p>
+<p begin="00:04:39.690" end="00:04:44.610" style="s2">you can&#39;t have both you can&#39;t have</p>
+<p begin="00:04:41.880" end="00:04:47.610" style="s2">resilience and efficiency at the same</p>
+<p begin="00:04:44.610" end="00:04:49.410" style="s2">time there&#39;s a trade-off to be made</p>
+<p begin="00:04:47.610" end="00:04:51.660" style="s2">right and a conversation needs to be had</p>
+<p begin="00:04:49.410" end="00:04:54.150" style="s2">to what extent are we willing to</p>
+<p begin="00:04:51.660" end="00:04:56.640" style="s2">sacrifice resilience in the pursuit of</p>
+<p begin="00:04:54.150" end="00:04:58.170" style="s2">profit you know at what point do we stop</p>
+<p begin="00:04:56.640" end="00:05:00.360" style="s2">in the pursuit of profit because we</p>
+<p begin="00:04:58.170" end="00:05:02.070" style="s2">recognize that it&#39;s in all of our</p>
+<p begin="00:05:00.360" end="00:05:03.570" style="s2">interests to have a certain amount of</p>
+<p begin="00:05:02.070" end="00:05:06.780" style="s2">resilience built into the economy right</p>
+<p begin="00:05:03.570" end="00:05:08.880" style="s2">and so we need to understand that there</p>
+<p begin="00:05:06.780" end="00:05:10.800" style="s2">is that trade-off being made all the</p>
+<p begin="00:05:08.880" end="00:05:13.380" style="s2">time during that front-and-center and</p>
+<p begin="00:05:10.800" end="00:05:15.330" style="s2">understand what we are doing so anyway</p>
+<p begin="00:05:13.380" end="00:05:16.890" style="s2">like I said a few examples of the types</p>
+<p begin="00:05:15.330" end="00:05:19.620" style="s2">of things we can be doing firstly at the</p>
+<p begin="00:05:16.890" end="00:05:21.390" style="s2">individual level I mean pretty obviously</p>
+<p begin="00:05:19.620" end="00:05:24.030" style="s2">if everybody had a couple of months of</p>
+<p begin="00:05:21.390" end="00:05:27.060" style="s2">stocks in the freezer and in the form of</p>
+<p begin="00:05:24.030" end="00:05:28.320" style="s2">dry goods and bottled water and so on it</p>
+<p begin="00:05:27.060" end="00:05:29.790" style="s2">means that nobody has to panic right</p>
+<p begin="00:05:28.320" end="00:05:31.170" style="s2">when when when something comes along</p>
+<p begin="00:05:29.790" end="00:05:33.600" style="s2">everyone&#39;s got a couple of months where</p>
+<p begin="00:05:31.170" end="00:05:35.610" style="s2">they don&#39;t have to panic if a</p>
+<p begin="00:05:33.600" end="00:05:38.100" style="s2">significant number of people had solar</p>
+<p begin="00:05:35.610" end="00:05:40.890" style="s2">systems generators whatever that kind of</p>
+<p begin="00:05:38.100" end="00:05:43.350" style="s2">thing you know this this can absorb</p>
+<p begin="00:05:40.890" end="00:05:46.169" style="s2">impact so you know building this in at</p>
+<p begin="00:05:43.350" end="00:05:48.600" style="s2">an at an individual level is step number</p>
+<p begin="00:05:46.169" end="00:05:50.790" style="s2">one step number two is to think about</p>
+<p begin="00:05:48.600" end="00:05:52.830" style="s2">businesses and companies happens they</p>
+<p begin="00:05:50.790" end="00:05:55.250" style="s2">make themselves more resilient and in</p>
+<p begin="00:05:52.830" end="00:05:58.230" style="s2">doing so contribute to the overall</p>
+<p begin="00:05:55.250" end="00:05:59.640" style="s2">resilience of the society and so things</p>
+<p begin="00:05:58.230" end="00:06:03.240" style="s2">like as I&#39;ve already mentioned training</p>
+<p begin="00:05:59.640" end="00:06:04.350" style="s2">staff to be a bit more diverse in their</p>
+<p begin="00:06:03.240" end="00:06:06.360" style="s2">skill sets you know what I mean</p>
+<p begin="00:06:04.350" end="00:06:07.440" style="s2">encourage additional training and things</p>
+<p begin="00:06:06.360" end="00:06:11.460" style="s2">that are outside of their immediate</p>
+<p begin="00:06:07.440" end="00:06:14.550" style="s2">purview just to have that capacity that</p>
+<p begin="00:06:11.460" end="00:06:16.110" style="s2">spare capacity built-in when you&#39;re</p>
+<p begin="00:06:14.550" end="00:06:18.000" style="s2">building a factory instead of building</p>
+<p begin="00:06:16.110" end="00:06:19.350" style="s2">it and optimizing it to make that one</p>
+<p begin="00:06:18.000" end="00:06:21.000" style="s2">thing and that one thing only build it</p>
+<p begin="00:06:19.350" end="00:06:23.640" style="s2">in a modular way right it costs a little</p>
+<p begin="00:06:21.000" end="00:06:25.650" style="s2">bit more but by building in a modular</p>
+<p begin="00:06:23.640" end="00:06:27.419" style="s2">way you can take bits out put other bits</p>
+<p begin="00:06:25.650" end="00:06:29.190" style="s2">back in and very quickly and easily</p>
+<p begin="00:06:27.419" end="00:06:31.260" style="s2">repurpose that Factory to make new</p>
+<p begin="00:06:29.190" end="00:06:33.180" style="s2">things I mean imagine if you know a</p>
+<p begin="00:06:31.260" end="00:06:35.100" style="s2">vacuum cleaner Factory could be</p>
+<p begin="00:06:33.180" end="00:06:37.229" style="s2">repurposed overnight to start</p>
+<p begin="00:06:35.100" end="00:06:38.729" style="s2">manufacturing ventilators thousands of</p>
+<p begin="00:06:37.229" end="00:06:41.639" style="s2">them a day you know this kind of thing</p>
+<p begin="00:06:38.729" end="00:06:43.110" style="s2">is it&#39;s not technically speaking this</p>
+<p begin="00:06:41.639" end="00:06:45.180" style="s2">not a particularly difficult challenge</p>
+<p begin="00:06:43.110" end="00:06:48.749" style="s2">but as I&#39;ve already said there is a</p>
+<p begin="00:06:45.180" end="00:06:52.770" style="s2">sacrifice of profit and a sacrifice of</p>
+<p begin="00:06:48.749" end="00:06:54.300" style="s2">efficiency involved at a at the next</p>
+<p begin="00:06:52.770" end="00:06:58.499" style="s2">level up of us at the government</p>
+<p begin="00:06:54.300" end="00:06:59.819" style="s2">societal level you could Institute a you</p>
+<p begin="00:06:58.499" end="00:07:02.939" style="s2">know like there&#39;s like there&#39;s army</p>
+<p begin="00:06:59.819" end="00:07:04.319" style="s2">reserves you know people they do two or</p>
+<p begin="00:07:02.939" end="00:07:06.240" style="s2">three weeks a year whatever it is of</p>
+<p begin="00:07:04.319" end="00:07:08.129" style="s2">training and they maintain a sort of</p>
+<p begin="00:07:06.240" end="00:07:09.749" style="s2">basic level of skills they&#39;re not full</p>
+<p begin="00:07:08.129" end="00:07:11.879" style="s2">army but they reserves and they can</p>
+<p begin="00:07:09.749" end="00:07:13.860" style="s2">support the army when when when when</p>
+<p begin="00:07:11.879" end="00:07:15.750" style="s2">there&#39;s when there&#39;s demand for them why</p>
+<p begin="00:07:13.860" end="00:07:17.729" style="s2">could we not do something similar with</p>
+<p begin="00:07:15.750" end="00:07:19.560" style="s2">medical reserves with construction</p>
+<p begin="00:07:17.729" end="00:07:22.319" style="s2">reserves with logistics reserves you</p>
+<p begin="00:07:19.560" end="00:07:24.419" style="s2">know and where everybody in the</p>
+<p begin="00:07:22.319" end="00:07:26.460" style="s2">population hair doesn&#39;t spend a couple</p>
+<p begin="00:07:24.419" end="00:07:28.529" style="s2">of weeks a year doing something that</p>
+<p begin="00:07:26.460" end="00:07:31.590" style="s2">isn&#39;t their normal job just to just to</p>
+<p begin="00:07:28.529" end="00:07:33.539" style="s2">keep their hand in so that if that thing</p>
+<p begin="00:07:31.590" end="00:07:35.370" style="s2">becomes needed you&#39;ve got a whole bunch</p>
+<p begin="00:07:33.539" end="00:07:37.279" style="s2">of reserves and volunteers to do that</p>
+<p begin="00:07:35.370" end="00:07:40.319" style="s2">sound seems to me to be a relatively</p>
+<p begin="00:07:37.279" end="00:07:43.169" style="s2">simple way to build a massive amount of</p>
+<p begin="00:07:40.319" end="00:07:46.110" style="s2">spare capacity and thus resilience into</p>
+<p begin="00:07:43.169" end="00:07:47.819" style="s2">the economy so that&#39;s that&#39;s about it</p>
+<p begin="00:07:46.110" end="00:07:49.550" style="s2">I&#39;m just a just a short video I&#39;m gonna</p>
+<p begin="00:07:47.819" end="00:07:53.969" style="s2">make one more I want to talk also about</p>
+<p begin="00:07:49.550" end="00:07:55.740" style="s2">the lockdown and staying at home and</p>
+<p begin="00:07:53.969" end="00:07:58.080" style="s2">some of the opportunities that this</p>
+<p begin="00:07:55.740" end="00:07:59.520" style="s2">actually could present so I&#39;ll do</p>
+<p begin="00:07:58.080" end="00:08:02.960" style="s2">another one on that very shortly but for</p>
+<p begin="00:07:59.520" end="00:08:02.960" style="s2">now thank you very much for watching</p>
+</div>
+</body>
+</tt>

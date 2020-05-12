@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.150" end="00:00:02.450" style="s2">[Music]</p>
+<p begin="00:00:04.819" end="00:00:09.450" style="s2">so at the risk of overthinking an</p>
+<p begin="00:00:07.289" end="00:00:11.910" style="s2">internet meme we&#39;re going to talk about</p>
+<p begin="00:00:09.450" end="00:00:13.290" style="s2">the NPC meme which is definitely broken</p>
+<p begin="00:00:11.910" end="00:00:16.019" style="s2">through into the mainstream over the</p>
+<p begin="00:00:13.290" end="00:00:17.939" style="s2">last couple of days probably when a BBC</p>
+<p begin="00:00:16.019" end="00:00:20.070" style="s2">article about it New York Times article</p>
+<p begin="00:00:17.939" end="00:00:21.599" style="s2">about it social media starting to</p>
+<p begin="00:00:20.070" end="00:00:27.689" style="s2">respond often twitter band a few</p>
+<p begin="00:00:21.599" end="00:00:29.519" style="s2">accounts and link it to something that</p>
+<p begin="00:00:27.689" end="00:00:31.499" style="s2">one of our contributors Jordan green</p>
+<p begin="00:00:29.519" end="00:00:32.790" style="s2">hall has said before we&#39;d put out a few</p>
+<p begin="00:00:31.499" end="00:00:34.020" style="s2">things recently with Jordan greenhorn</p>
+<p begin="00:00:32.790" end="00:00:37.830" style="s2">he&#39;s definitely one of our favorite</p>
+<p begin="00:00:34.020" end="00:00:39.870" style="s2">thinkers and he talks about this idea of</p>
+<p begin="00:00:37.830" end="00:00:41.520" style="s2">thinking versus simulated thinking I</p>
+<p begin="00:00:39.870" end="00:00:44.460" style="s2">think this really helps to kind of</p>
+<p begin="00:00:41.520" end="00:00:46.440" style="s2">identify what&#39;s going on and why there&#39;s</p>
+<p begin="00:00:44.460" end="00:00:48.150" style="s2">some truth in it and why actually the</p>
+<p begin="00:00:46.440" end="00:00:49.680" style="s2">truth is kind of the truth effect at the</p>
+<p begin="00:00:48.150" end="00:00:51.450" style="s2">moment it&#39;s kind of used to attack the</p>
+<p begin="00:00:49.680" end="00:00:53.670" style="s2">left but I think it points to something</p>
+<p begin="00:00:51.450" end="00:00:56.730" style="s2">quite fundamental about the way we</p>
+<p begin="00:00:53.670" end="00:00:59.790" style="s2">interact with the world so to start off</p>
+<p begin="00:00:56.730" end="00:01:03.450" style="s2">by saying what the MPC mean is I&#39;m not a</p>
+<p begin="00:00:59.790" end="00:01:06.210" style="s2">gamer you&#39;re a gamer well is it yeah so</p>
+<p begin="00:01:03.450" end="00:01:08.730" style="s2">an NPC in a game is a non-player</p>
+<p begin="00:01:06.210" end="00:01:10.440" style="s2">character so as you&#39;re playing a game</p>
+<p begin="00:01:08.730" end="00:01:12.800" style="s2">you&#39;re obviously encountering characters</p>
+<p begin="00:01:10.440" end="00:01:15.150" style="s2">in that game who are computer-generated</p>
+<p begin="00:01:12.800" end="00:01:16.440" style="s2">and they can be quite sophisticated so</p>
+<p begin="00:01:15.150" end="00:01:18.900" style="s2">you can interact with them and they</p>
+<p begin="00:01:16.440" end="00:01:20.640" style="s2">might have a set of responses I mean</p>
+<p begin="00:01:18.900" end="00:01:23.280" style="s2">they do have a set of responses they are</p>
+<p begin="00:01:20.640" end="00:01:25.409" style="s2">obviously they&#39;re running a script and</p>
+<p begin="00:01:23.280" end="00:01:26.070" style="s2">you might encounter one go off and do</p>
+<p begin="00:01:25.409" end="00:01:28.710" style="s2">something else</p>
+<p begin="00:01:26.070" end="00:01:30.299" style="s2">encounter that same NPC later and they</p>
+<p begin="00:01:28.710" end="00:01:32.909" style="s2">they just repeat the same thing they</p>
+<p begin="00:01:30.299" end="00:01:35.909" style="s2">said before because they don&#39;t have free</p>
+<p begin="00:01:32.909" end="00:01:38.010" style="s2">will or agency and so I guess the joke</p>
+<p begin="00:01:35.909" end="00:01:41.340" style="s2">of the meme and I and what the why the</p>
+<p begin="00:01:38.010" end="00:01:43.710" style="s2">meme has been so reacted against so</p>
+<p begin="00:01:41.340" end="00:01:46.440" style="s2">strongly is that it the suggestion is</p>
+<p begin="00:01:43.710" end="00:01:48.390" style="s2">that people particularly who are heavily</p>
+<p begin="00:01:46.440" end="00:01:49.470" style="s2">engaged with identity politics they</p>
+<p begin="00:01:48.390" end="00:01:51.900" style="s2">don&#39;t have free will</p>
+<p begin="00:01:49.470" end="00:01:53.670" style="s2">they&#39;re they&#39;re running a script and</p>
+<p begin="00:01:51.900" end="00:01:55.290" style="s2">they have stock responses to to</p>
+<p begin="00:01:53.670" end="00:01:58.740" style="s2">everything and I think that that whole</p>
+<p begin="00:01:55.290" end="00:02:00.270" style="s2">idea of you have no free will I think</p>
+<p begin="00:01:58.740" end="00:02:01.020" style="s2">that&#39;s the thing that&#39;s really gotten</p>
+<p begin="00:02:00.270" end="00:02:06.240" style="s2">under people&#39;s skin</p>
+<p begin="00:02:01.020" end="00:02:08.369" style="s2">why because I mean it&#39;s absolutely core</p>
+<p begin="00:02:06.240" end="00:02:10.830" style="s2">to being to your identity our identity</p>
+<p begin="00:02:08.369" end="00:02:12.580" style="s2">our I think our egos identity is based</p>
+<p begin="00:02:10.830" end="00:02:14.800" style="s2">in large part</p>
+<p begin="00:02:12.580" end="00:02:16.480" style="s2">and that we are free agents in the world</p>
+<p begin="00:02:14.800" end="00:02:19.630" style="s2">and we&#39;re making our own decisions so I</p>
+<p begin="00:02:16.480" end="00:02:21.670" style="s2">think there&#39;s nothing more there&#39;s</p>
+<p begin="00:02:19.630" end="00:02:24.310" style="s2">something that gets under anyone&#39;s skin</p>
+<p begin="00:02:21.670" end="00:02:25.960" style="s2">more than than suggesting that you are</p>
+<p begin="00:02:24.310" end="00:02:27.550" style="s2">you&#39;re effectively like part of the</p>
+<p begin="00:02:25.960" end="00:02:30.280" style="s2">matrix you are running a script you&#39;re</p>
+<p begin="00:02:27.550" end="00:02:31.210" style="s2">not you&#39;re not a unique individual well</p>
+<p begin="00:02:30.280" end="00:02:34.810" style="s2">it&#39;s interesting you mentioned the</p>
+<p begin="00:02:31.210" end="00:02:36.040" style="s2">matrix because Jordan green Hall</p>
+<p begin="00:02:34.810" end="00:02:39.070" style="s2">appeared in the film glitch in the</p>
+<p begin="00:02:36.040" end="00:02:41.110" style="s2">matrix that we we put out earlier this</p>
+<p begin="00:02:39.070" end="00:02:43.450" style="s2">year and that was about the the Jordan</p>
+<p begin="00:02:41.110" end="00:02:45.790" style="s2">Peterson Kathy Newman interview which i</p>
+<p begin="00:02:43.450" end="00:02:48.850" style="s2">think is the is still the sort of</p>
+<p begin="00:02:45.790" end="00:02:50.950" style="s2">perfect example of of this sort of idea</p>
+<p begin="00:02:48.850" end="00:02:53.260" style="s2">of simulated thinking because whatever</p>
+<p begin="00:02:50.950" end="00:02:54.970" style="s2">he said there was a kind of it was like</p>
+<p begin="00:02:53.260" end="00:02:56.709" style="s2">she was running a computer program and I</p>
+<p begin="00:02:54.970" end="00:03:00.160" style="s2">think Jordan Greenhill said that after</p>
+<p begin="00:02:56.709" end="00:03:02.290" style="s2">in the grillage in the Matrix film there</p>
+<p begin="00:03:00.160" end="00:03:04.900" style="s2">was a kind of input/output and it didn&#39;t</p>
+<p begin="00:03:02.290" end="00:03:07.720" style="s2">fit he didn&#39;t fit into the box that she</p>
+<p begin="00:03:04.900" end="00:03:09.250" style="s2">was kept trying to ascribe into and but</p>
+<p begin="00:03:07.720" end="00:03:11.380" style="s2">she never actually engaged what he was</p>
+<p begin="00:03:09.250" end="00:03:14.410" style="s2">saying so that&#39;s a really good kind of</p>
+<p begin="00:03:11.380" end="00:03:16.450" style="s2">example of it but generally we&#39;re gonna</p>
+<p begin="00:03:14.410" end="00:03:18.519" style="s2">play a quick clip now from Jordan</p>
+<p begin="00:03:16.450" end="00:03:22.290" style="s2">talking about thinking versus simulated</p>
+<p begin="00:03:18.519" end="00:03:25.930" style="s2">thinking simulated thinking I&#39;m proposin</p>
+<p begin="00:03:22.290" end="00:03:28.840" style="s2">happens when something breaks down this</p>
+<p begin="00:03:25.930" end="00:03:32.260" style="s2">ability to fluidly participate in both</p>
+<p begin="00:03:28.840" end="00:03:35.290" style="s2">modes and in fact maybe even more</p>
+<p begin="00:03:32.260" end="00:03:38.920" style="s2">precisely is went habit mode there shows</p>
+<p begin="00:03:35.290" end="00:03:40.530" style="s2">up as and presents itself as thinking</p>
+<p begin="00:03:38.920" end="00:03:44.739" style="s2">and this is where it gets very dangerous</p>
+<p begin="00:03:40.530" end="00:03:48.489" style="s2">where one is simulated thinking the</p>
+<p begin="00:03:44.739" end="00:03:49.989" style="s2">individual actually may believe possibly</p>
+<p begin="00:03:48.489" end="00:03:52.209" style="s2">quite earnestly that they are in fact</p>
+<p begin="00:03:49.989" end="00:03:54.489" style="s2">actually thinking when what they&#39;re</p>
+<p begin="00:03:52.209" end="00:03:57.150" style="s2">doing is actually running some kind of</p>
+<p begin="00:03:54.489" end="00:04:00.220" style="s2">script some kind of habit and of course</p>
+<p begin="00:03:57.150" end="00:04:02.590" style="s2">oftentimes some kind of script there was</p>
+<p begin="00:04:00.220" end="00:04:05.620" style="s2">not necessarily even theirs in the first</p>
+<p begin="00:04:02.590" end="00:04:08.650" style="s2">place they&#39;re running a third party</p>
+<p begin="00:04:05.620" end="00:04:11.769" style="s2">script malware as it were so the key</p>
+<p begin="00:04:08.650" end="00:04:13.660" style="s2">point in this isn&#39;t just that there are</p>
+<p begin="00:04:11.769" end="00:04:16.620" style="s2">two forms of thinking one is habit mode</p>
+<p begin="00:04:13.660" end="00:04:19.120" style="s2">and one is explorer mode it&#39;s that</p>
+<p begin="00:04:16.620" end="00:04:21.280" style="s2">sometimes habit mode is the right way to</p>
+<p begin="00:04:19.120" end="00:04:23.920" style="s2">to interact with the world often it is</p>
+<p begin="00:04:21.280" end="00:04:26.230" style="s2">and Explorer mode is labore</p>
+<p begin="00:04:23.920" end="00:04:28.330" style="s2">it takes time it&#39;s not useful the</p>
+<p begin="00:04:26.230" end="00:04:30.280" style="s2">problem with simulated thinking is when</p>
+<p begin="00:04:28.330" end="00:04:32.500" style="s2">the wrong method is used when habit mode</p>
+<p begin="00:04:30.280" end="00:04:34.600" style="s2">is used when Explorer mode is required</p>
+<p begin="00:04:32.500" end="00:04:36.730" style="s2">and that&#39;s usually when the situation</p>
+<p begin="00:04:34.600" end="00:04:39.310" style="s2">has changed especially when the culture</p>
+<p begin="00:04:36.730" end="00:04:42.550" style="s2">has changed which we would argue it has</p>
+<p begin="00:04:39.310" end="00:04:44.830" style="s2">and the the methods that have been used</p>
+<p begin="00:04:42.550" end="00:04:47.170" style="s2">up until now in the culture especially</p>
+<p begin="00:04:44.830" end="00:04:49.870" style="s2">is kind of defense strategy from a lot</p>
+<p begin="00:04:47.170" end="00:04:51.730" style="s2">of people on the left of accusing other</p>
+<p begin="00:04:49.870" end="00:04:53.860" style="s2">people of being bigoted sexist racist</p>
+<p begin="00:04:51.730" end="00:04:56.350" style="s2">when they get on to topics they don&#39;t</p>
+<p begin="00:04:53.860" end="00:04:57.580" style="s2">like is no longer functioning and I</p>
+<p begin="00:04:56.350" end="00:05:01.900" style="s2">think that&#39;s the really interesting part</p>
+<p begin="00:04:57.580" end="00:05:03.550" style="s2">is that simulated thinking works well</p>
+<p begin="00:05:01.900" end="00:05:04.900" style="s2">when when the environment is not</p>
+<p begin="00:05:03.550" end="00:05:07.060" style="s2">changing the environment is clearly</p>
+<p begin="00:05:04.900" end="00:05:08.740" style="s2">changing very significantly especially</p>
+<p begin="00:05:07.060" end="00:05:09.940" style="s2">if you&#39;re on on the left and you&#39;ve been</p>
+<p begin="00:05:08.740" end="00:05:12.880" style="s2">hit by bricks that you&#39;ve been hit by</p>
+<p begin="00:05:09.940" end="00:05:14.290" style="s2">Trump really we&#39;ve said this quite a few</p>
+<p begin="00:05:12.880" end="00:05:17.200" style="s2">times it&#39;s like if you if you haven&#39;t</p>
+<p begin="00:05:14.290" end="00:05:18.940" style="s2">started kind of questioning some of how</p>
+<p begin="00:05:17.200" end="00:05:20.530" style="s2">the way that you&#39;re acting in the world</p>
+<p begin="00:05:18.940" end="00:05:21.790" style="s2">has that has contributed to these things</p>
+<p begin="00:05:20.530" end="00:05:24.490" style="s2">that you were not expecting and not</p>
+<p begin="00:05:21.790" end="00:05:26.560" style="s2">wanting to happen then what will it take</p>
+<p begin="00:05:24.490" end="00:05:28.180" style="s2">for you to kind of think of we&#39;ve talked</p>
+<p begin="00:05:26.560" end="00:05:30.070" style="s2">about the shadow of liberalism which is</p>
+<p begin="00:05:28.180" end="00:05:32.290" style="s2">this sort of tribalism that doesn&#39;t want</p>
+<p begin="00:05:30.070" end="00:05:34.300" style="s2">to admit that it&#39;s tribalism and also</p>
+<p begin="00:05:32.290" end="00:05:35.650" style="s2">kind of amygdala hijacking which is an</p>
+<p begin="00:05:34.300" end="00:05:36.970" style="s2">interesting idea as well which is you</p>
+<p begin="00:05:35.650" end="00:05:39.310" style="s2">know the amygdala is as part of the</p>
+<p begin="00:05:36.970" end="00:05:40.660" style="s2">brain very old part of the brain which</p>
+<p begin="00:05:39.310" end="00:05:42.790" style="s2">is really involved in our</p>
+<p begin="00:05:40.660" end="00:05:44.440" style="s2">fight-or-flight response and just can</p>
+<p begin="00:05:42.790" end="00:05:45.940" style="s2">take us over because it&#39;s based on our</p>
+<p begin="00:05:44.440" end="00:05:48.220" style="s2">survival so anything that threatens our</p>
+<p begin="00:05:45.940" end="00:05:50.350" style="s2">identity or like our tribal identity as</p>
+<p begin="00:05:48.220" end="00:05:52.060" style="s2">well the amygdala can come in and we&#39;re</p>
+<p begin="00:05:50.350" end="00:05:54.100" style="s2">ready to fight or run away I&#39;m actually</p>
+<p begin="00:05:52.060" end="00:05:55.180" style="s2">like our pupils get bigger at our blood</p>
+<p begin="00:05:54.100" end="00:05:57.460" style="s2">goes to our limbs and we&#39;re just</p>
+<p begin="00:05:55.180" end="00:05:59.050" style="s2">completely charged up impossible to have</p>
+<p begin="00:05:57.460" end="00:06:00.610" style="s2">real thinking in that mode you can&#39;t</p>
+<p begin="00:05:59.050" end="00:06:01.240" style="s2">when your sympathetic nervous systems</p>
+<p begin="00:06:00.610" end="00:06:03.220" style="s2">going crazy</p>
+<p begin="00:06:01.240" end="00:06:05.530" style="s2">you can&#39;t think straight like oh and we</p>
+<p begin="00:06:03.220" end="00:06:07.270" style="s2">are all prone to it I get into that mode</p>
+<p begin="00:06:05.530" end="00:06:09.460" style="s2">sometimes when I get really angry on</p>
+<p begin="00:06:07.270" end="00:06:12.220" style="s2">Facebook it tends to be online actually</p>
+<p begin="00:06:09.460" end="00:06:13.990" style="s2">which is the interesting thing yeah and</p>
+<p begin="00:06:12.220" end="00:06:16.420" style="s2">so that and then this this idea I think</p>
+<p begin="00:06:13.990" end="00:06:19.150" style="s2">Brett Weinstein talked about around it&#39;s</p>
+<p begin="00:06:16.420" end="00:06:22.990" style="s2">pretty like it&#39;s pretty terrifying for</p>
+<p begin="00:06:19.150" end="00:06:24.160" style="s2">us on a deep level biologically to say</p>
+<p begin="00:06:22.990" end="00:06:26.440" style="s2">something that goes against the tribe</p>
+<p begin="00:06:24.160" end="00:06:29.440" style="s2">and I want like this kind of similarity</p>
+<p begin="00:06:26.440" end="00:06:31.630" style="s2">of thinking is in large part I think a</p>
+<p begin="00:06:29.440" end="00:06:33.910" style="s2">way to make sure that you stick with the</p>
+<p begin="00:06:31.630" end="00:06:34.529" style="s2">tribe because going into the tribe in</p>
+<p begin="00:06:33.910" end="00:06:35.729" style="s2">the past</p>
+<p begin="00:06:34.529" end="00:06:38.189" style="s2">would have been an existential threat</p>
+<p begin="00:06:35.729" end="00:06:40.289" style="s2">but falling out with your tribe and</p>
+<p begin="00:06:38.189" end="00:06:43.049" style="s2">that&#39;s sort of deep-rooted in to us is</p>
+<p begin="00:06:40.289" end="00:06:44.669" style="s2">that it if you fell out with your tribe</p>
+<p begin="00:06:43.049" end="00:06:47.969" style="s2">in any way that was probably the end of</p>
+<p begin="00:06:44.669" end="00:06:49.919" style="s2">you yeah so I think Brett said this</p>
+<p begin="00:06:47.969" end="00:06:51.959" style="s2">again is that we have to be able to</p>
+<p begin="00:06:49.919" end="00:06:53.609" style="s2">evolve past the tools we&#39;ve been given</p>
+<p begin="00:06:51.959" end="00:06:56.009" style="s2">by evolution if we&#39;re going to survive</p>
+<p begin="00:06:53.609" end="00:06:57.989" style="s2">because the old programs that we&#39;re</p>
+<p begin="00:06:56.009" end="00:07:00.209" style="s2">running are not fit for the modern world</p>
+<p begin="00:06:57.989" end="00:07:01.109" style="s2">and are probably well not even probably</p>
+<p begin="00:07:00.209" end="00:07:03.239" style="s2">I think it&#39;s a definitely</p>
+<p begin="00:07:01.109" end="00:07:04.739" style="s2">self-destructive so I find it&#39;s really</p>
+<p begin="00:07:03.239" end="00:07:07.259" style="s2">interesting like if we&#39;re in a debate</p>
+<p begin="00:07:04.739" end="00:07:09.569" style="s2">mode kind of the implicit frame as I&#39;m</p>
+<p begin="00:07:07.259" end="00:07:11.239" style="s2">trying to to beat you we&#39;re gonna play</p>
+<p begin="00:07:09.569" end="00:07:18.509" style="s2">another clip from Jordan Greenhalgh</p>
+<p begin="00:07:11.239" end="00:07:21.389" style="s2">debate we normally do is very much in</p>
+<p begin="00:07:18.509" end="00:07:23.669" style="s2">there in the direction of a habit mode</p>
+<p begin="00:07:21.389" end="00:07:27.179" style="s2">and as a consequence can quite often</p>
+<p begin="00:07:23.669" end="00:07:31.109" style="s2">fall into simulated thinking and what a</p>
+<p begin="00:07:27.179" end="00:07:33.899" style="s2">debater is engaging in a pattern</p>
+<p begin="00:07:31.109" end="00:07:39.499" style="s2">recognition and rapid response activity</p>
+<p begin="00:07:33.899" end="00:07:42.269" style="s2">with perhaps a specific small amount of</p>
+<p begin="00:07:39.499" end="00:07:43.619" style="s2">focused thinking controlling the</p>
+<p begin="00:07:42.269" end="00:07:46.349" style="s2">structure I think we should be clear</p>
+<p begin="00:07:43.619" end="00:07:50.399" style="s2">that the primary utility is investing</p>
+<p begin="00:07:46.349" end="00:07:52.739" style="s2">someone in a social conversation and</p>
+<p begin="00:07:50.399" end="00:07:54.779" style="s2">that is at a halt conducive to</p>
+<p begin="00:07:52.739" end="00:07:56.579" style="s2">collaborative thinking so that what ends</p>
+<p begin="00:07:54.779" end="00:07:58.919" style="s2">up happening is that when someone shows</p>
+<p begin="00:07:56.579" end="00:08:01.739" style="s2">up who&#39;s actually trying to engage in</p>
+<p begin="00:07:58.919" end="00:08:06.389" style="s2">collaborative thinking and someone else</p>
+<p begin="00:08:01.739" end="00:08:11.039" style="s2">deploys the toolkit of debate the</p>
+<p begin="00:08:06.389" end="00:08:14.069" style="s2">debater will show up as winning at least</p>
+<p begin="00:08:11.039" end="00:08:16.849" style="s2">to those who aren&#39;t watching closely and</p>
+<p begin="00:08:14.069" end="00:08:20.639" style="s2">the thinker will show up as being</p>
+<p begin="00:08:16.849" end="00:08:23.159" style="s2">oftentimes really rather stupid and so</p>
+<p begin="00:08:20.639" end="00:08:24.509" style="s2">nobody wants to emulate that and so what</p>
+<p begin="00:08:23.159" end="00:08:26.039" style="s2">is up happening is that it begins to</p>
+<p begin="00:08:24.509" end="00:08:27.209" style="s2">select against thinking in both</p>
+<p begin="00:08:26.039" end="00:08:29.399" style="s2">directions which is to say people who</p>
+<p begin="00:08:27.209" end="00:08:30.779" style="s2">are trying to take lose and other people</p>
+<p begin="00:08:29.399" end="00:08:35.669" style="s2">don&#39;t even try because it just looks</p>
+<p begin="00:08:30.779" end="00:08:37.139" style="s2">like a bad choice and this shows up all</p>
+<p begin="00:08:35.669" end="00:08:39.749" style="s2">over the place you know the political</p>
+<p begin="00:08:37.139" end="00:08:41.159" style="s2">infighting is of this sort what he&#39;s</p>
+<p begin="00:08:39.749" end="00:08:43.039" style="s2">saying is that the strategies that are</p>
+<p begin="00:08:41.159" end="00:08:45.449" style="s2">selected for in that environment are</p>
+<p begin="00:08:43.039" end="00:08:47.340" style="s2">kind of running a script it&#39;s running</p>
+<p begin="00:08:45.449" end="00:08:51.600" style="s2">good strategy it&#39;s running</p>
+<p begin="00:08:47.340" end="00:08:53.760" style="s2">this then this and then in that frame</p>
+<p begin="00:08:51.600" end="00:08:56.010" style="s2">simulated thinking starts being selected</p>
+<p begin="00:08:53.760" end="00:08:58.050" style="s2">for when you say this I know that I can</p>
+<p begin="00:08:56.010" end="00:09:02.880" style="s2">respond with this and that will win the</p>
+<p begin="00:08:58.050" end="00:09:04.800" style="s2">debate we&#39;re not in a place of exploring</p>
+<p begin="00:09:02.880" end="00:09:06.300" style="s2">the question and if someone shows up</p>
+<p begin="00:09:04.800" end="00:09:08.910" style="s2">who&#39;s actually trying to explore the</p>
+<p begin="00:09:06.300" end="00:09:11.580" style="s2">question to think in public then that</p>
+<p begin="00:09:08.910" end="00:09:13.560" style="s2">person will look like a moron because</p>
+<p begin="00:09:11.580" end="00:09:15.840" style="s2">they&#39;re not they&#39;re not playing the same</p>
+<p begin="00:09:13.560" end="00:09:18.780" style="s2">game but then that environment starts to</p>
+<p begin="00:09:15.840" end="00:09:20.370" style="s2">select against genuine thinking and that</p>
+<p begin="00:09:18.780" end="00:09:22.860" style="s2">has been happening for an awfully long</p>
+<p begin="00:09:20.370" end="00:09:25.680" style="s2">time which is which ties into the whole</p>
+<p begin="00:09:22.860" end="00:09:27.810" style="s2">intellectual darkweb concept because the</p>
+<p begin="00:09:25.680" end="00:09:30.470" style="s2">intellectual darkweb if it&#39;s anything is</p>
+<p begin="00:09:27.810" end="00:09:33.030" style="s2">the idea that we can think in public and</p>
+<p begin="00:09:30.470" end="00:09:34.590" style="s2">I guess part of it comes from the trust</p>
+<p begin="00:09:33.030" end="00:09:36.300" style="s2">that they have going on each other shows</p>
+<p begin="00:09:34.590" end="00:09:37.980" style="s2">and knowing each other and then they&#39;re</p>
+<p begin="00:09:36.300" end="00:09:40.230" style="s2">able to explore ideas knowing that no</p>
+<p begin="00:09:37.980" end="00:09:41.940" style="s2">one&#39;s going to try and catch them out or</p>
+<p begin="00:09:40.230" end="00:09:43.770" style="s2">kind of throw insults at them and say</p>
+<p begin="00:09:41.940" end="00:09:45.210" style="s2">well talking about gender difference</p>
+<p begin="00:09:43.770" end="00:09:49.440" style="s2">between between men and women you&#39;re</p>
+<p begin="00:09:45.210" end="00:09:50.580" style="s2">you&#39;re sexist or whatever but I think</p>
+<p begin="00:09:49.440" end="00:09:53.220" style="s2">that&#39;s really really interesting because</p>
+<p begin="00:09:50.580" end="00:09:55.770" style="s2">I think that same process has happened</p>
+<p begin="00:09:53.220" end="00:09:58.200" style="s2">in many different industries what Eric</p>
+<p begin="00:09:55.770" end="00:10:00.810" style="s2">Weinstein calls the gated institutional</p>
+<p begin="00:09:58.200" end="00:10:03.870" style="s2">narrative which is a sort of sort of</p>
+<p begin="00:10:00.810" end="00:10:06.900" style="s2">self-protection thing where genuinely</p>
+<p begin="00:10:03.870" end="00:10:09.510" style="s2">novel thinking it starts to be selected</p>
+<p begin="00:10:06.900" end="00:10:12.680" style="s2">against and starts to be a losing</p>
+<p begin="00:10:09.510" end="00:10:14.970" style="s2">strategy for people in these in</p>
+<p begin="00:10:12.680" end="00:10:17.760" style="s2">institutions yeah I agree with that I</p>
+<p begin="00:10:14.970" end="00:10:19.230" style="s2">think there&#39;s also what&#39;s been</p>
+<p begin="00:10:17.760" end="00:10:21.630" style="s2">interesting to watch is this kind of</p>
+<p begin="00:10:19.230" end="00:10:23.910" style="s2">accusation that the NPC me meme is</p>
+<p begin="00:10:21.630" end="00:10:26.550" style="s2">dehumanizing because implicit in the</p>
+<p begin="00:10:23.910" end="00:10:27.750" style="s2">ability to have a you know a</p>
+<p begin="00:10:26.550" end="00:10:29.850" style="s2">conversation a collaborative</p>
+<p begin="00:10:27.750" end="00:10:31.650" style="s2">conversation is the idea that we meet</p>
+<p begin="00:10:29.850" end="00:10:34.260" style="s2">each other with a certain level of human</p>
+<p begin="00:10:31.650" end="00:10:37.230" style="s2">human respect even if we disagree and</p>
+<p begin="00:10:34.260" end="00:10:38.940" style="s2">there&#39;s been a lot of pushback from you</p>
+<p begin="00:10:37.230" end="00:10:40.740" style="s2">know those spreading the meme saying</p>
+<p begin="00:10:38.940" end="00:10:41.670" style="s2">well we were dehumanized we got accused</p>
+<p begin="00:10:40.740" end="00:10:43.860" style="s2">of being Russian BOTS</p>
+<p begin="00:10:41.670" end="00:10:45.300" style="s2">it&#39;s like yeah I can see that we already</p>
+<p begin="00:10:43.860" end="00:10:47.280" style="s2">Huma knows each other all the time</p>
+<p begin="00:10:45.300" end="00:10:49.710" style="s2">it&#39;s happening on both sides and it&#39;s</p>
+<p begin="00:10:47.280" end="00:10:51.030" style="s2">part of it happens as well I mean we</p>
+<p begin="00:10:49.710" end="00:10:52.590" style="s2">even do it in workshops that&#39;s what we</p>
+<p begin="00:10:51.030" end="00:10:54.720" style="s2">tell people to look for when trying to</p>
+<p begin="00:10:52.590" end="00:10:55.980" style="s2">find the shadow that one of their</p>
+<p begin="00:10:54.720" end="00:10:59.220" style="s2">shadows you know we all have many</p>
+<p begin="00:10:55.980" end="00:11:00.130" style="s2">shadows it&#39;s where do we feel like total</p>
+<p begin="00:10:59.220" end="00:11:02.320" style="s2">contempt</p>
+<p begin="00:11:00.130" end="00:11:05.470" style="s2">where we think this person is less than</p>
+<p begin="00:11:02.320" end="00:11:07.540" style="s2">human and it&#39;s happening constantly and</p>
+<p begin="00:11:05.470" end="00:11:10.240" style="s2">that is something that if we are going</p>
+<p begin="00:11:07.540" end="00:11:10.990" style="s2">to actually get into a place where we</p>
+<p begin="00:11:10.240" end="00:11:13.060" style="s2">can have these collaborative</p>
+<p begin="00:11:10.990" end="00:11:15.280" style="s2">conversations while still disagreeing</p>
+<p begin="00:11:13.060" end="00:11:19.240" style="s2">with one another it&#39;s essential that we</p>
+<p begin="00:11:15.280" end="00:11:21.160" style="s2">come from a place of recognizing shared</p>
+<p begin="00:11:19.240" end="00:11:24.820" style="s2">humanity at the very least like that&#39;s</p>
+<p begin="00:11:21.160" end="00:11:26.410" style="s2">kind of a baseline because otherwise and</p>
+<p begin="00:11:24.820" end="00:11:28.270" style="s2">we&#39;re kind of screwed it doesn&#39;t go</p>
+<p begin="00:11:26.410" end="00:11:29.350" style="s2">anywhere it can&#39;t go anywhere it&#39;s you</p>
+<p begin="00:11:28.270" end="00:11:32.920" style="s2">know it just gets further and further</p>
+<p begin="00:11:29.350" end="00:11:34.570" style="s2">into the other is not human but I am</p>
+<p begin="00:11:32.920" end="00:11:36.700" style="s2">this is another concept that Jordan</p>
+<p begin="00:11:34.570" end="00:11:39.730" style="s2">greenhalgh talks about that what we need</p>
+<p begin="00:11:36.700" end="00:11:42.220" style="s2">to create is collective intelligences</p>
+<p begin="00:11:39.730" end="00:11:43.960" style="s2">that no one of us will be able to come</p>
+<p begin="00:11:42.220" end="00:11:47.260" style="s2">up with the idea so we need to generate</p>
+<p begin="00:11:43.960" end="00:11:48.370" style="s2">a collective intelligence and the only</p>
+<p begin="00:11:47.260" end="00:11:50.290" style="s2">way of doing that is through</p>
+<p begin="00:11:48.370" end="00:11:52.240" style="s2">collaborative thinking it&#39;s through I</p>
+<p begin="00:11:50.290" end="00:11:53.650" style="s2">think this you taking what I&#39;m saying</p>
+<p begin="00:11:52.240" end="00:11:55.600" style="s2">and then building on it and building on</p>
+<p begin="00:11:53.650" end="00:11:58.990" style="s2">it and building on it in this generative</p>
+<p begin="00:11:55.600" end="00:12:02.410" style="s2">way and if we&#39;re if we&#39;re playing the</p>
+<p begin="00:11:58.990" end="00:12:05.620" style="s2">same rival risk divisive trying to beat</p>
+<p begin="00:12:02.410" end="00:12:07.660" style="s2">each other which kind of any YouTube</p>
+<p begin="00:12:05.620" end="00:12:10.210" style="s2">comments thread or any kind of Facebook</p>
+<p begin="00:12:07.660" end="00:12:12.070" style="s2">argument then what we&#39;re doing you can</p>
+<p begin="00:12:10.210" end="00:12:13.810" style="s2">win that game but then you&#39;re just</p>
+<p begin="00:12:12.070" end="00:12:16.450" style="s2">winning you&#39;re winning a game of quoits</p>
+<p begin="00:12:13.810" end="00:12:19.780" style="s2">on the Titanic as the ship is sinking</p>
+<p begin="00:12:16.450" end="00:12:22.000" style="s2">and I think that&#39;s true on a on a kind</p>
+<p begin="00:12:19.780" end="00:12:23.950" style="s2">of interpersonal level something like</p>
+<p begin="00:12:22.000" end="00:12:25.660" style="s2">Jordan Pederson talks about well yeah</p>
+<p begin="00:12:23.950" end="00:12:27.280" style="s2">you can you can dominate your wife if</p>
+<p begin="00:12:25.660" end="00:12:28.870" style="s2">you want to if you want to kind of win</p>
+<p begin="00:12:27.280" end="00:12:31.210" style="s2">an argument what does winning an</p>
+<p begin="00:12:28.870" end="00:12:35.620" style="s2">argument mean in a relationship well it</p>
+<p begin="00:12:31.210" end="00:12:37.990" style="s2">probably means not winning being right</p>
+<p begin="00:12:35.620" end="00:12:41.200" style="s2">and then then resenting you for the next</p>
+<p begin="00:12:37.990" end="00:12:42.700" style="s2">20 years it means how do you win in a</p>
+<p begin="00:12:41.200" end="00:12:44.470" style="s2">way that keeps the health of the system</p>
+<p begin="00:12:42.700" end="00:12:47.190" style="s2">and that&#39;s what I think he was also</p>
+<p begin="00:12:44.470" end="00:12:48.570" style="s2">pointing to with his into his</p>
+<p begin="00:12:47.190" end="00:12:51.280" style="s2">[Music]</p>
+<p begin="00:12:48.570" end="00:12:53.740" style="s2">interjection about cavanaugh was how do</p>
+<p begin="00:12:51.280" end="00:12:55.470" style="s2">we have an outcome that it that works</p>
+<p begin="00:12:53.740" end="00:12:58.480" style="s2">for the health of the system rather than</p>
+<p begin="00:12:55.470" end="00:13:00.520" style="s2">working just for one site beating the</p>
+<p begin="00:12:58.480" end="00:13:02.080" style="s2">other again maybe that wasn&#39;t</p>
+<p begin="00:13:00.520" end="00:13:03.790" style="s2">appropriate people have their different</p>
+<p begin="00:13:02.080" end="00:13:05.950" style="s2">views on that but I think that was the</p>
+<p begin="00:13:03.790" end="00:13:07.540" style="s2">context that he was coming from of how</p>
+<p begin="00:13:05.950" end="00:13:11.840" style="s2">do you have an outcome from this but</p>
+<p begin="00:13:07.540" end="00:13:13.660" style="s2">that doesn&#39;t add to the already</p>
+<p begin="00:13:11.840" end="00:13:15.950" style="s2">kind of existential threats of</p>
+<p begin="00:13:13.660" end="00:13:18.350" style="s2">polarization and partisanship that we&#39;ve</p>
+<p begin="00:13:15.950" end="00:13:20.330" style="s2">got in the system already yeah and I</p>
+<p begin="00:13:18.350" end="00:13:22.460" style="s2">think it that brings up something that I</p>
+<p begin="00:13:20.330" end="00:13:23.660" style="s2">think it was maybe like a common theme</p>
+<p begin="00:13:22.460" end="00:13:25.820" style="s2">of what we&#39;re talking about right here</p>
+<p begin="00:13:23.660" end="00:13:27.140" style="s2">which is it&#39;s it&#39;s about how we think</p>
+<p begin="00:13:25.820" end="00:13:30.440" style="s2">not what we think like we&#39;re very</p>
+<p begin="00:13:27.140" end="00:13:34.190" style="s2">focused on what people think and so much</p>
+<p begin="00:13:30.440" end="00:13:37.250" style="s2">of this is so much progress is gonna be</p>
+<p begin="00:13:34.190" end="00:13:39.440" style="s2">around how we think and then also where</p>
+<p begin="00:13:37.250" end="00:13:41.570" style="s2">we think ok because I noticed like I</p>
+<p begin="00:13:39.440" end="00:13:42.980" style="s2">really struggle with that kind of</p>
+<p begin="00:13:41.570" end="00:13:45.640" style="s2">dehumanizing of the other online</p>
+<p begin="00:13:42.980" end="00:13:48.350" style="s2">especially you know I really I have to</p>
+<p begin="00:13:45.640" end="00:13:50.090" style="s2">prevent myself typing comments I have to</p>
+<p begin="00:13:48.350" end="00:13:53.450" style="s2">you know I notice it happening in myself</p>
+<p begin="00:13:50.090" end="00:13:55.850" style="s2">I notice the kind of righteous anger I</p>
+<p begin="00:13:53.450" end="00:13:57.200" style="s2">don&#39;t really get it in person I mean I</p>
+<p begin="00:13:55.850" end="00:13:58.850" style="s2">couldn&#39;t meet the same person in person</p>
+<p begin="00:13:57.200" end="00:14:01.160" style="s2">and I have a completely different like</p>
+<p begin="00:13:58.850" end="00:14:03.500" style="s2">oh yeah man just disagree with them but</p>
+<p begin="00:14:01.160" end="00:14:05.210" style="s2">they&#39;re say she&#39;s cool he&#39;s cool you</p>
+<p begin="00:14:03.500" end="00:14:06.740" style="s2">know and just get get into a place</p>
+<p begin="00:14:05.210" end="00:14:08.930" style="s2">that&#39;s almost immediately much more</p>
+<p begin="00:14:06.740" end="00:14:11.510" style="s2">collaborative because it&#39;s human human</p>
+<p begin="00:14:08.930" end="00:14:13.940" style="s2">and so yeah how and where we think I</p>
+<p begin="00:14:11.510" end="00:14:16.280" style="s2">think that&#39;s you know part of the next</p>
+<p begin="00:14:13.940" end="00:14:18.020" style="s2">frontier so we&#39;re gonna put some of the</p>
+<p begin="00:14:16.280" end="00:14:19.550" style="s2">clips that we&#39;ve talked about including</p>
+<p begin="00:14:18.020" end="00:14:22.820" style="s2">the jordan green hall one in the show</p>
+<p begin="00:14:19.550" end="00:14:24.380" style="s2">notes and if you enjoyed this and you</p>
+<p begin="00:14:22.820" end="00:14:26.420" style="s2">want to get early access to some other</p>
+<p begin="00:14:24.380" end="00:14:30.430" style="s2">great films please consider becoming a</p>
+<p begin="00:14:26.420" end="00:14:30.430" style="s2">patron and do you see</p>
+</div>
+</body>
+</tt>

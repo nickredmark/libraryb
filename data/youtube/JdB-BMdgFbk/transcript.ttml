@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:02.780" style="s2">[Music]</p>
+<p begin="00:00:05.420" end="00:00:11.429" style="s2">so I&#39;m really excited about today&#39;s</p>
+<p begin="00:00:07.790" end="00:00:14.250" style="s2">conversation I&#39;m joined by two former</p>
+<p begin="00:00:11.429" end="00:00:18.990" style="s2">stars of the channel in McGilchrist and</p>
+<p begin="00:00:14.250" end="00:00:22.140" style="s2">John Vevey key and you both have I think</p>
+<p begin="00:00:18.990" end="00:00:25.350" style="s2">very your vote both very comprehensive</p>
+<p begin="00:00:22.140" end="00:00:27.300" style="s2">thinkers you both have a really</p>
+<p begin="00:00:25.350" end="00:00:28.740" style="s2">interesting big-picture take on the</p>
+<p begin="00:00:27.300" end="00:00:30.750" style="s2">world which I&#39;m really looking forward</p>
+<p begin="00:00:28.740" end="00:00:31.710" style="s2">to hearing you you guys explore and</p>
+<p begin="00:00:30.750" end="00:00:34.559" style="s2">compare notes</p>
+<p begin="00:00:31.710" end="00:00:35.940" style="s2">Ian people may be familiar with you</p>
+<p begin="00:00:34.559" end="00:00:38.430" style="s2">wrote a book called the master in an</p>
+<p begin="00:00:35.940" end="00:00:40.739" style="s2">emissary that was hugely influential it</p>
+<p begin="00:00:38.430" end="00:00:42.660" style="s2">looked at how the left and the right</p>
+<p begin="00:00:40.739" end="00:00:44.399" style="s2">brain perceive the world differently and</p>
+<p begin="00:00:42.660" end="00:00:46.410" style="s2">how that kind of that difference</p>
+<p begin="00:00:44.399" end="00:00:48.930" style="s2">cascades through culture and cascades</p>
+<p begin="00:00:46.410" end="00:00:51.629" style="s2">through all of human knowledge and human</p>
+<p begin="00:00:48.930" end="00:00:54.329" style="s2">history and John you&#39;ve become kind of a</p>
+<p begin="00:00:51.629" end="00:00:55.829" style="s2">cult hit in the last year or so with</p>
+<p begin="00:00:54.329" end="00:00:58.469" style="s2">your series called awakening from the</p>
+<p begin="00:00:55.829" end="00:01:01.829" style="s2">meaning crisis which again is this very</p>
+<p begin="00:00:58.469" end="00:01:04.290" style="s2">big picture appreciation of the kind of</p>
+<p begin="00:01:01.829" end="00:01:07.080" style="s2">grand sweep of Western culture where</p>
+<p begin="00:01:04.290" end="00:01:09.090" style="s2">we&#39;re at and where this sort of meaning</p>
+<p begin="00:01:07.080" end="00:01:11.490" style="s2">crisis that we&#39;re in how we might start</p>
+<p begin="00:01:09.090" end="00:01:13.650" style="s2">to look at getting out of it so I hope I</p>
+<p begin="00:01:11.490" end="00:01:16.590" style="s2">did justice to your you&#39;re both of your</p>
+<p begin="00:01:13.650" end="00:01:20.700" style="s2">work there but I&#39;d love to ask you maybe</p>
+<p begin="00:01:16.590" end="00:01:22.080" style="s2">intern what you would like to inquire</p>
+<p begin="00:01:20.700" end="00:01:23.850" style="s2">what you&#39;d like to get out of this</p>
+<p begin="00:01:22.080" end="00:01:26.729" style="s2">conversation and what you&#39;d like to ask</p>
+<p begin="00:01:23.850" end="00:01:28.049" style="s2">the other about their work maybe</p>
+<p begin="00:01:26.729" end="00:01:30.600" style="s2">starting with you John</p>
+<p begin="00:01:28.049" end="00:01:34.979" style="s2">what I&#39;m interested in talking with you</p>
+<p begin="00:01:30.600" end="00:01:36.659" style="s2">about um first I think there&#39;s I do work</p>
+<p begin="00:01:34.979" end="00:01:38.850" style="s2">on plausibility so this interest may be</p>
+<p begin="00:01:36.659" end="00:01:40.829" style="s2">a little bit specific to me and but one</p>
+<p begin="00:01:38.850" end="00:01:42.570" style="s2">of the things that brings plausibility</p>
+<p begin="00:01:40.829" end="00:01:44.759" style="s2">to a theoretical stance is when you have</p>
+<p begin="00:01:42.570" end="00:01:47.100" style="s2">sort of independent convergence on a</p>
+<p begin="00:01:44.759" end="00:01:49.710" style="s2">position and I&#39;ve only really very</p>
+<p begin="00:01:47.100" end="00:01:53.240" style="s2">recently read reading in fact it&#39;s the</p>
+<p begin="00:01:49.710" end="00:01:56.549" style="s2">reading Ian&#39;s book and so I came to</p>
+<p begin="00:01:53.240" end="00:01:59.880" style="s2">conclusions about the hemispheres from</p>
+<p begin="00:01:56.549" end="00:02:01.079" style="s2">doing the work I do on insight and it</p>
+<p begin="00:01:59.880" end="00:02:03.390" style="s2">seems to me that they&#39;re deeply</p>
+<p begin="00:02:01.079" end="00:02:05.340" style="s2">convergent with the ends especially the</p>
+<p begin="00:02:03.390" end="00:02:07.170" style="s2">emphasis on attention and how the</p>
+<p begin="00:02:05.340" end="00:02:09.000" style="s2">hemispheres should be thought as almost</p>
+<p begin="00:02:07.170" end="00:02:12.300" style="s2">cano ting an entire sort of existential</p>
+<p begin="00:02:09.000" end="00:02:15.810" style="s2">mode and so I&#39;d like to</p>
+<p begin="00:02:12.300" end="00:02:17.250" style="s2">a little bit about that yes I use sort</p>
+<p begin="00:02:15.810" end="00:02:18.030" style="s2">of some problem-solving language to talk</p>
+<p begin="00:02:17.250" end="00:02:20.010" style="s2">about it</p>
+<p begin="00:02:18.030" end="00:02:21.330" style="s2">he&#39;s a slightly different language but I</p>
+<p begin="00:02:20.010" end="00:02:24.750" style="s2">think it&#39;s we&#39;re seeing the same things</p>
+<p begin="00:02:21.330" end="00:02:26.610" style="s2">I just want to quickly explore that sort</p>
+<p begin="00:02:24.750" end="00:02:28.950" style="s2">of set up a common ground and then what</p>
+<p begin="00:02:26.610" end="00:02:30.360" style="s2">I&#39;d like to talk to Ian about are he</p>
+<p begin="00:02:28.950" end="00:02:32.940" style="s2">says some tantalizing things about</p>
+<p begin="00:02:30.360" end="00:02:35.790" style="s2">reason and rationality which are big</p>
+<p begin="00:02:32.940" end="00:02:37.620" style="s2">topics for me right now because as you</p>
+<p begin="00:02:35.790" end="00:02:39.900" style="s2">guys know probably you might know from</p>
+<p begin="00:02:37.620" end="00:02:41.880" style="s2">the series and some of the work I&#39;m</p>
+<p begin="00:02:39.900" end="00:02:44.790" style="s2">doing I&#39;m trying to expand the notion of</p>
+<p begin="00:02:41.880" end="00:02:46.680" style="s2">rationality take it out of being located</p>
+<p begin="00:02:44.790" end="00:02:49.620" style="s2">into a sort of just logical inferential</p>
+<p begin="00:02:46.680" end="00:02:52.100" style="s2">management and expand the notion of</p>
+<p begin="00:02:49.620" end="00:02:56.280" style="s2">rationality to try and once again</p>
+<p begin="00:02:52.100" end="00:02:57.960" style="s2">reintegrate it with wisdom and so the</p>
+<p begin="00:02:56.280" end="00:03:00.960" style="s2">topics of rationality and wisdom I&#39;d</p>
+<p begin="00:02:57.960" end="00:03:03.050" style="s2">like to talk to Ian about that the</p>
+<p begin="00:03:00.960" end="00:03:06.930" style="s2">important roles for example that insight</p>
+<p begin="00:03:03.050" end="00:03:10.680" style="s2">and implicit learning perhaps play in</p>
+<p begin="00:03:06.930" end="00:03:12.390" style="s2">rationality and and then the overlap</p>
+<p begin="00:03:10.680" end="00:03:14.010" style="s2">with wisdom takes us into their topic</p>
+<p begin="00:03:12.390" end="00:03:17.100" style="s2">that I&#39;d like to spend the bulk of the</p>
+<p begin="00:03:14.010" end="00:03:20.480" style="s2">time talking about which is this idea of</p>
+<p begin="00:03:17.100" end="00:03:24.660" style="s2">the meaning crisis and what I&#39;d</p>
+<p begin="00:03:20.480" end="00:03:26.370" style="s2">specifically like to do is and this has</p>
+<p begin="00:03:24.660" end="00:03:29.040" style="s2">to do more I think with the timing of</p>
+<p begin="00:03:26.370" end="00:03:30.630" style="s2">Ian&#39;s book so in the last 15 years and</p>
+<p begin="00:03:29.040" end="00:03:32.250" style="s2">I&#39;m part of this there&#39;s been a lot of</p>
+<p begin="00:03:30.630" end="00:03:34.380" style="s2">psychological and cognitive scientific</p>
+<p begin="00:03:32.250" end="00:03:36.000" style="s2">work on meaning in life and how that&#39;s</p>
+<p begin="00:03:34.380" end="00:03:38.010" style="s2">different from like semantic meaning and</p>
+<p begin="00:03:36.000" end="00:03:39.000" style="s2">what are the factors that drive meaning</p>
+<p begin="00:03:38.010" end="00:03:41.280" style="s2">in life and I thought it might be</p>
+<p begin="00:03:39.000" end="00:03:43.080" style="s2">interesting to bring Ian&#39;s work and that</p>
+<p begin="00:03:41.280" end="00:03:44.850" style="s2">cognitive science and meaning life into</p>
+<p begin="00:03:43.080" end="00:03:48.500" style="s2">a deeper discussion so those are the</p>
+<p begin="00:03:44.850" end="00:03:52.110" style="s2">things I thought we could talk about</p>
+<p begin="00:03:48.500" end="00:03:57.480" style="s2">well that certainly gives us enough to</p>
+<p begin="00:03:52.110" end="00:03:59.670" style="s2">chew on for a few days I&#39;d be very keen</p>
+<p begin="00:03:57.480" end="00:04:02.220" style="s2">to explore those things and perhaps also</p>
+<p begin="00:03:59.670" end="00:04:03.990" style="s2">what it means to know something and what</p>
+<p begin="00:04:02.220" end="00:04:08.040" style="s2">it means to understand things you know</p>
+<p begin="00:04:03.990" end="00:04:10.620" style="s2">these word you know bandy about but they</p>
+<p begin="00:04:08.040" end="00:04:13.500" style="s2">have different meanings in fact I often</p>
+<p begin="00:04:10.620" end="00:04:16.520" style="s2">think that one of the reasons so my kind</p>
+<p begin="00:04:13.500" end="00:04:20.040" style="s2">of American philosophy goes off into</p>
+<p begin="00:04:16.520" end="00:04:22.410" style="s2">what I consider a rather autistic and</p>
+<p begin="00:04:20.040" end="00:04:25.770" style="s2">sort of left hemisphere dominated realm</p>
+<p begin="00:04:22.410" end="00:04:28.740" style="s2">is because we don&#39;t almost</p>
+<p begin="00:04:25.770" end="00:04:31.229" style="s2">q Lily alone have different words for</p>
+<p begin="00:04:28.740" end="00:04:33.569" style="s2">different kinds of knowing man and that</p>
+<p begin="00:04:31.229" end="00:04:35.430" style="s2">was this fight a lot of confusion so I</p>
+<p begin="00:04:33.569" end="00:04:38.430" style="s2">would certainly like to talk about all</p>
+<p begin="00:04:35.430" end="00:04:40.440" style="s2">of that I like to talk about that Ian</p>
+<p begin="00:04:38.430" end="00:04:41.340" style="s2">because I&#39;m doing a lot of work now it&#39;s</p>
+<p begin="00:04:40.440" end="00:04:43.740" style="s2">been through the series and I&#39;m</p>
+<p begin="00:04:41.340" end="00:04:46.199" style="s2">developing it more on the sort of four</p>
+<p begin="00:04:43.740" end="00:04:47.430" style="s2">kinds of knowing and as you say you see</p>
+<p begin="00:04:46.199" end="00:04:48.449" style="s2">in other cultures they have different</p>
+<p begin="00:04:47.430" end="00:04:52.560" style="s2">words for these different kinds of</p>
+<p begin="00:04:48.449" end="00:04:53.940" style="s2">knowing and and we could perhaps touch</p>
+<p begin="00:04:52.560" end="00:04:56.639" style="s2">on that because I think that plays a</p>
+<p begin="00:04:53.940" end="00:04:59.250" style="s2">central role in the MTG crisis the loss</p>
+<p begin="00:04:56.639" end="00:05:00.990" style="s2">of the theoretical connection and to a</p>
+<p begin="00:04:59.250" end="00:05:02.970" style="s2">significant degree even the embodied</p>
+<p begin="00:05:00.990" end="00:05:04.530" style="s2">lived connection with these other kinds</p>
+<p begin="00:05:02.970" end="00:05:06.780" style="s2">of knowing other than the propositional</p>
+<p begin="00:05:04.530" end="00:05:08.520" style="s2">knowing that is so prideful American</p>
+<p begin="00:05:06.780" end="00:05:10.620" style="s2">culture so I would like to really begin</p>
+<p begin="00:05:08.520" end="00:05:13.800" style="s2">to that very deeply could you listen</p>
+<p begin="00:05:10.620" end="00:05:15.539" style="s2">ways of knowing John just the way I</p>
+<p begin="00:05:13.800" end="00:05:18.030" style="s2">talked about the way I talked about it</p>
+<p begin="00:05:15.539" end="00:05:20.130" style="s2">is that there is propositional knowing</p>
+<p begin="00:05:18.030" end="00:05:22.289" style="s2">which is the one that is belief centric</p>
+<p begin="00:05:20.130" end="00:05:24.300" style="s2">and propositional knowing is knowing</p>
+<p begin="00:05:22.289" end="00:05:26.099" style="s2">that and then you fill in a proposition</p>
+<p begin="00:05:24.300" end="00:05:28.169" style="s2">knowing that the cat ISM is a mammal and</p>
+<p begin="00:05:26.099" end="00:05:29.669" style="s2">this of course is highly prized because</p>
+<p begin="00:05:28.169" end="00:05:32.849" style="s2">it&#39;s the center of sort of inferential</p>
+<p begin="00:05:29.669" end="00:05:34.680" style="s2">theory building and and we&#39;vewe&#39;ve tend</p>
+<p begin="00:05:32.849" end="00:05:36.810" style="s2">to do assimilate everything to that we</p>
+<p begin="00:05:34.680" end="00:05:39.360" style="s2">even treat religious systems as if they</p>
+<p begin="00:05:36.810" end="00:05:40.860" style="s2">are systems of belief even though there</p>
+<p begin="00:05:39.360" end="00:05:42.659" style="s2">are good people out there like John</p>
+<p begin="00:05:40.860" end="00:05:44.039" style="s2">Kahrs James Carson you know the</p>
+<p begin="00:05:42.659" end="00:05:45.810" style="s2">religious case against believe saying</p>
+<p begin="00:05:44.039" end="00:05:48.449" style="s2">that&#39;s a serious misrepresentation of</p>
+<p begin="00:05:45.810" end="00:05:50.310" style="s2">what&#39;s going on in religion now</p>
+<p begin="00:05:48.449" end="00:05:53.099" style="s2">cognitive psychology and cognitive</p>
+<p begin="00:05:50.310" end="00:05:56.460" style="s2">science have sorted started to open up</p>
+<p begin="00:05:53.099" end="00:05:57.509" style="s2">to the second P which is procedural</p>
+<p begin="00:05:56.460" end="00:05:59.099" style="s2">knowing which is knowing how to do</p>
+<p begin="00:05:57.509" end="00:06:01.319" style="s2">something like how to catch a baseball</p>
+<p begin="00:05:59.099" end="00:06:03.659" style="s2">and here the normativity isn&#39;t the</p>
+<p begin="00:06:01.319" end="00:06:05.340" style="s2">conviction of truth right which you have</p>
+<p begin="00:06:03.659" end="00:06:07.529" style="s2">for propositional knowing here the</p>
+<p begin="00:06:05.340" end="00:06:10.319" style="s2">normativity is a sense of engagement and</p>
+<p begin="00:06:07.529" end="00:06:12.990" style="s2">empowerment right so it&#39;s the aptness</p>
+<p begin="00:06:10.319" end="00:06:14.729" style="s2">the fitted nurse of your skill which is</p>
+<p begin="00:06:12.990" end="00:06:17.460" style="s2">very different kind of normativity</p>
+<p begin="00:06:14.729" end="00:06:19.529" style="s2">skills don&#39;t - or false they are apt or</p>
+<p begin="00:06:17.460" end="00:06:21.120" style="s2">well fitted or not</p>
+<p begin="00:06:19.529" end="00:06:22.949" style="s2">then there&#39;s perspect honorable knowing</p>
+<p begin="00:06:21.120" end="00:06:24.569" style="s2">this is the knowing that you have</p>
+<p begin="00:06:22.949" end="00:06:26.580" style="s2">because you are a conscious being this</p>
+<p begin="00:06:24.569" end="00:06:28.440" style="s2">is knowing what it&#39;s like to be here</p>
+<p begin="00:06:26.580" end="00:06:30.360" style="s2">right now they here now knows what it&#39;s</p>
+<p begin="00:06:28.440" end="00:06:32.520" style="s2">like to be sober what it&#39;s like to be</p>
+<p begin="00:06:30.360" end="00:06:34.409" style="s2">saying what it&#39;s like to be awake what</p>
+<p begin="00:06:32.520" end="00:06:36.389" style="s2">it&#39;s like to be conscious sort of my</p>
+<p begin="00:06:34.409" end="00:06:38.430" style="s2">salience Landscaping how things are for</p>
+<p begin="00:06:36.389" end="00:06:40.379" style="s2">grounded back rounded write all that</p>
+<p begin="00:06:38.430" end="00:06:42.179" style="s2">dynamics</p>
+<p begin="00:06:40.379" end="00:06:44.849" style="s2">and sizing up and on getting sort of an</p>
+<p begin="00:06:42.179" end="00:06:47.069" style="s2">optimal grip as normal Ponte talks about</p>
+<p begin="00:06:44.849" end="00:06:49.229" style="s2">honest situations so this is basically</p>
+<p begin="00:06:47.069" end="00:06:51.330" style="s2">your situational awareness and so the</p>
+<p begin="00:06:49.229" end="00:06:53.279" style="s2">participatory knowing is it&#39;s the most</p>
+<p begin="00:06:51.330" end="00:06:55.979" style="s2">back rounded it but it&#39;s the deepest one</p>
+<p begin="00:06:53.279" end="00:06:58.619" style="s2">it&#39;s the one that a lot of post writing</p>
+<p begin="00:06:55.979" end="00:07:00.959" style="s2">Aryans have been trying to bring into</p>
+<p begin="00:06:58.619" end="00:07:03.629" style="s2">deeper awareness it&#39;s this sense of</p>
+<p begin="00:07:00.959" end="00:07:06.719" style="s2">attunement fundamental connectedness</p>
+<p begin="00:07:03.629" end="00:07:09.059" style="s2">being at home it&#39;s the sense it&#39;s the</p>
+<p begin="00:07:06.719" end="00:07:12.059" style="s2">sense you lose when you&#39;re in another</p>
+<p begin="00:07:09.059" end="00:07:14.520" style="s2">culture that the you your agency and the</p>
+<p begin="00:07:12.059" end="00:07:16.589" style="s2">arena just aren&#39;t quite in sync the way</p>
+<p begin="00:07:14.520" end="00:07:19.139" style="s2">they need to be and so that is</p>
+<p begin="00:07:16.589" end="00:07:22.139" style="s2">ultimately the the grounding that that</p>
+<p begin="00:07:19.139" end="00:07:24.449" style="s2">sort of CO identification process that&#39;s</p>
+<p begin="00:07:22.139" end="00:07:29.729" style="s2">happening in participatory knowing and</p>
+<p begin="00:07:24.449" end="00:07:31.349" style="s2">so for me two things that tried to work</p>
+<p begin="00:07:29.729" end="00:07:33.899" style="s2">some audience question deep</p>
+<p begin="00:07:31.349" end="00:07:37.619" style="s2">understanding is involves an alignment</p>
+<p begin="00:07:33.899" end="00:07:41.369" style="s2">of these four kinds of knowing that&#39;s</p>
+<p begin="00:07:37.619" end="00:07:43.469" style="s2">deep understanding and I think a lot of</p>
+<p begin="00:07:41.369" end="00:07:45.330" style="s2">the meaning-making machinery where</p>
+<p begin="00:07:43.469" end="00:07:47.009" style="s2">meaning doesn&#39;t mean semantic content of</p>
+<p begin="00:07:45.330" end="00:07:49.110" style="s2">your propositions but it&#39;s your</p>
+<p begin="00:07:47.009" end="00:07:50.729" style="s2">fundamental lived sense of how connected</p>
+<p begin="00:07:49.110" end="00:07:53.009" style="s2">you are to yourself to other people into</p>
+<p begin="00:07:50.729" end="00:07:55.499" style="s2">the world ultimately takes place in</p>
+<p begin="00:07:53.009" end="00:07:56.969" style="s2">these lower the procedural the</p>
+<p begin="00:07:55.499" end="00:07:59.309" style="s2">perspectival and ultimately the</p>
+<p begin="00:07:56.969" end="00:08:02.519" style="s2">participatory kinds of knowing and our</p>
+<p begin="00:07:59.309" end="00:08:04.439" style="s2">culture has lost deeply lost theoretical</p>
+<p begin="00:08:02.519" end="00:08:06.569" style="s2">touch with them and I think in many</p>
+<p begin="00:08:04.439" end="00:08:08.999" style="s2">people&#39;s lives they&#39;ve lost a kind of</p>
+<p begin="00:08:06.569" end="00:08:10.680" style="s2">lived existential touch with them sorry</p>
+<p begin="00:08:08.999" end="00:08:16.289" style="s2">that was a lot but I tried I need to</p>
+<p begin="00:08:10.680" end="00:08:18.779" style="s2">cover quite a bit great and there are so</p>
+<p begin="00:08:16.289" end="00:08:24.240" style="s2">many things that I&#39;d love to pick up in</p>
+<p begin="00:08:18.779" end="00:08:27.689" style="s2">what you say I start with the idea of</p>
+<p begin="00:08:24.240" end="00:08:30.029" style="s2">what a belief is which we consider to be</p>
+<p begin="00:08:27.689" end="00:08:33.409" style="s2">the essential or not</p>
+<p begin="00:08:30.029" end="00:08:38.279" style="s2">to a logical proposition of some kind</p>
+<p begin="00:08:33.409" end="00:08:39.949" style="s2">the root of the word believe is in life</p>
+<p begin="00:08:38.279" end="00:08:44.850" style="s2">actually it&#39;s in yeah believe and err</p>
+<p begin="00:08:39.949" end="00:08:47.910" style="s2">yes yes believe in and it&#39;s is to do</p>
+<p begin="00:08:44.850" end="00:08:49.589" style="s2">with a relationship and that central to</p>
+<p begin="00:08:47.910" end="00:08:52.350" style="s2">what you&#39;re talking about what I&#39;m</p>
+<p begin="00:08:49.589" end="00:08:53.430" style="s2">talking about because truth can be</p>
+<p begin="00:08:52.350" end="00:08:56.639" style="s2">thought about</p>
+<p begin="00:08:53.430" end="00:08:59.850" style="s2">correctness to an abstract idea that we</p>
+<p begin="00:08:56.639" end="00:09:02.220" style="s2">have or it can be truth in the sense</p>
+<p begin="00:08:59.850" end="00:09:05.459" style="s2">that a person can be true to another</p>
+<p begin="00:09:02.220" end="00:09:07.680" style="s2">person or to set the carpenter makes are</p>
+<p begin="00:09:05.459" end="00:09:10.199" style="s2">true to one another which means that</p>
+<p begin="00:09:07.680" end="00:09:13.829" style="s2">they meet and that there is some sort of</p>
+<p begin="00:09:10.199" end="00:09:16.170" style="s2">coming together so I would see the big</p>
+<p begin="00:09:13.829" end="00:09:21.300" style="s2">fault line in knowledge to be between</p>
+<p begin="00:09:16.170" end="00:09:23.790" style="s2">the is and the I thou in the Masters</p>
+<p begin="00:09:21.300" end="00:09:26.180" style="s2">emissary I suggest that the evolution of</p>
+<p begin="00:09:23.790" end="00:09:28.499" style="s2">language very much wrongly promoted a</p>
+<p begin="00:09:26.180" end="00:09:31.110" style="s2">relationship of standing back and an I</p>
+<p begin="00:09:28.499" end="00:09:38.059" style="s2">it even though it began in the business</p>
+<p begin="00:09:31.110" end="00:09:41.370" style="s2">of wanting to communicate mmm and so as</p>
+<p begin="00:09:38.059" end="00:09:43.589" style="s2">John Archibald wheeler said I mean it&#39;s</p>
+<p begin="00:09:41.370" end="00:09:48.240" style="s2">there are many many conferences between</p>
+<p begin="00:09:43.589" end="00:09:51.149" style="s2">physics and a decent philosophy this is</p>
+<p begin="00:09:48.240" end="00:09:55.050" style="s2">a participatory universe even at the</p>
+<p begin="00:09:51.149" end="00:09:57.629" style="s2">hardest edges of physics what is as it</p>
+<p begin="00:09:55.050" end="00:10:02.629" style="s2">were we conceived out there and what is</p>
+<p begin="00:09:57.629" end="00:10:07.639" style="s2">in here not fully separable it&#39;s not</p>
+<p begin="00:10:02.629" end="00:10:10.920" style="s2">being put together with other people but</p>
+<p begin="00:10:07.639" end="00:10:13.800" style="s2">we&#39;re already together it&#39;s just that we</p>
+<p begin="00:10:10.920" end="00:10:17.160" style="s2">imagine the separations and that are</p>
+<p begin="00:10:13.800" end="00:10:20.670" style="s2">much less vivid than they seem to us in</p>
+<p begin="00:10:17.160" end="00:10:24.000" style="s2">the way in which we think so I think</p>
+<p begin="00:10:20.670" end="00:10:26.120" style="s2">what&#39;s happening in the world were in at</p>
+<p begin="00:10:24.000" end="00:10:30.089" style="s2">the moment is a kind of dis embedding an</p>
+<p begin="00:10:26.120" end="00:10:33.629" style="s2">abstraction a D contextualizing and this</p>
+<p begin="00:10:30.089" end="00:10:37.139" style="s2">is typical of the way in which the left</p>
+<p begin="00:10:33.629" end="00:10:40.050" style="s2">hemisphere thinks it is very acts who</p>
+<p begin="00:10:37.139" end="00:10:42.209" style="s2">construe a model that is internally</p>
+<p begin="00:10:40.050" end="00:10:45.149" style="s2">consistent that is not necessarily</p>
+<p begin="00:10:42.209" end="00:10:47.519" style="s2">consistent with experience and it would</p>
+<p begin="00:10:45.149" end="00:10:50.009" style="s2">take too long but I&#39;ve written it much</p>
+<p begin="00:10:47.519" end="00:10:52.259" style="s2">more about it in the book that I&#39;m just</p>
+<p begin="00:10:50.009" end="00:10:56.749" style="s2">finishing this week which has taken me</p>
+<p begin="00:10:52.259" end="00:11:00.569" style="s2">about ten years to talk about this</p>
+<p begin="00:10:56.749" end="00:11:07.139" style="s2">business of our being decontextualized</p>
+<p begin="00:11:00.569" end="00:11:08.780" style="s2">from the body from the continuity of a</p>
+<p begin="00:11:07.139" end="00:11:12.740" style="s2">car</p>
+<p begin="00:11:08.780" end="00:11:19.110" style="s2">from the spiritual realm and all that is</p>
+<p begin="00:11:12.740" end="00:11:21.600" style="s2">implied in that and from togetherness</p>
+<p begin="00:11:19.110" end="00:11:23.580" style="s2">with the natural world all these things</p>
+<p begin="00:11:21.600" end="00:11:27.930" style="s2">which are so important to a sense of</p>
+<p begin="00:11:23.580" end="00:11:29.760" style="s2">meaning our lives of have until just a</p>
+<p begin="00:11:27.930" end="00:11:32.460" style="s2">few hundred years ago for millions of</p>
+<p begin="00:11:29.760" end="00:11:34.650" style="s2">years they have been embedded in nature</p>
+<p begin="00:11:32.460" end="00:11:36.540" style="s2">and you know I hate the word the</p>
+<p begin="00:11:34.650" end="00:11:38.670" style="s2">environment because it suggests that</p>
+<p begin="00:11:36.540" end="00:11:41.040" style="s2">nature is something around you but</p>
+<p begin="00:11:38.670" end="00:11:42.840" style="s2">you&#39;re not here we are nature we can</p>
+<p begin="00:11:41.040" end="00:11:45.300" style="s2">amount of nature to go back into nature</p>
+<p begin="00:11:42.840" end="00:11:48.720" style="s2">there is no division there between us</p>
+<p begin="00:11:45.300" end="00:11:50.880" style="s2">and is it I don&#39;t know I hate that it&#39;s</p>
+<p begin="00:11:48.720" end="00:11:56.130" style="s2">like that talking about God as it almost</p>
+<p begin="00:11:50.880" end="00:11:57.720" style="s2">the professor says she but anyway and so</p>
+<p begin="00:11:56.130" end="00:11:59.340" style="s2">I think that what&#39;s happening is it&#39;s</p>
+<p begin="00:11:57.720" end="00:12:03.230" style="s2">not surprising there&#39;s a crisis of</p>
+<p begin="00:11:59.340" end="00:12:07.620" style="s2">meaning because meaning comes not of</p>
+<p begin="00:12:03.230" end="00:12:09.330" style="s2">constructing a serial line of words</p>
+<p begin="00:12:07.620" end="00:12:11.520" style="s2">thoughts and ideas that leads to a</p>
+<p begin="00:12:09.330" end="00:12:16.980" style="s2">conclusion very much the left hemisphere</p>
+<p begin="00:12:11.520" end="00:12:19.290" style="s2">way of thinking but emerges without our</p>
+<p begin="00:12:16.980" end="00:12:23.390" style="s2">being able fully to understand how or to</p>
+<p begin="00:12:19.290" end="00:12:26.370" style="s2">control the process out of a being</p>
+<p begin="00:12:23.390" end="00:12:28.710" style="s2">embedded in dwelling him as Heidegger</p>
+<p begin="00:12:26.370" end="00:12:32.550" style="s2">would have said the world and in that</p>
+<p begin="00:12:28.710" end="00:12:34.830" style="s2">sense we are now deracinated from as I</p>
+<p begin="00:12:32.550" end="00:12:36.930" style="s2">say from our culture from nature from</p>
+<p begin="00:12:34.830" end="00:12:39.660" style="s2">one another from the body so much</p>
+<p begin="00:12:36.930" end="00:12:42.090" style="s2">nowadays is so purely put across as</p>
+<p begin="00:12:39.660" end="00:12:44.160" style="s2">abstract and cerebral the way in which</p>
+<p begin="00:12:42.090" end="00:12:47.310" style="s2">psychologists and neurosciences talk</p>
+<p begin="00:12:44.160" end="00:12:49.680" style="s2">about the brain is perhaps inevitably</p>
+<p begin="00:12:47.310" end="00:12:52.470" style="s2">but I think very damaging leak outs in</p>
+<p begin="00:12:49.680" end="00:12:55.410" style="s2">language entirely appropriate to a</p>
+<p begin="00:12:52.470" end="00:12:56.930" style="s2">machine and it&#39;s very hard therefore to</p>
+<p begin="00:12:55.410" end="00:13:00.900" style="s2">stand back from all this talk of</p>
+<p begin="00:12:56.930" end="00:13:03.900" style="s2">circuits and switches and replays and</p>
+<p begin="00:13:00.900" end="00:13:06.000" style="s2">relays and so on to the notion that the</p>
+<p begin="00:13:03.900" end="00:13:08.850" style="s2">brain is actually an aspect of a person</p>
+<p begin="00:13:06.000" end="00:13:12.950" style="s2">so I&#39;ll just put all that out for the</p>
+<p begin="00:13:08.850" end="00:13:15.450" style="s2">moment that&#39;s wonderfully rich Ian so</p>
+<p begin="00:13:12.950" end="00:13:18.030" style="s2">I&#39;m gonna now speak as a representative</p>
+<p begin="00:13:15.450" end="00:13:19.440" style="s2">of a movement I suppose you could call</p>
+<p begin="00:13:18.030" end="00:13:21.300" style="s2">it within and cognitive science because</p>
+<p begin="00:13:19.440" end="00:13:23.160" style="s2">I clearly identify with this</p>
+<p begin="00:13:21.300" end="00:13:24.750" style="s2">just called 4e cognitive science I don&#39;t</p>
+<p begin="00:13:23.160" end="00:13:27.240" style="s2">know if you&#39;re familiar with it but this</p>
+<p begin="00:13:24.750" end="00:13:29.130" style="s2">is the idea that we have to</p>
+<p begin="00:13:27.240" end="00:13:31.140" style="s2">fundamentally break out of that sort of</p>
+<p begin="00:13:29.130" end="00:13:33.360" style="s2">Cartesian model both that the mind is</p>
+<p begin="00:13:31.140" end="00:13:35.490" style="s2">locked inside the head and it&#39;s a pure</p>
+<p begin="00:13:33.360" end="00:13:38.790" style="s2">logic machine and its primary operations</p>
+<p begin="00:13:35.490" end="00:13:40.740" style="s2">are epistemic in nature so right but the</p>
+<p begin="00:13:38.790" end="00:13:42.149" style="s2">fact that that you has been given the</p>
+<p begin="00:13:40.740" end="00:13:44.459" style="s2">fact that that has just been translated</p>
+<p begin="00:13:42.149" end="00:13:48.570" style="s2">into sort of materialist view is still</p>
+<p begin="00:13:44.459" end="00:13:51.480" style="s2">radically insufficient so what forty</p>
+<p begin="00:13:48.570" end="00:13:54.000" style="s2">cognitive science emphasizes is the ease</p>
+<p begin="00:13:51.480" end="00:13:57.720" style="s2">that we have to see cognition as</p>
+<p begin="00:13:54.000" end="00:13:59.790" style="s2">inherently constitutively embodied we</p>
+<p begin="00:13:57.720" end="00:14:02.850" style="s2">have to see cognition the next e as</p>
+<p begin="00:13:59.790" end="00:14:05.279" style="s2">inherently constituent embedded we are</p>
+<p begin="00:14:02.850" end="00:14:07.950" style="s2">it is the way in which we are coupled to</p>
+<p begin="00:14:05.279" end="00:14:10.019" style="s2">the environment the dynamic coupling the</p>
+<p begin="00:14:07.950" end="00:14:11.279" style="s2">mutual unfoldment of cognition and</p>
+<p begin="00:14:10.019" end="00:14:16.440" style="s2">environment in which we should</p>
+<p begin="00:14:11.279" end="00:14:19.260" style="s2">understand cognition that it is extended</p>
+<p begin="00:14:16.440" end="00:14:21.540" style="s2">that cosmic cognition isn&#39;t in the head</p>
+<p begin="00:14:19.260" end="00:14:23.070" style="s2">especially distributed cognition that</p>
+<p begin="00:14:21.540" end="00:14:25.140" style="s2">most of our cognition our</p>
+<p begin="00:14:23.070" end="00:14:26.910" style="s2">problem-solving is done in concert with</p>
+<p begin="00:14:25.140" end="00:14:28.500" style="s2">other people networked together so</p>
+<p begin="00:14:26.910" end="00:14:32.279" style="s2">there&#39;s deep interpenetration between</p>
+<p begin="00:14:28.500" end="00:14:35.820" style="s2">culture and cognition and then finally</p>
+<p begin="00:14:32.279" end="00:14:38.190" style="s2">enacted that cognition isn&#39;t primarily</p>
+<p begin="00:14:35.820" end="00:14:41.070" style="s2">about argumentation it&#39;s something that</p>
+<p begin="00:14:38.190" end="00:14:43.980" style="s2">we view by basically evolving the</p>
+<p begin="00:14:41.070" end="00:14:46.140" style="s2">sensorimotor loop on a step by step</p>
+<p begin="00:14:43.980" end="00:14:48.959" style="s2">basis and that&#39;s where in fact I do a</p>
+<p begin="00:14:46.140" end="00:14:51.290" style="s2">lot of my work and so a lot of this work</p>
+<p begin="00:14:48.959" end="00:14:55.020" style="s2">I think is actually deeply consonant</p>
+<p begin="00:14:51.290" end="00:14:56.790" style="s2">with the criticism you make of what is</p>
+<p begin="00:14:55.020" end="00:14:59.070" style="s2">still like I agree with you it&#39;s still</p>
+<p begin="00:14:56.790" end="00:15:01.350" style="s2">sort of the paradigmatic way in which</p>
+<p begin="00:14:59.070" end="00:15:04.740" style="s2">that Cartesian paradigmatic way in which</p>
+<p begin="00:15:01.350" end="00:15:08.310" style="s2">we see people investigating cognition</p>
+<p begin="00:15:04.740" end="00:15:11.010" style="s2">but to maybe give you some hope because</p>
+<p begin="00:15:08.310" end="00:15:13.890" style="s2">that what I&#39;m trying to for econ of</p>
+<p begin="00:15:11.010" end="00:15:15.899" style="s2">science is a big deal and it is becoming</p>
+<p begin="00:15:13.890" end="00:15:20.100" style="s2">it is growing in prominence and</p>
+<p begin="00:15:15.899" end="00:15:24.180" style="s2">importance it has you know we&#39;ve just</p>
+<p begin="00:15:20.100" end="00:15:26.160" style="s2">released you know there it is the Oxford</p>
+<p begin="00:15:24.180" end="00:15:30.449" style="s2">Handbook of for e cognitive science</p>
+<p begin="00:15:26.160" end="00:15:32.970" style="s2">right so for T cognition so there&#39;s a</p>
+<p begin="00:15:30.449" end="00:15:34.579" style="s2">lot that&#39;s happening now but that I</p>
+<p begin="00:15:32.970" end="00:15:37.189" style="s2">think has</p>
+<p begin="00:15:34.579" end="00:15:39.730" style="s2">two things behind it one I think is a</p>
+<p begin="00:15:37.189" end="00:15:44.600" style="s2">bona fide scientific academic</p>
+<p begin="00:15:39.730" end="00:15:46.399" style="s2">realization of important aspects of the</p>
+<p begin="00:15:44.600" end="00:15:48.709" style="s2">functionality and phenomenology of</p>
+<p begin="00:15:46.399" end="00:15:50.239" style="s2">cognition and consciousness that cannot</p>
+<p begin="00:15:48.709" end="00:15:52.100" style="s2">be addressed adequately within that</p>
+<p begin="00:15:50.239" end="00:15:55.399" style="s2">Cartesian creamer so I think there&#39;s a</p>
+<p begin="00:15:52.100" end="00:15:57.199" style="s2">genuine philosophical scientific body of</p>
+<p begin="00:15:55.399" end="00:15:59.209" style="s2">argumentation that is just pushing us</p>
+<p begin="00:15:57.199" end="00:16:01.339" style="s2">out of that and it&#39;s been deeply</p>
+<p begin="00:15:59.209" end="00:16:03.529" style="s2">influenced by you know Heidegger the Neo</p>
+<p begin="00:16:01.339" end="00:16:05.269" style="s2">Haida carry-ons but I think also and</p>
+<p begin="00:16:03.529" end="00:16:07.959" style="s2">this is something I argue in my series</p>
+<p begin="00:16:05.269" end="00:16:10.279" style="s2">I think this turn isn&#39;t just purely</p>
+<p begin="00:16:07.959" end="00:16:11.389" style="s2">epistemic Lee driven it&#39;s not just</p>
+<p begin="00:16:10.279" end="00:16:14.119" style="s2">because people are trying to solve</p>
+<p begin="00:16:11.389" end="00:16:16.519" style="s2">problems I think there&#39;s a big cultural</p>
+<p begin="00:16:14.119" end="00:16:18.439" style="s2">motive behind this that there many of</p>
+<p begin="00:16:16.519" end="00:16:22.100" style="s2">these people myself included we are</p>
+<p begin="00:16:18.439" end="00:16:24.189" style="s2">practitioners of various kinds of you</p>
+<p begin="00:16:22.100" end="00:16:26.540" style="s2">know Ecology&#39;s of practices like I do</p>
+<p begin="00:16:24.189" end="00:16:28.360" style="s2">you know various kinds of mindfulness</p>
+<p begin="00:16:26.540" end="00:16:31.189" style="s2">and Taichi and stuff like that because</p>
+<p begin="00:16:28.360" end="00:16:33.379" style="s2">right we&#39;re trying to see if we can</p>
+<p begin="00:16:31.189" end="00:16:35.179" style="s2">reunite if you&#39;ll allow me a bit of a</p>
+<p begin="00:16:33.379" end="00:16:37.819" style="s2">slogan here the science and the</p>
+<p begin="00:16:35.179" end="00:16:40.309" style="s2">spirituality back together again</p>
+<p begin="00:16:37.819" end="00:16:45.230" style="s2">that&#39;s I think what&#39;s really happening</p>
+<p begin="00:16:40.309" end="00:16:47.509" style="s2">right now in a very deep way well you</p>
+<p begin="00:16:45.230" end="00:16:49.879" style="s2">know I like all of that and as you can</p>
+<p begin="00:16:47.509" end="00:16:52.639" style="s2">imagine I&#39;m very much on side with that</p>
+<p begin="00:16:49.879" end="00:16:54.949" style="s2">there is nonetheless a tendency at a</p>
+<p begin="00:16:52.639" end="00:16:59.419" style="s2">master level for for that to become</p>
+<p begin="00:16:54.949" end="00:17:02.139" style="s2">itself a rather disembodied theory so I</p>
+<p begin="00:16:59.419" end="00:17:05.360" style="s2">like the emphasis on praxis and on</p>
+<p begin="00:17:02.139" end="00:17:07.850" style="s2">movements yeah one of the themes I mean</p>
+<p begin="00:17:05.360" end="00:17:10.970" style="s2">my latest book which would we call the</p>
+<p begin="00:17:07.850" end="00:17:14.449" style="s2">matter with things which is a pun on</p>
+<p begin="00:17:10.970" end="00:17:16.250" style="s2">several levels no it could have been</p>
+<p begin="00:17:14.449" end="00:17:20.899" style="s2">pretty much called everything flows</p>
+<p begin="00:17:16.250" end="00:17:24.620" style="s2">because we tend to see the world as a</p>
+<p begin="00:17:20.899" end="00:17:27.909" style="s2">series of snapshots or elements or</p>
+<p begin="00:17:24.620" end="00:17:30.429" style="s2">slices that are cooked together as our</p>
+<p begin="00:17:27.909" end="00:17:36.889" style="s2">conscious cognition puts ideas together</p>
+<p begin="00:17:30.429" end="00:17:39.889" style="s2">rather than those slices or or snapshots</p>
+<p begin="00:17:36.889" end="00:17:43.760" style="s2">being if you like illicitly extracted</p>
+<p begin="00:17:39.889" end="00:17:46.039" style="s2">from what is an always seamless flowing</p>
+<p begin="00:17:43.760" end="00:17:49.310" style="s2">process so you&#39;ve probably seen to her</p>
+<p begin="00:17:46.039" end="00:17:51.950" style="s2">skis recent work on the same thing</p>
+<p begin="00:17:49.310" end="00:17:53.270" style="s2">I wanted to talk to you about some of my</p>
+<p begin="00:17:51.950" end="00:17:55.190" style="s2">most recent work because it just goes</p>
+<p begin="00:17:53.270" end="00:17:57.230" style="s2">directly towards you just what you just</p>
+<p begin="00:17:55.190" end="00:18:01.580" style="s2">said you know trying to get past this</p>
+<p begin="00:17:57.230" end="00:18:04.610" style="s2">snapshot version of reality so myself</p>
+<p begin="00:18:01.580" end="00:18:06.230" style="s2">and Dan Jaffe we&#39;re doing work on how</p>
+<p begin="00:18:04.610" end="00:18:08.470" style="s2">the scientists the NASA scientists on</p>
+<p begin="00:18:06.230" end="00:18:10.310" style="s2">earth make use of the Rovers on Mars</p>
+<p begin="00:18:08.470" end="00:18:11.630" style="s2">you know the Rovers that are exploring</p>
+<p begin="00:18:10.310" end="00:18:13.490" style="s2">and what they get is they get back</p>
+<p begin="00:18:11.630" end="00:18:15.740" style="s2">snapshot pictures that&#39;s all they get</p>
+<p begin="00:18:13.490" end="00:18:18.650" style="s2">and they don&#39;t have joystick control of</p>
+<p begin="00:18:15.740" end="00:18:20.510" style="s2">the rover right and so they can&#39;t</p>
+<p begin="00:18:18.650" end="00:18:22.670" style="s2">actually do the science with those</p>
+<p begin="00:18:20.510" end="00:18:25.400" style="s2">snapshots what they&#39;re what they look</p>
+<p begin="00:18:22.670" end="00:18:27.020" style="s2">for is somebody who can do this and I&#39;ll</p>
+<p begin="00:18:25.400" end="00:18:29.330" style="s2">talk about it in a sec they do these</p>
+<p begin="00:18:27.020" end="00:18:31.070" style="s2">sort of tricks with their mind so that</p>
+<p begin="00:18:29.330" end="00:18:34.460" style="s2">they can get a sense of actually being</p>
+<p begin="00:18:31.070" end="00:18:37.400" style="s2">on Mars and the person can go from the</p>
+<p begin="00:18:34.460" end="00:18:38.960" style="s2">snapshot to the being on Mars they look</p>
+<p begin="00:18:37.400" end="00:18:40.580" style="s2">for the scientists that can do that</p>
+<p begin="00:18:38.960" end="00:18:44.560" style="s2">because those are the people that could</p>
+<p begin="00:18:40.580" end="00:18:46.970" style="s2">actually do use the rover as well to do</p>
+<p begin="00:18:44.560" end="00:18:48.710" style="s2">and what&#39;s really interesting they want</p>
+<p begin="00:18:46.970" end="00:18:50.900" style="s2">that sense of presence that perspectival</p>
+<p begin="00:18:48.710" end="00:18:52.490" style="s2">knowing and so what they do is you can</p>
+<p begin="00:18:50.900" end="00:18:54.500" style="s2">see them and and they just do it</p>
+<p begin="00:18:52.490" end="00:18:56.510" style="s2">spontaneously they generate that</p>
+<p begin="00:18:54.500" end="00:18:58.220" style="s2">participatory morph knowing they first</p>
+<p begin="00:18:56.510" end="00:18:59.990" style="s2">of all they Antep remise them the</p>
+<p begin="00:18:58.220" end="00:19:01.550" style="s2">rover&#39;s instead of saying the rover</p>
+<p begin="00:18:59.990" end="00:19:04.250" style="s2">should go here they say I should go</p>
+<p begin="00:19:01.550" end="00:19:07.130" style="s2">there and there and we should go there</p>
+<p begin="00:19:04.250" end="00:19:08.690" style="s2">right and oh no I&#39;m stuck here right and</p>
+<p begin="00:19:07.130" end="00:19:10.520" style="s2">but they also techno morph eyes</p>
+<p begin="00:19:08.690" end="00:19:13.100" style="s2">themselves though do things like those</p>
+<p begin="00:19:10.520" end="00:19:14.510" style="s2">like they&#39;ll say yeah I&#39;ll go put a</p>
+<p begin="00:19:13.100" end="00:19:16.190" style="s2">phone on a desk you say there&#39;s the rock</p>
+<p begin="00:19:14.510" end="00:19:18.950" style="s2">and they&#39;ll go like this for the cameras</p>
+<p begin="00:19:16.190" end="00:19:21.440" style="s2">and I need to do this I need to and they</p>
+<p begin="00:19:18.950" end="00:19:23.450" style="s2">swivel and move their body around right</p>
+<p begin="00:19:21.440" end="00:19:27.050" style="s2">and what they do is they they get this</p>
+<p begin="00:19:23.450" end="00:19:29.330" style="s2">right this loop they&#39;re sort of shaping</p>
+<p begin="00:19:27.050" end="00:19:31.430" style="s2">their anthropomorphizing the rover and</p>
+<p begin="00:19:29.330" end="00:19:33.590" style="s2">rover Ising themselves with Ulen army</p>
+<p begin="00:19:31.430" end="00:19:35.300" style="s2">and they create this participatory bond</p>
+<p begin="00:19:33.590" end="00:19:37.130" style="s2">and you know what&#39;s really really</p>
+<p begin="00:19:35.300" end="00:19:40.280" style="s2">interesting is they&#39;ll say things like</p>
+<p begin="00:19:37.130" end="00:19:42.770" style="s2">this these are these hard nodes left</p>
+<p begin="00:19:40.280" end="00:19:44.420" style="s2">hemispheric rational theory builders</p>
+<p begin="00:19:42.770" end="00:19:46.610" style="s2">they&#39;ll say things like you know what is</p>
+<p begin="00:19:44.420" end="00:19:49.430" style="s2">working in the garden and my right wrist</p>
+<p begin="00:19:46.610" end="00:19:54.950" style="s2">got sort of stuck and when I got to the</p>
+<p begin="00:19:49.430" end="00:19:56.540" style="s2">lab the Rovers right wheel was stuck and</p>
+<p begin="00:19:54.950" end="00:19:58.640" style="s2">they&#39;ll even say I don&#39;t know what&#39;s</p>
+<p begin="00:19:56.540" end="00:20:02.170" style="s2">going on but there&#39;s some kind of</p>
+<p begin="00:19:58.640" end="00:20:04.640" style="s2">connection basically we have to build</p>
+<p begin="00:20:02.170" end="00:20:06.830" style="s2">perspectival and participatory knowing</p>
+<p begin="00:20:04.640" end="00:20:10.670" style="s2">before her they can do any of that</p>
+<p begin="00:20:06.830" end="00:20:12.560" style="s2">sophisticated theorizing and that puts</p>
+<p begin="00:20:10.670" end="00:20:18.280" style="s2">me in mind as I&#39;m sure it does you of</p>
+<p begin="00:20:12.560" end="00:20:21.680" style="s2">how a skilled tracker puts himself into</p>
+<p begin="00:20:18.280" end="00:20:24.410" style="s2">the frame of the animal yeah they&#39;re</p>
+<p begin="00:20:21.680" end="00:20:27.080" style="s2">just traffic so he can see what it&#39;s</p>
+<p begin="00:20:24.410" end="00:20:33.110" style="s2">seeing and be know where he&#39;s going</p>
+<p begin="00:20:27.080" end="00:20:36.230" style="s2">so I think that is that is wonderful to</p>
+<p begin="00:20:33.110" end="00:20:38.990" style="s2">get back though to well let me just give</p>
+<p begin="00:20:36.230" end="00:20:42.590" style="s2">you some idea of of what I&#39;ve been</p>
+<p begin="00:20:38.990" end="00:20:47.240" style="s2">writing about if I may it&#39;s very fresh</p>
+<p begin="00:20:42.590" end="00:20:49.400" style="s2">in in my mind at the moment and I can</p>
+<p begin="00:20:47.240" end="00:20:51.680" style="s2">deal with the first part of the book</p>
+<p begin="00:20:49.400" end="00:20:55.190" style="s2">very briefly I basically look at the</p>
+<p begin="00:20:51.680" end="00:21:00.920" style="s2">ways in which we garner knowledge of the</p>
+<p begin="00:20:55.190" end="00:21:02.690" style="s2">world all the time and the main conduits</p>
+<p begin="00:21:00.920" end="00:21:04.940" style="s2">through that can happen wick through</p>
+<p begin="00:21:02.690" end="00:21:07.550" style="s2">extract can happen namely attention</p>
+<p begin="00:21:04.940" end="00:21:11.260" style="s2">perception the judgments that are bound</p>
+<p begin="00:21:07.550" end="00:21:13.910" style="s2">up with perception cognitive</p>
+<p begin="00:21:11.260" end="00:21:15.830" style="s2">intelligence and social and emotional</p>
+<p begin="00:21:13.910" end="00:21:18.530" style="s2">intelligence those are the ways in which</p>
+<p begin="00:21:15.830" end="00:21:21.110" style="s2">we can sort of get information knowledge</p>
+<p begin="00:21:18.530" end="00:21:23.870" style="s2">about the world and that&#39;s a very long</p>
+<p begin="00:21:21.110" end="00:21:25.640" style="s2">story short in a sentence each of these</p>
+<p begin="00:21:23.870" end="00:21:27.380" style="s2">I compared the role of the right on the</p>
+<p begin="00:21:25.640" end="00:21:30.710" style="s2">left hemisphere what comes out is that</p>
+<p begin="00:21:27.380" end="00:21:32.860" style="s2">the the left hemisphere is more is less</p>
+<p begin="00:21:30.710" end="00:21:35.720" style="s2">good at all these things it&#39;s it&#39;s more</p>
+<p begin="00:21:32.860" end="00:21:38.060" style="s2">sitting in a place where once the right</p>
+<p begin="00:21:35.720" end="00:21:40.900" style="s2">hemisphere has dealt with experience it</p>
+<p begin="00:21:38.060" end="00:21:44.120" style="s2">can take it away and do procedures on it</p>
+<p begin="00:21:40.900" end="00:21:47.480" style="s2">in the second part of the book I look at</p>
+<p begin="00:21:44.120" end="00:21:49.520" style="s2">what I would call the four routes to</p>
+<p begin="00:21:47.480" end="00:21:53.600" style="s2">understanding which are a more long-term</p>
+<p begin="00:21:49.520" end="00:21:55.460" style="s2">process whereby we try to make sense of</p>
+<p begin="00:21:53.600" end="00:21:57.770" style="s2">what it is we&#39;ve with me know through</p>
+<p begin="00:21:55.460" end="00:22:01.790" style="s2">those those modes like justice right and</p>
+<p begin="00:21:57.770" end="00:22:03.260" style="s2">I believe they are science reason and I</p>
+<p begin="00:22:01.790" end="00:22:06.470" style="s2">would distinguish being reason and</p>
+<p begin="00:22:03.260" end="00:22:11.690" style="s2">rationality here intuition and</p>
+<p begin="00:22:06.470" end="00:22:14.720" style="s2">imagination and my conclusion again very</p>
+<p begin="00:22:11.690" end="00:22:15.920" style="s2">briefly is that we need each of these in</p>
+<p begin="00:22:14.720" end="00:22:17.330" style="s2">almost every case</p>
+<p begin="00:22:15.920" end="00:22:20.090" style="s2">to be applied to what we&#39;re looking at</p>
+<p begin="00:22:17.330" end="00:22:22.070" style="s2">there are some exceptions but in reality</p>
+<p begin="00:22:20.090" end="00:22:24.050" style="s2">what&#39;s happening is that we&#39;re using</p>
+<p begin="00:22:22.070" end="00:22:27.140" style="s2">only one or perhaps two of these</p>
+<p begin="00:22:24.050" end="00:22:29.720" style="s2">modalities in approaching any subject in</p>
+<p begin="00:22:27.140" end="00:22:32.900" style="s2">order to understand it and what&#39;s more</p>
+<p begin="00:22:29.720" end="00:22:34.700" style="s2">we&#39;re relying most on the perks of the</p>
+<p begin="00:22:32.900" end="00:22:37.010" style="s2">left hemisphere contributes which are</p>
+<p begin="00:22:34.700" end="00:22:38.810" style="s2">less valuable than the parts that the</p>
+<p begin="00:22:37.010" end="00:22:41.180" style="s2">right hemisphere contributes including</p>
+<p begin="00:22:38.810" end="00:22:43.760" style="s2">to science and reason the myth that</p>
+<p begin="00:22:41.180" end="00:22:45.800" style="s2">somehow science is all left hemispheric</p>
+<p begin="00:22:43.760" end="00:22:48.230" style="s2">well the reason is it completely wrong</p>
+<p begin="00:22:45.800" end="00:22:49.640" style="s2">and then in the last part of the book I</p>
+<p begin="00:22:48.230" end="00:22:54.860" style="s2">look at the building blocks of the</p>
+<p begin="00:22:49.640" end="00:23:00.830" style="s2">cosmos time-space motion yeah</p>
+<p begin="00:22:54.860" end="00:23:04.610" style="s2">consciousness matter value and the</p>
+<p begin="00:23:00.830" end="00:23:06.320" style="s2">divine and and a coincidence the</p>
+<p begin="00:23:04.610" end="00:23:08.270" style="s2">opposites is my last chapter which is</p>
+<p begin="00:23:06.320" end="00:23:10.150" style="s2">very strong theme in the whole book and</p>
+<p begin="00:23:08.270" end="00:23:12.440" style="s2">really what I&#39;m suggesting is we</p>
+<p begin="00:23:10.150" end="00:23:15.620" style="s2">misunderstand the world because we&#39;re</p>
+<p begin="00:23:12.440" end="00:23:18.140" style="s2">using only a tiny fraction of what we</p>
+<p begin="00:23:15.620" end="00:23:20.020" style="s2">could be doing and knowing largely</p>
+<p begin="00:23:18.140" end="00:23:23.120" style="s2">because we&#39;ve got locked into this in</p>
+<p begin="00:23:20.020" end="00:23:26.480" style="s2">fantastically restrictive reductive</p>
+<p begin="00:23:23.120" end="00:23:29.480" style="s2">mechanistic very simple way of thinking</p>
+<p begin="00:23:26.480" end="00:23:33.320" style="s2">about the world in which is modeled on a</p>
+<p begin="00:23:29.480" end="00:23:35.930" style="s2">machine and you know it&#39;s just not like</p>
+<p begin="00:23:33.320" end="00:23:39.590" style="s2">that I don&#39;t know where there&#39;s so much</p>
+<p begin="00:23:35.930" end="00:23:41.990" style="s2">I want to respond to on that so I do</p>
+<p begin="00:23:39.590" end="00:23:43.460" style="s2">something very similar I&#39;m getting sort</p>
+<p begin="00:23:41.990" end="00:23:48.650" style="s2">of really surprised about how convergent</p>
+<p begin="00:23:43.460" end="00:23:52.580" style="s2">our work is so I where I start as a</p>
+<p begin="00:23:48.650" end="00:23:56.300" style="s2">scientist is I start with a central</p>
+<p begin="00:23:52.580" end="00:23:57.440" style="s2">problem of attention which is the issue</p>
+<p begin="00:23:56.300" end="00:23:59.960" style="s2">I call which is the issue of relevance</p>
+<p begin="00:23:57.440" end="00:24:02.300" style="s2">realization which is of all of the</p>
+<p begin="00:23:59.960" end="00:24:04.580" style="s2">information available to you what do you</p>
+<p begin="00:24:02.300" end="00:24:08.240" style="s2">Syrian on is relevant how do you make it</p>
+<p begin="00:24:04.580" end="00:24:09.680" style="s2">salient out of all the information</p>
+<p begin="00:24:08.240" end="00:24:12.050" style="s2">available to you and long-term memory</p>
+<p begin="00:24:09.680" end="00:24:15.590" style="s2">what do you access and how do you how do</p>
+<p begin="00:24:12.050" end="00:24:17.120" style="s2">you shape it of all of the possible</p>
+<p begin="00:24:15.590" end="00:24:18.140" style="s2">combinations of things you could do all</p>
+<p begin="00:24:17.120" end="00:24:19.430" style="s2">the courses of action</p>
+<p begin="00:24:18.140" end="00:24:21.230" style="s2">all of these search spaces are</p>
+<p begin="00:24:19.430" end="00:24:24.500" style="s2">combinatorial explosive and they all</p>
+<p begin="00:24:21.230" end="00:24:27.770" style="s2">right and and they all require an</p>
+<p begin="00:24:24.500" end="00:24:29.000" style="s2">amazing ability which which is the thing</p>
+<p begin="00:24:27.770" end="00:24:29.870" style="s2">that we&#39;re finding most difficult to</p>
+<p begin="00:24:29.000" end="00:24:31.370" style="s2">give to you</p>
+<p begin="00:24:29.870" end="00:24:34.159" style="s2">artificial intelligence was the exactly</p>
+<p begin="00:24:31.370" end="00:24:36.710" style="s2">disability of somehow not searching the</p>
+<p begin="00:24:34.159" end="00:24:38.929" style="s2">whole space because that would take way</p>
+<p begin="00:24:36.710" end="00:24:40.940" style="s2">too much time somehow you intelligently</p>
+<p begin="00:24:38.929" end="00:24:42.559" style="s2">ignore which sounds like a Zen Cohen you</p>
+<p begin="00:24:40.940" end="00:24:44.600" style="s2">intelligently ignore most of that</p>
+<p begin="00:24:42.559" end="00:24:45.950" style="s2">information and reliably no we&#39;re</p>
+<p begin="00:24:44.600" end="00:24:47.690" style="s2">perfectly because you can&#39;t nobody can</p>
+<p begin="00:24:45.950" end="00:24:48.799" style="s2">be perfect on this and that&#39;ll bring me</p>
+<p begin="00:24:47.690" end="00:24:50.990" style="s2">down to something I want to talk about</p>
+<p begin="00:24:48.799" end="00:24:52.580" style="s2">you zero you reliably zero in on</p>
+<p begin="00:24:50.990" end="00:24:53.870" style="s2">relevant information now that tells me</p>
+<p begin="00:24:52.580" end="00:24:55.460" style="s2">right right from the beginning this is</p>
+<p begin="00:24:53.870" end="00:24:57.080" style="s2">the point I want to come back to their</p>
+<p begin="00:24:55.460" end="00:24:59.659" style="s2">cognition and knowledge should not be</p>
+<p begin="00:24:57.080" end="00:25:01.520" style="s2">held prey to logical standards of</p>
+<p begin="00:24:59.659" end="00:25:04.429" style="s2">certainty because that is not actually</p>
+<p begin="00:25:01.520" end="00:25:06.230" style="s2">cognitively possible if you try to lodge</p>
+<p begin="00:25:04.429" end="00:25:08.360" style="s2">it your way through all of this</p>
+<p begin="00:25:06.230" end="00:25:10.309" style="s2">information processing you would commit</p>
+<p begin="00:25:08.360" end="00:25:13.700" style="s2">cognitive suicide in fact most of your</p>
+<p begin="00:25:10.309" end="00:25:16.070" style="s2">cognition right can&#39;t operate that way</p>
+<p begin="00:25:13.700" end="00:25:19.220" style="s2">so this for me carries in a deep</p>
+<p begin="00:25:16.070" end="00:25:21.649" style="s2">epistemological implication which is we</p>
+<p begin="00:25:19.220" end="00:25:23.990" style="s2">have to give up and think about how</p>
+<p begin="00:25:21.649" end="00:25:26.570" style="s2">deeply entrenched and you probably say</p>
+<p begin="00:25:23.990" end="00:25:29.809" style="s2">this is a left hemispheric thing I think</p>
+<p begin="00:25:26.570" end="00:25:32.149" style="s2">not given some of our email exchange we</p>
+<p begin="00:25:29.809" end="00:25:37.760" style="s2">have to give up the standard of</p>
+<p begin="00:25:32.149" end="00:25:40.460" style="s2">certainty in you know as how we evaluate</p>
+<p begin="00:25:37.760" end="00:25:43.010" style="s2">truth and perfection is how we</p>
+<p begin="00:25:40.460" end="00:25:47.690" style="s2">understand goodness I think those two</p>
+<p begin="00:25:43.010" end="00:25:50.419" style="s2">standards have held us prey in a really</p>
+<p begin="00:25:47.690" end="00:25:52.789" style="s2">disastrous way and so part of what I&#39;ve</p>
+<p begin="00:25:50.419" end="00:25:54.770" style="s2">been trying to do then is okay once we</p>
+<p begin="00:25:52.789" end="00:25:57.020" style="s2">we make this is we have to understand</p>
+<p begin="00:25:54.770" end="00:25:59.750" style="s2">that this relevance realization</p>
+<p begin="00:25:57.020" end="00:26:02.390" style="s2">machinery is happening pre inferentially</p>
+<p begin="00:25:59.750" end="00:26:04.909" style="s2">but before I can make any categories I</p>
+<p begin="00:26:02.390" end="00:26:07.429" style="s2">have to be able to zero it right so we</p>
+<p begin="00:26:04.909" end="00:26:09.169" style="s2">so I call this this this ability to be</p>
+<p begin="00:26:07.429" end="00:26:11.480" style="s2">coupled to the world and relevance is</p>
+<p begin="00:26:09.169" end="00:26:14.630" style="s2">transient this is relevance is not a</p>
+<p begin="00:26:11.480" end="00:26:16.460" style="s2">property of this right it&#39;s not a it&#39;s</p>
+<p begin="00:26:14.630" end="00:26:19.399" style="s2">not just a subjective thing</p>
+<p begin="00:26:16.460" end="00:26:21.890" style="s2">it&#39;s an affordance between it&#39;s a real</p>
+<p begin="00:26:19.399" end="00:26:24.230" style="s2">relation between me and so this is I</p>
+<p begin="00:26:21.890" end="00:26:26.570" style="s2">call this religio it&#39;s the sense of deep</p>
+<p begin="00:26:24.230" end="00:26:28.909" style="s2">binding and I&#39;m alluding to one of the</p>
+<p begin="00:26:26.570" end="00:26:31.490" style="s2">ideological potential etymological</p>
+<p begin="00:26:28.909" end="00:26:33.740" style="s2">origin of religion right and I see a lot</p>
+<p begin="00:26:31.490" end="00:26:36.919" style="s2">of practice that people have dismissed</p>
+<p begin="00:26:33.740" end="00:26:39.350" style="s2">as irrational as practices that are</p>
+<p begin="00:26:36.919" end="00:26:42.649" style="s2">designed to activate and accentuate this</p>
+<p begin="00:26:39.350" end="00:26:43.700" style="s2">sense of religio so where that takes me</p>
+<p begin="00:26:42.649" end="00:26:46.040" style="s2">to is and</p>
+<p begin="00:26:43.700" end="00:26:48.410" style="s2">and I want to pick up on two points in</p>
+<p begin="00:26:46.040" end="00:26:50.720" style="s2">your book that I think are relevant is</p>
+<p begin="00:26:48.410" end="00:26:52.580" style="s2">back to and maybe you&#39;re using reason</p>
+<p begin="00:26:50.720" end="00:26:54.110" style="s2">how I use rationality maybe we may just</p>
+<p begin="00:26:52.580" end="00:26:56.720" style="s2">have a semantic thing because I think</p>
+<p begin="00:26:54.110" end="00:26:59.150" style="s2">the core of what I call rationality is</p>
+<p begin="00:26:56.720" end="00:27:01.580" style="s2">not inferential manipulation of</p>
+<p begin="00:26:59.150" end="00:27:04.430" style="s2">propositions right because that&#39;s</p>
+<p begin="00:27:01.580" end="00:27:06.440" style="s2">ultimately this logical thing that&#39;s I</p>
+<p begin="00:27:04.430" end="00:27:08.510" style="s2">think it&#39;s put it&#39;s a it&#39;s put us in the</p>
+<p begin="00:27:06.440" end="00:27:10.520" style="s2">wrong model of how we&#39;re trying to get</p>
+<p begin="00:27:08.510" end="00:27:13.160" style="s2">knowledge because I think what</p>
+<p begin="00:27:10.520" end="00:27:16.970" style="s2">rationality is ultimately about is this</p>
+<p begin="00:27:13.160" end="00:27:18.050" style="s2">idea the very process is that of our</p>
+<p begin="00:27:16.970" end="00:27:19.910" style="s2">intelligence that are doing this</p>
+<p begin="00:27:18.050" end="00:27:22.730" style="s2">relevance realization are also the</p>
+<p begin="00:27:19.910" end="00:27:25.130" style="s2">processes that can it can misfire and</p>
+<p begin="00:27:22.730" end="00:27:28.490" style="s2">they can make the wrong thing salient to</p>
+<p begin="00:27:25.130" end="00:27:31.400" style="s2">us in the wrong way and I think that is</p>
+<p begin="00:27:28.490" end="00:27:33.920" style="s2">sort of the key of self-deception and</p>
+<p begin="00:27:31.400" end="00:27:36.050" style="s2">you&#39;ve pointed out two things that I</p>
+<p begin="00:27:33.920" end="00:27:37.520" style="s2">want to bring it back into what I&#39;m</p>
+<p begin="00:27:36.050" end="00:27:40.490" style="s2">calling rationality perhaps what you</p>
+<p begin="00:27:37.520" end="00:27:42.560" style="s2">mean by reason you noted how you know</p>
+<p begin="00:27:40.490" end="00:27:46.040" style="s2">the right hemisphere is very good at</p>
+<p begin="00:27:42.560" end="00:27:47.720" style="s2">looking for when it has went where</p>
+<p begin="00:27:46.040" end="00:27:49.310" style="s2">there&#39;s anomalies or where things are</p>
+<p begin="00:27:47.720" end="00:27:51.200" style="s2">going wrong whereas the left hemisphere</p>
+<p begin="00:27:49.310" end="00:27:55.480" style="s2">is this sort of no no things are right</p>
+<p begin="00:27:51.200" end="00:27:58.100" style="s2">stick to the formal system right and so</p>
+<p begin="00:27:55.480" end="00:28:00.980" style="s2">the right hemisphere would play a very</p>
+<p begin="00:27:58.100" end="00:28:03.230" style="s2">deep role in overcoming self-deception</p>
+<p begin="00:28:00.980" end="00:28:04.700" style="s2">and where that I think we&#39;ve got</p>
+<p begin="00:28:03.230" end="00:28:06.620" style="s2">experimental evidence for that is the</p>
+<p begin="00:28:04.700" end="00:28:09.620" style="s2">following as you note in your book I</p>
+<p begin="00:28:06.620" end="00:28:13.460" style="s2">think correctly in insight we overcome a</p>
+<p begin="00:28:09.620" end="00:28:16.220" style="s2">Mis framing and what we do is we go into</p>
+<p begin="00:28:13.460" end="00:28:17.390" style="s2">the right hemisphere we don&#39;t try and</p>
+<p begin="00:28:16.220" end="00:28:19.070" style="s2">solve the problem anymore we actually</p>
+<p begin="00:28:17.390" end="00:28:21.500" style="s2">try to change the framing of the problem</p>
+<p begin="00:28:19.070" end="00:28:23.390" style="s2">and then we come back and it&#39;s</p>
+<p begin="00:28:21.500" end="00:28:26.510" style="s2">increasingly looking like the machinery</p>
+<p begin="00:28:23.390" end="00:28:27.770" style="s2">by which we gain insight is also the</p>
+<p begin="00:28:26.510" end="00:28:29.660" style="s2">machinery by which we overcome</p>
+<p begin="00:28:27.770" end="00:28:32.030" style="s2">self-deception so self-deception seems</p>
+<p begin="00:28:29.660" end="00:28:34.340" style="s2">to be this breaking out of inappropriate</p>
+<p begin="00:28:32.030" end="00:28:37.760" style="s2">framing and that means that there&#39;s a</p>
+<p begin="00:28:34.340" end="00:28:40.100" style="s2">lot more things that are central to what</p>
+<p begin="00:28:37.760" end="00:28:42.410" style="s2">I&#39;m calling rationality than</p>
+<p begin="00:28:40.100" end="00:28:44.870" style="s2">argumentation the all of the things we</p>
+<p begin="00:28:42.410" end="00:28:46.220" style="s2">need to do all of the practices we need</p>
+<p begin="00:28:44.870" end="00:28:49.300" style="s2">to gauge and so that we can</p>
+<p begin="00:28:46.220" end="00:28:53.870" style="s2">systematically call our self-deception</p>
+<p begin="00:28:49.300" end="00:28:56.960" style="s2">into real question and also to aspire</p>
+<p begin="00:28:53.870" end="00:28:58.880" style="s2">teach truly transforming in the face</p>
+<p begin="00:28:56.960" end="00:29:00.710" style="s2">that challenge that&#39;s what I want to</p>
+<p begin="00:28:58.880" end="00:29:02.299" style="s2">pack back into the notion of rationality</p>
+<p begin="00:29:00.710" end="00:29:04.279" style="s2">because at the heart of it even at the</p>
+<p begin="00:29:02.299" end="00:29:06.110" style="s2">heart of science the scientific sites</p>
+<p begin="00:29:04.279" end="00:29:08.149" style="s2">isn&#39;t about the sets of propositions it</p>
+<p begin="00:29:06.110" end="00:29:09.919" style="s2">collects it&#39;s about a self-correcting</p>
+<p begin="00:29:08.149" end="00:29:11.480" style="s2">process that&#39;s designed to try and help</p>
+<p begin="00:29:09.919" end="00:29:13.820" style="s2">us overcome the way we&#39;re self-deceptive</p>
+<p begin="00:29:11.480" end="00:29:16.010" style="s2">that&#39;s what should be made that should</p>
+<p begin="00:29:13.820" end="00:29:16.940" style="s2">be made the keystone of what I think</p>
+<p begin="00:29:16.010" end="00:29:19.130" style="s2">we&#39;re talking about when we&#39;re talking</p>
+<p begin="00:29:16.940" end="00:29:22.070" style="s2">about being reasonable or being or</p>
+<p begin="00:29:19.130" end="00:29:24.470" style="s2">pursuing rationality so that&#39;s that&#39;s</p>
+<p begin="00:29:22.070" end="00:29:26.330" style="s2">what I want that&#39;s what I want to bring</p>
+<p begin="00:29:24.470" end="00:29:29.059" style="s2">to bear because I think there&#39;s deep</p>
+<p begin="00:29:26.330" end="00:29:31.789" style="s2">connections between a reformulation of</p>
+<p begin="00:29:29.059" end="00:29:33.230" style="s2">rationality a rediscovery of the kinds</p>
+<p begin="00:29:31.789" end="00:29:33.919" style="s2">of knowing and then this what you&#39;re</p>
+<p begin="00:29:33.230" end="00:29:35.510" style="s2">talking about</p>
+<p begin="00:29:33.919" end="00:29:37.340" style="s2">about these kinds of projects of</p>
+<p begin="00:29:35.510" end="00:29:38.870" style="s2">knowledge acquisition if I can put it</p>
+<p begin="00:29:37.340" end="00:29:42.490" style="s2">that way I think there&#39;s they need to</p>
+<p begin="00:29:38.870" end="00:29:44.990" style="s2">talk to each other very deeply Wow</p>
+<p begin="00:29:42.490" end="00:29:48.700" style="s2">there&#39;s nothing for it we just have to</p>
+<p begin="00:29:44.990" end="00:29:51.110" style="s2">have many more of these conversations</p>
+<p begin="00:29:48.700" end="00:29:55.659" style="s2">which to go to first there&#39;s so many</p>
+<p begin="00:29:51.110" end="00:29:59.630" style="s2">things I want you to pick up on</p>
+<p begin="00:29:55.659" end="00:30:02.270" style="s2">first of all certainty certainty doesn&#39;t</p>
+<p begin="00:29:59.630" end="00:30:06.770" style="s2">exist certainty is just one of those</p>
+<p begin="00:30:02.270" end="00:30:09.950" style="s2">fictions it would depend on the idea of</p>
+<p begin="00:30:06.770" end="00:30:12.500" style="s2">truth being as it were a thing out there</p>
+<p begin="00:30:09.950" end="00:30:14.390" style="s2">that we can grasp where is truth this</p>
+<p begin="00:30:12.500" end="00:30:17.240" style="s2">coming together of things which is</p>
+<p begin="00:30:14.390" end="00:30:20.360" style="s2">always a matter of negotiation so we</p>
+<p begin="00:30:17.240" end="00:30:22.549" style="s2">negotiate with reality and we change the</p>
+<p begin="00:30:20.360" end="00:30:25.159" style="s2">gestalt that you&#39;ll see we don&#39;t add</p>
+<p begin="00:30:22.549" end="00:30:28.340" style="s2">another thing to align we&#39;re pursuing</p>
+<p begin="00:30:25.159" end="00:30:31.580" style="s2">instead we shift the gist out the whole</p>
+<p begin="00:30:28.340" end="00:30:34.220" style="s2">picture and then we see more and what a</p>
+<p begin="00:30:31.580" end="00:30:36.429" style="s2">Turkish tout is is simply one that</p>
+<p begin="00:30:34.220" end="00:30:40.820" style="s2">explains more than the one we&#39;ve just</p>
+<p begin="00:30:36.429" end="00:30:42.350" style="s2">jettison was able to in fact when I when</p>
+<p begin="00:30:40.820" end="00:30:45.289" style="s2">I was in my twenties I wrote a book</p>
+<p begin="00:30:42.350" end="00:30:47.510" style="s2">about literary criticism which listen in</p>
+<p begin="00:30:45.289" end="00:30:49.429" style="s2">the end called against criticism but I</p>
+<p begin="00:30:47.510" end="00:30:52.100" style="s2">thought of calling it against perfection</p>
+<p begin="00:30:49.429" end="00:30:53.720" style="s2">it seems to me that the problem with so</p>
+<p begin="00:30:52.100" end="00:30:56.419" style="s2">much of the way we philosophize about</p>
+<p begin="00:30:53.720" end="00:30:58.690" style="s2">everything including the arts is to have</p>
+<p begin="00:30:56.419" end="00:31:01.429" style="s2">abstract ideas that we wanted to</p>
+<p begin="00:30:58.690" end="00:31:03.830" style="s2">approximate to rather than seeing the</p>
+<p begin="00:31:01.429" end="00:31:05.990" style="s2">thing as having an individuality which</p>
+<p begin="00:31:03.830" end="00:31:07.940" style="s2">we couldn&#39;t have forced in and we</p>
+<p begin="00:31:05.990" end="00:31:09.380" style="s2">couldn&#39;t predict it and which gives</p>
+<p begin="00:31:07.940" end="00:31:14.680" style="s2">something to the world</p>
+<p begin="00:31:09.380" end="00:31:20.480" style="s2">so I&#39;m absolutely with you on that on</p>
+<p begin="00:31:14.680" end="00:31:23.030" style="s2">self-deception and well as I say in the</p>
+<p begin="00:31:20.480" end="00:31:25.120" style="s2">book and in that book and I say more</p>
+<p begin="00:31:23.030" end="00:31:28.300" style="s2">about it in the book I&#39;ve just finished</p>
+<p begin="00:31:25.120" end="00:31:30.800" style="s2">the left hemisphere is a master of</p>
+<p begin="00:31:28.300" end="00:31:32.870" style="s2">self-deception I mean except that it&#39;s</p>
+<p begin="00:31:30.800" end="00:31:35.320" style="s2">not in a master because it doesn&#39;t know</p>
+<p begin="00:31:32.870" end="00:31:39.790" style="s2">it&#39;s even doing it but it is capable of</p>
+<p begin="00:31:35.320" end="00:31:43.940" style="s2">deceiving us in the most extraordinarily</p>
+<p begin="00:31:39.790" end="00:31:45.980" style="s2">gross way and you see this in in you</p>
+<p begin="00:31:43.940" end="00:31:48.080" style="s2">know hard neurological cases where</p>
+<p begin="00:31:45.980" end="00:31:49.910" style="s2">people will deny the most obvious</p>
+<p begin="00:31:48.080" end="00:31:52.190" style="s2">realities because they don&#39;t have</p>
+<p begin="00:31:49.910" end="00:31:53.690" style="s2">insight and we know that when patients</p>
+<p begin="00:31:52.190" end="00:31:55.880" style="s2">who&#39;ve lost insight because of an</p>
+<p begin="00:31:53.690" end="00:31:58.220" style="s2">illness start to get insight into their</p>
+<p begin="00:31:55.880" end="00:32:02.570" style="s2">illness this is because bits in the</p>
+<p begin="00:31:58.220" end="00:32:04.580" style="s2">right frontal cortex with the left</p>
+<p begin="00:32:02.570" end="00:32:07.400" style="s2">hemisphere is quite capable of getting</p>
+<p begin="00:32:04.580" end="00:32:10.160" style="s2">further and further into a thing it</p>
+<p begin="00:32:07.400" end="00:32:12.380" style="s2">believes to be right and the only way to</p>
+<p begin="00:32:10.160" end="00:32:14.330" style="s2">free it up is to the right hemisphere to</p>
+<p begin="00:32:12.380" end="00:32:15.160" style="s2">be able to intervene and say hang on</p>
+<p begin="00:32:14.330" end="00:32:18.470" style="s2">hang on</p>
+<p begin="00:32:15.160" end="00:32:20.000" style="s2">Ramachandran calls it the devil&#39;s</p>
+<p begin="00:32:18.470" end="00:32:23.900" style="s2">advocate because it&#39;s the one that</p>
+<p begin="00:32:20.000" end="00:32:25.820" style="s2">detects the problem so yes I think we</p>
+<p begin="00:32:23.900" end="00:32:28.880" style="s2">can be very self deceived and one of the</p>
+<p begin="00:32:25.820" end="00:32:32.120" style="s2">interesting things is that you know of</p>
+<p begin="00:32:28.880" end="00:32:35.510" style="s2">course the work of Dunning and Kruger</p>
+<p begin="00:32:32.120" end="00:32:37.130" style="s2">the dunning-kruger effect are just for</p>
+<p begin="00:32:35.510" end="00:32:39.950" style="s2">the sake of the audience I just said the</p>
+<p begin="00:32:37.130" end="00:32:42.680" style="s2">dunning-kruger effect is an observation</p>
+<p begin="00:32:39.950" end="00:32:45.530" style="s2">that the people who are doing worst at a</p>
+<p begin="00:32:42.680" end="00:32:47.870" style="s2">subject and don&#39;t really understand it</p>
+<p begin="00:32:45.530" end="00:32:49.640" style="s2">think they know it all and have a gross</p>
+<p begin="00:32:47.870" end="00:32:51.530" style="s2">over estimate of what it is you know</p>
+<p begin="00:32:49.640" end="00:32:55.210" style="s2">whereas the people who really know</p>
+<p begin="00:32:51.530" end="00:32:58.510" style="s2">rather doubt them so yeah the</p>
+<p begin="00:32:55.210" end="00:33:02.840" style="s2">observations in follow-up experiments</p>
+<p begin="00:32:58.510" end="00:33:05.450" style="s2">after the initial experiment and set of</p>
+<p begin="00:33:02.840" end="00:33:07.430" style="s2">experiments showed that when they had</p>
+<p begin="00:33:05.450" end="00:33:09.710" style="s2">got a rational schema for how to</p>
+<p begin="00:33:07.430" end="00:33:11.720" style="s2">approach something they were more and</p>
+<p begin="00:33:09.710" end="00:33:14.180" style="s2">more confident that it was right even if</p>
+<p begin="00:33:11.720" end="00:33:15.860" style="s2">the model was blatantly wrong so I think</p>
+<p begin="00:33:14.180" end="00:33:18.140" style="s2">well that&#39;s very relevant to the way in</p>
+<p begin="00:33:15.860" end="00:33:20.600" style="s2">which we so many of the things we get</p>
+<p begin="00:33:18.140" end="00:33:22.500" style="s2">passionate about or to do with a very</p>
+<p begin="00:33:20.600" end="00:33:24.870" style="s2">simple theory or model</p>
+<p begin="00:33:22.500" end="00:33:28.440" style="s2">how the world should be but not about</p>
+<p begin="00:33:24.870" end="00:33:31.350" style="s2">how from experience the world is and I</p>
+<p begin="00:33:28.440" end="00:33:33.630" style="s2">suppose the thing that&#39;s most important</p>
+<p begin="00:33:31.350" end="00:33:37.070" style="s2">out of what you said at least for your</p>
+<p begin="00:33:33.630" end="00:33:39.930" style="s2">as I understand your concerns is about</p>
+<p begin="00:33:37.070" end="00:33:43.980" style="s2">reason and I&#39;m making a distinction</p>
+<p begin="00:33:39.930" end="00:33:45.720" style="s2">between rationale we don&#39;t have this</p>
+<p begin="00:33:43.980" end="00:33:47.880" style="s2">proper distinction in English but in</p>
+<p begin="00:33:45.720" end="00:33:49.620" style="s2">other languages like Greek and Latin and</p>
+<p begin="00:33:47.880" end="00:33:52.590" style="s2">German there are distinctions between</p>
+<p begin="00:33:49.620" end="00:33:54.210" style="s2">China&#39;s of understanding yeah but we as</p>
+<p begin="00:33:52.590" end="00:33:55.890" style="s2">again we don&#39;t distinguish different</p>
+<p begin="00:33:54.210" end="00:33:57.720" style="s2">kinds of knowing we don&#39;t distinguish</p>
+<p begin="00:33:55.890" end="00:34:00.180" style="s2">different kinds of understanding yes</p>
+<p begin="00:33:57.720" end="00:34:03.240" style="s2">well one is an understanding which is</p>
+<p begin="00:34:00.180" end="00:34:05.670" style="s2">purely schematic the kind of thing that</p>
+<p begin="00:34:03.240" end="00:34:09.030" style="s2">a computer equipped with an excellent</p>
+<p begin="00:34:05.670" end="00:34:11.940" style="s2">lexicon and the rules of syntax would be</p>
+<p begin="00:34:09.030" end="00:34:18.810" style="s2">able to do whereas there is a kind of</p>
+<p begin="00:34:11.940" end="00:34:22.050" style="s2">reason that doesn&#39;t in any sense what</p>
+<p begin="00:34:18.810" end="00:34:27.480" style="s2">should I say deny that but combines it</p>
+<p begin="00:34:22.050" end="00:34:29.310" style="s2">with the precognitive implicit intuitive</p>
+<p begin="00:34:27.480" end="00:34:32.580" style="s2">sense of things that you were describing</p>
+<p begin="00:34:29.310" end="00:34:35.730" style="s2">in which 99% of our knowledge actually</p>
+<p begin="00:34:32.580" end="00:34:38.370" style="s2">resides with that schema and the way in</p>
+<p begin="00:34:35.730" end="00:34:41.520" style="s2">which it is employed and in a way it&#39;s</p>
+<p begin="00:34:38.370" end="00:34:43.230" style="s2">like the difference between you know</p>
+<p begin="00:34:41.520" end="00:34:45.240" style="s2">putting a lot of data into a computer</p>
+<p begin="00:34:43.230" end="00:34:47.730" style="s2">and allowing the computer to decide</p>
+<p begin="00:34:45.240" end="00:34:50.639" style="s2">what&#39;s going on the data are selected by</p>
+<p begin="00:34:47.730" end="00:34:52.620" style="s2">you before you put them in and when they</p>
+<p begin="00:34:50.639" end="00:34:54.570" style="s2">come out they&#39;re interpreted by you the</p>
+<p begin="00:34:52.620" end="00:34:57.060" style="s2">computer just does the processing and</p>
+<p begin="00:34:54.570" end="00:34:58.080" style="s2">that&#39;s likely it like a model of the way</p>
+<p begin="00:34:57.060" end="00:35:00.330" style="s2">in which the right and the left</p>
+<p begin="00:34:58.080" end="00:35:01.800" style="s2">hemispheres understand one another or</p>
+<p begin="00:35:00.330" end="00:35:03.180" style="s2">the right hemisphere understands the</p>
+<p begin="00:35:01.800" end="00:35:06.650" style="s2">left at any rate so don&#39;t think the left</p>
+<p begin="00:35:03.180" end="00:35:10.050" style="s2">understands the right but it brings</p>
+<p begin="00:35:06.650" end="00:35:12.510" style="s2">knowledge information from experience</p>
+<p begin="00:35:10.050" end="00:35:14.700" style="s2">which the left hemisphere then can carry</p>
+<p begin="00:35:12.510" end="00:35:17.010" style="s2">out procedures on internally and then</p>
+<p begin="00:35:14.700" end="00:35:19.110" style="s2">gives that back to the right hemisphere</p>
+<p begin="00:35:17.010" end="00:35:21.120" style="s2">which must then reintegrate that with</p>
+<p begin="00:35:19.110" end="00:35:24.450" style="s2">everything else with the whole our</p>
+<p begin="00:35:21.120" end="00:35:28.410" style="s2">experience make sense of it so I think</p>
+<p begin="00:35:24.450" end="00:35:30.780" style="s2">those are important distinctions and I</p>
+<p begin="00:35:28.410" end="00:35:34.650" style="s2">think that rationality trying to be</p>
+<p begin="00:35:30.780" end="00:35:35.950" style="s2">reasonable trying to be objective it&#39;s</p>
+<p begin="00:35:34.650" end="00:35:38.440" style="s2">better to</p>
+<p begin="00:35:35.950" end="00:35:40.359" style="s2">a willingness to look at things from as</p>
+<p begin="00:35:38.440" end="00:35:43.300" style="s2">many points of view as possible and</p>
+<p begin="00:35:40.359" end="00:35:45.970" style="s2">assess which ones fit best rather than</p>
+<p begin="00:35:43.300" end="00:35:48.400" style="s2">to follow a line and say well my line of</p>
+<p begin="00:35:45.970" end="00:35:50.020" style="s2">reasoning leads there because you know</p>
+<p begin="00:35:48.400" end="00:35:53.200" style="s2">if your line of reasoning leads to a</p>
+<p begin="00:35:50.020" end="00:35:56.980" style="s2">dead end don&#39;t go down it go back and</p>
+<p begin="00:35:53.200" end="00:35:59.560" style="s2">try another cut so two things come to</p>
+<p begin="00:35:56.980" end="00:36:01.450" style="s2">mind immediately when you said that and</p>
+<p begin="00:35:59.560" end="00:36:02.800" style="s2">they converge in this the current work</p>
+<p begin="00:36:01.450" end="00:36:05.890" style="s2">I&#39;m working on and the series I&#39;m</p>
+<p begin="00:36:02.800" end="00:36:09.220" style="s2">working on which is people are talking</p>
+<p begin="00:36:05.890" end="00:36:11.619" style="s2">about dialogical reasoning and the idea</p>
+<p begin="00:36:09.220" end="00:36:13.420" style="s2">here is that we&#39;re and you know we&#39;re</p>
+<p begin="00:36:11.619" end="00:36:18.099" style="s2">typifying it we&#39;re exemplifying it right</p>
+<p begin="00:36:13.420" end="00:36:19.480" style="s2">now when you win and Sperber has a new</p>
+<p begin="00:36:18.099" end="00:36:21.849" style="s2">book that i pretended the co-author is</p>
+<p begin="00:36:19.480" end="00:36:23.410" style="s2">on the Enigma reason and lots of people</p>
+<p begin="00:36:21.849" end="00:36:26.200" style="s2">are not talking about this and something</p>
+<p begin="00:36:23.410" end="00:36:28.660" style="s2">I&#39;m exploring very deeply that we lost</p>
+<p begin="00:36:26.200" end="00:36:30.970" style="s2">something when we moved with Aristotle</p>
+<p begin="00:36:28.660" end="00:36:33.310" style="s2">to the monologue treatise and when we</p>
+<p begin="00:36:30.970" end="00:36:35.020" style="s2">lost something that was when we had what</p>
+<p begin="00:36:33.310" end="00:36:36.490" style="s2">was that was being exemplified in the</p>
+<p begin="00:36:35.020" end="00:36:38.349" style="s2">Platonic dialogues I know you have</p>
+<p begin="00:36:36.490" end="00:36:42.369" style="s2">criticism there is something I want to</p>
+<p begin="00:36:38.349" end="00:36:44.740" style="s2">point here value the idea that like</p>
+<p begin="00:36:42.369" end="00:36:46.810" style="s2">because when we&#39;re in dialogue all of</p>
+<p begin="00:36:44.740" end="00:36:48.760" style="s2">the kinds of knowing are at play right</p>
+<p begin="00:36:46.810" end="00:36:50.230" style="s2">and it&#39;s not just the propositional</p>
+<p begin="00:36:48.760" end="00:36:52.240" style="s2">knowing we&#39;re doing off like you&#39;re</p>
+<p begin="00:36:50.230" end="00:36:54.730" style="s2">nodding and on gesturing and there&#39;s all</p>
+<p begin="00:36:52.240" end="00:36:56.650" style="s2">we&#39;re trying to engage all of the kinds</p>
+<p begin="00:36:54.730" end="00:36:58.240" style="s2">of knowing and as he just said we have</p>
+<p begin="00:36:56.650" end="00:37:00.670" style="s2">multiple perspectives and we can</p>
+<p begin="00:36:58.240" end="00:37:02.410" style="s2">actually you know I think what that</p>
+<p begin="00:37:00.670" end="00:37:04.300" style="s2">means and when when you do some</p>
+<p begin="00:37:02.410" end="00:37:06.190" style="s2">practices like I&#39;ve done like the</p>
+<p begin="00:37:04.300" end="00:37:08.440" style="s2">circling practice or other things like</p>
+<p begin="00:37:06.190" end="00:37:12.280" style="s2">that what you what you get is this</p>
+<p begin="00:37:08.440" end="00:37:16.240" style="s2">tremendous sense of being able to access</p>
+<p begin="00:37:12.280" end="00:37:18.339" style="s2">something a third factor that a place</p>
+<p begin="00:37:16.240" end="00:37:21.099" style="s2">you can&#39;t get to on your own in your own</p>
+<p begin="00:37:18.339" end="00:37:23.230" style="s2">cognition and you get you get this right</p>
+<p begin="00:37:21.099" end="00:37:25.690" style="s2">you get this comprehensive sense Lowline</p>
+<p begin="00:37:23.230" end="00:37:28.450" style="s2">in fact argues and I think pretty</p>
+<p begin="00:37:25.690" end="00:37:31.150" style="s2">convincingly in his book that you know</p>
+<p begin="00:37:28.450" end="00:37:32.830" style="s2">when Plato is using the word Pesta me</p>
+<p begin="00:37:31.150" end="00:37:34.570" style="s2">where we get up and stomach from it</p>
+<p begin="00:37:32.830" end="00:37:36.130" style="s2">should not be translated as knowledge in</p>
+<p begin="00:37:34.570" end="00:37:37.660" style="s2">fact most of the time what Plato is</p>
+<p begin="00:37:36.130" end="00:37:39.760" style="s2">actually talking about is understanding</p>
+<p begin="00:37:37.660" end="00:37:42.910" style="s2">or understanding it means exactly this</p>
+<p begin="00:37:39.760" end="00:37:45.369" style="s2">well you know what kind of dynamic</p>
+<p begin="00:37:42.910" end="00:37:46.869" style="s2">convergence and then restructuring can</p>
+<p begin="00:37:45.369" end="00:37:48.700" style="s2">we get out of these multiple</p>
+<p begin="00:37:46.869" end="00:37:49.330" style="s2">perspectives coming into dialogue with</p>
+<p begin="00:37:48.700" end="00:37:53.590" style="s2">each other</p>
+<p begin="00:37:49.330" end="00:37:56.170" style="s2">so I think I think while I&#39;m making a</p>
+<p begin="00:37:53.590" end="00:37:58.300" style="s2">claim I guess I think well the emergence</p>
+<p begin="00:37:56.170" end="00:38:00.910" style="s2">on the Internet of these dialogical</p>
+<p begin="00:37:58.300" end="00:38:03.760" style="s2">forums like this like rebel wisdom and</p>
+<p begin="00:38:00.910" end="00:38:05.440" style="s2">the increasing sense the the beginning</p>
+<p begin="00:38:03.760" end="00:38:07.270" style="s2">of what I see is a reflective census</p>
+<p begin="00:38:05.440" end="00:38:09.340" style="s2">people keep asking what is it we&#39;re</p>
+<p begin="00:38:07.270" end="00:38:12.520" style="s2">doing here what is it we&#39;re actually</p>
+<p begin="00:38:09.340" end="00:38:13.990" style="s2">doing here I think this is also part of</p>
+<p begin="00:38:12.520" end="00:38:16.090" style="s2">a cultural response to the meaning</p>
+<p begin="00:38:13.990" end="00:38:17.560" style="s2">crisis that we&#39;re starting to do all of</p>
+<p begin="00:38:16.090" end="00:38:19.890" style="s2">this because we&#39;re trying to figure out</p>
+<p begin="00:38:17.560" end="00:38:23.800" style="s2">we&#39;re trying to feel our way back to a</p>
+<p begin="00:38:19.890" end="00:38:26.530" style="s2">biological way of reasoning rather than</p>
+<p begin="00:38:23.800" end="00:38:28.390" style="s2">a monologic way of reasoning and I think</p>
+<p begin="00:38:26.530" end="00:38:32.620" style="s2">this is an important turn and I want to</p>
+<p begin="00:38:28.390" end="00:38:36.220" style="s2">be IIIi want to help as a scientist you</p>
+<p begin="00:38:32.620" end="00:38:38.800" style="s2">know bring theraph ocation to this but</p>
+<p begin="00:38:36.220" end="00:38:41.050" style="s2">also as a practitioner because I also do</p>
+<p begin="00:38:38.800" end="00:38:42.910" style="s2">participant observation I involved is</p>
+<p begin="00:38:41.050" end="00:38:44.950" style="s2">trying to help set up communities also</p>
+<p begin="00:38:42.910" end="00:38:50.650" style="s2">but to try and actually engender and</p>
+<p begin="00:38:44.950" end="00:38:53.250" style="s2">further this process greatly well I look</p>
+<p begin="00:38:50.650" end="00:38:55.810" style="s2">I wouldn&#39;t disagree with any of that I</p>
+<p begin="00:38:53.250" end="00:39:01.330" style="s2">except perhaps a little bit about FST me</p>
+<p begin="00:38:55.810" end="00:39:05.140" style="s2">but I don&#39;t want to get into I think</p>
+<p begin="00:39:01.330" end="00:39:07.660" style="s2">Plato did Socrates a great disservice by</p>
+<p begin="00:39:05.140" end="00:39:08.860" style="s2">writing the dialogues down except of</p>
+<p begin="00:39:07.660" end="00:39:13.210" style="s2">course if you had we wouldn&#39;t know</p>
+<p begin="00:39:08.860" end="00:39:15.430" style="s2">anything about Plato Socrates actually</p>
+<p begin="00:39:13.210" end="00:39:17.890" style="s2">you know didn&#39;t want these things to be</p>
+<p begin="00:39:15.430" end="00:39:22.570" style="s2">done on paper or as it were written at</p>
+<p begin="00:39:17.890" end="00:39:24.430" style="s2">all instead it had to be a live meeting</p>
+<p begin="00:39:22.570" end="00:39:30.190" style="s2">of minds and what and the seventh</p>
+<p begin="00:39:24.430" end="00:39:33.040" style="s2">epistle he talks about this but I think</p>
+<p begin="00:39:30.190" end="00:39:35.350" style="s2">you know there is richness to the the</p>
+<p begin="00:39:33.040" end="00:39:37.750" style="s2">the the the many words that there are in</p>
+<p begin="00:39:35.350" end="00:39:40.210" style="s2">Greek four kinds of knowledge not just</p>
+<p begin="00:39:37.750" end="00:39:42.940" style="s2">epidemia but particularly for aneesa&#39;s</p>
+<p begin="00:39:40.210" end="00:39:45.160" style="s2">which is a much more embodied pragmatic</p>
+<p begin="00:39:42.940" end="00:39:47.440" style="s2">understanding which takes whatever one</p>
+<p begin="00:39:45.160" end="00:39:50.830" style="s2">is intellectualizing about back into the</p>
+<p begin="00:39:47.440" end="00:39:52.960" style="s2">world and of course techne but that</p>
+<p begin="00:39:50.830" end="00:39:56.560" style="s2">sophia wisdom I mean from which we get</p>
+<p begin="00:39:52.960" end="00:40:00.220" style="s2">philosophy was a word that fantastically</p>
+<p begin="00:39:56.560" end="00:40:02.650" style="s2">applied from everything from you know a</p>
+<p begin="00:40:00.220" end="00:40:07.420" style="s2">philosopher down to</p>
+<p begin="00:40:02.650" end="00:40:09.779" style="s2">a ship right so Homer talks about ships</p>
+<p begin="00:40:07.420" end="00:40:14.109" style="s2">being built by the software of the</p>
+<p begin="00:40:09.779" end="00:40:19.059" style="s2">shipbuilding and theocritus talks about</p>
+<p begin="00:40:14.109" end="00:40:21.640" style="s2">a piece of cloth being woven by the</p>
+<p begin="00:40:19.059" end="00:40:23.140" style="s2">Sophia of the Weaver so I really love</p>
+<p begin="00:40:21.640" end="00:40:25.269" style="s2">that because again we&#39;re getting back to</p>
+<p begin="00:40:23.140" end="00:40:28.359" style="s2">this embodied sense of inhabiting the</p>
+<p begin="00:40:25.269" end="00:40:30.819" style="s2">world which is just not what we&#39;re doing</p>
+<p begin="00:40:28.359" end="00:40:34.390" style="s2">very much of the time these days I think</p>
+<p begin="00:40:30.819" end="00:40:35.920" style="s2">so I think so I think I need yeah I I</p>
+<p begin="00:40:34.390" end="00:40:38.859" style="s2">teach a course on the psychology of</p>
+<p begin="00:40:35.920" end="00:40:41.380" style="s2">wisdom and I do work on exactly this</p>
+<p begin="00:40:38.859" end="00:40:44.470" style="s2">kind of stuff and but the relationship</p>
+<p begin="00:40:41.380" end="00:40:47.289" style="s2">between Sophia phronesis also news</p>
+<p begin="00:40:44.470" end="00:40:48.819" style="s2">because news plays it important bridging</p>
+<p begin="00:40:47.289" end="00:40:52.569" style="s2">a troll between them you can see that</p>
+<p begin="00:40:48.819" end="00:40:55.210" style="s2">clearly in Plato and in and especially</p>
+<p begin="00:40:52.569" end="00:41:01.269" style="s2">clearly in Aristotle I would also say</p>
+<p begin="00:40:55.210" end="00:41:02.920" style="s2">that I think we have we have I wouldn&#39;t</p>
+<p begin="00:41:01.269" end="00:41:05.170" style="s2">want I don&#39;t want to dismiss your</p>
+<p begin="00:41:02.920" end="00:41:06.730" style="s2">criticism</p>
+<p begin="00:41:05.170" end="00:41:08.289" style="s2">Plato writing things down I think you&#39;re</p>
+<p begin="00:41:06.730" end="00:41:09.789" style="s2">right and what I want to say is that</p>
+<p begin="00:41:08.289" end="00:41:11.859" style="s2">that criticism of course was made in the</p>
+<p begin="00:41:09.789" end="00:41:13.569" style="s2">ancient world on mantissa knees of</p>
+<p begin="00:41:11.859" end="00:41:15.160" style="s2">course made it and then we get the</p>
+<p begin="00:41:13.569" end="00:41:16.749" style="s2">cynics and the stoic tradition coming</p>
+<p begin="00:41:15.160" end="00:41:18.910" style="s2">out of that and what&#39;s interesting is</p>
+<p begin="00:41:16.749" end="00:41:21.549" style="s2">stoicism especially cynicism is Lois&#39;s</p>
+<p begin="00:41:18.910" end="00:41:23.259" style="s2">and they put much more emphasis i mean</p>
+<p begin="00:41:21.549" end="00:41:24.039" style="s2">effect etus is all about don&#39;t tell me</p>
+<p begin="00:41:23.259" end="00:41:25.450" style="s2">what you&#39;re talking about</p>
+<p begin="00:41:24.039" end="00:41:28.269" style="s2">show me how you&#39;re transforming your</p>
+<p begin="00:41:25.450" end="00:41:29.619" style="s2">life right and so I think one one of the</p>
+<p begin="00:41:28.269" end="00:41:32.230" style="s2">things I want to do in this series is</p>
+<p begin="00:41:29.619" end="00:41:33.910" style="s2">can we take sort of the Platonic</p>
+<p begin="00:41:32.230" end="00:41:36.069" style="s2">dialogues but can we take the stoic</p>
+<p begin="00:41:33.910" end="00:41:37.869" style="s2">practices and stoicism is going through</p>
+<p begin="00:41:36.069" end="00:41:40.029" style="s2">a huge revival right now again not</p>
+<p begin="00:41:37.869" end="00:41:41.829" style="s2">coincidentally and I think we could look</p>
+<p begin="00:41:40.029" end="00:41:44.319" style="s2">then if you know allow me to fund we can</p>
+<p begin="00:41:41.829" end="00:41:45.970" style="s2">put the stoic developments right in the</p>
+<p begin="00:41:44.319" end="00:41:48.910" style="s2">Neoplatonic developments back into</p>
+<p begin="00:41:45.970" end="00:41:51.700" style="s2">dialogue and get back a better sense of</p>
+<p begin="00:41:48.910" end="00:41:53.289" style="s2">what this Socratic practice looked like</p>
+<p begin="00:41:51.700" end="00:41:56.789" style="s2">so that&#39;s part of what I&#39;m actually</p>
+<p begin="00:41:53.289" end="00:41:59.470" style="s2">currently working on well that&#39;s great</p>
+<p begin="00:41:56.789" end="00:42:01.480" style="s2">and you came to me while you were</p>
+<p begin="00:41:59.470" end="00:42:03.519" style="s2">talking that actually we are</p>
+<p begin="00:42:01.480" end="00:42:05.440" style="s2">exemplifying at this moment the</p>
+<p begin="00:42:03.519" end="00:42:09.309" style="s2">possibility of philosophy that isn&#39;t</p>
+<p begin="00:42:05.440" end="00:42:11.279" style="s2">being written down it would be even</p>
+<p begin="00:42:09.309" end="00:42:13.690" style="s2">better if you were in the same room</p>
+<p begin="00:42:11.279" end="00:42:15.130" style="s2">because I think there&#39;s something that</p>
+<p begin="00:42:13.690" end="00:42:16.210" style="s2">happens when you&#39;re together with</p>
+<p begin="00:42:15.130" end="00:42:20.619" style="s2">somebody</p>
+<p begin="00:42:16.210" end="00:42:23.589" style="s2">you know there it is um yeah what I</p>
+<p begin="00:42:20.619" end="00:42:26.640" style="s2">would like to throw into that is that</p>
+<p begin="00:42:23.589" end="00:42:29.349" style="s2">all my life really ever since I first</p>
+<p begin="00:42:26.640" end="00:42:34.390" style="s2">discovered the pre-socratic philosophers</p>
+<p begin="00:42:29.349" end="00:42:36.220" style="s2">hmm I thought the greatest philosophy is</p>
+<p begin="00:42:34.390" end="00:42:39.220" style="s2">in the pre-socratic era</p>
+<p begin="00:42:36.220" end="00:42:43.029" style="s2">and this bloody Plato comes along with</p>
+<p begin="00:42:39.220" end="00:42:45.130" style="s2">this clod-hopping a still naked also</p>
+<p begin="00:42:43.029" end="00:42:47.020" style="s2">predestined and rules out the</p>
+<p begin="00:42:45.130" end="00:42:49.000" style="s2">possibility or seems to certainly</p>
+<p begin="00:42:47.020" end="00:42:51.220" style="s2">Aristotle did that actually a thing at</p>
+<p begin="00:42:49.000" end="00:42:54.640" style="s2">its opposite can equally be true now to</p>
+<p begin="00:42:51.220" end="00:42:56.200" style="s2">me that is the idea that nothing is</p>
+<p begin="00:42:54.640" end="00:42:58.839" style="s2">certain it&#39;s all changing an</p>
+<p begin="00:42:56.200" end="00:43:01.900" style="s2">interconnected and their offices flow</p>
+<p begin="00:42:58.839" end="00:43:06.520" style="s2">together and you know not seeing that is</p>
+<p begin="00:43:01.900" end="00:43:08.440" style="s2">a huge problem for modern culture we</p>
+<p begin="00:43:06.520" end="00:43:10.599" style="s2">need to get back to the pre-socratics</p>
+<p begin="00:43:08.440" end="00:43:13.539" style="s2">not just back to Plato Aristotle and all</p>
+<p begin="00:43:10.599" end="00:43:16.599" style="s2">that because one of the things that in a</p>
+<p begin="00:43:13.539" end="00:43:18.970" style="s2">way we don&#39;t appreciate the dark side of</p>
+<p begin="00:43:16.599" end="00:43:22.270" style="s2">what we do we live in an Enlightenment</p>
+<p begin="00:43:18.970" end="00:43:24.099" style="s2">or post enlightenment culture children</p>
+<p begin="00:43:22.270" end="00:43:28.359" style="s2">of the Enlightenment which believes that</p>
+<p begin="00:43:24.099" end="00:43:29.200" style="s2">everything can be made coherent with</p>
+<p begin="00:43:28.359" end="00:43:32.410" style="s2">everything else</p>
+<p begin="00:43:29.200" end="00:43:35.260" style="s2">it all fits into a nice logical picture</p>
+<p begin="00:43:32.410" end="00:43:38.079" style="s2">it&#39;s what Jung called the shadow or the</p>
+<p begin="00:43:35.260" end="00:43:40.539" style="s2">dark side to everything that appears</p>
+<p begin="00:43:38.079" end="00:43:43.089" style="s2">good there is a price to be paid in</p>
+<p begin="00:43:40.539" end="00:43:45.849" style="s2">something dark and everything that is</p>
+<p begin="00:43:43.089" end="00:43:48.339" style="s2">bad has it&#39;s possible redemption within</p>
+<p begin="00:43:45.849" end="00:43:50.170" style="s2">it and there&#39;s nothing so good that more</p>
+<p begin="00:43:48.339" end="00:43:52.359" style="s2">and more and more of it is just better</p>
+<p begin="00:43:50.170" end="00:43:54.579" style="s2">and nothing so bad that just a little</p>
+<p begin="00:43:52.359" end="00:43:57.549" style="s2">bit of it might help and that perception</p>
+<p begin="00:43:54.579" end="00:43:59.410" style="s2">is only we could just get as far as</p>
+<p begin="00:43:57.549" end="00:44:01.630" style="s2">acknowledging that things are not cut</p>
+<p begin="00:43:59.410" end="00:44:03.880" style="s2">and dried not black and white that there</p>
+<p begin="00:44:01.630" end="00:44:06.400" style="s2">is Obama recently said you know</p>
+<p begin="00:44:03.880" end="00:44:12.430" style="s2">ambiguous well that would really be a</p>
+<p begin="00:44:06.400" end="00:44:13.720" style="s2">very good place to be so um two things</p>
+<p begin="00:44:12.430" end="00:44:16.299" style="s2">about that</p>
+<p begin="00:44:13.720" end="00:44:21.450" style="s2">I&#39;ve been practicing very many Taoist</p>
+<p begin="00:44:16.299" end="00:44:25.180" style="s2">practices now for for 29 years</p>
+<p begin="00:44:21.450" end="00:44:29.460" style="s2">now ISM is very much about that and it&#39;s</p>
+<p begin="00:44:25.180" end="00:44:32.460" style="s2">the dynamic interpenetration ice</p>
+<p begin="00:44:29.460" end="00:44:34.320" style="s2">that I see in in there later</p>
+<p begin="00:44:32.460" end="00:44:36.180" style="s2">especially when neoplatonism integrates</p>
+<p begin="00:44:34.320" end="00:44:38.160" style="s2">with aspects of Christianity in the work</p>
+<p begin="00:44:36.180" end="00:44:40.050" style="s2">of people like Guerra Gina and his</p>
+<p begin="00:44:38.160" end="00:44:42.480" style="s2">notion of dialectic I see something very</p>
+<p begin="00:44:40.050" end="00:44:46.070" style="s2">similar to what you&#39;re talking about and</p>
+<p begin="00:44:42.480" end="00:44:48.030" style="s2">so the fact that he was sort of</p>
+<p begin="00:44:46.070" end="00:44:51.080" style="s2">ostracized and a later declared a</p>
+<p begin="00:44:48.030" end="00:44:54.119" style="s2">heretic shows you that it did not come</p>
+<p begin="00:44:51.080" end="00:44:55.380" style="s2">foregrounded but nevertheless that there</p>
+<p begin="00:44:54.119" end="00:44:57.000" style="s2">there is definite I think there&#39;s</p>
+<p begin="00:44:55.380" end="00:44:59.910" style="s2">definitely elements especially towards</p>
+<p begin="00:44:57.000" end="00:45:01.260" style="s2">the later Neoplatonism where you see</p>
+<p begin="00:44:59.910" end="00:45:04.050" style="s2">something much more like what you&#39;re</p>
+<p begin="00:45:01.260" end="00:45:06.630" style="s2">talking about and that yeah a discussion</p>
+<p begin="00:45:04.050" end="00:45:09.810" style="s2">between that and Taoism has been very</p>
+<p begin="00:45:06.630" end="00:45:12.150" style="s2">possible for me in my life yeah so I&#39;m</p>
+<p begin="00:45:09.810" end="00:45:15.540" style="s2">hoping I&#39;m trying to share that with</p>
+<p begin="00:45:12.150" end="00:45:18.570" style="s2">people at large because I think that</p>
+<p begin="00:45:15.540" end="00:45:21.020" style="s2">kind of pluralistic dialogue is also</p>
+<p begin="00:45:18.570" end="00:45:23.700" style="s2">needed right now</p>
+<p begin="00:45:21.020" end="00:45:26.550" style="s2">so not just bringing multiple individual</p>
+<p begin="00:45:23.700" end="00:45:29.400" style="s2">perspectives into dialogue but bringing</p>
+<p begin="00:45:26.550" end="00:45:31.589" style="s2">multiple cultural perspectives wisdom</p>
+<p begin="00:45:29.400" end="00:45:34.560" style="s2">traditions into deep dialogue with each</p>
+<p begin="00:45:31.589" end="00:45:38.670" style="s2">other I think is also needed fantastic</p>
+<p begin="00:45:34.560" end="00:45:41.880" style="s2">I&#39;ve just been they cost me more in</p>
+<p begin="00:45:38.670" end="00:45:43.950" style="s2">terms of Blood Sweat toil and tears than</p>
+<p begin="00:45:41.880" end="00:45:49.859" style="s2">anything else I&#39;ve ever written and a</p>
+<p begin="00:45:43.950" end="00:45:52.349" style="s2">couple of chapters about the divine when</p>
+<p begin="00:45:49.859" end="00:45:54.510" style="s2">I first when I first met Rowan Williams</p>
+<p begin="00:45:52.349" end="00:45:57.359" style="s2">who you noticed lilo Jian who was our</p>
+<p begin="00:45:54.510" end="00:45:59.670" style="s2">Archbishop of Canterbury and after</p>
+<p begin="00:45:57.359" end="00:46:02.520" style="s2">writing the book you know we met and</p>
+<p begin="00:45:59.670" end="00:46:04.170" style="s2">talked and he said what are you thinking</p>
+<p begin="00:46:02.520" end="00:46:06.180" style="s2">of writing about and I said well if I</p>
+<p begin="00:46:04.170" end="00:46:09.000" style="s2">have enough hubris I&#39;m thinking of</p>
+<p begin="00:46:06.180" end="00:46:14.750" style="s2">writing a short book about God and he</p>
+<p begin="00:46:09.000" end="00:46:14.750" style="s2">looked at me and he just went good luck</p>
+<p begin="00:46:16.339" end="00:46:21.660" style="s2">listen because a man it caused me a lot</p>
+<p begin="00:46:19.320" end="00:46:23.880" style="s2">of grief but in those chapters what I</p>
+<p begin="00:46:21.660" end="00:46:29.490" style="s2">was trying to do was show that there are</p>
+<p begin="00:46:23.880" end="00:46:33.060" style="s2">strands in Taoism and Zen Buddhism in</p>
+<p begin="00:46:29.490" end="00:46:35.609" style="s2">particular but also in Hinduism and in</p>
+<p begin="00:46:33.060" end="00:46:37.440" style="s2">the Western mystical tradition</p>
+<p begin="00:46:35.609" end="00:46:38.390" style="s2">particularly of course Meister Eckhart</p>
+<p begin="00:46:37.440" end="00:46:41.390" style="s2">and</p>
+<p begin="00:46:38.390" end="00:46:44.240" style="s2">irma meister eckhart again condemned as</p>
+<p begin="00:46:41.390" end="00:46:46.400" style="s2">a heretic and only probably got away</p>
+<p begin="00:46:44.240" end="00:46:49.690" style="s2">with it by dying in the nick of time but</p>
+<p begin="00:46:46.400" end="00:46:52.760" style="s2">I mean all these people were</p>
+<p begin="00:46:49.690" end="00:46:54.619" style="s2">exemplifying this kind of knowledge and</p>
+<p begin="00:46:52.760" end="00:46:57.650" style="s2">understanding but I think we&#39;re trying</p>
+<p begin="00:46:54.619" end="00:46:59.900" style="s2">to get towards and it&#39;s so present in</p>
+<p begin="00:46:57.650" end="00:47:05.299" style="s2">modern physics so I have you know</p>
+<p begin="00:46:59.900" end="00:47:07.460" style="s2">curiously I have this band of physicists</p>
+<p begin="00:47:05.299" end="00:47:10.039" style="s2">who read my work and write to me and say</p>
+<p begin="00:47:07.460" end="00:47:12.349" style="s2">this is just exactly on what we are</p>
+<p begin="00:47:10.039" end="00:47:15.200" style="s2">we&#39;re confronting and writing about</p>
+<p begin="00:47:12.349" end="00:47:18.529" style="s2">ourselves so that&#39;s very encouraging to</p>
+<p begin="00:47:15.200" end="00:47:20.119" style="s2">me okay well this is this is thrilling</p>
+<p begin="00:47:18.529" end="00:47:21.440" style="s2">for me first of all I want I don&#39;t know</p>
+<p begin="00:47:20.119" end="00:47:23.990" style="s2">if you read John Spencer&#39;s book the</p>
+<p begin="00:47:21.440" end="00:47:25.640" style="s2">eternal law because he talks about how</p>
+<p begin="00:47:23.990" end="00:47:27.920" style="s2">right at the beginning of the 20th</p>
+<p begin="00:47:25.640" end="00:47:30.230" style="s2">century many of these figures were</p>
+<p begin="00:47:27.920" end="00:47:31.880" style="s2">actually deeply influenced by the</p>
+<p begin="00:47:30.230" end="00:47:34.549" style="s2">Neoplatonic mystical tradition or</p>
+<p begin="00:47:31.880" end="00:47:36.920" style="s2">Vedanta in various ways arm and so he</p>
+<p begin="00:47:34.549" end="00:47:38.809" style="s2">goes through that and shows how very</p>
+<p begin="00:47:36.920" end="00:47:41.150" style="s2">deeply philosophical in the ancient</p>
+<p begin="00:47:38.809" end="00:47:43.309" style="s2">center full of sense of philosophy life</p>
+<p begin="00:47:41.150" end="00:47:46.130" style="s2">transformative wisdom these physicists</p>
+<p begin="00:47:43.309" end="00:47:47.990" style="s2">were deeply embedded in in NASH they</p>
+<p begin="00:47:46.130" end="00:47:50.750" style="s2">were in it but you should also know that</p>
+<p begin="00:47:47.990" end="00:47:52.490" style="s2">I mean the core I think we&#39;re maybe the</p>
+<p begin="00:47:50.750" end="00:47:54.049" style="s2">apex I don&#39;t know the combination I</p>
+<p begin="00:47:52.490" end="00:47:58.609" style="s2">don&#39;t know what the right now is here so</p>
+<p begin="00:47:54.049" end="00:48:01.519" style="s2">I&#39;m but I mean I try to talk about this</p>
+<p begin="00:47:58.609" end="00:48:03.440" style="s2">idea of religio and well what happened</p>
+<p begin="00:48:01.519" end="00:48:05.420" style="s2">what happens when we get an experience</p>
+<p begin="00:48:03.440" end="00:48:07.369" style="s2">of sacredness when that religion becomes</p>
+<p begin="00:48:05.420" end="00:48:10.190" style="s2">something that we regard as sacred and</p>
+<p begin="00:48:07.369" end="00:48:12.680" style="s2">then right and then what is that what is</p>
+<p begin="00:48:10.190" end="00:48:16.069" style="s2">that putting us into relationship with</p>
+<p begin="00:48:12.680" end="00:48:18.470" style="s2">right because you&#39;re correct saying that</p>
+<p begin="00:48:16.069" end="00:48:20.569" style="s2">we grasp it is exactly not what does not</p>
+<p begin="00:48:18.470" end="00:48:23.210" style="s2">happen I&#39;m in mystical experiences I</p>
+<p begin="00:48:20.569" end="00:48:25.099" style="s2">just ran an experiment in my lab where</p>
+<p begin="00:48:23.210" end="00:48:26.599" style="s2">we did a big and Turk survey on people</p>
+<p begin="00:48:25.099" end="00:48:29.240" style="s2">who have that mystical experience and</p>
+<p begin="00:48:26.599" end="00:48:31.220" style="s2">it&#39;s predictive of enhanced meaning in</p>
+<p begin="00:48:29.240" end="00:48:33.740" style="s2">life that&#39;s no surprise to you but it&#39;s</p>
+<p begin="00:48:31.220" end="00:48:35.450" style="s2">empirical evidence right but what&#39;s what</p>
+<p begin="00:48:33.740" end="00:48:37.490" style="s2">you might not know but you probably</p>
+<p begin="00:48:35.450" end="00:48:39.259" style="s2">suspect is what we have evidence it&#39;s</p>
+<p begin="00:48:37.490" end="00:48:41.269" style="s2">not the particular propositions people</p>
+<p begin="00:48:39.259" end="00:48:43.670" style="s2">come out of these experience with it&#39;s</p>
+<p begin="00:48:41.269" end="00:48:46.430" style="s2">the insight it&#39;s the process of</p>
+<p begin="00:48:43.670" end="00:48:48.019" style="s2">transformation right and what happens is</p>
+<p begin="00:48:46.430" end="00:48:49.579" style="s2">they get they get a sentence of the</p>
+<p begin="00:48:48.019" end="00:48:51.259" style="s2">really real and then they get they enter</p>
+<p begin="00:48:49.579" end="00:48:52.430" style="s2">into this aspirational project of trying</p>
+<p begin="00:48:51.259" end="00:48:54.110" style="s2">to conform themselves</p>
+<p begin="00:48:52.430" end="00:48:56.960" style="s2">because if they want to stay in touch</p>
+<p begin="00:48:54.110" end="00:48:58.880" style="s2">with their really real and that what&#39;s</p>
+<p begin="00:48:56.960" end="00:49:00.950" style="s2">going on there I&#39;ve been doing a lot of</p>
+<p begin="00:48:58.880" end="00:49:03.230" style="s2">work on that and what&#39;s what&#39;s really</p>
+<p begin="00:49:00.950" end="00:49:05.360" style="s2">interesting is that has led me into a</p>
+<p begin="00:49:03.230" end="00:49:07.430" style="s2">lot of these kinds of discussions yet</p>
+<p begin="00:49:05.360" end="00:49:10.250" style="s2">with people that are coming out of the</p>
+<p begin="00:49:07.430" end="00:49:12.410" style="s2">Christian tradition and right and so and</p>
+<p begin="00:49:10.250" end="00:49:14.330" style="s2">so there&#39;s been this long discussion</p>
+<p begin="00:49:12.410" end="00:49:16.790" style="s2">we&#39;ve been having very fruitful mutually</p>
+<p begin="00:49:14.330" end="00:49:19.190" style="s2">a respectful genuine Socratic dialogue</p>
+<p begin="00:49:16.790" end="00:49:21.380" style="s2">in my mind about sort of theism and</p>
+<p begin="00:49:19.190" end="00:49:23.480" style="s2">non-theism and getting into a deeper</p>
+<p begin="00:49:21.380" end="00:49:25.310" style="s2">discussion about that and I&#39;ve been</p>
+<p begin="00:49:23.480" end="00:49:27.260" style="s2">trying to present non-theism as</p>
+<p begin="00:49:25.310" end="00:49:29.720" style="s2">something that&#39;s trying to break the</p>
+<p begin="00:49:27.260" end="00:49:32.090" style="s2">stranglehold the shared presuppositions</p>
+<p begin="00:49:29.720" end="00:49:33.710" style="s2">are both a sea of them and theism that</p>
+<p begin="00:49:32.090" end="00:49:36.260" style="s2">it&#39;s about belief that it&#39;s about a</p>
+<p begin="00:49:33.710" end="00:49:38.600" style="s2">supreme being right that we right and</p>
+<p begin="00:49:36.260" end="00:49:40.940" style="s2">all this and that that framing that</p>
+<p begin="00:49:38.600" end="00:49:42.890" style="s2">locks us into the debate is actually the</p>
+<p begin="00:49:40.940" end="00:49:44.680" style="s2">deeper problem and trying to get one</p>
+<p begin="00:49:42.890" end="00:49:47.060" style="s2">side to win over the other is actually</p>
+<p begin="00:49:44.680" end="00:49:50.360" style="s2">contributing to the meeting crisis</p>
+<p begin="00:49:47.060" end="00:49:52.790" style="s2">rather than resolving it well absolutely</p>
+<p begin="00:49:50.360" end="00:49:56.930" style="s2">and I would say you know the big divide</p>
+<p begin="00:49:52.790" end="00:49:59.830" style="s2">is not actually between sort of</p>
+<p begin="00:49:56.930" end="00:50:04.940" style="s2">believers and atheists but between</p>
+<p begin="00:49:59.830" end="00:50:08.000" style="s2">dogmatic fundamentalist believers with</p>
+<p begin="00:50:04.940" end="00:50:10.220" style="s2">their toads and their I&#39;m right and all</p>
+<p begin="00:50:08.000" end="00:50:11.810" style="s2">the rest and those who have a genuine</p>
+<p begin="00:50:10.220" end="00:50:13.910" style="s2">openness because if you have that</p>
+<p begin="00:50:11.810" end="00:50:16.340" style="s2">genuine openness you can&#39;t be dogmatic</p>
+<p begin="00:50:13.910" end="00:50:18.170" style="s2">because the more you understand the more</p>
+<p begin="00:50:16.340" end="00:50:20.210" style="s2">you understand what you don&#39;t understand</p>
+<p begin="00:50:18.170" end="00:50:27.110" style="s2">you know it&#39;s it&#39;s the whole thing of</p>
+<p begin="00:50:20.210" end="00:50:33.860" style="s2">Nicolas accuser day dog take knowledge</p>
+<p begin="00:50:27.110" end="00:50:37.040" style="s2">less you know and I didn&#39;t it was just a</p>
+<p begin="00:50:33.860" end="00:50:39.380" style="s2">spasm of agreement I just said you made</p>
+<p begin="00:50:37.040" end="00:50:41.330" style="s2">no less but Nicolas of Cuza emphasizes</p>
+<p begin="00:50:39.380" end="00:50:43.610" style="s2">you get connected more you come into</p>
+<p begin="00:50:41.330" end="00:50:45.680" style="s2">greater conformity with God even though</p>
+<p begin="00:50:43.610" end="00:50:50.330" style="s2">you&#39;re knowing less I just I didn&#39;t I</p>
+<p begin="00:50:45.680" end="00:50:52.280" style="s2">just wanted to say that right learned</p>
+<p begin="00:50:50.330" end="00:50:55.720" style="s2">ignorance can strike people the wrong</p>
+<p begin="00:50:52.280" end="00:50:55.720" style="s2">way they can hear it the wrong way I</p>
+<p begin="00:50:56.560" end="00:51:02.990" style="s2">know but you make a very good point</p>
+<p begin="00:50:58.430" end="00:51:05.410" style="s2">which is there is there is knowing there</p>
+<p begin="00:51:02.990" end="00:51:07.300" style="s2">is not knowing</p>
+<p begin="00:51:05.410" end="00:51:10.000" style="s2">then there&#39;s a kind of Unknowing that is</p>
+<p begin="00:51:07.300" end="00:51:13.420" style="s2">the great achievement afterwards which</p>
+<p begin="00:51:10.000" end="00:51:16.560" style="s2">guns is like ignorant in the first</p>
+<p begin="00:51:13.420" end="00:51:19.080" style="s2">instance and it&#39;s the same thing as</p>
+<p begin="00:51:16.560" end="00:51:21.850" style="s2">innocence you know a child is innocent</p>
+<p begin="00:51:19.080" end="00:51:23.980" style="s2">we lose our innocence but a saint</p>
+<p begin="00:51:21.850" end="00:51:26.170" style="s2">regains our kind of innocence the far</p>
+<p begin="00:51:23.980" end="00:51:31.360" style="s2">side of experience so I would say it&#39;s</p>
+<p begin="00:51:26.170" end="00:51:33.160" style="s2">on the far side of that and that in fact</p>
+<p begin="00:51:31.360" end="00:51:35.020" style="s2">when you were talking about rationality</p>
+<p begin="00:51:33.160" end="00:51:37.300" style="s2">and people worrying about things being</p>
+<p begin="00:51:35.020" end="00:51:39.040" style="s2">irrational you know I was just thinking</p>
+<p begin="00:51:37.300" end="00:51:42.460" style="s2">about a very simple point but we need to</p>
+<p begin="00:51:39.040" end="00:51:44.920" style="s2">in state a word super irrational which</p>
+<p begin="00:51:42.460" end="00:51:47.440" style="s2">is that it&#39;s not irrational it&#39;s not you</p>
+<p begin="00:51:44.920" end="00:51:49.450" style="s2">know just knowing what&#39;s rational and</p>
+<p begin="00:51:47.440" end="00:51:51.390" style="s2">going against it for the sake of it or</p>
+<p begin="00:51:49.450" end="00:51:54.070" style="s2">because you can&#39;t see that but it&#39;s</p>
+<p begin="00:51:51.390" end="00:51:56.620" style="s2">acknowledging that something lies in a</p>
+<p begin="00:51:54.070" end="00:51:58.570" style="s2">realm which reason simply cannot reach</p>
+<p begin="00:51:56.620" end="00:51:59.140" style="s2">they can get so far and then it can&#39;t go</p>
+<p begin="00:51:58.570" end="00:52:01.780" style="s2">any further</p>
+<p begin="00:51:59.140" end="00:52:03.940" style="s2">so to have that knowledge is really</p>
+<p begin="00:52:01.780" end="00:52:08.400" style="s2">important and what I just wanted to add</p>
+<p begin="00:52:03.940" end="00:52:12.310" style="s2">is because I didn&#39;t mention this but the</p>
+<p begin="00:52:08.400" end="00:52:14.140" style="s2">the Kabbalah the the Jewish Kabbalah is</p>
+<p begin="00:52:12.310" end="00:52:17.320" style="s2">something that has transformed my life</p>
+<p begin="00:52:14.140" end="00:52:22.150" style="s2">in the last few years and of course not</p>
+<p begin="00:52:17.320" end="00:52:25.120" style="s2">Jewish by you know by origin but I got</p>
+<p begin="00:52:22.150" end="00:52:28.330" style="s2">to know about it and it has rung so many</p>
+<p begin="00:52:25.120" end="00:52:29.890" style="s2">bells with what I believe I&#39;ve seen in</p>
+<p begin="00:52:28.330" end="00:52:31.210" style="s2">the neuro psychology literature about</p>
+<p begin="00:52:29.890" end="00:52:34.120" style="s2">the relationship between the hemispheres</p>
+<p begin="00:52:31.210" end="00:52:37.240" style="s2">I won&#39;t go into all that now you know</p>
+<p begin="00:52:34.120" end="00:52:39.880" style="s2">I&#39;ve written about that&#39;s I think that&#39;s</p>
+<p begin="00:52:37.240" end="00:52:41.740" style="s2">fantastic I mean you do know I&#39;m sure</p>
+<p begin="00:52:39.880" end="00:52:43.450" style="s2">that there&#39;s deep historical confluences</p>
+<p begin="00:52:41.740" end="00:52:45.370" style="s2">between the Neoplatonic tradition and</p>
+<p begin="00:52:43.450" end="00:52:47.740" style="s2">Kabbalah I mean verse Lewis talks about</p>
+<p begin="00:52:45.370" end="00:52:49.420" style="s2">a great length and I was going to point</p>
+<p begin="00:52:47.740" end="00:52:50.890" style="s2">to that term that I invoked earlier</p>
+<p begin="00:52:49.420" end="00:52:53.230" style="s2">because in the neo platonic tradition</p>
+<p begin="00:52:50.890" end="00:52:56.370" style="s2">you eventually get you know to noose and</p>
+<p begin="00:52:53.230" end="00:52:59.110" style="s2">then which is the on discursive</p>
+<p begin="00:52:56.370" end="00:53:01.990" style="s2">influential reasoning which is which is</p>
+<p begin="00:52:59.110" end="00:53:03.960" style="s2">a state of increasing conformity to the</p>
+<p begin="00:53:01.990" end="00:53:06.370" style="s2">real which isn&#39;t the same thing as</p>
+<p begin="00:53:03.960" end="00:53:08.500" style="s2">asserting propositions about the real</p>
+<p begin="00:53:06.370" end="00:53:12.270" style="s2">and then of course you know no right</p>
+<p begin="00:53:08.500" end="00:53:12.270" style="s2">right it&#39;s the okay yes exactly</p>
+<p begin="00:53:12.400" end="00:53:18.730" style="s2">the origin of no is it noticed in right</p>
+<p begin="00:53:15.450" end="00:53:19.210" style="s2">that&#39;s it you see it used in Homer Noah</p>
+<p begin="00:53:18.730" end="00:53:21.609" style="s2">system</p>
+<p begin="00:53:19.210" end="00:53:23.920" style="s2">sort of noticing getting that sense of</p>
+<p begin="00:53:21.609" end="00:53:25.960" style="s2">what salient er it&#39;s zero in my terms</p>
+<p begin="00:53:23.920" end="00:53:27.550" style="s2">its zeroing in on what&#39;s relevant so</p>
+<p begin="00:53:25.960" end="00:53:29.440" style="s2">that you&#39;re coupled to it appropriately</p>
+<p begin="00:53:27.550" end="00:53:31.210" style="s2">so that you can engage in the relevant</p>
+<p begin="00:53:29.440" end="00:53:33.190" style="s2">action behavior and so it&#39;s all about</p>
+<p begin="00:53:31.210" end="00:53:34.960" style="s2">this coupling and this this there&#39;s</p>
+<p begin="00:53:33.190" end="00:53:37.150" style="s2">participatory knowing this mutual</p>
+<p begin="00:53:34.960" end="00:53:39.550" style="s2">shaping and conformity and the rhesus I</p>
+<p begin="00:53:37.150" end="00:53:40.810" style="s2">think is the perspective of realization</p>
+<p begin="00:53:39.550" end="00:53:43.030" style="s2">and I mean both senses of the word</p>
+<p begin="00:53:40.810" end="00:53:45.190" style="s2">realization coming to awareness and</p>
+<p begin="00:53:43.030" end="00:53:48.880" style="s2">actualize in reality that&#39;s what I think</p>
+<p begin="00:53:45.190" end="00:53:50.500" style="s2">no rhesus is pointing to and I think the</p>
+<p begin="00:53:48.880" end="00:53:52.900" style="s2">Neoplatonic tradition I think that a big</p>
+<p begin="00:53:50.500" end="00:53:55.869" style="s2">corrective to the earlier Plato by</p>
+<p begin="00:53:52.900" end="00:53:57.910" style="s2">bringing no no II sis and news into</p>
+<p begin="00:53:55.869" end="00:53:59.710" style="s2">prominence in talking about how you</p>
+<p begin="00:53:57.910" end="00:54:02.349" style="s2">actually elite how you actually</p>
+<p begin="00:53:59.710" end="00:54:04.300" style="s2">cultivate wisdom and how you alleviate</p>
+<p begin="00:54:02.349" end="00:54:06.400" style="s2">the senses of separation and</p>
+<p begin="00:54:04.300" end="00:54:07.630" style="s2">disconnection because they really am I</p>
+<p begin="00:54:06.400" end="00:54:09.099" style="s2">have criticisms of the Neoplatonic</p>
+<p begin="00:54:07.630" end="00:54:10.869" style="s2">tradition I&#39;m not trying to valorize</p>
+<p begin="00:54:09.099" end="00:54:13.119" style="s2">them unconditionally but the way they</p>
+<p begin="00:54:10.869" end="00:54:15.040" style="s2">point towards news and the way they</p>
+<p begin="00:54:13.119" end="00:54:17.260" style="s2">point to the issue of separation and</p>
+<p begin="00:54:15.040" end="00:54:18.910" style="s2">disconnection being the source of our</p>
+<p begin="00:54:17.260" end="00:54:21.670" style="s2">existential suffering I think these were</p>
+<p begin="00:54:18.910" end="00:54:25.060" style="s2">deep correctives deep correction yeah I</p>
+<p begin="00:54:21.670" end="00:54:25.450" style="s2">mean having said that I&#39;m sure you</p>
+<p begin="00:54:25.060" end="00:54:27.339" style="s2">wouldn&#39;t</p>
+<p begin="00:54:25.450" end="00:54:31.119" style="s2">well I don&#39;t know whether you would</p>
+<p begin="00:54:27.339" end="00:54:34.119" style="s2">think I&#39;m wrong or not but what I think</p>
+<p begin="00:54:31.119" end="00:54:35.410" style="s2">is so important is not to throw away the</p>
+<p begin="00:54:34.119" end="00:54:40.119" style="s2">baby with the bathwater there&#39;s a</p>
+<p begin="00:54:35.410" end="00:54:42.190" style="s2">tendency for one polarity of everything</p>
+<p begin="00:54:40.119" end="00:54:47.950" style="s2">is one you know when people say all is</p>
+<p begin="00:54:42.190" end="00:54:54.790" style="s2">one and they&#39;re very profound all is two</p>
+<p begin="00:54:47.950" end="00:54:58.630" style="s2">now all is many so the needs to be the</p>
+<p begin="00:54:54.790" end="00:55:01.690" style="s2">union of Union and device not just Union</p>
+<p begin="00:54:58.630" end="00:55:03.220" style="s2">or division and so but in any case</p>
+<p begin="00:55:01.690" end="00:55:06.040" style="s2">whatever to come back to there&#39;s</p>
+<p begin="00:55:03.220" end="00:55:08.140" style="s2">noticing I love the thing about noticing</p>
+<p begin="00:55:06.040" end="00:55:10.089" style="s2">and because it&#39;s something we don&#39;t do</p>
+<p begin="00:55:08.140" end="00:55:12.460" style="s2">much of nowadays partly because we&#39;re</p>
+<p begin="00:55:10.089" end="00:55:14.650" style="s2">living so much in the head we&#39;re in so</p>
+<p begin="00:55:12.460" end="00:55:17.500" style="s2">much of a hurry and we don&#39;t stop and</p>
+<p begin="00:55:14.650" end="00:55:20.920" style="s2">stare enough but when you do and train</p>
+<p begin="00:55:17.500" end="00:55:23.530" style="s2">yourself to see things you notice so</p>
+<p begin="00:55:20.920" end="00:55:25.000" style="s2">much more and you start to feel the</p>
+<p begin="00:55:23.530" end="00:55:29.670" style="s2">relationship with what it is you&#39;re</p>
+<p begin="00:55:25.000" end="00:55:32.980" style="s2">noticing now I have a strong belief that</p>
+<p begin="00:55:29.670" end="00:55:36.010" style="s2">it&#39;s not that reality is</p>
+<p begin="00:55:32.980" end="00:55:39.240" style="s2">made up by us but it&#39;s not that reality</p>
+<p begin="00:55:36.010" end="00:55:44.760" style="s2">just independently exists from us we</p>
+<p begin="00:55:39.240" end="00:55:47.440" style="s2">midwife reality into being our</p>
+<p begin="00:55:44.760" end="00:55:49.150" style="s2">consciousness which is never completely</p>
+<p begin="00:55:47.440" end="00:55:53.380" style="s2">separate from the consciousness of what</p>
+<p begin="00:55:49.150" end="00:55:55.780" style="s2">we&#39;re looking at brings out an aspect of</p>
+<p begin="00:55:53.380" end="00:55:59.410" style="s2">something and so we are actually not</p>
+<p begin="00:55:55.780" end="00:56:01.930" style="s2">just passive observers or recipients in</p>
+<p begin="00:55:59.410" end="00:56:05.230" style="s2">the cosmos we are actors in the cosmos</p>
+<p begin="00:56:01.930" end="00:56:07.330" style="s2">in bringing the cosmos into being I want</p>
+<p begin="00:56:05.230" end="00:56:08.890" style="s2">to respond to that very deeply first of</p>
+<p begin="00:56:07.330" end="00:56:10.359" style="s2">all I agree I think part of the</p>
+<p begin="00:56:08.890" end="00:56:13.720" style="s2">straightjacket I try to get out of the</p>
+<p begin="00:56:10.359" end="00:56:15.790" style="s2">series it&#39;s the the you know the locking</p>
+<p begin="00:56:13.720" end="00:56:18.550" style="s2">empiricism that the mind is tabula rasa</p>
+<p begin="00:56:15.790" end="00:56:20.859" style="s2">and the Rousseau Ian romanticism that</p>
+<p begin="00:56:18.550" end="00:56:23.440" style="s2">the world is applying a blank canvas</p>
+<p begin="00:56:20.859" end="00:56:26.230" style="s2">upon which we create our subjectivity I</p>
+<p begin="00:56:23.440" end="00:56:28.119" style="s2">think those are both wrong and so that&#39;s</p>
+<p begin="00:56:26.230" end="00:56:30.220" style="s2">why I&#39;ve coined this phrase transgenic</p>
+<p begin="00:56:28.119" end="00:56:32.950" style="s2">tivity about trying to break out of the</p>
+<p begin="00:56:30.220" end="00:56:34.390" style="s2">subjectivity objectivity a polarization</p>
+<p begin="00:56:32.950" end="00:56:39.850" style="s2">of our epistemology so I think that&#39;s a</p>
+<p begin="00:56:34.390" end="00:56:45.520" style="s2">deep mistake and so I think that noticed</p>
+<p begin="00:56:39.850" end="00:56:47.680" style="s2">that that idea so this will sound like a</p>
+<p begin="00:56:45.520" end="00:56:50.500" style="s2">slight digression but one of my friends</p>
+<p begin="00:56:47.680" end="00:56:52.420" style="s2">and colleagues mark Lewis he&#39;s doing</p>
+<p begin="00:56:50.500" end="00:56:54.490" style="s2">some of the premiere work on addiction</p>
+<p begin="00:56:52.420" end="00:56:55.840" style="s2">right now and he&#39;s trying to replace the</p>
+<p begin="00:56:54.490" end="00:56:57.940" style="s2">disease model of addiction which does</p>
+<p begin="00:56:55.840" end="00:56:59.740" style="s2">not is not well supported by a lot of</p>
+<p begin="00:56:57.940" end="00:57:01.810" style="s2">data it&#39;s well funded by governments but</p>
+<p begin="00:56:59.740" end="00:57:04.630" style="s2">it&#39;s not well supported by data with a</p>
+<p begin="00:57:01.810" end="00:57:06.010" style="s2">learning model um and he calls it</p>
+<p begin="00:57:04.630" end="00:57:07.540" style="s2">reciprocal narrowing so it goes like</p>
+<p begin="00:57:06.010" end="00:57:09.880" style="s2">this let&#39;s say I get slightly drunk I</p>
+<p begin="00:57:07.540" end="00:57:11.920" style="s2">lose some cognitive flexibility and so I</p>
+<p begin="00:57:09.880" end="00:57:14.260" style="s2">can&#39;t notice as many options in the</p>
+<p begin="00:57:11.920" end="00:57:16.570" style="s2">world so the world starts to narrow a</p>
+<p begin="00:57:14.260" end="00:57:18.220" style="s2">bit I then internalize this which then</p>
+<p begin="00:57:16.570" end="00:57:21.340" style="s2">narrows and you get this reciprocal</p>
+<p begin="00:57:18.220" end="00:57:23.470" style="s2">narrowing until you can&#39;t notice - any</p>
+<p begin="00:57:21.340" end="00:57:25.090" style="s2">alternatives and you can&#39;t notice any</p>
+<p begin="00:57:23.470" end="00:57:26.890" style="s2">way in which you could be other than you</p>
+<p begin="00:57:25.090" end="00:57:29.770" style="s2">are and then you&#39;re the addict you&#39;re</p>
+<p begin="00:57:26.890" end="00:57:32.230" style="s2">trapped right and I think that&#39;s all</p>
+<p begin="00:57:29.770" end="00:57:34.390" style="s2">right um I think that&#39;s in fact I think</p>
+<p begin="00:57:32.230" end="00:57:36.130" style="s2">it&#39;s a brilliant account of addiction it</p>
+<p begin="00:57:34.390" end="00:57:39.010" style="s2">it supports much more of the empirical</p>
+<p begin="00:57:36.130" end="00:57:40.780" style="s2">data when I had life&#39;s with Mark I said</p>
+<p begin="00:57:39.010" end="00:57:42.460" style="s2">to him and that&#39;s why I brought in the</p>
+<p begin="00:57:40.780" end="00:57:44.740" style="s2">niels photonic tradition I said but mark</p>
+<p begin="00:57:42.460" end="00:57:46.630" style="s2">if there&#39;s reciprocal narrowing there</p>
+<p begin="00:57:44.740" end="00:57:49.930" style="s2">must be reciprocal opening</p>
+<p begin="00:57:46.630" end="00:57:51.999" style="s2">and he went you&#39;re right and I said that</p>
+<p begin="00:57:49.930" end="00:57:54.160" style="s2">you know and I think this is you know</p>
+<p begin="00:57:51.999" end="00:57:55.720" style="s2">the the whole idea of the anagen that</p>
+<p begin="00:57:54.160" end="00:57:57.249" style="s2">what we can do is we can put ourselves</p>
+<p begin="00:57:55.720" end="00:57:59.559" style="s2">into that and you call that that</p>
+<p begin="00:57:57.249" end="00:58:02.710" style="s2">openness in which right and I think this</p>
+<p begin="00:57:59.559" end="00:58:04.059" style="s2">is part of what what I see godsend stock</p>
+<p begin="00:58:02.710" end="00:58:06.940" style="s2">was circling how he&#39;s trying to enact</p>
+<p begin="00:58:04.059" end="00:58:09.940" style="s2">hiding area Heidegger&#39;s Alafaya right is</p>
+<p begin="00:58:06.940" end="00:58:11.650" style="s2">this reciprocal opening right and so and</p>
+<p begin="00:58:09.940" end="00:58:12.999" style="s2">and and and the work by Aaron and other</p>
+<p begin="00:58:11.650" end="00:58:15.279" style="s2">shows that&#39;s how you fall in love with</p>
+<p begin="00:58:12.999" end="00:58:17.229" style="s2">something like if you disclose something</p>
+<p begin="00:58:15.279" end="00:58:19.630" style="s2">and then I disclose and you do that</p>
+<p begin="00:58:17.229" end="00:58:21.549" style="s2">reciprocal opening where I open up what</p>
+<p begin="00:58:19.630" end="00:58:23.229" style="s2">I can be for you and that leads you to</p>
+<p begin="00:58:21.549" end="00:58:25.420" style="s2">open up what you can be for me and then</p>
+<p begin="00:58:23.229" end="00:58:28.690" style="s2">we reciprocally open we fall in love</p>
+<p begin="00:58:25.420" end="00:58:30.999" style="s2">with each other and so right and that</p>
+<p begin="00:58:28.690" end="00:58:34.089" style="s2">that I think that an agar get processed</p>
+<p begin="00:58:30.999" end="00:58:36.489" style="s2">right that reciprocal opening and you</p>
+<p begin="00:58:34.089" end="00:58:39.009" style="s2">can see it in flow States and right</p>
+<p begin="00:58:36.489" end="00:58:41.829" style="s2">that&#39;s that that that&#39;s one way of</p>
+<p begin="00:58:39.009" end="00:58:44.259" style="s2">trying to get this notion of noticing</p>
+<p begin="00:58:41.829" end="00:58:47.380" style="s2">and dialogue the biological relationship</p>
+<p begin="00:58:44.259" end="00:58:52.029" style="s2">into you know we can connect it with</p>
+<p begin="00:58:47.380" end="00:58:54.549" style="s2">practices or engage in and so I it leads</p>
+<p begin="00:58:52.029" end="00:58:56.259" style="s2">me to I mean I hesitate to say this</p>
+<p begin="00:58:54.549" end="00:58:59.890" style="s2">because it sounds like a Hallmark card</p>
+<p begin="00:58:56.259" end="00:59:03.700" style="s2">but I mean I see part of the project you</p>
+<p begin="00:58:59.890" end="00:59:05.950" style="s2">know of reuniting rationality in this</p>
+<p begin="00:59:03.700" end="00:59:08.410" style="s2">way with love so that we learned to fall</p>
+<p begin="00:59:05.950" end="00:59:12.249" style="s2">in love with reality again in a deep and</p>
+<p begin="00:59:08.410" end="00:59:15.190" style="s2">profound way that&#39;s fantastic and you</p>
+<p begin="00:59:12.249" end="00:59:18.339" style="s2">may know that or not that I have a</p>
+<p begin="00:59:15.190" end="00:59:22.539" style="s2">particular affection for the philosophy</p>
+<p begin="00:59:18.339" end="00:59:26.950" style="s2">of max Scheler you know who not much red</p>
+<p begin="00:59:22.539" end="00:59:32.859" style="s2">in the Anglo world where them and he</p>
+<p begin="00:59:26.950" end="00:59:36.460" style="s2">called humans human beings ends a man&#39;s</p>
+<p begin="00:59:32.859" end="00:59:38.380" style="s2">the being that loves and this is the bit</p>
+<p begin="00:59:36.460" end="00:59:41.200" style="s2">that was left out of Heidegger he was a</p>
+<p begin="00:59:38.380" end="00:59:43.719" style="s2">younger contemporary of hiding it hiding</p>
+<p begin="00:59:41.200" end="00:59:47.440" style="s2">a thought that Shayla was the most</p>
+<p begin="00:59:43.719" end="00:59:49.809" style="s2">important philosopher of the age as he</p>
+<p begin="00:59:47.440" end="00:59:52.420" style="s2">said at Sheila&#39;s funeral when when he</p>
+<p begin="00:59:49.809" end="00:59:55.599" style="s2">gave the iteration but the idea in</p>
+<p begin="00:59:52.420" end="00:59:58.289" style="s2">Shaler is not the love arises out of</p>
+<p begin="00:59:55.599" end="00:59:59.710" style="s2">acquiring knowledge but the knowledge</p>
+<p begin="00:59:58.289" end="01:00:02.770" style="s2">arises</p>
+<p begin="00:59:59.710" end="01:00:07.330" style="s2">disposition of love yeah you need that</p>
+<p begin="01:00:02.770" end="01:00:08.950" style="s2">it were to be open to something before</p>
+<p begin="01:00:07.330" end="01:00:12.940" style="s2">you can actually understand it if you</p>
+<p begin="01:00:08.950" end="01:00:15.339" style="s2">wait to know enough to open then you&#39;ve</p>
+<p begin="01:00:12.940" end="01:00:18.400" style="s2">missed it and I think this is an idea</p>
+<p begin="01:00:15.339" end="01:00:21.160" style="s2">also in Pascal so it&#39;s not so mad and</p>
+<p begin="01:00:18.400" end="01:00:24.690" style="s2">it&#39;s also in Goethe so all of these</p>
+<p begin="01:00:21.160" end="01:00:28.089" style="s2">people saw that somehow our knowledge</p>
+<p begin="01:00:24.690" end="01:00:31.180" style="s2">depends on a on a loop of reciprocation</p>
+<p begin="01:00:28.089" end="01:00:34.119" style="s2">we&#39;re the kind of disposition towards</p>
+<p begin="01:00:31.180" end="01:00:36.130" style="s2">the world not a blind the opposition in</p>
+<p begin="01:00:34.119" end="01:00:38.410" style="s2">fact a very seeing one that is open</p>
+<p begin="01:00:36.130" end="01:00:41.320" style="s2">enough and you always have to take a</p>
+<p begin="01:00:38.410" end="01:00:43.780" style="s2">risk and that risk is that as you do in</p>
+<p begin="01:00:41.320" end="01:00:45.910" style="s2">love that it may be rejected and you may</p>
+<p begin="01:00:43.780" end="01:00:48.070" style="s2">be very hurt but nothing is achieved</p>
+<p begin="01:00:45.910" end="01:00:50.830" style="s2">without making a risk and the trouble</p>
+<p begin="01:00:48.070" end="01:00:53.050" style="s2">with the models we have by which we lead</p>
+<p begin="01:00:50.830" end="01:00:54.940" style="s2">our lives including our business lives</p>
+<p begin="01:00:53.050" end="01:00:57.430" style="s2">or socialites our intellectual lives is</p>
+<p begin="01:00:54.940" end="01:01:00.220" style="s2">that we can have a risk-free existence I</p>
+<p begin="01:00:57.430" end="01:01:01.780" style="s2">mean that&#39;s the fantasy and that every</p>
+<p begin="01:01:00.220" end="01:01:03.790" style="s2">kind of danger and risk should be</p>
+<p begin="01:01:01.780" end="01:01:05.740" style="s2">annihilated but we don&#39;t have near</p>
+<p begin="01:01:03.790" end="01:01:07.660" style="s2">enough danger and risk in our lives if</p>
+<p begin="01:01:05.740" end="01:01:10.570" style="s2">it was more we&#39;d start to live properly</p>
+<p begin="01:01:07.660" end="01:01:12.460" style="s2">and and you see this in cultures and</p>
+<p begin="01:01:10.570" end="01:01:16.119" style="s2">people who have actually had to face</p>
+<p begin="01:01:12.460" end="01:01:18.849" style="s2">real risks and dangers what happens in</p>
+<p begin="01:01:16.119" end="01:01:20.440" style="s2">our culture is because a lot of people</p>
+<p begin="01:01:18.849" end="01:01:23.380" style="s2">really don&#39;t have any experience of it</p>
+<p begin="01:01:20.440" end="01:01:26.320" style="s2">we invent all kinds of risks and dangers</p>
+<p begin="01:01:23.380" end="01:01:29.109" style="s2">to which we are vulnerable from which we</p>
+<p begin="01:01:26.320" end="01:01:31.869" style="s2">must be protected this is a very bad way</p>
+<p begin="01:01:29.109" end="01:01:33.400" style="s2">to approach life yes I agree with that</p>
+<p begin="01:01:31.869" end="01:01:35.050" style="s2">very deeply I think our culture is</p>
+<p begin="01:01:33.400" end="01:01:37.680" style="s2">pursuing security at the expense of</p>
+<p begin="01:01:35.050" end="01:01:39.580" style="s2">Sophia in some pretty pleasant evening</p>
+<p begin="01:01:37.680" end="01:01:41.680" style="s2">when you were talking about that</p>
+<p begin="01:01:39.580" end="01:01:43.839" style="s2">reciprocal thing and it made me think in</p>
+<p begin="01:01:41.680" end="01:01:45.430" style="s2">your of the book the distinction you</p>
+<p begin="01:01:43.839" end="01:01:47.890" style="s2">make from between presencing and</p>
+<p begin="01:01:45.430" end="01:01:50.050" style="s2">representing because presence is kind of</p>
+<p begin="01:01:47.890" end="01:01:52.150" style="s2">knowing in which I am opening I&#39;m</p>
+<p begin="01:01:50.050" end="01:01:55.510" style="s2">opening up to your presence as opposed</p>
+<p begin="01:01:52.150" end="01:01:56.920" style="s2">to forming a representation of you then</p>
+<p begin="01:01:55.510" end="01:01:58.330" style="s2">that&#39;s what I meant about the</p>
+<p begin="01:01:56.920" end="01:02:00.700" style="s2">perspective of knowing is governed by</p>
+<p begin="01:01:58.330" end="01:02:03.490" style="s2">normativity of presence as opposed to a</p>
+<p begin="01:02:00.700" end="01:02:06.760" style="s2">normativity of conviction so when I get</p>
+<p begin="01:02:03.490" end="01:02:08.530" style="s2">that you can see that actually you know</p>
+<p begin="01:02:06.760" end="01:02:10.000" style="s2">if all things you know probably</p>
+<p begin="01:02:08.530" end="01:02:11.890" style="s2">scientists we have to look for</p>
+<p begin="01:02:10.000" end="01:02:13.480" style="s2">interesting case studies but we aware</p>
+<p begin="01:02:11.890" end="01:02:15.850" style="s2">you see but in VR for</p>
+<p begin="01:02:13.480" end="01:02:17.950" style="s2">reality what people are actually looking</p>
+<p begin="01:02:15.850" end="01:02:19.390" style="s2">for in and here&#39;s what you might think</p>
+<p begin="01:02:17.950" end="01:02:20.950" style="s2">he&#39;s like well what mitt because they</p>
+<p begin="01:02:19.390" end="01:02:22.540" style="s2">what they crave is this a it&#39;s a sense</p>
+<p begin="01:02:20.950" end="01:02:24.280" style="s2">of presence people that&#39;s the normative</p>
+<p begin="01:02:22.540" end="01:02:26.140" style="s2">standard by the way if I get a sense of</p>
+<p begin="01:02:24.280" end="01:02:27.820" style="s2">being in the game that makes it a really</p>
+<p begin="01:02:26.140" end="01:02:29.710" style="s2">good game and you might think well it&#39;s</p>
+<p begin="01:02:27.820" end="01:02:31.600" style="s2">very similar to it&#39;s very similar to</p>
+<p begin="01:02:29.710" end="01:02:33.790" style="s2">that generates a sense of presence right</p>
+<p begin="01:02:31.600" end="01:02:36.760" style="s2">no no it&#39;s not it&#39;s neither necessary</p>
+<p begin="01:02:33.790" end="01:02:40.210" style="s2">nor sufficient what generates a sense of</p>
+<p begin="01:02:36.760" end="01:02:41.470" style="s2">presence is that reciprocal opening so</p>
+<p begin="01:02:40.210" end="01:02:43.600" style="s2">you can get it in things like Tetris</p>
+<p begin="01:02:41.470" end="01:02:45.580" style="s2">because you can get into the flow State</p>
+<p begin="01:02:43.600" end="01:02:49.060" style="s2">right you know right</p>
+<p begin="01:02:45.580" end="01:02:51.940" style="s2">again we get locked into a certain you</p>
+<p begin="01:02:49.060" end="01:02:54.850" style="s2">know representational purity if you&#39;ll</p>
+<p begin="01:02:51.940" end="01:02:57.340" style="s2">allow me that word and we lose right we</p>
+<p begin="01:02:54.850" end="01:02:59.560" style="s2">lose the continual emergence of</p>
+<p begin="01:02:57.340" end="01:03:01.240" style="s2">presencing which i think is much more</p>
+<p begin="01:02:59.560" end="01:03:04.030" style="s2">crucial to me tea making and to wisdom</p>
+<p begin="01:03:01.240" end="01:03:06.720" style="s2">cultivation will that distinction</p>
+<p begin="01:03:04.030" end="01:03:10.359" style="s2">between presencing and representation is</p>
+<p begin="01:03:06.720" end="01:03:12.430" style="s2">fundamental to my philosophy and like</p>
+<p begin="01:03:10.359" end="01:03:14.050" style="s2">you of the difference between the right</p>
+<p begin="01:03:12.430" end="01:03:15.670" style="s2">and the sphere to reach things presence</p>
+<p begin="01:03:14.050" end="01:03:18.640" style="s2">and the left when the sewage carries a</p>
+<p begin="01:03:15.670" end="01:03:20.530" style="s2">representation it&#39;s not from from cause</p>
+<p begin="01:03:18.640" end="01:03:22.869" style="s2">it&#39;s his idea of the map and the</p>
+<p begin="01:03:20.530" end="01:03:25.720" style="s2">territory and we miss stain on that</p>
+<p begin="01:03:22.869" end="01:03:28.330" style="s2">that&#39;s theoretical constructs for the</p>
+<p begin="01:03:25.720" end="01:03:32.040" style="s2">territory within mats and that is a huge</p>
+<p begin="01:03:28.330" end="01:03:34.960" style="s2">mistake and I don&#39;t know if you there</p>
+<p begin="01:03:32.040" end="01:03:37.510" style="s2">have read the bit where I talk about the</p>
+<p begin="01:03:34.960" end="01:03:39.369" style="s2">the experiment where people were asked</p>
+<p begin="01:03:37.510" end="01:03:42.550" style="s2">to about the truth or otherwise of</p>
+<p begin="01:03:39.369" end="01:03:45.609" style="s2">syllogisms and the porcupine is a monkey</p>
+<p begin="01:03:42.550" end="01:03:47.710" style="s2">did I read that I&#39;m probably familiar</p>
+<p begin="01:03:45.609" end="01:03:54.520" style="s2">with it because I haven&#39;t read that book</p>
+<p begin="01:03:47.710" end="01:03:56.400" style="s2">in your book but David and Kim&#39;s they</p>
+<p begin="01:03:54.520" end="01:03:59.050" style="s2">did this wonderful study in which</p>
+<p begin="01:03:56.400" end="01:04:02.859" style="s2">subjects had one hemisphere at a time</p>
+<p begin="01:03:59.050" end="01:04:04.900" style="s2">knocked out and then they asked them</p>
+<p begin="01:04:02.859" end="01:04:08.200" style="s2">about the truth of the syllogism and the</p>
+<p begin="01:04:04.900" end="01:04:11.470" style="s2">syllogism of course is as you know that</p>
+<p begin="01:04:08.200" end="01:04:13.630" style="s2">there is two premises a statement that&#39;s</p>
+<p begin="01:04:11.470" end="01:04:15.550" style="s2">true another statement is true and then</p>
+<p begin="01:04:13.630" end="01:04:17.700" style="s2">something that follows from it but there</p>
+<p begin="01:04:15.550" end="01:04:20.950" style="s2">was a catch in each case one of the</p>
+<p begin="01:04:17.700" end="01:04:22.930" style="s2">premises was not true and so they asked</p>
+<p begin="01:04:20.950" end="01:04:27.040" style="s2">people to say is the conclusion correct</p>
+<p begin="01:04:22.930" end="01:04:29.020" style="s2">and to cut a long story short when</p>
+<p begin="01:04:27.040" end="01:04:32.590" style="s2">brain was intact and when the right</p>
+<p begin="01:04:29.020" end="01:04:34.660" style="s2">hemisphere alone was operating if one of</p>
+<p begin="01:04:32.590" end="01:04:37.300" style="s2">the statements that let the conclusion</p>
+<p begin="01:04:34.660" end="01:04:39.730" style="s2">was clearly false they said no the</p>
+<p begin="01:04:37.300" end="01:04:41.890" style="s2">conclusion is wrong but in the left</p>
+<p begin="01:04:39.730" end="01:04:44.170" style="s2">hemisphere state even if one of the</p>
+<p begin="01:04:41.890" end="01:04:46.720" style="s2">premises was clearly wrong contrary to</p>
+<p begin="01:04:44.170" end="01:04:48.640" style="s2">all their experience they&#39;ve said the</p>
+<p begin="01:04:46.720" end="01:04:51.130" style="s2">conclusion was correct because that&#39;s</p>
+<p begin="01:04:48.640" end="01:04:53.830" style="s2">what it says on this piece of paper now</p>
+<p begin="01:04:51.130" end="01:04:55.540" style="s2">that seems a Goering Lee resonant to me</p>
+<p begin="01:04:53.830" end="01:04:58.000" style="s2">because I live in a world you know</p>
+<p begin="01:04:55.540" end="01:05:00.280" style="s2">working in hospitals where what&#39;s on the</p>
+<p begin="01:04:58.000" end="01:05:02.380" style="s2">piece of paper is more important than</p>
+<p begin="01:05:00.280" end="01:05:04.390" style="s2">what&#39;s actually happening between me and</p>
+<p begin="01:05:02.380" end="01:05:06.880" style="s2">the patient according to the managerial</p>
+<p begin="01:05:04.390" end="01:05:08.200" style="s2">culture in which one operated and I&#39;m</p>
+<p begin="01:05:06.880" end="01:05:09.970" style="s2">sure the same thing happens in</p>
+<p begin="01:05:08.200" end="01:05:13.030" style="s2">universities and you know any big</p>
+<p begin="01:05:09.970" end="01:05:16.930" style="s2">organization totally I say all about</p>
+<p begin="01:05:13.030" end="01:05:19.180" style="s2">this research where you take studies in</p>
+<p begin="01:05:16.930" end="01:05:21.460" style="s2">cognitive science and cognitive science</p>
+<p begin="01:05:19.180" end="01:05:23.230" style="s2">that can&#39;t get published you don&#39;t</p>
+<p begin="01:05:21.460" end="01:05:25.900" style="s2">change them other than putting in an</p>
+<p begin="01:05:23.230" end="01:05:27.490" style="s2">fMRI picture of a brain you resubmit</p>
+<p begin="01:05:25.900" end="01:05:34.690" style="s2">them and then they get accepted for</p>
+<p begin="01:05:27.490" end="01:05:41.620" style="s2">publication yeah yeah so I think that&#39;s</p>
+<p begin="01:05:34.690" end="01:05:43.060" style="s2">very important so I&#39;m wondering I I feel</p>
+<p begin="01:05:41.620" end="01:05:45.550" style="s2">like I have a bit of a responsibility</p>
+<p begin="01:05:43.060" end="01:05:47.740" style="s2">here and I approach you sure because you</p>
+<p begin="01:05:45.550" end="01:05:49.540" style="s2">did point to it earlier you do talk</p>
+<p begin="01:05:47.740" end="01:05:50.200" style="s2">about and you try to emphasize and you</p>
+<p begin="01:05:49.540" end="01:05:52.540" style="s2">brought it up</p>
+<p begin="01:05:50.200" end="01:05:55.840" style="s2">a few minutes ago that it&#39;s not the case</p>
+<p begin="01:05:52.540" end="01:05:57.610" style="s2">that you know the right hemisphere is</p>
+<p begin="01:05:55.840" end="01:05:59.710" style="s2">the right way to go or something like</p>
+<p begin="01:05:57.610" end="01:06:02.440" style="s2">that it&#39;s a dynamic integration of the</p>
+<p begin="01:05:59.710" end="01:06:04.420" style="s2">two you know this I think you give Jill</p>
+<p begin="01:06:02.440" end="01:06:08.200" style="s2">Bolte Taylor book my stroke of insight I</p>
+<p begin="01:06:04.420" end="01:06:09.610" style="s2">don&#39;t know if you&#39;ve read I mean yeah so</p>
+<p begin="01:06:08.200" end="01:06:11.320" style="s2">you know she has the hemorrhage in the</p>
+<p begin="01:06:09.610" end="01:06:13.360" style="s2">left hemisphere it gets traumatized it</p>
+<p begin="01:06:11.320" end="01:06:14.650" style="s2">basically shuts down and everything</p>
+<p begin="01:06:13.360" end="01:06:16.450" style="s2">shifts into the right hemisphere and</p>
+<p begin="01:06:14.650" end="01:06:20.770" style="s2">that&#39;s not a wonderful existence either</p>
+<p begin="01:06:16.450" end="01:06:21.940" style="s2">right it&#39;s pretty horrific what&#39;s</p>
+<p begin="01:06:20.770" end="01:06:24.910" style="s2">interesting of course is she slowly</p>
+<p begin="01:06:21.940" end="01:06:27.190" style="s2">recuperates what I found particularly is</p>
+<p begin="01:06:24.910" end="01:06:30.190" style="s2">she she retains the ability because the</p>
+<p begin="01:06:27.190" end="01:06:32.260" style="s2">the the rehabilitation was when she it</p>
+<p begin="01:06:30.190" end="01:06:34.390" style="s2">was had full explicit awareness she can</p>
+<p begin="01:06:32.260" end="01:06:36.480" style="s2">she can step to the right she claims</p>
+<p begin="01:06:34.390" end="01:06:39.070" style="s2">whenever she needs to she can sort of</p>
+<p begin="01:06:36.480" end="01:06:40.210" style="s2">introspectively or int receptively shift</p>
+<p begin="01:06:39.070" end="01:06:42.369" style="s2">activation into the</p>
+<p begin="01:06:40.210" end="01:06:47.770" style="s2">I retained that as kind of a superpower</p>
+<p begin="01:06:42.369" end="01:06:49.780" style="s2">from a trauma she says he&#39;s transformed</p>
+<p begin="01:06:47.770" end="01:06:52.420" style="s2">her life you know that she&#39;s able to go</p>
+<p begin="01:06:49.780" end="01:06:54.820" style="s2">into this this place or leaves to see it</p>
+<p begin="01:06:52.420" end="01:06:57.220" style="s2">what we need to do is is see that the</p>
+<p begin="01:06:54.820" end="01:06:58.060" style="s2">fear is a very good servant but a very</p>
+<p begin="01:06:57.220" end="01:07:00.760" style="s2">poor master</p>
+<p begin="01:06:58.060" end="01:07:02.050" style="s2">then that is the that is the program</p>
+<p begin="01:07:00.760" end="01:07:04.930" style="s2">just gonna say that again because it</p>
+<p begin="01:07:02.050" end="01:07:09.280" style="s2">came up as a connection unstable what we</p>
+<p begin="01:07:04.930" end="01:07:11.500" style="s2">need to see is yeah yeah what we need to</p>
+<p begin="01:07:09.280" end="01:07:13.990" style="s2">see is that the left hemisphere is a</p>
+<p begin="01:07:11.500" end="01:07:16.180" style="s2">very good servant but a very poor master</p>
+<p begin="01:07:13.990" end="01:07:18.910" style="s2">and I believe that we&#39;ve moved to the</p>
+<p begin="01:07:16.180" end="01:07:23.349" style="s2">position where we only attend to what</p>
+<p begin="01:07:18.910" end="01:07:26.830" style="s2">this poor servant good serve is telling</p>
+<p begin="01:07:23.349" end="01:07:29.500" style="s2">us as if it were the master and we&#39;re</p>
+<p begin="01:07:26.830" end="01:07:31.660" style="s2">ignoring what it is right hemisphere no</p>
+<p begin="01:07:29.500" end="01:07:32.440" style="s2">in fact we&#39;re being trained to be</p>
+<p begin="01:07:31.660" end="01:07:34.690" style="s2">ignored</p>
+<p begin="01:07:32.440" end="01:07:39.270" style="s2">do you know Christopher Alexander the</p>
+<p begin="01:07:34.690" end="01:07:41.680" style="s2">the architect and think fantastic no</p>
+<p begin="01:07:39.270" end="01:07:44.230" style="s2">anyway back in the 60s he did an</p>
+<p begin="01:07:41.680" end="01:07:45.790" style="s2">experiment of Radcliffe with a lot of</p>
+<p begin="01:07:44.230" end="01:07:48.220" style="s2">you know highly intelligent highly</p>
+<p begin="01:07:45.790" end="01:07:51.310" style="s2">educated young women and he asked them</p>
+<p begin="01:07:48.220" end="01:07:53.260" style="s2">to assemble a series of strips of black</p>
+<p begin="01:07:51.310" end="01:07:55.990" style="s2">and white sprites in any way they liked</p>
+<p begin="01:07:53.260" end="01:07:57.880" style="s2">and effectively what interested him was</p>
+<p begin="01:07:55.990" end="01:08:00.580" style="s2">that there are two ways of doing it one</p>
+<p begin="01:07:57.880" end="01:08:02.740" style="s2">is by a linear sequential way of</p>
+<p begin="01:08:00.580" end="01:08:04.869" style="s2">thinking the other is by a kind of</p>
+<p begin="01:08:02.740" end="01:08:06.460" style="s2">gestalt vision in which you see that</p>
+<p begin="01:08:04.869" end="01:08:08.920" style="s2">certain things go together to make</p>
+<p begin="01:08:06.460" end="01:08:11.320" style="s2">patterns and he thought that the you</p>
+<p begin="01:08:08.920" end="01:08:12.640" style="s2">know there might be a 50/50 about it but</p>
+<p begin="01:08:11.320" end="01:08:14.830" style="s2">they&#39;re actually being highly</p>
+<p begin="01:08:12.640" end="01:08:18.850" style="s2">intelligent they would naturally go for</p>
+<p begin="01:08:14.830" end="01:08:20.380" style="s2">the gestalt approach because it&#39;s more</p>
+<p begin="01:08:18.850" end="01:08:22.330" style="s2">the way in which we can understand</p>
+<p begin="01:08:20.380" end="01:08:24.640" style="s2">natural phenomena anything from the</p>
+<p begin="01:08:22.330" end="01:08:27.160" style="s2">growth of a fetus to the growth of the</p>
+<p begin="01:08:24.640" end="01:08:28.810" style="s2">spiral nebula in science what one is</p>
+<p begin="01:08:27.160" end="01:08:30.819" style="s2">doing is seeing patterns and</p>
+<p begin="01:08:28.810" end="01:08:34.930" style="s2">understanding them not just plodding</p>
+<p begin="01:08:30.819" end="01:08:37.299" style="s2">down a line of reasoning anyway 80% of</p>
+<p begin="01:08:34.930" end="01:08:39.250" style="s2">them group them in a totally serial way</p>
+<p begin="01:08:37.299" end="01:08:40.630" style="s2">and you know his question is well why</p>
+<p begin="01:08:39.250" end="01:08:43.000" style="s2">and I guess that it&#39;s the way in which</p>
+<p begin="01:08:40.630" end="01:08:45.969" style="s2">we&#39;re taught to think we&#39;re taught it&#39;s</p>
+<p begin="01:08:43.000" end="01:08:48.279" style="s2">not smart to pay attention to intuitions</p>
+<p begin="01:08:45.969" end="01:08:49.960" style="s2">and imagination it&#39;s only smart to keep</p>
+<p begin="01:08:48.279" end="01:08:53.200" style="s2">your nose on that thing and keep</p>
+<p begin="01:08:49.960" end="01:08:54.040" style="s2">plodding on right I think that&#39;s deeply</p>
+<p begin="01:08:53.200" end="01:08:55.690" style="s2">important</p>
+<p begin="01:08:54.040" end="01:08:58.029" style="s2">yeah it would be great too I think we&#39;re</p>
+<p begin="01:08:55.690" end="01:09:00.930" style="s2">kind of getting towards the the time on</p>
+<p begin="01:08:58.029" end="01:09:04.359" style="s2">this call so it&#39;d be fantastic if you</p>
+<p begin="01:09:00.930" end="01:09:06.790" style="s2">have any kind of threads that you wanted</p>
+<p begin="01:09:04.359" end="01:09:08.470" style="s2">to kind of tie off before we we end this</p>
+<p begin="01:09:06.790" end="01:09:10.210" style="s2">edition I guess what&#39;s foremost in my</p>
+<p begin="01:09:08.470" end="01:09:13.839" style="s2">mind is I would like I would love to do</p>
+<p begin="01:09:10.210" end="01:09:17.109" style="s2">this again I found this I found it</p>
+<p begin="01:09:13.839" end="01:09:19.299" style="s2">there&#39;s enough common ground but there&#39;s</p>
+<p begin="01:09:17.109" end="01:09:21.009" style="s2">enough variation that where there&#39;s</p>
+<p begin="01:09:19.299" end="01:09:21.850" style="s2">excellent discussion happening here I</p>
+<p begin="01:09:21.009" end="01:09:23.470" style="s2">found it</p>
+<p begin="01:09:21.850" end="01:09:29.650" style="s2">well I found reciprocal opening</p>
+<p begin="01:09:23.470" end="01:09:31.509" style="s2">occurring I was gonna say to David I&#39;m</p>
+<p begin="01:09:29.650" end="01:09:32.650" style="s2">better at opening up and closing down I</p>
+<p begin="01:09:31.509" end="01:09:38.650" style="s2">don&#39;t know how to close this</p>
+<p begin="01:09:32.650" end="01:09:40.330" style="s2">conversation tab closing your laptop I&#39;m</p>
+<p begin="01:09:38.650" end="01:09:41.410" style="s2">walking away but that would be that</p>
+<p begin="01:09:40.330" end="01:09:47.410" style="s2">would be rude and I know you would do</p>
+<p begin="01:09:41.410" end="01:09:48.640" style="s2">that so I would like to that there was a</p>
+<p begin="01:09:47.410" end="01:09:50.440" style="s2">question that I was thinking about at</p>
+<p begin="01:09:48.640" end="01:09:52.299" style="s2">the beginning and I&#39;m sure it&#39;s one that</p>
+<p begin="01:09:50.440" end="01:09:53.890" style="s2">I&#39;ve asked John before and I&#39;ve I&#39;ve</p>
+<p begin="01:09:52.299" end="01:09:56.080" style="s2">heard him talk about but I&#39;m not sure</p>
+<p begin="01:09:53.890" end="01:09:58.870" style="s2">I&#39;ve heard but I was thinking I&#39;d love</p>
+<p begin="01:09:56.080" end="01:10:01.750" style="s2">to hear your answer to this Ian do you</p>
+<p begin="01:09:58.870" end="01:10:08.260" style="s2">have a definition of wisdom what is</p>
+<p begin="01:10:01.750" end="01:10:12.850" style="s2">wisdom for you okay I think the</p>
+<p begin="01:10:08.260" end="01:10:16.030" style="s2">difficulty with wisdom is that no wise</p>
+<p begin="01:10:12.850" end="01:10:18.489" style="s2">person will tell you what it is or how</p>
+<p begin="01:10:16.030" end="01:10:21.750" style="s2">to achieve it it&#39;s one of those</p>
+<p begin="01:10:18.489" end="01:10:25.450" style="s2">paradoxical things it&#39;s like if you</p>
+<p begin="01:10:21.750" end="01:10:26.830" style="s2">really understand or begin to understand</p>
+<p begin="01:10:25.450" end="01:10:30.670" style="s2">God you don&#39;t understand</p>
+<p begin="01:10:26.830" end="01:10:32.500" style="s2">God and you know Agustin said well if</p>
+<p begin="01:10:30.670" end="01:10:35.560" style="s2">you understand then you haven&#39;t</p>
+<p begin="01:10:32.500" end="01:10:38.380" style="s2">understood it and I think wisdom falls</p>
+<p begin="01:10:35.560" end="01:10:41.230" style="s2">into that category which is why I&#39;m a</p>
+<p begin="01:10:38.380" end="01:10:45.160" style="s2">little bit suspicious of studying wisdom</p>
+<p begin="01:10:41.230" end="01:10:49.330" style="s2">in the lab how can you it can&#39;t be</p>
+<p begin="01:10:45.160" end="01:10:52.630" style="s2">produced you know to order it can&#39;t be</p>
+<p begin="01:10:49.330" end="01:10:55.150" style="s2">measured and there aren&#39;t that many</p>
+<p begin="01:10:52.630" end="01:10:56.860" style="s2">people who get it it&#39;s rather like you</p>
+<p begin="01:10:55.150" end="01:11:00.400" style="s2">know if people say to me how do I get</p>
+<p begin="01:10:56.860" end="01:11:03.670" style="s2">wisdom is a bit like asking me how do I</p>
+<p begin="01:11:00.400" end="01:11:05.080" style="s2">get less self-conscious a very difficult</p>
+<p begin="01:11:03.670" end="01:11:06.430" style="s2">question to answer because all the</p>
+<p begin="01:11:05.080" end="01:11:07.150" style="s2">methods I will give you will make you</p>
+<p begin="01:11:06.430" end="01:11:10.000" style="s2">self-conscious</p>
+<p begin="01:11:07.150" end="01:11:13.449" style="s2">about it and and so it&#39;s it&#39;s it&#39;s a</p>
+<p begin="01:11:10.000" end="01:11:16.239" style="s2">problem but I think it&#39;s something you</p>
+<p begin="01:11:13.449" end="01:11:18.280" style="s2">recognize when you see it and I think</p>
+<p begin="01:11:16.239" end="01:11:20.980" style="s2">it&#39;s as much about a way of being as</p>
+<p begin="01:11:18.280" end="01:11:24.100" style="s2">anything else in fact it is a way of</p>
+<p begin="01:11:20.980" end="01:11:25.840" style="s2">being it&#39;s certainly not a knowledge or</p>
+<p begin="01:11:24.100" end="01:11:27.699" style="s2">an absence of knowledge or anything to</p>
+<p begin="01:11:25.840" end="01:11:31.179" style="s2">do with knowledge it&#39;s a kind of</p>
+<p begin="01:11:27.699" end="01:11:34.030" style="s2">approach to the world that can only come</p>
+<p begin="01:11:31.179" end="01:11:38.980" style="s2">with experience probably only comes with</p>
+<p begin="01:11:34.030" end="01:11:42.960" style="s2">a certain amount of suffering and comes</p>
+<p begin="01:11:38.980" end="01:11:47.650" style="s2">from a lot of self-examination and and</p>
+<p begin="01:11:42.960" end="01:11:49.239" style="s2">anybody who claims it hasn&#39;t got it so I</p>
+<p begin="01:11:47.650" end="01:11:50.580" style="s2">I agree with the in on that I mean I</p>
+<p begin="01:11:49.239" end="01:11:52.510" style="s2">think that the pragmatic</p>
+<p begin="01:11:50.580" end="01:11:54.250" style="s2">self-contradiction aspect of wisdom</p>
+<p begin="01:11:52.510" end="01:11:56.920" style="s2">McGee and Barbara commented on this a</p>
+<p begin="01:11:54.250" end="01:11:59.230" style="s2">long time ago in the 1990 paper that a</p>
+<p begin="01:11:56.920" end="01:12:02.170" style="s2">sure mark of somebody not being wise is</p>
+<p begin="01:11:59.230" end="01:12:05.949" style="s2">making the statement unwise so I agree</p>
+<p begin="01:12:02.170" end="01:12:08.560" style="s2">with that and I and I sort of agree with</p>
+<p begin="01:12:05.949" end="01:12:10.510" style="s2">the Platonic argument that we are always</p>
+<p begin="01:12:08.560" end="01:12:13.090" style="s2">finally as Sophia we&#39;re always we&#39;re</p>
+<p begin="01:12:10.510" end="01:12:15.760" style="s2">always lovers of wisdom we&#39;re in</p>
+<p begin="01:12:13.090" end="01:12:17.860" style="s2">dialogue together affording a mutual</p>
+<p begin="01:12:15.760" end="01:12:19.719" style="s2">aspiration a mutual love and we&#39;re</p>
+<p begin="01:12:17.860" end="01:12:24.270" style="s2">trying to get into that reciprocal</p>
+<p begin="01:12:19.719" end="01:12:28.050" style="s2">opening that ongoing conformity and so I</p>
+<p begin="01:12:24.270" end="01:12:31.480" style="s2">I do think that there are aspects I</p>
+<p begin="01:12:28.050" end="01:12:33.909" style="s2">think it&#39;s like studying love in the lab</p>
+<p begin="01:12:31.480" end="01:12:35.290" style="s2">you can&#39;t study love in the lab because</p>
+<p begin="01:12:33.909" end="01:12:38.350" style="s2">you can&#39;t sort of bring people and say</p>
+<p begin="01:12:35.290" end="01:12:40.630" style="s2">okay now do it love right I get that but</p>
+<p begin="01:12:38.350" end="01:12:45.340" style="s2">I mean you can you can so what you can</p>
+<p begin="01:12:40.630" end="01:12:47.230" style="s2">do is you can study components that seem</p>
+<p begin="01:12:45.340" end="01:12:48.760" style="s2">to I&#39;m trying to use a word here that</p>
+<p begin="01:12:47.230" end="01:12:50.110" style="s2">won&#39;t tie me too much to it with the</p>
+<p begin="01:12:48.760" end="01:12:52.030" style="s2">mechanistic framework that you just like</p>
+<p begin="01:12:50.110" end="01:12:54.100" style="s2">in but you can study sort of components</p>
+<p begin="01:12:52.030" end="01:12:56.469" style="s2">or factors like I did earlier about how</p>
+<p begin="01:12:54.100" end="01:12:58.540" style="s2">reciprocal opening tends to engender</p>
+<p begin="01:12:56.469" end="01:13:01.000" style="s2">people coming into a state of love so</p>
+<p begin="01:12:58.540" end="01:13:03.219" style="s2">you can study the processes right and</p>
+<p begin="01:13:01.000" end="01:13:05.830" style="s2">the R and the constellation of processes</p>
+<p begin="01:13:03.219" end="01:13:08.860" style="s2">that seem to not produce statements of</p>
+<p begin="01:13:05.830" end="01:13:11.560" style="s2">I&#39;m wise because I agree with you but</p>
+<p begin="01:13:08.860" end="01:13:13.630" style="s2">people do say and they get an A and they</p>
+<p begin="01:13:11.560" end="01:13:15.929" style="s2">do it with good reason and evidence and</p>
+<p begin="01:13:13.630" end="01:13:19.300" style="s2">interest subjective agreement I am wiser</p>
+<p begin="01:13:15.929" end="01:13:20.919" style="s2">than I was and I&#39;m interested in what</p>
+<p begin="01:13:19.300" end="01:13:22.929" style="s2">when people say that</p>
+<p begin="01:13:20.919" end="01:13:25.149" style="s2">and what are they talking about and what</p>
+<p begin="01:13:22.929" end="01:13:27.519" style="s2">has happened and I agree with you they</p>
+<p begin="01:13:25.149" end="01:13:30.610" style="s2">don&#39;t typically mean I have now acquired</p>
+<p begin="01:13:27.519" end="01:13:31.869" style="s2">Theory X or Theory Y or even skill Y and</p>
+<p begin="01:13:30.610" end="01:13:33.610" style="s2">you can see all the Platonic dialogues</p>
+<p begin="01:13:31.869" end="01:13:35.679" style="s2">shooting all of those all of those</p>
+<p begin="01:13:33.610" end="01:13:38.019" style="s2">accounts of wisdom down no it&#39;s not that</p>
+<p begin="01:13:35.679" end="01:13:40.599" style="s2">it&#39;s not that it&#39;s not that instead what</p>
+<p begin="01:13:38.019" end="01:13:43.149" style="s2">they seem to do is they seem to point to</p>
+<p begin="01:13:40.599" end="01:13:44.919" style="s2">well again some of the things that I</p>
+<p begin="01:13:43.149" end="01:13:47.530" style="s2">think we were both discussing you know</p>
+<p begin="01:13:44.919" end="01:13:49.119" style="s2">getting a proper into you know a dynamic</p>
+<p begin="01:13:47.530" end="01:13:51.550" style="s2">integration between left and right and</p>
+<p begin="01:13:49.119" end="01:13:54.519" style="s2">also what we were exemplifying in this</p>
+<p begin="01:13:51.550" end="01:13:56.649" style="s2">kind of reciprocal opening and the idea</p>
+<p begin="01:13:54.519" end="01:13:58.209" style="s2">of trying to bring in multiple</p>
+<p begin="01:13:56.649" end="01:14:01.419" style="s2">perspectives get them talking to each</p>
+<p begin="01:13:58.209" end="01:14:03.519" style="s2">other not necessarily pursuing logical</p>
+<p begin="01:14:01.419" end="01:14:05.590" style="s2">coherence but pursuing something might</p>
+<p begin="01:14:03.519" end="01:14:09.130" style="s2">much more like biological reciprocity</p>
+<p begin="01:14:05.590" end="01:14:11.619" style="s2">and so I that&#39;s how I study it I study</p>
+<p begin="01:14:09.130" end="01:14:13.749" style="s2">it for example you know with people who</p>
+<p begin="01:14:11.619" end="01:14:16.269" style="s2">have mystical experiences do they find</p>
+<p begin="01:14:13.749" end="01:14:18.849" style="s2">that there were more aware in their life</p>
+<p begin="01:14:16.269" end="01:14:20.619" style="s2">of patterns of self-deception than</p>
+<p begin="01:14:18.849" end="01:14:22.419" style="s2">control groups these are questions of</p>
+<p begin="01:14:20.619" end="01:14:24.579" style="s2">course you can study scientifically</p>
+<p begin="01:14:22.419" end="01:14:26.649" style="s2">they&#39;re not going to give me the essence</p>
+<p begin="01:14:24.579" end="01:14:28.659" style="s2">of wisdom that&#39;s kind of a ridiculous</p>
+<p begin="01:14:26.649" end="01:14:30.130" style="s2">thing but they may give me if you&#39;ll</p>
+<p begin="01:14:28.659" end="01:14:33.039" style="s2">allow me they may give me a theory of</p>
+<p begin="01:14:30.130" end="01:14:34.630" style="s2">how I in fact explicitly argue that you</p>
+<p begin="01:14:33.039" end="01:14:36.610" style="s2">can only have a process theory of wisdom</p>
+<p begin="01:14:34.630" end="01:14:37.809" style="s2">you can&#39;t have a product theory you sort</p>
+<p begin="01:14:36.610" end="01:14:39.159" style="s2">of shouldn&#39;t try to tell me what the</p>
+<p begin="01:14:37.809" end="01:14:40.689" style="s2">product looks like but you can tell me a</p>
+<p begin="01:14:39.159" end="01:14:42.519" style="s2">lot about the process of becoming wise</p>
+<p begin="01:14:40.689" end="01:14:45.760" style="s2">and that&#39;s what I&#39;m very much interested</p>
+<p begin="01:14:42.519" end="01:14:47.729" style="s2">in well you know it&#39;s just getting to</p>
+<p begin="01:14:45.760" end="01:14:54.999" style="s2">say wisdom isn&#39;t a thing it&#39;s a process</p>
+<p begin="01:14:47.729" end="01:14:57.749" style="s2">never ending journey is about them doing</p>
+<p begin="01:14:54.999" end="01:15:01.300" style="s2">things that you were certain of before</p>
+<p begin="01:14:57.749" end="01:15:03.969" style="s2">actually just not avoid completely</p>
+<p begin="01:15:01.300" end="01:15:07.479" style="s2">having anything to say but what could be</p>
+<p begin="01:15:03.969" end="01:15:13.269" style="s2">a path to wisdom it would be my favorite</p>
+<p begin="01:15:07.479" end="01:15:16.570" style="s2">Zen saying yes but and if only the</p>
+<p begin="01:15:13.269" end="01:15:20.139" style="s2">conversations have become so acrimonious</p>
+<p begin="01:15:16.570" end="01:15:25.869" style="s2">and so simplistic and extreme on the</p>
+<p begin="01:15:20.139" end="01:15:28.599" style="s2">internet workouts with yes but in the</p>
+<p begin="01:15:25.869" end="01:15:31.269" style="s2">world in which we don&#39;t have yes but you</p>
+<p begin="01:15:28.599" end="01:15:33.189" style="s2">appear you were cursed as an extremist</p>
+<p begin="01:15:31.269" end="01:15:34.420" style="s2">of another kind if you show any</p>
+<p begin="01:15:33.189" end="01:15:36.340" style="s2">hesitancy</p>
+<p begin="01:15:34.420" end="01:15:39.370" style="s2">accepting a certain position you are</p>
+<p begin="01:15:36.340" end="01:15:42.550" style="s2">certainly masters of Polaroids</p>
+<p begin="01:15:39.370" end="01:15:45.370" style="s2">but all the literacy conversation was</p>
+<p begin="01:15:42.550" end="01:15:48.760" style="s2">going on in the area of hesitancy and</p>
+<p begin="01:15:45.370" end="01:15:50.949" style="s2">actually a philosopher that I I knew</p>
+<p begin="01:15:48.760" end="01:15:55.330" style="s2">like and greatly admired Roger Scruton</p>
+<p begin="01:15:50.949" end="01:15:56.920" style="s2">died not long ago and when he was asked</p>
+<p begin="01:15:55.330" end="01:16:00.100" style="s2">about the essence of philosophy I think</p>
+<p begin="01:15:56.920" end="01:16:03.190" style="s2">you said hesitancy so I you know I think</p>
+<p begin="01:16:00.100" end="01:16:04.630" style="s2">that&#39;s a good one well I mean I could</p>
+<p begin="01:16:03.190" end="01:16:06.460" style="s2">pick up on your point I think we&#39;ve</p>
+<p begin="01:16:04.630" end="01:16:07.960" style="s2">dropped too much into adversarial</p>
+<p begin="01:16:06.460" end="01:16:09.489" style="s2">processing and to pick up something you</p>
+<p begin="01:16:07.960" end="01:16:10.360" style="s2">emphasized in your book and I emphasize</p>
+<p begin="01:16:09.489" end="01:16:12.790" style="s2">in my work</p>
+<p begin="01:16:10.360" end="01:16:14.469" style="s2">we&#39;ve lost opponent processing we&#39;ve</p>
+<p begin="01:16:12.790" end="01:16:16.989" style="s2">lost the idea that we can come at things</p>
+<p begin="01:16:14.469" end="01:16:19.420" style="s2">from opposite angles but we can be</p>
+<p begin="01:16:16.989" end="01:16:21.520" style="s2">mutually committed to a process of</p>
+<p begin="01:16:19.420" end="01:16:23.739" style="s2">mutual self correction rather than</p>
+<p begin="01:16:21.520" end="01:16:25.600" style="s2">victory over the other and I think</p>
+<p begin="01:16:23.739" end="01:16:37.000" style="s2">that&#39;s what I would be trying to move</p>
+<p begin="01:16:25.600" end="01:16:39.010" style="s2">towards wonderful this has been a really</p>
+<p begin="01:16:37.000" end="01:16:42.520" style="s2">fascinating conversation thank you both</p>
+<p begin="01:16:39.010" end="01:16:45.760" style="s2">for making the time and for showing us</p>
+<p begin="01:16:42.520" end="01:16:48.070" style="s2">the process of kind of thinking in real</p>
+<p begin="01:16:45.760" end="01:16:51.070" style="s2">time it was really beautiful to watch so</p>
+<p begin="01:16:48.070" end="01:16:52.890" style="s2">thank you thank you David so much and</p>
+<p begin="01:16:51.070" end="01:16:55.719" style="s2">it&#39;s been a great pleasure</p>
+<p begin="01:16:52.890" end="01:16:57.790" style="s2">really great I hope at some point we can</p>
+<p begin="01:16:55.719" end="01:17:00.940" style="s2">repeat it as the tech revolution</p>
+<p begin="01:16:57.790" end="01:17:03.010" style="s2">continues to destroy old media the</p>
+<p begin="01:17:00.940" end="01:17:05.890" style="s2">Internet is fueling a new intellectual</p>
+<p begin="01:17:03.010" end="01:17:08.020" style="s2">awakening television made people look</p>
+<p begin="01:17:05.890" end="01:17:11.560" style="s2">stupider than they were it turns out</p>
+<p begin="01:17:08.020" end="01:17:14.230" style="s2">that people are smarter with longer</p>
+<p begin="01:17:11.560" end="01:17:16.719" style="s2">attention spans then we thought I&#39;m a</p>
+<p begin="01:17:14.230" end="01:17:18.460" style="s2">journalist and filmmaker for many years</p>
+<p begin="01:17:16.719" end="01:17:21.340" style="s2">I made documentaries for the likes of</p>
+<p begin="01:17:18.460" end="01:17:23.050" style="s2">the BBC and channel 4 but I don&#39;t think</p>
+<p begin="01:17:21.340" end="01:17:24.850" style="s2">the mainstream media can provide the</p>
+<p begin="01:17:23.050" end="01:17:26.949" style="s2">level of analysis and insight we need</p>
+<p begin="01:17:24.850" end="01:17:29.199" style="s2">for the extraordinary time as we&#39;re</p>
+<p begin="01:17:26.949" end="01:17:31.330" style="s2">going through where the old structures</p>
+<p begin="01:17:29.199" end="01:17:34.570" style="s2">that made sense of the world break down</p>
+<p begin="01:17:31.330" end="01:17:35.700" style="s2">like we&#39;re entering just entering into</p>
+<p begin="01:17:34.570" end="01:17:38.340" style="s2">the underwear</p>
+<p begin="01:17:35.700" end="01:17:40.620" style="s2">and it&#39;s a descent we&#39;re feeling</p>
+<p begin="01:17:38.340" end="01:17:41.670" style="s2">everything starting to shake and the</p>
+<p begin="01:17:40.620" end="01:17:43.860" style="s2">center cannot hold</p>
+<p begin="01:17:41.670" end="01:17:46.110" style="s2">and when our ways of thinking break down</p>
+<p begin="01:17:43.860" end="01:17:48.210" style="s2">it&#39;s the rebels and the Renegades who</p>
+<p begin="01:17:46.110" end="01:17:50.220" style="s2">dare to think differently who are needed</p>
+<p begin="01:17:48.210" end="01:17:51.450" style="s2">to reboot the system and so what&#39;s</p>
+<p begin="01:17:50.220" end="01:17:52.920" style="s2">happening is that people are perceiving</p>
+<p begin="01:17:51.450" end="01:17:55.980" style="s2">because it&#39;s becoming increasingly</p>
+<p begin="01:17:52.920" end="01:17:56.930" style="s2">obvious that all of these artifacts of</p>
+<p begin="01:17:55.980" end="01:18:00.090" style="s2">the way that we&#39;ve gone about doing</p>
+<p begin="01:17:56.930" end="01:18:02.070" style="s2">civilization are breaking down and</p>
+<p begin="01:18:00.090" end="01:18:03.750" style="s2">failing in a way that is no longer easy</p>
+<p begin="01:18:02.070" end="01:18:06.090" style="s2">to pretend isn&#39;t happening and so as a</p>
+<p begin="01:18:03.750" end="01:18:07.500" style="s2">consequence this triggers a deep</p>
+<p begin="01:18:06.090" end="01:18:09.420" style="s2">visceral sense and that&#39;s a good thing</p>
+<p begin="01:18:07.500" end="01:18:11.670" style="s2">right because that deep visceral sense</p>
+<p begin="01:18:09.420" end="01:18:14.520" style="s2">is the return to the aluminum the return</p>
+<p begin="01:18:11.670" end="01:18:19.050" style="s2">to the mystery the shift that we are on</p>
+<p begin="01:18:14.520" end="01:18:21.300" style="s2">the precipice of is not like the shift</p>
+<p begin="01:18:19.050" end="01:18:23.670" style="s2">from the Dark Ages to the Enlightenment</p>
+<p begin="01:18:21.300" end="01:18:26.340" style="s2">it&#39;s like more like a shift from single</p>
+<p begin="01:18:23.670" end="01:18:28.560" style="s2">cell to multicellular life these are the</p>
+<p begin="01:18:26.340" end="01:18:30.930" style="s2">people and ideas rebel wisdom is</p>
+<p begin="01:18:28.560" end="01:18:33.450" style="s2">searching out to try to make sense of</p>
+<p begin="01:18:30.930" end="01:18:36.600" style="s2">the growing chaos the evolution screwed</p>
+<p begin="01:18:33.450" end="01:18:38.760" style="s2">up it handed us the tools to recognize</p>
+<p begin="01:18:36.600" end="01:18:40.350" style="s2">that we don&#39;t have to value the game</p>
+<p begin="01:18:38.760" end="01:18:42.480" style="s2">that it is playing and that we can now</p>
+<p begin="01:18:40.350" end="01:18:44.220" style="s2">repurpose the hardware to something</p>
+<p begin="01:18:42.480" end="01:18:47.280" style="s2">that&#39;s actually worthwhile that&#39;s what I</p>
+<p begin="01:18:44.220" end="01:18:49.170" style="s2">actually have hope in is that if enough</p>
+<p begin="01:18:47.280" end="01:18:51.930" style="s2">people can come to that realization then</p>
+<p begin="01:18:49.170" end="01:18:54.450" style="s2">then we wake up and not in some bullshit</p>
+<p begin="01:18:51.930" end="01:18:57.050" style="s2">evangelical megachurch kind of way of</p>
+<p begin="01:18:54.450" end="01:18:59.550" style="s2">being born again but in in a truly</p>
+<p begin="01:18:57.050" end="01:19:02.250" style="s2">initiatory way being born again of like</p>
+<p begin="01:18:59.550" end="01:19:03.960" style="s2">I know my purpose I know my part and I&#39;m</p>
+<p begin="01:19:02.250" end="01:19:05.850" style="s2">willing to practice resurrection I&#39;m</p>
+<p begin="01:19:03.960" end="01:19:09.060" style="s2">willing to offer my life fully and</p>
+<p begin="01:19:05.850" end="01:19:10.890" style="s2">freely in love in every moment and then</p>
+<p begin="01:19:09.060" end="01:19:12.780" style="s2">we&#39;re invincible like then we can turn</p>
+<p begin="01:19:10.890" end="01:19:15.600" style="s2">things on a dime it&#39;s also about trying</p>
+<p begin="01:19:12.780" end="01:19:18.090" style="s2">to create a new form of conversation one</p>
+<p begin="01:19:15.600" end="01:19:21.360" style="s2">based on genuine dialogue letting go of</p>
+<p begin="01:19:18.090" end="01:19:23.160" style="s2">ideology and fix ideas so we want to be</p>
+<p begin="01:19:21.360" end="01:19:28.050" style="s2">a place that hosts this new form of</p>
+<p begin="01:19:23.160" end="01:19:32.400" style="s2">conversation both online and at our</p>
+<p begin="01:19:28.050" end="01:19:35.250" style="s2">events check out our films join the</p>
+<p begin="01:19:32.400" end="01:19:37.470" style="s2">conversation and to get early access to</p>
+<p begin="01:19:35.250" end="01:19:40.880" style="s2">some great films and exclusive content</p>
+<p begin="01:19:37.470" end="01:19:42.940" style="s2">please consider supporting us on patreon</p>
+<p begin="01:19:40.880" end="01:19:42.940" style="s2">you</p>
+</div>
+</body>
+</tt>

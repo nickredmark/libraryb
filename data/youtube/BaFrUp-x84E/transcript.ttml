@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:05.220" style="s2">dr. Chuck Chakrapani is something of a</p>
+<p begin="00:00:02.340" end="00:00:08.340" style="s2">Renaissance man so he&#39;s a local</p>
+<p begin="00:00:05.220" end="00:00:09.990" style="s2">Torontonian and he&#39;s a psychologist by</p>
+<p begin="00:00:08.340" end="00:00:13.290" style="s2">training but a data scientist by</p>
+<p begin="00:00:09.990" end="00:00:15.960" style="s2">profession and he&#39;s the president of I</p>
+<p begin="00:00:13.290" end="00:00:18.119" style="s2">think Canada&#39;s largest independent</p>
+<p begin="00:00:15.960" end="00:00:20.850" style="s2">market research firm he&#39;s written over</p>
+<p begin="00:00:18.119" end="00:00:22.260" style="s2">20 books one of them which you may have</p>
+<p begin="00:00:20.850" end="00:00:24.420" style="s2">heard of called unshakeable freedom</p>
+<p begin="00:00:22.260" end="00:00:27.150" style="s2">ancient stoic secrets applied to modern</p>
+<p begin="00:00:24.420" end="00:00:29.550" style="s2">life today his talk is on his</p>
+<p begin="00:00:27.150" end="00:00:31.679" style="s2">forthcoming book how to be stoic when</p>
+<p begin="00:00:29.550" end="00:00:33.000" style="s2">you don&#39;t know how and this talk is</p>
+<p begin="00:00:31.679" end="00:00:34.680" style="s2">right at the center of the bullseye in</p>
+<p begin="00:00:33.000" end="00:00:36.840" style="s2">terms of our theme for the day which is</p>
+<p begin="00:00:34.680" end="00:00:39.000" style="s2">practice I&#39;m really excited to invite</p>
+<p begin="00:00:36.840" end="00:00:40.829" style="s2">Chuck he&#39;s going to talk about theory of</p>
+<p begin="00:00:39.000" end="00:00:43.170" style="s2">stoicism but specifically mental</p>
+<p begin="00:00:40.829" end="00:00:45.270" style="s2">exercises that you can use to train</p>
+<p begin="00:00:43.170" end="00:00:47.640" style="s2">these stoic theories into practice and</p>
+<p begin="00:00:45.270" end="00:00:49.680" style="s2">bring into your life so will you join me</p>
+<p begin="00:00:47.640" end="00:00:57.149" style="s2">in welcoming dr. Chuck Chakrapani to the</p>
+<p begin="00:00:49.680" end="00:01:02.010" style="s2">stage how to be a stoic when you don&#39;t</p>
+<p begin="00:00:57.149" end="00:01:06.689" style="s2">know how what do you do this what I do I</p>
+<p begin="00:01:02.010" end="00:01:09.439" style="s2">go to the library start reading</p>
+<p begin="00:01:06.689" end="00:01:13.610" style="s2">it&#39;s okay for a while it goes well and</p>
+<p begin="00:01:09.439" end="00:01:16.380" style="s2">then you find there are so many concepts</p>
+<p begin="00:01:13.610" end="00:01:23.460" style="s2">concept of the concepts or the concepts</p>
+<p begin="00:01:16.380" end="00:01:32.450" style="s2">of content and so little time so you</p>
+<p begin="00:01:23.460" end="00:01:32.450" style="s2">start like that and end like this now</p>
+<p begin="00:01:32.899" end="00:01:39.390" style="s2">the fact is the stoicism to understand</p>
+<p begin="00:01:36.869" end="00:01:42.330" style="s2">the basics it&#39;s very simple it doesn&#39;t</p>
+<p begin="00:01:39.390" end="00:01:46.409" style="s2">have to be complicated in fact think of</p>
+<p begin="00:01:42.330" end="00:01:49.560" style="s2">stoicism as a symphony okay choices are</p>
+<p begin="00:01:46.409" end="00:01:52.380" style="s2">made Symphony if you go to a symphony</p>
+<p begin="00:01:49.560" end="00:01:56.909" style="s2">for the full Symphony Orchestra consists</p>
+<p begin="00:01:52.380" end="00:01:59.819" style="s2">of hundred musicians or more and yet if</p>
+<p begin="00:01:56.909" end="00:02:01.140" style="s2">you observe closely about a third of</p>
+<p begin="00:01:59.819" end="00:02:05.100" style="s2">them are playing just one instrument</p>
+<p begin="00:02:01.140" end="00:02:08.759" style="s2">violin and two-thirds of the orchestras</p>
+<p begin="00:02:05.100" end="00:02:11.310" style="s2">playing just four instruments and 93% or</p>
+<p begin="00:02:08.759" end="00:02:13.500" style="s2">playing only eight instruments so even</p>
+<p begin="00:02:11.310" end="00:02:15.690" style="s2">though it looks chaotic even though</p>
+<p begin="00:02:13.500" end="00:02:18.090" style="s2">there are hundred musicians they are</p>
+<p begin="00:02:15.690" end="00:02:20.670" style="s2">just playing eight instruments story</p>
+<p begin="00:02:18.090" end="00:02:24.540" style="s2">system it&#39;s very much like that the</p>
+<p begin="00:02:20.670" end="00:02:27.870" style="s2">basic concepts are few there are many</p>
+<p begin="00:02:24.540" end="00:02:32.760" style="s2">variations you can go into depth but the</p>
+<p begin="00:02:27.870" end="00:02:36.150" style="s2">basic concepts of you what&#39;s the purpose</p>
+<p begin="00:02:32.760" end="00:02:39.450" style="s2">of Stoicism it has only one purpose to</p>
+<p begin="00:02:36.150" end="00:02:41.910" style="s2">make you happy to let you have a good</p>
+<p begin="00:02:39.450" end="00:02:43.820" style="s2">life okay that that&#39;s the purpose of</p>
+<p begin="00:02:41.910" end="00:02:48.209" style="s2">choices and it&#39;s your demonic philosophy</p>
+<p begin="00:02:43.820" end="00:02:50.930" style="s2">see how to be happy okay and it also</p>
+<p begin="00:02:48.209" end="00:02:54.420" style="s2">says what is that raw material you have</p>
+<p begin="00:02:50.930" end="00:02:57.000" style="s2">what the raw material which you can use</p>
+<p begin="00:02:54.420" end="00:02:58.130" style="s2">to make yourself happy or to have the</p>
+<p begin="00:02:57.000" end="00:03:01.400" style="s2">good life</p>
+<p begin="00:02:58.130" end="00:03:05.609" style="s2">it says the raw material you have is</p>
+<p begin="00:03:01.400" end="00:03:07.799" style="s2">what they call impressions if you are</p>
+<p begin="00:03:05.609" end="00:03:08.790" style="s2">hungry that&#39;s an impression if you think</p>
+<p begin="00:03:07.799" end="00:03:11.160" style="s2">the room is too cold</p>
+<p begin="00:03:08.790" end="00:03:12.660" style="s2">that&#39;s an impression if we think the</p>
+<p begin="00:03:11.160" end="00:03:15.030" style="s2">room is too warm it&#39;s the innocent</p>
+<p begin="00:03:12.660" end="00:03:18.419" style="s2">impression if you think your life is</p>
+<p begin="00:03:15.030" end="00:03:19.950" style="s2">going nowhere that&#39;s an impression all</p>
+<p begin="00:03:18.419" end="00:03:22.230" style="s2">these sort impressions</p>
+<p begin="00:03:19.950" end="00:03:25.680" style="s2">some of these impressions are true some</p>
+<p begin="00:03:22.230" end="00:03:28.800" style="s2">are false so how do you take these</p>
+<p begin="00:03:25.680" end="00:03:31.860" style="s2">impressions and convert this into you</p>
+<p begin="00:03:28.800" end="00:03:35.750" style="s2">into your ammonia or the good life that</p>
+<p begin="00:03:31.860" end="00:03:39.270" style="s2">is the basic challenge of stoicism okay</p>
+<p begin="00:03:35.750" end="00:03:43.280" style="s2">what they say is to do that you need for</p>
+<p begin="00:03:39.270" end="00:03:48.300" style="s2">special skills they are wisdom justice</p>
+<p begin="00:03:43.280" end="00:03:50.190" style="s2">moderation and courage and you need to</p>
+<p begin="00:03:48.300" end="00:03:51.930" style="s2">practice three disciplines the</p>
+<p begin="00:03:50.190" end="00:03:54.110" style="s2">discipline opposite and the discipline</p>
+<p begin="00:03:51.930" end="00:03:56.580" style="s2">of desire and the discipline of action</p>
+<p begin="00:03:54.110" end="00:03:59.690" style="s2">if only you could do that</p>
+<p begin="00:03:56.580" end="00:04:03.120" style="s2">take your judgments and use these skills</p>
+<p begin="00:03:59.690" end="00:04:07.230" style="s2">and use these disciplines you will have</p>
+<p begin="00:04:03.120" end="00:04:12.239" style="s2">a good life this is the basis of</p>
+<p begin="00:04:07.230" end="00:04:14.610" style="s2">stoicism okay so you have all you have</p>
+<p begin="00:04:12.239" end="00:04:16.410" style="s2">in life are impressions think about it</p>
+<p begin="00:04:14.610" end="00:04:18.989" style="s2">everything is an impression you lose</p>
+<p begin="00:04:16.410" end="00:04:20.930" style="s2">your job that&#39;s an impression the doctor</p>
+<p begin="00:04:18.989" end="00:04:23.040" style="s2">says your cancer that&#39;s an impression</p>
+<p begin="00:04:20.930" end="00:04:31.550" style="s2">how do you take all these impressions</p>
+<p begin="00:04:23.040" end="00:04:34.879" style="s2">and have a good life so</p>
+<p begin="00:04:31.550" end="00:04:38.930" style="s2">the way I&#39;m going to explain this he&#39;s</p>
+<p begin="00:04:34.879" end="00:04:39.819" style="s2">using metaphor of a house if you look at</p>
+<p begin="00:04:38.930" end="00:04:42.259" style="s2">a house</p>
+<p begin="00:04:39.819" end="00:04:46.340" style="s2">it has foundation going in four</p>
+<p begin="00:04:42.259" end="00:04:49.190" style="s2">directions but it is four walls and it</p>
+<p begin="00:04:46.340" end="00:04:51.860" style="s2">has three windows idea oops</p>
+<p begin="00:04:49.190" end="00:04:57.440" style="s2">stopping in two directions keep this in</p>
+<p begin="00:04:51.860" end="00:04:59.479" style="s2">mind so think of it has stoicism okay</p>
+<p begin="00:04:57.440" end="00:05:01.430" style="s2">what are the foundations what are the</p>
+<p begin="00:04:59.479" end="00:05:04.520" style="s2">walls what are the windows</p>
+<p begin="00:05:01.430" end="00:05:07.370" style="s2">what&#39;s the roof okay that&#39;s what we&#39;re</p>
+<p begin="00:05:04.520" end="00:05:10.400" style="s2">going to be talking about let&#39;s start</p>
+<p begin="00:05:07.370" end="00:05:20.630" style="s2">with the foundations its foundations of</p>
+<p begin="00:05:10.400" end="00:05:22.490" style="s2">stoicism want these there are what is</p>
+<p begin="00:05:20.630" end="00:05:25.610" style="s2">happiness meet whatever the SAP does</p>
+<p begin="00:05:22.490" end="00:05:28.099" style="s2">mean to you what&#39;s the good life meet to</p>
+<p begin="00:05:25.610" end="00:05:31.940" style="s2">you anybody want to tell me what good</p>
+<p begin="00:05:28.099" end="00:05:36.740" style="s2">life means to them oh you want me to</p>
+<p begin="00:05:31.940" end="00:05:40.030" style="s2">tell you okay there are many things you</p>
+<p begin="00:05:36.740" end="00:05:44.210" style="s2">know for if you are in sub-saharan</p>
+<p begin="00:05:40.030" end="00:05:46.039" style="s2">Africa and then you want to have if you</p>
+<p begin="00:05:44.210" end="00:05:49.130" style="s2">don&#39;t have any meals your next meal is</p>
+<p begin="00:05:46.039" end="00:05:52.099" style="s2">your happiness yeah if you are in</p>
+<p begin="00:05:49.130" end="00:05:54.680" style="s2">subsistence economy if your three meals</p>
+<p begin="00:05:52.099" end="00:05:57.289" style="s2">today that&#39;s happiness if you are a</p>
+<p begin="00:05:54.680" end="00:06:00.949" style="s2">millionaire in New York maybe a billion</p>
+<p begin="00:05:57.289" end="00:06:03.620" style="s2">would make you happy if you are like me</p>
+<p begin="00:06:00.949" end="00:06:06.500" style="s2">a good meal and a cigar would is the</p>
+<p begin="00:06:03.620" end="00:06:09.069" style="s2">definition of happiness so happiness</p>
+<p begin="00:06:06.500" end="00:06:12.229" style="s2">depends on who you ask</p>
+<p begin="00:06:09.069" end="00:06:14.930" style="s2">but xeno the founder of stoicism had a</p>
+<p begin="00:06:12.229" end="00:06:17.740" style="s2">very very neat definition he said</p>
+<p begin="00:06:14.930" end="00:06:20.210" style="s2">happiness is a life that flows smoothly</p>
+<p begin="00:06:17.740" end="00:06:23.690" style="s2">think about it happiness it&#39;s a life</p>
+<p begin="00:06:20.210" end="00:06:26.000" style="s2">that flows smoothly that means if you</p>
+<p begin="00:06:23.690" end="00:06:31.009" style="s2">look at the birds or any bird</p>
+<p begin="00:06:26.000" end="00:06:34.270" style="s2">it likes what is our life our life will</p>
+<p begin="00:06:31.009" end="00:06:34.270" style="s2">have full of problem</p>
+<p begin="00:06:42.210" end="00:06:47.539" style="s2">and I really want to scratch the surface</p>
+<p begin="00:06:44.539" end="00:06:47.539" style="s2">right</p>
+<p begin="00:06:49.460" end="00:06:54.860" style="s2">to us why do we have all these problems</p>
+<p begin="00:06:52.060" end="00:06:56.509" style="s2">why can&#39;t we glide like a bird in the</p>
+<p begin="00:06:54.860" end="00:06:59.000" style="s2">sky okay</p>
+<p begin="00:06:56.509" end="00:07:03.080" style="s2">and the strike said you have all these</p>
+<p begin="00:06:59.000" end="00:07:06.289" style="s2">problems because you don&#39;t live with it</p>
+<p begin="00:07:03.080" end="00:07:07.789" style="s2">in accordance with nature you have all</p>
+<p begin="00:07:06.289" end="00:07:10.360" style="s2">this problems because you don&#39;t live in</p>
+<p begin="00:07:07.789" end="00:07:13.280" style="s2">accordance with nature</p>
+<p begin="00:07:10.360" end="00:07:15.080" style="s2">big deal I don&#39;t you know what living</p>
+<p begin="00:07:13.280" end="00:07:19.190" style="s2">accounts in the chalice to nature mean</p>
+<p begin="00:07:15.080" end="00:07:22.880" style="s2">so what does it mean listen you won&#39;t</p>
+<p begin="00:07:19.190" end="00:07:24.289" style="s2">know what it means it&#39;s kind of</p>
+<p begin="00:07:22.880" end="00:07:27.770" style="s2">confusing isn&#39;t it living in accordance</p>
+<p begin="00:07:24.289" end="00:07:29.750" style="s2">with nature it looks kind of fancy you</p>
+<p begin="00:07:27.770" end="00:07:31.789" style="s2">know it looks it says something but what</p>
+<p begin="00:07:29.750" end="00:07:33.760" style="s2">does it say how do you live in</p>
+<p begin="00:07:31.789" end="00:07:36.860" style="s2">accordance with nature</p>
+<p begin="00:07:33.760" end="00:07:39.080" style="s2">stoic said live in accordance with</p>
+<p begin="00:07:36.860" end="00:07:43.490" style="s2">nature means live in accordance with</p>
+<p begin="00:07:39.080" end="00:07:45.830" style="s2">your nature what is our nature we cannot</p>
+<p begin="00:07:43.490" end="00:07:47.440" style="s2">fly like an eagle because flying is not</p>
+<p begin="00:07:45.830" end="00:07:50.780" style="s2">our teacher</p>
+<p begin="00:07:47.440" end="00:07:54.979" style="s2">we cannot pounce like a tiger</p>
+<p begin="00:07:50.780" end="00:07:57.410" style="s2">pouncing is not our nature we can</p>
+<p begin="00:07:54.979" end="00:08:01.030" style="s2">outstrip like a shark swimming is not</p>
+<p begin="00:07:57.410" end="00:08:04.160" style="s2">our nature we cannot hop like a kangaroo</p>
+<p begin="00:08:01.030" end="00:08:05.050" style="s2">hopping is not in our nature so what is</p>
+<p begin="00:08:04.160" end="00:08:08.930" style="s2">our nature</p>
+<p begin="00:08:05.050" end="00:08:13.659" style="s2">our nature is we can think we are</p>
+<p begin="00:08:08.930" end="00:08:16.099" style="s2">rational so when you are not rational</p>
+<p begin="00:08:13.659" end="00:08:20.389" style="s2">then you are not living according to</p>
+<p begin="00:08:16.099" end="00:08:23.750" style="s2">nature that&#39;s your nature this it also</p>
+<p begin="00:08:20.389" end="00:08:26.300" style="s2">has another interpretation it&#39;s also</p>
+<p begin="00:08:23.750" end="00:08:30.020" style="s2">nature of the world what is the nature</p>
+<p begin="00:08:26.300" end="00:08:31.970" style="s2">of the world it&#39;s reality okay we</p>
+<p begin="00:08:30.020" end="00:08:34.219" style="s2">complain about reality all the time</p>
+<p begin="00:08:31.970" end="00:08:37.729" style="s2">this room is too cold the room is too</p>
+<p begin="00:08:34.219" end="00:08:41.539" style="s2">warm okay we complain about reality or</p>
+<p begin="00:08:37.729" end="00:08:43.729" style="s2">you are in Canada and you just go out in</p>
+<p begin="00:08:41.539" end="00:08:48.410" style="s2">January people complaining about snow I</p>
+<p begin="00:08:43.729" end="00:08:52.459" style="s2">mean in Toronto in January that&#39;s a</p>
+<p begin="00:08:48.410" end="00:08:54.680" style="s2">reality okay so our life doesn&#39;t run</p>
+<p begin="00:08:52.459" end="00:08:57.529" style="s2">smoothly because we don&#39;t live in</p>
+<p begin="00:08:54.680" end="00:08:59.810" style="s2">accordance with our own nature and with</p>
+<p begin="00:08:57.529" end="00:09:01.820" style="s2">the nature of reality within the nation</p>
+<p begin="00:08:59.810" end="00:09:02.800" style="s2">of the world that&#39;s the reason why our</p>
+<p begin="00:09:01.820" end="00:09:08.080" style="s2">life</p>
+<p begin="00:09:02.800" end="00:09:11.470" style="s2">doesn&#39;t run smoothly so if we have to be</p>
+<p begin="00:09:08.080" end="00:09:14.709" style="s2">sure that we are we live in accordance</p>
+<p begin="00:09:11.470" end="00:09:19.000" style="s2">with nature if you want to prove to</p>
+<p begin="00:09:14.709" end="00:09:22.060" style="s2">yourself that how much you contain it</p>
+<p begin="00:09:19.000" end="00:09:25.510" style="s2">with reality how much you were thinking</p>
+<p begin="00:09:22.060" end="00:09:31.300" style="s2">is not rational I suggest this exercise</p>
+<p begin="00:09:25.510" end="00:09:33.459" style="s2">I call that friction finder you can buy</p>
+<p begin="00:09:31.300" end="00:09:36.640" style="s2">this counter for about six dollars at</p>
+<p begin="00:09:33.459" end="00:09:40.060" style="s2">Amazon just buy one if not carry a</p>
+<p begin="00:09:36.640" end="00:09:42.190" style="s2">notebook with you whenever you&#39;re</p>
+<p begin="00:09:40.060" end="00:09:44.050" style="s2">thinking it&#39;s not in line with reality</p>
+<p begin="00:09:42.190" end="00:09:46.300" style="s2">just click on it don&#39;t do anything just</p>
+<p begin="00:09:44.050" end="00:09:48.279" style="s2">click on it whenever you say I should</p>
+<p begin="00:09:46.300" end="00:09:50.410" style="s2">have done that you start on that what</p>
+<p begin="00:09:48.279" end="00:09:53.110" style="s2">does it even mean you are fighting</p>
+<p begin="00:09:50.410" end="00:09:55.540" style="s2">reality if I should have done that no</p>
+<p begin="00:09:53.110" end="00:09:57.850" style="s2">you can&#39;t do that now because today you</p>
+<p begin="00:09:55.540" end="00:10:00.190" style="s2">should have done that so it contradicts</p>
+<p begin="00:09:57.850" end="00:10:03.490" style="s2">reality how they&#39;re done that I should</p>
+<p begin="00:10:00.190" end="00:10:05.350" style="s2">whoops I&#39;m late I&#39;m going to be late if</p>
+<p begin="00:10:03.490" end="00:10:07.600" style="s2">you&#39;re going to be late you are going to</p>
+<p begin="00:10:05.350" end="00:10:12.730" style="s2">be late so you&#39;re complaining about</p>
+<p begin="00:10:07.600" end="00:10:14.940" style="s2">reality or not being rational so do this</p>
+<p begin="00:10:12.730" end="00:10:17.940" style="s2">exercise for a week and you&#39;ll find out</p>
+<p begin="00:10:14.940" end="00:10:20.230" style="s2">how much of our thinking is irrational</p>
+<p begin="00:10:17.940" end="00:10:28.910" style="s2">how much overthinking is fighting</p>
+<p begin="00:10:20.230" end="00:10:32.480" style="s2">rational for our fighting reality now</p>
+<p begin="00:10:28.910" end="00:10:37.579" style="s2">why do we have this problems why aren&#39;t</p>
+<p begin="00:10:32.480" end="00:10:39.199" style="s2">we aligned with nature destroyed sins it</p>
+<p begin="00:10:37.579" end="00:10:41.660" style="s2">is your parts that create your</p>
+<p begin="00:10:39.199" end="00:10:44.720" style="s2">unhappiness people are disturbed by</p>
+<p begin="00:10:41.660" end="00:10:47.630" style="s2">things that they are not destroyed by</p>
+<p begin="00:10:44.720" end="00:10:49.490" style="s2">things that happen but by their opinion</p>
+<p begin="00:10:47.630" end="00:10:51.259" style="s2">of these things you know the way we</p>
+<p begin="00:10:49.490" end="00:10:56.050" style="s2">think about those things that&#39;s what</p>
+<p begin="00:10:51.259" end="00:10:59.209" style="s2">make us unhappy you may object to that</p>
+<p begin="00:10:56.050" end="00:11:05.060" style="s2">you may have object to that then say no</p>
+<p begin="00:10:59.209" end="00:11:08.630" style="s2">Chuck it&#39;s not so because I go to a I go</p>
+<p begin="00:11:05.060" end="00:11:11.630" style="s2">to my annual checkup the doctor gives me</p>
+<p begin="00:11:08.630" end="00:11:16.509" style="s2">a good report I&#39;m happy that dr. bouche</p>
+<p begin="00:11:11.630" end="00:11:19.579" style="s2">me a bad report I&#39;m unhappy I go to work</p>
+<p begin="00:11:16.509" end="00:11:20.959" style="s2">my boss calls me and says you are</p>
+<p begin="00:11:19.579" end="00:11:23.449" style="s2">promoted that&#39;s good news</p>
+<p begin="00:11:20.959" end="00:11:26.930" style="s2">I&#39;m happy he says you are fired that&#39;s</p>
+<p begin="00:11:23.449" end="00:11:30.259" style="s2">bad news I&#39;m unhappy so what do you mean</p>
+<p begin="00:11:26.930" end="00:11:31.670" style="s2">by my thoughts create my happiness you</p>
+<p begin="00:11:30.259" end="00:11:34.519" style="s2">know you want me to be happy when I</p>
+<p begin="00:11:31.670" end="00:11:40.360" style="s2">imply it do you want me to happy when</p>
+<p begin="00:11:34.519" end="00:11:43.120" style="s2">you&#39;re in bad medical report strikes it</p>
+<p begin="00:11:40.360" end="00:11:47.779" style="s2">you are really clueless</p>
+<p begin="00:11:43.120" end="00:11:50.329" style="s2">he says look you are fired yes the</p>
+<p begin="00:11:47.779" end="00:11:53.689" style="s2">stimulus not the good news you interpret</p>
+<p begin="00:11:50.329" end="00:11:56.990" style="s2">it as good two people can be fired on</p>
+<p begin="00:11:53.689" end="00:11:58.790" style="s2">the same day one person might say God</p>
+<p begin="00:11:56.990" end="00:12:01.850" style="s2">what am I going to do there&#39;s a terrible</p>
+<p begin="00:11:58.790" end="00:12:04.310" style="s2">news you&#39;re unhappy the other person</p>
+<p begin="00:12:01.850" end="00:12:06.410" style="s2">might say Jesus I was coasting on this</p>
+<p begin="00:12:04.310" end="00:12:09.399" style="s2">job for so long this give me an</p>
+<p begin="00:12:06.410" end="00:12:12.680" style="s2">opportunity to just take some time off</p>
+<p begin="00:12:09.399" end="00:12:17.230" style="s2">please think what I want to do and maybe</p>
+<p begin="00:12:12.680" end="00:12:19.639" style="s2">shape my life it&#39;s good that it happened</p>
+<p begin="00:12:17.230" end="00:12:21.829" style="s2">so it depends on how you interpret it</p>
+<p begin="00:12:19.639" end="00:12:24.500" style="s2">you may have you may get two people may</p>
+<p begin="00:12:21.829" end="00:12:26.779" style="s2">get the same with in-court bad medical</p>
+<p begin="00:12:24.500" end="00:12:29.420" style="s2">report one by it&#39;s a god this is</p>
+<p begin="00:12:26.779" end="00:12:31.850" style="s2">horrible this terrible the other person</p>
+<p begin="00:12:29.420" end="00:12:34.339" style="s2">might say this is a wake-up call I&#39;m</p>
+<p begin="00:12:31.850" end="00:12:36.860" style="s2">glad I have time now I can exercise or</p>
+<p begin="00:12:34.339" end="00:12:39.490" style="s2">do whatever eat properly and do</p>
+<p begin="00:12:36.860" end="00:12:42.500" style="s2">something better so it&#39;s the same thing</p>
+<p begin="00:12:39.490" end="00:12:44.670" style="s2">the way you look at the world</p>
+<p begin="00:12:42.500" end="00:12:49.589" style="s2">okay so the impression that&#39;s why</p>
+<p begin="00:12:44.670" end="00:12:53.550" style="s2">impressions are so important it is so</p>
+<p begin="00:12:49.589" end="00:12:56.339" style="s2">critical in stoicism epictetus said our</p>
+<p begin="00:12:53.550" end="00:12:58.980" style="s2">said that our most important job is to</p>
+<p begin="00:12:56.339" end="00:13:02.129" style="s2">test out impressions and accept only</p>
+<p begin="00:12:58.980" end="00:13:04.740" style="s2">that passed the test and then he went on</p>
+<p begin="00:13:02.129" end="00:13:05.759" style="s2">to say instead of doing this just this</p>
+<p begin="00:13:04.740" end="00:13:08.250" style="s2">one thing right</p>
+<p begin="00:13:05.759" end="00:13:11.639" style="s2">we burden our souls with so many things</p>
+<p begin="00:13:08.250" end="00:13:13.800" style="s2">that they weigh us down remember that</p>
+<p begin="00:13:11.639" end="00:13:16.920" style="s2">your only job is to test your</p>
+<p begin="00:13:13.800" end="00:13:20.819" style="s2">impressions and see whether they pass</p>
+<p begin="00:13:16.920" end="00:13:25.740" style="s2">the test if you do anything else you are</p>
+<p begin="00:13:20.819" end="00:13:28.319" style="s2">being yourself down but then like all</p>
+<p begin="00:13:25.740" end="00:13:31.379" style="s2">great things it is easier to see</p>
+<p begin="00:13:28.319" end="00:13:33.360" style="s2">difficult to practice so for the next</p>
+<p begin="00:13:31.379" end="00:13:39.649" style="s2">few minutes we&#39;ll be talking about how</p>
+<p begin="00:13:33.360" end="00:13:43.589" style="s2">we go about practicing this in fact</p>
+<p begin="00:13:39.649" end="00:13:45.990" style="s2">Viktor Frankl said this between stimulus</p>
+<p begin="00:13:43.589" end="00:13:47.910" style="s2">and response there is a space in that</p>
+<p begin="00:13:45.990" end="00:13:50.250" style="s2">space is our power to choose our</p>
+<p begin="00:13:47.910" end="00:13:52.920" style="s2">response you know a response lies our</p>
+<p begin="00:13:50.250" end="00:13:58.649" style="s2">growth and our freedom what that means</p>
+<p begin="00:13:52.920" end="00:14:01.800" style="s2">is this if somebody says something it</p>
+<p begin="00:13:58.649" end="00:14:04.170" style="s2">appears as an insult to us we</p>
+<p begin="00:14:01.800" end="00:14:07.290" style="s2">immediately respond by inserting the</p>
+<p begin="00:14:04.170" end="00:14:10.350" style="s2">person back somebody hits us we</p>
+<p begin="00:14:07.290" end="00:14:12.779" style="s2">immediately hit them back but what</p>
+<p begin="00:14:10.350" end="00:14:14.910" style="s2">Viktor Frankl was saying between</p>
+<p begin="00:14:12.779" end="00:14:18.240" style="s2">something happening and you&#39;re</p>
+<p begin="00:14:14.910" end="00:14:18.959" style="s2">responding there is space you can choose</p>
+<p begin="00:14:18.240" end="00:14:21.120" style="s2">your response</p>
+<p begin="00:14:18.959" end="00:14:24.660" style="s2">that&#39;s what rationality is to choose</p>
+<p begin="00:14:21.120" end="00:14:27.990" style="s2">your response okay and you have this</p>
+<p begin="00:14:24.660" end="00:14:29.790" style="s2">bubble and we give this up because we we</p>
+<p begin="00:14:27.990" end="00:14:31.079" style="s2">can&#39;t even finish for the person to</p>
+<p begin="00:14:29.790" end="00:14:33.509" style="s2">complete his sentence</p>
+<p begin="00:14:31.079" end="00:14:35.490" style="s2">we won&#39;t interrupt because we don&#39;t we</p>
+<p begin="00:14:33.509" end="00:14:38.939" style="s2">just don&#39;t give ourselves space to</p>
+<p begin="00:14:35.490" end="00:14:41.149" style="s2">respond and this is particularly</p>
+<p begin="00:14:38.939" end="00:14:44.910" style="s2">critical in our response live a good</p>
+<p begin="00:14:41.149" end="00:14:47.100" style="s2">life on the road the way you respond</p>
+<p begin="00:14:44.910" end="00:14:51.449" style="s2">will decide whether you&#39;re going to grow</p>
+<p begin="00:14:47.100" end="00:14:53.740" style="s2">or you&#39;re going to stagnate it ended I</p>
+<p begin="00:14:51.449" end="00:14:55.810" style="s2">need these freedoms</p>
+<p begin="00:14:53.740" end="00:14:59.200" style="s2">that means we are going to be free or</p>
+<p begin="00:14:55.810" end="00:15:07.990" style="s2">forever be complaining will depend on</p>
+<p begin="00:14:59.200" end="00:15:11.620" style="s2">the response you choose so now if you</p>
+<p begin="00:15:07.990" end="00:15:14.560" style="s2">think if it if you doubt the fact that</p>
+<p begin="00:15:11.620" end="00:15:17.920" style="s2">you have a choice try this exercise for</p>
+<p begin="00:15:14.560" end="00:15:20.620" style="s2">a week who doesn&#39;t have one of these</p>
+<p begin="00:15:17.920" end="00:15:23.440" style="s2">everybody has right there carry on</p>
+<p begin="00:15:20.620" end="00:15:26.620" style="s2">that&#39;s you have to have in modern life</p>
+<p begin="00:15:23.440" end="00:15:29.470" style="s2">everybody has four if you look at that</p>
+<p begin="00:15:26.620" end="00:15:32.740" style="s2">it has two handles when it&#39;s a pull</p>
+<p begin="00:15:29.470" end="00:15:35.290" style="s2">handle then it&#39;s a lift handle so pull</p>
+<p begin="00:15:32.740" end="00:15:38.800" style="s2">handle you use the pull handle to pull</p>
+<p begin="00:15:35.290" end="00:15:41.650" style="s2">the back behind you and what that does</p>
+<p begin="00:15:38.800" end="00:15:44.290" style="s2">is it&#39;s very comforting it doesn&#39;t</p>
+<p begin="00:15:41.650" end="00:15:46.510" style="s2">matter how heavy the bag is you can</p>
+<p begin="00:15:44.290" end="00:15:50.020" style="s2">easily pull it behind you it works</p>
+<p begin="00:15:46.510" end="00:15:54.250" style="s2">beautifully most of the time but not all</p>
+<p begin="00:15:50.020" end="00:15:54.670" style="s2">the time if you are walking up the</p>
+<p begin="00:15:54.250" end="00:15:57.520" style="s2">stairs</p>
+<p begin="00:15:54.670" end="00:15:59.080" style="s2">will it work it might work but it&#39;ll</p>
+<p begin="00:15:57.520" end="00:16:01.080" style="s2">damage is real see if you pull behind</p>
+<p begin="00:15:59.080" end="00:16:04.810" style="s2">you when you are walking up the stairs</p>
+<p begin="00:16:01.080" end="00:16:08.140" style="s2">if it is my tea area will it work no</p>
+<p begin="00:16:04.810" end="00:16:10.180" style="s2">though it won&#39;t so there are times when</p>
+<p begin="00:16:08.140" end="00:16:12.340" style="s2">you use the other handle you then you</p>
+<p begin="00:16:10.180" end="00:16:16.060" style="s2">don&#39;t use the pull handle you use the</p>
+<p begin="00:16:12.340" end="00:16:18.990" style="s2">left handle think about it&#39;s the same</p>
+<p begin="00:16:16.060" end="00:16:22.980" style="s2">thing in when we deal with people</p>
+<p begin="00:16:18.990" end="00:16:26.710" style="s2">suppose you are angry with your friend</p>
+<p begin="00:16:22.980" end="00:16:29.130" style="s2">it&#39;s not working you are angry with that</p>
+<p begin="00:16:26.710" end="00:16:31.540" style="s2">person and that person is angry with you</p>
+<p begin="00:16:29.130" end="00:16:35.980" style="s2">it&#39;s not working so you&#39;re using the</p>
+<p begin="00:16:31.540" end="00:16:38.050" style="s2">pull handle try the lift handle say this</p>
+<p begin="00:16:35.980" end="00:16:40.570" style="s2">is not working but after all this person</p>
+<p begin="00:16:38.050" end="00:16:44.260" style="s2">is my friend and if he did something</p>
+<p begin="00:16:40.570" end="00:16:48.660" style="s2">stupid so did i I&#39;ve done so many stupid</p>
+<p begin="00:16:44.260" end="00:16:51.760" style="s2">things in my life so why be so angry or</p>
+<p begin="00:16:48.660" end="00:16:54.370" style="s2">even though this was stupid the hundreds</p>
+<p begin="00:16:51.760" end="00:16:57.700" style="s2">of times he did things that are good</p>
+<p begin="00:16:54.370" end="00:16:59.830" style="s2">that&#39;s reason why he is a friend you</p>
+<p begin="00:16:57.700" end="00:17:02.350" style="s2">think like this suddenly your anger goes</p>
+<p begin="00:16:59.830" end="00:17:04.179" style="s2">away and you deal with things</p>
+<p begin="00:17:02.350" end="00:17:06.280" style="s2">differently</p>
+<p begin="00:17:04.179" end="00:17:08.750" style="s2">that&#39;s where you have the choice you</p>
+<p begin="00:17:06.280" end="00:17:10.220" style="s2">stop continuing to be angry if you&#39;re</p>
+<p begin="00:17:08.750" end="00:17:11.720" style="s2">angry the other person is angry you are</p>
+<p begin="00:17:10.220" end="00:17:14.510" style="s2">even more angry that puts even more</p>
+<p begin="00:17:11.720" end="00:17:17.990" style="s2">angry and this goes on and on and on</p>
+<p begin="00:17:14.510" end="00:17:21.770" style="s2">use the other handle just the other</p>
+<p begin="00:17:17.990" end="00:17:25.309" style="s2">handle so every time your life is not</p>
+<p begin="00:17:21.770" end="00:17:28.970" style="s2">working well you have a choice you have</p>
+<p begin="00:17:25.309" end="00:17:32.020" style="s2">a choice that&#39;s what the strikes in you</p>
+<p begin="00:17:28.970" end="00:17:36.549" style="s2">have the choice you you can be rational</p>
+<p begin="00:17:32.020" end="00:17:40.900" style="s2">the rationality is your distinct trait</p>
+<p begin="00:17:36.549" end="00:17:40.900" style="s2">because which you know what animals have</p>
+<p begin="00:17:42.100" end="00:17:49.460" style="s2">so how do you do that one other things</p>
+<p begin="00:17:46.880" end="00:17:53.390" style="s2">you bear to realize is our problem comes</p>
+<p begin="00:17:49.460" end="00:17:57.049" style="s2">about because we try to control what we</p>
+<p begin="00:17:53.390" end="00:18:03.970" style="s2">cannot control we try to control what we</p>
+<p begin="00:17:57.049" end="00:18:07.880" style="s2">cannot control how many of you do this</p>
+<p begin="00:18:03.970" end="00:18:12.220" style="s2">yes all of us do that we try to control</p>
+<p begin="00:18:07.880" end="00:18:15.860" style="s2">what we cannot control okay</p>
+<p begin="00:18:12.220" end="00:18:18.049" style="s2">what&#39;s the point in campaigning was know</p>
+<p begin="00:18:15.860" end="00:18:21.020" style="s2">in January can you control it can you</p>
+<p begin="00:18:18.049" end="00:18:23.179" style="s2">stop it we cannot stop it we cannot</p>
+<p begin="00:18:21.020" end="00:18:25.610" style="s2">control it so we make ourselves</p>
+<p begin="00:18:23.179" end="00:18:27.500" style="s2">miserable by complicated by complaining</p>
+<p begin="00:18:25.610" end="00:18:30.440" style="s2">about things that are not under control</p>
+<p begin="00:18:27.500" end="00:18:34.360" style="s2">and if you think what is not under</p>
+<p begin="00:18:30.440" end="00:18:34.360" style="s2">control you will be amazed</p>
+<p begin="00:18:35.510" end="00:18:38.990" style="s2">your past is not interior controlled</p>
+<p begin="00:18:37.580" end="00:18:41.570" style="s2">right you cannot go back and change your</p>
+<p begin="00:18:38.990" end="00:18:45.500" style="s2">past there&#39;s no point in saying oh I had</p>
+<p begin="00:18:41.570" end="00:18:50.630" style="s2">a bad childhood so big deal you cannot</p>
+<p begin="00:18:45.500" end="00:18:53.300" style="s2">change it how worrying about what will</p>
+<p begin="00:18:50.630" end="00:18:57.800" style="s2">happen in your future what what will</p>
+<p begin="00:18:53.300" end="00:19:01.250" style="s2">happen what happens will happen so your</p>
+<p begin="00:18:57.800" end="00:19:03.890" style="s2">family is eternity of control well you</p>
+<p begin="00:19:01.250" end="00:19:05.780" style="s2">can see that your house may be getting</p>
+<p begin="00:19:03.890" end="00:19:07.340" style="s2">along very well one day she walks out or</p>
+<p begin="00:19:05.780" end="00:19:08.380" style="s2">he walks out and there&#39;s nothing you can</p>
+<p begin="00:19:07.340" end="00:19:10.520" style="s2">do about it</p>
+<p begin="00:19:08.380" end="00:19:12.230" style="s2">your family is not everything your</p>
+<p begin="00:19:10.520" end="00:19:14.750" style="s2">possessions is not trying to control you</p>
+<p begin="00:19:12.230" end="00:19:18.620" style="s2">your stock market can go down banks can</p>
+<p begin="00:19:14.750" end="00:19:20.690" style="s2">collapse your lifespan I can live to be</p>
+<p begin="00:19:18.620" end="00:19:23.480" style="s2">hundred twenty or when I walk how I can</p>
+<p begin="00:19:20.690" end="00:19:27.140" style="s2">be run over by a car and be dead this</p>
+<p begin="00:19:23.480" end="00:19:29.200" style="s2">afternoon we don&#39;t know that your health</p>
+<p begin="00:19:27.140" end="00:19:31.970" style="s2">is not under control</p>
+<p begin="00:19:29.200" end="00:19:33.650" style="s2">what others say or do it&#39;s not under can</p>
+<p begin="00:19:31.970" end="00:19:36.230" style="s2">told you their position is not your</p>
+<p begin="00:19:33.650" end="00:19:38.530" style="s2">control I cannot control what you think</p>
+<p begin="00:19:36.230" end="00:19:38.530" style="s2">of me</p>
+<p begin="00:19:38.650" end="00:19:45.560" style="s2">so in charge whatever is not outside of</p>
+<p begin="00:19:41.600" end="00:19:46.970" style="s2">your will you don&#39;t control so that</p>
+<p begin="00:19:45.560" end="00:19:55.820" style="s2">means pretty much everything in your</p>
+<p begin="00:19:46.970" end="00:19:59.590" style="s2">life is not a joke control so when you</p>
+<p begin="00:19:55.820" end="00:19:59.590" style="s2">try to control what you cannot control</p>
+<p begin="00:20:00.130" end="00:20:08.000" style="s2">you become anxious you become angry</p>
+<p begin="00:20:04.660" end="00:20:10.490" style="s2">sometimes you become a slave to somebody</p>
+<p begin="00:20:08.000" end="00:20:12.650" style="s2">who can tell what they can give you if</p>
+<p begin="00:20:10.490" end="00:20:15.080" style="s2">you are so attached to a job that you</p>
+<p begin="00:20:12.650" end="00:20:19.340" style="s2">have to have your job you might do</p>
+<p begin="00:20:15.080" end="00:20:20.600" style="s2">something unethical to keep your job so</p>
+<p begin="00:20:19.340" end="00:20:23.630" style="s2">the thing is when you attach to</p>
+<p begin="00:20:20.600" end="00:20:25.630" style="s2">externals you become anxious angry and</p>
+<p begin="00:20:23.630" end="00:20:28.930" style="s2">your fault finding you are worried you</p>
+<p begin="00:20:25.630" end="00:20:31.490" style="s2">become a puppet you become a slave I</p>
+<p begin="00:20:28.930" end="00:20:34.580" style="s2">suggest you do this exercise for a week</p>
+<p begin="00:20:31.490" end="00:20:38.780" style="s2">I collect externals element eliminator</p>
+<p begin="00:20:34.580" end="00:20:41.390" style="s2">is this another may control if not it is</p>
+<p begin="00:20:38.780" end="00:20:44.480" style="s2">nothing to you what you cannot control</p>
+<p begin="00:20:41.390" end="00:20:45.980" style="s2">is nothing to you if it snows in January</p>
+<p begin="00:20:44.480" end="00:20:48.950" style="s2">is it Andre okay don&#39;t know it&#39;s nothing</p>
+<p begin="00:20:45.980" end="00:20:49.220" style="s2">to you whatever you cannot control it&#39;s</p>
+<p begin="00:20:48.950" end="00:20:51.799" style="s2">not</p>
+<p begin="00:20:49.220" end="00:20:53.960" style="s2">think to you if something you had</p>
+<p begin="00:20:51.799" end="00:20:56.929" style="s2">something bad in the past is nothing to</p>
+<p begin="00:20:53.960" end="00:21:00.409" style="s2">you whether you are going to live to be</p>
+<p begin="00:20:56.929" end="00:21:01.880" style="s2">hundred years it&#39;s nothing to you but</p>
+<p begin="00:21:00.409" end="00:21:04.789" style="s2">you&#39;re going to strike it rich it&#39;s</p>
+<p begin="00:21:01.880" end="00:21:08.090" style="s2">nothing to you whatever you do not</p>
+<p begin="00:21:04.789" end="00:21:09.740" style="s2">control is nothing to you practice is</p>
+<p begin="00:21:08.090" end="00:21:12.740" style="s2">for big what are we don&#39;t control is</p>
+<p begin="00:21:09.740" end="00:21:16.940" style="s2">nothing to you act on what is under your</p>
+<p begin="00:21:12.740" end="00:21:19.789" style="s2">control this is this is a more important</p>
+<p begin="00:21:16.940" end="00:21:22.100" style="s2">part it&#39;s a very important part of</p>
+<p begin="00:21:19.789" end="00:21:25.730" style="s2">Stoicism act on what&#39;s under your</p>
+<p begin="00:21:22.100" end="00:21:27.650" style="s2">control most people may say oh I don&#39;t</p>
+<p begin="00:21:25.730" end="00:21:28.970" style="s2">care about what I don&#39;t control but</p>
+<p begin="00:21:27.650" end="00:21:31.460" style="s2">there are sometimes things that are</p>
+<p begin="00:21:28.970" end="00:21:34.309" style="s2">under your control which you can which</p>
+<p begin="00:21:31.460" end="00:21:36.049" style="s2">you can act on if we deal with only</p>
+<p begin="00:21:34.309" end="00:21:38.780" style="s2">those things that we were comfortable no</p>
+<p begin="00:21:36.049" end="00:21:43.900" style="s2">one can stop you what are the things</p>
+<p begin="00:21:38.780" end="00:21:47.120" style="s2">going to control things under control or</p>
+<p begin="00:21:43.900" end="00:21:48.740" style="s2">what you think nobody can I can&#39;t</p>
+<p begin="00:21:47.120" end="00:21:53.780" style="s2">control what you what you think you</p>
+<p begin="00:21:48.740" end="00:21:58.820" style="s2">control it what you feel nobody can</p>
+<p begin="00:21:53.780" end="00:22:01.789" style="s2">control it you control it what you feel</p>
+<p begin="00:21:58.820" end="00:22:06.440" style="s2">what you think nobody can control those</p>
+<p begin="00:22:01.789" end="00:22:09.350" style="s2">things you control it so you act on what</p>
+<p begin="00:22:06.440" end="00:22:12.020" style="s2">you control okay don&#39;t act on what you</p>
+<p begin="00:22:09.350" end="00:22:16.159" style="s2">don&#39;t control act on what you Lucan</p>
+<p begin="00:22:12.020" end="00:22:18.320" style="s2">troll if we deal only those things that</p>
+<p begin="00:22:16.159" end="00:22:21.010" style="s2">are under your control no one can force</p>
+<p begin="00:22:18.320" end="00:22:24.890" style="s2">you to do anything you don&#39;t want to do</p>
+<p begin="00:22:21.010" end="00:22:29.900" style="s2">no one can stop you you have no enemy no</p>
+<p begin="00:22:24.890" end="00:22:33.110" style="s2">harm will come to you think about it all</p>
+<p begin="00:22:29.900" end="00:22:35.480" style="s2">you have to create your happiness is to</p>
+<p begin="00:22:33.110" end="00:22:37.789" style="s2">ignore what you don&#39;t control I&#39;d act on</p>
+<p begin="00:22:35.480" end="00:22:40.280" style="s2">what you can&#39;t control when you do that</p>
+<p begin="00:22:37.789" end="00:22:41.900" style="s2">you will have no enemy because you are</p>
+<p begin="00:22:40.280" end="00:22:42.860" style="s2">not complaining about anything that&#39;s</p>
+<p begin="00:22:41.900" end="00:22:45.140" style="s2">not something you control</p>
+<p begin="00:22:42.860" end="00:22:47.929" style="s2">you are doing just what you can&#39;t</p>
+<p begin="00:22:45.140" end="00:22:51.530" style="s2">control that&#39;s all you are doing but</p>
+<p begin="00:22:47.929" end="00:22:53.870" style="s2">that is enough to create a happy life</p>
+<p begin="00:22:51.530" end="00:22:56.960" style="s2">that is enough to create a fulfilling</p>
+<p begin="00:22:53.870" end="00:23:00.530" style="s2">life it is enough to create a life</p>
+<p begin="00:22:56.960" end="00:23:01.220" style="s2">that&#39;s worth living so this exercise is</p>
+<p begin="00:23:00.530" end="00:23:02.930" style="s2">for a week</p>
+<p begin="00:23:01.220" end="00:23:05.360" style="s2">action activator</p>
+<p begin="00:23:02.930" end="00:23:07.309" style="s2">when it is what is under my control act</p>
+<p begin="00:23:05.360" end="00:23:10.070" style="s2">on what isn&#39;t river control act on what</p>
+<p begin="00:23:07.309" end="00:23:11.809" style="s2">is under control don&#39;ts do not not do</p>
+<p begin="00:23:10.070" end="00:23:14.510" style="s2">what&#39;s under control you lost your job</p>
+<p begin="00:23:11.809" end="00:23:18.350" style="s2">what is under control you can still</p>
+<p begin="00:23:14.510" end="00:23:21.890" style="s2">enjoy your meal you can brush up your</p>
+<p begin="00:23:18.350" end="00:23:23.420" style="s2">resume on LinkedIn you can call it an</p>
+<p begin="00:23:21.890" end="00:23:25.880" style="s2">employment agency you can do a lot of</p>
+<p begin="00:23:23.420" end="00:23:27.530" style="s2">things eccentric control but instead why</p>
+<p begin="00:23:25.880" end="00:23:30.020" style="s2">to ice you know we&#39;re getting depressed</p>
+<p begin="00:23:27.530" end="00:23:33.110" style="s2">that we lost our jobs instead of doing</p>
+<p begin="00:23:30.020" end="00:23:34.100" style="s2">what what isn&#39;t our control act on</p>
+<p begin="00:23:33.110" end="00:23:36.020" style="s2">what&#39;s under your control</p>
+<p begin="00:23:34.100" end="00:23:40.940" style="s2">don&#39;t worry about what&#39;s not under your</p>
+<p begin="00:23:36.020" end="00:23:45.980" style="s2">control yeah so these are the four</p>
+<p begin="00:23:40.940" end="00:23:50.450" style="s2">foundations of stoic philosophy first</p>
+<p begin="00:23:45.980" end="00:23:52.070" style="s2">phase happiness is a life that flows</p>
+<p begin="00:23:50.450" end="00:23:52.990" style="s2">smoothly and our life is not going</p>
+<p begin="00:23:52.070" end="00:23:56.420" style="s2">smoothly</p>
+<p begin="00:23:52.990" end="00:23:58.010" style="s2">if anybody alive is flowing smoothly</p>
+<p begin="00:23:56.420" end="00:24:02.750" style="s2">probably you&#39;re wasting your time here</p>
+<p begin="00:23:58.010" end="00:24:03.410" style="s2">with me anyway see life is not going</p>
+<p begin="00:24:02.750" end="00:24:05.120" style="s2">smoothly</p>
+<p begin="00:24:03.410" end="00:24:08.690" style="s2">number two the reason why it doesn&#39;t</p>
+<p begin="00:24:05.120" end="00:24:09.290" style="s2">fall smoothly is we don&#39;t act according</p>
+<p begin="00:24:08.690" end="00:24:11.090" style="s2">to nature</p>
+<p begin="00:24:09.290" end="00:24:12.770" style="s2">there&#39;s accounting to our nature</p>
+<p begin="00:24:11.090" end="00:24:14.870" style="s2">according to the nature of the world we</p>
+<p begin="00:24:12.770" end="00:24:16.820" style="s2">are constantly in conflict with our own</p>
+<p begin="00:24:14.870" end="00:24:18.559" style="s2">nature with the dash of the world that&#39;s</p>
+<p begin="00:24:16.820" end="00:24:21.130" style="s2">the reason why our life is not working</p>
+<p begin="00:24:18.559" end="00:24:23.750" style="s2">properly and to make it work properly</p>
+<p begin="00:24:21.130" end="00:24:27.170" style="s2">you have to stop controlling things that</p>
+<p begin="00:24:23.750" end="00:24:32.440" style="s2">you cannot control and act on what you</p>
+<p begin="00:24:27.170" end="00:24:32.440" style="s2">can control are you happy</p>
+<p begin="00:24:33.260" end="00:24:40.429" style="s2">that&#39;s twice ism you know one okay but</p>
+<p begin="00:24:38.150" end="00:24:42.110" style="s2">we&#39;re not done yet because we we know</p>
+<p begin="00:24:40.429" end="00:24:44.750" style="s2">the foundation but you can&#39;t live in a</p>
+<p begin="00:24:42.110" end="00:24:49.580" style="s2">foundation right we we need a house we</p>
+<p begin="00:24:44.750" end="00:24:51.559" style="s2">can&#39;t live on a foundation so we have</p>
+<p begin="00:24:49.580" end="00:24:56.540" style="s2">the walls wait a window straight have a</p>
+<p begin="00:24:51.559" end="00:24:59.660" style="s2">roof so what wants the four walls the</p>
+<p begin="00:24:56.540" end="00:25:01.820" style="s2">foolish walls are there are four special</p>
+<p begin="00:24:59.660" end="00:25:04.040" style="s2">skills you would need they are also</p>
+<p begin="00:25:01.820" end="00:25:07.970" style="s2">called for excellences how they are also</p>
+<p begin="00:25:04.040" end="00:25:12.530" style="s2">called virtues for virtues for</p>
+<p begin="00:25:07.970" end="00:25:15.559" style="s2">excellences the four walls okay</p>
+<p begin="00:25:12.530" end="00:25:19.880" style="s2">this these four walls are this you have</p>
+<p begin="00:25:15.559" end="00:25:22.340" style="s2">to be able to answer four questions you</p>
+<p begin="00:25:19.880" end="00:25:24.140" style="s2">know all this you know the foundation</p>
+<p begin="00:25:22.340" end="00:25:27.110" style="s2">the first questions you have to answer</p>
+<p begin="00:25:24.140" end="00:25:29.330" style="s2">is what to do what not to do at any</p>
+<p begin="00:25:27.110" end="00:25:32.710" style="s2">given condition what you should do what</p>
+<p begin="00:25:29.330" end="00:25:34.820" style="s2">you should not do that&#39;s number one</p>
+<p begin="00:25:32.710" end="00:25:39.650" style="s2">question number two who does it belong</p>
+<p begin="00:25:34.820" end="00:25:42.500" style="s2">to give every person his or her do take</p>
+<p begin="00:25:39.650" end="00:25:44.870" style="s2">new everyone they do that&#39;s number two</p>
+<p begin="00:25:42.500" end="00:25:47.750" style="s2">and that is question number three</p>
+<p begin="00:25:44.870" end="00:25:48.230" style="s2">what&#39;s question number three what to</p>
+<p begin="00:25:47.750" end="00:25:51.580" style="s2">select</p>
+<p begin="00:25:48.230" end="00:25:56.290" style="s2">what not to select</p>
+<p begin="00:25:51.580" end="00:25:58.780" style="s2">and question number four what you should</p>
+<p begin="00:25:56.290" end="00:26:03.700" style="s2">be afraid of what it should not be</p>
+<p begin="00:25:58.780" end="00:26:09.400" style="s2">afraid of four questions what to do what</p>
+<p begin="00:26:03.700" end="00:26:12.850" style="s2">not to do his wisdom to know what to do</p>
+<p begin="00:26:09.400" end="00:26:14.560" style="s2">what not to do is visit them to know who</p>
+<p begin="00:26:12.850" end="00:26:20.710" style="s2">does it belong to and give everyone</p>
+<p begin="00:26:14.560" end="00:26:24.520" style="s2">their due is justice okay to know what</p>
+<p begin="00:26:20.710" end="00:26:29.380" style="s2">to select and what not to select it&#39;s</p>
+<p begin="00:26:24.520" end="00:26:32.590" style="s2">moderation not going in excess and to</p>
+<p begin="00:26:29.380" end="00:26:34.840" style="s2">know what you should be afraid of what</p>
+<p begin="00:26:32.590" end="00:26:38.140" style="s2">you should not be afraid of what is</p>
+<p begin="00:26:34.840" end="00:26:42.400" style="s2">terrible what&#39;s not terrible that is</p>
+<p begin="00:26:38.140" end="00:26:45.610" style="s2">courage courage okay so these are the</p>
+<p begin="00:26:42.400" end="00:26:47.800" style="s2">four skills you should have four skills</p>
+<p begin="00:26:45.610" end="00:26:51.640" style="s2">you should develop to practice joy</p>
+<p begin="00:26:47.800" end="00:26:54.070" style="s2">system or four virtues as the you know</p>
+<p begin="00:26:51.640" end="00:26:57.330" style="s2">they used to turn virtue in modern</p>
+<p begin="00:26:54.070" end="00:27:01.170" style="s2">parlance virtues kind of looks pompous</p>
+<p begin="00:26:57.330" end="00:27:04.720" style="s2">okay let&#39;s say for special skills</p>
+<p begin="00:27:01.170" end="00:27:06.610" style="s2">this girl said we can call it for</p>
+<p begin="00:27:04.720" end="00:27:11.380" style="s2">special skills I like the term for</p>
+<p begin="00:27:06.610" end="00:27:15.010" style="s2">special skills okay let&#39;s let me walk</p>
+<p begin="00:27:11.380" end="00:27:20.370" style="s2">you through this wisdom what to do what</p>
+<p begin="00:27:15.010" end="00:27:20.370" style="s2">not to do judging things correctly</p>
+<p begin="00:27:20.549" end="00:27:26.669" style="s2">this we have already seen before because</p>
+<p begin="00:27:24.179" end="00:27:28.379" style="s2">we do things that are that are under</p>
+<p begin="00:27:26.669" end="00:27:31.019" style="s2">work control we don&#39;t do things that are</p>
+<p begin="00:27:28.379" end="00:27:33.409" style="s2">not under control okay that is less</p>
+<p begin="00:27:31.019" end="00:27:36.830" style="s2">wisdom first skill is wisdom</p>
+<p begin="00:27:33.409" end="00:27:36.830" style="s2">okay so</p>
+<p begin="00:27:41.480" end="00:27:47.040" style="s2">it changed what is not exchange is not</p>
+<p begin="00:27:44.280" end="00:27:49.890" style="s2">up to you so you don&#39;t you don&#39;t</p>
+<p begin="00:27:47.040" end="00:27:53.160" style="s2">complain about it you can take an</p>
+<p begin="00:27:49.890" end="00:27:56.790" style="s2">umbrella you can do that so what to do</p>
+<p begin="00:27:53.160" end="00:27:58.380" style="s2">not complain about rain what not to do</p>
+<p begin="00:27:56.790" end="00:28:01.950" style="s2">is contain about rain what to do is take</p>
+<p begin="00:27:58.380" end="00:28:04.740" style="s2">an umbrella there&#39;s turbulence when you</p>
+<p begin="00:28:01.950" end="00:28:06.830" style="s2">are sailing don&#39;t complain about the</p>
+<p begin="00:28:04.740" end="00:28:09.300" style="s2">turbulence it&#39;s not a material control</p>
+<p begin="00:28:06.830" end="00:28:12.720" style="s2">control the sails in that central</p>
+<p begin="00:28:09.300" end="00:28:14.730" style="s2">control so you always do things you</p>
+<p begin="00:28:12.720" end="00:28:17.310" style="s2">ignore what is not under your control</p>
+<p begin="00:28:14.730" end="00:28:21.740" style="s2">do what isn&#39;t over control that is</p>
+<p begin="00:28:17.310" end="00:28:21.740" style="s2">wisdom that&#39;s mister</p>
+<p begin="00:28:29.260" end="00:28:35.799" style="s2">well I go the doctor doctor says I have</p>
+<p begin="00:28:31.929" end="00:28:37.480" style="s2">cancer in the early stages can I do</p>
+<p begin="00:28:35.799" end="00:28:42.309" style="s2">anything about it no I already have</p>
+<p begin="00:28:37.480" end="00:28:43.330" style="s2">cancer so it&#39;s nothing to me can I do</p>
+<p begin="00:28:42.309" end="00:28:48.370" style="s2">anything about it</p>
+<p begin="00:28:43.330" end="00:28:51.940" style="s2">yes to radiation chemo eat properly and</p>
+<p begin="00:28:48.370" end="00:28:53.860" style="s2">I&#39;ll be cured I&#39;ll do that so we ignore</p>
+<p begin="00:28:51.940" end="00:28:56.080" style="s2">what is not under control do what&#39;s</p>
+<p begin="00:28:53.860" end="00:28:58.059" style="s2">under control that is wisdom this</p>
+<p begin="00:28:56.080" end="00:28:59.530" style="s2">exercise you can do for a week in fact</p>
+<p begin="00:28:58.059" end="00:29:02.620" style="s2">you should do for the rest of your life</p>
+<p begin="00:28:59.530" end="00:29:07.090" style="s2">I call it epic exam Epictetus</p>
+<p begin="00:29:02.620" end="00:29:10.510" style="s2">examination it tells you it tells you</p>
+<p begin="00:29:07.090" end="00:29:14.440" style="s2">it&#39;s a it is a basis of wisdom what to</p>
+<p begin="00:29:10.510" end="00:29:15.250" style="s2">do what not to do do what is do what is</p>
+<p begin="00:29:14.440" end="00:29:17.260" style="s2">under control</p>
+<p begin="00:29:15.250" end="00:29:21.570" style="s2">do not worry about what&#39;s not and our</p>
+<p begin="00:29:17.260" end="00:29:25.570" style="s2">country this is a central theme of</p>
+<p begin="00:29:21.570" end="00:29:27.580" style="s2">choices on it&#39;s called the dichotomy see</p>
+<p begin="00:29:25.570" end="00:29:29.980" style="s2">certain things are under your control</p>
+<p begin="00:29:27.580" end="00:29:34.620" style="s2">don&#39;t worry about them certain things</p>
+<p begin="00:29:29.980" end="00:29:34.620" style="s2">are voluntary control do them okay</p>
+<p begin="00:29:39.230" end="00:29:46.130" style="s2">okay the second thing is justice who</p>
+<p begin="00:29:43.880" end="00:29:48.830" style="s2">sister sauce is not this you have to</p>
+<p begin="00:29:46.130" end="00:29:53.960" style="s2">give everyone their due you know we</p>
+<p begin="00:29:48.830" end="00:29:55.549" style="s2">think we are all alone but basically you</p>
+<p begin="00:29:53.960" end="00:29:56.929" style="s2">are connected to your family and your</p>
+<p begin="00:29:55.549" end="00:30:01.279" style="s2">friends and your country and ultimately</p>
+<p begin="00:29:56.929" end="00:30:04.159" style="s2">to the world so that means you don&#39;t you</p>
+<p begin="00:30:01.279" end="00:30:05.720" style="s2">do things that are not just good for you</p>
+<p begin="00:30:04.159" end="00:30:08.179" style="s2">it&#39;s good for your family for your</p>
+<p begin="00:30:05.720" end="00:30:13.279" style="s2">friends for the family for the world at</p>
+<p begin="00:30:08.179" end="00:30:15.139" style="s2">large that means if our if if the world</p>
+<p begin="00:30:13.279" end="00:30:18.710" style="s2">is polluted you do something to clean it</p>
+<p begin="00:30:15.139" end="00:30:21.110" style="s2">up okay anything that all you know it&#39;s</p>
+<p begin="00:30:18.710" end="00:30:23.389" style="s2">not you don&#39;t want to grab that belong</p>
+<p begin="00:30:21.110" end="00:30:28.179" style="s2">to somebody else because ultimately</p>
+<p begin="00:30:23.389" end="00:30:31.309" style="s2">these things won&#39;t make you happy so the</p>
+<p begin="00:30:28.179" end="00:30:34.880" style="s2">the the the concept of justice the</p>
+<p begin="00:30:31.309" end="00:30:37.639" style="s2">virtue of justice in storage system is</p>
+<p begin="00:30:34.880" end="00:30:39.559" style="s2">that we are connected to this world we</p>
+<p begin="00:30:37.639" end="00:30:43.760" style="s2">are connect to this world because it&#39;s</p>
+<p begin="00:30:39.559" end="00:30:46.760" style="s2">an expanding circle here start with you</p>
+<p begin="00:30:43.760" end="00:30:50.710" style="s2">and your family and your friends and the</p>
+<p begin="00:30:46.760" end="00:30:50.710" style="s2">world and everything else</p>
+<p begin="00:30:52.490" end="00:30:59.390" style="s2">so whenever you have things like greed</p>
+<p begin="00:30:55.850" end="00:31:04.850" style="s2">and things like coming on there&#39;s an</p>
+<p begin="00:30:59.390" end="00:31:07.730" style="s2">exercise suggested by well some sort of</p>
+<p begin="00:31:04.850" end="00:31:10.700" style="s2">suggested by Marcus Aurelius this</p>
+<p begin="00:31:07.730" end="00:31:12.770" style="s2">thought is unnecessary this thought is</p>
+<p begin="00:31:10.700" end="00:31:14.780" style="s2">destructive it&#39;s not even my true</p>
+<p begin="00:31:12.770" end="00:31:18.160" style="s2">thought I don&#39;t know any big lady person</p>
+<p begin="00:31:14.780" end="00:31:22.160" style="s2">it&#39;s unjust so whenever you have</p>
+<p begin="00:31:18.160" end="00:31:24.500" style="s2">thoughts of greed and grabbing or yeah</p>
+<p begin="00:31:22.160" end="00:31:26.720" style="s2">it doesn&#39;t matter if we pollute it</p>
+<p begin="00:31:24.500" end="00:31:29.120" style="s2">doesn&#39;t matter or I can have ten plastic</p>
+<p begin="00:31:26.720" end="00:31:31.790" style="s2">bags or whatever think about it and see</p>
+<p begin="00:31:29.120" end="00:31:34.400" style="s2">this thought is unnecessary this thought</p>
+<p begin="00:31:31.790" end="00:31:40.520" style="s2">is destructive this don&#39;t buy true</p>
+<p begin="00:31:34.400" end="00:31:42.470" style="s2">thought it&#39;s unjust so I call this Fab</p>
+<p begin="00:31:40.520" end="00:31:47.510" style="s2">Four exercise this is to practice</p>
+<p begin="00:31:42.470" end="00:31:49.850" style="s2">justice then we have the moderation the</p>
+<p begin="00:31:47.510" end="00:31:53.870" style="s2">third skill is moderation what to select</p>
+<p begin="00:31:49.850" end="00:31:58.210" style="s2">what not to select you got this great</p>
+<p begin="00:31:53.870" end="00:32:03.130" style="s2">buffet how many people can&#39;t resist</p>
+<p begin="00:31:58.210" end="00:32:05.290" style="s2">emptying a whole bowl of chocolates</p>
+<p begin="00:32:03.130" end="00:32:08.210" style="s2">[Music]</p>
+<p begin="00:32:05.290" end="00:32:12.830" style="s2">basically what we have is this colorful</p>
+<p begin="00:32:08.210" end="00:32:16.100" style="s2">we indulge in excess if a glass of wine</p>
+<p begin="00:32:12.830" end="00:32:20.750" style="s2">is good two glasses better see is even</p>
+<p begin="00:32:16.100" end="00:32:25.100" style="s2">better but for about five hours six so</p>
+<p begin="00:32:20.750" end="00:32:29.360" style="s2">what we do is we continue indulging at</p>
+<p begin="00:32:25.100" end="00:32:32.420" style="s2">some point you become an alcoholic how</p>
+<p begin="00:32:29.360" end="00:32:34.250" style="s2">about food yeah once the set is good -</p>
+<p begin="00:32:32.420" end="00:32:37.540" style="s2">it&#39;s better see it&#39;s even better for</p>
+<p begin="00:32:34.250" end="00:32:40.370" style="s2">five at some point you become obese</p>
+<p begin="00:32:37.540" end="00:32:44.030" style="s2">okay whatever is good taking it to the</p>
+<p begin="00:32:40.370" end="00:32:45.770" style="s2">extreme negates itself okay so you have</p>
+<p begin="00:32:44.030" end="00:32:49.640" style="s2">to say when to select and not to select</p>
+<p begin="00:32:45.770" end="00:32:51.110" style="s2">that is the third scale so more is</p>
+<p begin="00:32:49.640" end="00:32:53.210" style="s2">better it&#39;s one of the reasons we do it</p>
+<p begin="00:32:51.110" end="00:32:56.150" style="s2">why not because I can afford it so you</p>
+<p begin="00:32:53.210" end="00:32:59.780" style="s2">buy unnecessary things because you can</p>
+<p begin="00:32:56.150" end="00:33:01.400" style="s2">afford it okay and sometimes we do it</p>
+<p begin="00:32:59.780" end="00:33:03.320" style="s2">impress others you buy a bigger car</p>
+<p begin="00:33:01.400" end="00:33:05.090" style="s2">bigger house not because you need a</p>
+<p begin="00:33:03.320" end="00:33:08.840" style="s2">bigger house or a bigger car</p>
+<p begin="00:33:05.090" end="00:33:13.610" style="s2">but impresses somebody else and</p>
+<p begin="00:33:08.840" end="00:33:16.039" style="s2">certainly we also attempted by or mind</p>
+<p begin="00:33:13.610" end="00:33:18.620" style="s2">painting a positive image you go there</p>
+<p begin="00:33:16.039" end="00:33:20.389" style="s2">you see a pair of shoes and say what is</p>
+<p begin="00:33:18.620" end="00:33:22.700" style="s2">beautiful and you can imagine how well</p>
+<p begin="00:33:20.389" end="00:33:26.090" style="s2">how beautiful you would look at that</p>
+<p begin="00:33:22.700" end="00:33:28.159" style="s2">pair of shoes or in that dress except</p>
+<p begin="00:33:26.090" end="00:33:29.230" style="s2">that after six months you don&#39;t even you</p>
+<p begin="00:33:28.159" end="00:33:31.700" style="s2">don&#39;t wear it anymore</p>
+<p begin="00:33:29.230" end="00:33:34.970" style="s2">in fact I&#39;ve seen people who would open</p>
+<p begin="00:33:31.700" end="00:33:36.830" style="s2">the hood a walk-in closet and say I</p>
+<p begin="00:33:34.970" end="00:33:38.629" style="s2">don&#39;t have anything to wear I walk in</p>
+<p begin="00:33:36.830" end="00:33:41.059" style="s2">and I will look at it and say it&#39;s</p>
+<p begin="00:33:38.629" end="00:33:44.389" style="s2">buzzing with clothes about 300 dresses</p>
+<p begin="00:33:41.059" end="00:33:46.700" style="s2">and they don&#39;t have anything to me you</p>
+<p begin="00:33:44.389" end="00:33:49.639" style="s2">know the best mind keeps painting a</p>
+<p begin="00:33:46.700" end="00:33:53.929" style="s2">positive image so we indulge in excess</p>
+<p begin="00:33:49.639" end="00:33:58.700" style="s2">for various reasons so to get away from</p>
+<p begin="00:33:53.929" end="00:34:02.149" style="s2">it exercise suggests this exercise pause</p>
+<p begin="00:33:58.700" end="00:34:05.230" style="s2">and ponder with the pleasure lost yeah I</p>
+<p begin="00:34:02.149" end="00:34:07.580" style="s2">think this test will make me feel good</p>
+<p begin="00:34:05.230" end="00:34:09.619" style="s2">but will they do so three months from</p>
+<p begin="00:34:07.580" end="00:34:13.940" style="s2">now six months from now or will I be</p>
+<p begin="00:34:09.619" end="00:34:16.550" style="s2">looking for another another dress will</p>
+<p begin="00:34:13.940" end="00:34:19.460" style="s2">charm me or others if you become an</p>
+<p begin="00:34:16.550" end="00:34:22.819" style="s2">alcoholic it not only harms you but it</p>
+<p begin="00:34:19.460" end="00:34:25.819" style="s2">haunts your family so will it Tommy or</p>
+<p begin="00:34:22.819" end="00:34:29.149" style="s2">others it&#39;s not just you or others am i</p>
+<p begin="00:34:25.819" end="00:34:32.560" style="s2">doing it for approval am i doing it</p>
+<p begin="00:34:29.149" end="00:34:32.560" style="s2">improve is impress others</p>
+<p begin="00:34:35.119" end="00:34:42.869" style="s2">and then the the final skill that you</p>
+<p begin="00:34:38.460" end="00:34:45.540" style="s2">would need is courage courage is</p>
+<p begin="00:34:42.869" end="00:34:46.669" style="s2">understanding what is terrible and what</p>
+<p begin="00:34:45.540" end="00:34:48.899" style="s2">is not terrible</p>
+<p begin="00:34:46.669" end="00:34:50.429" style="s2">okay what is terrible and what&#39;s not</p>
+<p begin="00:34:48.899" end="00:34:52.580" style="s2">sure what you should be afraid of</p>
+<p begin="00:34:50.429" end="00:34:54.960" style="s2">it&#39;s terrible you should be afraid of</p>
+<p begin="00:34:52.580" end="00:35:00.530" style="s2">not terrible you should not be afraid of</p>
+<p begin="00:34:54.960" end="00:35:06.830" style="s2">its death terrible this this is terrible</p>
+<p begin="00:35:00.530" end="00:35:10.290" style="s2">it&#39;s old age terrible what is terrible</p>
+<p begin="00:35:06.830" end="00:35:14.550" style="s2">what is terrible to you anything</p>
+<p begin="00:35:10.290" end="00:35:16.859" style="s2">terrible well for most people this is</p>
+<p begin="00:35:14.550" end="00:35:20.640" style="s2">terrible poverty is terrible death is</p>
+<p begin="00:35:16.859" end="00:35:25.200" style="s2">terrible but stoic say no they are</p>
+<p begin="00:35:20.640" end="00:35:29.369" style="s2">terrible they are a reality not whatever</p>
+<p begin="00:35:25.200" end="00:35:32.130" style="s2">this reality is not terrible poverty</p>
+<p begin="00:35:29.369" end="00:35:32.790" style="s2">disease that is not terrible you don&#39;t</p>
+<p begin="00:35:32.130" end="00:35:34.950" style="s2">control it</p>
+<p begin="00:35:32.790" end="00:35:38.930" style="s2">what is terrible is your faulty</p>
+<p begin="00:35:34.950" end="00:35:41.730" style="s2">judgments that&#39;s terrible you control it</p>
+<p begin="00:35:38.930" end="00:35:44.430" style="s2">so what is terrible and what&#39;s not</p>
+<p begin="00:35:41.730" end="00:35:46.700" style="s2">terrible comes from your judgment not</p>
+<p begin="00:35:44.430" end="00:35:50.190" style="s2">from out there not from with them</p>
+<p begin="00:35:46.700" end="00:35:52.920" style="s2">poverty is not terrible that is not</p>
+<p begin="00:35:50.190" end="00:35:56.130" style="s2">terrible this is it&#39;s not terrible not</p>
+<p begin="00:35:52.920" end="00:35:59.040" style="s2">that you would invite it not invited not</p>
+<p begin="00:35:56.130" end="00:36:00.720" style="s2">that you should relish it it&#39;s just if</p>
+<p begin="00:35:59.040" end="00:36:03.410" style="s2">it happens it&#39;s not terrible you can</p>
+<p begin="00:36:00.720" end="00:36:03.410" style="s2">still be happy</p>
+<p begin="00:36:05.340" end="00:36:11.500" style="s2">the reason why we do that is we act as</p>
+<p begin="00:36:08.710" end="00:36:13.300" style="s2">though we are helpless but we have</p>
+<p begin="00:36:11.500" end="00:36:16.240" style="s2">resources to cope anything that comes</p>
+<p begin="00:36:13.300" end="00:36:19.300" style="s2">our way let&#39;s assume let me assume the</p>
+<p begin="00:36:16.240" end="00:36:22.410" style="s2">average age of people here older younger</p>
+<p begin="00:36:19.300" end="00:36:25.870" style="s2">maybe 35 years suppose it is 35 years</p>
+<p begin="00:36:22.410" end="00:36:29.410" style="s2">you live 35 years facing all the</p>
+<p begin="00:36:25.870" end="00:36:32.500" style="s2">problems you faced they&#39;re going to</p>
+<p begin="00:36:29.410" end="00:36:34.570" style="s2">repeat again so if you faced it so far</p>
+<p begin="00:36:32.500" end="00:36:38.890" style="s2">you&#39;ll be able to face it in the future</p>
+<p begin="00:36:34.570" end="00:36:40.630" style="s2">but we say so you ask yourself if this</p>
+<p begin="00:36:38.890" end="00:36:44.470" style="s2">happens to have any resource to cope</p>
+<p begin="00:36:40.630" end="00:36:47.860" style="s2">with this the line a supermarket is long</p>
+<p begin="00:36:44.470" end="00:36:49.840" style="s2">or long itself complaining about they</p>
+<p begin="00:36:47.860" end="00:36:54.070" style="s2">say what resources you have to cope with</p>
+<p begin="00:36:49.840" end="00:36:58.330" style="s2">it your patience we can be patient you</p>
+<p begin="00:36:54.070" end="00:37:01.960" style="s2">have something you are doing something</p>
+<p begin="00:36:58.330" end="00:37:04.360" style="s2">that is hard we have any strength took</p>
+<p begin="00:37:01.960" end="00:37:05.500" style="s2">what was think we have what you chose to</p>
+<p begin="00:37:04.360" end="00:37:09.340" style="s2">do we have to cope with it</p>
+<p begin="00:37:05.500" end="00:37:13.270" style="s2">you have endurance somebody is abusing</p>
+<p begin="00:37:09.340" end="00:37:15.850" style="s2">you and you have no way out what string</p>
+<p begin="00:37:13.270" end="00:37:18.130" style="s2">to have your mental strength so you have</p>
+<p begin="00:37:15.850" end="00:37:21.240" style="s2">resources to cope with anything that</p>
+<p begin="00:37:18.130" end="00:37:21.240" style="s2">happens in your life anything</p>
+<p begin="00:37:22.320" end="00:37:29.700" style="s2">once you realize that then you don&#39;t you</p>
+<p begin="00:37:27.300" end="00:37:31.410" style="s2">don&#39;t complain about what might happen</p>
+<p begin="00:37:29.700" end="00:37:32.760" style="s2">in the future whatever happens happens</p>
+<p begin="00:37:31.410" end="00:37:37.670" style="s2">because you have the strength to cope</p>
+<p begin="00:37:32.760" end="00:37:42.270" style="s2">with it okay so these are the four</p>
+<p begin="00:37:37.670" end="00:37:49.220" style="s2">virtues or four things four special</p>
+<p begin="00:37:42.270" end="00:37:51.560" style="s2">skills so to review the foundation is</p>
+<p begin="00:37:49.220" end="00:37:54.210" style="s2">happiness is a life that flows smoothly</p>
+<p begin="00:37:51.560" end="00:37:56.730" style="s2">our life is not working properly because</p>
+<p begin="00:37:54.210" end="00:38:00.720" style="s2">our thoughts prevent us from doing that</p>
+<p begin="00:37:56.730" end="00:38:03.420" style="s2">and to and to make our life work</p>
+<p begin="00:38:00.720" end="00:38:07.800" style="s2">properly we should ignore what we don&#39;t</p>
+<p begin="00:38:03.420" end="00:38:08.820" style="s2">control act on what we do control try to</p>
+<p begin="00:38:07.800" end="00:38:10.920" style="s2">make this happen</p>
+<p begin="00:38:08.820" end="00:38:13.130" style="s2">we should you apply four skills skill</p>
+<p begin="00:38:10.920" end="00:38:14.790" style="s2">number one what to do what not to do</p>
+<p begin="00:38:13.130" end="00:38:18.240" style="s2">skill number two</p>
+<p begin="00:38:14.790" end="00:38:24.150" style="s2">whose is this truth is not this skill</p>
+<p begin="00:38:18.240" end="00:38:27.030" style="s2">number three what to select what not to</p>
+<p begin="00:38:24.150" end="00:38:29.030" style="s2">select skill number four what to be</p>
+<p begin="00:38:27.030" end="00:38:32.430" style="s2">afraid of what not to be afraid of</p>
+<p begin="00:38:29.030" end="00:38:36.770" style="s2">yeah so those are the four skills now we</p>
+<p begin="00:38:32.430" end="00:38:41.070" style="s2">have our foundation we have our walls</p>
+<p begin="00:38:36.770" end="00:38:43.170" style="s2">we need windows right okay what are the</p>
+<p begin="00:38:41.070" end="00:38:45.350" style="s2">three windows these are three</p>
+<p begin="00:38:43.170" end="00:38:47.670" style="s2">disciplines you need to practice</p>
+<p begin="00:38:45.350" end="00:38:52.310" style="s2">discipline a percent discipline of</p>
+<p begin="00:38:47.670" end="00:38:52.310" style="s2">action and discipline of desire okay</p>
+<p begin="00:38:54.430" end="00:39:03.350" style="s2">discipline of ascent is every time you</p>
+<p begin="00:38:57.980" end="00:39:05.230" style="s2">are sent to something suppose you you</p>
+<p begin="00:39:03.350" end="00:39:08.300" style="s2">know impression is somebody insulted you</p>
+<p begin="00:39:05.230" end="00:39:13.040" style="s2">you react only if we say yes he inserted</p>
+<p begin="00:39:08.300" end="00:39:15.320" style="s2">me that&#39;s the ascent many times the</p>
+<p begin="00:39:13.040" end="00:39:18.260" style="s2">impressions are wrong we we are too</p>
+<p begin="00:39:15.320" end="00:39:21.080" style="s2">strict resent we just say okay that&#39;s a</p>
+<p begin="00:39:18.260" end="00:39:24.310" style="s2">way somebody could be for example you</p>
+<p begin="00:39:21.080" end="00:39:27.140" style="s2">have a new employee in your office you</p>
+<p begin="00:39:24.310" end="00:39:30.620" style="s2">try to greet that person try to talk to</p>
+<p begin="00:39:27.140" end="00:39:32.570" style="s2">him a bit non-communicative you think</p>
+<p begin="00:39:30.620" end="00:39:35.270" style="s2">it&#39;s maybe it&#39;s a bit arrogant but maybe</p>
+<p begin="00:39:32.570" end="00:39:37.220" style="s2">is just shy you are sensitive you are</p>
+<p begin="00:39:35.270" end="00:39:42.110" style="s2">sent to the impression that is arrogant</p>
+<p begin="00:39:37.220" end="00:39:44.150" style="s2">but it may just be shy okay so that&#39;s a</p>
+<p begin="00:39:42.110" end="00:39:45.760" style="s2">discipline of ascent before ascending to</p>
+<p begin="00:39:44.150" end="00:39:48.440" style="s2">something before agreeing to something</p>
+<p begin="00:39:45.760" end="00:39:51.260" style="s2">see is this true examine your</p>
+<p begin="00:39:48.440" end="00:39:55.180" style="s2">impressions that is the discipline of</p>
+<p begin="00:39:51.260" end="00:39:58.090" style="s2">ascent okay yes or no first window</p>
+<p begin="00:39:55.180" end="00:40:01.070" style="s2">discipline of ascent</p>
+<p begin="00:39:58.090" end="00:40:02.480" style="s2">number two discipline a faction you know</p>
+<p begin="00:40:01.070" end="00:40:05.150" style="s2">when you practice justice</p>
+<p begin="00:40:02.480" end="00:40:09.170" style="s2">it means you act that is if somebody is</p>
+<p begin="00:40:05.150" end="00:40:10.970" style="s2">hungry give the person food if your</p>
+<p begin="00:40:09.170" end="00:40:12.710" style="s2">environment is polluted do something to</p>
+<p begin="00:40:10.970" end="00:40:15.020" style="s2">clean it up it&#39;s all action you know</p>
+<p begin="00:40:12.710" end="00:40:17.360" style="s2">whatever you do outside of you it&#39;s an</p>
+<p begin="00:40:15.020" end="00:40:19.190" style="s2">action that is that is when you practice</p>
+<p begin="00:40:17.360" end="00:40:24.620" style="s2">justice your practice to the discipline</p>
+<p begin="00:40:19.190" end="00:40:26.300" style="s2">of action on the third window it&#39;s a</p>
+<p begin="00:40:24.620" end="00:40:28.580" style="s2">discipline of desire when to say yes</p>
+<p begin="00:40:26.300" end="00:40:31.670" style="s2">wait to say no so these are the three</p>
+<p begin="00:40:28.580" end="00:40:34.120" style="s2">disciplines you need to practice toy</p>
+<p begin="00:40:31.670" end="00:40:34.120" style="s2">system</p>
+<p begin="00:40:36.700" end="00:40:42.950" style="s2">finally we come to the roof what&#39;s the</p>
+<p begin="00:40:40.130" end="00:40:45.470" style="s2">room huh this roof is sloping in two</p>
+<p begin="00:40:42.950" end="00:40:52.809" style="s2">directions what are those two directions</p>
+<p begin="00:40:45.470" end="00:40:55.789" style="s2">if you look at it now you have the skill</p>
+<p begin="00:40:52.809" end="00:40:59.900" style="s2">you have the foundation you have the</p>
+<p begin="00:40:55.789" end="00:41:01.700" style="s2">skill you&#39;re the discipline you may have</p>
+<p begin="00:40:59.900" end="00:41:06.140" style="s2">the foundation you may have the skill</p>
+<p begin="00:41:01.700" end="00:41:08.989" style="s2">you may have the discipline still when</p>
+<p begin="00:41:06.140" end="00:41:11.239" style="s2">you come to daily practice you might</p>
+<p begin="00:41:08.989" end="00:41:15.140" style="s2">forget to practice right we all do that</p>
+<p begin="00:41:11.239" end="00:41:18.049" style="s2">we all know the theory but what you</p>
+<p begin="00:41:15.140" end="00:41:24.890" style="s2">practice every day stays with you if you</p>
+<p begin="00:41:18.049" end="00:41:26.989" style="s2">don&#39;t practice it weakens right so you</p>
+<p begin="00:41:24.890" end="00:41:29.079" style="s2">have to practice every day how do you</p>
+<p begin="00:41:26.989" end="00:41:31.940" style="s2">practice every day</p>
+<p begin="00:41:29.079" end="00:41:35.119" style="s2">one way of doing it is to create what</p>
+<p begin="00:41:31.940" end="00:41:37.369" style="s2">are known as strike slogans the slogans</p>
+<p begin="00:41:35.119" end="00:41:40.099" style="s2">would be something like I&#39;m not going to</p>
+<p begin="00:41:37.369" end="00:41:41.719" style="s2">stop the rain by campaigning so every</p>
+<p begin="00:41:40.099" end="00:41:44.059" style="s2">time something that&#39;s out of control</p>
+<p begin="00:41:41.719" end="00:41:45.440" style="s2">it&#39;s not under your control think of the</p>
+<p begin="00:41:44.059" end="00:41:48.019" style="s2">old song I&#39;m not going to drop this</p>
+<p begin="00:41:45.440" end="00:41:49.369" style="s2">chain by complaining then suddenly you</p>
+<p begin="00:41:48.019" end="00:41:52.549" style="s2">realize yeah you are time to do</p>
+<p begin="00:41:49.369" end="00:41:55.130" style="s2">something that you cannot control or I</p>
+<p begin="00:41:52.549" end="00:41:57.739" style="s2">can say oh that handle didn&#39;t work room</p>
+<p begin="00:41:55.130" end="00:41:59.839" style="s2">by the to handle exercise that you might</p>
+<p begin="00:41:57.739" end="00:42:01.729" style="s2">say oh that title didn&#39;t work so halfway</p>
+<p begin="00:41:59.839" end="00:42:03.710" style="s2">through you are angry or upset and they</p>
+<p begin="00:42:01.729" end="00:42:07.910" style="s2">or that handle it work so you change</p>
+<p begin="00:42:03.710" end="00:42:10.339" style="s2">your mindset or it could be oh there&#39;s</p>
+<p begin="00:42:07.910" end="00:42:11.869" style="s2">another pothole my love is rising or</p>
+<p begin="00:42:10.339" end="00:42:13.309" style="s2">running smoothly so you make up</p>
+<p begin="00:42:11.869" end="00:42:17.839" style="s2">something whatever appeals to you does</p>
+<p begin="00:42:13.309" end="00:42:20.989" style="s2">it have to be these so if it is humorous</p>
+<p begin="00:42:17.839" end="00:42:25.269" style="s2">it&#39;s better so immediately see the</p>
+<p begin="00:42:20.989" end="00:42:25.269" style="s2">absurdity of your thinking will change</p>
+<p begin="00:42:26.900" end="00:42:34.250" style="s2">and the final second part of the roof is</p>
+<p begin="00:42:29.030" end="00:42:37.610" style="s2">this you want to enjoy your life so far</p>
+<p begin="00:42:34.250" end="00:42:39.410" style="s2">we made it work properly but you also</p>
+<p begin="00:42:37.610" end="00:42:41.650" style="s2">have to enjoy your life you know now you</p>
+<p begin="00:42:39.410" end="00:42:44.720" style="s2">are writing in the highway of life</p>
+<p begin="00:42:41.650" end="00:42:47.470" style="s2">there&#39;s no potholes there&#39;s no traffic</p>
+<p begin="00:42:44.720" end="00:42:49.700" style="s2">lights it&#39;s you&#39;re gliding smoothly you</p>
+<p begin="00:42:47.470" end="00:42:52.040" style="s2">might actually enjoy the scenery right</p>
+<p begin="00:42:49.700" end="00:42:53.380" style="s2">whether you are driving it&#39;s beautiful</p>
+<p begin="00:42:52.040" end="00:42:55.730" style="s2">outside</p>
+<p begin="00:42:53.380" end="00:42:57.950" style="s2">epic Taylor said why not enjoy the</p>
+<p begin="00:42:55.730" end="00:43:00.470" style="s2">festival of five life when it is given</p>
+<p begin="00:42:57.950" end="00:43:03.200" style="s2">to you to do so it&#39;s given to us</p>
+<p begin="00:43:00.470" end="00:43:05.120" style="s2">above all Lucilius learn to feel the joy</p>
+<p begin="00:43:03.200" end="00:43:09.440" style="s2">learn to feel the joy that&#39;s not the</p>
+<p begin="00:43:05.120" end="00:43:11.630" style="s2">Stoics same now I know you are what you</p>
+<p begin="00:43:09.440" end="00:43:13.820" style="s2">are thinking where is this vegetable of</p>
+<p begin="00:43:11.630" end="00:43:16.430" style="s2">life is happening why ever why wasn&#39;t I</p>
+<p begin="00:43:13.820" end="00:43:18.170" style="s2">in right injury I know you&#39;re all</p>
+<p begin="00:43:16.430" end="00:43:20.890" style="s2">thinking yeah where&#39;s the pain right it</p>
+<p begin="00:43:18.170" end="00:43:23.450" style="s2">if it&#39;s happening where is it happening</p>
+<p begin="00:43:20.890" end="00:43:29.750" style="s2">well it&#39;s happening right here right now</p>
+<p begin="00:43:23.450" end="00:43:32.890" style="s2">okay you know Marcus Aurelius was an</p>
+<p begin="00:43:29.750" end="00:43:37.580" style="s2">emperor undestroyed</p>
+<p begin="00:43:32.890" end="00:43:39.740" style="s2">and he ruled an empire that the biggest</p>
+<p begin="00:43:37.580" end="00:43:41.510" style="s2">the world has ever seen a Patil that</p>
+<p begin="00:43:39.740" end="00:43:41.990" style="s2">point the biggest the world has ever</p>
+<p begin="00:43:41.510" end="00:43:44.510" style="s2">seen</p>
+<p begin="00:43:41.990" end="00:43:46.310" style="s2">so he was the most powerful man in the</p>
+<p begin="00:43:44.510" end="00:43:50.330" style="s2">world he could have had anything he</p>
+<p begin="00:43:46.310" end="00:43:53.260" style="s2">wanted what gave him pleasure this what</p>
+<p begin="00:43:50.330" end="00:43:57.380" style="s2">is this you know when you bake the bread</p>
+<p begin="00:43:53.260" end="00:44:01.010" style="s2">on the cross streets open traction bread</p>
+<p begin="00:43:57.380" end="00:44:03.410" style="s2">that was the pleasure figs spreading</p>
+<p begin="00:44:01.010" end="00:44:06.470" style="s2">open the beauty of a ripe fruit drive</p>
+<p begin="00:44:03.410" end="00:44:11.200" style="s2">brains building down eyebrows of a lion</p>
+<p begin="00:44:06.470" end="00:44:14.870" style="s2">so everything that you see is beauty</p>
+<p begin="00:44:11.200" end="00:44:18.560" style="s2">that&#39;s what he said so you are here with</p>
+<p begin="00:44:14.870" end="00:44:21.920" style="s2">hundred strikes and then 50 strikes it&#39;s</p>
+<p begin="00:44:18.560" end="00:44:24.080" style="s2">not good and our people speaking what</p>
+<p begin="00:44:21.920" end="00:44:28.250" style="s2">you want to hear maybe maybe not me but</p>
+<p begin="00:44:24.080" end="00:44:31.820" style="s2">others again so it&#39;s that beautiful and</p>
+<p begin="00:44:28.250" end="00:44:33.470" style="s2">you can afford to come here and listen</p>
+<p begin="00:44:31.820" end="00:44:35.060" style="s2">to this you can take time off for the</p>
+<p begin="00:44:33.470" end="00:44:37.580" style="s2">day isn&#39;t that beautiful</p>
+<p begin="00:44:35.060" end="00:44:41.230" style="s2">isn&#39;t that wonderful so if you look</p>
+<p begin="00:44:37.580" end="00:44:45.740" style="s2">around you&#39;ll see life is full of joy</p>
+<p begin="00:44:41.230" end="00:44:48.890" style="s2">okay new young strong the great jazz</p>
+<p begin="00:44:45.740" end="00:44:51.200" style="s2">musician he sang a song what a wonderful</p>
+<p begin="00:44:48.890" end="00:44:53.420" style="s2">world he wasn&#39;t talking about his</p>
+<p begin="00:44:51.200" end="00:44:56.049" style="s2">million dollars for his fame but I&#39;m a</p>
+<p begin="00:44:53.420" end="00:44:58.900" style="s2">flourish moving blue skies white sky</p>
+<p begin="00:44:56.049" end="00:45:01.190" style="s2">white clouds bright this dark nice</p>
+<p begin="00:44:58.900" end="00:45:05.510" style="s2">rainbow colors friends beating each</p>
+<p begin="00:45:01.190" end="00:45:08.839" style="s2">other children growing up so everything</p>
+<p begin="00:45:05.510" end="00:45:15.079" style="s2">you have if you look around it&#39;s a</p>
+<p begin="00:45:08.839" end="00:45:19.339" style="s2">wonderful world this world is a mirror</p>
+<p begin="00:45:15.079" end="00:45:21.349" style="s2">of infinite beauty yet no one sees it it</p>
+<p begin="00:45:19.339" end="00:45:25.299" style="s2">is a temple of majesty yet no one</p>
+<p begin="00:45:21.349" end="00:45:27.740" style="s2">regards that also by a 17th century boy</p>
+<p begin="00:45:25.299" end="00:45:30.740" style="s2">this world is a mirror of infinite</p>
+<p begin="00:45:27.740" end="00:45:36.170" style="s2">beauty yet no one sees it it is a temple</p>
+<p begin="00:45:30.740" end="00:45:37.970" style="s2">of majesty yet no one regards him so how</p>
+<p begin="00:45:36.170" end="00:45:40.730" style="s2">do you see it how do you regard it most</p>
+<p begin="00:45:37.970" end="00:45:43.450" style="s2">of the time we are busy we are busy</p>
+<p begin="00:45:40.730" end="00:45:46.819" style="s2">living our life to see the beauty of it</p>
+<p begin="00:45:43.450" end="00:45:49.250" style="s2">so one of the things you can do is do</p>
+<p begin="00:45:46.819" end="00:45:51.079" style="s2">morning meditation morning meditation</p>
+<p begin="00:45:49.250" end="00:45:53.809" style="s2">you don&#39;t even have to sit cross-legged</p>
+<p begin="00:45:51.079" end="00:45:56.990" style="s2">and do something when you&#39;re lying in</p>
+<p begin="00:45:53.809" end="00:46:01.069" style="s2">bed before getting up think about the</p>
+<p begin="00:45:56.990" end="00:46:03.970" style="s2">things you have to be grateful for just</p>
+<p begin="00:46:01.069" end="00:46:07.400" style="s2">you are awake you should be grateful</p>
+<p begin="00:46:03.970" end="00:46:09.829" style="s2">right and you have a whole day in front</p>
+<p begin="00:46:07.400" end="00:46:11.420" style="s2">of here to be grateful I mean you got</p>
+<p begin="00:46:09.829" end="00:46:13.369" style="s2">friends here to be grateful they got a</p>
+<p begin="00:46:11.420" end="00:46:15.410" style="s2">family are to be grateful have so many</p>
+<p begin="00:46:13.369" end="00:46:17.660" style="s2">things to be grateful for just think</p>
+<p begin="00:46:15.410" end="00:46:19.579" style="s2">about this before getting up yet for a</p>
+<p begin="00:46:17.660" end="00:46:22.309" style="s2">few minutes think what you should be</p>
+<p begin="00:46:19.579" end="00:46:24.920" style="s2">grateful for think about what you should</p>
+<p begin="00:46:22.309" end="00:46:27.309" style="s2">be cheerful about and then prepare for</p>
+<p begin="00:46:24.920" end="00:46:31.040" style="s2">the day you might find people who are</p>
+<p begin="00:46:27.309" end="00:46:34.329" style="s2">terrible to you may insult you how are</p>
+<p begin="00:46:31.040" end="00:46:37.250" style="s2">you going to deal with them just prepare</p>
+<p begin="00:46:34.329" end="00:46:39.650" style="s2">and then go about there and at the end</p>
+<p begin="00:46:37.250" end="00:46:41.660" style="s2">of the day you might have forget forgot</p>
+<p begin="00:46:39.650" end="00:46:44.240" style="s2">most of those things and then review the</p>
+<p begin="00:46:41.660" end="00:46:46.510" style="s2">day and see what I&#39;ve done anything</p>
+<p begin="00:46:44.240" end="00:46:46.510" style="s2">better</p>
+<p begin="00:46:48.450" end="00:46:54.110" style="s2">[Music]</p>
+<p begin="00:46:50.870" end="00:46:57.420" style="s2">so that is the house of Stoics a</p>
+<p begin="00:46:54.110" end="00:46:59.850" style="s2">smoothly flowing life recognizing</p>
+<p begin="00:46:57.420" end="00:47:02.460" style="s2">thoughts create our unhappiness ignoring</p>
+<p begin="00:46:59.850" end="00:47:05.990" style="s2">what we cannot control acting on what&#39;s</p>
+<p begin="00:47:02.460" end="00:47:09.930" style="s2">under control using wisdom justice</p>
+<p begin="00:47:05.990" end="00:47:12.830" style="s2">moderation and courage practicing</p>
+<p begin="00:47:09.930" end="00:47:16.740" style="s2">discipline fasting desire and action</p>
+<p begin="00:47:12.830" end="00:47:20.280" style="s2">living our everyday life carefully and</p>
+<p begin="00:47:16.740" end="00:47:24.840" style="s2">they joined the festival of life okay</p>
+<p begin="00:47:20.280" end="00:47:26.670" style="s2">that is that is stoicism you know</p>
+<p begin="00:47:24.840" end="00:47:30.000" style="s2">awfully something funny is happening to</p>
+<p begin="00:47:26.670" end="00:47:33.180" style="s2">me whenever I feel sad whenever I feel</p>
+<p begin="00:47:30.000" end="00:47:36.090" style="s2">upset whenever I&#39;m angry whenever</p>
+<p begin="00:47:33.180" end="00:47:38.520" style="s2">whenever I am irritated I find somebody</p>
+<p begin="00:47:36.090" end="00:47:40.710" style="s2">following me and laughing laughing at me</p>
+<p begin="00:47:38.520" end="00:47:45.390" style="s2">behind my back I get this distinct</p>
+<p begin="00:47:40.710" end="00:47:47.040" style="s2">feeling so I stop and then look back as</p>
+<p begin="00:47:45.390" end="00:47:51.690" style="s2">the person gets closer I find he&#39;s</p>
+<p begin="00:47:47.040" end="00:47:54.450" style="s2">actually an old man and then it comes</p>
+<p begin="00:47:51.690" end="00:47:54.810" style="s2">still closer actually I find it&#39;s my old</p>
+<p begin="00:47:54.450" end="00:47:59.730" style="s2">friend</p>
+<p begin="00:47:54.810" end="00:48:02.430" style="s2">Epictetus you know I say yo epictetus</p>
+<p begin="00:47:59.730" end="00:48:05.370" style="s2">you have been friends with me for so</p>
+<p begin="00:48:02.430" end="00:48:10.050" style="s2">long now I feel down and you&#39;re laughing</p>
+<p begin="00:48:05.370" end="00:48:11.180" style="s2">at me and he says Chuck I know you are</p>
+<p begin="00:48:10.050" end="00:48:15.420" style="s2">not very smart</p>
+<p begin="00:48:11.180" end="00:48:17.610" style="s2">so I also do just one thing judge your</p>
+<p begin="00:48:15.420" end="00:48:19.470" style="s2">impressions correctly if you had done</p>
+<p begin="00:48:17.610" end="00:48:22.740" style="s2">that thing right you wouldn&#39;t be angry</p>
+<p begin="00:48:19.470" end="00:48:24.270" style="s2">or upset and you couldn&#39;t do manage one</p>
+<p begin="00:48:22.740" end="00:48:32.250" style="s2">thing right and you expect me not to</p>
+<p begin="00:48:24.270" end="00:48:36.600" style="s2">laugh anyway you know if you get angry</p>
+<p begin="00:48:32.250" end="00:48:39.030" style="s2">if you get irritated if you get upset if</p>
+<p begin="00:48:36.600" end="00:48:42.450" style="s2">you get annoyed if you think life is</p>
+<p begin="00:48:39.030" end="00:48:44.820" style="s2">passing you by if you think you are not</p>
+<p begin="00:48:42.450" end="00:48:46.470" style="s2">enjoying the festival of life look over</p>
+<p begin="00:48:44.820" end="00:48:48.900" style="s2">your left shoulder look over your left</p>
+<p begin="00:48:46.470" end="00:48:51.390" style="s2">shoulder maybe an old man is following</p>
+<p begin="00:48:48.900" end="00:48:53.160" style="s2">you too maybe his name is epictetus</p>
+<p begin="00:48:51.390" end="00:48:53.810" style="s2">maybe he&#39;s telling you do this one thing</p>
+<p begin="00:48:53.160" end="00:48:56.340" style="s2">right</p>
+<p begin="00:48:53.810" end="00:48:58.680" style="s2">manage your impressions if we do just</p>
+<p begin="00:48:56.340" end="00:48:59.690" style="s2">just one thing right you&#39;ll never be sad</p>
+<p begin="00:48:58.680" end="00:49:04.579" style="s2">angry or</p>
+<p begin="00:48:59.690" end="00:49:07.760" style="s2">say you&#39;ll rifle run smoothly this my</p>
+<p begin="00:49:04.579" end="00:49:10.280" style="s2">friends oh so this world is a mirror of</p>
+<p begin="00:49:07.760" end="00:49:13.369" style="s2">infinite beauty see it it&#39;s a temple of</p>
+<p begin="00:49:10.280" end="00:49:16.490" style="s2">majesty regarding it is a festival of</p>
+<p begin="00:49:13.369" end="00:49:23.060" style="s2">life enjoy it above all learn to feel</p>
+<p begin="00:49:16.490" end="00:49:27.500" style="s2">the joy this my friends is how to be</p>
+<p begin="00:49:23.060" end="00:49:29.619" style="s2">asteroid when you don&#39;t know how thank</p>
+<p begin="00:49:27.500" end="00:49:29.619" style="s2">you</p>
+<p begin="00:49:31.560" end="00:49:34.790" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

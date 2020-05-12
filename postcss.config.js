@@ -14,7 +14,7 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
 module.exports = {
   plugins: [
     "tailwindcss",
-    "postcss-preset-env",
-    ...(process.env.NODE_ENV == "production" ? [purgecss] : []),
+    // "postcss-preset-env",
+    //...(process.env.NODE_ENV == "production" ? [purgecss] : []),
   ],
 };

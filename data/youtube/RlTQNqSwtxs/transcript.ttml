@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.040" end="00:00:06.330" style="s2">welcome to the stola the stoah is a</p>
+<p begin="00:00:03.959" end="00:00:08.910" style="s2">digital campfire where we go here and</p>
+<p begin="00:00:06.330" end="00:00:13.099" style="s2">dialogue about what matters most at the</p>
+<p begin="00:00:08.910" end="00:00:13.099" style="s2">night&#39;s edge what&#39;s happening now</p>
+<p begin="00:00:13.100" end="00:00:23.900" style="s2">[Music]</p>
+<p begin="00:00:18.099" end="00:00:27.200" style="s2">be brave right be hopeful right despair</p>
+<p begin="00:00:23.900" end="00:00:29.990" style="s2">is useless you know B have a bias</p>
+<p begin="00:00:27.200" end="00:00:32.119" style="s2">towards action don&#39;t sit on your</p>
+<p begin="00:00:29.990" end="00:00:36.199" style="s2">ass if you see something to be done do</p>
+<p begin="00:00:32.119" end="00:00:38.690" style="s2">it reach out to other people you know</p>
+<p begin="00:00:36.199" end="00:00:40.730" style="s2">events like this are huge remember the</p>
+<p begin="00:00:38.690" end="00:00:42.800" style="s2">poor people who are who are locked down</p>
+<p begin="00:00:40.730" end="00:00:45.379" style="s2">by themselves which has got to be a</p>
+<p begin="00:00:42.800" end="00:00:47.659" style="s2">horrible thing reach out to them I&#39;m you</p>
+<p begin="00:00:45.379" end="00:00:49.790" style="s2">know daily calling old friends far back</p>
+<p begin="00:00:47.659" end="00:00:51.769" style="s2">as high school just cuz I&#39;m a natural</p>
+<p begin="00:00:49.790" end="00:00:54.890" style="s2"> extrovert and I love the chat so</p>
+<p begin="00:00:51.769" end="00:00:56.780" style="s2">I have some extra time and energy so I&#39;m</p>
+<p begin="00:00:54.890" end="00:00:59.360" style="s2">literally gonna call a friend who I</p>
+<p begin="00:00:56.780" end="00:01:01.010" style="s2">haven&#39;t seen since junior high school</p>
+<p begin="00:00:59.360" end="00:01:07.460" style="s2">I&#39;ll call later today we&#39;re going to</p>
+<p begin="00:01:01.010" end="00:01:09.369" style="s2">chat so don&#39;t despair there was hope and</p>
+<p begin="00:01:07.460" end="00:01:11.810" style="s2">future on the other side of this</p>
+<p begin="00:01:09.369" end="00:01:15.350" style="s2">hysteresis works in our favor</p>
+<p begin="00:01:11.810" end="00:01:17.000" style="s2">be ready to join the cadre recruit</p>
+<p begin="00:01:15.350" end="00:01:19.610" style="s2">others to the cadre this is probably not</p>
+<p begin="00:01:17.000" end="00:01:23.060" style="s2">quite yet the revolutionary moment but</p>
+<p begin="00:01:19.610" end="00:01:25.540" style="s2">it may be relatively soon beautiful</p>
+<p begin="00:01:23.060" end="00:01:25.540" style="s2">beautiful</p>
+</div>
+</body>
+</tt>

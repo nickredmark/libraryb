@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.240" end="00:00:06.150" style="s2">hello there and welcome the first full</p>
+<p begin="00:00:04.230" end="00:00:08.670" style="s2">videos have been about outlining the</p>
+<p begin="00:00:06.150" end="00:00:11.070" style="s2">problems and the destructive dynamics</p>
+<p begin="00:00:08.670" end="00:00:12.480" style="s2">that have always persisted in game a and</p>
+<p begin="00:00:11.070" end="00:00:14.309" style="s2">quite frankly I coulda made a hundred</p>
+<p begin="00:00:12.480" end="00:00:17.249" style="s2">videos about problems with game a but</p>
+<p begin="00:00:14.309" end="00:00:19.140" style="s2">the point is that all of those hundred</p>
+<p begin="00:00:17.249" end="00:00:21.659" style="s2">videos you&#39;d also might be able to trace</p>
+<p begin="00:00:19.140" end="00:00:23.550" style="s2">the source of the problem back to some</p>
+<p begin="00:00:21.659" end="00:00:27.149" style="s2">combination of those three dynamics that</p>
+<p begin="00:00:23.550" end="00:00:29.970" style="s2">I&#39;ve laid out so future videos are going</p>
+<p begin="00:00:27.149" end="00:00:32.399" style="s2">to be about how to tackle those dynamics</p>
+<p begin="00:00:29.970" end="00:00:34.890" style="s2">and before I go any further I need to</p>
+<p begin="00:00:32.399" end="00:00:37.350" style="s2">introduce the notion of the generator</p>
+<p begin="00:00:34.890" end="00:00:41.219" style="s2">function and this is incredibly powerful</p>
+<p begin="00:00:37.350" end="00:00:43.980" style="s2">idea the Mandelbrot set that I showed</p>
+<p begin="00:00:41.219" end="00:00:46.649" style="s2">you in the last video it&#39;s a shape it&#39;s</p>
+<p begin="00:00:43.980" end="00:00:48.179" style="s2">an infinitely complex shape and what is</p>
+<p begin="00:00:46.649" end="00:00:50.940" style="s2">zoomed in on is the boundary of that</p>
+<p begin="00:00:48.179" end="00:00:54.390" style="s2">shape now that shape is created by the</p>
+<p begin="00:00:50.940" end="00:00:57.570" style="s2">running of one very simple function here</p>
+<p begin="00:00:54.390" end="00:01:00.929" style="s2">it is said goes to Z squared plus C and</p>
+<p begin="00:00:57.570" end="00:01:02.640" style="s2">so this idea of a simple thing iterated</p>
+<p begin="00:01:00.929" end="00:01:05.339" style="s2">lots of times being able to create</p>
+<p begin="00:01:02.640" end="00:01:08.189" style="s2">something as magnificent and as complex</p>
+<p begin="00:01:05.339" end="00:01:10.200" style="s2">as the Mandelbrot set is but for me at</p>
+<p begin="00:01:08.189" end="00:01:13.049" style="s2">least a really key idea I mean this is</p>
+<p begin="00:01:10.200" end="00:01:14.610" style="s2">my personal perspective on game B other</p>
+<p begin="00:01:13.049" end="00:01:16.079" style="s2">people involved in the game B project</p>
+<p begin="00:01:14.610" end="00:01:17.969" style="s2">have very different perspectives and</p>
+<p begin="00:01:16.079" end="00:01:19.799" style="s2">that&#39;s not only okay it&#39;s actually great</p>
+<p begin="00:01:17.969" end="00:01:23.189" style="s2">it&#39;s a strength and that&#39;s one of the</p>
+<p begin="00:01:19.799" end="00:01:24.719" style="s2">things that this video is about so bear</p>
+<p begin="00:01:23.189" end="00:01:27.810" style="s2">in mind that this is my personal</p>
+<p begin="00:01:24.719" end="00:01:30.659" style="s2">perspective on it but if you accept the</p>
+<p begin="00:01:27.810" end="00:01:32.549" style="s2">notion that human society is a complex</p>
+<p begin="00:01:30.659" end="00:01:35.189" style="s2">system and that each of us as</p>
+<p begin="00:01:32.549" end="00:01:37.619" style="s2">individuals are nodes in that system</p>
+<p begin="00:01:35.189" end="00:01:40.560" style="s2">then the culture the society as a whole</p>
+<p begin="00:01:37.619" end="00:01:42.360" style="s2">is the sum of all the generator</p>
+<p begin="00:01:40.560" end="00:01:46.079" style="s2">functions run by those nodes in the</p>
+<p begin="00:01:42.360" end="00:01:48.000" style="s2">network right and so if we are all</p>
+<p begin="00:01:46.079" end="00:01:50.369" style="s2">running rival richness and</p>
+<p begin="00:01:48.000" end="00:01:52.920" style="s2">responsiveness to broadcast modality and</p>
+<p begin="00:01:50.369" end="00:01:55.109" style="s2">an insistence on using complicatedness</p>
+<p begin="00:01:52.920" end="00:01:56.549" style="s2">then that is the society that is the</p>
+<p begin="00:01:55.109" end="00:01:58.859" style="s2">culture that we that we were building</p>
+<p begin="00:01:56.549" end="00:02:00.659" style="s2">that we will manifest and if there is</p>
+<p begin="00:01:58.859" end="00:02:03.359" style="s2">some way to change the generator</p>
+<p begin="00:02:00.659" end="00:02:05.280" style="s2">functions and push those to the side or</p>
+<p begin="00:02:03.359" end="00:02:08.039" style="s2">at least strongly de-emphasize them and</p>
+<p begin="00:02:05.280" end="00:02:10.680" style="s2">replace them then game becomes about as</p>
+<p begin="00:02:08.039" end="00:02:12.390" style="s2">a consequence of that so that&#39;s the</p>
+<p begin="00:02:10.680" end="00:02:14.050" style="s2">that&#39;s the context that I would like to</p>
+<p begin="00:02:12.390" end="00:02:15.550" style="s2">put the rest of this video into</p>
+<p begin="00:02:14.050" end="00:02:18.490" style="s2">and now I&#39;m going to talk about ruler</p>
+<p begin="00:02:15.550" end="00:02:20.650" style="s2">maker itself and in order to do that I&#39;m</p>
+<p begin="00:02:18.490" end="00:02:22.360" style="s2">going to use an extremely simple example</p>
+<p begin="00:02:20.650" end="00:02:25.090" style="s2">to make the point that I want to make</p>
+<p begin="00:02:22.360" end="00:02:26.740" style="s2">and so if you can envisage a cylinder</p>
+<p begin="00:02:25.090" end="00:02:28.090" style="s2">the shape of cylinder and then you&#39;ve</p>
+<p begin="00:02:26.740" end="00:02:30.420" style="s2">got two people looking at that cylinder</p>
+<p begin="00:02:28.090" end="00:02:33.340" style="s2">one from the side on and one from above</p>
+<p begin="00:02:30.420" end="00:02:35.860" style="s2">the one looking from the side sees a</p>
+<p begin="00:02:33.340" end="00:02:38.080" style="s2">rectangle right the one looking from</p>
+<p begin="00:02:35.860" end="00:02:40.570" style="s2">above sees a circle and they were both</p>
+<p begin="00:02:38.080" end="00:02:42.670" style="s2">swear to a court in law to either swear</p>
+<p begin="00:02:40.570" end="00:02:44.770" style="s2">in a court of law that I&#39;m seeing</p>
+<p begin="00:02:42.670" end="00:02:46.330" style="s2">rectangle I&#39;m seeing a circle and you</p>
+<p begin="00:02:44.770" end="00:02:47.620" style="s2">know one of two there&#39;s one of two ways</p>
+<p begin="00:02:46.330" end="00:02:49.690" style="s2">that this can play out they can either</p>
+<p begin="00:02:47.620" end="00:02:50.770" style="s2">spend you know however long arguing with</p>
+<p begin="00:02:49.690" end="00:02:52.030" style="s2">each other you&#39;re an idiot you&#39;re an</p>
+<p begin="00:02:50.770" end="00:02:54.250" style="s2">idiot don&#39;t you know a circle and you</p>
+<p begin="00:02:52.030" end="00:02:57.580" style="s2">see one or they can accept the</p>
+<p begin="00:02:54.250" end="00:02:59.350" style="s2">possibility that maybe there&#39;s a deeper</p>
+<p begin="00:02:57.580" end="00:03:02.560" style="s2">truth here that neither of them are</p>
+<p begin="00:02:59.350" end="00:03:06.220" style="s2">grasping right and that if they can find</p>
+<p begin="00:03:02.560" end="00:03:09.280" style="s2">a way of effectively combining their</p>
+<p begin="00:03:06.220" end="00:03:11.740" style="s2">perspectives perhaps they can achieve</p>
+<p begin="00:03:09.280" end="00:03:13.390" style="s2">that deeper understanding right so</p>
+<p begin="00:03:11.740" end="00:03:16.810" style="s2">that&#39;s that&#39;s the that&#39;s the heart of</p>
+<p begin="00:03:13.390" end="00:03:18.310" style="s2">rule Omega and everybody has valid</p>
+<p begin="00:03:16.810" end="00:03:20.650" style="s2">perspective I it goes both ways</p>
+<p begin="00:03:18.310" end="00:03:23.800" style="s2">I have valid perspective to bring to</p>
+<p begin="00:03:20.650" end="00:03:25.420" style="s2">this situation but I also understand</p>
+<p begin="00:03:23.800" end="00:03:27.970" style="s2">that my perspective is incomplete</p>
+<p begin="00:03:25.420" end="00:03:29.590" style="s2">equally you have a valid point of view</p>
+<p begin="00:03:27.970" end="00:03:32.350" style="s2">to bring to this problem or situation</p>
+<p begin="00:03:29.590" end="00:03:36.070" style="s2">but yours is also incomplete right and</p>
+<p begin="00:03:32.350" end="00:03:39.550" style="s2">so if we can find a way to enter into a</p>
+<p begin="00:03:36.070" end="00:03:41.800" style="s2">dialogue such that we can understand and</p>
+<p begin="00:03:39.550" end="00:03:43.480" style="s2">enter into the other&#39;s perspective while</p>
+<p begin="00:03:41.800" end="00:03:45.970" style="s2">at the same time hanging on to our own</p>
+<p begin="00:03:43.480" end="00:03:48.070" style="s2">not abandoning our own then there is an</p>
+<p begin="00:03:45.970" end="00:03:50.380" style="s2">opportunity for deeper truths to be</p>
+<p begin="00:03:48.070" end="00:03:53.430" style="s2">grasped that neither of us could grasp</p>
+<p begin="00:03:50.380" end="00:03:53.430" style="s2">on our own</p>
+<p begin="00:03:55.290" end="00:04:01.260" style="s2">another important aspect of rule Omega</p>
+<p begin="00:03:58.110" end="00:04:03.150" style="s2">is the idea of humility so you&#39;re not</p>
+<p begin="00:04:01.260" end="00:04:04.890" style="s2">turning up in you&#39;re not turning up in</p>
+<p begin="00:04:03.150" end="00:04:07.349" style="s2">the conversation to say what you&#39;ve</p>
+<p begin="00:04:04.890" end="00:04:08.610" style="s2">already got in your head right it&#39;s not</p>
+<p begin="00:04:07.349" end="00:04:10.829" style="s2">like a normal conversation where</p>
+<p begin="00:04:08.610" end="00:04:12.120" style="s2">oftentimes you&#39;re sitting waiting for</p>
+<p begin="00:04:10.829" end="00:04:13.890" style="s2">Paul so that you can say what you&#39;ve</p>
+<p begin="00:04:12.120" end="00:04:16.139" style="s2">already got any wine to say right no</p>
+<p begin="00:04:13.890" end="00:04:19.530" style="s2">it&#39;s it&#39;s it&#39;s more about you offer</p>
+<p begin="00:04:16.139" end="00:04:22.049" style="s2">yourself up as a humble vessel through</p>
+<p begin="00:04:19.530" end="00:04:25.590" style="s2">which that which wishes to be expressed</p>
+<p begin="00:04:22.049" end="00:04:26.550" style="s2">can be expressed and so this can be</p>
+<p begin="00:04:25.590" end="00:04:28.080" style="s2">extremely difficult</p>
+<p begin="00:04:26.550" end="00:04:29.910" style="s2">I mean rule Omega on the one hand is</p>
+<p begin="00:04:28.080" end="00:04:31.830" style="s2">very simple I&#39;m going to explain it in</p>
+<p begin="00:04:29.910" end="00:04:33.810" style="s2">five minutes on the other hand though</p>
+<p begin="00:04:31.830" end="00:04:36.900" style="s2">it&#39;s extremely difficult it requires a</p>
+<p begin="00:04:33.810" end="00:04:39.690" style="s2">good degree of honest self-examination</p>
+<p begin="00:04:36.900" end="00:04:41.760" style="s2">and humility and dealing with your</p>
+<p begin="00:04:39.690" end="00:04:44.430" style="s2">basically and before you can be an</p>
+<p begin="00:04:41.760" end="00:04:46.590" style="s2">effective engage in this kind of in this</p>
+<p begin="00:04:44.430" end="00:04:48.270" style="s2">kind of interaction rule Omega is</p>
+<p begin="00:04:46.590" end="00:04:49.770" style="s2">something that you do it&#39;s not something</p>
+<p begin="00:04:48.270" end="00:04:51.360" style="s2">you talk about I know how many I know</p>
+<p begin="00:04:49.770" end="00:04:54.840" style="s2">I&#39;m sitting here talking about it now</p>
+<p begin="00:04:51.360" end="00:04:58.410" style="s2">but I would say one of the key key</p>
+<p begin="00:04:54.840" end="00:05:00.990" style="s2">skills that is required for rule Omega</p>
+<p begin="00:04:58.410" end="00:05:02.940" style="s2">is discernment and I mean this in two</p>
+<p begin="00:05:00.990" end="00:05:06.720" style="s2">ways firstly where I&#39;ve already alluded</p>
+<p begin="00:05:02.940" end="00:05:09.449" style="s2">to you know that you&#39;re speaking from a</p>
+<p begin="00:05:06.720" end="00:05:11.910" style="s2">place not of ego not I wish to be seen</p>
+<p begin="00:05:09.449" end="00:05:13.380" style="s2">not I want to look clever not I haven&#39;t</p>
+<p begin="00:05:11.910" end="00:05:14.880" style="s2">spoken for a few minutes it feels like</p>
+<p begin="00:05:13.380" end="00:05:17.430" style="s2">it&#39;s my turn you know not not that kind</p>
+<p begin="00:05:14.880" end="00:05:19.919" style="s2">of stuff but when when something that</p>
+<p begin="00:05:17.430" end="00:05:21.090" style="s2">feels like it&#39;s right in the moment that</p>
+<p begin="00:05:19.919" end="00:05:23.430" style="s2">it&#39;s going to help and that it&#39;s going</p>
+<p begin="00:05:21.090" end="00:05:25.440" style="s2">to expand the the expand the</p>
+<p begin="00:05:23.430" end="00:05:26.669" style="s2">conversation then then that is when you</p>
+<p begin="00:05:25.440" end="00:05:29.099" style="s2">speak and and this is extremely</p>
+<p begin="00:05:26.669" end="00:05:31.050" style="s2">difficult right I mean I again it&#39;s it&#39;s</p>
+<p begin="00:05:29.099" end="00:05:34.910" style="s2">easy to say it&#39;s much more difficult to</p>
+<p begin="00:05:31.050" end="00:05:37.199" style="s2">do the second part of discernment is the</p>
+<p begin="00:05:34.910" end="00:05:40.110" style="s2">understanding that what the other person</p>
+<p begin="00:05:37.199" end="00:05:41.729" style="s2">is expressing they may not be expressing</p>
+<p begin="00:05:40.110" end="00:05:43.650" style="s2">it very well right I mean you&#39;re talking</p>
+<p begin="00:05:41.729" end="00:05:44.729" style="s2">about difficult things very possibly</p>
+<p begin="00:05:43.650" end="00:05:47.880" style="s2">you&#39;re in territory that you&#39;ve never</p>
+<p begin="00:05:44.729" end="00:05:49.949" style="s2">been in before and so try as you might</p>
+<p begin="00:05:47.880" end="00:05:51.690" style="s2">it&#39;s very possible you not going to</p>
+<p begin="00:05:49.949" end="00:05:53.250" style="s2">explain yourself as well as you might be</p>
+<p begin="00:05:51.690" end="00:05:57.840" style="s2">given a little bit of time to process it</p>
+<p begin="00:05:53.250" end="00:06:00.680" style="s2">and so my job as the listener is to even</p>
+<p begin="00:05:57.840" end="00:06:03.060" style="s2">though you will not say it very well to</p>
+<p begin="00:06:00.680" end="00:06:05.219" style="s2">separate out the signal from the noise</p>
+<p begin="00:06:03.060" end="00:06:07.620" style="s2">and homing this homed in on the signal</p>
+<p begin="00:06:05.219" end="00:06:09.780" style="s2">and then okay I think what you are</p>
+<p begin="00:06:07.620" end="00:06:11.639" style="s2">trying to say is something like this and</p>
+<p begin="00:06:09.780" end="00:06:14.580" style="s2">I and I then say it back in such a way</p>
+<p begin="00:06:11.639" end="00:06:16.050" style="s2">that maybe enables you to say us a</p>
+<p begin="00:06:14.580" end="00:06:19.020" style="s2">little bit more clearly and by this</p>
+<p begin="00:06:16.050" end="00:06:22.680" style="s2">iterative process we get to something</p>
+<p begin="00:06:19.020" end="00:06:24.450" style="s2">right now this is you know I put this in</p>
+<p begin="00:06:22.680" end="00:06:25.380" style="s2">the situation of two people just make it</p>
+<p begin="00:06:24.450" end="00:06:26.849" style="s2">simple but obviously the more</p>
+<p begin="00:06:25.380" end="00:06:29.760" style="s2">perspectives that can be brought to</p>
+<p begin="00:06:26.849" end="00:06:31.680" style="s2">these kinds of conversations the more</p>
+<p begin="00:06:29.760" end="00:06:35.039" style="s2">possibility there is for exploration</p>
+<p begin="00:06:31.680" end="00:06:38.219" style="s2">effort and for deep uncovering of</p>
+<p begin="00:06:35.039" end="00:06:40.500" style="s2">something new I really like the analogy</p>
+<p begin="00:06:38.219" end="00:06:43.590" style="s2">of the jazz band that I&#39;ve heard Jamie</p>
+<p begin="00:06:40.500" end="00:06:45.000" style="s2">in Jordan news past and so in a jazz</p>
+<p begin="00:06:43.590" end="00:06:47.279" style="s2">band he got four or five people whatever</p>
+<p begin="00:06:45.000" end="00:06:49.590" style="s2">sitting around riffing jamming and one</p>
+<p begin="00:06:47.279" end="00:06:51.000" style="s2">of them sort of it catches their if</p>
+<p begin="00:06:49.590" end="00:06:52.349" style="s2">something catches their ear that oh oh</p>
+<p begin="00:06:51.000" end="00:06:55.409" style="s2">oh I like that I can do something with</p>
+<p begin="00:06:52.349" end="00:06:57.270" style="s2">that what do you think this and oh yeah</p>
+<p begin="00:06:55.409" end="00:06:58.440" style="s2">yeah that gives me an idea this would go</p>
+<p begin="00:06:57.270" end="00:06:59.789" style="s2">really well with this how do you think</p>
+<p begin="00:06:58.440" end="00:07:01.440" style="s2">these two things with gel together and</p>
+<p begin="00:06:59.789" end="00:07:02.639" style="s2">so on and so on and so on and and by</p>
+<p begin="00:07:01.440" end="00:07:05.039" style="s2">this iterative process that I&#39;ve just</p>
+<p begin="00:07:02.639" end="00:07:06.930" style="s2">talked about something amazing can</p>
+<p begin="00:07:05.039" end="00:07:07.380" style="s2">emerge I&#39;d like to come back to kind of</p>
+<p begin="00:07:06.930" end="00:07:09.680" style="s2">what</p>
+<p begin="00:07:07.380" end="00:07:11.460" style="s2">at the beginning that rule Omega is</p>
+<p begin="00:07:09.680" end="00:07:14.880" style="s2">potentially an incredibly powerful</p>
+<p begin="00:07:11.460" end="00:07:17.630" style="s2">generator function because it cuts off</p>
+<p begin="00:07:14.880" end="00:07:20.370" style="s2">all three the rival rusts the</p>
+<p begin="00:07:17.630" end="00:07:22.650" style="s2">complicated and the broad cuts them all</p>
+<p begin="00:07:20.370" end="00:07:25.020" style="s2">off at the knees right it is</p>
+<p begin="00:07:22.650" end="00:07:27.210" style="s2">fundamentally anti rivals in the same</p>
+<p begin="00:07:25.020" end="00:07:29.070" style="s2">way that jazz band is you can&#39;t turn up</p>
+<p begin="00:07:27.210" end="00:07:31.410" style="s2">with your own agenda right I&#39;ve got this</p>
+<p begin="00:07:29.070" end="00:07:33.450" style="s2">thing that I want to do it creation</p>
+<p begin="00:07:31.410" end="00:07:34.830" style="s2">doesn&#39;t work like that right it doesn&#39;t</p>
+<p begin="00:07:33.450" end="00:07:36.720" style="s2">hit nothing is going to emerge at that</p>
+<p begin="00:07:34.830" end="00:07:39.540" style="s2">kind of mindset so it&#39;s fundamentally</p>
+<p begin="00:07:36.720" end="00:07:42.690" style="s2">anti rivals and and not just non ante</p>
+<p begin="00:07:39.540" end="00:07:44.400" style="s2">because you&#39;re creating things with none</p>
+<p begin="00:07:42.690" end="00:07:46.080" style="s2">of you could have possibly created on</p>
+<p begin="00:07:44.400" end="00:07:47.510" style="s2">your own you arrived basis none of you</p>
+<p begin="00:07:46.080" end="00:07:50.010" style="s2">could have got to on your own and</p>
+<p begin="00:07:47.510" end="00:07:52.320" style="s2">because you&#39;ve created something new</p>
+<p begin="00:07:50.010" end="00:07:55.110" style="s2">it&#39;s soil on which more new things can</p>
+<p begin="00:07:52.320" end="00:07:57.690" style="s2">be built afterwards so it&#39;s absolutely</p>
+<p begin="00:07:55.110" end="00:08:00.510" style="s2">anti rivalry it&#39;s interfaces with the</p>
+<p begin="00:07:57.690" end="00:08:01.950" style="s2">complex because you know a session of a</p>
+<p begin="00:08:00.510" end="00:08:05.340" style="s2">dozen people whatever having a</p>
+<p begin="00:08:01.950" end="00:08:07.590" style="s2">conversation these are complex beings</p>
+<p begin="00:08:05.340" end="00:08:10.080" style="s2">interacting in complex ways right and so</p>
+<p begin="00:08:07.590" end="00:08:12.780" style="s2">complexity is is stamped right into</p>
+<p begin="00:08:10.080" end="00:08:14.400" style="s2">anything that emerges from that and it</p>
+<p begin="00:08:12.780" end="00:08:17.190" style="s2">is as I said in an earlier video the</p>
+<p begin="00:08:14.400" end="00:08:19.110" style="s2">absolute antithesis of the broadcast</p>
+<p begin="00:08:17.190" end="00:08:20.700" style="s2">modality because there is no person in</p>
+<p begin="00:08:19.110" end="00:08:23.160" style="s2">charge there&#39;s no one setting agenda</p>
+<p begin="00:08:20.700" end="00:08:25.020" style="s2">there&#39;s no top-down kind of structure</p>
+<p begin="00:08:23.160" end="00:08:26.850" style="s2">whatsoever here the other thing that&#39;s</p>
+<p begin="00:08:25.020" end="00:08:29.850" style="s2">very cool about blue lawmaker is that</p>
+<p begin="00:08:26.850" end="00:08:31.680" style="s2">it&#39;s it&#39;s an actual thing that you can</p>
+<p begin="00:08:29.850" end="00:08:33.030" style="s2">do yeah that any individual can start</p>
+<p begin="00:08:31.680" end="00:08:35.700" style="s2">doing right now get a few people</p>
+<p begin="00:08:33.030" end="00:08:37.380" style="s2">together you know understand what Lula</p>
+<p begin="00:08:35.700" end="00:08:38.729" style="s2">mega-bear and start practicing you know</p>
+<p begin="00:08:37.380" end="00:08:40.770" style="s2">it&#39;ll feel weird and clumsy would have</p>
+<p begin="00:08:38.729" end="00:08:42.060" style="s2">to start with but if nothing else it</p>
+<p begin="00:08:40.770" end="00:08:43.620" style="s2">will improve your own personal</p>
+<p begin="00:08:42.060" end="00:08:46.080" style="s2">relationships that is also an</p>
+<p begin="00:08:43.620" end="00:08:48.000" style="s2">opportunity for at an individual level</p>
+<p begin="00:08:46.080" end="00:08:51.030" style="s2">people start feeling that they have a</p>
+<p begin="00:08:48.000" end="00:08:53.400" style="s2">meaningful and important and immediate</p>
+<p begin="00:08:51.030" end="00:08:56.460" style="s2">role to play in the transmutation of</p>
+<p begin="00:08:53.400" end="00:08:59.550" style="s2">game a into game B it can be a real</p>
+<p begin="00:08:56.460" end="00:09:01.560" style="s2">source of frustration not to feel like</p>
+<p begin="00:08:59.550" end="00:09:03.300" style="s2">you as an individual matter but this is</p>
+<p begin="00:09:01.560" end="00:09:04.680" style="s2">absolutely not the case you know and and</p>
+<p begin="00:09:03.300" end="00:09:08.070" style="s2">the groups that you form will be</p>
+<p begin="00:09:04.680" end="00:09:09.480" style="s2">potentially seeds for decentralized</p>
+<p begin="00:09:08.070" end="00:09:12.300" style="s2">intelligence networks which can grow</p>
+<p begin="00:09:09.480" end="00:09:15.240" style="s2">from them so you know it&#39;s a real thing</p>
+<p begin="00:09:12.300" end="00:09:17.700" style="s2">it&#39;s not pie in the sky I would</p>
+<p begin="00:09:15.240" end="00:09:19.440" style="s2">particularly like to point you at the</p>
+<p begin="00:09:17.700" end="00:09:20.790" style="s2">three-way conversation between Janie</p>
+<p begin="00:09:19.440" end="00:09:22.440" style="s2">Weil Jordan</p>
+<p begin="00:09:20.790" end="00:09:25.410" style="s2">smacking burger that was on rebel wisdom</p>
+<p begin="00:09:22.440" end="00:09:28.110" style="s2">and again link below in which they talk</p>
+<p begin="00:09:25.410" end="00:09:30.810" style="s2">about among other things rule Omega but</p>
+<p begin="00:09:28.110" end="00:09:32.460" style="s2">what&#39;s cool about it is that they sort</p>
+<p begin="00:09:30.810" end="00:09:34.050" style="s2">of embody it&#39;s used during the</p>
+<p begin="00:09:32.460" end="00:09:36.300" style="s2">conversation as well as it&#39;s a really</p>
+<p begin="00:09:34.050" end="00:09:38.610" style="s2">excellent place to start to explore</p>
+<p begin="00:09:36.300" end="00:09:40.140" style="s2">these ideas a little bit further so yeah</p>
+<p begin="00:09:38.610" end="00:09:42.240" style="s2">thank you very much addy for watching</p>
+<p begin="00:09:40.140" end="00:09:43.190" style="s2">all of these this kind of concludes game</p>
+<p begin="00:09:42.240" end="00:09:45.960" style="s2">b101</p>
+<p begin="00:09:43.190" end="00:09:47.640" style="s2">foundation cause the future videos that</p>
+<p begin="00:09:45.960" end="00:09:49.680" style="s2">I&#39;m going to make are going to be about</p>
+<p begin="00:09:47.640" end="00:09:52.050" style="s2">the protocols the generative functions</p>
+<p begin="00:09:49.680" end="00:09:55.050" style="s2">and most importantly the skills that we</p>
+<p begin="00:09:52.050" end="00:10:00.060" style="s2">as individuals can begin to cultivate in</p>
+<p begin="00:09:55.050" end="00:10:03.360" style="s2">order to make us better runners of those</p>
+<p begin="00:10:00.060" end="00:10:05.040" style="s2">generator functions and in doing so game</p>
+<p begin="00:10:03.360" end="00:10:06.930" style="s2">B will come about on its own I mean it&#39;s</p>
+<p begin="00:10:05.040" end="00:10:09.480" style="s2">another feature of complex systems as if</p>
+<p begin="00:10:06.930" end="00:10:10.800" style="s2">you alter the generator functions that</p>
+<p begin="00:10:09.480" end="00:10:12.720" style="s2">the modes of running the system will</p>
+<p begin="00:10:10.800" end="00:10:14.670" style="s2">reorganize a whole new system will</p>
+<p begin="00:10:12.720" end="00:10:17.640" style="s2">emerge from that right and so if if</p>
+<p begin="00:10:14.670" end="00:10:20.730" style="s2">enough of us can change our generator</p>
+<p begin="00:10:17.640" end="00:10:22.530" style="s2">functions then the gain changes as a</p>
+<p begin="00:10:20.730" end="00:10:24.600" style="s2">consequence of that right without having</p>
+<p begin="00:10:22.530" end="00:10:26.840" style="s2">to actually change the game from the top</p>
+<p begin="00:10:24.600" end="00:10:26.840" style="s2">down</p>
+</div>
+</body>
+</tt>

@@ -30,7 +30,11 @@ const getVideos = async (key, options, getId = (item) => item.id.videoId) => {
     videos.push(...page.items);
   }
   for (const item of videos) {
-    await getSubs(getId(item));
+    try {
+      await getSubs(getId(item));
+    } catch (e) {
+      console.error(e);
+    }
   }
 
   return videos;

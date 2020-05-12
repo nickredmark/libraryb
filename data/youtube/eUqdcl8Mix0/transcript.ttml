@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.040" end="00:00:06.330" style="s2">welcome to the stola the stoah is a</p>
+<p begin="00:00:03.959" end="00:00:08.910" style="s2">digital campfire where we go here and</p>
+<p begin="00:00:06.330" end="00:00:13.099" style="s2">dialogue about what matters most at the</p>
+<p begin="00:00:08.910" end="00:00:13.099" style="s2">night&#39;s edge what&#39;s happening now</p>
+<p begin="00:00:13.100" end="00:00:23.480" style="s2">[Music]</p>
+<p begin="00:00:19.960" end="00:00:25.880" style="s2">so welcome to stoah let&#39;s do some</p>
+<p begin="00:00:23.480" end="00:00:32.239" style="s2">check-ins I&#39;m feeling sort of a</p>
+<p begin="00:00:25.880" end="00:00:37.550" style="s2">lightness little sad yeah</p>
+<p begin="00:00:32.239" end="00:00:39.290" style="s2">vulnerable so the stole is a place for</p>
+<p begin="00:00:37.550" end="00:00:40.879" style="s2">us to cohere and dialogue but what</p>
+<p begin="00:00:39.290" end="00:00:42.739" style="s2">matters most at the knife&#39;s edge of this</p>
+<p begin="00:00:40.879" end="00:00:46.089" style="s2">moment and I&#39;m Peter Limburger at the</p>
+<p begin="00:00:42.739" end="00:00:50.979" style="s2">Stewart and today we are lucky to have</p>
+<p begin="00:00:46.089" end="00:00:52.940" style="s2">my favorite trickster Alexander bard and</p>
+<p begin="00:00:50.979" end="00:01:02.659" style="s2">before we begin I wanted to like</p>
+<p begin="00:00:52.940" end="00:01:06.530" style="s2">apologize to bard let&#39;s just say that I</p>
+<p begin="00:01:02.659" end="00:01:09.290" style="s2">wasn&#39;t the best friend to him and he</p>
+<p begin="00:01:06.530" end="00:01:13.280" style="s2">knows why so I just want to say I&#39;m</p>
+<p begin="00:01:09.290" end="00:01:19.150" style="s2">sorry and that being said I removed a</p>
+<p begin="00:01:13.280" end="00:01:21.190" style="s2">raven all right</p>
+<p begin="00:01:19.150" end="00:01:23.980" style="s2">hi everyone I&#39;m Raven I&#39;m gonna be</p>
+<p begin="00:01:21.190" end="00:01:25.810" style="s2">hosting the Q&amp;A today so let&#39;s describe</p>
+<p begin="00:01:23.980" end="00:01:28.390" style="s2">what we&#39;re gonna be doing so we&#39;re gonna</p>
+<p begin="00:01:25.810" end="00:01:31.960" style="s2">have bard talking for about 20 to 25</p>
+<p begin="00:01:28.390" end="00:01:34.390" style="s2">minutes and then we&#39;ll move into cue a</p>
+<p begin="00:01:31.960" end="00:01:36.400" style="s2">warm woman up with some questions from</p>
+<p begin="00:01:34.390" end="00:01:37.870" style="s2">Peter and and I and then we&#39;ll open up</p>
+<p begin="00:01:36.400" end="00:01:39.940" style="s2">to Q&amp;A from the audience</p>
+<p begin="00:01:37.870" end="00:01:43.330" style="s2">you can put your questions in the chat</p>
+<p begin="00:01:39.940" end="00:01:46.030" style="s2">and I will call your name and you can</p>
+<p begin="00:01:43.330" end="00:01:50.910" style="s2">ask your question to bard and with that</p>
+<p begin="00:01:46.030" end="00:01:50.910" style="s2">to the trickster himself Alexander</p>
+<p begin="00:01:51.440" end="00:02:03.320" style="s2">I meet yourself sir there we go</p>
+<p begin="00:02:00.160" end="00:02:05.090" style="s2">it&#39;s wonderful to be here and thank you</p>
+<p begin="00:02:03.320" end="00:02:08.960" style="s2">so much Peter and Raven for having me</p>
+<p begin="00:02:05.090" end="00:02:12.050" style="s2">and and Peter whatever that concerned</p>
+<p begin="00:02:08.960" end="00:02:15.050" style="s2">your your apology is completely accepted</p>
+<p begin="00:02:12.050" end="00:02:16.970" style="s2">in it and hey I&#39;m not thesis guy in the</p>
+<p begin="00:02:15.050" end="00:02:19.540" style="s2">world to deal with and you you grow</p>
+<p begin="00:02:16.970" end="00:02:22.370" style="s2">every day in everything you do so a</p>
+<p begin="00:02:19.540" end="00:02:24.560" style="s2">total deep breed probably love in your</p>
+<p begin="00:02:22.370" end="00:02:28.370" style="s2">direction right away and don&#39;t worry</p>
+<p begin="00:02:24.560" end="00:02:30.170" style="s2">about a thing and Raven so nice to have</p>
+<p begin="00:02:28.370" end="00:02:32.510" style="s2">you here by the way this is queen raven</p>
+<p begin="00:02:30.170" end="00:02:35.830" style="s2">sam just her slave so she will decide</p>
+<p begin="00:02:32.510" end="00:02:38.600" style="s2">whatever she wants this evening and and</p>
+<p begin="00:02:35.830" end="00:02:39.590" style="s2">yeah i&#39;ll leave everything the control</p>
+<p begin="00:02:38.600" end="00:02:41.630" style="s2">button is hers</p>
+<p begin="00:02:39.590" end="00:02:44.270" style="s2">so I&#39;ll just I&#39;ll just take a few</p>
+<p begin="00:02:41.630" end="00:02:45.860" style="s2">minutes to do to do the presentation and</p>
+<p begin="00:02:44.270" end="00:02:47.660" style="s2">then we can move to the questions and</p>
+<p begin="00:02:45.860" end="00:02:51.350" style="s2">answers that I very much look forward to</p>
+<p begin="00:02:47.660" end="00:02:53.000" style="s2">so when I discussed this this thing</p>
+<p begin="00:02:51.350" end="00:02:55.580" style="s2">about stoah and how it could possibly</p>
+<p begin="00:02:53.000" end="00:02:56.750" style="s2">participate with Peter last week we can</p>
+<p begin="00:02:55.580" end="00:03:00.440" style="s2">take the conclusion that it could be</p>
+<p begin="00:02:56.750" end="00:03:02.930" style="s2">good time to sort of touch base and</p>
+<p begin="00:03:00.440" end="00:03:05.030" style="s2">we&#39;re react because obviously a major</p>
+<p begin="00:03:02.930" end="00:03:06.650" style="s2">event just going on in the world and and</p>
+<p begin="00:03:05.030" end="00:03:08.000" style="s2">the way you know that a major event is</p>
+<p begin="00:03:06.650" end="00:03:10.190" style="s2">going on to the world it&#39;s the fact that</p>
+<p begin="00:03:08.000" end="00:03:12.410" style="s2">you have to tell exactly which date</p>
+<p begin="00:03:10.190" end="00:03:16.340" style="s2">you&#39;re talking this is this happens to</p>
+<p begin="00:03:12.410" end="00:03:18.530" style="s2">be April 24 2020 and and because things</p>
+<p begin="00:03:16.340" end="00:03:21.290" style="s2">are changing it&#39;s just a rapid pace it&#39;s</p>
+<p begin="00:03:18.530" end="00:03:22.610" style="s2">impossible to talk about what&#39;s going on</p>
+<p begin="00:03:21.290" end="00:03:24.290" style="s2">in the world right now without actually</p>
+<p begin="00:03:22.610" end="00:03:26.239" style="s2">referring to the date and I can&#39;t think</p>
+<p begin="00:03:24.290" end="00:03:28.070" style="s2">of anything I can&#39;t do anything more</p>
+<p begin="00:03:26.239" end="00:03:31.010" style="s2">evident when it comes to defining an</p>
+<p begin="00:03:28.070" end="00:03:33.830" style="s2">event than this now the weird thing is</p>
+<p begin="00:03:31.010" end="00:03:36.170" style="s2">this that this all all sort of relates</p>
+<p begin="00:03:33.830" end="00:03:38.540" style="s2">to a pandemic that we call the corona</p>
+<p begin="00:03:36.170" end="00:03:40.880" style="s2">pandemic I prefer to call it the grand</p>
+<p begin="00:03:38.540" end="00:03:44.209" style="s2">corona right now because it&#39;s way more</p>
+<p begin="00:03:40.880" end="00:03:45.920" style="s2">than a pandemic pandemics aren&#39;t rare we</p>
+<p begin="00:03:44.209" end="00:03:48.260" style="s2">usually have say about seven or eight</p>
+<p begin="00:03:45.920" end="00:03:50.720" style="s2">major global pandemics like this every</p>
+<p begin="00:03:48.260" end="00:03:52.820" style="s2">century or so it&#39;s just that we&#39;ve been</p>
+<p begin="00:03:50.720" end="00:03:56.060" style="s2">lucky you haven&#39;t had a major pandemic</p>
+<p begin="00:03:52.820" end="00:03:57.680" style="s2">like this that we know at least and well</p>
+<p begin="00:03:56.060" end="00:04:00.230" style="s2">the last time was the Hong Kong flu</p>
+<p begin="00:03:57.680" end="00:04:02.569" style="s2">which is called the late 1960s before</p>
+<p begin="00:04:00.230" end="00:04:04.130" style="s2">the Asian flu in the late 1950s it&#39;s</p>
+<p begin="00:04:02.569" end="00:04:04.980" style="s2">possible the corona is gonna get even</p>
+<p begin="00:04:04.130" end="00:04:06.660" style="s2">worse than those</p>
+<p begin="00:04:04.980" end="00:04:09.360" style="s2">but they were pretty bad they should</p>
+<p begin="00:04:06.660" end="00:04:11.610" style="s2">flew in 1957-58 killed about five</p>
+<p begin="00:04:09.360" end="00:04:13.290" style="s2">million people in the world and we had</p>
+<p begin="00:04:11.610" end="00:04:16.560" style="s2">about half the population that we do now</p>
+<p begin="00:04:13.290" end="00:04:18.150" style="s2">or even less so it would take the corona</p>
+<p begin="00:04:16.560" end="00:04:20.340" style="s2">to kill ten billion million people to</p>
+<p begin="00:04:18.150" end="00:04:22.380" style="s2">get there it&#39;s it&#39;s it&#39;s not unlikely</p>
+<p begin="00:04:20.340" end="00:04:23.910" style="s2">that would happen it&#39;s very likely</p>
+<p begin="00:04:22.380" end="00:04:26.210" style="s2">actually the Cronus killed far more</p>
+<p begin="00:04:23.910" end="00:04:29.580" style="s2">people those statistics allows right now</p>
+<p begin="00:04:26.210" end="00:04:30.510" style="s2">we have a you know major bad situations</p>
+<p begin="00:04:29.580" end="00:04:32.250" style="s2">in many parts of the world right now</p>
+<p begin="00:04:30.510" end="00:04:34.889" style="s2">even in countries they&#39;ve declared only</p>
+<p begin="00:04:32.250" end="00:04:37.440" style="s2">40 or 50 people dead we have you know</p>
+<p begin="00:04:34.889" end="00:04:40.110" style="s2">rebellion already happening so this is a</p>
+<p begin="00:04:37.440" end="00:04:42.060" style="s2">bad situation but the pandemic itself is</p>
+<p begin="00:04:40.110" end="00:04:44.310" style="s2">not that unique what is unique is that</p>
+<p begin="00:04:42.060" end="00:04:47.130" style="s2">this is the first major pandemic in the</p>
+<p begin="00:04:44.310" end="00:04:51.260" style="s2">Internet age and and that makes it</p>
+<p begin="00:04:47.130" end="00:04:54.300" style="s2">different I also say that we probably</p>
+<p begin="00:04:51.260" end="00:04:54.990" style="s2">probably by early merge which is more</p>
+<p begin="00:04:54.300" end="00:04:56.940" style="s2">than a month ago</p>
+<p begin="00:04:54.990" end="00:04:58.710" style="s2">the pandemic was no longer the major</p>
+<p begin="00:04:56.940" end="00:05:00.210" style="s2">problem to the world but actually the</p>
+<p begin="00:04:58.710" end="00:05:01.470" style="s2">hysteria surrounding the pandemic has</p>
+<p begin="00:05:00.210" end="00:05:03.090" style="s2">become much more of a problem since</p>
+<p begin="00:05:01.470" end="00:05:04.520" style="s2">death and I would say this not</p>
+<p begin="00:05:03.090" end="00:05:06.840" style="s2">lightheartedly</p>
+<p begin="00:05:04.520" end="00:05:08.430" style="s2">without making myself much of a mess or</p>
+<p begin="00:05:06.840" end="00:05:10.650" style="s2">mixed him hating those things I&#39;ve</p>
+<p begin="00:05:08.430" end="00:05:13.320" style="s2">suffered a really bad boot of copy 19</p>
+<p begin="00:05:10.650" end="00:05:14.970" style="s2">myself and I was really sick for a</p>
+<p begin="00:05:13.320" end="00:05:15.360" style="s2">couple of weeks and I also got it back</p>
+<p begin="00:05:14.970" end="00:05:17.220" style="s2">again</p>
+<p begin="00:05:15.360" end="00:05:18.870" style="s2">which warned me that this is not</p>
+<p begin="00:05:17.220" end="00:05:22.020" style="s2">something you easily get over it&#39;s not a</p>
+<p begin="00:05:18.870" end="00:05:23.520" style="s2">regular flu at all and and I&#39;ve lost a</p>
+<p begin="00:05:22.020" end="00:05:26.310" style="s2">couple of friends already and I know a</p>
+<p begin="00:05:23.520" end="00:05:28.830" style="s2">lot of men my age I&#39;m in my mid-50s that</p>
+<p begin="00:05:26.310" end="00:05:31.080" style="s2">have gone really sick from from this</p>
+<p begin="00:05:28.830" end="00:05:32.970" style="s2">virus so it&#39;s it&#39;s not something you</p>
+<p begin="00:05:31.080" end="00:05:35.820" style="s2">play around with lightly at all and I&#39;m</p>
+<p begin="00:05:32.970" end="00:05:37.830" style="s2">glad my father died a respectful death</p>
+<p begin="00:05:35.820" end="00:05:39.150" style="s2">last year 87 years old because he&#39;s one</p>
+<p begin="00:05:37.830" end="00:05:41.070" style="s2">of those men out there who wouldn&#39;t</p>
+<p begin="00:05:39.150" end="00:05:42.990" style="s2">stand a chance if he&#39;d been hit by the</p>
+<p begin="00:05:41.070" end="00:05:48.240" style="s2">copy 19 I would know cuz I did myself</p>
+<p begin="00:05:42.990" end="00:05:49.590" style="s2">but having said that even more so having</p>
+<p begin="00:05:48.240" end="00:05:51.570" style="s2">said that with the credibility to come</p>
+<p begin="00:05:49.590" end="00:05:53.669" style="s2">so it actually haven&#39;t suffered from the</p>
+<p begin="00:05:51.570" end="00:05:56.130" style="s2">virus and had a bad boot of it I would</p>
+<p begin="00:05:53.669" end="00:05:58.590" style="s2">say that we are now way past the point</p>
+<p begin="00:05:56.130" end="00:06:00.930" style="s2">where the pandemic is the problem rather</p>
+<p begin="00:05:58.590" end="00:06:03.840" style="s2">it&#39;s the stereo now that&#39;s of course</p>
+<p begin="00:06:00.930" end="00:06:06.270" style="s2">also interesting not only in a cynical</p>
+<p begin="00:06:03.840" end="00:06:07.979" style="s2">way there&#39;s also creative opportunity</p>
+<p begin="00:06:06.270" end="00:06:10.620" style="s2">coming out of creative destruction that</p>
+<p begin="00:06:07.979" end="00:06:12.270" style="s2">means that if you learn from history one</p>
+<p begin="00:06:10.620" end="00:06:14.729" style="s2">of our previous pandemics we know that</p>
+<p begin="00:06:12.270" end="00:06:16.979" style="s2">even the worst pandemics ever even like</p>
+<p begin="00:06:14.729" end="00:06:18.699" style="s2">the plague in the 14th century came with</p>
+<p begin="00:06:16.979" end="00:06:20.110" style="s2">certain benefits</p>
+<p begin="00:06:18.699" end="00:06:21.999" style="s2">I would even say that the plague in the</p>
+<p begin="00:06:20.110" end="00:06:23.199" style="s2">6th century was in worse because it</p>
+<p begin="00:06:21.999" end="00:06:24.729" style="s2">killed my favorite religion</p>
+<p begin="00:06:23.199" end="00:06:26.680" style="s2">zoroastrianism and replaced of a</p>
+<p begin="00:06:24.729" end="00:06:28.569" style="s2">religion that I detest called Islam so</p>
+<p begin="00:06:26.680" end="00:06:30.369" style="s2">personally I would say that the the</p>
+<p begin="00:06:28.569" end="00:06:32.469" style="s2">plague in the 6th century was the really</p>
+<p begin="00:06:30.369" end="00:06:34.809" style="s2">bad one the peg in the 14th century was</p>
+<p begin="00:06:32.469" end="00:06:36.520" style="s2">better in many ways it actually created</p>
+<p begin="00:06:34.809" end="00:06:38.800" style="s2">the opportunity for the renaissance and</p>
+<p begin="00:06:36.520" end="00:06:42.129" style="s2">eventually of course the Enlightenment</p>
+<p begin="00:06:38.800" end="00:06:43.330" style="s2">and the Reformation in Europe so we</p>
+<p begin="00:06:42.129" end="00:06:45.610" style="s2">don&#39;t know where this is gonna end up</p>
+<p begin="00:06:43.330" end="00:06:46.719" style="s2">it&#39;s probably not gonna be on that type</p>
+<p begin="00:06:45.610" end="00:06:48.490" style="s2">of scale at all</p>
+<p begin="00:06:46.719" end="00:06:50.649" style="s2">but I would definitely say this is a</p>
+<p begin="00:06:48.490" end="00:06:53.949" style="s2">major event seen over the last 3040</p>
+<p begin="00:06:50.649" end="00:06:56.259" style="s2">years it&#39;s a global event and as I said</p>
+<p begin="00:06:53.949" end="00:06:59.469" style="s2">this is the first major pandemic of the</p>
+<p begin="00:06:56.259" end="00:07:03.669" style="s2">Internet age so in what ways this</p>
+<p begin="00:06:59.469" end="00:07:05.889" style="s2">different well we&#39;re all connected we</p>
+<p begin="00:07:03.669" end="00:07:07.539" style="s2">have a population of about 8 billion</p>
+<p begin="00:07:05.889" end="00:07:09.009" style="s2">people on this planet and after the</p>
+<p begin="00:07:07.539" end="00:07:10.839" style="s2">majority of people on the planet today</p>
+<p begin="00:07:09.009" end="00:07:12.849" style="s2">are connected to the Internet through</p>
+<p begin="00:07:10.839" end="00:07:16.059" style="s2">the smartphones and laptops and other</p>
+<p begin="00:07:12.849" end="00:07:17.680" style="s2">gadgets and increasingly also more and</p>
+<p begin="00:07:16.059" end="00:07:18.459" style="s2">more intelligent machines around us are</p>
+<p begin="00:07:17.680" end="00:07:20.259" style="s2">getting connected</p>
+<p begin="00:07:18.459" end="00:07:22.089" style="s2">some people even force their pets to go</p>
+<p begin="00:07:20.259" end="00:07:24.999" style="s2">online these days apparently we&#39;ll call</p>
+<p begin="00:07:22.089" end="00:07:27.189" style="s2">me nineteen tests but there&#39;s far more</p>
+<p begin="00:07:24.999" end="00:07:29.020" style="s2">people connected than ever before in</p>
+<p begin="00:07:27.189" end="00:07:31.089" style="s2">history and we are directly connected</p>
+<p begin="00:07:29.020" end="00:07:32.860" style="s2">one another now I&#39;ve written books about</p>
+<p begin="00:07:31.089" end="00:07:34.180" style="s2">this I worked on this for the past 30</p>
+<p begin="00:07:32.860" end="00:07:35.740" style="s2">years it&#39;s actually the reason why I</p>
+<p begin="00:07:34.180" end="00:07:38.110" style="s2">wanted to become a philosopher in the</p>
+<p begin="00:07:35.740" end="00:07:39.909" style="s2">first place because I thought the</p>
+<p begin="00:07:38.110" end="00:07:42.909" style="s2">Internet is such a dramatic revolution</p>
+<p begin="00:07:39.909" end="00:07:45.969" style="s2">that it has to be covered by philosophy</p>
+<p begin="00:07:42.909" end="00:07:47.649" style="s2">it is it is a phenomenon that even my</p>
+<p begin="00:07:45.969" end="00:07:49.180" style="s2">favorite philosophers like Hegel and</p>
+<p begin="00:07:47.649" end="00:07:51.789" style="s2">Nietzsche could never even have thought</p>
+<p begin="00:07:49.180" end="00:07:54.339" style="s2">about they could have comprehended you</p>
+<p begin="00:07:51.789" end="00:07:56.589" style="s2">know only 100 150 years ago that this</p>
+<p begin="00:07:54.339" end="00:07:58.809" style="s2">phenomena would occur in history so the</p>
+<p begin="00:07:56.589" end="00:08:02.800" style="s2">Internet itself is one of the biggest</p>
+<p begin="00:07:58.809" end="00:08:04.629" style="s2">events ever this means that the old</p>
+<p begin="00:08:02.800" end="00:08:07.269" style="s2">power structure that were built</p>
+<p begin="00:08:04.629" end="00:08:08.709" style="s2">basically on the printing press and the</p>
+<p begin="00:08:07.269" end="00:08:10.749" style="s2">fact that we made people around the</p>
+<p begin="00:08:08.709" end="00:08:13.659" style="s2">world who gained the capacity to read</p>
+<p begin="00:08:10.749" end="00:08:15.749" style="s2">write and count and following later you</p>
+<p begin="00:08:13.659" end="00:08:18.339" style="s2">know 2 300 years after printing was a</p>
+<p begin="00:08:15.749" end="00:08:20.019" style="s2">printing press was invented it became</p>
+<p begin="00:08:18.339" end="00:08:22.569" style="s2">affordable for people around the world</p>
+<p begin="00:08:20.019" end="00:08:24.029" style="s2">to read write and count and they did on</p>
+<p begin="00:08:22.569" end="00:08:26.740" style="s2">a massive scale and this of course</p>
+<p begin="00:08:24.029" end="00:08:28.539" style="s2">created the paradigm that was basically</p>
+<p begin="00:08:26.740" end="00:08:31.240" style="s2">dominated by what we called the West</p>
+<p begin="00:08:28.539" end="00:08:31.900" style="s2">which is Europe and eventually the three</p>
+<p begin="00:08:31.240" end="00:08:33.909" style="s2">other</p>
+<p begin="00:08:31.900" end="00:08:37.300" style="s2">content is the Europeans colonized and</p>
+<p begin="00:08:33.909" end="00:08:40.690" style="s2">plundered to take over the world that&#39;s</p>
+<p begin="00:08:37.300" end="00:08:43.980" style="s2">the world we lived in then starting in</p>
+<p begin="00:08:40.690" end="00:08:47.410" style="s2">the 1980s named Kenneth came along and</p>
+<p begin="00:08:43.980" end="00:08:48.940" style="s2">we could have ready then start thinking</p>
+<p begin="00:08:47.410" end="00:08:50.860" style="s2">of the world differently because we&#39;d</p>
+<p begin="00:08:48.940" end="00:08:53.710" style="s2">actually what we tend to forget about</p>
+<p begin="00:08:50.860" end="00:08:55.540" style="s2">we&#39;d actually gone through another</p>
+<p begin="00:08:53.710" end="00:08:57.520" style="s2">technological revolution just before the</p>
+<p begin="00:08:55.540" end="00:09:00.720" style="s2">internet arrived that made it easier for</p>
+<p begin="00:08:57.520" end="00:09:03.850" style="s2">us to comprehend it and that was flying</p>
+<p begin="00:09:00.720" end="00:09:05.589" style="s2">you know we had a mythology of Icarus an</p>
+<p begin="00:09:03.850" end="00:09:07.390" style="s2">occurrence trying to reach the Sun and</p>
+<p begin="00:09:05.589" end="00:09:09.370" style="s2">getting killed in the process because it</p>
+<p begin="00:09:07.390" end="00:09:11.920" style="s2">was hubris tick to think that you could</p>
+<p begin="00:09:09.370" end="00:09:13.959" style="s2">ever fly like a bird and although we</p>
+<p begin="00:09:11.920" end="00:09:17.080" style="s2">tried in so many ways at the end of the</p>
+<p begin="00:09:13.959" end="00:09:18.790" style="s2">19th century managed to figure out how</p>
+<p begin="00:09:17.080" end="00:09:20.290" style="s2">we could build machines with which we</p>
+<p begin="00:09:18.790" end="00:09:22.209" style="s2">could take the human body up into the</p>
+<p begin="00:09:20.290" end="00:09:25.120" style="s2">sky so we started flying</p>
+<p begin="00:09:22.209" end="00:09:27.940" style="s2">we started flying more and more and we</p>
+<p begin="00:09:25.120" end="00:09:30.700" style="s2">started using you know flights or planes</p>
+<p begin="00:09:27.940" end="00:09:34.120" style="s2">during warfare and discovered there were</p>
+<p begin="00:09:30.700" end="00:09:36.580" style="s2">also great weapons and eventually we put</p>
+<p begin="00:09:34.120" end="00:09:38.620" style="s2">a bomb inside one of those flights and</p>
+<p begin="00:09:36.580" end="00:09:41.410" style="s2">put that flight over a little town</p>
+<p begin="00:09:38.620" end="00:09:44.770" style="s2">called Hiroshima in Japan in on August</p>
+<p begin="00:09:41.410" end="00:09:47.890" style="s2">6th 1945 and dropped a bomb on it and</p>
+<p begin="00:09:44.770" end="00:09:50.560" style="s2">and I still as of a loss of her think</p>
+<p begin="00:09:47.890" end="00:09:52.060" style="s2">that that major event again an event</p>
+<p begin="00:09:50.560" end="00:09:53.560" style="s2">that changes history forever</p>
+<p begin="00:09:52.060" end="00:09:55.240" style="s2">that major event is still something</p>
+<p begin="00:09:53.560" end="00:09:58.420" style="s2">we&#39;re dealing with we have hardly even</p>
+<p begin="00:09:55.240" end="00:10:00.360" style="s2">started to understand what it means that</p>
+<p begin="00:09:58.420" end="00:10:03.339" style="s2">we as human beings have created a</p>
+<p begin="00:10:00.360" end="00:10:04.839" style="s2">technology which could wipe us out and</p>
+<p begin="00:10:03.339" end="00:10:08.110" style="s2">hardly any time at all</p>
+<p begin="00:10:04.839" end="00:10:10.930" style="s2">of course I led to the Cold War it also</p>
+<p begin="00:10:08.110" end="00:10:13.870" style="s2">led to the breakdown of phallic</p>
+<p begin="00:10:10.930" end="00:10:15.640" style="s2">Authority of the idea that men out there</p>
+<p begin="00:10:13.870" end="00:10:17.440" style="s2">who are engineers or whatever they are</p>
+<p begin="00:10:15.640" end="00:10:21.330" style="s2">could build a better world for tomorrow</p>
+<p begin="00:10:17.440" end="00:10:25.240" style="s2">it led us into a real awakening that was</p>
+<p begin="00:10:21.330" end="00:10:27.880" style="s2">both needed and understandable and we</p>
+<p begin="00:10:25.240" end="00:10:30.190" style="s2">call post-modernism today and it was the</p>
+<p begin="00:10:27.880" end="00:10:32.320" style="s2">question all could there be any phallic</p>
+<p begin="00:10:30.190" end="00:10:33.279" style="s2">Authority or could we replace it with</p>
+<p begin="00:10:32.320" end="00:10:34.870" style="s2">something else</p>
+<p begin="00:10:33.279" end="00:10:36.910" style="s2">that&#39;s the kind of work philosophers</p>
+<p begin="00:10:34.870" end="00:10:39.190" style="s2">like I work with like what kind of</p>
+<p begin="00:10:36.910" end="00:10:41.040" style="s2">narrative actually makes sense to human</p>
+<p begin="00:10:39.190" end="00:10:44.860" style="s2">beings and how are we as human beings</p>
+<p begin="00:10:41.040" end="00:10:46.980" style="s2">connected with one another so</p>
+<p begin="00:10:44.860" end="00:10:49.209" style="s2">this leads the song to the 1980s</p>
+<p begin="00:10:46.980" end="00:10:52.930" style="s2">postmodern already become the dominant</p>
+<p begin="00:10:49.209" end="00:10:55.120" style="s2">mode at least in the West post-colonial</p>
+<p begin="00:10:52.930" end="00:10:56.200" style="s2">studies were taken on meaning that the</p>
+<p begin="00:10:55.120" end="00:10:58.750" style="s2">rest of the world was starting to</p>
+<p begin="00:10:56.200" end="00:11:00.399" style="s2">respond to the fact the West had</p>
+<p begin="00:10:58.750" end="00:11:02.890" style="s2">conquered three other continents</p>
+<p begin="00:11:00.399" end="00:11:04.390" style="s2">plundered them and you know Hitler</p>
+<p begin="00:11:02.890" end="00:11:06.430" style="s2">wasn&#39;t the bad guy here he basically</p>
+<p begin="00:11:04.390" end="00:11:07.899" style="s2">just mimicked what Europeans did in</p>
+<p begin="00:11:06.430" end="00:11:10.000" style="s2">North America about fifty years before</p>
+<p begin="00:11:07.899" end="00:11:12.820" style="s2">him so this had already happened on a</p>
+<p begin="00:11:10.000" end="00:11:14.440" style="s2">massive scale and we were starting to</p>
+<p begin="00:11:12.820" end="00:11:16.089" style="s2">realize that we were increasingly live</p>
+<p begin="00:11:14.440" end="00:11:19.240" style="s2">in a globalized world they&#39;re just</p>
+<p begin="00:11:16.089" end="00:11:22.779" style="s2">saying apology apologies to other</p>
+<p begin="00:11:19.240" end="00:11:24.880" style="s2">cultures you plundered and braved could</p>
+<p begin="00:11:22.779" end="00:11:26.980" style="s2">be a fairly good idea at least as a</p>
+<p begin="00:11:24.880" end="00:11:28.990" style="s2">start because we&#39;re living increasing a</p>
+<p begin="00:11:26.980" end="00:11:31.209" style="s2">globalized world but then the internet</p>
+<p begin="00:11:28.990" end="00:11:33.310" style="s2">came along and connected all of us</p>
+<p begin="00:11:31.209" end="00:11:36.279" style="s2">directly you could already see in the</p>
+<p begin="00:11:33.310" end="00:11:38.500" style="s2">late 1980s that all the computers that</p>
+<p begin="00:11:36.279" end="00:11:40.240" style="s2">we were already using and now become</p>
+<p begin="00:11:38.500" end="00:11:41.649" style="s2">personal computers affordable personal</p>
+<p begin="00:11:40.240" end="00:11:43.990" style="s2">computers from the vast majority of</p>
+<p begin="00:11:41.649" end="00:11:46.300" style="s2">people we&#39;re now connected directly one</p>
+<p begin="00:11:43.990" end="00:11:48.160" style="s2">another so from the late 1980s you could</p>
+<p begin="00:11:46.300" end="00:11:50.110" style="s2">figure out that okay so all the</p>
+<p begin="00:11:48.160" end="00:11:52.870" style="s2">computers are directly connecting one</p>
+<p begin="00:11:50.110" end="00:11:55.839" style="s2">another meaning they&#39;re turning into one</p>
+<p begin="00:11:52.870" end="00:11:57.550" style="s2">huge computer and there&#39;s one huge</p>
+<p begin="00:11:55.839" end="00:11:59.440" style="s2">computers now connecting everybody on</p>
+<p begin="00:11:57.550" end="00:12:01.300" style="s2">the planet and eventually you could</p>
+<p begin="00:11:59.440" end="00:12:02.620" style="s2">figure out that my hard drive is not</p>
+<p begin="00:12:01.300" end="00:12:04.270" style="s2">going to be the only place where date</p>
+<p begin="00:12:02.620" end="00:12:06.520" style="s2">that&#39;s being stored from all this</p>
+<p begin="00:12:04.270" end="00:12:08.410" style="s2">communication that goes on where are we</p>
+<p begin="00:12:06.520" end="00:12:09.579" style="s2">gonna build you data centers eventually</p>
+<p begin="00:12:08.410" end="00:12:11.500" style="s2">and these data centers gonna be</p>
+<p begin="00:12:09.579" end="00:12:13.690" style="s2">incredibly powerful and probably gonna</p>
+<p begin="00:12:11.500" end="00:12:16.060" style="s2">call them tech giants in say 20 or 30</p>
+<p begin="00:12:13.690" end="00:12:17.950" style="s2">years time that&#39;s exactly the sort of</p>
+<p begin="00:12:16.060" end="00:12:20.020" style="s2">society we arrived at and philosophers</p>
+<p begin="00:12:17.950" end="00:12:22.420" style="s2">figured that out worthy 30 years ago and</p>
+<p begin="00:12:20.020" end="00:12:25.209" style="s2">we&#39;re now seeing this pattern and I want</p>
+<p begin="00:12:22.420" end="00:12:27.490" style="s2">to tie the pattern into the idea that at</p>
+<p begin="00:12:25.209" end="00:12:30.070" style="s2">the same time as we created the atomic</p>
+<p begin="00:12:27.490" end="00:12:31.750" style="s2">bomb and he scared the shit out of us we</p>
+<p begin="00:12:30.070" end="00:12:34.720" style="s2">all sent the satellites up into the sky</p>
+<p begin="00:12:31.750" end="00:12:36.130" style="s2">I would say if we&#39;re really honest about</p>
+<p begin="00:12:34.720" end="00:12:38.949" style="s2">it and the way we have to look at</p>
+<p begin="00:12:36.130" end="00:12:40.899" style="s2">history and hint sight is that after the</p>
+<p begin="00:12:38.949" end="00:12:44.560" style="s2">Tomic bomb were made another big mistake</p>
+<p begin="00:12:40.899" end="00:12:45.970" style="s2">who went to the moon we don&#39;t like to</p>
+<p begin="00:12:44.560" end="00:12:47.320" style="s2">think of it that way it&#39;s one of those</p>
+<p begin="00:12:45.970" end="00:12:49.750" style="s2">things that I like to question as a</p>
+<p begin="00:12:47.320" end="00:12:52.000" style="s2">trickster but when we went to the moon</p>
+<p begin="00:12:49.750" end="00:12:54.110" style="s2">in the late 1960s and put a few guys on</p>
+<p begin="00:12:52.000" end="00:12:56.630" style="s2">the moon who jumped around</p>
+<p begin="00:12:54.110" end="00:12:58.070" style="s2">the moon put a flag there turned out to</p>
+<p begin="00:12:56.630" end="00:12:59.570" style="s2">be the American flag because the</p>
+<p begin="00:12:58.070" end="00:13:01.040" style="s2">Russians are smart enough not to waste</p>
+<p begin="00:12:59.570" end="00:13:03.050" style="s2">hundreds of billions of dollars and</p>
+<p begin="00:13:01.040" end="00:13:05.810" style="s2">getting there but the Americans did and</p>
+<p begin="00:13:03.050" end="00:13:07.940" style="s2">if we look back at it now and the moon</p>
+<p begin="00:13:05.810" end="00:13:12.190" style="s2">banding oh we didn&#39;t go back didn&#39;t we</p>
+<p begin="00:13:07.940" end="00:13:16.460" style="s2">no we left a flag there yeah on what a</p>
+<p begin="00:13:12.190" end="00:13:18.860" style="s2">cold rock full of radiation there wasn&#39;t</p>
+<p begin="00:13:16.460" end="00:13:22.150" style="s2">any point along there and if you&#39;re</p>
+<p begin="00:13:18.860" end="00:13:24.620" style="s2">gonna look at the whole sort of</p>
+<p begin="00:13:22.150" end="00:13:27.140" style="s2">retelling of the narrative of the past</p>
+<p begin="00:13:24.620" end="00:13:29.870" style="s2">400 years and started cliched or was</p>
+<p begin="00:13:27.140" end="00:13:31.970" style="s2">great with for example European conquest</p>
+<p begin="00:13:29.870" end="00:13:33.860" style="s2">of half the planet and was bad with it</p>
+<p begin="00:13:31.970" end="00:13:37.160" style="s2">we also have to look at the difference</p>
+<p begin="00:13:33.860" end="00:13:39.320" style="s2">between the last territorial conquest</p>
+<p begin="00:13:37.160" end="00:13:41.180" style="s2">successful conquests in a cynical way</p>
+<p begin="00:13:39.320" end="00:13:42.950" style="s2">that successful conquest that both</p>
+<p begin="00:13:41.180" end="00:13:44.900" style="s2">occurred in the late 1950s and</p>
+<p begin="00:13:42.950" end="00:13:47.000" style="s2">ironically was the two countries do we</p>
+<p begin="00:13:44.900" end="00:13:47.960" style="s2">called the superpowers today I would say</p>
+<p begin="00:13:47.000" end="00:13:49.190" style="s2">that the probably the two worst</p>
+<p begin="00:13:47.960" end="00:13:50.960" style="s2">countries in the world right now because</p>
+<p begin="00:13:49.190" end="00:13:52.610" style="s2">one of them created the corona virus and</p>
+<p begin="00:13:50.960" end="00:13:54.980" style="s2">the other one created the corona Osteria</p>
+<p begin="00:13:52.610" end="00:13:57.560" style="s2">they called China the United States and</p>
+<p begin="00:13:54.980" end="00:14:00.800" style="s2">at the end of the 1950s China conquered</p>
+<p begin="00:13:57.560" end="00:14:02.540" style="s2">Tibet and if you&#39;re you know a Buddhist</p>
+<p begin="00:14:00.800" end="00:14:03.800" style="s2">and you you&#39;d like to think that the</p>
+<p begin="00:14:02.540" end="00:14:05.240" style="s2">Tibetan people would be better off</p>
+<p begin="00:14:03.800" end="00:14:07.070" style="s2">without the Chinese we&#39;re not sure about</p>
+<p begin="00:14:05.240" end="00:14:08.420" style="s2">that but the China conquered Tibet but</p>
+<p begin="00:14:07.070" end="00:14:12.140" style="s2">at the same time the United States</p>
+<p begin="00:14:08.420" end="00:14:14.900" style="s2">conquered Hawaii after Americans had</p>
+<p begin="00:14:12.140" end="00:14:16.580" style="s2">killed probably about 90% of the</p>
+<p begin="00:14:14.900" end="00:14:19.760" style="s2">original Aboriginal population Hawaii</p>
+<p begin="00:14:16.580" end="00:14:21.800" style="s2">decimated into nothing and then a bunch</p>
+<p begin="00:14:19.760" end="00:14:23.240" style="s2">of American senior citizens they wants</p>
+<p begin="00:14:21.800" end="00:14:24.980" style="s2">to try to avoid Corona at the moment</p>
+<p begin="00:14:23.240" end="00:14:26.450" style="s2">decided to settle there and make it the</p>
+<p begin="00:14:24.980" end="00:14:26.990" style="s2">most expensive and beautiful place on</p>
+<p begin="00:14:26.450" end="00:14:29.270" style="s2">the planet</p>
+<p begin="00:14:26.990" end="00:14:30.980" style="s2">let&#39;s call Hawaii but Hawaii was</p>
+<p begin="00:14:29.270" end="00:14:33.050" style="s2">conquered literally by the United States</p>
+<p begin="00:14:30.980" end="00:14:34.700" style="s2">included us a state in the United States</p>
+<p begin="00:14:33.050" end="00:14:36.410" style="s2">same Thomas Tibet was included as a</p>
+<p begin="00:14:34.700" end="00:14:38.720" style="s2">state in China I found that very</p>
+<p begin="00:14:36.410" end="00:14:42.710" style="s2">interesting because that was also the</p>
+<p begin="00:14:38.720" end="00:14:44.510" style="s2">end of territorial expansion there&#39;s no</p>
+<p begin="00:14:42.710" end="00:14:46.580" style="s2">opportunity for any more territorial</p>
+<p begin="00:14:44.510" end="00:14:48.950" style="s2">expansion after the conquest of Tibet in</p>
+<p begin="00:14:46.580" end="00:14:51.110" style="s2">Hawaii and the funny thing is that ten</p>
+<p begin="00:14:48.950" end="00:14:53.840" style="s2">years later we sent a man to the moon</p>
+<p begin="00:14:51.110" end="00:14:56.810" style="s2">and we declared that a victory what</p>
+<p begin="00:14:53.840" end="00:14:58.670" style="s2">we&#39;re not seeing is that putting people</p>
+<p begin="00:14:56.810" end="00:15:00.350" style="s2">on the moon and wasting hundreds of</p>
+<p begin="00:14:58.670" end="00:15:04.550" style="s2">billions of dollars in doing it we</p>
+<p begin="00:15:00.350" end="00:15:06.440" style="s2">delayed the movement of hundreds of</p>
+<p begin="00:15:04.550" end="00:15:07.110" style="s2">millions of Indians and Chinese into the</p>
+<p begin="00:15:06.440" end="00:15:08.940" style="s2">middle class</p>
+<p begin="00:15:07.110" end="00:15:11.220" style="s2">happen only 3040 years later with no</p>
+<p begin="00:15:08.940" end="00:15:13.320" style="s2">help from merica yurop because he spent</p>
+<p begin="00:15:11.220" end="00:15:15.240" style="s2">so much money the 1960s of putting a guy</p>
+<p begin="00:15:13.320" end="00:15:18.300" style="s2">on the moon and declaring that a victory</p>
+<p begin="00:15:15.240" end="00:15:20.970" style="s2">which is nothing but symbolic and no</p>
+<p begin="00:15:18.300" end="00:15:23.459" style="s2">value at all I think that&#39;s a very</p>
+<p begin="00:15:20.970" end="00:15:25.350" style="s2">important lesson to learn so that we can</p>
+<p begin="00:15:23.459" end="00:15:26.940" style="s2">go back to the late 1950s and then ask</p>
+<p begin="00:15:25.350" end="00:15:29.160" style="s2">ourselves so what was the point going</p>
+<p begin="00:15:26.940" end="00:15:31.170" style="s2">into outer space in the first place well</p>
+<p begin="00:15:29.160" end="00:15:35.040" style="s2">there was something fantastic about it</p>
+<p begin="00:15:31.170" end="00:15:38.399" style="s2">it&#39;s called satellites and if we think</p>
+<p begin="00:15:35.040" end="00:15:40.680" style="s2">of something that ties airplanes whether</p>
+<p begin="00:15:38.399" end="00:15:42.269" style="s2">they&#39;re full of bombs or people that we</p>
+<p begin="00:15:40.680" end="00:15:43.709" style="s2">travel with today because we&#39;re the</p>
+<p begin="00:15:42.269" end="00:15:45.360" style="s2">flights at least the flights we had</p>
+<p begin="00:15:43.709" end="00:15:47.370" style="s2">before the corona we could travel for</p>
+<p begin="00:15:45.360" end="00:15:49.290" style="s2">one point on the planet to the opposite</p>
+<p begin="00:15:47.370" end="00:15:52.829" style="s2">part of the planet in less than 24 hours</p>
+<p begin="00:15:49.290" end="00:15:56.910" style="s2">that is amazing and we&#39;re digital we can</p>
+<p begin="00:15:52.829" end="00:15:58.350" style="s2">literally travel in 0.1 second so we can</p>
+<p begin="00:15:56.910" end="00:15:59.880" style="s2">play computer games between Finland and</p>
+<p begin="00:15:58.350" end="00:16:03.570" style="s2">New Zealand isn&#39;t that wonderful right</p>
+<p begin="00:15:59.880" end="00:16:06.390" style="s2">so we have arrived in a world which I</p>
+<p begin="00:16:03.570" end="00:16:08.459" style="s2">would call aarrow digital or spatial</p>
+<p begin="00:16:06.390" end="00:16:10.620" style="s2">digital in the sense that we now have</p>
+<p begin="00:16:08.459" end="00:16:13.500" style="s2">satellites that cover the entire planet</p>
+<p begin="00:16:10.620" end="00:16:18.480" style="s2">and these are listed two things for us</p>
+<p begin="00:16:13.500" end="00:16:20.310" style="s2">they both look at us we was called</p>
+<p begin="00:16:18.480" end="00:16:22.589" style="s2">something called the father case this is</p>
+<p begin="00:16:20.310" end="00:16:25.560" style="s2">like the you know the idea is that the</p>
+<p begin="00:16:22.589" end="00:16:27.420" style="s2">goddess is earth and then the God is up</p>
+<p begin="00:16:25.560" end="00:16:29.399" style="s2">in the sky and the God looks down and I</p>
+<p begin="00:16:27.420" end="00:16:31.890" style="s2">was like these are fatherly sonic gays</p>
+<p begin="00:16:29.399" end="00:16:34.079" style="s2">and looks down on us on the planet and</p>
+<p begin="00:16:31.890" end="00:16:35.579" style="s2">of course if you just use Google Maps</p>
+<p begin="00:16:34.079" end="00:16:36.810" style="s2">you figure out that&#39;s exactly what&#39;s</p>
+<p begin="00:16:35.579" end="00:16:38.579" style="s2">happening right now because we&#39;re</p>
+<p begin="00:16:36.810" end="00:16:40.920" style="s2">increasingly getting satellites to get</p>
+<p begin="00:16:38.579" end="00:16:43.079" style="s2">more and more powerful and to look over</p>
+<p begin="00:16:40.920" end="00:16:44.399" style="s2">the entire planet and they can look down</p>
+<p begin="00:16:43.079" end="00:16:46.620" style="s2">on anything that happens on the planet</p>
+<p begin="00:16:44.399" end="00:16:49.079" style="s2">the zoom in on it and where that comes</p>
+<p begin="00:16:46.620" end="00:16:50.399" style="s2">data you know we can now educate</p>
+<p begin="00:16:49.079" end="00:16:51.930" style="s2">ourselves by looking at anywhere in the</p>
+<p begin="00:16:50.399" end="00:16:53.220" style="s2">planet and then zoom in on a place on</p>
+<p begin="00:16:51.930" end="00:16:54.870" style="s2">the planet and learn about the people</p>
+<p begin="00:16:53.220" end="00:16:56.730" style="s2">who live there learn the language learn</p>
+<p begin="00:16:54.870" end="00:17:00.600" style="s2">the culture learn everything about them</p>
+<p begin="00:16:56.730" end="00:17:02.940" style="s2">and interact with which is amazing the</p>
+<p begin="00:17:00.600" end="00:17:05.160" style="s2">power of this is just fantastic</p>
+<p begin="00:17:02.940" end="00:17:09.140" style="s2">now it should also scare the shit out of</p>
+<p begin="00:17:05.160" end="00:17:11.630" style="s2">us because of two different versions of</p>
+<p begin="00:17:09.140" end="00:17:16.900" style="s2">understanding this idea of a satellite</p>
+<p begin="00:17:11.630" end="00:17:18.790" style="s2">world and one of them is that you</p>
+<p begin="00:17:16.900" end="00:17:21.000" style="s2">we got a lot of problems as humanity we</p>
+<p begin="00:17:18.790" end="00:17:24.339" style="s2">need to lock up the bombs somewhere</p>
+<p begin="00:17:21.000" end="00:17:26.860" style="s2">after this pandemic we also discovered</p>
+<p begin="00:17:24.339" end="00:17:29.590" style="s2">that what could be worse than a pandemic</p>
+<p begin="00:17:26.860" end="00:17:31.210" style="s2">would be biological weapons so we need</p>
+<p begin="00:17:29.590" end="00:17:33.100" style="s2">to figure out how we look those certain</p>
+<p begin="00:17:31.210" end="00:17:34.840" style="s2">particulars on them we&#39;re gonna have</p>
+<p begin="00:17:33.100" end="00:17:38.710" style="s2">chemical weapons more than ever</p>
+<p begin="00:17:34.840" end="00:17:40.180" style="s2">okay we need to lock up the weapons okay</p>
+<p begin="00:17:38.710" end="00:17:42.700" style="s2">we also plan it the more or less</p>
+<p begin="00:17:40.180" end="00:17:44.290" style="s2">destroyed starting exactly with the</p>
+<p begin="00:17:42.700" end="00:17:46.570" style="s2">conquest of the planet and of all these</p>
+<p begin="00:17:44.290" end="00:17:48.610" style="s2">different territories and you know this</p>
+<p begin="00:17:46.570" end="00:17:50.770" style="s2">massive expansion territorial that we</p>
+<p begin="00:17:48.610" end="00:17:51.940" style="s2">did and we both mines everywhere and we</p>
+<p begin="00:17:50.770" end="00:17:54.700" style="s2">started plundering it and then we</p>
+<p begin="00:17:51.940" end="00:17:56.470" style="s2">started using oil and gas and coal to</p>
+<p begin="00:17:54.700" end="00:17:58.690" style="s2">burn this whole thing to get cheaper</p>
+<p begin="00:17:56.470" end="00:18:00.730" style="s2">tricity and we were almost at the point</p>
+<p begin="00:17:58.690" end="00:18:03.220" style="s2">when we realized okay this is gonna kill</p>
+<p begin="00:18:00.730" end="00:18:05.830" style="s2">us if you don&#39;t stop this as well this</p>
+<p begin="00:18:03.220" end="00:18:08.440" style="s2">will also increase the demand for a</p>
+<p begin="00:18:05.830" end="00:18:11.020" style="s2">different world order the problem is</p>
+<p begin="00:18:08.440" end="00:18:13.360" style="s2">that the new world order that&#39;s needed</p>
+<p begin="00:18:11.020" end="00:18:14.710" style="s2">and the can be made possible now we</p>
+<p begin="00:18:13.360" end="00:18:16.240" style="s2">could get data from anywhere on the</p>
+<p begin="00:18:14.710" end="00:18:18.310" style="s2">planet and boom that data into the</p>
+<p begin="00:18:16.240" end="00:18:20.080" style="s2">satellites and Silas turn reflect back</p>
+<p begin="00:18:18.310" end="00:18:21.940" style="s2">on us and communicate with us in an</p>
+<p begin="00:18:20.080" end="00:18:23.830" style="s2">intelligent way and we start building</p>
+<p begin="00:18:21.940" end="00:18:26.950" style="s2">artificial intelligent to this to boost</p>
+<p begin="00:18:23.830" end="00:18:28.900" style="s2">it even further we will create a sincere</p>
+<p begin="00:18:26.950" end="00:18:30.490" style="s2">will create a world where we have</p>
+<p begin="00:18:28.900" end="00:18:32.710" style="s2">sensors absolutely everywhere in the</p>
+<p begin="00:18:30.490" end="00:18:34.840" style="s2">atmosphere in the waters of the seas on</p>
+<p begin="00:18:32.710" end="00:18:37.150" style="s2">our bodies and I would even say that</p>
+<p begin="00:18:34.840" end="00:18:39.730" style="s2">it&#39;s likely that the number of sensors</p>
+<p begin="00:18:37.150" end="00:18:42.220" style="s2">will increase in density the more people</p>
+<p begin="00:18:39.730" end="00:18:43.510" style="s2">you have around so this is of course</p>
+<p begin="00:18:42.220" end="00:18:45.310" style="s2">we&#39;d be doing other things is although</p>
+<p begin="00:18:43.510" end="00:18:46.420" style="s2">Bell today but we increasingly seeing</p>
+<p begin="00:18:45.310" end="00:18:47.950" style="s2">that these sensors are gonna be</p>
+<p begin="00:18:46.420" end="00:18:49.960" style="s2">everywhere and we&#39;re gonna interact with</p>
+<p begin="00:18:47.950" end="00:18:53.590" style="s2">technologies we machines just about</p>
+<p begin="00:18:49.960" end="00:18:55.390" style="s2">everywhere we go so it&#39;s a whole new man</p>
+<p begin="00:18:53.590" end="00:18:57.340" style="s2">versus machine relationship that&#39;s</p>
+<p begin="00:18:55.390" end="00:18:59.050" style="s2">maturing here it&#39;s connected to the</p>
+<p begin="00:18:57.340" end="00:19:02.680" style="s2">satellites he&#39;s connected to information</p>
+<p begin="00:18:59.050" end="00:19:04.540" style="s2">data flows okay it doesn&#39;t take too long</p>
+<p begin="00:19:02.680" end="00:19:07.150" style="s2">for somebody to start fantasizing about</p>
+<p begin="00:19:04.540" end="00:19:10.810" style="s2">what if I&#39;m the guy at the top of this</p>
+<p begin="00:19:07.150" end="00:19:13.330" style="s2">whole thing it turns out that the</p>
+<p begin="00:19:10.810" end="00:19:17.290" style="s2">probably most powerful person on the</p>
+<p begin="00:19:13.330" end="00:19:19.360" style="s2">planet who also happens to rule the</p>
+<p begin="00:19:17.290" end="00:19:22.990" style="s2">country where the coronavirus started is</p>
+<p begin="00:19:19.360" end="00:19:25.410" style="s2">called si and ping and he asked that</p>
+<p begin="00:19:22.990" end="00:19:25.410" style="s2">fantasy</p>
+<p begin="00:19:25.510" end="00:19:30.370" style="s2">without fantasies that has been tried</p>
+<p begin="00:19:27.340" end="00:19:33.730" style="s2">before she hasn&#39;t been a very good</p>
+<p begin="00:19:30.370" end="00:19:36.160" style="s2">fantasy it is a fantasy that starts</p>
+<p begin="00:19:33.730" end="00:19:38.710" style="s2">either as a Peter Pan syndrome or is a</p>
+<p begin="00:19:36.160" end="00:19:41.230" style="s2">Caligula syndrome that means that he&#39;s</p>
+<p begin="00:19:38.710" end="00:19:43.840" style="s2">even an 11 year old who was appointed to</p>
+<p begin="00:19:41.230" end="00:19:45.370" style="s2">be the Emperor way too early in his life</p>
+<p begin="00:19:43.840" end="00:19:47.980" style="s2">and before he was mature enough to take</p>
+<p begin="00:19:45.370" end="00:19:49.600" style="s2">on that role only was somebody was</p>
+<p begin="00:19:47.980" end="00:19:52.240" style="s2">probably pretty sane but grew up in an</p>
+<p begin="00:19:49.600" end="00:19:53.890" style="s2">environment that was so damn crazy that</p>
+<p begin="00:19:52.240" end="00:19:55.960" style="s2">he came across a totally paranoid</p>
+<p begin="00:19:53.890" end="00:19:57.550" style="s2">character once it was given power</p>
+<p begin="00:19:55.960" end="00:19:59.590" style="s2">because it couldn&#39;t trust anybody</p>
+<p begin="00:19:57.550" end="00:20:00.550" style="s2">imagine you can have all the power in</p>
+<p begin="00:19:59.590" end="00:20:01.750" style="s2">the world you&#39;re the king of the world</p>
+<p begin="00:20:00.550" end="00:20:04.030" style="s2">but you can&#39;t trust anybody</p>
+<p begin="00:20:01.750" end="00:20:05.260" style="s2">it&#39;s called Caligula syndrome it&#39;s the</p>
+<p begin="00:20:04.030" end="00:20:07.780" style="s2">opposite of Peter Pan syndrome but in</p>
+<p begin="00:20:05.260" end="00:20:09.700" style="s2">any case it&#39;s disastrous because you all</p>
+<p begin="00:20:07.780" end="00:20:12.550" style="s2">know that only a guy who grows up in a</p>
+<p begin="00:20:09.700" end="00:20:15.040" style="s2">healthy nice environment and and becomes</p>
+<p begin="00:20:12.550" end="00:20:16.930" style="s2">you know and learns that he has a girl</p>
+<p begin="00:20:15.040" end="00:20:19.870" style="s2">he can become a woman and it can become</p>
+<p begin="00:20:16.930" end="00:20:22.780" style="s2">a shark or she can become a boy a man</p>
+<p begin="00:20:19.870" end="00:20:24.760" style="s2">c&#39;mon patriarchy eventually unless we go</p>
+<p begin="00:20:22.780" end="00:20:27.060" style="s2">through these archetypal x&#39; sort of</p>
+<p begin="00:20:24.760" end="00:20:29.500" style="s2">steps in our lives that we can take on</p>
+<p begin="00:20:27.060" end="00:20:31.450" style="s2">parenting we can take on teaching we can</p>
+<p begin="00:20:29.500" end="00:20:33.310" style="s2">take on adventure maybe even be elderly</p>
+<p begin="00:20:31.450" end="00:20:35.440" style="s2">of a community because we&#39;re wiser and</p>
+<p begin="00:20:33.310" end="00:20:38.230" style="s2">older we&#39;ve been around long time unless</p>
+<p begin="00:20:35.440" end="00:20:40.210" style="s2">all these processes work and we appoint</p>
+<p begin="00:20:38.230" end="00:20:41.950" style="s2">eleven year olds to around the world or</p>
+<p begin="00:20:40.210" end="00:20:45.760" style="s2">people who are mentally are 11 year olds</p>
+<p begin="00:20:41.950" end="00:20:48.280" style="s2">we get a problem the problem starts with</p>
+<p begin="00:20:45.760" end="00:20:51.010" style="s2">acknowledge that in Egypt about 1300</p>
+<p begin="00:20:48.280" end="00:20:53.680" style="s2">before Christ when Egypt goes into a</p>
+<p begin="00:20:51.010" end="00:20:56.200" style="s2">really brutal ruthless dictatorship and</p>
+<p begin="00:20:53.680" end="00:20:57.760" style="s2">it was only after canard and died and</p>
+<p begin="00:20:56.200" end="00:20:59.440" style="s2">his son took a comma took over that the</p>
+<p begin="00:20:57.760" end="00:21:02.730" style="s2">priests of Egypt decided to kill the son</p>
+<p begin="00:20:59.440" end="00:21:06.400" style="s2">to get the whole shit out of the way</p>
+<p begin="00:21:02.730" end="00:21:08.740" style="s2">that leads us all the way up to the</p>
+<p begin="00:21:06.400" end="00:21:10.090" style="s2">beautiful Silk Route the connected East</p>
+<p begin="00:21:08.740" end="00:21:13.000" style="s2">the West still the most magnificent</p>
+<p begin="00:21:10.090" end="00:21:15.160" style="s2">construction in human history but what</p>
+<p begin="00:21:13.000" end="00:21:17.550" style="s2">happened in the 20th century is that the</p>
+<p begin="00:21:15.160" end="00:21:20.070" style="s2">payback from Europe in terms of ideas</p>
+<p begin="00:21:17.550" end="00:21:22.900" style="s2">was that we reverse the Silk Route and</p>
+<p begin="00:21:20.070" end="00:21:24.250" style="s2">repeated ignite all over again as if we</p>
+<p begin="00:21:22.900" end="00:21:26.200" style="s2">haven&#39;t learned from all these horrible</p>
+<p begin="00:21:24.250" end="00:21:28.420" style="s2">dictators throughout history would have</p>
+<p begin="00:21:26.200" end="00:21:30.340" style="s2">Hitler be one of them Mussolini be one</p>
+<p begin="00:21:28.420" end="00:21:33.160" style="s2">of them would it stop in one of them and</p>
+<p begin="00:21:30.340" end="00:21:36.070" style="s2">eventually the Asians caught on and they</p>
+<p begin="00:21:33.160" end="00:21:38.020" style="s2">got Mao Zedong and eventually</p>
+<p begin="00:21:36.070" end="00:21:40.930" style="s2">we get to the end of the 1960&#39;s and a</p>
+<p begin="00:21:38.020" end="00:21:44.800" style="s2">young Cambodian student at Sorbonne in</p>
+<p begin="00:21:40.930" end="00:21:46.570" style="s2">Paris writes a PhD or so it goes home to</p>
+<p begin="00:21:44.800" end="00:21:48.550" style="s2">his country Cambodia and kills two</p>
+<p begin="00:21:46.570" end="00:21:50.100" style="s2">million people starting with the people</p>
+<p begin="00:21:48.550" end="00:21:52.420" style="s2">who wore glasses</p>
+<p begin="00:21:50.100" end="00:21:57.880" style="s2">that&#39;s the madness of Peter Pan syndrome</p>
+<p begin="00:21:52.420" end="00:22:00.520" style="s2">and the problem today with a society and</p>
+<p begin="00:21:57.880" end="00:22:04.270" style="s2">especially now where the corona pandemic</p>
+<p begin="00:22:00.520" end="00:22:05.440" style="s2">is creating Kron hysteria is he says</p>
+<p begin="00:22:04.270" end="00:22:07.540" style="s2">suddenly people are asking themselves</p>
+<p begin="00:22:05.440" end="00:22:09.940" style="s2">okay we have the climate hysteria before</p>
+<p begin="00:22:07.540" end="00:22:11.680" style="s2">this so we want sensors everywhere so we</p>
+<p begin="00:22:09.940" end="00:22:13.420" style="s2">can keep track of climate so we can know</p>
+<p begin="00:22:11.680" end="00:22:15.130" style="s2">what climate change is going on and</p>
+<p begin="00:22:13.420" end="00:22:16.960" style="s2">where damage is being done so we can</p>
+<p begin="00:22:15.130" end="00:22:19.300" style="s2">have proper arguments target that we</p>
+<p begin="00:22:16.960" end="00:22:20.950" style="s2">don&#39;t want anymore oil or gas or coal</p>
+<p begin="00:22:19.300" end="00:22:22.630" style="s2">because we need to save the planets of</p>
+<p begin="00:22:20.950" end="00:22:24.160" style="s2">humanity because they here and we need</p>
+<p begin="00:22:22.630" end="00:22:25.990" style="s2">machines to help us with that we&#39;re</p>
+<p begin="00:22:24.160" end="00:22:27.880" style="s2">technologists help us with that all of</p>
+<p begin="00:22:25.990" end="00:22:30.310" style="s2">that was out there but the problem is</p>
+<p begin="00:22:27.880" end="00:22:33.040" style="s2">now with the pandemic going into</p>
+<p begin="00:22:30.310" end="00:22:35.380" style="s2">hysterical face and with eight billion</p>
+<p begin="00:22:33.040" end="00:22:37.930" style="s2">people sitting with megaphones in their</p>
+<p begin="00:22:35.380" end="00:22:40.180" style="s2">hands and not feeling that they have any</p>
+<p begin="00:22:37.930" end="00:22:43.240" style="s2">parents around to protect them so they</p>
+<p begin="00:22:40.180" end="00:22:44.950" style="s2">become children of a lesser God or they</p>
+<p begin="00:22:43.240" end="00:22:48.010" style="s2">shout at the top of their lungs and say</p>
+<p begin="00:22:44.950" end="00:22:49.390" style="s2">save me from this Malay the first thing</p>
+<p begin="00:22:48.010" end="00:22:51.790" style="s2">you&#39;re gonna see is that a lot of people</p>
+<p begin="00:22:49.390" end="00:22:54.520" style="s2">are gonna say oh wait a second if you</p>
+<p begin="00:22:51.790" end="00:22:56.410" style="s2">can just track your smartphone and if</p>
+<p begin="00:22:54.520" end="00:22:57.730" style="s2">you know exactly where your body is we</p>
+<p begin="00:22:56.410" end="00:22:59.320" style="s2">can lock up all the people who are evil</p>
+<p begin="00:22:57.730" end="00:23:00.820" style="s2">people and then we can make them into</p>
+<p begin="00:22:59.320" end="00:23:03.100" style="s2">scapegoats and everybody else can be</p>
+<p begin="00:23:00.820" end="00:23:05.800" style="s2">free and we can save them from the virus</p>
+<p begin="00:23:03.100" end="00:23:08.560" style="s2">we hear these voices everywhere we just</p>
+<p begin="00:23:05.800" end="00:23:10.090" style="s2">don&#39;t hear them in China no the Chinese</p>
+<p begin="00:23:08.560" end="00:23:11.920" style="s2">are used to because they&#39;ve heard it</p>
+<p begin="00:23:10.090" end="00:23:13.840" style="s2">from a dictatorship from the Communist</p>
+<p begin="00:23:11.920" end="00:23:15.760" style="s2">Party for the past 4050 years now we</p>
+<p begin="00:23:13.840" end="00:23:17.470" style="s2">hear this now in East Asia we heard this</p>
+<p begin="00:23:15.760" end="00:23:19.300" style="s2">time across Europe where it is now in</p>
+<p begin="00:23:17.470" end="00:23:21.280" style="s2">the United States we&#39;re increasing here</p>
+<p begin="00:23:19.300" end="00:23:23.560" style="s2">in countries like Brazil the Mexico</p>
+<p begin="00:23:21.280" end="00:23:25.990" style="s2">where democracy is poor Iran so we&#39;re</p>
+<p begin="00:23:23.560" end="00:23:28.030" style="s2">hearing now is this voice that oh we</p>
+<p begin="00:23:25.990" end="00:23:32.320" style="s2">could use technology to control the</p>
+<p begin="00:23:28.030" end="00:23:34.480" style="s2">things we don&#39;t like that opens up the</p>
+<p begin="00:23:32.320" end="00:23:36.220" style="s2">door for seeing paying not being a</p>
+<p begin="00:23:34.480" end="00:23:38.050" style="s2">Chinese phenomena anymore but being</p>
+<p begin="00:23:36.220" end="00:23:39.940" style="s2">actually a local phenomena that could</p>
+<p begin="00:23:38.050" end="00:23:41.980" style="s2">easily become a universal phenomena in</p>
+<p begin="00:23:39.940" end="00:23:45.790" style="s2">that case and what I would like to</p>
+<p begin="00:23:41.980" end="00:23:49.480" style="s2">discuss is how we can contain the virus</p>
+<p begin="00:23:45.790" end="00:23:52.270" style="s2">enough to then contain the hysteria to</p>
+<p begin="00:23:49.480" end="00:23:54.280" style="s2">have a proper discussion on how we can</p>
+<p begin="00:23:52.270" end="00:23:55.570" style="s2">move towards as in soccer see because I</p>
+<p begin="00:23:54.280" end="00:23:56.770" style="s2">believe in it and I believe it&#39;s</p>
+<p begin="00:23:55.570" end="00:23:58.750" style="s2">unavoidable and I believe it has</p>
+<p begin="00:23:56.770" end="00:24:00.700" style="s2">enormous benefits but if you can live in</p>
+<p begin="00:23:58.750" end="00:24:02.290" style="s2">a world where the satellites look down</p>
+<p begin="00:24:00.700" end="00:24:04.030" style="s2">on us and we have data but just about</p>
+<p begin="00:24:02.290" end="00:24:06.450" style="s2">everything we do in the world can that</p>
+<p begin="00:24:04.030" end="00:24:08.970" style="s2">still be a world where power is so</p>
+<p begin="00:24:06.450" end="00:24:12.820" style="s2">decentralized and we can guarantee</p>
+<p begin="00:24:08.970" end="00:24:16.000" style="s2">plurality you can guarantee tolerance we</p>
+<p begin="00:24:12.820" end="00:24:17.770" style="s2">can guarantee openness because I believe</p>
+<p begin="00:24:16.000" end="00:24:19.480" style="s2">all those values and what we learn from</p>
+<p begin="00:24:17.770" end="00:24:22.330" style="s2">the past four or five thousand years of</p>
+<p begin="00:24:19.480" end="00:24:24.910" style="s2">history is that any culture that can</p>
+<p begin="00:24:22.330" end="00:24:27.429" style="s2">maintain those things will not be eleven</p>
+<p begin="00:24:24.910" end="00:24:30.549" style="s2">years of hell and havoc there rather be</p>
+<p begin="00:24:27.429" end="00:24:32.980" style="s2">thousands of years of prosperity can we</p>
+<p begin="00:24:30.549" end="00:24:35.770" style="s2">create a truly pluralistic sense ah</p>
+<p begin="00:24:32.980" end="00:24:38.710" style="s2">cracy I think that&#39;s the ants and we owe</p>
+<p begin="00:24:35.770" end="00:24:41.110" style="s2">to tell the world and we can direct it a</p>
+<p begin="00:24:38.710" end="00:24:42.850" style="s2">rattling see in ping hopefully making</p>
+<p begin="00:24:41.110" end="00:24:47.220" style="s2">more sign but wouldn&#39;t need an</p>
+<p begin="00:24:42.850" end="00:24:51.280" style="s2">alternative to the current Confucian</p>
+<p begin="00:24:47.220" end="00:25:01.000" style="s2">European fantasy a dictator is on his</p>
+<p begin="00:24:51.280" end="00:25:03.250" style="s2">way back thank you Thank You Alexander</p>
+<p begin="00:25:01.000" end="00:25:07.120" style="s2">and we already have like amazing</p>
+<p begin="00:25:03.250" end="00:25:09.309" style="s2">questions in the chat we&#39;re gonna start</p>
+<p begin="00:25:07.120" end="00:25:14.049" style="s2">I&#39;m gonna ask Peter if you would like to</p>
+<p begin="00:25:09.309" end="00:25:18.760" style="s2">share your question yeah that was</p>
+<p begin="00:25:14.049" end="00:25:21.730" style="s2">amazing thank you my friend I have a</p>
+<p begin="00:25:18.760" end="00:25:24.160" style="s2">question that feels related but it&#39;s not</p>
+<p begin="00:25:21.730" end="00:25:27.700" style="s2">might not seem directly related and it&#39;s</p>
+<p begin="00:25:24.160" end="00:25:29.919" style="s2">a genre Viki he came to stow a couple</p>
+<p begin="00:25:27.700" end="00:25:31.419" style="s2">weeks ago and he said that this is</p>
+<p begin="00:25:29.919" end="00:25:34.360" style="s2">bubbling up in him he said he wanted to</p>
+<p begin="00:25:31.419" end="00:25:35.919" style="s2">steal the culture and it sort of been</p>
+<p begin="00:25:34.360" end="00:25:37.660" style="s2">like a rallying cry at the stove I like</p>
+<p begin="00:25:35.919" end="00:25:38.679" style="s2">let&#39;s steal the culture and a cure of</p>
+<p begin="00:25:37.660" end="00:25:40.570" style="s2">the dawn is given they&#39;re going to make</p>
+<p begin="00:25:38.679" end="00:25:44.500" style="s2">like a little nice tune on that a clip</p>
+<p begin="00:25:40.570" end="00:25:46.570" style="s2">of John and so I&#39;m curious of your</p>
+<p begin="00:25:44.500" end="00:25:51.850" style="s2">thought if the culture needs to be</p>
+<p begin="00:25:46.570" end="00:25:56.919" style="s2">stolen how to do it and yeah I&#39;ll leave</p>
+<p begin="00:25:51.850" end="00:25:58.299" style="s2">at that I know I don&#39;t think the culture</p>
+<p begin="00:25:56.919" end="00:26:00.400" style="s2">native you stole I think the culture is</p>
+<p begin="00:25:58.299" end="00:26:02.470" style="s2">emerging if anything is emerging we&#39;re</p>
+<p begin="00:26:00.400" end="00:26:03.710" style="s2">partners John Ferraris favorite terms</p>
+<p begin="00:26:02.470" end="00:26:05.899" style="s2">actually make sense</p>
+<p begin="00:26:03.710" end="00:26:07.730" style="s2">it isn&#39;t this I give you an example of</p>
+<p begin="00:26:05.899" end="00:26:09.740" style="s2">what I did when I got the coffee 90 and</p>
+<p begin="00:26:07.730" end="00:26:11.720" style="s2">it got really sick okay</p>
+<p begin="00:26:09.740" end="00:26:13.730" style="s2">before that I knew the Asteria would be</p>
+<p begin="00:26:11.720" end="00:26:16.220" style="s2">incredibly problematic I&#39;m an economist</p>
+<p begin="00:26:13.730" end="00:26:17.809" style="s2">by training and this is going definitely</p>
+<p begin="00:26:16.220" end="00:26:20.419" style="s2">to be the worst economic crisis the</p>
+<p begin="00:26:17.809" end="00:26:22.009" style="s2">world has seen since 1929 and we all</p>
+<p begin="00:26:20.419" end="00:26:24.320" style="s2">know historically that if we arrive at</p>
+<p begin="00:26:22.009" end="00:26:27.110" style="s2">an unemployment rate over 25 percent we</p>
+<p begin="00:26:24.320" end="00:26:29.029" style="s2">get rebellion it&#39;s already happening now</p>
+<p begin="00:26:27.110" end="00:26:30.769" style="s2">in Europe we got bad scenes happening in</p>
+<p begin="00:26:29.029" end="00:26:33.440" style="s2">the suburbs of Paris the lockdown is not</p>
+<p begin="00:26:30.769" end="00:26:35.029" style="s2">working at all so a softer approach</p>
+<p begin="00:26:33.440" end="00:26:37.850" style="s2">would probably be better to begin with</p>
+<p begin="00:26:35.029" end="00:26:39.769" style="s2">but I also knew when I got the coffee 19</p>
+<p begin="00:26:37.850" end="00:26:41.210" style="s2">I came home and I really asked him a</p>
+<p begin="00:26:39.769" end="00:26:42.470" style="s2">couple of friends had been sick like a</p>
+<p begin="00:26:41.210" end="00:26:44.629" style="s2">week or two before me</p>
+<p begin="00:26:42.470" end="00:26:46.190" style="s2">and I just connected with them and they</p>
+<p begin="00:26:44.629" end="00:26:48.529" style="s2">said you know what there are thousands</p>
+<p begin="00:26:46.190" end="00:26:50.330" style="s2">of men of our age out there who are</p>
+<p begin="00:26:48.529" end="00:26:52.549" style="s2">experiencing exactly the same symptoms</p>
+<p begin="00:26:50.330" end="00:26:54.500" style="s2">we just realized we&#39;re not going to die</p>
+<p begin="00:26:52.549" end="00:26:56.179" style="s2">when we&#39;re gonna have a really bad boot</p>
+<p begin="00:26:54.500" end="00:26:57.730" style="s2">of the disease and want to make sure our</p>
+<p begin="00:26:56.179" end="00:27:01.250" style="s2">fathers are not getting close to it</p>
+<p begin="00:26:57.730" end="00:27:03.259" style="s2">great and suddenly it was like I moved</p>
+<p begin="00:27:01.250" end="00:27:06.080" style="s2">into a world with thousands of men we&#39;re</p>
+<p begin="00:27:03.259" end="00:27:09.830" style="s2">doing parallel studies of a brand new</p>
+<p begin="00:27:06.080" end="00:27:11.750" style="s2">disease for a brand new virus now then I</p>
+<p begin="00:27:09.830" end="00:27:14.149" style="s2">suddenly saw yeah this is the beauty of</p>
+<p begin="00:27:11.750" end="00:27:16.190" style="s2">the Internet this is amazing that is</p>
+<p begin="00:27:14.149" end="00:27:17.870" style="s2">culture to me that is the new culture</p>
+<p begin="00:27:16.190" end="00:27:20.210" style="s2">this is digital culture it&#39;s best</p>
+<p begin="00:27:17.870" end="00:27:22.460" style="s2">it&#39;s in people directly find each other</p>
+<p begin="00:27:20.210" end="00:27:24.169" style="s2">and they can also use algorithms to find</p>
+<p begin="00:27:22.460" end="00:27:25.820" style="s2">people around the world who they can</p>
+<p begin="00:27:24.169" end="00:27:28.309" style="s2">communicate with and they can then</p>
+<p begin="00:27:25.820" end="00:27:31.639" style="s2">instantly create perfectly</p>
+<p begin="00:27:28.309" end="00:27:34.070" style="s2">scientifically viable studies oh they&#39;re</p>
+<p begin="00:27:31.639" end="00:27:35.600" style="s2">all nice and and of course I&#39;ve got tons</p>
+<p begin="00:27:34.070" end="00:27:37.190" style="s2">of tips from there that I can now use</p>
+<p begin="00:27:35.600" end="00:27:38.990" style="s2">and my improvement is gotten a lot</p>
+<p begin="00:27:37.190" end="00:27:41.450" style="s2">better and of course I felt safe and</p>
+<p begin="00:27:38.990" end="00:27:43.490" style="s2">warm and protect that loved because I</p>
+<p begin="00:27:41.450" end="00:27:46.159" style="s2">was thrown into this tribal community</p>
+<p begin="00:27:43.490" end="00:27:47.539" style="s2">the subculture of men between 50 and 60</p>
+<p begin="00:27:46.159" end="00:27:48.950" style="s2">who realize that we&#39;re gonna have a bad</p>
+<p begin="00:27:47.539" end="00:27:51.379" style="s2">boo to this disease this is how we</p>
+<p begin="00:27:48.950" end="00:27:53.360" style="s2">survive it and support each other so the</p>
+<p begin="00:27:51.379" end="00:27:54.649" style="s2">cultures already emerging out there</p>
+<p begin="00:27:53.360" end="00:27:56.809" style="s2">because people are trained to think</p>
+<p begin="00:27:54.649" end="00:27:58.639" style="s2">tribally I&#39;m totally against</p>
+<p begin="00:27:56.809" end="00:28:00.919" style="s2">individualism and openness collectivism</p>
+<p begin="00:27:58.639" end="00:28:03.320" style="s2">work I think human beings are deeply</p>
+<p begin="00:28:00.919" end="00:28:04.970" style="s2">tribal and that&#39;s why I love your work</p>
+<p begin="00:28:03.320" end="00:28:07.100" style="s2">Peter on the medic triage because it&#39;s a</p>
+<p begin="00:28:04.970" end="00:28:09.289" style="s2">great description of human beings are</p>
+<p begin="00:28:07.100" end="00:28:10.580" style="s2">not discovering about themselves when</p>
+<p begin="00:28:09.289" end="00:28:12.649" style="s2">they&#39;re reflecting their own humanity</p>
+<p begin="00:28:10.580" end="00:28:15.259" style="s2">into the digital</p>
+<p begin="00:28:12.649" end="00:28:17.250" style="s2">tribal comes back in a big way and out</p>
+<p begin="00:28:15.259" end="00:28:19.080" style="s2">of this comes culture already and</p>
+<p begin="00:28:17.250" end="00:28:21.330" style="s2">I wouldn&#39;t I wouldn&#39;t even dare to</p>
+<p begin="00:28:19.080" end="00:28:24.780" style="s2">speculate what kind of culture that is</p>
+<p begin="00:28:21.330" end="00:28:25.560" style="s2">but it spontaneously appearing it&#39;s it&#39;s</p>
+<p begin="00:28:24.780" end="00:28:28.740" style="s2">tribal</p>
+<p begin="00:28:25.560" end="00:28:32.550" style="s2">if beyond tribal is into tribal and it&#39;s</p>
+<p begin="00:28:28.740" end="00:28:34.530" style="s2">beautiful so it&#39;s already happening I&#39;ll</p>
+<p begin="00:28:32.550" end="00:28:35.580" style="s2">follow up question and this is out the</p>
+<p begin="00:28:34.530" end="00:28:38.670" style="s2">edge of my thinking&#39;s I&#39;m really curious</p>
+<p begin="00:28:35.580" end="00:28:41.340" style="s2">if we can bounce off each other here my</p>
+<p begin="00:28:38.670" end="00:28:43.980" style="s2">sense is the next move is to try to make</p>
+<p begin="00:28:41.340" end="00:28:46.950" style="s2">mimetic tries to come embody tribes</p>
+<p begin="00:28:43.980" end="00:28:49.590" style="s2">I remember Sam Vaknin he&#39;s a narcissist</p>
+<p begin="00:28:46.950" end="00:28:50.910" style="s2">like the expert narcissism who is a</p>
+<p begin="00:28:49.590" end="00:28:52.710" style="s2">narcissist who got his nurses this is</p>
+<p begin="00:28:50.910" end="00:28:55.590" style="s2">why from his expertise traces like so</p>
+<p begin="00:28:52.710" end="00:28:56.640" style="s2">delicious there and then he said the</p>
+<p begin="00:28:55.590" end="00:28:58.350" style="s2">religion of tomorrow&#39;s gonna be the</p>
+<p begin="00:28:56.640" end="00:29:01.440" style="s2">religion of narcissism and of course</p>
+<p begin="00:28:58.350" end="00:29:03.390" style="s2">he&#39;s gonna say that and then I thought</p>
+<p begin="00:29:01.440" end="00:29:04.710" style="s2">about an icon maybe narcissism was like</p>
+<p begin="00:29:03.390" end="00:29:06.300" style="s2">an ecumenical religion and all these</p>
+<p begin="00:29:04.710" end="00:29:07.830" style="s2">like mimetic tribes people are</p>
+<p begin="00:29:06.300" end="00:29:11.910" style="s2">narcissistically attached to the ideas</p>
+<p begin="00:29:07.830" end="00:29:13.950" style="s2">they just want to spit it out so just</p>
+<p begin="00:29:11.910" end="00:29:15.860" style="s2">pause that for a moment and going back</p>
+<p begin="00:29:13.950" end="00:29:19.170" style="s2">to the kind of stealing the culture line</p>
+<p begin="00:29:15.860" end="00:29:22.380" style="s2">my sense is that culture and service of</p>
+<p begin="00:29:19.170" end="00:29:23.940" style="s2">ego is not what we need like we create</p>
+<p begin="00:29:22.380" end="00:29:26.700" style="s2">these cultural artifacts or bust up the</p>
+<p begin="00:29:23.940" end="00:29:28.410" style="s2">ego but culture should be kind of keep</p>
+<p begin="00:29:26.700" end="00:29:31.890" style="s2">ego in check or make it like a healthy</p>
+<p begin="00:29:28.410" end="00:29:34.770" style="s2">relationship with ego and so yeah I just</p>
+<p begin="00:29:31.890" end="00:29:36.120" style="s2">finish okay actually it&#39;s all old news</p>
+<p begin="00:29:34.770" end="00:29:38.130" style="s2">because it&#39;s called the Cartesian</p>
+<p begin="00:29:36.120" end="00:29:40.770" style="s2">individualism was invented by a French</p>
+<p begin="00:29:38.130" end="00:29:41.340" style="s2">artist called kinetic art in the 17th</p>
+<p begin="00:29:40.770" end="00:29:43.470" style="s2">century</p>
+<p begin="00:29:41.340" end="00:29:45.300" style="s2">it&#39;s then for example become the state</p>
+<p begin="00:29:43.470" end="00:29:46.650" style="s2">religion or North America especially of</p>
+<p begin="00:29:45.300" end="00:29:50.010" style="s2">the United States I should avoid</p>
+<p begin="00:29:46.650" end="00:29:51.000" style="s2">mentioning Canada and I always say that</p>
+<p begin="00:29:50.010" end="00:29:52.860" style="s2">when it come to America there&#39;s so many</p>
+<p begin="00:29:51.000" end="00:29:54.210" style="s2">things to love about America but one</p>
+<p begin="00:29:52.860" end="00:29:55.770" style="s2">thing is really tiresome is that</p>
+<p begin="00:29:54.210" end="00:29:57.930" style="s2">Americans do not understand that they</p>
+<p begin="00:29:55.770" end="00:29:59.700" style="s2">exclusively have religion called Cochise</p>
+<p begin="00:29:57.930" end="00:30:00.960" style="s2">individualism but Europeans have at</p>
+<p begin="00:29:59.700" end="00:30:02.490" style="s2">least started dealing with over the last</p>
+<p begin="00:30:00.960" end="00:30:06.390" style="s2">50 years and the rest of the world never</p>
+<p begin="00:30:02.490" end="00:30:07.770" style="s2">cared about so the thing is if you if</p>
+<p begin="00:30:06.390" end="00:30:09.960" style="s2">you go to the world of physics as a</p>
+<p begin="00:30:07.770" end="00:30:12.330" style="s2">great metaphor is that when something</p>
+<p begin="00:30:09.960" end="00:30:14.490" style="s2">comes at the end of its lifespan it</p>
+<p begin="00:30:12.330" end="00:30:17.400" style="s2">usually explodes and become like a big</p>
+<p begin="00:30:14.490" end="00:30:19.080" style="s2">supernova and in our book digital libido</p>
+<p begin="00:30:17.400" end="00:30:21.720" style="s2">you know so dickfist and i write</p>
+<p begin="00:30:19.080" end="00:30:24.360" style="s2">explicitly that we must understand that</p>
+<p begin="00:30:21.720" end="00:30:26.490" style="s2">hyper narcissism which is happening or</p>
+<p begin="00:30:24.360" end="00:30:28.500" style="s2">has happened may be corona finally</p>
+<p begin="00:30:26.490" end="00:30:30.240" style="s2">killed it has happened especially in the</p>
+<p begin="00:30:28.500" end="00:30:33.270" style="s2">2010s</p>
+<p begin="00:30:30.240" end="00:30:34.710" style="s2">at the end of a development starting in</p>
+<p begin="00:30:33.270" end="00:30:36.600" style="s2">the 70 century called katisa</p>
+<p begin="00:30:34.710" end="00:30:38.820" style="s2">individualism and of course when</p>
+<p begin="00:30:36.600" end="00:30:40.260" style="s2">everybody was told that you live in a</p>
+<p begin="00:30:38.820" end="00:30:42.330" style="s2">world with eight billion people who are</p>
+<p begin="00:30:40.260" end="00:30:45.360" style="s2">at constant competition one another and</p>
+<p begin="00:30:42.330" end="00:30:47.070" style="s2">in constant driver one another and now</p>
+<p begin="00:30:45.360" end="00:30:49.050" style="s2">we give you a tool where you can express</p>
+<p begin="00:30:47.070" end="00:30:51.179" style="s2">herself called the Internet it was</p>
+<p begin="00:30:49.050" end="00:30:53.040" style="s2">pretty obvious if we take about 30 years</p>
+<p begin="00:30:51.179" end="00:30:54.420" style="s2">of children&#39;s diseases and things like</p>
+<p begin="00:30:53.040" end="00:30:56.309" style="s2">that on the Internet where people</p>
+<p begin="00:30:54.420" end="00:30:59.580" style="s2">mistakenly thought the internet was the</p>
+<p begin="00:30:56.309" end="00:31:01.190" style="s2">way to sell themselves but I&#39;ve always</p>
+<p begin="00:30:59.580" end="00:31:03.300" style="s2">told people that already in the early</p>
+<p begin="00:31:01.190" end="00:31:04.770" style="s2">1990s you started throwing away</p>
+<p begin="00:31:03.300" end="00:31:06.540" style="s2">newsletters some people only talked</p>
+<p begin="00:31:04.770" end="00:31:08.580" style="s2">about themselves all the time and if</p>
+<p begin="00:31:06.540" end="00:31:10.950" style="s2">usually men and there were over 40 years</p>
+<p begin="00:31:08.580" end="00:31:13.350" style="s2">old rain will probably agree with me</p>
+<p begin="00:31:10.950" end="00:31:15.510" style="s2">uuuugh tired of the men over 40 years</p>
+<p begin="00:31:13.350" end="00:31:16.650" style="s2">old and it&#39;s understandable that</p>
+<p begin="00:31:15.510" end="00:31:18.660" style="s2">everybody else go tournaments because</p>
+<p begin="00:31:16.650" end="00:31:20.730" style="s2">they thought well no foley I do need to</p>
+<p begin="00:31:18.660" end="00:31:22.620" style="s2">secretary wrote Madiba and I&#39;m gonna</p>
+<p begin="00:31:20.730" end="00:31:24.690" style="s2">tell everybody what a good boy I am and</p>
+<p begin="00:31:22.620" end="00:31:26.190" style="s2">I&#39;m gonna impress my mum right that&#39;s</p>
+<p begin="00:31:24.690" end="00:31:28.530" style="s2">what they always wanted you impress mom</p>
+<p begin="00:31:26.190" end="00:31:30.600" style="s2">by being this good boy who does amazing</p>
+<p begin="00:31:28.530" end="00:31:32.700" style="s2">things and always at the end of the</p>
+<p begin="00:31:30.600" end="00:31:34.590" style="s2">email you would have this is my new</p>
+<p begin="00:31:32.700" end="00:31:39.150" style="s2">record this is my new book you must buy</p>
+<p begin="00:31:34.590" end="00:31:40.920" style="s2">me well the end of that when even</p>
+<p begin="00:31:39.150" end="00:31:42.720" style="s2">teenage girls guitarra was called the</p>
+<p begin="00:31:40.920" end="00:31:44.220" style="s2">influencer and we ended up with the</p>
+<p begin="00:31:42.720" end="00:31:46.380" style="s2">influence and writing their own fan</p>
+<p begin="00:31:44.220" end="00:31:49.500" style="s2">clubs called echo chambers this was the</p>
+<p begin="00:31:46.380" end="00:31:51.210" style="s2">2010 and if anything that&#39;s now dead and</p>
+<p begin="00:31:49.500" end="00:31:53.309" style="s2">over and this is why I emphasized this</p>
+<p begin="00:31:51.210" end="00:31:55.830" style="s2">enormous difference between the youtuber</p>
+<p begin="00:31:53.309" end="00:31:57.660" style="s2">and an influencer because youtuber is</p>
+<p begin="00:31:55.830" end="00:32:00.360" style="s2">somebody takes on the role of being an</p>
+<p begin="00:31:57.660" end="00:32:02.250" style="s2">older brother an older sister to your</p>
+<p begin="00:32:00.360" end="00:32:03.690" style="s2">kid brothers and consistory and your</p>
+<p begin="00:32:02.250" end="00:32:05.250" style="s2">basic guide them through the world and</p>
+<p begin="00:32:03.690" end="00:32:06.809" style="s2">you problematize the world and you</p>
+<p begin="00:32:05.250" end="00:32:08.160" style="s2">discuss the world for hours and they</p>
+<p begin="00:32:06.809" end="00:32:09.720" style="s2">follow you because you give them</p>
+<p begin="00:32:08.160" end="00:32:11.490" style="s2">pictures and you give them sounds and</p>
+<p begin="00:32:09.720" end="00:32:13.410" style="s2">you tell them of something and I give</p>
+<p begin="00:32:11.490" end="00:32:16.890" style="s2">you perfect sample this I live with</p>
+<p begin="00:32:13.410" end="00:32:18.480" style="s2">Peter Towson who&#39;s like a savant and he</p>
+<p begin="00:32:16.890" end="00:32:20.309" style="s2">keeps sick of what&#39;s happening in China</p>
+<p begin="00:32:18.480" end="00:32:22.590" style="s2">for our team every morning and he</p>
+<p begin="00:32:20.309" end="00:32:24.540" style="s2">doesn&#39;t look at the news no he just</p>
+<p begin="00:32:22.590" end="00:32:26.220" style="s2">looks at these youtubers from China and</p>
+<p begin="00:32:24.540" end="00:32:27.540" style="s2">the usually Western guys her Merida</p>
+<p begin="00:32:26.220" end="00:32:29.580" style="s2">Chinese girls in the live in Shanghai</p>
+<p begin="00:32:27.540" end="00:32:32.370" style="s2">and they tell him everything about life</p>
+<p begin="00:32:29.580" end="00:32:34.650" style="s2">in China he&#39;s actually like the way a</p>
+<p begin="00:32:32.370" end="00:32:36.420" style="s2">really really good document or best</p>
+<p begin="00:32:34.650" end="00:32:39.330" style="s2">could do it maybe 30 years ago but that</p>
+<p begin="00:32:36.420" end="00:32:39.720" style="s2">no new support could ever recover well</p>
+<p begin="00:32:39.330" end="00:32:41.400" style="s2">of course</p>
+<p begin="00:32:39.720" end="00:32:42.419" style="s2">Peter knows more about China than any of</p>
+<p begin="00:32:41.400" end="00:32:44.190" style="s2">us guys who was sitting there watching</p>
+<p begin="00:32:42.419" end="00:32:46.500" style="s2">BBC or CNN</p>
+<p begin="00:32:44.190" end="00:32:49.260" style="s2">we know nothing compared damn that is</p>
+<p begin="00:32:46.500" end="00:32:51.269" style="s2">how you know learn so you just find the</p>
+<p begin="00:32:49.260" end="00:32:53.220" style="s2">people out there who credible who love</p>
+<p begin="00:32:51.269" end="00:32:55.679" style="s2">you like an older brother an older</p>
+<p begin="00:32:53.220" end="00:32:58.409" style="s2">sister would and you guide you with her</p>
+<p begin="00:32:55.679" end="00:33:00.779" style="s2">expertise through the landscapes you</p>
+<p begin="00:32:58.409" end="00:33:03.510" style="s2">know where to go and this is deeply</p>
+<p begin="00:33:00.779" end="00:33:06.120" style="s2">human this is important to be tribal in</p>
+<p begin="00:33:03.510" end="00:33:08.519" style="s2">the tribe you always look for a mentor</p>
+<p begin="00:33:06.120" end="00:33:10.350" style="s2">and we become their mentee and we become</p>
+<p begin="00:33:08.519" end="00:33:12.450" style="s2">younger versions of them and they have</p>
+<p begin="00:33:10.350" end="00:33:14.340" style="s2">the same archetype that we have the same</p>
+<p begin="00:33:12.450" end="00:33:16.559" style="s2">personality traits the same talents and</p>
+<p begin="00:33:14.340" end="00:33:20.220" style="s2">they just shows how to do things so we</p>
+<p begin="00:33:16.559" end="00:33:22.200" style="s2">can mimic creatively and learn this what</p>
+<p begin="00:33:20.220" end="00:33:24.809" style="s2">people are doing now so if this is the</p>
+<p begin="00:33:22.200" end="00:33:26.760" style="s2">2020s and if the corona was something we</p>
+<p begin="00:33:24.809" end="00:33:29.010" style="s2">need in between I would declare I&#39;ve</p>
+<p begin="00:33:26.760" end="00:33:31.320" style="s2">seen the death of hyper narcissism it no</p>
+<p begin="00:33:29.010" end="00:33:33.840" style="s2">longer pays off we throw it in the spam</p>
+<p begin="00:33:31.320" end="00:33:36.389" style="s2">box we hate it but we love anybody</p>
+<p begin="00:33:33.840" end="00:33:37.710" style="s2">veidt&#39;s us to join the tribes anybody</p>
+<p begin="00:33:36.389" end="00:33:39.360" style="s2">comes to burn loving heart as I said</p>
+<p begin="00:33:37.710" end="00:33:41.100" style="s2">listen I&#39;m a member of a community I</p>
+<p begin="00:33:39.360" end="00:33:45.870" style="s2">would love to invite you to remember our</p>
+<p begin="00:33:41.100" end="00:33:47.519" style="s2">community that&#39;s the future so yeah I</p>
+<p begin="00:33:45.870" end="00:33:49.559" style="s2">will I think we have a sense that we</p>
+<p begin="00:33:47.519" end="00:33:50.669" style="s2">should like talk offline or maybe come</p>
+<p begin="00:33:49.559" end="00:33:52.169" style="s2">into the podcast or something&#39;s I&#39;d love</p>
+<p begin="00:33:50.669" end="00:33:53.940" style="s2">to chat with you more but what came</p>
+<p begin="00:33:52.169" end="00:33:55.679" style="s2">alive there was that you know my</p>
+<p begin="00:33:53.940" end="00:33:57.120" style="s2">assessment of culture war it&#39;s like we</p>
+<p begin="00:33:55.679" end="00:33:58.260" style="s2">can&#39;t win the culture war by playing</p>
+<p begin="00:33:57.120" end="00:34:01.110" style="s2">with the same weapons that are being</p>
+<p begin="00:33:58.260" end="00:34:01.559" style="s2">used right now and then what&#39;s something</p>
+<p begin="00:34:01.110" end="00:34:03.149" style="s2">alive</p>
+<p begin="00:34:01.559" end="00:34:05.460" style="s2">well maybe the culture was already over</p>
+<p begin="00:34:03.149" end="00:34:06.990" style="s2">I mean for God&#39;s sake America is going</p>
+<p begin="00:34:05.460" end="00:34:08.669" style="s2">to pick a precedent to November how</p>
+<p begin="00:34:06.990" end="00:34:10.440" style="s2">obvious can it be that the president</p>
+<p begin="00:34:08.669" end="00:34:12.720" style="s2">doesn&#39;t matter when you&#39;re chosen to</p>
+<p begin="00:34:10.440" end="00:34:14.909" style="s2">take two old Corona corpses and choose</p>
+<p begin="00:34:12.720" end="00:34:16.320" style="s2">between them just like I can&#39;t think of</p>
+<p begin="00:34:14.909" end="00:34:17.940" style="s2">anything more boring than look it&#39;s so</p>
+<p begin="00:34:16.320" end="00:34:19.649" style="s2">bad we&#39;re all thinking aren&#39;t we that</p>
+<p begin="00:34:17.940" end="00:34:23.190" style="s2">maybe they were both dead by November</p>
+<p begin="00:34:19.649" end="00:34:26.280" style="s2">you know it&#39;s yeah but maybe something</p>
+<p begin="00:34:23.190" end="00:34:28.379" style="s2">new that isn&#39;t the White House needs to</p>
+<p begin="00:34:26.280" end="00:34:31.020" style="s2">take over and hopefully it isn&#39;t Jeff</p>
+<p begin="00:34:28.379" end="00:34:33.929" style="s2">Bezos Amazon dictatorship that&#39;s what we</p>
+<p begin="00:34:31.020" end="00:34:36.830" style="s2">should look next thank you I&#39;d love to</p>
+<p begin="00:34:33.929" end="00:34:42.210" style="s2">do it Peter let&#39;s do that together yeah</p>
+<p begin="00:34:36.830" end="00:34:45.000" style="s2">explore that to get tribalism yes yeah</p>
+<p begin="00:34:42.210" end="00:34:47.580" style="s2">I&#39;d like to hear that okay so we have a</p>
+<p begin="00:34:45.000" end="00:34:50.099" style="s2">question from Samir where do you see the</p>
+<p begin="00:34:47.580" end="00:34:51.960" style="s2">phallic gaze pointing towards ie what is</p>
+<p begin="00:34:50.099" end="00:34:54.149" style="s2">the role of men in the transition ahead</p>
+<p begin="00:34:51.960" end="00:34:55.640" style="s2">and I would add to that as well what is</p>
+<p begin="00:34:54.149" end="00:34:58.490" style="s2">the role of women</p>
+<p begin="00:34:55.640" end="00:35:00.590" style="s2">okay so the cases are very important</p>
+<p begin="00:34:58.490" end="00:35:02.690" style="s2">here the magical case is foundational</p>
+<p begin="00:35:00.590" end="00:35:04.880" style="s2">the magical case of what meets you and</p>
+<p begin="00:35:02.690" end="00:35:08.420" style="s2">you&#39;re born and hopefully what you see</p>
+<p begin="00:35:04.880" end="00:35:09.410" style="s2">when you die so the magical gaze is it&#39;s</p>
+<p begin="00:35:08.420" end="00:35:11.900" style="s2">not your mother</p>
+<p begin="00:35:09.410" end="00:35:14.510" style="s2">it&#39;s your midwife it&#39;s usually the</p>
+<p begin="00:35:11.900" end="00:35:17.930" style="s2">grandmother it&#39;s an older woman who has</p>
+<p begin="00:35:14.510" end="00:35:19.730" style="s2">been leading the mother into her</p>
+<p begin="00:35:17.930" end="00:35:21.320" style="s2">motherhood so she gives birth to you so</p>
+<p begin="00:35:19.730" end="00:35:22.970" style="s2">when you actually when you come out and</p>
+<p begin="00:35:21.320" end="00:35:24.470" style="s2">first thing is like oh I want to die</p>
+<p begin="00:35:22.970" end="00:35:26.120" style="s2">where I want to get back in I don&#39;t want</p>
+<p begin="00:35:24.470" end="00:35:27.830" style="s2">to let and then somebody meets you with</p>
+<p begin="00:35:26.120" end="00:35:30.620" style="s2">a big smile on their face it&#39;s called</p>
+<p begin="00:35:27.830" end="00:35:34.730" style="s2">the magical gaze the magical gaze is the</p>
+<p begin="00:35:30.620" end="00:35:36.110" style="s2">gaze of unconditional love if you ever</p>
+<p begin="00:35:34.730" end="00:35:37.430" style="s2">experience that somebody just looked at</p>
+<p begin="00:35:36.110" end="00:35:40.130" style="s2">given the smart and I just loved you</p>
+<p begin="00:35:37.430" end="00:35:42.590" style="s2">beyond everything that&#39;s the magical</p>
+<p begin="00:35:40.130" end="00:35:44.510" style="s2">gaze so it&#39;s not gender-specific a man</p>
+<p begin="00:35:42.590" end="00:35:46.490" style="s2">can obviously give you a magical gaze we</p>
+<p begin="00:35:44.510" end="00:35:48.380" style="s2">call it the magical gaze because in the</p>
+<p begin="00:35:46.490" end="00:35:50.540" style="s2">order of things because we come out of</p>
+<p begin="00:35:48.380" end="00:35:53.150" style="s2">the female body and we also return to</p>
+<p begin="00:35:50.540" end="00:35:55.610" style="s2">the female body when we die the female</p>
+<p begin="00:35:53.150" end="00:35:57.620" style="s2">body is origin the female body is where</p>
+<p begin="00:35:55.610" end="00:35:59.180" style="s2">we come from and where we go to and in</p>
+<p begin="00:35:57.620" end="00:36:01.160" style="s2">this sense the male body and what we</p>
+<p begin="00:35:59.180" end="00:36:03.290" style="s2">call the phallus it&#39;s only like little</p>
+<p begin="00:36:01.160" end="00:36:05.390" style="s2">boys protest against how things actually</p>
+<p begin="00:36:03.290" end="00:36:07.790" style="s2">operate and that&#39;s all humanity could</p>
+<p begin="00:36:05.390" end="00:36:10.310" style="s2">ever hope for so what we do then with</p>
+<p begin="00:36:07.790" end="00:36:13.370" style="s2">the father case it is simply the other</p>
+<p begin="00:36:10.310" end="00:36:15.200" style="s2">gates that we need we grow up so far</p>
+<p begin="00:36:13.370" end="00:36:17.900" style="s2">this is just a name for leaving the</p>
+<p begin="00:36:15.200" end="00:36:19.460" style="s2">matrix and then leaving the mamela so we</p>
+<p begin="00:36:17.900" end="00:36:21.410" style="s2">leave first the body and then we&#39;re</p>
+<p begin="00:36:19.460" end="00:36:23.060" style="s2">unified with the female body again at</p>
+<p begin="00:36:21.410" end="00:36:24.410" style="s2">the Manoa and they would leave the</p>
+<p begin="00:36:23.060" end="00:36:25.610" style="s2">breast and we have to move on and they</p>
+<p begin="00:36:24.410" end="00:36:27.620" style="s2">would look at another world and it&#39;s</p>
+<p begin="00:36:25.610" end="00:36:29.770" style="s2">like Freud said it&#39;s wherever your</p>
+<p begin="00:36:27.620" end="00:36:32.210" style="s2">mother is looking but isn&#39;t you</p>
+<p begin="00:36:29.770" end="00:36:33.350" style="s2">hopefully is just looking at a man or if</p>
+<p begin="00:36:32.210" end="00:36:34.580" style="s2">she&#39;s a lesbian she&#39;s looking at a</p>
+<p begin="00:36:33.350" end="00:36:36.500" style="s2">girlfriend it doesn&#39;t matter but she&#39;s</p>
+<p begin="00:36:34.580" end="00:36:39.740" style="s2">looking somehow to something that you</p>
+<p begin="00:36:36.500" end="00:36:41.570" style="s2">cannot be yet and this creators the urge</p>
+<p begin="00:36:39.740" end="00:36:43.310" style="s2">inside the child that he wants to leave</p>
+<p begin="00:36:41.570" end="00:36:45.320" style="s2">the my mother wants to be independent he</p>
+<p begin="00:36:43.310" end="00:36:47.660" style="s2">wants to try its own way he wants to say</p>
+<p begin="00:36:45.320" end="00:36:49.340" style="s2">and now I want to do things my way okay</p>
+<p begin="00:36:47.660" end="00:36:53.180" style="s2">to one day become an adult</p>
+<p begin="00:36:49.340" end="00:36:55.700" style="s2">that means the phallic case looks at the</p>
+<p begin="00:36:53.180" end="00:36:58.820" style="s2">world first and then looks back at you</p>
+<p begin="00:36:55.700" end="00:37:01.520" style="s2">and it gives you an honest answer of</p>
+<p begin="00:36:58.820" end="00:37:02.660" style="s2">your potential it gives you the</p>
+<p begin="00:37:01.520" end="00:37:05.210" style="s2">straightforward answer you&#39;re looking</p>
+<p begin="00:37:02.660" end="00:37:06.910" style="s2">for it when you want to grow because you</p>
+<p begin="00:37:05.210" end="00:37:09.200" style="s2">can&#39;t give somebody smiling at you</p>
+<p begin="00:37:06.910" end="00:37:11.450" style="s2">unconditionally no matter what No</p>
+<p begin="00:37:09.200" end="00:37:13.280" style="s2">sometimes it just gets boring that all</p>
+<p begin="00:37:11.450" end="00:37:15.680" style="s2">the children get the same gold star on</p>
+<p begin="00:37:13.280" end="00:37:17.060" style="s2">every little painting they do and maybe</p>
+<p begin="00:37:15.680" end="00:37:18.619" style="s2">you want to be a little better than the</p>
+<p begin="00:37:17.060" end="00:37:20.540" style="s2">other guys at doing a painting and</p>
+<p begin="00:37:18.619" end="00:37:21.859" style="s2">you&#39;re going to rivalry and it turns out</p>
+<p begin="00:37:20.540" end="00:37:23.690" style="s2">you&#39;ve got the talent to make it better</p>
+<p begin="00:37:21.859" end="00:37:26.210" style="s2">painting then you want to be the only</p>
+<p begin="00:37:23.690" end="00:37:28.190" style="s2">kid who gets the gold star and to get be</p>
+<p begin="00:37:26.210" end="00:37:29.900" style="s2">the only kid gets the gold star to</p>
+<p begin="00:37:28.190" end="00:37:32.930" style="s2">confirm that you have a specific talent</p>
+<p begin="00:37:29.900" end="00:37:35.690" style="s2">you need the founder case so in religion</p>
+<p begin="00:37:32.930" end="00:37:37.609" style="s2">the magical gaze is what we have down</p>
+<p begin="00:37:35.690" end="00:37:40.190" style="s2">here on earth usually we look to an</p>
+<p begin="00:37:37.609" end="00:37:42.859" style="s2">older woman and and tell me I&#39;ve studied</p>
+<p begin="00:37:40.190" end="00:37:44.810" style="s2">tribes in the Amazons and in Greenland</p>
+<p begin="00:37:42.859" end="00:37:46.099" style="s2">places and the older woman is always the</p>
+<p begin="00:37:44.810" end="00:37:47.270" style="s2">person they&#39;re all terrified out she&#39;s</p>
+<p begin="00:37:46.099" end="00:37:49.730" style="s2">the matriarch wife you&#39;re all</p>
+<p begin="00:37:47.270" end="00:37:52.160" style="s2">responsible to her whether you&#39;re a man</p>
+<p begin="00:37:49.730" end="00:37:54.349" style="s2">or a woman but the phallic case were</p>
+<p begin="00:37:52.160" end="00:37:56.180" style="s2">looking for is usually an older man who</p>
+<p begin="00:37:54.349" end="00:37:58.820" style="s2">comes back from being out there in the</p>
+<p begin="00:37:56.180" end="00:38:00.170" style="s2">world and comes back in and he greets us</p>
+<p begin="00:37:58.820" end="00:38:02.390" style="s2">and he looks at what we&#39;re doing and</p>
+<p begin="00:38:00.170" end="00:38:04.369" style="s2">that&#39;s what we trust his judgment when</p>
+<p begin="00:38:02.390" end="00:38:06.710" style="s2">we go forward so we put the fella case</p>
+<p begin="00:38:04.369" end="00:38:09.410" style="s2">in the sky and that&#39;s what we&#39;re talking</p>
+<p begin="00:38:06.710" end="00:38:17.390" style="s2">about the satellites ask the replacement</p>
+<p begin="00:38:09.410" end="00:38:19.130" style="s2">of the Falak case so then so what risks</p>
+<p begin="00:38:17.390" end="00:38:21.349" style="s2">are there in terms of like the phallic</p>
+<p begin="00:38:19.130" end="00:38:23.270" style="s2">gaze from satellites you know being</p>
+<p begin="00:38:21.349" end="00:38:25.579" style="s2">taken over by authoritarianism or this</p>
+<p begin="00:38:23.270" end="00:38:29.300" style="s2">idea of like the Peter Pan syndrome like</p>
+<p begin="00:38:25.579" end="00:38:32.210" style="s2">how can that be perverted and what what</p>
+<p begin="00:38:29.300" end="00:38:34.270" style="s2">kind of cost will we incur especially</p>
+<p begin="00:38:32.210" end="00:38:36.800" style="s2">since we&#39;re also it seems like in this</p>
+<p begin="00:38:34.270" end="00:38:39.560" style="s2">matriarchal gaze like with how people</p>
+<p begin="00:38:36.800" end="00:38:42.020" style="s2">talk online and you know with social</p>
+<p begin="00:38:39.560" end="00:38:43.849" style="s2">justice like passive aggression that</p>
+<p begin="00:38:42.020" end="00:38:47.030" style="s2">seems to be like part of our discourse</p>
+<p begin="00:38:43.849" end="00:38:49.760" style="s2">and the megaphone is it on our digital</p>
+<p begin="00:38:47.030" end="00:38:54.440" style="s2">platforms seem to be stoking that so</p>
+<p begin="00:38:49.760" end="00:38:56.300" style="s2">what do you see and within that yeah it</p>
+<p begin="00:38:54.440" end="00:38:59.000" style="s2">actually relates to a peter discussed</p>
+<p begin="00:38:56.300" end="00:39:01.010" style="s2">before about the culture wars and if you</p>
+<p begin="00:38:59.000" end="00:39:02.869" style="s2">want to go beyond the culture wars i&#39;m</p>
+<p begin="00:39:01.010" end="00:39:04.190" style="s2">trying to take more diplomatic styles in</p>
+<p begin="00:39:02.869" end="00:39:06.440" style="s2">between them and understand the better</p>
+<p begin="00:39:04.190" end="00:39:08.060" style="s2">it is the misunderstanding or pat</p>
+<p begin="00:39:06.440" end="00:39:10.040" style="s2">Sharkey and Matt Ricci and what they</p>
+<p begin="00:39:08.060" end="00:39:12.349" style="s2">actually mean tossed that is the problem</p>
+<p begin="00:39:10.040" end="00:39:14.119" style="s2">today and I always emphasize that I hate</p>
+<p begin="00:39:12.349" end="00:39:16.520" style="s2">the fact that patriarchy became a bad</p>
+<p begin="00:39:14.119" end="00:39:18.290" style="s2">word because Pat Turkey is just a word</p>
+<p begin="00:39:16.520" end="00:39:20.810" style="s2">for young men are looking for older men</p>
+<p begin="00:39:18.290" end="00:39:22.310" style="s2">for guidance but what I do then because</p>
+<p begin="00:39:20.810" end="00:39:23.190" style="s2">I love to use the word patriarchy to</p>
+<p begin="00:39:22.310" end="00:39:25.020" style="s2">provoke you</p>
+<p begin="00:39:23.190" end="00:39:27.930" style="s2">I always use the word metric in the same</p>
+<p begin="00:39:25.020" end="00:39:29.490" style="s2">sentences to emphasize that the matter</p>
+<p begin="00:39:27.930" end="00:39:31.830" style="s2">key in the Patrick you operate in</p>
+<p begin="00:39:29.490" end="00:39:34.170" style="s2">parallel and we&#39;re all included because</p>
+<p begin="00:39:31.830" end="00:39:36.660" style="s2">the master key is what we call the inner</p>
+<p begin="00:39:34.170" end="00:39:38.550" style="s2">circuit in any tribal construction</p>
+<p begin="00:39:36.660" end="00:39:41.160" style="s2">looked at and the Patrick is the outer</p>
+<p begin="00:39:38.550" end="00:39:43.650" style="s2">circuit but of course for the Patrick a</p>
+<p begin="00:39:41.160" end="00:39:45.240" style="s2">metric to be able to communicate in a me</p>
+<p begin="00:39:43.650" end="00:39:46.800" style="s2">flock animal you have a certain number</p>
+<p begin="00:39:45.240" end="00:39:48.480" style="s2">of people who become homosexuals and</p>
+<p begin="00:39:46.800" end="00:39:50.280" style="s2">transsexuals and wonderful beautiful</p>
+<p begin="00:39:48.480" end="00:39:52.770" style="s2">androgynous people so we call them</p>
+<p begin="00:39:50.280" end="00:39:54.270" style="s2">endogenous caste as anybody&#39;s been to</p>
+<p begin="00:39:52.770" end="00:39:55.920" style="s2">hair salon or being to a couple</p>
+<p begin="00:39:54.270" end="00:39:57.720" style="s2">therapists would know it takes gay</p>
+<p begin="00:39:55.920" end="00:39:59.609" style="s2">people to sort out the shit they had to</p>
+<p begin="00:39:57.720" end="00:40:01.980" style="s2">sexual people running to all the time so</p>
+<p begin="00:39:59.609" end="00:40:03.270" style="s2">we need them right we need about four or</p>
+<p begin="00:40:01.980" end="00:40:04.680" style="s2">five percent of them in there in general</p>
+<p begin="00:40:03.270" end="00:40:06.450" style="s2">population and that&#39;s exactly the</p>
+<p begin="00:40:04.680" end="00:40:08.130" style="s2">numbers we have and then we have another</p>
+<p begin="00:40:06.450" end="00:40:10.310" style="s2">four percent of the population that</p>
+<p begin="00:40:08.130" end="00:40:12.770" style="s2">actually are go between between tribes</p>
+<p begin="00:40:10.310" end="00:40:15.270" style="s2">they called shamanic caste people</p>
+<p begin="00:40:12.770" end="00:40:17.070" style="s2">they&#39;re the way or those of the strange</p>
+<p begin="00:40:15.270" end="00:40:18.570" style="s2">guys in the world we usually pull the</p>
+<p begin="00:40:17.070" end="00:40:19.859" style="s2">scapegoats from out of there and we</p>
+<p begin="00:40:18.570" end="00:40:21.869" style="s2">would pull somebody through the streets</p>
+<p begin="00:40:19.859" end="00:40:24.540" style="s2">and what hang and kill them is probably</p>
+<p begin="00:40:21.869" end="00:40:26.850" style="s2">shamanic person that we use the you know</p>
+<p begin="00:40:24.540" end="00:40:29.940" style="s2">any dirty work that needs to be down the</p>
+<p begin="00:40:26.850" end="00:40:34.530" style="s2">nobody was to touch like being you know</p>
+<p begin="00:40:29.940" end="00:40:36.960" style="s2">a brothel madam a sex worker or an</p>
+<p begin="00:40:34.530" end="00:40:39.330" style="s2">executioner any of those things are</p>
+<p begin="00:40:36.960" end="00:40:41.070" style="s2">shamanic traits shamanic personalities</p>
+<p begin="00:40:39.330" end="00:40:42.930" style="s2">we call them shaman oyd personalities</p>
+<p begin="00:40:41.070" end="00:40:44.540" style="s2">even in the world of psychology and I</p>
+<p begin="00:40:42.930" end="00:40:46.710" style="s2">find me credibly interesting to study</p>
+<p begin="00:40:44.540" end="00:40:48.660" style="s2">because they&#39;re also the only hope we</p>
+<p begin="00:40:46.710" end="00:40:50.850" style="s2">have at a paradigm shift like the</p>
+<p begin="00:40:48.660" end="00:40:52.350" style="s2">current one because if you&#39;re gonna have</p>
+<p begin="00:40:50.850" end="00:40:55.710" style="s2">some people who are gonna walk in</p>
+<p begin="00:40:52.350" end="00:40:58.710" style="s2">between tribes or in our case in between</p>
+<p begin="00:40:55.710" end="00:41:01.320" style="s2">nations or in between cultural spheres</p>
+<p begin="00:40:58.710" end="00:41:03.000" style="s2">you&#39;ll be able to talk to people then we</p>
+<p begin="00:41:01.320" end="00:41:04.710" style="s2">discover that when we put shaman old</p>
+<p begin="00:41:03.000" end="00:41:07.020" style="s2">people in a psychological laboratory</p>
+<p begin="00:41:04.710" end="00:41:09.180" style="s2">they don&#39;t understand things like skin</p>
+<p begin="00:41:07.020" end="00:41:10.859" style="s2">color they understand what other people</p>
+<p begin="00:41:09.180" end="00:41:13.350" style="s2">are concerned about people looking</p>
+<p begin="00:41:10.859" end="00:41:15.540" style="s2">different because there&#39;s a use to</p>
+<p begin="00:41:13.350" end="00:41:17.790" style="s2">they&#39;re born into a world where their</p>
+<p begin="00:41:15.540" end="00:41:19.830" style="s2">mind is just completely geared towards I</p>
+<p begin="00:41:17.790" end="00:41:21.540" style="s2">don&#39;t care about generally how her skin</p>
+<p begin="00:41:19.830" end="00:41:24.780" style="s2">call you have an account with each yeah</p>
+<p begin="00:41:21.540" end="00:41:26.820" style="s2">I&#39;m beyond and weirdly in between those</p>
+<p begin="00:41:24.780" end="00:41:28.830" style="s2">things and these are the people we would</p>
+<p begin="00:41:26.820" end="00:41:30.960" style="s2">always find running around in the forest</p>
+<p begin="00:41:28.830" end="00:41:32.790" style="s2">taking the ultimate risks dying young</p>
+<p begin="00:41:30.960" end="00:41:34.970" style="s2">all those things that we attribute to</p>
+<p begin="00:41:32.790" end="00:41:38.270" style="s2">rock stars and the lesser gods are these</p>
+<p begin="00:41:34.970" end="00:41:39.500" style="s2">shamanic traits and we need them because</p>
+<p begin="00:41:38.270" end="00:41:40.640" style="s2">the only people we only have on our</p>
+<p begin="00:41:39.500" end="00:41:42.380" style="s2">block change their artificial</p>
+<p begin="00:41:40.640" end="00:41:44.450" style="s2">intelligence helping people to</p>
+<p begin="00:41:42.380" end="00:41:46.550" style="s2">communicate across cultural lines the</p>
+<p begin="00:41:44.450" end="00:41:48.260" style="s2">only people who naturally walk across</p>
+<p begin="00:41:46.550" end="00:41:51.470" style="s2">culture lines and are not affected by</p>
+<p begin="00:41:48.260" end="00:41:52.820" style="s2">them are shamanic cast people so we need</p>
+<p begin="00:41:51.470" end="00:41:54.440" style="s2">an audience and we need to amount of</p>
+<p begin="00:41:52.820" end="00:41:57.200" style="s2">people more than ever and I think by</p>
+<p begin="00:41:54.440" end="00:41:58.760" style="s2">stating that clearly we can go back to</p>
+<p begin="00:41:57.200" end="00:42:01.100" style="s2">defining what does it mean to be a</p>
+<p begin="00:41:58.760" end="00:42:03.830" style="s2">regular heterosexual man or regular</p>
+<p begin="00:42:01.100" end="00:42:05.450" style="s2">heterosexual woman and why are 95% of</p>
+<p begin="00:42:03.830" end="00:42:08.240" style="s2">all people like that and why isn&#39;t that</p>
+<p begin="00:42:05.450" end="00:42:09.890" style="s2">beautiful and powerful and then we can</p>
+<p begin="00:42:08.240" end="00:42:11.590" style="s2">overcome the culture war but I think</p>
+<p begin="00:42:09.890" end="00:42:16.010" style="s2">it&#39;s impossible unless we see the bigger</p>
+<p begin="00:42:11.590" end="00:42:17.540" style="s2">tribal human picture I really want to</p>
+<p begin="00:42:16.010" end="00:42:20.750" style="s2">keep digging into this but I&#39;m going to</p>
+<p begin="00:42:17.540" end="00:42:24.260" style="s2">continue to ask questions in the chat is</p>
+<p begin="00:42:20.750" end="00:42:25.970" style="s2">the concept of herd immunity will it</p>
+<p begin="00:42:24.260" end="00:42:28.910" style="s2">kill the Western individual and wake</p>
+<p begin="00:42:25.970" end="00:42:29.720" style="s2">them up to their individual reality what</p>
+<p begin="00:42:28.910" end="00:42:33.740" style="s2">do you think about that</p>
+<p begin="00:42:29.720" end="00:42:35.270" style="s2">oh the herd immunity individualism okay</p>
+<p begin="00:42:33.740" end="00:42:38.690" style="s2">that was that was a weird question but</p>
+<p begin="00:42:35.270" end="00:42:42.070" style="s2">fascinating uh herd immunity is to me a</p>
+<p begin="00:42:38.690" end="00:42:44.780" style="s2">medical term so if you study</p>
+<p begin="00:42:42.070" end="00:42:46.460" style="s2">epidemiology and I&#39;m a philosopher if</p>
+<p begin="00:42:44.780" end="00:42:48.260" style="s2">your loss of an immunity complexity</p>
+<p begin="00:42:46.460" end="00:42:50.510" style="s2">theorist of your complexity theorist and</p>
+<p begin="00:42:48.260" end="00:42:52.550" style="s2">three things you love metrology say</p>
+<p begin="00:42:50.510" end="00:42:54.380" style="s2">small oh gee and epidemiology why</p>
+<p begin="00:42:52.550" end="00:42:56.420" style="s2">because they involve human beings their</p>
+<p begin="00:42:54.380" end="00:42:58.550" style="s2">relations to the earth and they</p>
+<p begin="00:42:56.420" end="00:43:00.290" style="s2">incredibly complex upon the data so</p>
+<p begin="00:42:58.550" end="00:43:02.180" style="s2">that&#39;s why you study epidemiology if</p>
+<p begin="00:43:00.290" end="00:43:04.700" style="s2">you&#39;re a complexity theorist and a herd</p>
+<p begin="00:43:02.180" end="00:43:07.190" style="s2">immunity means that on average about 70</p>
+<p begin="00:43:04.700" end="00:43:09.890" style="s2">to 80 percent of general population have</p>
+<p begin="00:43:07.190" end="00:43:12.080" style="s2">to have had a certain say a virus in</p>
+<p begin="00:43:09.890" end="00:43:15.050" style="s2">this case so then when the virus comes</p>
+<p begin="00:43:12.080" end="00:43:18.440" style="s2">back possibly be needin even worse for</p>
+<p begin="00:43:15.050" end="00:43:21.200" style="s2">him the immunity is so strong that it</p>
+<p begin="00:43:18.440" end="00:43:23.240" style="s2">doesn&#39;t stick so you get very few people</p>
+<p begin="00:43:21.200" end="00:43:26.540" style="s2">if any people who get sick so you don&#39;t</p>
+<p begin="00:43:23.240" end="00:43:28.880" style="s2">get a second you don&#39;t get a second</p>
+<p begin="00:43:26.540" end="00:43:30.290" style="s2">epidemic in that case some countries are</p>
+<p begin="00:43:28.880" end="00:43:32.000" style="s2">obviously going towards that direction</p>
+<p begin="00:43:30.290" end="00:43:32.660" style="s2">Sweden is one of them for example where</p>
+<p begin="00:43:32.000" end="00:43:34.550" style="s2">I live</p>
+<p begin="00:43:32.660" end="00:43:36.350" style="s2">we&#39;re basically now accepting there with</p>
+<p begin="00:43:34.550" end="00:43:38.120" style="s2">50% of the population here in Stockholm</p>
+<p begin="00:43:36.350" end="00:43:40.130" style="s2">have already had the virus and exposed</p>
+<p begin="00:43:38.120" end="00:43:41.720" style="s2">to it we suffer higher death rate than</p>
+<p begin="00:43:40.130" end="00:43:43.400" style="s2">other countries do but the trick here is</p>
+<p begin="00:43:41.720" end="00:43:45.560" style="s2">that we don&#39;t expect vaccines to be</p>
+<p begin="00:43:43.400" end="00:43:47.840" style="s2">around until several years from now if</p>
+<p begin="00:43:45.560" end="00:43:48.610" style="s2">ever and because we can&#39;t count on the</p>
+<p begin="00:43:47.840" end="00:43:50.620" style="s2">back says to be around</p>
+<p begin="00:43:48.610" end="00:43:53.350" style="s2">it&#39;s better prepared to avoid the next</p>
+<p begin="00:43:50.620" end="00:43:55.810" style="s2">wave of the epidemic and allowed to pass</p>
+<p begin="00:43:53.350" end="00:43:57.190" style="s2">through the population and then the only</p>
+<p begin="00:43:55.810" end="00:43:58.900" style="s2">thing we need to sort out is that do we</p>
+<p begin="00:43:57.190" end="00:44:00.400" style="s2">have enough ventilators for people to</p>
+<p begin="00:43:58.900" end="00:44:02.320" style="s2">get sick so we say this man as he</p>
+<p begin="00:44:00.400" end="00:44:03.670" style="s2">possibly can but then we can avoid the</p>
+<p begin="00:44:02.320" end="00:44:05.230" style="s2">second and the third way when they come</p>
+<p begin="00:44:03.670" end="00:44:06.760" style="s2">now of course some countries will try to</p>
+<p begin="00:44:05.230" end="00:44:08.170" style="s2">start a gear other countries like New</p>
+<p begin="00:44:06.760" end="00:44:10.270" style="s2">Zealand it just said no we&#39;re just gonna</p>
+<p begin="00:44:08.170" end="00:44:11.830" style="s2">lock up the country and nobody&#39;s gonna</p>
+<p begin="00:44:10.270" end="00:44:14.080" style="s2">be able to enter and then we&#39;re just</p>
+<p begin="00:44:11.830" end="00:44:15.520" style="s2">gonna wait it out and have no idea where</p>
+<p begin="00:44:14.080" end="00:44:17.230" style="s2">we&#39;re gonna go next but at least we have</p>
+<p begin="00:44:15.520" end="00:44:20.020" style="s2">fewer deaths so that&#39;s what herd</p>
+<p begin="00:44:17.230" end="00:44:21.730" style="s2">immunity does I would say that I don&#39;t</p>
+<p begin="00:44:20.020" end="00:44:24.430" style="s2">see directly tying in to the question</p>
+<p begin="00:44:21.730" end="00:44:26.500" style="s2">individualism collectivism and tribalism</p>
+<p begin="00:44:24.430" end="00:44:29.010" style="s2">because I think the individualism</p>
+<p begin="00:44:26.500" end="00:44:31.780" style="s2">collectivism divide will be solved by a</p>
+<p begin="00:44:29.010" end="00:44:34.330" style="s2">dialectical route into tribalism which</p>
+<p begin="00:44:31.780" end="00:44:36.880" style="s2">also happens to be returned back into</p>
+<p begin="00:44:34.330" end="00:44:37.510" style="s2">deep history into what it means to be</p>
+<p begin="00:44:36.880" end="00:44:40.630" style="s2">human</p>
+<p begin="00:44:37.510" end="00:44:42.550" style="s2">any bad case I prefer to stay with the</p>
+<p begin="00:44:40.630" end="00:44:44.890" style="s2">Dunbar number and say that people can</p>
+<p begin="00:44:42.550" end="00:44:46.930" style="s2">accept another 157 grown-ups around them</p>
+<p begin="00:44:44.890" end="00:44:48.730" style="s2">it&#39;s called a clam I must accept the</p>
+<p begin="00:44:46.930" end="00:44:50.350" style="s2">clan with little storytelling and a few</p>
+<p begin="00:44:48.730" end="00:44:53.050" style="s2">narratives they can accept that we can</p>
+<p begin="00:44:50.350" end="00:44:55.000" style="s2">go into a tribe and be 1,500 or 2,000</p>
+<p begin="00:44:53.050" end="00:44:57.970" style="s2">people that you do not kill or envy too</p>
+<p begin="00:44:55.000" end="00:45:00.100" style="s2">much the problem that is anything larger</p>
+<p begin="00:44:57.970" end="00:45:02.290" style="s2">than that it&#39;s always a challenge for</p>
+<p begin="00:45:00.100" end="00:45:03.940" style="s2">Humanity and we all know that as soon as</p>
+<p begin="00:45:02.290" end="00:45:06.340" style="s2">you live together with more than the</p>
+<p begin="00:45:03.940" end="00:45:08.290" style="s2">tribe size we start to become criminals</p>
+<p begin="00:45:06.340" end="00:45:09.730" style="s2">and we start having disloyal just</p>
+<p begin="00:45:08.290" end="00:45:11.680" style="s2">towards one another and that&#39;s something</p>
+<p begin="00:45:09.730" end="00:45:13.090" style="s2">we struggle with for the past 10,000</p>
+<p begin="00:45:11.680" end="00:45:15.310" style="s2">years and we&#39;ll keep on struggling with</p>
+<p begin="00:45:13.090" end="00:45:20.200" style="s2">it for a long time hopefully now with</p>
+<p begin="00:45:15.310" end="00:45:21.580" style="s2">the help or more shaman&#39;s Amy would you</p>
+<p begin="00:45:20.200" end="00:45:23.940" style="s2">like to unmute yourself and ask your</p>
+<p begin="00:45:21.580" end="00:45:23.940" style="s2">question</p>
+<p begin="00:45:25.450" end="00:45:31.690" style="s2">hi sure so my question is very quick I</p>
+<p begin="00:45:28.599" end="00:45:35.099" style="s2">wanted to see if you could discern the</p>
+<p begin="00:45:31.690" end="00:45:36.550" style="s2">line between public safety and personal</p>
+<p begin="00:45:35.099" end="00:45:42.510" style="s2">responsibility and what you thought</p>
+<p begin="00:45:36.550" end="00:45:47.440" style="s2">about that thank you for a good question</p>
+<p begin="00:45:42.510" end="00:45:49.480" style="s2">yeah this comes down to trust so we all</p>
+<p begin="00:45:47.440" end="00:45:50.829" style="s2">know that cultures that people have</p>
+<p begin="00:45:49.480" end="00:45:52.300" style="s2">trusted each other for a long time</p>
+<p begin="00:45:50.829" end="00:45:53.920" style="s2">preferably we don&#39;t have to lock the</p>
+<p begin="00:45:52.300" end="00:45:56.050" style="s2">door when you leave the house I mean</p>
+<p begin="00:45:53.920" end="00:45:57.640" style="s2">that would be the ultimate evidence that</p>
+<p begin="00:45:56.050" end="00:45:59.770" style="s2">you trust your village neighbors right</p>
+<p begin="00:45:57.640" end="00:46:01.960" style="s2">we all know that the longer the chains</p>
+<p begin="00:45:59.770" end="00:46:04.060" style="s2">of trust are in the culture the more</p>
+<p begin="00:46:01.960" end="00:46:06.760" style="s2">people do take responsibility for one</p>
+<p begin="00:46:04.060" end="00:46:09.940" style="s2">another so it&#39;s easier and cheaper and</p>
+<p begin="00:46:06.760" end="00:46:12.220" style="s2">more efficient to go towards a society</p>
+<p begin="00:46:09.940" end="00:46:14.020" style="s2">at mineral cost for example you need a</p>
+<p begin="00:46:12.220" end="00:46:15.940" style="s2">pandemic if you&#39;re long chains of trust</p>
+<p begin="00:46:14.020" end="00:46:17.230" style="s2">now I&#39;m not saying you must have that I</p>
+<p begin="00:46:15.940" end="00:46:19.060" style="s2">don&#39;t want to be more honest about it</p>
+<p begin="00:46:17.230" end="00:46:21.160" style="s2">there are highly efficient cultures</p>
+<p begin="00:46:19.060" end="00:46:23.079" style="s2">where the chains of trust are minimal I</p>
+<p begin="00:46:21.160" end="00:46:24.760" style="s2">would say that&#39;s probably the case and</p>
+<p begin="00:46:23.079" end="00:46:26.500" style="s2">some of these city-states around the</p>
+<p begin="00:46:24.760" end="00:46:28.060" style="s2">world where people are just moved in in</p>
+<p begin="00:46:26.500" end="00:46:30.490" style="s2">the last three generations and work</p>
+<p begin="00:46:28.060" end="00:46:32.380" style="s2">really hard and pay low taxes and you</p>
+<p begin="00:46:30.490" end="00:46:34.000" style="s2">have to take care of yourself and maybe</p>
+<p begin="00:46:32.380" end="00:46:35.560" style="s2">have a family or a congregation that you</p>
+<p begin="00:46:34.000" end="00:46:37.599" style="s2">trust the government is really usually</p>
+<p begin="00:46:35.560" end="00:46:38.650" style="s2">weak and small that&#39;s places like Dubai</p>
+<p begin="00:46:37.599" end="00:46:40.569" style="s2">and Hong Kong</p>
+<p begin="00:46:38.650" end="00:46:42.490" style="s2">I wouldn&#39;t expect people in Dubai and</p>
+<p begin="00:46:40.569" end="00:46:43.839" style="s2">Hong Kong to feel that they can trust</p>
+<p begin="00:46:42.490" end="00:46:44.950" style="s2">their neighbors the way you can in</p>
+<p begin="00:46:43.839" end="00:46:47.050" style="s2">Switzerland or Sweden</p>
+<p begin="00:46:44.950" end="00:46:48.970" style="s2">so I&#39;m I&#39;m no I don&#39;t want to be</p>
+<p begin="00:46:47.050" end="00:46:51.670" style="s2">moralistic about it all I&#39;m saying is</p>
+<p begin="00:46:48.970" end="00:46:54.270" style="s2">that the longer and the stronger the</p>
+<p begin="00:46:51.670" end="00:46:57.490" style="s2">chains of trust are in a given society</p>
+<p begin="00:46:54.270" end="00:46:58.839" style="s2">the more the the opposition between</p>
+<p begin="00:46:57.490" end="00:47:00.510" style="s2">public safety and personal</p>
+<p begin="00:46:58.839" end="00:47:02.920" style="s2">responsibility becomes a non-issue</p>
+<p begin="00:47:00.510" end="00:47:04.480" style="s2">because it&#39;s interesting that I hear you</p>
+<p begin="00:47:02.920" end="00:47:06.069" style="s2">say this come from North America but I</p>
+<p begin="00:47:04.480" end="00:47:08.440" style="s2">don&#39;t hear any scam that even asked with</p>
+<p begin="00:47:06.069" end="00:47:10.470" style="s2">the same question because they would</p>
+<p begin="00:47:08.440" end="00:47:12.910" style="s2">automatically assume the public safety</p>
+<p begin="00:47:10.470" end="00:47:15.010" style="s2">personally don&#39;t to connect it it&#39;s just</p>
+<p begin="00:47:12.910" end="00:47:16.690" style="s2">a courtesy that you don&#39;t spit at your</p>
+<p begin="00:47:15.010" end="00:47:19.060" style="s2">neighbor and you babe you know behave</p>
+<p begin="00:47:16.690" end="00:47:20.589" style="s2">gracefully in society and you hopefully</p>
+<p begin="00:47:19.060" end="00:47:21.730" style="s2">avoid not getting too drunken and</p>
+<p begin="00:47:20.589" end="00:47:23.410" style="s2">sleeping with the wrong person at the</p>
+<p begin="00:47:21.730" end="00:47:26.410" style="s2">wrong time because we have academic at</p>
+<p begin="00:47:23.410" end="00:47:27.869" style="s2">the moment but but it is a cost-benefit</p>
+<p begin="00:47:26.410" end="00:47:32.020" style="s2">analysis you need to do and of course</p>
+<p begin="00:47:27.869" end="00:47:34.319" style="s2">I&#39;m also a strong cosmopolitan &#39;us I&#39;m a</p>
+<p begin="00:47:32.020" end="00:47:35.950" style="s2">strong proponent of cultures</p>
+<p begin="00:47:34.319" end="00:47:38.230" style="s2">intermingling with each other and</p>
+<p begin="00:47:35.950" end="00:47:39.440" style="s2">challenging people to take on strangers</p>
+<p begin="00:47:38.230" end="00:47:41.570" style="s2">I I love the big</p>
+<p begin="00:47:39.440" end="00:47:43.580" style="s2">Pyrus of history one of the trade routes</p>
+<p begin="00:47:41.570" end="00:47:45.110" style="s2">and I love the whorehouses in the bath</p>
+<p begin="00:47:43.580" end="00:47:47.690" style="s2">houses and everything dirty that went</p>
+<p begin="00:47:45.110" end="00:47:49.820" style="s2">with it right but I also know that the</p>
+<p begin="00:47:47.690" end="00:47:52.790" style="s2">price we pay we create larger</p>
+<p begin="00:47:49.820" end="00:47:54.770" style="s2">communities quickly is that the natural</p>
+<p begin="00:47:52.790" end="00:47:56.780" style="s2">change the trust that existed then</p>
+<p begin="00:47:54.770" end="00:47:59.330" style="s2">evaporate and then you need more</p>
+<p begin="00:47:56.780" end="00:48:01.490" style="s2">technology you need more machines we</p>
+<p begin="00:47:59.330" end="00:48:03.440" style="s2">need more help from intelligent machines</p>
+<p begin="00:48:01.490" end="00:48:05.960" style="s2">Jack should be able to trust one another</p>
+<p begin="00:48:03.440" end="00:48:07.510" style="s2">we need more block chains unless they</p>
+<p begin="00:48:05.960" end="00:48:13.160" style="s2">actually trust our neighbors naturally</p>
+<p begin="00:48:07.510" end="00:48:17.450" style="s2">so it&#39;s a trade-off thing great and then</p>
+<p begin="00:48:13.160" end="00:48:18.920" style="s2">we have a question here from Owen Owen</p>
+<p begin="00:48:17.450" end="00:48:22.130" style="s2">would you like to mute yourself and ask</p>
+<p begin="00:48:18.920" end="00:48:25.280" style="s2">your question to Bart hey Alexander</p>
+<p begin="00:48:22.130" end="00:48:28.790" style="s2">how&#39;s it going mate so I was thinking</p>
+<p begin="00:48:25.280" end="00:48:30.950" style="s2">about this fight against totalitarianism</p>
+<p begin="00:48:28.790" end="00:48:33.710" style="s2">and how I guess in the 20th century of</p>
+<p begin="00:48:30.950" end="00:48:35.420" style="s2">my liberty freedom has been perhaps the</p>
+<p begin="00:48:33.710" end="00:48:37.430" style="s2">ideal and the value that we hold up</p>
+<p begin="00:48:35.420" end="00:48:42.860" style="s2">against it I&#39;m wondering if as we move</p>
+<p begin="00:48:37.430" end="00:48:44.960" style="s2">into a more sense or attic power</p>
+<p begin="00:48:42.860" end="00:48:46.310" style="s2">structure is there a new ideal that kind</p>
+<p begin="00:48:44.960" end="00:48:48.440" style="s2">of takes the place of freedom and</p>
+<p begin="00:48:46.310" end="00:48:50.390" style="s2">liberty that we can cling to or does</p>
+<p begin="00:48:48.440" end="00:48:55.270" style="s2">freedom and liberty still remain what we</p>
+<p begin="00:48:50.390" end="00:48:57.740" style="s2">go for thank you for a great question</p>
+<p begin="00:48:55.270" end="00:49:00.710" style="s2">the way I see it is that I tried to</p>
+<p begin="00:48:57.740" end="00:49:02.420" style="s2">avoid becoming moralistic so I don&#39;t go</p>
+<p begin="00:49:00.710" end="00:49:05.300" style="s2">into the sort of freedom versus</p>
+<p begin="00:49:02.420" end="00:49:07.850" style="s2">totalitarianism to say in itself rather</p>
+<p begin="00:49:05.300" end="00:49:10.850" style="s2">I want to have arguments where it pays</p>
+<p begin="00:49:07.850" end="00:49:12.890" style="s2">off to do the right thing for the right</p>
+<p begin="00:49:10.850" end="00:49:14.900" style="s2">reasons anyway and and it&#39;s better than</p>
+<p begin="00:49:12.890" end="00:49:17.630" style="s2">to look at the effects long-term effects</p>
+<p begin="00:49:14.900" end="00:49:19.070" style="s2">and here&#39;s the problem you know where</p>
+<p begin="00:49:17.630" end="00:49:21.080" style="s2">the coronavirus started spreading in</p>
+<p begin="00:49:19.070" end="00:49:23.150" style="s2">Hebei in China and the Chinese</p>
+<p begin="00:49:21.080" end="00:49:24.380" style="s2">authorities try to keep quiet about it</p>
+<p begin="00:49:23.150" end="00:49:26.030" style="s2">for about three to four months and they</p>
+<p begin="00:49:24.380" end="00:49:28.790" style="s2">basically punished anybody who told the</p>
+<p begin="00:49:26.030" end="00:49:30.980" style="s2">truth the funny thing was that I had all</p>
+<p begin="00:49:28.790" end="00:49:33.830" style="s2">these kids everywhere who just referred</p>
+<p begin="00:49:30.980" end="00:49:35.750" style="s2">back to the Chernobyl serious you know</p>
+<p begin="00:49:33.830" end="00:49:37.040" style="s2">that we knew or Chernobyl the year</p>
+<p begin="00:49:35.750" end="00:49:40.400" style="s2">before he&#39;s an old friend of mine John</p>
+<p begin="00:49:37.040" end="00:49:42.080" style="s2">rank did that and and Joanne&#39;s ambition</p>
+<p begin="00:49:40.400" end="00:49:44.540" style="s2">when he wrote you know was obviously not</p>
+<p begin="00:49:42.080" end="00:49:47.240" style="s2">to write about the Soviet Union but to</p>
+<p begin="00:49:44.540" end="00:49:48.500" style="s2">write about Communist China or basically</p>
+<p begin="00:49:47.240" end="00:49:50.540" style="s2">to write about the problem with any</p>
+<p begin="00:49:48.500" end="00:49:52.010" style="s2">totalitarian system because any</p>
+<p begin="00:49:50.540" end="00:49:53.100" style="s2">totalitarian system would have a little</p>
+<p begin="00:49:52.010" end="00:49:55.740" style="s2">boy Pharaoh at</p>
+<p begin="00:49:53.100" end="00:49:57.570" style="s2">top called the dictator he&#39;s an 11 year</p>
+<p begin="00:49:55.740" end="00:49:59.010" style="s2">old Peter Pan and he doesn&#39;t want to</p>
+<p begin="00:49:57.570" end="00:50:01.980" style="s2">hear anything that he doesn&#39;t like and</p>
+<p begin="00:49:59.010" end="00:50:04.110" style="s2">even if he understands listening to some</p>
+<p begin="00:50:01.980" end="00:50:06.510" style="s2">mentor that he should hear things he</p>
+<p begin="00:50:04.110" end="00:50:08.520" style="s2">doesn&#39;t like nobody dares to tell them</p>
+<p begin="00:50:06.510" end="00:50:10.080" style="s2">things they don&#39;t want to tell it that</p>
+<p begin="00:50:08.520" end="00:50:11.790" style="s2">means there&#39;s always he delay in any</p>
+<p begin="00:50:10.080" end="00:50:15.300" style="s2">system like that before the truth</p>
+<p begin="00:50:11.790" end="00:50:18.510" style="s2">reaches power and until truth reaches</p>
+<p begin="00:50:15.300" end="00:50:20.220" style="s2">power it cannot be executed on Sochi and</p>
+<p begin="00:50:18.510" end="00:50:22.380" style="s2">ping must have been shocked to find out</p>
+<p begin="00:50:20.220" end="00:50:24.300" style="s2">that everybody be kept quiet for about</p>
+<p begin="00:50:22.380" end="00:50:27.780" style="s2">four months about a pandemic that could</p>
+<p begin="00:50:24.300" end="00:50:29.280" style="s2">kill his power it could kill him so he</p>
+<p begin="00:50:27.780" end="00:50:30.600" style="s2">probably then went into reverse and</p>
+<p begin="00:50:29.280" end="00:50:33.060" style="s2">started looking like the you know the</p>
+<p begin="00:50:30.600" end="00:50:35.130" style="s2">tough guy is gonna lock up everybody and</p>
+<p begin="00:50:33.060" end="00:50:36.810" style="s2">lock them all in and of course China&#39;s</p>
+<p begin="00:50:35.130" end="00:50:39.150" style="s2">gone in that direction meaning now they</p>
+<p begin="00:50:36.810" end="00:50:40.850" style="s2">have a massive problem is that now when</p>
+<p begin="00:50:39.150" end="00:50:42.960" style="s2">the virus comes back into China</p>
+<p begin="00:50:40.850" end="00:50:45.660" style="s2">ninety-five percent of China were</p>
+<p begin="00:50:42.960" end="00:50:47.450" style="s2">covered by axion ping he was locked in</p>
+<p begin="00:50:45.660" end="00:50:50.250" style="s2">Roubaix but what are they gonna do now</p>
+<p begin="00:50:47.450" end="00:50:52.620" style="s2">1.2 1.3 billion Chinese people are</p>
+<p begin="00:50:50.250" end="00:50:54.930" style="s2">exposed to the virus anyway and he has</p>
+<p begin="00:50:52.620" end="00:50:56.820" style="s2">no solution to that it must he must shit</p>
+<p begin="00:50:54.930" end="00:50:59.100" style="s2">his pants every day with that problem</p>
+<p begin="00:50:56.820" end="00:51:01.020" style="s2">but this is also a great argument</p>
+<p begin="00:50:59.100" end="00:51:03.870" style="s2">against totalitarian so I would say the</p>
+<p begin="00:51:01.020" end="00:51:07.260" style="s2">best argument ever is that Stalin died</p>
+<p begin="00:51:03.870" end="00:51:09.240" style="s2">alone and if you go into the biography</p>
+<p begin="00:51:07.260" end="00:51:10.620" style="s2">of Stalin yours of Stalin he was</p>
+<p begin="00:51:09.240" end="00:51:12.300" style="s2">probably he was the king of the world</p>
+<p begin="00:51:10.620" end="00:51:14.970" style="s2">probably the most powerful person on the</p>
+<p begin="00:51:12.300" end="00:51:17.280" style="s2">planet when he died but he was so lonely</p>
+<p begin="00:51:14.970" end="00:51:19.710" style="s2">when he died that he was sick that none</p>
+<p begin="00:51:17.280" end="00:51:21.900" style="s2">of his doctors dared to go into the room</p>
+<p begin="00:51:19.710" end="00:51:26.310" style="s2">being afraid they&#39;d be executed by if he</p>
+<p begin="00:51:21.900" end="00:51:28.410" style="s2">didn&#39;t like what they told him so they</p>
+<p begin="00:51:26.310" end="00:51:30.770" style="s2">they decided not to go into the room so</p>
+<p begin="00:51:28.410" end="00:51:32.850" style="s2">this guy died the lowliest death ever</p>
+<p begin="00:51:30.770" end="00:51:36.420" style="s2">Starlin died the longest death have he</p>
+<p begin="00:51:32.850" end="00:51:38.760" style="s2">died alone plagued by his decease not</p>
+<p begin="00:51:36.420" end="00:51:40.830" style="s2">being cured a treated basically because</p>
+<p begin="00:51:38.760" end="00:51:42.630" style="s2">the doctors decided let&#39;s just pretend</p>
+<p begin="00:51:40.830" end="00:51:44.250" style="s2">he&#39;s in there and we&#39;re not in there and</p>
+<p begin="00:51:42.630" end="00:51:46.050" style="s2">they we all save our asses Tameka get</p>
+<p begin="00:51:44.250" end="00:51:48.000" style="s2">out of here and that&#39;s exactly when you</p>
+<p begin="00:51:46.050" end="00:51:49.440" style="s2">when you kill when you killed the</p>
+<p begin="00:51:48.000" end="00:51:50.820" style="s2">dictator with the priests decide to kill</p>
+<p begin="00:51:49.440" end="00:51:52.380" style="s2">the tailor that&#39;s exactly what happens</p>
+<p begin="00:51:50.820" end="00:51:54.120" style="s2">that&#39;s that&#39;s a killing or Tutankhamun</p>
+<p begin="00:51:52.380" end="00:51:56.250" style="s2">Egypt and all the way up to Stalin&#39;s</p>
+<p begin="00:51:54.120" end="00:51:57.510" style="s2">death and I think that&#39;s a good story to</p>
+<p begin="00:51:56.250" end="00:51:59.300" style="s2">tell us that this system is deeply</p>
+<p begin="00:51:57.510" end="00:52:02.070" style="s2">dysfunctional and I loved it because</p>
+<p begin="00:51:59.300" end="00:52:04.200" style="s2">don&#39;t rank cleverly put Chernobyl out</p>
+<p begin="00:52:02.070" end="00:52:05.820" style="s2">there and the kids could understand that</p>
+<p begin="00:52:04.200" end="00:52:06.870" style="s2">what&#39;s going on in communist China today</p>
+<p begin="00:52:05.820" end="00:52:08.490" style="s2">well Chernobyl</p>
+<p begin="00:52:06.870" end="00:52:11.280" style="s2">and they did learn from Chernobyl that</p>
+<p begin="00:52:08.490" end="00:52:13.340" style="s2">actually when a disaster strikes then a</p>
+<p begin="00:52:11.280" end="00:52:15.330" style="s2">dictatorship is incredibly vulnerable</p>
+<p begin="00:52:13.340" end="00:52:18.570" style="s2">because it&#39;s the worst place for</p>
+<p begin="00:52:15.330" end="00:52:21.510" style="s2">disaster strike the other way of looking</p>
+<p begin="00:52:18.570" end="00:52:23.010" style="s2">at that is then to look at creativity so</p>
+<p begin="00:52:21.510" end="00:52:24.240" style="s2">we can look at a coat o penis and we</p>
+<p begin="00:52:23.010" end="00:52:25.410" style="s2">just saving the planet we can look</p>
+<p begin="00:52:24.240" end="00:52:26.670" style="s2">across the positives and which is</p>
+<p begin="00:52:25.410" end="00:52:28.530" style="s2">getting along with our neighbors any</p>
+<p begin="00:52:26.670" end="00:52:30.180" style="s2">dictator in the world could embrace that</p>
+<p begin="00:52:28.530" end="00:52:33.360" style="s2">that&#39;s for Singapore and Dubai are</p>
+<p begin="00:52:30.180" end="00:52:35.040" style="s2">dictatorships for practical purposes but</p>
+<p begin="00:52:33.360" end="00:52:37.710" style="s2">when when it comes to actually</p>
+<p begin="00:52:35.040" end="00:52:38.760" style="s2">creativity and if the economy is going</p>
+<p begin="00:52:37.710" end="00:52:41.610" style="s2">to be around and creative destruction</p>
+<p begin="00:52:38.760" end="00:52:43.350" style="s2">and then creative construction following</p>
+<p begin="00:52:41.610" end="00:52:44.910" style="s2">that we all know the China is really</p>
+<p begin="00:52:43.350" end="00:52:46.740" style="s2">good at mimicking things but any</p>
+<p begin="00:52:44.910" end="00:52:48.540" style="s2">innovation that takes place in China is</p>
+<p begin="00:52:46.740" end="00:52:51.300" style="s2">happening in Taiwan and Hong Kong it&#39;s</p>
+<p begin="00:52:48.540" end="00:52:53.100" style="s2">not happening in mainland China so the</p>
+<p begin="00:52:51.300" end="00:52:54.570" style="s2">really great argument here is that if</p>
+<p begin="00:52:53.100" end="00:52:56.400" style="s2">you&#39;re gonna have a system where we go</p>
+<p begin="00:52:54.570" end="00:52:58.610" style="s2">into what the old Iran is called the</p>
+<p begin="00:52:56.400" end="00:53:02.970" style="s2">flush of karate estate though ever</p>
+<p begin="00:52:58.610" end="00:53:05.070" style="s2">renewed creativity ok so imagine that is</p>
+<p begin="00:53:02.970" end="00:53:06.390" style="s2">the future then you know innit opium</p>
+<p begin="00:53:05.070" end="00:53:08.310" style="s2">future of fresh Arcadia</p>
+<p begin="00:53:06.390" end="00:53:11.280" style="s2">if that is ever going to happen it</p>
+<p begin="00:53:08.310" end="00:53:13.890" style="s2">cannot be in a dictatorship it must be</p>
+<p begin="00:53:11.280" end="00:53:20.880" style="s2">in some kind of pluralistic some sokrati</p>
+<p begin="00:53:13.890" end="00:53:24.090" style="s2">for that to happen all right</p>
+<p begin="00:53:20.880" end="00:53:25.860" style="s2">that&#39;s excellent great ok well we have</p>
+<p begin="00:53:24.090" end="00:53:28.170" style="s2">about five minutes here to wrap up</p>
+<p begin="00:53:25.860" end="00:53:30.750" style="s2">there&#39;s still this great question in the</p>
+<p begin="00:53:28.170" end="00:53:32.010" style="s2">chat ok I think maybe we&#39;ll try and</p>
+<p begin="00:53:30.750" end="00:53:34.530" style="s2">cover this one because it&#39;s it&#39;s about</p>
+<p begin="00:53:32.010" end="00:53:38.090" style="s2">the trickster archetype so Kevin do you</p>
+<p begin="00:53:34.530" end="00:53:38.090" style="s2">want to ask your question and then maybe</p>
+<p begin="00:53:40.370" end="00:53:45.260" style="s2">so you mentioned a few times the rule of</p>
+<p begin="00:53:43.140" end="00:53:47.640" style="s2">the like the shamanic sort of trickster</p>
+<p begin="00:53:45.260" end="00:53:51.090" style="s2">archetype wandering across cultural</p>
+<p begin="00:53:47.640" end="00:53:53.490" style="s2">lines how do you think that&#39;ll change or</p>
+<p begin="00:53:51.090" end="00:53:55.110" style="s2">has changed in a digital age when every</p>
+<p begin="00:53:53.490" end="00:54:00.180" style="s2">tribe is already connected and these</p>
+<p begin="00:53:55.110" end="00:54:02.070" style="s2">lines are really blurred and so how how</p>
+<p begin="00:54:00.180" end="00:54:03.630" style="s2">do you see that role changing or do you</p>
+<p begin="00:54:02.070" end="00:54:06.710" style="s2">have any people who you think embodies</p>
+<p begin="00:54:03.630" end="00:54:09.540" style="s2">archetype well in the digital sphere</p>
+<p begin="00:54:06.710" end="00:54:11.310" style="s2">great question I&#39;m obsessed with shaman</p>
+<p begin="00:54:09.540" end="00:54:13.200" style="s2">oyd personalities but I should emphasize</p>
+<p begin="00:54:11.310" end="00:54:14.610" style="s2">that there&#39;s a serious or different</p>
+<p begin="00:54:13.200" end="00:54:16.290" style="s2">archetypes among the shaman or person</p>
+<p begin="00:54:14.610" end="00:54:18.570" style="s2">all these tricksters just one of them</p>
+<p begin="00:54:16.290" end="00:54:19.990" style="s2">and what&#39;s characteristic for the tricks</p>
+<p begin="00:54:18.570" end="00:54:22.840" style="s2">that East that he or</p>
+<p begin="00:54:19.990" end="00:54:24.280" style="s2">she just speak their mind and do not</p>
+<p begin="00:54:22.840" end="00:54:26.770" style="s2">care about the consequences</p>
+<p begin="00:54:24.280" end="00:54:30.640" style="s2">so the tricks there is always a person</p>
+<p begin="00:54:26.770" end="00:54:33.610" style="s2">who we must have in society but who we</p>
+<p begin="00:54:30.640" end="00:54:36.040" style="s2">can allow the right to not care about</p>
+<p begin="00:54:33.610" end="00:54:37.630" style="s2">the consequences of their behavior that</p>
+<p begin="00:54:36.040" end="00:54:39.460" style="s2">is different for example from say the</p>
+<p begin="00:54:37.630" end="00:54:41.680" style="s2">priest with another shaman or</p>
+<p begin="00:54:39.460" end="00:54:44.020" style="s2">personality semantics character the</p>
+<p begin="00:54:41.680" end="00:54:46.200" style="s2">priest is responsible for the outcome or</p>
+<p begin="00:54:44.020" end="00:54:49.119" style="s2">what it does actually he is the ultimate</p>
+<p begin="00:54:46.200" end="00:54:50.170" style="s2">strategist and if you put him inside the</p>
+<p begin="00:54:49.119" end="00:54:52.810" style="s2">court he&#39;s probably the ultimate</p>
+<p begin="00:54:50.170" end="00:54:54.040" style="s2">intrigue maker but but the priest is</p>
+<p begin="00:54:52.810" end="00:54:56.740" style="s2">very different from the tricks and</p>
+<p begin="00:54:54.040" end="00:54:58.060" style="s2">precisely in this domain and I&#39;d love to</p>
+<p begin="00:54:56.740" end="00:54:59.440" style="s2">develop you further maybe we can do it</p>
+<p begin="00:54:58.060" end="00:55:01.630" style="s2">when we&#39;re off this little show here</p>
+<p begin="00:54:59.440" end="00:55:02.950" style="s2">tonight but but I&#39;d love to develop</p>
+<p begin="00:55:01.630" end="00:55:05.500" style="s2">refer they were working a lot with these</p>
+<p begin="00:55:02.950" end="00:55:07.090" style="s2">characters and I&#39;d like also sociology</p>
+<p begin="00:55:05.500" end="00:55:08.980" style="s2">and anthropology be able to pick up all</p>
+<p begin="00:55:07.090" end="00:55:11.020" style="s2">these ideas on the shamanic cast and</p>
+<p begin="00:55:08.980" end="00:55:12.850" style="s2">describe and identify different</p>
+<p begin="00:55:11.020" end="00:55:14.590" style="s2">shamonite personalities and of course</p>
+<p begin="00:55:12.850" end="00:55:16.360" style="s2">personally I&#39;m involved in the sex</p>
+<p begin="00:55:14.590" end="00:55:18.730" style="s2">workers union in Europe and you know</p>
+<p begin="00:55:16.360" end="00:55:21.040" style="s2">it&#39;s a deep personal thing for me you</p>
+<p begin="00:55:18.730" end="00:55:22.720" style="s2">know and also to redefine drug addiction</p>
+<p begin="00:55:21.040" end="00:55:24.250" style="s2">because it&#39;s not really addiction it&#39;s</p>
+<p begin="00:55:22.720" end="00:55:25.960" style="s2">it&#39;s very natural for people to take</p>
+<p begin="00:55:24.250" end="00:55:28.630" style="s2">drugs sometimes especially if there&#39;s</p>
+<p begin="00:55:25.960" end="00:55:30.190" style="s2">shaman road personalities so uh maybe we</p>
+<p begin="00:55:28.630" end="00:55:31.990" style="s2">could even allow the shaman a person</p>
+<p begin="00:55:30.190" end="00:55:33.490" style="s2">ladders to have their own loss and do</p>
+<p begin="00:55:31.990" end="00:55:35.380" style="s2">their own things because there are a lot</p>
+<p begin="00:55:33.490" end="00:55:37.510" style="s2">of things that most of us cannot handle</p>
+<p begin="00:55:35.380" end="00:55:39.100" style="s2">couldn&#39;t do but we could even give a</p>
+<p begin="00:55:37.510" end="00:55:41.290" style="s2">license for some people to say you&#39;re</p>
+<p begin="00:55:39.100" end="00:55:42.520" style="s2">damned trickster or you&#39;re you&#39;re you&#39;re</p>
+<p begin="00:55:41.290" end="00:55:43.990" style="s2">allowed to take as many drugs as you</p>
+<p begin="00:55:42.520" end="00:55:46.090" style="s2">like and experiment why is it because</p>
+<p begin="00:55:43.990" end="00:55:48.670" style="s2">you are that personality type who should</p>
+<p begin="00:55:46.090" end="00:55:50.230" style="s2">we should afford as a society and for</p>
+<p begin="00:55:48.670" end="00:55:57.820" style="s2">the sake of tolerance and creativity to</p>
+<p begin="00:55:50.230" end="00:55:59.130" style="s2">go ahead and make these experiments that</p>
+<p begin="00:55:57.820" end="00:56:01.630" style="s2">would be amazing</p>
+<p begin="00:55:59.130" end="00:56:04.180" style="s2">yeah there&#39;s so much to talk about in</p>
+<p begin="00:56:01.630" end="00:56:06.640" style="s2">this area especially with like sex work</p>
+<p begin="00:56:04.180" end="00:56:10.990" style="s2">and how that&#39;s changing in the digital</p>
+<p begin="00:56:06.640" end="00:56:14.140" style="s2">era there&#39;s so much to talk about okay</p>
+<p begin="00:56:10.990" end="00:56:16.450" style="s2">so you really put a lot of really great</p>
+<p begin="00:56:14.140" end="00:56:18.910" style="s2">ideas in our heads and there&#39;s even more</p>
+<p begin="00:56:16.450" end="00:56:20.560" style="s2">great things coming up at the stoah so</p>
+<p begin="00:56:18.910" end="00:56:22.000" style="s2">we&#39;re going to talk about some of the</p>
+<p begin="00:56:20.560" end="00:56:24.130" style="s2">some of the events that are coming up</p>
+<p begin="00:56:22.000" end="00:56:27.010" style="s2">fard thank you so much for being here</p>
+<p begin="00:56:24.130" end="00:56:28.540" style="s2">thank you for having me raven and we all</p>
+<p begin="00:56:27.010" end="00:56:30.190" style="s2">know that everybody&#39;s watching because</p>
+<p begin="00:56:28.540" end="00:56:31.130" style="s2">of queen raven and i just went along</p>
+<p begin="00:56:30.190" end="00:56:34.040" style="s2">with the ride</p>
+<p begin="00:56:31.130" end="00:56:35.450" style="s2">because our so you&#39;re so beautiful in</p>
+<p begin="00:56:34.040" end="00:56:41.180" style="s2">terribly externally in every way</p>
+<p begin="00:56:35.450" end="00:56:43.130" style="s2">possible your good sister amazing having</p>
+<p begin="00:56:41.180" end="00:56:44.480" style="s2">you here too is amazing and I&#39;ve been</p>
+<p begin="00:56:43.130" end="00:56:48.040" style="s2">following your work and it&#39;s so exciting</p>
+<p begin="00:56:44.480" end="00:56:51.080" style="s2">to actually have a conversation that</p>
+<p begin="00:56:48.040" end="00:56:56.090" style="s2">would you like to talk about a cure the</p>
+<p begin="00:56:51.080" end="00:56:59.300" style="s2">dawn Peter yes so our next event coming</p>
+<p begin="00:56:56.090" end="00:57:00.710" style="s2">up actually the next event is your event</p>
+<p begin="00:56:59.300" end="00:57:02.870" style="s2">Raven which I&#39;ll let you talk about but</p>
+<p begin="00:57:00.710" end="00:57:03.710" style="s2">the next event after that is 8:30 p.m.</p>
+<p begin="00:57:02.870" end="00:57:06.560" style="s2">Eastern Time</p>
+<p begin="00:57:03.710" end="00:57:09.710" style="s2">Akira that dawn is going to do some live</p>
+<p begin="00:57:06.560" end="00:57:12.020" style="s2">streaming on stoic needing ways so he</p>
+<p begin="00:57:09.710" end="00:57:13.940" style="s2">has like basically he didn&#39;t read marcus</p>
+<p begin="00:57:12.020" end="00:57:15.920" style="s2">aurelius is meditation to like you know</p>
+<p begin="00:57:13.940" end="00:57:17.150" style="s2">his music and so that&#39;s really dope he&#39;s</p>
+<p begin="00:57:15.920" end="00:57:17.660" style="s2">gonna have a live session here so you&#39;re</p>
+<p begin="00:57:17.150" end="00:57:35.060" style="s2">all invited</p>
+<p begin="00:57:17.660" end="00:57:37.880" style="s2">go to the website wptz.com which is a</p>
+<p begin="00:57:35.060" end="00:57:41.030" style="s2">very like controversial provoking game</p>
+<p begin="00:57:37.880" end="00:57:43.370" style="s2">and yeah everyone&#39;s welcome to come so</p>
+<p begin="00:57:41.030" end="00:57:45.560" style="s2">it&#39;s going to basically be you get mixed</p>
+<p begin="00:57:43.370" end="00:57:47.480" style="s2">up into breakout rooms for about eight</p>
+<p begin="00:57:45.560" end="00:57:49.190" style="s2">minutes with a stranger and you have a</p>
+<p begin="00:57:47.480" end="00:57:51.500" style="s2">provocative question that you both</p>
+<p begin="00:57:49.190" end="00:57:55.190" style="s2">answer together so that&#39;s going to be at</p>
+<p begin="00:57:51.500" end="00:57:57.860" style="s2">7 p.m. and then we also have some other</p>
+<p begin="00:57:55.190" end="00:58:03.350" style="s2">events coming up Amy would you like to</p>
+<p begin="00:57:57.860" end="00:58:04.850" style="s2">plug your your upcoming event sure I</p>
+<p begin="00:58:03.350" end="00:58:07.520" style="s2">don&#39;t know if I can plug it but</p>
+<p begin="00:58:04.850" end="00:58:10.810" style="s2">basically on the heat of the talking</p>
+<p begin="00:58:07.520" end="00:58:13.670" style="s2">about archetypes Louie will be kind of</p>
+<p begin="00:58:10.810" end="00:58:16.850" style="s2">exploring masculine feminine archetypes</p>
+<p begin="00:58:13.670" end="00:58:23.380" style="s2">and think they actually can be reformed</p>
+<p begin="00:58:16.850" end="00:58:23.380" style="s2">and recast in more contemporary terms</p>
+<p begin="00:58:23.620" end="00:58:29.150" style="s2">awesome a really important conversation</p>
+<p begin="00:58:25.550" end="00:58:30.860" style="s2">for us all to be having and then is</p>
+<p begin="00:58:29.150" end="00:58:35.600" style="s2">Tyson do you want to talk about your</p>
+<p begin="00:58:30.860" end="00:58:37.400" style="s2">event as well thank you yes freestyling</p>
+<p begin="00:58:35.600" end="00:58:39.890" style="s2">through a pandemic is the name of the</p>
+<p begin="00:58:37.400" end="00:58:42.260" style="s2">event and we will be exploring our</p>
+<p begin="00:58:39.890" end="00:58:43.840" style="s2">musicality and rhythm and poetry through</p>
+<p begin="00:58:42.260" end="00:58:45.670" style="s2">freestyle rap</p>
+<p begin="00:58:43.840" end="00:58:47.680" style="s2">and in my experience it has been one of</p>
+<p begin="00:58:45.670" end="00:58:49.450" style="s2">the most powerful ways for me to connect</p>
+<p begin="00:58:47.680" end="00:58:51.910" style="s2">with people and get to know people</p>
+<p begin="00:58:49.450" end="00:58:53.140" style="s2">experienced group flow is through music</p>
+<p begin="00:58:51.910" end="00:58:55.180" style="s2">and it&#39;s an especially interesting</p>
+<p begin="00:58:53.140" end="00:58:57.160" style="s2">experiment done through zoom on finding</p>
+<p begin="00:58:55.180" end="00:58:58.450" style="s2">and last time was really fun so we&#39;re</p>
+<p begin="00:58:57.160" end="00:59:00.550" style="s2">gonna build on that energy and momentum</p>
+<p begin="00:58:58.450" end="00:59:03.070" style="s2">and I look forward to flowing with you</p>
+<p begin="00:59:00.550" end="00:59:06.580" style="s2">all there that&#39;s tomorrow at 8:00</p>
+<p begin="00:59:03.070" end="00:59:09.270" style="s2">Eastern yeah I&#39;m feeling nervous about</p>
+<p begin="00:59:06.580" end="00:59:09.270" style="s2">coming already</p>
+<p begin="00:59:09.570" end="00:59:15.730" style="s2">yeah but I&#39;m excited all right and with</p>
+<p begin="00:59:12.760" end="00:59:17.860" style="s2">that we see the stoah as a gift for</p>
+<p begin="00:59:15.730" end="00:59:19.570" style="s2">everyone to be using at this time and if</p>
+<p begin="00:59:17.860" end="00:59:22.090" style="s2">you feel inspired to give a gift to the</p>
+<p begin="00:59:19.570" end="00:59:27.190" style="s2">Stila you can visit us at the stove ta</p>
+<p begin="00:59:22.090" end="00:59:28.810" style="s2">under the gift economy that we are we&#39;ve</p>
+<p begin="00:59:27.190" end="00:59:31.500" style="s2">come to a close thank you everyone for</p>
+<p begin="00:59:28.810" end="00:59:31.500" style="s2">being here</p>
+</div>
+</body>
+</tt>

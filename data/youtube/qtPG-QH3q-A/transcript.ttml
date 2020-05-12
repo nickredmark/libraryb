@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:05.160" style="s2">hey folks Brett here this video is a</p>
+<p begin="00:00:02.850" end="00:00:07.410" style="s2">response to a recent patreon poll that</p>
+<p begin="00:00:05.160" end="00:00:10.679" style="s2">asked me to discuss 4th frontier ideas</p>
+<p begin="00:00:07.410" end="00:00:13.049" style="s2">game theory and the echo chamber that</p>
+<p begin="00:00:10.679" end="00:00:15.599" style="s2">makes recognition of our predicament and</p>
+<p begin="00:00:13.049" end="00:00:19.050" style="s2">civilizations so difficult to discuss so</p>
+<p begin="00:00:15.599" end="00:00:23.250" style="s2">the real problem is that we are faced</p>
+<p begin="00:00:19.050" end="00:00:24.990" style="s2">with an old obstacle that we have good</p>
+<p begin="00:00:23.250" end="00:00:26.939" style="s2">tools for dealing with and we are faced</p>
+<p begin="00:00:24.990" end="00:00:31.260" style="s2">with a new obstacle that we have no</p>
+<p begin="00:00:26.939" end="00:00:33.120" style="s2">tools for dealing with and the overlap</p>
+<p begin="00:00:31.260" end="00:00:37.879" style="s2">between those is what&#39;s putting us in</p>
+<p begin="00:00:33.120" end="00:00:41.760" style="s2">danger the human species is built to</p>
+<p begin="00:00:37.879" end="00:00:43.649" style="s2">move between niches populations have</p>
+<p begin="00:00:41.760" end="00:00:48.800" style="s2">regularly moved between niches over</p>
+<p begin="00:00:43.649" end="00:00:52.739" style="s2">evolutionary historical time but the</p>
+<p begin="00:00:48.800" end="00:00:54.390" style="s2">jumps are not necessarily smooth in</p>
+<p begin="00:00:52.739" end="00:00:57.989" style="s2">other words looking backwards it may</p>
+<p begin="00:00:54.390" end="00:01:00.090" style="s2">seem that a population has discovered a</p>
+<p begin="00:00:57.989" end="00:01:02.010" style="s2">new technology or a new landmass and it</p>
+<p begin="00:01:00.090" end="00:01:03.809" style="s2">has moved from doing one thing to</p>
+<p begin="00:01:02.010" end="00:01:06.890" style="s2">another and it all looks very good but</p>
+<p begin="00:01:03.809" end="00:01:09.930" style="s2">the historical record suffers from</p>
+<p begin="00:01:06.890" end="00:01:12.180" style="s2">survivor bias in the sense that we don&#39;t</p>
+<p begin="00:01:09.930" end="00:01:14.090" style="s2">see necessarily those fractions the</p>
+<p begin="00:01:12.180" end="00:01:19.470" style="s2">population that failed to make the jump</p>
+<p begin="00:01:14.090" end="00:01:22.530" style="s2">so the bias in what we have available</p>
+<p begin="00:01:19.470" end="00:01:25.140" style="s2">does not alert us to the full danger of</p>
+<p begin="00:01:22.530" end="00:01:29.640" style="s2">one of these transitions in our case</p>
+<p begin="00:01:25.140" end="00:01:32.600" style="s2">we&#39;ve also built a technological</p>
+<p begin="00:01:29.640" end="00:01:36.720" style="s2">architecture that is simultaneously</p>
+<p begin="00:01:32.600" end="00:01:39.900" style="s2">fragile and very highly energized in</p>
+<p begin="00:01:36.720" end="00:01:42.899" style="s2">other words it was possible not</p>
+<p begin="00:01:39.900" end="00:01:45.360" style="s2">desirable but possible for ancestral</p>
+<p begin="00:01:42.899" end="00:01:47.579" style="s2">populations to go through a serious</p>
+<p begin="00:01:45.360" end="00:01:50.820" style="s2">bottleneck and to come out the better</p>
+<p begin="00:01:47.579" end="00:01:53.070" style="s2">for it on the other side even if a large</p>
+<p begin="00:01:50.820" end="00:01:55.020" style="s2">fraction of the population was lost in</p>
+<p begin="00:01:53.070" end="00:01:56.939" style="s2">the process of one of these things the</p>
+<p begin="00:01:55.020" end="00:02:01.110" style="s2">population could rebound on the other</p>
+<p begin="00:01:56.939" end="00:02:03.990" style="s2">side to an even larger size and so to us</p>
+<p begin="00:02:01.110" end="00:02:05.340" style="s2">it would look like a success but in our</p>
+<p begin="00:02:03.990" end="00:02:08.250" style="s2">case what we&#39;ve done is we&#39;ve</p>
+<p begin="00:02:05.340" end="00:02:11.250" style="s2">constructed these technological</p>
+<p begin="00:02:08.250" end="00:02:13.250" style="s2">structures like for example nuclear</p>
+<p begin="00:02:11.250" end="00:02:16.280" style="s2">power plants that require</p>
+<p begin="00:02:13.250" end="00:02:18.110" style="s2">constant maintenance and an input of</p>
+<p begin="00:02:16.280" end="00:02:22.790" style="s2">power in order to keep them from</p>
+<p begin="00:02:18.110" end="00:02:25.130" style="s2">exploding we can&#39;t have a collapse in</p>
+<p begin="00:02:22.790" end="00:02:27.620" style="s2">the midst of a series of nuclear</p>
+<p begin="00:02:25.130" end="00:02:32.000" style="s2">reactors that can&#39;t endure a week with</p>
+<p begin="00:02:27.620" end="00:02:36.820" style="s2">no tending so we&#39;ve built a system that</p>
+<p begin="00:02:32.000" end="00:02:39.530" style="s2">is not conducive to our deploying our</p>
+<p begin="00:02:36.820" end="00:02:42.610" style="s2">core skillset the one that allows us to</p>
+<p begin="00:02:39.530" end="00:02:46.880" style="s2">chain from doing one thing to another so</p>
+<p begin="00:02:42.610" end="00:02:49.430" style="s2">the question of the fourth frontier is</p>
+<p begin="00:02:46.880" end="00:02:52.610" style="s2">several questions interrelated</p>
+<p begin="00:02:49.430" end="00:02:54.770" style="s2">one is is there somewhere to go is there</p>
+<p begin="00:02:52.610" end="00:02:56.750" style="s2">some new way that humanity could</p>
+<p begin="00:02:54.770" end="00:03:00.260" style="s2">organize itself that would be viable</p>
+<p begin="00:02:56.750" end="00:03:02.810" style="s2">that would satisfy the human population</p>
+<p begin="00:03:00.260" end="00:03:06.260" style="s2">both in terms of its physical needs but</p>
+<p begin="00:03:02.810" end="00:03:08.420" style="s2">also that would work for it people</p>
+<p begin="00:03:06.260" end="00:03:10.100" style="s2">emotionally so that they would feel good</p>
+<p begin="00:03:08.420" end="00:03:11.150" style="s2">in the context enough that they wouldn&#39;t</p>
+<p begin="00:03:10.100" end="00:03:14.239" style="s2">revolt against it</p>
+<p begin="00:03:11.150" end="00:03:16.280" style="s2">is there somewhere to go and then is</p>
+<p begin="00:03:14.239" end="00:03:18.049" style="s2">there a path that would actually allow</p>
+<p begin="00:03:16.280" end="00:03:20.600" style="s2">the transition assuming that there is</p>
+<p begin="00:03:18.049" end="00:03:23.360" style="s2">somewhere to go I believe the answer to</p>
+<p begin="00:03:20.600" end="00:03:26.560" style="s2">is there somewhere to go is clearly yes</p>
+<p begin="00:03:23.360" end="00:03:30.650" style="s2">that we can see from here</p>
+<p begin="00:03:26.560" end="00:03:33.320" style="s2">enough of the structure to prototype it</p>
+<p begin="00:03:30.650" end="00:03:35.720" style="s2">and that there is no obvious reason that</p>
+<p begin="00:03:33.320" end="00:03:41.450" style="s2">a prototype could not be revived refined</p>
+<p begin="00:03:35.720" end="00:03:43.970" style="s2">into a sustainable ongoing system for</p>
+<p begin="00:03:41.450" end="00:03:46.970" style="s2">Humanity a functional one that would</p>
+<p begin="00:03:43.970" end="00:03:49.760" style="s2">actually I believe feel excellent to the</p>
+<p begin="00:03:46.970" end="00:03:51.440" style="s2">participants I&#39;m much less convinced</p>
+<p begin="00:03:49.760" end="00:03:54.430" style="s2">about the question of the path there</p>
+<p begin="00:03:51.440" end="00:03:58.970" style="s2">because although I think there are</p>
+<p begin="00:03:54.430" end="00:04:03.980" style="s2">conceivable paths there we are not built</p>
+<p begin="00:03:58.970" end="00:04:06.950" style="s2">to embark until signals that we have to</p>
+<p begin="00:04:03.980" end="00:04:10.820" style="s2">and those signals will come too late in</p>
+<p begin="00:04:06.950" end="00:04:14.269" style="s2">other words we are comfortable in modern</p>
+<p begin="00:04:10.820" end="00:04:16.669" style="s2">times because our basic needs are so</p>
+<p begin="00:04:14.269" end="00:04:18.680" style="s2">thoroughly taken care of the things that</p>
+<p begin="00:04:16.669" end="00:04:21.830" style="s2">would motivate an ancestral population</p>
+<p begin="00:04:18.680" end="00:04:24.050" style="s2">to rethink what it&#39;s doing hunger or</p>
+<p begin="00:04:21.830" end="00:04:26.930" style="s2">exposure to</p>
+<p begin="00:04:24.050" end="00:04:28.910" style="s2">climatic fluctuations that were</p>
+<p begin="00:04:26.930" end="00:04:31.250" style="s2">intolerable or something like that those</p>
+<p begin="00:04:28.910" end="00:04:33.169" style="s2">things don&#39;t happen to us we live in</p>
+<p begin="00:04:31.250" end="00:04:36.380" style="s2">buildings that keep us comfortable</p>
+<p begin="00:04:33.169" end="00:04:38.539" style="s2">throughout the year we are barely aware</p>
+<p begin="00:04:36.380" end="00:04:41.930" style="s2">that it&#39;s harvest season so we don&#39;t</p>
+<p begin="00:04:38.539" end="00:04:44.509" style="s2">know even if a harvest were to fail in</p>
+<p begin="00:04:41.930" end="00:04:46.490" style="s2">the wealthy part of the world food would</p>
+<p begin="00:04:44.509" end="00:04:48.069" style="s2">come from somewhere else and the only</p>
+<p begin="00:04:46.490" end="00:04:51.560" style="s2">detectable indication that we weren&#39;t</p>
+<p begin="00:04:48.069" end="00:04:54.319" style="s2">actually achieving sustainability at the</p>
+<p begin="00:04:51.560" end="00:04:56.479" style="s2">level of the calorie input would be a</p>
+<p begin="00:04:54.319" end="00:04:58.610" style="s2">spike in the price of food but we</p>
+<p begin="00:04:56.479" end="00:05:01.310" style="s2">wouldn&#39;t have the normal triggers that</p>
+<p begin="00:04:58.610" end="00:05:03.830" style="s2">would cause us to retool which would</p>
+<p begin="00:05:01.310" end="00:05:06.770" style="s2">almost inevitably involve a certain</p>
+<p begin="00:05:03.830" end="00:05:10.660" style="s2">amount of hunger so in the absence of</p>
+<p begin="00:05:06.770" end="00:05:12.410" style="s2">those signals we are liable to wait</p>
+<p begin="00:05:10.660" end="00:05:14.840" style="s2">imagining that we are better off</p>
+<p begin="00:05:12.410" end="00:05:18.380" style="s2">sticking with our current plan than</p>
+<p begin="00:05:14.840" end="00:05:20.750" style="s2">imagining taking the risk of up ending</p>
+<p begin="00:05:18.380" end="00:05:23.000" style="s2">that plan until the point that those</p>
+<p begin="00:05:20.750" end="00:05:26.659" style="s2">signals do arrive and my concern is that</p>
+<p begin="00:05:23.000" end="00:05:30.289" style="s2">the point at which signals as serious as</p>
+<p begin="00:05:26.659" end="00:05:31.840" style="s2">hunger arrive in the first world is a</p>
+<p begin="00:05:30.289" end="00:05:35.470" style="s2">point at which things have gone very</p>
+<p begin="00:05:31.840" end="00:05:38.060" style="s2">seriously awry and the technologies that</p>
+<p begin="00:05:35.470" end="00:05:40.460" style="s2">happen without our awareness the nuclear</p>
+<p begin="00:05:38.060" end="00:05:43.610" style="s2">reactors and other technologies that</p>
+<p begin="00:05:40.460" end="00:05:46.190" style="s2">actually our survival is contingent on</p>
+<p begin="00:05:43.610" end="00:05:50.570" style="s2">at this point those things will be in</p>
+<p begin="00:05:46.190" end="00:05:53.240" style="s2">danger of sudden spectacular failure at</p>
+<p begin="00:05:50.570" end="00:05:55.190" style="s2">the point that we as individual humans</p>
+<p begin="00:05:53.240" end="00:05:58.729" style="s2">begin to detect that things have gone</p>
+<p begin="00:05:55.190" end="00:06:01.370" style="s2">off the rails and that sets us up for</p>
+<p begin="00:05:58.729" end="00:06:04.789" style="s2">disaster so one of the things that I&#39;ve</p>
+<p begin="00:06:01.370" end="00:06:09.020" style="s2">been interested in talking to different</p>
+<p begin="00:06:04.789" end="00:06:12.020" style="s2">audiences about is how to recognize that</p>
+<p begin="00:06:09.020" end="00:06:15.620" style="s2">although civilization functions very</p>
+<p begin="00:06:12.020" end="00:06:18.199" style="s2">well at a day to day level for many</p>
+<p begin="00:06:15.620" end="00:06:22.280" style="s2">people and the closer you are to being</p>
+<p begin="00:06:18.199" end="00:06:23.870" style="s2">powerful enough to motivate change the</p>
+<p begin="00:06:22.280" end="00:06:25.099" style="s2">more likely it is that civilization is</p>
+<p begin="00:06:23.870" end="00:06:29.330" style="s2">working for you</p>
+<p begin="00:06:25.099" end="00:06:32.150" style="s2">so alerting people to ways that even if</p>
+<p begin="00:06:29.330" end="00:06:36.050" style="s2">the somatic sense that things are</p>
+<p begin="00:06:32.150" end="00:06:37.320" style="s2">functional is very convincing that one</p>
+<p begin="00:06:36.050" end="00:06:40.890" style="s2">can detect that it</p>
+<p begin="00:06:37.320" end="00:06:43.230" style="s2">and go on very long in this manner that</p>
+<p begin="00:06:40.890" end="00:06:47.280" style="s2">our trajectory is not stable and that</p>
+<p begin="00:06:43.230" end="00:06:50.370" style="s2">the end result of continuing in this</p>
+<p begin="00:06:47.280" end="00:06:52.320" style="s2">direction will be catastrophe and that</p>
+<p begin="00:06:50.370" end="00:06:56.330" style="s2">it doesn&#39;t have to be that by</p>
+<p begin="00:06:52.320" end="00:07:00.090" style="s2">recognizing where we are heading we can</p>
+<p begin="00:06:56.330" end="00:07:01.860" style="s2">shift modes we can employ the toolkit</p>
+<p begin="00:07:00.090" end="00:07:04.290" style="s2">that our ancestors would have employed</p>
+<p begin="00:07:01.860" end="00:07:06.240" style="s2">to shift from one niche to another we</p>
+<p begin="00:07:04.290" end="00:07:08.850" style="s2">can employ that deliberately consciously</p>
+<p begin="00:07:06.240" end="00:07:11.880" style="s2">and intelligently and the earlier we do</p>
+<p begin="00:07:08.850" end="00:07:14.550" style="s2">it the less painful it will be in fact</p>
+<p begin="00:07:11.880" end="00:07:17.550" style="s2">one of the great tragedies that I think</p>
+<p begin="00:07:14.550" end="00:07:20.640" style="s2">we face is that because we have</p>
+<p begin="00:07:17.550" end="00:07:24.120" style="s2">somatically taken care of our basic</p>
+<p begin="00:07:20.640" end="00:07:26.700" style="s2">needs so effectively that we are maybe</p>
+<p begin="00:07:24.120" end="00:07:29.190" style="s2">thirty years too late in recognizing the</p>
+<p begin="00:07:26.700" end="00:07:33.840" style="s2">signs that we must change in order to</p>
+<p begin="00:07:29.190" end="00:07:35.850" style="s2">survive and that means the opportunities</p>
+<p begin="00:07:33.840" end="00:07:37.380" style="s2">to change are much more limited than</p>
+<p begin="00:07:35.850" end="00:07:41.850" style="s2">they would have been if we&#39;d started 30</p>
+<p begin="00:07:37.380" end="00:07:44.730" style="s2">years ago and the risk of not making the</p>
+<p begin="00:07:41.850" end="00:07:46.560" style="s2">jump is that much greater nonetheless</p>
+<p begin="00:07:44.730" end="00:07:48.810" style="s2">it&#39;s not an argument against doing it</p>
+<p begin="00:07:46.560" end="00:07:51.390" style="s2">because we may be thirty years too late</p>
+<p begin="00:07:48.810" end="00:07:55.590" style="s2">but being forty years too late would be</p>
+<p begin="00:07:51.390" end="00:07:59.040" style="s2">vastly worse those who do not see that</p>
+<p begin="00:07:55.590" end="00:08:02.480" style="s2">necessity have an advantage over those</p>
+<p begin="00:07:59.040" end="00:08:05.450" style="s2">of us who do see it in the day-to-day</p>
+<p begin="00:08:02.480" end="00:08:08.520" style="s2">participation in the marketplace if you</p>
+<p begin="00:08:05.450" end="00:08:10.730" style="s2">imagine that there is no problem that</p>
+<p begin="00:08:08.520" end="00:08:13.980" style="s2">requires humanity&#39;s urgent attention</p>
+<p begin="00:08:10.730" end="00:08:16.800" style="s2">then you have all kinds of options if</p>
+<p begin="00:08:13.980" end="00:08:19.980" style="s2">you recognize that somehow whatever you</p>
+<p begin="00:08:16.800" end="00:08:22.620" style="s2">do day to day has to fit with some plan</p>
+<p begin="00:08:19.980" end="00:08:24.080" style="s2">for changing what humans do day to day</p>
+<p begin="00:08:22.620" end="00:08:26.670" style="s2">in the future</p>
+<p begin="00:08:24.080" end="00:08:30.240" style="s2">your options are much more limited and</p>
+<p begin="00:08:26.670" end="00:08:36.090" style="s2">so that advantage is particularly</p>
+<p begin="00:08:30.240" end="00:08:39.770" style="s2">hazardous in a market-based democracy</p>
+<p begin="00:08:36.090" end="00:08:44.490" style="s2">where power accrues to those who have</p>
+<p begin="00:08:39.770" end="00:08:48.000" style="s2">accumulated wealth if those who do not</p>
+<p begin="00:08:44.490" end="00:08:49.860" style="s2">see the necessity to change accumulate</p>
+<p begin="00:08:48.000" end="00:08:52.110" style="s2">wealth at a higher rate because</p>
+<p begin="00:08:49.860" end="00:08:55.320" style="s2">they are freer in their business lives</p>
+<p begin="00:08:52.110" end="00:08:58.230" style="s2">then their message that we do not need</p>
+<p begin="00:08:55.320" end="00:09:01.260" style="s2">to change begins to take hold as if it</p>
+<p begin="00:08:58.230" end="00:09:06.180" style="s2">were enlightened this is actually the</p>
+<p begin="00:09:01.260" end="00:09:08.130" style="s2">core of what conservatism is and I&#39;m not</p>
+<p begin="00:09:06.180" end="00:09:10.019" style="s2">saying that there is never a moment for</p>
+<p begin="00:09:08.130" end="00:09:12.060" style="s2">conservatism there are moments in</p>
+<p begin="00:09:10.019" end="00:09:15.209" style="s2">history where conservatism is exactly</p>
+<p begin="00:09:12.060" end="00:09:18.899" style="s2">the right thing any moment at which your</p>
+<p begin="00:09:15.209" end="00:09:20.940" style="s2">system is so functional that you would</p>
+<p begin="00:09:18.899" end="00:09:23.399" style="s2">be making an error to change it because</p>
+<p begin="00:09:20.940" end="00:09:25.110" style="s2">your chances of making it worse vastly</p>
+<p begin="00:09:23.399" end="00:09:28.290" style="s2">exceed your chances of making it better</p>
+<p begin="00:09:25.110" end="00:09:31.170" style="s2">is a moment for conservatism but at the</p>
+<p begin="00:09:28.290" end="00:09:34.470" style="s2">moment what we have is a functional</p>
+<p begin="00:09:31.170" end="00:09:37.740" style="s2">system that cannot persist and therefore</p>
+<p begin="00:09:34.470" end="00:09:40.500" style="s2">must be changed but people who have a</p>
+<p begin="00:09:37.740" end="00:09:42.720" style="s2">conservative reaction to it we dare not</p>
+<p begin="00:09:40.500" end="00:09:44.970" style="s2">change those people have an economic</p>
+<p begin="00:09:42.720" end="00:09:47.430" style="s2">advantage and they therefore have a much</p>
+<p begin="00:09:44.970" end="00:09:51.029" style="s2">greater influence in the public dialogue</p>
+<p begin="00:09:47.430" end="00:09:55.130" style="s2">about where we are in history so one</p>
+<p begin="00:09:51.029" end="00:09:57.329" style="s2">thing that we must do is wake</p>
+<p begin="00:09:55.130" end="00:09:59.699" style="s2">conservatives to the hazard of the</p>
+<p begin="00:09:57.329" end="00:10:01.860" style="s2">trajectory we are on in spite of the</p>
+<p begin="00:09:59.699" end="00:10:03.839" style="s2">fact that the day to day signals seem</p>
+<p begin="00:10:01.860" end="00:10:05.550" style="s2">very positive about where we are for</p>
+<p begin="00:10:03.839" end="00:10:09.329" style="s2">many people at the same time we are</p>
+<p begin="00:10:05.550" end="00:10:13.440" style="s2">talking about the traditional blind spot</p>
+<p begin="00:10:09.329" end="00:10:15.930" style="s2">of conservatives where they sometimes</p>
+<p begin="00:10:13.440" end="00:10:18.089" style="s2">correctly and sometimes inaccurately see</p>
+<p begin="00:10:15.930" end="00:10:20.390" style="s2">the system as so functional that it</p>
+<p begin="00:10:18.089" end="00:10:23.790" style="s2">shouldn&#39;t be tinkered with we can also</p>
+<p begin="00:10:20.390" end="00:10:25.399" style="s2">point the lens at progressives at the</p>
+<p begin="00:10:23.790" end="00:10:28.649" style="s2">moment and recognize that although</p>
+<p begin="00:10:25.399" end="00:10:30.690" style="s2">progressives may in general be right</p>
+<p begin="00:10:28.649" end="00:10:33.949" style="s2">that it is a moment at which change is</p>
+<p begin="00:10:30.690" end="00:10:37.380" style="s2">necessary there does not seem to be a</p>
+<p begin="00:10:33.949" end="00:10:40.430" style="s2">coherence on the left about what sort of</p>
+<p begin="00:10:37.380" end="00:10:43.769" style="s2">change is desirable and one one talks to</p>
+<p begin="00:10:40.430" end="00:10:46.589" style="s2">liberals one frequently finds in modern</p>
+<p begin="00:10:43.769" end="00:10:49.279" style="s2">times that what they have is really just</p>
+<p begin="00:10:46.589" end="00:10:51.089" style="s2">a rehashing of traditional liberal</p>
+<p begin="00:10:49.279" end="00:10:53.490" style="s2">positions some of which have been</p>
+<p begin="00:10:51.089" end="00:10:57.899" style="s2">thoroughly discredited by history</p>
+<p begin="00:10:53.490" end="00:11:00.209" style="s2">so conservatives need to be awakened to</p>
+<p begin="00:10:57.899" end="00:11:01.820" style="s2">the necessity for us to change a system</p>
+<p begin="00:11:00.209" end="00:11:04.430" style="s2">that seems functional</p>
+<p begin="00:11:01.820" end="00:11:06.920" style="s2">and liberals need to be awakened to the</p>
+<p begin="00:11:04.430" end="00:11:09.380" style="s2">fact that the ideas that they always</p>
+<p begin="00:11:06.920" end="00:11:11.750" style="s2">imagined would make the world a good</p>
+<p begin="00:11:09.380" end="00:11:16.070" style="s2">stable functional place are inadequate</p>
+<p begin="00:11:11.750" end="00:11:19.520" style="s2">to the challenge and so both these sets</p>
+<p begin="00:11:16.070" end="00:11:21.950" style="s2">of people need to come together around</p>
+<p begin="00:11:19.520" end="00:11:24.440" style="s2">the idea that change is necessary but</p>
+<p begin="00:11:21.950" end="00:11:26.660" style="s2">nobody yet knows what that change should</p>
+<p begin="00:11:24.440" end="00:11:28.670" style="s2">look like hey folks if you like this</p>
+<p begin="00:11:26.660" end="00:11:30.620" style="s2">video click like subscribe to the</p>
+<p begin="00:11:28.670" end="00:11:32.090" style="s2">channel and if you feel like supporting</p>
+<p begin="00:11:30.620" end="00:11:34.790" style="s2">the creation of more content like this</p>
+<p begin="00:11:32.090" end="00:11:38.320" style="s2">head on over to my patreon page and sign</p>
+<p begin="00:11:34.790" end="00:11:38.320" style="s2">up at whatever level feels comfortable</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:02.829" style="s2">[Music]</p>
+<p begin="00:00:05.029" end="00:00:10.800" style="s2">Jeff you recently did a podcast for the</p>
+<p begin="00:00:08.790" end="00:00:14.219" style="s2">daily Evolver about Jordan Peterson and</p>
+<p begin="00:00:10.800" end="00:00:15.960" style="s2">I was really struck by of all of the</p>
+<p begin="00:00:14.219" end="00:00:17.520" style="s2">critiques that I&#39;ve seen and I&#39;ve done a</p>
+<p begin="00:00:15.960" end="00:00:19.830" style="s2">couple of documentaries about Peterson</p>
+<p begin="00:00:17.520" end="00:00:22.619" style="s2">now so I&#39;ve been sort of studying the</p>
+<p begin="00:00:19.830" end="00:00:24.420" style="s2">phenomenon fairly fairly closely and a</p>
+<p begin="00:00:22.619" end="00:00:28.230" style="s2">lot of the critiques that I&#39;ve seen have</p>
+<p begin="00:00:24.420" end="00:00:30.210" style="s2">come from quite a they seem a little bit</p>
+<p begin="00:00:28.230" end="00:00:32.910" style="s2">unfair or a little bit shrill or a bit</p>
+<p begin="00:00:30.210" end="00:00:35.070" style="s2">reactive and I wondered a couple of</p>
+<p begin="00:00:32.910" end="00:00:38.879" style="s2">things and your critique actually seemed</p>
+<p begin="00:00:35.070" end="00:00:43.379" style="s2">very very generous it seemed to be</p>
+<p begin="00:00:38.879" end="00:00:46.500" style="s2">coming from a place of yes and with</p>
+<p begin="00:00:43.379" end="00:00:51.120" style="s2">Peterson rather than a kind of objection</p>
+<p begin="00:00:46.500" end="00:00:53.340" style="s2">or or a feeling of reactivity towards</p>
+<p begin="00:00:51.120" end="00:00:55.140" style="s2">Peterson I wonder I&#39;ve got a couple of</p>
+<p begin="00:00:53.340" end="00:00:58.550" style="s2">questions what one is why do you think</p>
+<p begin="00:00:55.140" end="00:01:02.280" style="s2">he creates that kind of reactivity and</p>
+<p begin="00:00:58.550" end="00:01:07.439" style="s2">why did your critique not have that</p>
+<p begin="00:01:02.280" end="00:01:10.650" style="s2">reactivity well I think he creates that</p>
+<p begin="00:01:07.439" end="00:01:15.060" style="s2">kind of reactivity because most people</p>
+<p begin="00:01:10.650" end="00:01:16.830" style="s2">are mano perspectival and you know just</p>
+<p begin="00:01:15.060" end="00:01:19.460" style="s2">to put a little bit of integral theory</p>
+<p begin="00:01:16.830" end="00:01:22.439" style="s2">on the table there&#39;s basically three</p>
+<p begin="00:01:19.460" end="00:01:24.750" style="s2">worldviews that are online in the</p>
+<p begin="00:01:22.439" end="00:01:27.450" style="s2">developed world right now that are in</p>
+<p begin="00:01:24.750" end="00:01:29.759" style="s2">contention the traditionalist worldview</p>
+<p begin="00:01:27.450" end="00:01:32.189" style="s2">which is you know more ethnocentric</p>
+<p begin="00:01:29.759" end="00:01:35.100" style="s2">religious conservative so forth the</p>
+<p begin="00:01:32.189" end="00:01:36.869" style="s2">modernist worldview which is secular and</p>
+<p begin="00:01:35.100" end="00:01:39.630" style="s2">sort of the business people the academic</p>
+<p begin="00:01:36.869" end="00:01:41.659" style="s2">whatever and the postmodern which is</p>
+<p begin="00:01:39.630" end="00:01:43.350" style="s2">more civil rights and you know</p>
+<p begin="00:01:41.659" end="00:01:46.170" style="s2">rehabilitating the people who have been</p>
+<p begin="00:01:43.350" end="00:01:48.750" style="s2">left behind and sensitivity and all of</p>
+<p begin="00:01:46.170" end="00:01:50.070" style="s2">that sort of thing so these are every</p>
+<p begin="00:01:48.750" end="00:01:53.520" style="s2">one of them thinks that they&#39;re right</p>
+<p begin="00:01:50.070" end="00:01:56.369" style="s2">and every one of them is at this stage</p>
+<p begin="00:01:53.520" end="00:01:58.890" style="s2">of that game because we have just in</p>
+<p begin="00:01:56.369" end="00:02:01.020" style="s2">terms of the development of cultures and</p>
+<p begin="00:01:58.890" end="00:02:03.659" style="s2">I&#39;m talking in the developed world we&#39;ve</p>
+<p begin="00:02:01.020" end="00:02:06.149" style="s2">polarized so we really know which side</p>
+<p begin="00:02:03.659" end="00:02:07.950" style="s2">of the street we&#39;re on you know so you</p>
+<p begin="00:02:06.149" end="00:02:10.800" style="s2">have a guy like Jordan Peterson come</p>
+<p begin="00:02:07.950" end="00:02:13.660" style="s2">along and he&#39;s actually has a facility</p>
+<p begin="00:02:10.800" end="00:02:16.240" style="s2">at all of these stages and</p>
+<p begin="00:02:13.660" end="00:02:20.650" style="s2">you know nobody knows where to put him</p>
+<p begin="00:02:16.240" end="00:02:23.140" style="s2">and so if he has a conservative of you</p>
+<p begin="00:02:20.650" end="00:02:25.930" style="s2">or if he comes where he&#39;s from where</p>
+<p begin="00:02:23.140" end="00:02:29.460" style="s2">he&#39;s defending religion or traditional</p>
+<p begin="00:02:25.930" end="00:02:33.610" style="s2">sex roles or things like you know</p>
+<p begin="00:02:29.460" end="00:02:37.240" style="s2">self-discipline and humility and then</p>
+<p begin="00:02:33.610" end="00:02:39.540" style="s2">people think he&#39;s in that box of the you</p>
+<p begin="00:02:37.240" end="00:02:44.350" style="s2">know crazy religious conservative and</p>
+<p begin="00:02:39.540" end="00:02:49.480" style="s2">you know the were you know were were</p>
+<p begin="00:02:44.350" end="00:02:51.790" style="s2">often running so that so to appreciate</p>
+<p begin="00:02:49.480" end="00:02:54.520" style="s2">Jordan Peterson you also have to be</p>
+<p begin="00:02:51.790" end="00:02:56.290" style="s2">somewhat mano perspectival and when I</p>
+<p begin="00:02:54.520" end="00:02:58.270" style="s2">talked about there being three stages</p>
+<p begin="00:02:56.290" end="00:03:01.210" style="s2">online traditional modern and postmodern</p>
+<p begin="00:02:58.270" end="00:03:03.700" style="s2">we would also posit this is the integral</p>
+<p begin="00:03:01.210" end="00:03:06.940" style="s2">thing that there&#39;s a next stage online</p>
+<p begin="00:03:03.700" end="00:03:10.330" style="s2">called integral which is an integration</p>
+<p begin="00:03:06.940" end="00:03:13.840" style="s2">of the best of what all of the three</p>
+<p begin="00:03:10.330" end="00:03:16.600" style="s2">previous stages have to offer okay so it</p>
+<p begin="00:03:13.840" end="00:03:19.270" style="s2">has the capacity to hold all three of</p>
+<p begin="00:03:16.600" end="00:03:22.180" style="s2">those stages and Jordan Peterson has</p>
+<p begin="00:03:19.270" end="00:03:25.240" style="s2">that capacity and that&#39;s why he&#39;s hit</p>
+<p begin="00:03:22.180" end="00:03:31.680" style="s2">such a nerve and and and and has been so</p>
+<p begin="00:03:25.240" end="00:03:31.680" style="s2">thrilling and also in terms of where he</p>
+<p begin="00:03:32.010" end="00:03:36.670" style="s2">well</p>
+<p begin="00:03:33.310" end="00:03:37.900" style="s2">maybe I&#39;ll stop there and and see would</p>
+<p begin="00:03:36.670" end="00:03:39.640" style="s2">you would you cite from the old</p>
+<p begin="00:03:37.900" end="00:03:44.050" style="s2">perspective he is an integral thinker</p>
+<p begin="00:03:39.640" end="00:03:45.610" style="s2">yes I would he is able to definitely</p>
+<p begin="00:03:44.050" end="00:03:50.500" style="s2">think integrally he has integral</p>
+<p begin="00:03:45.610" end="00:03:53.560" style="s2">cognition as we would say his his heart</p>
+<p begin="00:03:50.500" end="00:03:57.160" style="s2">in a way is in traditionalism in my</p>
+<p begin="00:03:53.560" end="00:04:00.820" style="s2">opinion in a way that I think keeps him</p>
+<p begin="00:03:57.160" end="00:04:05.230" style="s2">a little stuck there honestly but I</p>
+<p begin="00:04:00.820" end="00:04:10.720" style="s2">don&#39;t care because what he&#39;s doing is he</p>
+<p begin="00:04:05.230" end="00:04:13.300" style="s2">is helping this whole strata of people</p>
+<p begin="00:04:10.720" end="00:04:17.620" style="s2">who have never had traditionalism well</p>
+<p begin="00:04:13.300" end="00:04:20.680" style="s2">installed okay maybe they had postmodern</p>
+<p begin="00:04:17.620" end="00:04:22.210" style="s2">parents maybe they had read pre-modern</p>
+<p begin="00:04:20.680" end="00:04:25.570" style="s2">parents maybe they don&#39;t have any</p>
+<p begin="00:04:22.210" end="00:04:27.220" style="s2">parents but they didn&#39;t get the the</p>
+<p begin="00:04:25.570" end="00:04:29.320" style="s2">strata of tradition</p>
+<p begin="00:04:27.220" end="00:04:32.410" style="s2">which is where you&#39;re taught to sit down</p>
+<p begin="00:04:29.320" end="00:04:35.080" style="s2">and shut up where you have to be</p>
+<p begin="00:04:32.410" end="00:04:37.090" style="s2">obedient where you think that they&#39;re</p>
+<p begin="00:04:35.080" end="00:04:41.470" style="s2">theirs you see the sort of higher</p>
+<p begin="00:04:37.090" end="00:04:42.610" style="s2">natural hierarchies at least where</p>
+<p begin="00:04:41.470" end="00:04:45.400" style="s2">you&#39;re taught to be proud of your</p>
+<p begin="00:04:42.610" end="00:04:48.310" style="s2">country to have humility all of that</p>
+<p begin="00:04:45.400" end="00:04:51.790" style="s2">stuff and I guess the deepest story of</p>
+<p begin="00:04:48.310" end="00:04:53.800" style="s2">that is that your culture has value that</p>
+<p begin="00:04:51.790" end="00:04:56.710" style="s2">their solution airy story that has been</p>
+<p begin="00:04:53.800" end="00:04:58.540" style="s2">played out through through your culture</p>
+<p begin="00:04:56.710" end="00:04:59.920" style="s2">that you don&#39;t fully understand you</p>
+<p begin="00:04:58.540" end="00:05:02.410" style="s2">should have some kind of respect for</p>
+<p begin="00:04:59.920" end="00:05:05.100" style="s2">that absolutely absolutely</p>
+<p begin="00:05:02.410" end="00:05:08.830" style="s2">yes and that&#39;s the part that&#39;s</p>
+<p begin="00:05:05.100" end="00:05:11.920" style="s2">ethnocentric but and and really</p>
+<p begin="00:05:08.830" end="00:05:13.450" style="s2">difficult to for people who are at the</p>
+<p begin="00:05:11.920" end="00:05:15.370" style="s2">postmodern stage to have any</p>
+<p begin="00:05:13.450" end="00:05:18.070" style="s2">appreciation for that they just see it</p>
+<p begin="00:05:15.370" end="00:05:20.760" style="s2">as racist but so that&#39;s the integral</p>
+<p begin="00:05:18.070" end="00:05:26.490" style="s2">move is to see what is it about</p>
+<p begin="00:05:20.760" end="00:05:29.620" style="s2">Britishness what is it about persian as&#39;</p>
+<p begin="00:05:26.490" end="00:05:31.360" style="s2">chineseness Americanist what is it</p>
+<p begin="00:05:29.620" end="00:05:34.180" style="s2">that&#39;s so precious you could just feel</p>
+<p begin="00:05:31.360" end="00:05:37.210" style="s2">it ringing through the land you know</p>
+<p begin="00:05:34.180" end="00:05:40.930" style="s2">that&#39;s that&#39;s important we want to bring</p>
+<p begin="00:05:37.210" end="00:05:42.220" style="s2">that online and and you&#39;ve got to get</p>
+<p begin="00:05:40.930" end="00:05:43.780" style="s2">through green to do that you got to get</p>
+<p begin="00:05:42.220" end="00:05:47.530" style="s2">through post modernity to do that that</p>
+<p begin="00:05:43.780" end="00:05:50.770" style="s2">ain&#39;t easy just some some an interesting</p>
+<p begin="00:05:47.530" end="00:05:54.010" style="s2">tension that kind of you talked about on</p>
+<p begin="00:05:50.770" end="00:05:55.750" style="s2">your podcasts is that you know Peterson</p>
+<p begin="00:05:54.010" end="00:05:57.370" style="s2">has been asked a few times and I think</p>
+<p begin="00:05:55.750" end="00:06:00.460" style="s2">Jonathan rouse and also kind of asked</p>
+<p begin="00:05:57.370" end="00:06:03.370" style="s2">him around is okay so what elements of</p>
+<p begin="00:06:00.460" end="00:06:05.530" style="s2">post-modernism do we take forward and</p>
+<p begin="00:06:03.370" end="00:06:07.270" style="s2">his response was was sort of kind of</p>
+<p begin="00:06:05.530" end="00:06:09.970" style="s2">none this is pretty much ideological</p>
+<p begin="00:06:07.270" end="00:06:12.640" style="s2">possession I find that a very</p>
+<p begin="00:06:09.970" end="00:06:15.250" style="s2">interesting point because I think from a</p>
+<p begin="00:06:12.640" end="00:06:18.910" style="s2">lot of my kind of progressive or green</p>
+<p begin="00:06:15.250" end="00:06:19.900" style="s2">friends they that&#39;s the main sticking</p>
+<p begin="00:06:18.910" end="00:06:22.390" style="s2">point with them</p>
+<p begin="00:06:19.900" end="00:06:24.729" style="s2">I think it&#39;s that no but they&#39;re and I</p>
+<p begin="00:06:22.390" end="00:06:26.500" style="s2">would agree to you know to a degree</p>
+<p begin="00:06:24.729" end="00:06:28.780" style="s2">where it&#39;s like yeah there are some very</p>
+<p begin="00:06:26.500" end="00:06:30.910" style="s2">valuable things to take through so what</p>
+<p begin="00:06:28.780" end="00:06:33.100" style="s2">are your thoughts on his kind of stance</p>
+<p begin="00:06:30.910" end="00:06:34.720" style="s2">on that of like no you you throw it you</p>
+<p begin="00:06:33.100" end="00:06:36.940" style="s2">throw that baby out with the bathwater</p>
+<p begin="00:06:34.720" end="00:06:39.400" style="s2">yeah I think that&#39;s the part that is the</p>
+<p begin="00:06:36.940" end="00:06:40.570" style="s2">the real sticking part of him really</p>
+<p begin="00:06:39.400" end="00:06:42.820" style="s2">moving into a</p>
+<p begin="00:06:40.570" end="00:06:45.370" style="s2">integral embrace you know a real you</p>
+<p begin="00:06:42.820" end="00:06:47.700" style="s2">know where where his hearts more at the</p>
+<p begin="00:06:45.370" end="00:06:53.770" style="s2">integral stage instead of just his head</p>
+<p begin="00:06:47.700" end="00:06:56.380" style="s2">yeah he sees I think you know maybe he</p>
+<p begin="00:06:53.770" end="00:06:58.240" style="s2">has been as a lot of us have been who</p>
+<p begin="00:06:56.380" end="00:07:00.250" style="s2">have been in graduate school recently</p>
+<p begin="00:06:58.240" end="00:07:01.540" style="s2">you know sort of traumatized by the</p>
+<p begin="00:07:00.250" end="00:07:05.680" style="s2">whole thing especially if you&#39;re a white</p>
+<p begin="00:07:01.540" end="00:07:09.430" style="s2">guy you know that there is a there&#39;s</p>
+<p begin="00:07:05.680" end="00:07:11.950" style="s2">absolutely a new kind of hierarchy where</p>
+<p begin="00:07:09.430" end="00:07:14.530" style="s2">the victim is on top and you know that</p>
+<p begin="00:07:11.950" end="00:07:16.540" style="s2">and that&#39;s just as oppressive there&#39;s a</p>
+<p begin="00:07:14.530" end="00:07:19.420" style="s2">lot of what we would say in the red or</p>
+<p begin="00:07:16.540" end="00:07:22.630" style="s2">pre-modern sort of warrior the fighting</p>
+<p begin="00:07:19.420" end="00:07:25.330" style="s2">stance that is that green is infected</p>
+<p begin="00:07:22.630" end="00:07:27.820" style="s2">with you know and all of that&#39;s true and</p>
+<p begin="00:07:25.330" end="00:07:33.460" style="s2">and I&#39;m glad that Jordan Peterson is</p>
+<p begin="00:07:27.820" end="00:07:37.030" style="s2">fighting that battle but when he talks</p>
+<p begin="00:07:33.460" end="00:07:39.010" style="s2">about you know sensitivity who he</p>
+<p begin="00:07:37.030" end="00:07:42.280" style="s2">refuses to talk to anybody who would</p>
+<p begin="00:07:39.010" end="00:07:45.850" style="s2">talk about white privilege you know</p>
+<p begin="00:07:42.280" end="00:07:51.340" style="s2">that&#39;s that&#39;s sort of ideological if you</p>
+<p begin="00:07:45.850" end="00:07:55.650" style="s2">ask me and in in in and so he sees that</p>
+<p begin="00:07:51.340" end="00:08:02.160" style="s2">whole sort of move towards sensitivity</p>
+<p begin="00:07:55.650" end="00:08:05.350" style="s2">that and femininity I also think that he</p>
+<p begin="00:08:02.160" end="00:08:07.870" style="s2">there&#39;s a lot of unnecessary sort of</p>
+<p begin="00:08:05.350" end="00:08:11.410" style="s2">sorting out of masculine and feminine</p>
+<p begin="00:08:07.870" end="00:08:15.340" style="s2">qualities to men and women you know in a</p>
+<p begin="00:08:11.410" end="00:08:18.070" style="s2">way that feels that the perfect world</p>
+<p begin="00:08:15.340" end="00:08:21.760" style="s2">for Jordan Peterson would be some sort</p>
+<p begin="00:08:18.070" end="00:08:24.070" style="s2">of a better more improved stage right at</p>
+<p begin="00:08:21.760" end="00:08:26.140" style="s2">the traditional and modern stage of</p>
+<p begin="00:08:24.070" end="00:08:28.540" style="s2">development you know a really good</p>
+<p begin="00:08:26.140" end="00:08:31.390" style="s2">version of that would be his perfect</p>
+<p begin="00:08:28.540" end="00:08:36.340" style="s2">world and that&#39;s you know I think that</p>
+<p begin="00:08:31.390" end="00:08:38.010" style="s2">actually you know gender fluidity and a</p>
+<p begin="00:08:36.340" end="00:08:40.930" style="s2">lot of these things are actually</p>
+<p begin="00:08:38.010" end="00:08:45.490" style="s2">harbingers of what&#39;s to come you know</p>
+<p begin="00:08:40.930" end="00:08:47.440" style="s2">and in the people go overboard with it</p>
+<p begin="00:08:45.490" end="00:08:50.950" style="s2">yeah join the club this is humanity we</p>
+<p begin="00:08:47.440" end="00:08:54.070" style="s2">always do but we&#39;re also staking out new</p>
+<p begin="00:08:50.950" end="00:08:57.009" style="s2">territory that will allow ultimately</p>
+<p begin="00:08:54.070" end="00:08:59.940" style="s2">the full range of human capacities from</p>
+<p begin="00:08:57.009" end="00:09:02.350" style="s2">the masculine pole to the feminine pole</p>
+<p begin="00:08:59.940" end="00:09:03.579" style="s2">and there they&#39;re those masculine and</p>
+<p begin="00:09:02.350" end="00:09:05.170" style="s2">feminine poles are there and they&#39;re</p>
+<p begin="00:09:03.579" end="00:09:07.029" style="s2">juicy and we want to we don&#39;t want to</p>
+<p begin="00:09:05.170" end="00:09:09.310" style="s2">blend them we don&#39;t want homogenized</p>
+<p begin="00:09:07.029" end="00:09:11.560" style="s2">them which is what post modernity tries</p>
+<p begin="00:09:09.310" end="00:09:14.199" style="s2">to do so we see that they&#39;re separate</p>
+<p begin="00:09:11.560" end="00:09:15.970" style="s2">but we also say that they&#39;re they&#39;re</p>
+<p begin="00:09:14.199" end="00:09:17.829" style="s2">available to everybody regardless of</p>
+<p begin="00:09:15.970" end="00:09:19.509" style="s2">biological sex now people we&#39;re going to</p>
+<p begin="00:09:17.829" end="00:09:20.350" style="s2">sort out the way they sort out and</p>
+<p begin="00:09:19.509" end="00:09:23.589" style="s2">people are going to have what</p>
+<p begin="00:09:20.350" end="00:09:25.810" style="s2">preferences they have but the the whole</p>
+<p begin="00:09:23.589" end="00:09:28.149" style="s2">landscape is available when we talk</p>
+<p begin="00:09:25.810" end="00:09:30.670" style="s2">about post-modernism there&#39;s there&#39;s a</p>
+<p begin="00:09:28.149" end="00:09:33.069" style="s2">lot of terms that seem that they could</p>
+<p begin="00:09:30.670" end="00:09:37.089" style="s2">get kind of conflated here because</p>
+<p begin="00:09:33.069" end="00:09:40.589" style="s2">Peterson certainly has a real dislike of</p>
+<p begin="00:09:37.089" end="00:09:43.180" style="s2">certain aspects of post modernity and</p>
+<p begin="00:09:40.589" end="00:09:46.180" style="s2">Wilber also talks about this idea of the</p>
+<p begin="00:09:43.180" end="00:09:49.980" style="s2">eighth a perspective or madness that</p>
+<p begin="00:09:46.180" end="00:09:51.819" style="s2">hidden within post-modernism is a is a</p>
+<p begin="00:09:49.980" end="00:09:52.480" style="s2">worldview that doesn&#39;t really make any</p>
+<p begin="00:09:51.819" end="00:09:55.149" style="s2">sense</p>
+<p begin="00:09:52.480" end="00:09:57.880" style="s2">I guess Peterson would call it it&#39;s not</p>
+<p begin="00:09:55.149" end="00:10:00.550" style="s2">a playable game to the idea that</p>
+<p begin="00:09:57.880" end="00:10:02.920" style="s2">everything is equally valid and nothing</p>
+<p begin="00:10:00.550" end="00:10:05.380" style="s2">is true is not something that you can</p>
+<p begin="00:10:02.920" end="00:10:08.680" style="s2">actually live out in your life so it&#39;s</p>
+<p begin="00:10:05.380" end="00:10:10.269" style="s2">and I wonder when when some integral</p>
+<p begin="00:10:08.680" end="00:10:14.230" style="s2">thinkers in particular sort of say well</p>
+<p begin="00:10:10.269" end="00:10:17.050" style="s2">Peterson is is very anti green they seem</p>
+<p begin="00:10:14.230" end="00:10:19.000" style="s2">like his real vitriol seems to be aimed</p>
+<p begin="00:10:17.050" end="00:10:21.819" style="s2">at least from my perspective towards</p>
+<p begin="00:10:19.000" end="00:10:24.610" style="s2">that that a perspective or madness the</p>
+<p begin="00:10:21.819" end="00:10:27.209" style="s2">idea that there are no truths rather</p>
+<p begin="00:10:24.610" end="00:10:30.160" style="s2">than the things that have come out of</p>
+<p begin="00:10:27.209" end="00:10:34.449" style="s2">Greenwich you might talk of civil rights</p>
+<p begin="00:10:30.160" end="00:10:37.689" style="s2">and yeah that the the kind of the green</p>
+<p begin="00:10:34.449" end="00:10:40.300" style="s2">civil rights wave right yeah the</p>
+<p begin="00:10:37.689" end="00:10:43.360" style="s2">positive the unqualified positive of</p>
+<p begin="00:10:40.300" end="00:10:47.500" style="s2">green of post modernity no it&#39;s true and</p>
+<p begin="00:10:43.360" end="00:10:50.769" style="s2">I think he does really focus on that you</p>
+<p begin="00:10:47.500" end="00:10:53.199" style="s2">know a perspectival madness the idea</p>
+<p begin="00:10:50.769" end="00:10:57.220" style="s2">that there is no truth and he points out</p>
+<p begin="00:10:53.199" end="00:11:00.279" style="s2">that where that leads and this is again</p>
+<p begin="00:10:57.220" end="00:11:03.040" style="s2">another sort of developmental thing</p>
+<p begin="00:11:00.279" end="00:11:07.970" style="s2">mistake or that I would add this to the</p>
+<p begin="00:11:03.040" end="00:11:11.120" style="s2">mix is that in 2018</p>
+<p begin="00:11:07.970" end="00:11:15.889" style="s2">world this is not going to lead to the</p>
+<p begin="00:11:11.120" end="00:11:20.029" style="s2">gulag okay so you know he gets all</p>
+<p begin="00:11:15.889" end="00:11:22.250" style="s2">worked up about where this sort of a</p>
+<p begin="00:11:20.029" end="00:11:24.740" style="s2">perspectival thing can lead and points</p>
+<p begin="00:11:22.250" end="00:11:27.079" style="s2">out the you know the history of the 20th</p>
+<p begin="00:11:24.740" end="00:11:29.480" style="s2">century well part of the history of the</p>
+<p begin="00:11:27.079" end="00:11:31.310" style="s2">20th century is that we have at least in</p>
+<p begin="00:11:29.480" end="00:11:33.019" style="s2">the developed world about the whole</p>
+<p begin="00:11:31.310" end="00:11:35.660" style="s2">world actually but in the developed</p>
+<p begin="00:11:33.019" end="00:11:38.720" style="s2">world we&#39;ve moved to a center of gravity</p>
+<p begin="00:11:35.660" end="00:11:41.420" style="s2">of modernity where you know it&#39;s just</p>
+<p begin="00:11:38.720" end="00:11:44.779" style="s2">we&#39;re pacified you know that that&#39;s not</p>
+<p begin="00:11:41.420" end="00:11:48.500" style="s2">a real threat anymore and I just would</p>
+<p begin="00:11:44.779" end="00:11:51.589" style="s2">you know point that out and you know and</p>
+<p begin="00:11:48.500" end="00:11:54.949" style="s2">I think that&#39;s another small critique</p>
+<p begin="00:11:51.589" end="00:11:59.810" style="s2">that I would happen but it&#39;s it&#39;s part</p>
+<p begin="00:11:54.949" end="00:12:02.959" style="s2">of what makes you know I think one of</p>
+<p begin="00:11:59.810" end="00:12:05.180" style="s2">the moves of integral is that we can</p>
+<p begin="00:12:02.959" end="00:12:08.050" style="s2">fight the same battles that we fought</p>
+<p begin="00:12:05.180" end="00:12:13.279" style="s2">all along but we do it without</p>
+<p begin="00:12:08.050" end="00:12:16.490" style="s2">demonizing our opponents and we do it</p>
+<p begin="00:12:13.279" end="00:12:19.850" style="s2">without hating them and we do it with a</p>
+<p begin="00:12:16.490" end="00:12:23.300" style="s2">certain love in lightness to our heart</p>
+<p begin="00:12:19.850" end="00:12:23.930" style="s2">that I don&#39;t quite recognize in Jordan</p>
+<p begin="00:12:23.300" end="00:12:25.819" style="s2">Peterson</p>
+<p begin="00:12:23.930" end="00:12:30.970" style="s2">yeah I think this is this is a really</p>
+<p begin="00:12:25.819" end="00:12:34.519" style="s2">good point because when he talks about</p>
+<p begin="00:12:30.970" end="00:12:37.129" style="s2">that there is this this worldview that</p>
+<p begin="00:12:34.519" end="00:12:39.050" style="s2">has so many people he talks about the</p>
+<p begin="00:12:37.129" end="00:12:41.120" style="s2">kind of the value of ideas and the post</p>
+<p begin="00:12:39.050" end="00:12:43.459" style="s2">modernity is a pernicious ideology and</p>
+<p begin="00:12:41.120" end="00:12:46.819" style="s2">it has people in their grip you would</p>
+<p begin="00:12:43.459" end="00:12:48.800" style="s2">imagine that the the logical next step</p>
+<p begin="00:12:46.819" end="00:12:51.620" style="s2">would be to have some empathy for these</p>
+<p begin="00:12:48.800" end="00:12:53.750" style="s2">people yes like if people have been</p>
+<p begin="00:12:51.620" end="00:12:55.100" style="s2">given ideas that are not their own and</p>
+<p begin="00:12:53.750" end="00:12:57.230" style="s2">they&#39;re following ideas that are not</p>
+<p begin="00:12:55.100" end="00:13:00.170" style="s2">their own surely that the thing to do is</p>
+<p begin="00:12:57.230" end="00:13:01.750" style="s2">to hold our hands out and say have some</p>
+<p begin="00:13:00.170" end="00:13:05.899" style="s2">empathy for the fact that they&#39;ve been</p>
+<p begin="00:13:01.750" end="00:13:09.649" style="s2">misled rather than this this this really</p>
+<p begin="00:13:05.899" end="00:13:12.259" style="s2">strong attack on them which I get a lot</p>
+<p begin="00:13:09.649" end="00:13:15.920" style="s2">of time from Peterson yeah I think</p>
+<p begin="00:13:12.259" end="00:13:20.740" style="s2">that&#39;s that&#39;s valid and well said and</p>
+<p begin="00:13:15.920" end="00:13:21.830" style="s2">and also to appreciate the the actual</p>
+<p begin="00:13:20.740" end="00:13:26.230" style="s2">positive</p>
+<p begin="00:13:21.830" end="00:13:29.180" style="s2">of nature of that radical deconstruction</p>
+<p begin="00:13:26.230" end="00:13:32.150" style="s2">you know part of what that&#39;s all about</p>
+<p begin="00:13:29.180" end="00:13:34.520" style="s2">is deconstructing these grand narratives</p>
+<p begin="00:13:32.150" end="00:13:36.050" style="s2">of history whether it&#39;s the you know</p>
+<p begin="00:13:34.520" end="00:13:38.120" style="s2">everything&#39;s going to be great once</p>
+<p begin="00:13:36.050" end="00:13:40.520" style="s2">everybody accepts Jesus as their</p>
+<p begin="00:13:38.120" end="00:13:44.180" style="s2">personal Savior okay so that&#39;s the grant</p>
+<p begin="00:13:40.520" end="00:13:46.340" style="s2">narrative traditionalists of modernists</p>
+<p begin="00:13:44.180" end="00:13:50.540" style="s2">everything&#39;s going to be great once</p>
+<p begin="00:13:46.340" end="00:13:53.150" style="s2">everybody becomes rational okay that</p>
+<p begin="00:13:50.540" end="00:13:54.800" style="s2">proves to be wrong you know so post</p>
+<p begin="00:13:53.150" end="00:13:57.350" style="s2">modernity comes in and says okay</p>
+<p begin="00:13:54.800" end="00:13:59.090" style="s2">all of your grand narratives you know</p>
+<p begin="00:13:57.350" end="00:14:02.480" style="s2">all of your tribe will all of your</p>
+<p begin="00:13:59.090" end="00:14:03.890" style="s2">religion all of your ideas of truth and</p>
+<p begin="00:14:02.480" end="00:14:07.970" style="s2">there is something that is just</p>
+<p begin="00:14:03.890" end="00:14:11.270" style="s2">necessary about that cleansing even</p>
+<p begin="00:14:07.970" end="00:14:16.610" style="s2">though it leaves you nuts and depressed</p>
+<p begin="00:14:11.270" end="00:14:18.680" style="s2">and useless there is that hiss of stage</p>
+<p begin="00:14:16.610" end="00:14:20.480" style="s2">on the path that you want to get through</p>
+<p begin="00:14:18.680" end="00:14:22.850" style="s2">as quickly as possible and a lot of</p>
+<p begin="00:14:20.480" end="00:14:25.280" style="s2">people are stuck there but there is</p>
+<p begin="00:14:22.850" end="00:14:28.010" style="s2">something beyond that and so that brings</p>
+<p begin="00:14:25.280" end="00:14:30.080" style="s2">on a respect for that in a way that I</p>
+<p begin="00:14:28.010" end="00:14:32.750" style="s2">don&#39;t get from Peterson it&#39;s an</p>
+<p begin="00:14:30.080" end="00:14:35.780" style="s2">interesting thing because Francois</p>
+<p begin="00:14:32.750" end="00:14:38.870" style="s2">Lyotard one of the kind of fathers of</p>
+<p begin="00:14:35.780" end="00:14:42.350" style="s2">post-modernism said at one point that</p>
+<p begin="00:14:38.870" end="00:14:45.800" style="s2">all this deconstruction if it&#39;s not</p>
+<p begin="00:14:42.350" end="00:14:47.960" style="s2">tempered by the sublime this point where</p>
+<p begin="00:14:45.800" end="00:14:51.140" style="s2">there is absolute meaning which is</p>
+<p begin="00:14:47.960" end="00:14:53.570" style="s2">almost like your North Star if you have</p>
+<p begin="00:14:51.140" end="00:14:56.120" style="s2">that point the deconstruction could be</p>
+<p begin="00:14:53.570" end="00:14:57.910" style="s2">incredibly productive it&#39;s enough for me</p>
+<p begin="00:14:56.120" end="00:15:00.500" style="s2">from my background it&#39;s a psychedelic</p>
+<p begin="00:14:57.910" end="00:15:03.770" style="s2">kind of experience you know everything</p>
+<p begin="00:15:00.500" end="00:15:06.170" style="s2">that wall certain becomes relational etc</p>
+<p begin="00:15:03.770" end="00:15:08.960" style="s2">but he made a point of that very early</p>
+<p begin="00:15:06.170" end="00:15:11.840" style="s2">on in this intellectual endeavor to say</p>
+<p begin="00:15:08.960" end="00:15:15.290" style="s2">without the sublime the postmodern will</p>
+<p begin="00:15:11.840" end="00:15:17.270" style="s2">lead to madness and I thought what&#39;s</p>
+<p begin="00:15:15.290" end="00:15:21.800" style="s2">interesting for me watching Peterson is</p>
+<p begin="00:15:17.270" end="00:15:24.260" style="s2">a big part of what he&#39;s reviving is the</p>
+<p begin="00:15:21.800" end="00:15:25.540" style="s2">sublime in some sense through the</p>
+<p begin="00:15:24.260" end="00:15:29.570" style="s2">unconscious</p>
+<p begin="00:15:25.540" end="00:15:32.090" style="s2">Christianity yes indeed he is and and I</p>
+<p begin="00:15:29.570" end="00:15:35.440" style="s2">love he&#39;s a beautiful transmitter of the</p>
+<p begin="00:15:32.090" end="00:15:36.820" style="s2">sublime beautiful transmitter I mean</p>
+<p begin="00:15:35.440" end="00:15:38.800" style="s2">I&#39;ve seen things that have given me</p>
+<p begin="00:15:36.820" end="00:15:41.290" style="s2">chills when he talks about whether or</p>
+<p begin="00:15:38.800" end="00:15:46.600" style="s2">not you make your bed has cosmic</p>
+<p begin="00:15:41.290" end="00:15:48.580" style="s2">consequences I agree actually and and to</p>
+<p begin="00:15:46.600" end="00:15:49.990" style="s2">actually get that&#39;s cosmos centric you</p>
+<p begin="00:15:48.580" end="00:15:52.450" style="s2">know we talked about moving from</p>
+<p begin="00:15:49.990" end="00:15:55.030" style="s2">ethnocentric to world centric you know</p>
+<p begin="00:15:52.450" end="00:15:57.460" style="s2">to cosmos centric in an integral week</p>
+<p begin="00:15:55.030" end="00:15:59.860" style="s2">where we start you know getting in touch</p>
+<p begin="00:15:57.460" end="00:16:02.890" style="s2">with the actual animating energetics of</p>
+<p begin="00:15:59.860" end="00:16:06.370" style="s2">the cosmos you know and there&#39;s a new</p>
+<p begin="00:16:02.890" end="00:16:09.070" style="s2">rien chant minh the world that comes</p>
+<p begin="00:16:06.370" end="00:16:10.990" style="s2">online at that point because we actually</p>
+<p begin="00:16:09.070" end="00:16:14.890" style="s2">do realize that there&#39;s a new creation</p>
+<p begin="00:16:10.990" end="00:16:17.320" style="s2">story that is you know delivered to us</p>
+<p begin="00:16:14.890" end="00:16:20.610" style="s2">by science it&#39;s not we don&#39;t have to</p>
+<p begin="00:16:17.320" end="00:16:23.590" style="s2">bypass science science shows us that</p>
+<p begin="00:16:20.610" end="00:16:26.380" style="s2">something came out of nothing 13.8</p>
+<p begin="00:16:23.590" end="00:16:30.250" style="s2">billion years ago and as complexified</p>
+<p begin="00:16:26.380" end="00:16:32.800" style="s2">into us now there&#39;s a spiritual path in</p>
+<p begin="00:16:30.250" end="00:16:36.160" style="s2">there somewhere and we don&#39;t have to get</p>
+<p begin="00:16:32.800" end="00:16:38.170" style="s2">you know all stuck I mean we could see</p>
+<p begin="00:16:36.160" end="00:16:40.450" style="s2">the our religious traditions our you</p>
+<p begin="00:16:38.170" end="00:16:43.920" style="s2">know pre-modern or Christianity all of</p>
+<p begin="00:16:40.450" end="00:16:46.360" style="s2">them as beautiful you know art forms</p>
+<p begin="00:16:43.920" end="00:16:49.780" style="s2">spiritual art forms full of beautiful</p>
+<p begin="00:16:46.360" end="00:16:51.730" style="s2">practices for this realization that we</p>
+<p begin="00:16:49.780" end="00:16:54.490" style="s2">are evolving creatures in an evolving</p>
+<p begin="00:16:51.730" end="00:16:56.860" style="s2">cosmos and we&#39;ve come from somewhere</p>
+<p begin="00:16:54.490" end="00:16:59.320" style="s2">we&#39;re going from somewhere and the you</p>
+<p begin="00:16:56.860" end="00:17:02.110" style="s2">know for me the only way any of it makes</p>
+<p begin="00:16:59.320" end="00:17:04.600" style="s2">sense is if there is some continuity</p>
+<p begin="00:17:02.110" end="00:17:06.610" style="s2">between lifetimes you know you don&#39;t</p>
+<p begin="00:17:04.600" end="00:17:10.270" style="s2">have to believe that but I&#39;m not sure I</p>
+<p begin="00:17:06.610" end="00:17:11.589" style="s2">believe that but you know I you could</p>
+<p begin="00:17:10.270" end="00:17:14.980" style="s2">play with that because we could actually</p>
+<p begin="00:17:11.589" end="00:17:17.199" style="s2">see it it&#39;s science shows it to us my</p>
+<p begin="00:17:14.980" end="00:17:19.630" style="s2">just sort of going back a little bit to</p>
+<p begin="00:17:17.199" end="00:17:22.270" style="s2">the idea of post modernity is sort of</p>
+<p begin="00:17:19.630" end="00:17:25.480" style="s2">this cleansing and then we reconstruct</p>
+<p begin="00:17:22.270" end="00:17:28.209" style="s2">afterwards I I hear a lot of people</p>
+<p begin="00:17:25.480" end="00:17:29.110" style="s2">talking talking like that in terms of</p>
+<p begin="00:17:28.209" end="00:17:31.180" style="s2">the that&#39;s the process we&#39;re going</p>
+<p begin="00:17:29.110" end="00:17:32.950" style="s2">through but I guess what I really got an</p>
+<p begin="00:17:31.180" end="00:17:36.360" style="s2">appreciation of listening to Peterson is</p>
+<p begin="00:17:32.950" end="00:17:39.580" style="s2">there are some things we cannot erase</p>
+<p begin="00:17:36.360" end="00:17:42.300" style="s2">that there is a biological lived reality</p>
+<p begin="00:17:39.580" end="00:17:45.190" style="s2">there are certain archetypal structures</p>
+<p begin="00:17:42.300" end="00:17:48.220" style="s2">that are just pre-existing because of</p>
+<p begin="00:17:45.190" end="00:17:49.900" style="s2">the way that that we exist as biological</p>
+<p begin="00:17:48.220" end="00:17:52.450" style="s2">creatures the</p>
+<p begin="00:17:49.900" end="00:17:55.030" style="s2">that actually post modernity cannot</p>
+<p begin="00:17:52.450" end="00:17:56.590" style="s2">erase and that this is something that</p>
+<p begin="00:17:55.030" end="00:17:58.210" style="s2">I&#39;m sort of struggling with a little bit</p>
+<p begin="00:17:56.590" end="00:18:01.840" style="s2">because yeah there&#39;s that there&#39;s a this</p>
+<p begin="00:17:58.210" end="00:18:04.630" style="s2">what post modernity does it erase it</p>
+<p begin="00:18:01.840" end="00:18:06.760" style="s2">thinks it does yeah that&#39;s that&#39;s that&#39;s</p>
+<p begin="00:18:04.630" end="00:18:08.710" style="s2">a distinction I would make you know an</p>
+<p begin="00:18:06.760" end="00:18:10.420" style="s2">integral rewear I realize what you&#39;re</p>
+<p begin="00:18:08.710" end="00:18:12.550" style="s2">saying is true is that wait a wait a</p>
+<p begin="00:18:10.420" end="00:18:15.520" style="s2">minute no there are things that are</p>
+<p begin="00:18:12.550" end="00:18:17.790" style="s2">actually true that you know the you know</p>
+<p begin="00:18:15.520" end="00:18:20.440" style="s2">boiling point of water that the the the</p>
+<p begin="00:18:17.790" end="00:18:25.450" style="s2">you know whatever is there is there are</p>
+<p begin="00:18:20.440" end="00:18:29.700" style="s2">actual true things and so that we sort</p>
+<p begin="00:18:25.450" end="00:18:33.460" style="s2">of you know correct for the excesses of</p>
+<p begin="00:18:29.700" end="00:18:36.370" style="s2">you know extreme deconstruction yeah and</p>
+<p begin="00:18:33.460" end="00:18:38.080" style="s2">that I think Peterson&#39;s phrase was that</p>
+<p begin="00:18:36.370" end="00:18:41.470" style="s2">our experience of the world is</p>
+<p begin="00:18:38.080" end="00:18:45.370" style="s2">parameterised by a biological heritage</p>
+<p begin="00:18:41.470" end="00:18:47.290" style="s2">and by our embodied nature and that&#39;s</p>
+<p begin="00:18:45.370" end="00:18:49.630" style="s2">something as well I mean I mentioned it</p>
+<p begin="00:18:47.290" end="00:18:51.970" style="s2">before the idea of a playable game is a</p>
+<p begin="00:18:49.630" end="00:18:53.980" style="s2">really clever idea it&#39;s like yeah you</p>
+<p begin="00:18:51.970" end="00:18:56.380" style="s2">can say you can you can play the</p>
+<p begin="00:18:53.980" end="00:18:59.140" style="s2">postmodern game as much as you want but</p>
+<p begin="00:18:56.380" end="00:19:01.240" style="s2">and say that all all possibilities are</p>
+<p begin="00:18:59.140" end="00:19:02.410" style="s2">equally valid okay go and try and live</p>
+<p begin="00:19:01.240" end="00:19:05.980" style="s2">that out in your life and see what</p>
+<p begin="00:19:02.410" end="00:19:09.700" style="s2">happens exactly you know that&#39;s why you</p>
+<p begin="00:19:05.980" end="00:19:12.730" style="s2">know that that philosophy or that</p>
+<p begin="00:19:09.700" end="00:19:14.230" style="s2">worldview exists in academia because you</p>
+<p begin="00:19:12.730" end="00:19:16.330" style="s2">actually don&#39;t have to go out and do</p>
+<p begin="00:19:14.230" end="00:19:18.730" style="s2">anything but but you know talk about it</p>
+<p begin="00:19:16.330" end="00:19:23.429" style="s2">in the real world people are disabused</p>
+<p begin="00:19:18.730" end="00:19:27.520" style="s2">of that pretty quickly you know I mean</p>
+<p begin="00:19:23.429" end="00:19:30.460" style="s2">yeah III get the problem and you know I</p>
+<p begin="00:19:27.520" end="00:19:34.000" style="s2">think that Peterson is doing God&#39;s work</p>
+<p begin="00:19:30.460" end="00:19:38.020" style="s2">and in you know confronting that as</p>
+<p begin="00:19:34.000" end="00:19:40.330" style="s2">beautifully as he is yeah and for me I</p>
+<p begin="00:19:38.020" end="00:19:43.780" style="s2">mean I&#39;ve done quite a lot of kind of</p>
+<p begin="00:19:40.330" end="00:19:45.580" style="s2">inner work and been part of I guess</p>
+<p begin="00:19:43.780" end="00:19:48.160" style="s2">spiritual communities for quite a long</p>
+<p begin="00:19:45.580" end="00:19:51.850" style="s2">time and what I really got from Peterson</p>
+<p begin="00:19:48.160" end="00:19:53.470" style="s2">was a real sense of the kind of</p>
+<p begin="00:19:51.850" end="00:19:56.010" style="s2">reinvention of the Christian tradition</p>
+<p begin="00:19:53.470" end="00:19:56.010" style="s2">and</p>
+<p begin="00:19:58.360" end="00:20:03.370" style="s2">to post Christianity that integrates</p>
+<p begin="00:20:01.120" end="00:20:05.890" style="s2">this incredible intellectual and</p>
+<p begin="00:20:03.370" end="00:20:08.170" style="s2">spiritual tradition in a way that makes</p>
+<p begin="00:20:05.890" end="00:20:10.180" style="s2">intelligible to me and so I&#39;m sure to</p>
+<p begin="00:20:08.170" end="00:20:11.890" style="s2">many other people I mean I was raised a</p>
+<p begin="00:20:10.180" end="00:20:15.040" style="s2">Christian and then I started reading ein</p>
+<p begin="00:20:11.890" end="00:20:17.260" style="s2">Rand and then I went into atheism you</p>
+<p begin="00:20:15.040" end="00:20:21.040" style="s2">know then I moved to Boulder and you</p>
+<p begin="00:20:17.260" end="00:20:24.730" style="s2">know I became all postmodern but but</p>
+<p begin="00:20:21.040" end="00:20:29.050" style="s2">part of my continued growth is turning</p>
+<p begin="00:20:24.730" end="00:20:34.230" style="s2">and reom bracing the the spiritual</p>
+<p begin="00:20:29.050" end="00:20:36.820" style="s2">truths of Christianity you know that are</p>
+<p begin="00:20:34.230" end="00:20:39.760" style="s2">given to us through Christianity and no</p>
+<p begin="00:20:36.820" end="00:20:41.050" style="s2">other place you know that I&#39;d say the</p>
+<p begin="00:20:39.760" end="00:20:44.140" style="s2">same for Buddhism that&#39;s the other</p>
+<p begin="00:20:41.050" end="00:20:46.420" style="s2">religion I&#39;ve deeply practiced and I</p>
+<p begin="00:20:44.140" end="00:20:50.560" style="s2">can&#39;t imagine my life without both God</p>
+<p begin="00:20:46.420" end="00:20:52.270" style="s2">and emptiness but you you know you can&#39;t</p>
+<p begin="00:20:50.560" end="00:20:54.910" style="s2">get a Christian or a Buddhist that you</p>
+<p begin="00:20:52.270" end="00:20:56.890" style="s2">know go to the other Pole but I love</p>
+<p begin="00:20:54.910" end="00:20:59.710" style="s2">both of those poles I love both of those</p>
+<p begin="00:20:56.890" end="00:21:03.040" style="s2">things and I feel seen and loved by God</p>
+<p begin="00:20:59.710" end="00:21:08.680" style="s2">in a way that I never imagined in my</p>
+<p begin="00:21:03.040" end="00:21:12.580" style="s2">early 20s that I would you know and I&#39;m</p>
+<p begin="00:21:08.680" end="00:21:17.080" style="s2">so glad that Jordan Peterson is you know</p>
+<p begin="00:21:12.580" end="00:21:19.930" style="s2">reach an ting this you know disenchanted</p>
+<p begin="00:21:17.080" end="00:21:25.240" style="s2">world of modernity for people honor God</p>
+<p begin="00:21:19.930" end="00:21:28.920" style="s2">I mean yeah we are we&#39;re you know no</p>
+<p begin="00:21:25.240" end="00:21:32.050" style="s2">free will and you know just accidents</p>
+<p begin="00:21:28.920" end="00:21:35.110" style="s2">what matter I mean I don&#39;t know it&#39;s</p>
+<p begin="00:21:32.050" end="00:21:37.570" style="s2">it&#39;s it&#39;s very depressing very distant</p>
+<p begin="00:21:35.110" end="00:21:40.570" style="s2">heart disheartening for people and so</p>
+<p begin="00:21:37.570" end="00:21:44.650" style="s2">he&#39;s again literally doing God&#39;s work</p>
+<p begin="00:21:40.570" end="00:21:48.610" style="s2">yeah I think by my friend Andrew Sweeney</p>
+<p begin="00:21:44.650" end="00:21:50.320" style="s2">said he&#39;s one of the few people in the</p>
+<p begin="00:21:48.610" end="00:21:55.780" style="s2">world that seems to be on fire with the</p>
+<p begin="00:21:50.320" end="00:21:59.680" style="s2">holy spirit which is a yeah it&#39;s it&#39;s so</p>
+<p begin="00:21:55.780" end="00:22:00.910" style="s2">true there is something very yeah yeah</p>
+<p begin="00:21:59.680" end="00:22:03.010" style="s2">I&#39;ve said it before he has a very</p>
+<p begin="00:22:00.910" end="00:22:05.530" style="s2">performative aspect to what he&#39;s doing</p>
+<p begin="00:22:03.010" end="00:22:07.030" style="s2">but when you look at his philosophy</p>
+<p begin="00:22:05.530" end="00:22:10.060" style="s2">seems very aligned with it he talks</p>
+<p begin="00:22:07.030" end="00:22:12.250" style="s2">about the logos and the idea that you</p>
+<p begin="00:22:10.060" end="00:22:14.800" style="s2">incarnate the logos more in your own lie</p>
+<p begin="00:22:12.250" end="00:22:16.930" style="s2">and by doing so you become more embodied</p>
+<p begin="00:22:14.800" end="00:22:18.480" style="s2">you become more present and and he is a</p>
+<p begin="00:22:16.930" end="00:22:22.390" style="s2">living example of that which is</p>
+<p begin="00:22:18.480" end="00:22:25.300" style="s2">something I&#39;d never put those two things</p>
+<p begin="00:22:22.390" end="00:22:27.700" style="s2">together before quite so clearly and as</p>
+<p begin="00:22:25.300" end="00:22:30.250" style="s2">when I was listening to him ah yeah</p>
+<p begin="00:22:27.700" end="00:22:33.730" style="s2">beautiful yeah it&#39;s a it&#39;s actually it&#39;s</p>
+<p begin="00:22:30.250" end="00:22:36.160" style="s2">interesting if you look at postmodern</p>
+<p begin="00:22:33.730" end="00:22:39.340" style="s2">art compared to art that really follows</p>
+<p begin="00:22:36.160" end="00:22:41.800" style="s2">the kind of Union monomyth so if you</p>
+<p begin="00:22:39.340" end="00:22:44.260" style="s2">look at like Waiting for Godot where</p>
+<p begin="00:22:41.800" end="00:22:46.810" style="s2">there&#39;s just two guys waiting for you</p>
+<p begin="00:22:44.260" end="00:22:50.920" style="s2">know you know metaphor for God and</p>
+<p begin="00:22:46.810" end="00:22:52.900" style="s2">nothing happens you know that was my was</p>
+<p begin="00:22:50.920" end="00:22:54.820" style="s2">through I studied English literature it</p>
+<p begin="00:22:52.900" end="00:22:58.540" style="s2">was through stuff that was really crappy</p>
+<p begin="00:22:54.820" end="00:23:00.460" style="s2">to read you know and what Peterson is</p>
+<p begin="00:22:58.540" end="00:23:03.220" style="s2">doing is kind of moving away from that</p>
+<p begin="00:23:00.460" end="00:23:05.650" style="s2">as a I think a cultural reference point</p>
+<p begin="00:23:03.220" end="00:23:07.720" style="s2">to know it&#39;s Lord of the Rings and</p>
+<p begin="00:23:05.650" end="00:23:10.570" style="s2">you&#39;re Frodo you know it&#39;s it&#39;s that</p>
+<p begin="00:23:07.720" end="00:23:13.180" style="s2">kind of mythic journey and I think to a</p>
+<p begin="00:23:10.570" end="00:23:15.790" style="s2">degree that&#39;s perhaps why it appeals to</p>
+<p begin="00:23:13.180" end="00:23:17.260" style="s2">men and young men in particular who feel</p>
+<p begin="00:23:15.790" end="00:23:19.300" style="s2">directionless that&#39;d be an interesting</p>
+<p begin="00:23:17.260" end="00:23:21.400" style="s2">thing to get your perspective on of this</p>
+<p begin="00:23:19.300" end="00:23:26.110" style="s2">disappear to the masculine that Peterson</p>
+<p begin="00:23:21.400" end="00:23:29.320" style="s2">house oh yes no it&#39;s beautiful and and</p>
+<p begin="00:23:26.110" end="00:23:31.360" style="s2">it&#39;s a palliative to a world</p>
+<p begin="00:23:29.320" end="00:23:34.470" style="s2">particularly in academia in certain</p>
+<p begin="00:23:31.360" end="00:23:38.050" style="s2">aspects of the culture that have become</p>
+<p begin="00:23:34.470" end="00:23:42.400" style="s2">you know feminized in a way that&#39;s you</p>
+<p begin="00:23:38.050" end="00:23:46.200" style="s2">know pernicious too much and so you know</p>
+<p begin="00:23:42.400" end="00:23:48.910" style="s2">this whole group of young men feel yeah</p>
+<p begin="00:23:46.200" end="00:23:51.340" style="s2">there&#39;s no meaning there&#39;s this there&#39;s</p>
+<p begin="00:23:48.910" end="00:23:55.060" style="s2">no religion that you know you know a</p>
+<p begin="00:23:51.340" end="00:23:56.530" style="s2">toxic masculinity you know I have all</p>
+<p begin="00:23:55.060" end="00:24:00.250" style="s2">this privilege it sure as hell doesn&#39;t</p>
+<p begin="00:23:56.530" end="00:24:03.580" style="s2">feel like it but I guess I do no no no</p>
+<p begin="00:24:00.250" end="00:24:06.340" style="s2">we&#39;re here you know we&#39;re here</p>
+<p begin="00:24:03.580" end="00:24:09.100" style="s2">this precious human life I mean good god</p>
+<p begin="00:24:06.340" end="00:24:12.040" style="s2">we&#39;re the creations of Almighty God</p>
+<p begin="00:24:09.100" end="00:24:15.430" style="s2">somehow here we are and we&#39;re here for a</p>
+<p begin="00:24:12.040" end="00:24:17.710" style="s2">reason and one of the things that you</p>
+<p begin="00:24:15.430" end="00:24:20.820" style="s2">know we want to bring forward into</p>
+<p begin="00:24:17.710" end="00:24:23.770" style="s2">integral into an integral sensibility is</p>
+<p begin="00:24:20.820" end="00:24:25.149" style="s2">what we left behind when we moved into</p>
+<p begin="00:24:23.770" end="00:24:29.049" style="s2">modernity which is</p>
+<p begin="00:24:25.149" end="00:24:31.389" style="s2">world that is dripping with meaning you</p>
+<p begin="00:24:29.049" end="00:24:33.519" style="s2">know where everything matters you know</p>
+<p begin="00:24:31.389" end="00:24:35.529" style="s2">who you meet who you talk to whether or</p>
+<p begin="00:24:33.519" end="00:24:38.080" style="s2">not you made your bed what thoughts</p>
+<p begin="00:24:35.529" end="00:24:40.419" style="s2">you&#39;re thinking you know that&#39;s all part</p>
+<p begin="00:24:38.080" end="00:24:42.759" style="s2">of this heroic journey and every person</p>
+<p begin="00:24:40.419" end="00:24:45.009" style="s2">you meet is the little Frodo or a little</p>
+<p begin="00:24:42.759" end="00:24:46.479" style="s2">somebody who has something for you you</p>
+<p begin="00:24:45.009" end="00:24:48.129" style="s2">know you can sort of have that as a</p>
+<p begin="00:24:46.479" end="00:24:50.169" style="s2">practice to say what does that person</p>
+<p begin="00:24:48.129" end="00:24:52.539" style="s2">have for me why do I have for them you</p>
+<p begin="00:24:50.169" end="00:24:55.570" style="s2">know as I move through this amazing</p>
+<p begin="00:24:52.539" end="00:24:58.299" style="s2">journey that you know it&#39;s tragic it&#39;s</p>
+<p begin="00:24:55.570" end="00:25:00.549" style="s2">kamek it&#39;s you know all of humanity what</p>
+<p begin="00:24:58.299" end="00:25:02.889" style="s2">the are we doing here I mean this</p>
+<p begin="00:25:00.549" end="00:25:04.960" style="s2">is really yeah this is absolutely</p>
+<p begin="00:25:02.889" end="00:25:05.769" style="s2">fascinating this was something that came</p>
+<p begin="00:25:04.960" end="00:25:08.679" style="s2">to me on the plane</p>
+<p begin="00:25:05.769" end="00:25:11.349" style="s2">on the way over to interview Peterson</p>
+<p begin="00:25:08.679" end="00:25:15.669" style="s2">was I made a few documentaries about</p>
+<p begin="00:25:11.349" end="00:25:18.729" style="s2">Isis and I&#39;ve always felt what a</p>
+<p begin="00:25:15.669" end="00:25:20.710" style="s2">seductive worldview that is to go from</p>
+<p begin="00:25:18.729" end="00:25:23.049" style="s2">being I don&#39;t know someone kind of</p>
+<p begin="00:25:20.710" end="00:25:25.839" style="s2">working in a shop somewhere to on the</p>
+<p begin="00:25:23.049" end="00:25:29.320" style="s2">front lines of the struggle for your</p>
+<p begin="00:25:25.839" end="00:25:31.570" style="s2">civilization and then it struck me that</p>
+<p begin="00:25:29.320" end="00:25:34.509" style="s2">what Peterson is doing through the the</p>
+<p begin="00:25:31.570" end="00:25:35.679" style="s2">wider mythological work and framing it</p>
+<p begin="00:25:34.509" end="00:25:38.129" style="s2">within this kind of theological</p>
+<p begin="00:25:35.679" end="00:25:41.229" style="s2">framework is making your life as</p>
+<p begin="00:25:38.129" end="00:25:42.940" style="s2">meaningful as that that every single</p>
+<p begin="00:25:41.229" end="00:25:45.719" style="s2">thing you do is taking the world either</p>
+<p begin="00:25:42.940" end="00:25:48.519" style="s2">closer to or further away from hell and</p>
+<p begin="00:25:45.719" end="00:25:50.289" style="s2">it&#39;s it&#39;s essential it seems to me</p>
+<p begin="00:25:48.519" end="00:25:53.339" style="s2">absolutely essential if we&#39;re going to</p>
+<p begin="00:25:50.289" end="00:25:57.279" style="s2">kind of struggle against those kind of</p>
+<p begin="00:25:53.339" end="00:26:01.239" style="s2">very seductive worldviews but we need</p>
+<p begin="00:25:57.279" end="00:26:03.909" style="s2">something like this yes yes no it&#39;s so</p>
+<p begin="00:26:01.239" end="00:26:06.599" style="s2">true and and you know God might have</p>
+<p begin="00:26:03.909" end="00:26:09.820" style="s2">caused my centric as well yes absolutely</p>
+<p begin="00:26:06.599" end="00:26:11.409" style="s2">yeah and we could see it in play you</p>
+<p begin="00:26:09.820" end="00:26:15.669" style="s2">know I mean something came out of</p>
+<p begin="00:26:11.409" end="00:26:19.779" style="s2">nothing and it&#39;s us you know good lord</p>
+<p begin="00:26:15.669" end="00:26:21.669" style="s2">but yeah it&#39;s you know the the we we</p>
+<p begin="00:26:19.779" end="00:26:24.070" style="s2">want to you know we talked about the</p>
+<p begin="00:26:21.669" end="00:26:25.989" style="s2">three big stages that are online</p>
+<p begin="00:26:24.070" end="00:26:28.320" style="s2">there&#39;s actually three stages that we</p>
+<p begin="00:26:25.989" end="00:26:31.059" style="s2">identify that are previous to that and</p>
+<p begin="00:26:28.320" end="00:26:37.179" style="s2">those are the worlds of like tribal</p>
+<p begin="00:26:31.059" end="00:26:38.270" style="s2">magic and in great myths and we went</p>
+<p begin="00:26:37.179" end="00:26:41.050" style="s2">those back on</p>
+<p begin="00:26:38.270" end="00:26:43.670" style="s2">- you know we want to see that the world</p>
+<p begin="00:26:41.050" end="00:26:45.410" style="s2">you know that nature is enchanted and I</p>
+<p begin="00:26:43.670" end="00:26:48.140" style="s2">love that about Jordan Peterson he has</p>
+<p begin="00:26:45.410" end="00:26:50.330" style="s2">this sort of Native American practice</p>
+<p begin="00:26:48.140" end="00:26:54.010" style="s2">that he does with this sort of community</p>
+<p begin="00:26:50.330" end="00:26:57.309" style="s2">that I think is really helps round out</p>
+<p begin="00:26:54.010" end="00:27:00.800" style="s2">the guy you had on the end of your</p>
+<p begin="00:26:57.309" end="00:27:04.760" style="s2">documentary David did the guide Road in</p>
+<p begin="00:27:00.800" end="00:27:07.190" style="s2">Greenville yes my goodness gracious what</p>
+<p begin="00:27:04.760" end="00:27:09.740" style="s2">a integral transmission about you know</p>
+<p begin="00:27:07.190" end="00:27:11.900" style="s2">taking it back down to zero and nature</p>
+<p begin="00:27:09.740" end="00:27:15.920" style="s2">and communication and contact with other</p>
+<p begin="00:27:11.900" end="00:27:18.530" style="s2">human beings and yes yes yes yes that is</p>
+<p begin="00:27:15.920" end="00:27:21.400" style="s2">that that&#39;s where we&#39;re going and that&#39;s</p>
+<p begin="00:27:18.530" end="00:27:23.990" style="s2">where modernity gets stuck because</p>
+<p begin="00:27:21.400" end="00:27:26.870" style="s2">modernity you know has to get rid of all</p>
+<p begin="00:27:23.990" end="00:27:28.880" style="s2">of the superstition and all of the magic</p>
+<p begin="00:27:26.870" end="00:27:31.220" style="s2">all of the myth that&#39;s its job it</p>
+<p begin="00:27:28.880" end="00:27:35.260" style="s2">reduces everything to the exterior z-- -</p>
+<p begin="00:27:31.220" end="00:27:38.300" style="s2">what&#39;s measurable it has notes you know</p>
+<p begin="00:27:35.260" end="00:27:41.059" style="s2">use for meaning or any of that kind of</p>
+<p begin="00:27:38.300" end="00:27:44.090" style="s2">stuff and so for a lot of people they</p>
+<p begin="00:27:41.059" end="00:27:46.040" style="s2">think that the only way to greet to</p>
+<p begin="00:27:44.090" end="00:27:48.260" style="s2">reach aunt my life or to enchant my life</p>
+<p begin="00:27:46.040" end="00:27:51.920" style="s2">is to go back to some sort of a mythic</p>
+<p begin="00:27:48.260" end="00:27:53.780" style="s2">religion and and then a lot of people</p>
+<p begin="00:27:51.920" end="00:27:56.300" style="s2">can&#39;t do that you know you just can&#39;t</p>
+<p begin="00:27:53.780" end="00:27:58.520" style="s2">uncook that egg you know what I mean and</p>
+<p begin="00:27:56.300" end="00:28:00.890" style="s2">so a lot of people who are have a modern</p>
+<p begin="00:27:58.520" end="00:28:03.559" style="s2">sensibility can&#39;t go back to a mythic</p>
+<p begin="00:28:00.890" end="00:28:07.309" style="s2">meaning-making system and what they need</p>
+<p begin="00:28:03.559" end="00:28:09.710" style="s2">to know is that we can go forward to a</p>
+<p begin="00:28:07.309" end="00:28:12.740" style="s2">meaning making systems that Rhian chance</p>
+<p begin="00:28:09.710" end="00:28:14.630" style="s2">the world in a way that science not only</p>
+<p begin="00:28:12.740" end="00:28:18.110" style="s2">doesn&#39;t have a problem with it delivers</p>
+<p begin="00:28:14.630" end="00:28:20.660" style="s2">it to us it&#39;s so fascinated and I have</p>
+<p begin="00:28:18.110" end="00:28:21.050" style="s2">been talking recently about Terence</p>
+<p begin="00:28:20.660" end="00:28:23.929" style="s2">Mckenna</p>
+<p begin="00:28:21.050" end="00:28:26.150" style="s2">who is one of my favorite thinkers and</p>
+<p begin="00:28:23.929" end="00:28:29.030" style="s2">you know he he had a book called the</p>
+<p begin="00:28:26.150" end="00:28:32.270" style="s2">archaic revival and that really you know</p>
+<p begin="00:28:29.030" end="00:28:34.610" style="s2">it&#39;s it&#39;s that idea really it&#39;s that</p>
+<p begin="00:28:32.270" end="00:28:37.010" style="s2">kind of reinterment and is taking the</p>
+<p begin="00:28:34.610" end="00:28:39.770" style="s2">archaic but not going back but saying</p>
+<p begin="00:28:37.010" end="00:28:42.380" style="s2">yes and I think you&#39;re braiding it into</p>
+<p begin="00:28:39.770" end="00:28:45.260" style="s2">it&#39;s it&#39;s so essential yeah yeah right</p>
+<p begin="00:28:42.380" end="00:28:47.570" style="s2">on yeah and you know I think Jordan</p>
+<p begin="00:28:45.260" end="00:28:49.870" style="s2">Peterson is doing his part you know in a</p>
+<p begin="00:28:47.570" end="00:28:52.130" style="s2">way that looks like a Sam Harris another</p>
+<p begin="00:28:49.870" end="00:28:54.410" style="s2">hero of mine in a way</p>
+<p begin="00:28:52.130" end="00:28:58.039" style="s2">you know steven pinker another hero of</p>
+<p begin="00:28:54.410" end="00:29:00.320" style="s2">mine Jonathan Hite another you know</p>
+<p begin="00:28:58.039" end="00:29:02.690" style="s2">there&#39;s some great public intellectuals</p>
+<p begin="00:29:00.320" end="00:29:04.789" style="s2">I have critiques of all of them in a</p>
+<p begin="00:29:02.690" end="00:29:06.350" style="s2">certain way but one of the things that</p>
+<p begin="00:29:04.789" end="00:29:11.630" style="s2">Jordan Peterson is bringing to the party</p>
+<p begin="00:29:06.350" end="00:29:15.919" style="s2">is you know a certain kind of magic you</p>
+<p begin="00:29:11.630" end="00:29:18.860" style="s2">know immediate meaning yeah he he is</p>
+<p begin="00:29:15.919" end="00:29:20.179" style="s2">telling but for me at least my my</p>
+<p begin="00:29:18.860" end="00:29:23.210" style="s2">feeling of even when I first encountered</p>
+<p begin="00:29:20.179" end="00:29:26.030" style="s2">his thought is that he is telling that</p>
+<p begin="00:29:23.210" end="00:29:30.530" style="s2">the deep story of Western culture better</p>
+<p begin="00:29:26.030" end="00:29:33.220" style="s2">than anyone I&#39;ve ever seen yes and doing</p>
+<p begin="00:29:30.530" end="00:29:37.130" style="s2">it from a very deeply embodied place and</p>
+<p begin="00:29:33.220" end="00:29:39.710" style="s2">this is I mean I found I guess I found</p>
+<p begin="00:29:37.130" end="00:29:43.010" style="s2">out about him last July last June or</p>
+<p begin="00:29:39.710" end="00:29:44.299" style="s2">July and then immediately kind of went</p>
+<p begin="00:29:43.010" end="00:29:47.659" style="s2">over and interviewed him fairly soon</p>
+<p begin="00:29:44.299" end="00:29:49.190" style="s2">afterwards and I was convinced I knew as</p>
+<p begin="00:29:47.659" end="00:29:52.840" style="s2">soon as I found him this was the right</p>
+<p begin="00:29:49.190" end="00:29:55.010" style="s2">voice for the times that he was and</p>
+<p begin="00:29:52.840" end="00:29:56.870" style="s2">nothing that&#39;s happened since in terms</p>
+<p begin="00:29:55.010" end="00:29:59.120" style="s2">of his kind of rocketing to fame has</p>
+<p begin="00:29:56.870" end="00:30:02.169" style="s2">surprised me in any any way whatsoever</p>
+<p begin="00:29:59.120" end="00:30:05.510" style="s2">it was so clear that this was an</p>
+<p begin="00:30:02.169" end="00:30:08.120" style="s2">essential voice for right now and and is</p>
+<p begin="00:30:05.510" end="00:30:09.799" style="s2">kind of you could look at it slightly</p>
+<p begin="00:30:08.120" end="00:30:12.289" style="s2">scary as well it&#39;s like we&#39;ve lost sight</p>
+<p begin="00:30:09.799" end="00:30:14.570" style="s2">of things to this point that we are so</p>
+<p begin="00:30:12.289" end="00:30:17.720" style="s2">thirsty for it that we need this kind of</p>
+<p begin="00:30:14.570" end="00:30:20.720" style="s2">transmission right now and I think it&#39;s</p>
+<p begin="00:30:17.720" end="00:30:23.480" style="s2">a sign of how far we&#39;ve strayed from</p>
+<p begin="00:30:20.720" end="00:30:25.370" style="s2">these eternal truths that that he has</p>
+<p begin="00:30:23.480" end="00:30:28.100" style="s2">become so famous in such a short amount</p>
+<p begin="00:30:25.370" end="00:30:30.740" style="s2">of time yeah I mean the only thing I</p>
+<p begin="00:30:28.100" end="00:30:33.110" style="s2">would say is I agree with all of that I</p>
+<p begin="00:30:30.740" end="00:30:36.169" style="s2">would just say that the strain also was</p>
+<p begin="00:30:33.110" end="00:30:38.179" style="s2">fruitful and that you know you know</p>
+<p begin="00:30:36.169" end="00:30:41.870" style="s2">there&#39;s there&#39;s there&#39;s something about</p>
+<p begin="00:30:38.179" end="00:30:44.600" style="s2">that you know what are the markers of</p>
+<p begin="00:30:41.870" end="00:30:47.870" style="s2">the postmodern view particularly is</p>
+<p begin="00:30:44.600" end="00:30:50.110" style="s2">people are depressed you know we&#39;re</p>
+<p begin="00:30:47.870" end="00:30:54.260" style="s2">living in this ever darkening world and</p>
+<p begin="00:30:50.110" end="00:30:57.320" style="s2">you know that that one of the things I</p>
+<p begin="00:30:54.260" end="00:30:58.280" style="s2">loved about Jordan Peterson is he you</p>
+<p begin="00:30:57.320" end="00:31:00.140" style="s2">know there&#39;s a million of these little</p>
+<p begin="00:30:58.280" end="00:31:01.820" style="s2">youtubes and stuff but I don&#39;t pretend</p>
+<p begin="00:31:00.140" end="00:31:03.950" style="s2">to have seen them all but he did this</p>
+<p begin="00:31:01.820" end="00:31:05.340" style="s2">one on the beauty of high functioning</p>
+<p begin="00:31:03.950" end="00:31:08.560" style="s2">depression</p>
+<p begin="00:31:05.340" end="00:31:12.970" style="s2">that I thought was just fantastic you</p>
+<p begin="00:31:08.560" end="00:31:18.640" style="s2">know and and and it you know sort of if</p>
+<p begin="00:31:12.970" end="00:31:21.670" style="s2">it gives meaning to that and so you know</p>
+<p begin="00:31:18.640" end="00:31:25.030" style="s2">the the world the Lord works in</p>
+<p begin="00:31:21.670" end="00:31:27.970" style="s2">mysterious ways and we we you know it&#39;s</p>
+<p begin="00:31:25.030" end="00:31:30.010" style="s2">a messy progress process this I I often</p>
+<p begin="00:31:27.970" end="00:31:33.610" style="s2">say evolution is beautiful but not</p>
+<p begin="00:31:30.010" end="00:31:36.330" style="s2">pretty and you know you can look at</p>
+<p begin="00:31:33.610" end="00:31:40.210" style="s2">human history and you can see that yeah</p>
+<p begin="00:31:36.330" end="00:31:41.950" style="s2">so you know I I totally resonate with</p>
+<p begin="00:31:40.210" end="00:31:44.740" style="s2">that and you know if I look at my own</p>
+<p begin="00:31:41.950" end="00:31:46.390" style="s2">personal journey as an individual you</p>
+<p begin="00:31:44.740" end="00:31:48.370" style="s2">know you go through a long dark night of</p>
+<p begin="00:31:46.390" end="00:31:53.290" style="s2">the soul very often in a spiritual</p>
+<p begin="00:31:48.370" end="00:31:54.940" style="s2">journey and during it I you know you&#39;ve</p>
+<p begin="00:31:53.290" end="00:31:55.570" style="s2">you&#39;re in that eight perspectival</p>
+<p begin="00:31:54.940" end="00:31:58.510" style="s2">madness</p>
+<p begin="00:31:55.570" end="00:32:00.850" style="s2">it&#39;s horrible after it for me I&#39;m you</p>
+<p begin="00:31:58.510" end="00:32:02.740" style="s2">know my feeling is I would never change</p>
+<p begin="00:32:00.850" end="00:32:05.890" style="s2">that it made me who I am</p>
+<p begin="00:32:02.740" end="00:32:08.110" style="s2">so what elements of this journey we&#39;ve</p>
+<p begin="00:32:05.890" end="00:32:10.030" style="s2">been on through post modernity do you</p>
+<p begin="00:32:08.110" end="00:32:13.780" style="s2">think we need to take into integral and</p>
+<p begin="00:32:10.030" end="00:32:15.220" style="s2">what do we need to leave behind well we</p>
+<p begin="00:32:13.780" end="00:32:17.950" style="s2">need to take it the integral of the</p>
+<p begin="00:32:15.220" end="00:32:20.440" style="s2">sensitivity of post modernity and of</p>
+<p begin="00:32:17.950" end="00:32:22.390" style="s2">green you know that sort of sensitivity</p>
+<p begin="00:32:20.440" end="00:32:25.090" style="s2">to all the people who&#39;ve been left out</p>
+<p begin="00:32:22.390" end="00:32:27.280" style="s2">of the previous stages so we could say</p>
+<p begin="00:32:25.090" end="00:32:28.810" style="s2">that you know traditionalism tends to</p>
+<p begin="00:32:27.280" end="00:32:31.270" style="s2">divide the world between saints and</p>
+<p begin="00:32:28.810" end="00:32:34.630" style="s2">sinners post modernity says we went to</p>
+<p begin="00:32:31.270" end="00:32:37.390" style="s2">sinners you know modernity says winners</p>
+<p begin="00:32:34.630" end="00:32:40.960" style="s2">and losers post modernity says what we</p>
+<p begin="00:32:37.390" end="00:32:44.320" style="s2">went the losers to it so you know that</p>
+<p begin="00:32:40.960" end="00:32:46.600" style="s2">we want to have a you know equality you</p>
+<p begin="00:32:44.320" end="00:32:49.030" style="s2">know it it&#39;s it&#39;s over</p>
+<p begin="00:32:46.600" end="00:32:53.560" style="s2">you know they overdo it and it&#39;s you</p>
+<p begin="00:32:49.030" end="00:32:56.500" style="s2">know very Christian to me yes it is yes</p>
+<p begin="00:32:53.560" end="00:32:58.840" style="s2">this is my theory about this isn&#39;t</p>
+<p begin="00:32:56.500" end="00:33:03.030" style="s2">really interesting it&#39;s like from a lot</p>
+<p begin="00:32:58.840" end="00:33:06.100" style="s2">of kind of people talking about the</p>
+<p begin="00:33:03.030" end="00:33:08.350" style="s2">benefits of green it&#39;s like there&#39;s a</p>
+<p begin="00:33:06.100" end="00:33:10.570" style="s2">sort of idea that there was this this</p>
+<p begin="00:33:08.350" end="00:33:14.620" style="s2">wave of egalitarianism that came in in</p>
+<p begin="00:33:10.570" end="00:33:17.140" style="s2">the 60s and then we we had civil rights</p>
+<p begin="00:33:14.620" end="00:33:19.210" style="s2">we had gay rights we had women&#39;s</p>
+<p begin="00:33:17.140" end="00:33:23.289" style="s2">liberation I</p>
+<p begin="00:33:19.210" end="00:33:25.929" style="s2">I suspect and I don&#39;t know but I suspect</p>
+<p begin="00:33:23.289" end="00:33:28.059" style="s2">Peterson might say no that&#39;s not a new</p>
+<p begin="00:33:25.929" end="00:33:30.520" style="s2">thing that&#39;s come in that&#39;s actually the</p>
+<p begin="00:33:28.059" end="00:33:33.399" style="s2">natural consequence of the Christian</p>
+<p begin="00:33:30.520" end="00:33:35.860" style="s2">idea of the innate value and divinity of</p>
+<p begin="00:33:33.399" end="00:33:37.809" style="s2">every individual playing itself out on a</p>
+<p begin="00:33:35.860" end="00:33:41.230" style="s2">wider level and so you could actually</p>
+<p begin="00:33:37.809" end="00:33:43.390" style="s2">trace that down a lot further than a new</p>
+<p begin="00:33:41.230" end="00:33:45.730" style="s2">force that comes into play in the 60s</p>
+<p begin="00:33:43.390" end="00:33:47.830" style="s2">what do you got Eric fair enough I mean</p>
+<p begin="00:33:45.730" end="00:33:50.279" style="s2">I think that&#39;s I think that&#39;s a really</p>
+<p begin="00:33:47.830" end="00:33:54.909" style="s2">legitimate point for sure I mean Jesus</p>
+<p begin="00:33:50.279" end="00:33:59.340" style="s2">Jesus was Green you know but we could</p>
+<p begin="00:33:54.909" end="00:34:05.230" style="s2">also see the stages of a Christian of</p>
+<p begin="00:33:59.340" end="00:34:09.310" style="s2">the church you know and that the what</p>
+<p begin="00:34:05.230" end="00:34:13.510" style="s2">what we get a full blossoming of in post</p>
+<p begin="00:34:09.310" end="00:34:16.419" style="s2">modernity is that all of these all of</p>
+<p begin="00:34:13.510" end="00:34:20.649" style="s2">the human dignities are bestowed on</p>
+<p begin="00:34:16.419" end="00:34:23.530" style="s2">everybody not just my religion not just</p>
+<p begin="00:34:20.649" end="00:34:26.320" style="s2">my country not just my people my race</p>
+<p begin="00:34:23.530" end="00:34:27.609" style="s2">but everybody and particularly the</p>
+<p begin="00:34:26.320" end="00:34:29.500" style="s2">people who have been left behind but</p>
+<p begin="00:34:27.609" end="00:34:33.159" style="s2">you&#39;re right it is the full fruition of</p>
+<p begin="00:34:29.500" end="00:34:37.270" style="s2">the teachings of Jesus Christ absolutely</p>
+<p begin="00:34:33.159" end="00:34:40.149" style="s2">right but but for the first time yeah</p>
+<p begin="00:34:37.270" end="00:34:42.790" style="s2">it&#39;s it&#39;s yeah it&#39;s actually</p>
+<p begin="00:34:40.149" end="00:34:46.290" style="s2">it also shows up the hypocrisy of the</p>
+<p begin="00:34:42.790" end="00:34:50.169" style="s2">previous manifestation of some of these</p>
+<p begin="00:34:46.290" end="00:34:52.359" style="s2">you know how humans do it I mean we it&#39;s</p>
+<p begin="00:34:50.169" end="00:34:55.000" style="s2">it&#39;s amazing that you know people like</p>
+<p begin="00:34:52.359" end="00:34:57.720" style="s2">the great saints and sages like Christ</p>
+<p begin="00:34:55.000" end="00:35:01.240" style="s2">and Buddha the people who&#39;ve really</p>
+<p begin="00:34:57.720" end="00:35:04.119" style="s2">magnetized people are actually teach to</p>
+<p begin="00:35:01.240" end="00:35:06.790" style="s2">have their teachings are from you know</p>
+<p begin="00:35:04.119" end="00:35:08.950" style="s2">post integral stages of development and</p>
+<p begin="00:35:06.790" end="00:35:11.200" style="s2">there&#39;s something about their teachings</p>
+<p begin="00:35:08.950" end="00:35:14.740" style="s2">and their transmission that is riveting</p>
+<p begin="00:35:11.200" end="00:35:17.380" style="s2">to the rest of us but we translate it</p>
+<p begin="00:35:14.740" end="00:35:19.030" style="s2">into our own stage of development and we</p>
+<p begin="00:35:17.380" end="00:35:21.310" style="s2">use it to gouge each other&#39;s eyes out</p>
+<p begin="00:35:19.030" end="00:35:24.190" style="s2">for you know few other few thousand</p>
+<p begin="00:35:21.310" end="00:35:26.560" style="s2">years until we finally really get it but</p>
+<p begin="00:35:24.190" end="00:35:28.540" style="s2">it is interesting how that works yeah I</p>
+<p begin="00:35:26.560" end="00:35:29.500" style="s2">think for me one of those most</p>
+<p begin="00:35:28.540" end="00:35:31.630" style="s2">interesting things of what we&#39;ve already</p>
+<p begin="00:35:29.500" end="00:35:33.460" style="s2">covered is this reintroduction of the</p>
+<p begin="00:35:31.630" end="00:35:35.380" style="s2">transcendent</p>
+<p begin="00:35:33.460" end="00:35:36.820" style="s2">I think that&#39;s such a galvanizing pour I</p>
+<p begin="00:35:35.380" end="00:35:38.890" style="s2">think it&#39;s why Star Wars is popular</p>
+<p begin="00:35:36.820" end="00:35:41.050" style="s2">because got the force without the force</p>
+<p begin="00:35:38.890" end="00:35:42.460" style="s2">Star Wars would be just I don&#39;t think it</p>
+<p begin="00:35:41.050" end="00:35:45.420" style="s2">would doing well you know and I&#39;ve often</p>
+<p begin="00:35:42.460" end="00:35:49.060" style="s2">thought about Peterson and that&#39;s the</p>
+<p begin="00:35:45.420" end="00:35:50.160" style="s2">revival that needs to happen but ya know</p>
+<p begin="00:35:49.060" end="00:35:56.350" style="s2">I mean</p>
+<p begin="00:35:50.160" end="00:35:59.710" style="s2">the force is definitely with him for the</p>
+<p begin="00:35:56.350" end="00:36:02.860" style="s2">moment yeah and you know may he you know</p>
+<p begin="00:35:59.710" end="00:36:07.500" style="s2">one of the things I would just say in a</p>
+<p begin="00:36:02.860" end="00:36:10.840" style="s2">favor of Jordan Peterson as you know</p>
+<p begin="00:36:07.500" end="00:36:12.520" style="s2">cutting edge you know even you know I</p>
+<p begin="00:36:10.840" end="00:36:18.180" style="s2">have my critiques about it whatever but</p>
+<p begin="00:36:12.520" end="00:36:21.880" style="s2">he has a flexibility of mind and a</p>
+<p begin="00:36:18.180" end="00:36:25.810" style="s2">resistance to being put in boxes and a</p>
+<p begin="00:36:21.880" end="00:36:28.090" style="s2">sense of I&#39;m learning too you know and a</p>
+<p begin="00:36:25.810" end="00:36:31.150" style="s2">sense of provisional you know that</p>
+<p begin="00:36:28.090" end="00:36:35.170" style="s2">there&#39;s a humility yes yes thank you</p>
+<p begin="00:36:31.150" end="00:36:38.850" style="s2">that I think is remarkable considering</p>
+<p begin="00:36:35.170" end="00:36:41.350" style="s2">all his gifts and so you know I&#39;m a fan</p>
+<p begin="00:36:38.850" end="00:36:43.990" style="s2">yeah I guess that would be my only</p>
+<p begin="00:36:41.350" end="00:36:47.050" style="s2">question is you&#39;ve been quite sort of</p>
+<p begin="00:36:43.990" end="00:36:50.530" style="s2">clear on where you you see him falling</p>
+<p begin="00:36:47.050" end="00:36:52.270" style="s2">short or not his blind spots but you</p>
+<p begin="00:36:50.530" end="00:36:53.350" style="s2">still started off this conversation by</p>
+<p begin="00:36:52.270" end="00:36:56.650" style="s2">saying that you thought he was an</p>
+<p begin="00:36:53.350" end="00:36:59.620" style="s2">integral thinker yeah I mean in you know</p>
+<p begin="00:36:56.650" end="00:37:02.860" style="s2">this is part of the developmental schema</p>
+<p begin="00:36:59.620" end="00:37:05.110" style="s2">but you know we could we develop in</p>
+<p begin="00:37:02.860" end="00:37:06.460" style="s2">certain lines of development and and one</p>
+<p begin="00:37:05.110" end="00:37:09.220" style="s2">of we talked about is sort of the</p>
+<p begin="00:37:06.460" end="00:37:12.520" style="s2">leading line is cognition that is are we</p>
+<p begin="00:37:09.220" end="00:37:15.340" style="s2">actually able to see different systems</p>
+<p begin="00:37:12.520" end="00:37:17.650" style="s2">of thought so there&#39;s one thing to see</p>
+<p begin="00:37:15.340" end="00:37:20.800" style="s2">them and then there&#39;s another thing to</p>
+<p begin="00:37:17.650" end="00:37:24.310" style="s2">sort of install them in your sort of</p>
+<p begin="00:37:20.800" end="00:37:27.310" style="s2">heart and then there&#39;s another thing to</p>
+<p begin="00:37:24.310" end="00:37:31.320" style="s2">really get down into your belly you know</p>
+<p begin="00:37:27.310" end="00:37:34.570" style="s2">so I would say that you know I&#39;m</p>
+<p begin="00:37:31.320" end="00:37:37.900" style="s2">integral from the waist up on a good day</p>
+<p begin="00:37:34.570" end="00:37:39.790" style="s2">you know I&#39;d say George org Peterson is</p>
+<p begin="00:37:37.900" end="00:37:42.700" style="s2">integral from the neck up but a good day</p>
+<p begin="00:37:39.790" end="00:37:46.160" style="s2">I don&#39;t know who knows but that&#39;s what</p>
+<p begin="00:37:42.700" end="00:37:49.130" style="s2">I&#39;m talking about yeah I also think that</p>
+<p begin="00:37:46.160" end="00:37:52.100" style="s2">he seems to have integrated or at least</p>
+<p begin="00:37:49.130" end="00:37:54.020" style="s2">to be able to access read in a way that</p>
+<p begin="00:37:52.100" end="00:37:55.550" style="s2">very few people in this culture are and</p>
+<p begin="00:37:54.020" end="00:37:59.230" style="s2">I think that&#39;s part of what gives him</p>
+<p begin="00:37:55.550" end="00:38:02.630" style="s2">the performative aspect like he he has</p>
+<p begin="00:37:59.230" end="00:38:04.580" style="s2">anger and the shadow at his at his call</p>
+<p begin="00:38:02.630" end="00:38:06.380" style="s2">in a way that for sure quite</p>
+<p begin="00:38:04.580" end="00:38:08.540" style="s2">intimidating as well for a lot of people</p>
+<p begin="00:38:06.380" end="00:38:11.960" style="s2">ya know I think you&#39;re right and that</p>
+<p begin="00:38:08.540" end="00:38:14.960" style="s2">and that also is a marker of integral is</p>
+<p begin="00:38:11.960" end="00:38:17.180" style="s2">somebody who can access read without</p>
+<p begin="00:38:14.960" end="00:38:20.120" style="s2">being you know just completely driven or</p>
+<p begin="00:38:17.180" end="00:38:22.580" style="s2">contained by read but when we talk about</p>
+<p begin="00:38:20.120" end="00:38:25.010" style="s2">read we&#39;re talking about just sure sheer</p>
+<p begin="00:38:22.580" end="00:38:27.230" style="s2">power you know the use of power and so</p>
+<p begin="00:38:25.010" end="00:38:29.630" style="s2">being willing to get into the arena</p>
+<p begin="00:38:27.230" end="00:38:31.550" style="s2">being willing to have conflict being</p>
+<p begin="00:38:29.630" end="00:38:32.840" style="s2">willing to cut somebody&#39;s head off being</p>
+<p begin="00:38:31.550" end="00:38:34.700" style="s2">willing to have your own head cut off</p>
+<p begin="00:38:32.840" end="00:38:37.610" style="s2">you know that kind of stuff that&#39;s</p>
+<p begin="00:38:34.700" end="00:38:40.910" style="s2">warrior today is a good day to die the</p>
+<p begin="00:38:37.610" end="00:38:43.280" style="s2">marker of that redness and we want to</p>
+<p begin="00:38:40.910" end="00:38:45.400" style="s2">have that you know and he does you&#39;re</p>
+<p begin="00:38:43.280" end="00:38:48.620" style="s2">right and that&#39;s one of the reasons that</p>
+<p begin="00:38:45.400" end="00:38:51.200" style="s2">he his followers are so passionate is</p>
+<p begin="00:38:48.620" end="00:38:53.630" style="s2">that they they want and this is</p>
+<p begin="00:38:51.200" end="00:38:56.690" style="s2">evolutionarily potent we what you know</p>
+<p begin="00:38:53.630" end="00:39:00.290" style="s2">we fight our way forward we also the</p>
+<p begin="00:38:56.690" end="00:39:03.950" style="s2">other F word our way forward but fight</p>
+<p begin="00:39:00.290" end="00:39:05.780" style="s2">our way forward to and and so you know</p>
+<p begin="00:39:03.950" end="00:39:07.280" style="s2">that he is a warrior it&#39;s one of the</p>
+<p begin="00:39:05.780" end="00:39:09.410" style="s2">things I talked about I am most admire</p>
+<p begin="00:39:07.280" end="00:39:13.880" style="s2">him in my podcast was that he&#39;s a</p>
+<p begin="00:39:09.410" end="00:39:16.130" style="s2">fighter and yeah that&#39;s that&#39;s you know</p>
+<p begin="00:39:13.880" end="00:39:18.560" style="s2">that&#39;s great I think that&#39;s a that&#39;s a</p>
+<p begin="00:39:16.130" end="00:39:21.680" style="s2">cool quality action because you know to</p>
+<p begin="00:39:18.560" end="00:39:26.720" style="s2">some degree the Trump and brexit</p>
+<p begin="00:39:21.680" end="00:39:28.790" style="s2">phenomena are a reaction against the</p>
+<p begin="00:39:26.720" end="00:39:30.950" style="s2">hypocrisy of green for not integrating</p>
+<p begin="00:39:28.790" end="00:39:32.390" style="s2">their red it&#39;s this kind of like you are</p>
+<p begin="00:39:30.950" end="00:39:35.180" style="s2">not as inclusive as you think you are</p>
+<p begin="00:39:32.390" end="00:39:37.790" style="s2">you&#39;ve got that anger in you like we&#39;re</p>
+<p begin="00:39:35.180" end="00:39:40.390" style="s2">gonna go to you and troll you until you</p>
+<p begin="00:39:37.790" end="00:39:44.570" style="s2">show it like that&#39;s a really interesting</p>
+<p begin="00:39:40.390" end="00:39:47.930" style="s2">thing happening yeah I do too that&#39;s</p>
+<p begin="00:39:44.570" end="00:39:49.570" style="s2">well said yeah I guess that was a big</p>
+<p begin="00:39:47.930" end="00:39:53.480" style="s2">part of the the glitch in the matrix</p>
+<p begin="00:39:49.570" end="00:39:57.080" style="s2">documentary for me was this shadow of</p>
+<p begin="00:39:53.480" end="00:39:59.030" style="s2">liberalism this idea that liberalism is</p>
+<p begin="00:39:57.080" end="00:39:59.900" style="s2">there&#39;s a hypocrisy and liberalism</p>
+<p begin="00:39:59.030" end="00:40:02.000" style="s2">because</p>
+<p begin="00:39:59.900" end="00:40:05.090" style="s2">there is a tribalism we are naturally</p>
+<p begin="00:40:02.000" end="00:40:06.890" style="s2">tribal creatures and until we accept and</p>
+<p begin="00:40:05.090" end="00:40:08.360" style="s2">understand that you know we&#39;re</p>
+<p begin="00:40:06.890" end="00:40:11.540" style="s2">completely open we&#39;re completely</p>
+<p begin="00:40:08.360" end="00:40:13.620" style="s2">accepting we are so tolerant except for</p>
+<p begin="00:40:11.540" end="00:40:18.460" style="s2">those people who don&#39;t think like we do</p>
+<p begin="00:40:13.620" end="00:40:21.740" style="s2">[Laughter]</p>
+<p begin="00:40:18.460" end="00:40:23.270" style="s2">that&#39;s it yeah no it&#39;s true</p>
+<p begin="00:40:21.740" end="00:40:27.530" style="s2">we are the kind of creatures that don&#39;t</p>
+<p begin="00:40:23.270" end="00:40:31.190" style="s2">make sense so I&#39;m glad you like the</p>
+<p begin="00:40:27.530" end="00:40:34.000" style="s2">glitch film as well yeah that&#39;s that&#39;s</p>
+<p begin="00:40:31.190" end="00:40:39.260" style="s2">what I was going to say actually is that</p>
+<p begin="00:40:34.000" end="00:40:42.020" style="s2">in terms of actual integral transmission</p>
+<p begin="00:40:39.260" end="00:40:45.590" style="s2">I thought the glitch in the matrix that</p>
+<p begin="00:40:42.020" end="00:40:48.080" style="s2">you did is as integral as anything I&#39;ve</p>
+<p begin="00:40:45.590" end="00:40:53.000" style="s2">seen the people that you interviewed the</p>
+<p begin="00:40:48.080" end="00:40:55.430" style="s2">way you presented it it was I was</p>
+<p begin="00:40:53.000" end="00:40:57.440" style="s2">thrilled to see it and I&#39;m really</p>
+<p begin="00:40:55.430" end="00:40:59.930" style="s2">interested in seeing you know more of</p>
+<p begin="00:40:57.440" end="00:41:01.880" style="s2">your stuff it&#39;s interesting that you say</p>
+<p begin="00:40:59.930" end="00:41:05.870" style="s2">that the glitch was an integral</p>
+<p begin="00:41:01.880" end="00:41:10.310" style="s2">transmission because at one point I want</p>
+<p begin="00:41:05.870" end="00:41:12.110" style="s2">we did actually record some integral</p>
+<p begin="00:41:10.310" end="00:41:14.390" style="s2">stuff that I was toying with putting in</p>
+<p begin="00:41:12.110" end="00:41:17.060" style="s2">and then he in the end didn&#39;t but it was</p>
+<p begin="00:41:14.390" end="00:41:22.030" style="s2">a real influence on the construction of</p>
+<p begin="00:41:17.060" end="00:41:24.770" style="s2">it and and was yeah a big sort of</p>
+<p begin="00:41:22.030" end="00:41:27.350" style="s2">invisible superstructure on what I was</p>
+<p begin="00:41:24.770" end="00:41:30.230" style="s2">putting together so it&#39;s interesting</p>
+<p begin="00:41:27.350" end="00:41:32.930" style="s2">that you spotted it yeah well if we&#39;re</p>
+<p begin="00:41:30.230" end="00:41:34.940" style="s2">right integral is not just you know a</p>
+<p begin="00:41:32.930" end="00:41:37.970" style="s2">theory it&#39;s the next stage of human</p>
+<p begin="00:41:34.940" end="00:41:39.530" style="s2">history unfolding and so people are</p>
+<p begin="00:41:37.970" end="00:41:41.810" style="s2">going to be thinking integrally whether</p>
+<p begin="00:41:39.530" end="00:41:45.290" style="s2">they have ever read a kid Wilbur book or</p>
+<p begin="00:41:41.810" end="00:41:48.320" style="s2">not and and we&#39;re seeing more and more</p>
+<p begin="00:41:45.290" end="00:41:52.040" style="s2">of that and I boy definitely saw it in</p>
+<p begin="00:41:48.320" end="00:41:54.230" style="s2">your your documentary yeah well really</p>
+<p begin="00:41:52.040" end="00:41:56.860" style="s2">great meeting you David and Allie great</p>
+<p begin="00:41:54.230" end="00:42:00.130" style="s2">meeting you as well yeah yes</p>
+<p begin="00:41:56.860" end="00:42:00.130" style="s2">Godspeed guys</p>
+</div>
+</body>
+</tt>

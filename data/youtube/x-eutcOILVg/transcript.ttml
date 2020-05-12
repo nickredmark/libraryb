@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.220" end="00:00:03.999" style="s2">[Music]</p>
+<p begin="00:00:01.560" end="00:00:07.419" style="s2">hi everybody this is just a quick</p>
+<p begin="00:00:03.999" end="00:00:09.250" style="s2">announcement about Movember so Movember</p>
+<p begin="00:00:07.419" end="00:00:11.440" style="s2">in case anyone doesn&#39;t know is a charity</p>
+<p begin="00:00:09.250" end="00:00:13.150" style="s2">that encourages men to grow a mustache</p>
+<p begin="00:00:11.440" end="00:00:16.449" style="s2">in order to raise money for men&#39;s health</p>
+<p begin="00:00:13.150" end="00:00:17.500" style="s2">and we are gonna do it this year and</p>
+<p begin="00:00:16.449" end="00:00:20.140" style="s2">we&#39;re gonna do it with a little bit of a</p>
+<p begin="00:00:17.500" end="00:00:21.999" style="s2">twist so we&#39;re gonna be raising money to</p>
+<p begin="00:00:20.140" end="00:00:22.990" style="s2">help prevent male suicide which is</p>
+<p begin="00:00:21.999" end="00:00:25.060" style="s2">something that&#39;s very close to our</p>
+<p begin="00:00:22.990" end="00:00:27.730" style="s2">hearts a lot of the men who&#39;ve been on</p>
+<p begin="00:00:25.060" end="00:00:31.449" style="s2">our rebel wisdom weekend have had</p>
+<p begin="00:00:27.730" end="00:00:33.550" style="s2">fathers brothers friends who died too</p>
+<p begin="00:00:31.449" end="00:00:35.800" style="s2">young and so we&#39;d really like to help</p>
+<p begin="00:00:33.550" end="00:00:37.300" style="s2">Movember raise money to support that so</p>
+<p begin="00:00:35.800" end="00:00:39.430" style="s2">normally what happens is that someone</p>
+<p begin="00:00:37.300" end="00:00:42.550" style="s2">grows a mustache which in this case will</p>
+<p begin="00:00:39.430" end="00:00:43.780" style="s2">be me growing a probably quite</p>
+<p begin="00:00:42.550" end="00:00:46.660" style="s2">embarrassing mustache I&#39;m not</p>
+<p begin="00:00:43.780" end="00:00:49.810" style="s2">particularly genetically hairy shall we</p>
+<p begin="00:00:46.660" end="00:00:52.690" style="s2">say but let&#39;s see how it goes and if we</p>
+<p begin="00:00:49.810" end="00:00:55.450" style="s2">raise over a thousand pounds David is</p>
+<p begin="00:00:52.690" end="00:00:56.830" style="s2">going to as we all know David is fully</p>
+<p begin="00:00:55.450" end="00:00:58.260" style="s2">bearded what what are you going to do</p>
+<p begin="00:00:56.830" end="00:01:00.940" style="s2">David if we raise over a thousand pounds</p>
+<p begin="00:00:58.260" end="00:01:04.089" style="s2">if we raise over a thousand pounds I&#39;m</p>
+<p begin="00:01:00.940" end="00:01:05.740" style="s2">going to shave off my beard at the rebel</p>
+<p begin="00:01:04.089" end="00:01:08.409" style="s2">wisdom Christmas party at the end of</p>
+<p begin="00:01:05.740" end="00:01:09.880" style="s2">November so if you&#39;re in London come to</p>
+<p begin="00:01:08.409" end="00:01:12.939" style="s2">the rebel wisdom Christmas party and</p>
+<p begin="00:01:09.880" end="00:01:14.469" style="s2">we&#39;ll make some kind of event I&#39;m</p>
+<p begin="00:01:12.939" end="00:01:17.020" style="s2">thinking about maybe kind of doing</p>
+<p begin="00:01:14.469" end="00:01:20.770" style="s2">different like moustache types may be</p>
+<p begin="00:01:17.020" end="00:01:24.130" style="s2">doing mutton chops and then shaving it</p>
+<p begin="00:01:20.770" end="00:01:26.770" style="s2">off for charity and just to let you guys</p>
+<p begin="00:01:24.130" end="00:01:30.189" style="s2">know if Ali can do it anyone can do it</p>
+<p begin="00:01:26.770" end="00:01:33.219" style="s2">so really yeah and it is really close to</p>
+<p begin="00:01:30.189" end="00:01:35.710" style="s2">our hearts we&#39;ve had it&#39;s interesting of</p>
+<p begin="00:01:33.219" end="00:01:37.090" style="s2">the the the two journalists who came to</p>
+<p begin="00:01:35.710" end="00:01:40.600" style="s2">our men&#39;s weekend&#39;s</p>
+<p begin="00:01:37.090" end="00:01:43.600" style="s2">tim lot and then bradshaw from the BBC</p>
+<p begin="00:01:40.600" end="00:01:45.429" style="s2">both came because and talked about in</p>
+<p begin="00:01:43.600" end="00:01:47.469" style="s2">their articles a friend of those who</p>
+<p begin="00:01:45.429" end="00:01:51.399" style="s2">committed suicide and how they thought</p>
+<p begin="00:01:47.469" end="00:01:53.709" style="s2">that that kind of work a bit more kind</p>
+<p begin="00:01:51.399" end="00:01:54.969" style="s2">of emotional honesty a bit more</p>
+<p begin="00:01:53.709" end="00:01:56.200" style="s2">connection would have made a big</p>
+<p begin="00:01:54.969" end="00:01:57.689" style="s2">difference a bit more brotherhood would</p>
+<p begin="00:01:56.200" end="00:02:01.749" style="s2">have made a big difference to their and</p>
+<p begin="00:01:57.689" end="00:02:03.039" style="s2">their friends so that&#39;s yeah it&#39;s it&#39;s a</p>
+<p begin="00:02:01.749" end="00:02:04.719" style="s2">really good cause and it&#39;s one that&#39;s</p>
+<p begin="00:02:03.039" end="00:02:06.219" style="s2">really important to us and if you want</p>
+<p begin="00:02:04.719" end="00:02:08.830" style="s2">to get involved those basically two ways</p>
+<p begin="00:02:06.219" end="00:02:09.770" style="s2">you can either join us and grow as well</p>
+<p begin="00:02:08.830" end="00:02:12.050" style="s2">and you can kind of</p>
+<p begin="00:02:09.770" end="00:02:13.520" style="s2">have your own account on November and</p>
+<p begin="00:02:12.050" end="00:02:15.620" style="s2">then join the rebel ISM team you just</p>
+<p begin="00:02:13.520" end="00:02:16.700" style="s2">search join a team join rebel wisdom and</p>
+<p begin="00:02:15.620" end="00:02:18.200" style="s2">then the money all gets pulled together</p>
+<p begin="00:02:16.700" end="00:02:19.820" style="s2">so that&#39;s one way you can get absolutely</p>
+<p begin="00:02:18.200" end="00:02:21.740" style="s2">just join in which would be amazing or</p>
+<p begin="00:02:19.820" end="00:02:23.480" style="s2">you can just donate straight up and</p>
+<p begin="00:02:21.740" end="00:02:25.460" style="s2">we&#39;ll put all the information in the</p>
+<p begin="00:02:23.480" end="00:02:27.470" style="s2">show notes here I will be publishing</p>
+<p begin="00:02:25.460" end="00:02:30.770" style="s2">stuff on our Facebook and the community</p>
+<p begin="00:02:27.470" end="00:02:32.300" style="s2">tab throughout the month tracking my</p>
+<p begin="00:02:30.770" end="00:02:33.770" style="s2">moustache progress and then will posted</p>
+<p begin="00:02:32.300" end="00:02:36.500" style="s2">a lot of pictures of David and various</p>
+<p begin="00:02:33.770" end="00:02:38.210" style="s2">states of mutton-chop are-- and who</p>
+<p begin="00:02:36.500" end="00:02:40.670" style="s2">knows what else from the Christmas party</p>
+<p begin="00:02:38.210" end="00:02:43.870" style="s2">so hope you can support thanks a lot for</p>
+<p begin="00:02:40.670" end="00:02:43.870" style="s2">listening and we&#39;ll see you soon</p>
+</div>
+</body>
+</tt>

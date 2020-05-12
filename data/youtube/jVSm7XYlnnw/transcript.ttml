@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.830" end="00:00:07.710" style="s2">[Music]</p>
+<p begin="00:00:05.210" end="00:00:09.570" style="s2">so Diane I&#39;m really looking forward to</p>
+<p begin="00:00:07.710" end="00:00:11.250" style="s2">this conversation because I think you</p>
+<p begin="00:00:09.570" end="00:00:13.350" style="s2">have an experience in so many of the</p>
+<p begin="00:00:11.250" end="00:00:16.289" style="s2">different areas that we&#39;ve been covering</p>
+<p begin="00:00:13.350" end="00:00:18.320" style="s2">on the channel recently we&#39;ve done a lot</p>
+<p begin="00:00:16.289" end="00:00:20.490" style="s2">around difficult conversations</p>
+<p begin="00:00:18.320" end="00:00:22.019" style="s2">polarization and you have a unique</p>
+<p begin="00:00:20.490" end="00:00:24.659" style="s2">background in that I think you&#39;ve been a</p>
+<p begin="00:00:22.019" end="00:00:27.689" style="s2">mediator for several decades</p>
+<p begin="00:00:24.659" end="00:00:29.999" style="s2">you&#39;re also a zen priest with a</p>
+<p begin="00:00:27.689" end="00:00:31.919" style="s2">background in meditation and you&#39;ve also</p>
+<p begin="00:00:29.999" end="00:00:33.810" style="s2">got the integral framework that we found</p>
+<p begin="00:00:31.919" end="00:00:36.420" style="s2">really useful to make sense of a lot of</p>
+<p begin="00:00:33.810" end="00:00:37.859" style="s2">these cultural issues thanks for having</p>
+<p begin="00:00:36.420" end="00:00:39.269" style="s2">me and also thanks for your website I</p>
+<p begin="00:00:37.859" end="00:00:41.160" style="s2">think you guys are doing a fabulous job</p>
+<p begin="00:00:39.269" end="00:00:43.440" style="s2">of bringing all these different streams</p>
+<p begin="00:00:41.160" end="00:00:45.449" style="s2">of understanding together so that we can</p>
+<p begin="00:00:43.440" end="00:00:48.300" style="s2">have a more comprehensive view of how to</p>
+<p begin="00:00:45.449" end="00:00:49.949" style="s2">be most helpful so thank you yeah and I</p>
+<p begin="00:00:48.300" end="00:00:52.140" style="s2">think you&#39;re bringing a really valuable</p>
+<p begin="00:00:49.949" end="00:00:57.480" style="s2">perspective so I&#39;m looking forward to</p>
+<p begin="00:00:52.140" end="00:00:59.070" style="s2">putting that out as well so just sort of</p>
+<p begin="00:00:57.480" end="00:01:01.050" style="s2">framing this at the beginning you&#39;ve</p>
+<p begin="00:00:59.070" end="00:01:03.120" style="s2">obviously been in the area of mediation</p>
+<p begin="00:01:01.050" end="00:01:05.150" style="s2">for several decades</p>
+<p begin="00:01:03.120" end="00:01:07.670" style="s2">do you think that we are in a more</p>
+<p begin="00:01:05.150" end="00:01:10.560" style="s2">polarized and more difficult time than</p>
+<p begin="00:01:07.670" end="00:01:13.500" style="s2">before and how would you frame that how</p>
+<p begin="00:01:10.560" end="00:01:16.830" style="s2">how difficult do you think it is I I</p>
+<p begin="00:01:13.500" end="00:01:19.170" style="s2">would say yes certainly in my lifetime I</p>
+<p begin="00:01:16.830" end="00:01:21.390" style="s2">I feel like the polarization politically</p>
+<p begin="00:01:19.170" end="00:01:24.990" style="s2">and in the public discourse is more</p>
+<p begin="00:01:21.390" end="00:01:27.870" style="s2">extreme and that there is a kind of</p>
+<p begin="00:01:24.990" end="00:01:30.380" style="s2">general sense of threat that we&#39;ve</p>
+<p begin="00:01:27.870" end="00:01:32.670" style="s2">talked about on both sides of this</p>
+<p begin="00:01:30.380" end="00:01:34.340" style="s2">polarization I think some of the it&#39;s</p>
+<p begin="00:01:32.670" end="00:01:37.290" style="s2">due to lots of different factors</p>
+<p begin="00:01:34.340" end="00:01:39.470" style="s2">complexity stresses some of the</p>
+<p begin="00:01:37.290" end="00:01:42.600" style="s2">existential threats that we talk about</p>
+<p begin="00:01:39.470" end="00:01:45.090" style="s2">the speed of technology the lack of</p>
+<p begin="00:01:42.600" end="00:01:47.640" style="s2">groundedness and a relationship to</p>
+<p begin="00:01:45.090" end="00:01:50.340" style="s2">nature as a way of calibrating the</p>
+<p begin="00:01:47.640" end="00:01:52.830" style="s2">nervous system and just just generally</p>
+<p begin="00:01:50.340" end="00:01:55.950" style="s2">speaking the sort of human population</p>
+<p begin="00:01:52.830" end="00:01:58.170" style="s2">and pressures on the globe so there are</p>
+<p begin="00:01:55.950" end="00:02:00.150" style="s2">all kinds of reasons for why it&#39;s the</p>
+<p begin="00:01:58.170" end="00:02:01.980" style="s2">case but I think the last time we</p>
+<p begin="00:02:00.150" end="00:02:04.200" style="s2">experienced this in the States was</p>
+<p begin="00:02:01.980" end="00:02:06.180" style="s2">during the Vietnam War where there was</p>
+<p begin="00:02:04.200" end="00:02:07.950" style="s2">intense polarization but the one thing</p>
+<p begin="00:02:06.180" end="00:02:10.979" style="s2">that was really quite different than in</p>
+<p begin="00:02:07.950" end="00:02:13.710" style="s2">my view is that the media still held</p>
+<p begin="00:02:10.979" end="00:02:15.300" style="s2">this sort of third-person empiric</p>
+<p begin="00:02:13.710" end="00:02:16.950" style="s2">perspective so at the end of the day</p>
+<p begin="00:02:15.300" end="00:02:20.550" style="s2">there were three</p>
+<p begin="00:02:16.950" end="00:02:22.860" style="s2">they were reporting on facts and and</p>
+<p begin="00:02:20.550" end="00:02:24.840" style="s2">that so basically that the kind of</p>
+<p begin="00:02:22.860" end="00:02:28.349" style="s2">second person struggle was mediated to</p>
+<p begin="00:02:24.840" end="00:02:32.340" style="s2">some degree by by media whereas now as</p>
+<p begin="00:02:28.349" end="00:02:34.980" style="s2">we know media is highly opinionated and</p>
+<p begin="00:02:32.340" end="00:02:37.980" style="s2">filtered and we don&#39;t have that sort of</p>
+<p begin="00:02:34.980" end="00:02:40.580" style="s2">empiric voice which in a certain way you</p>
+<p begin="00:02:37.980" end="00:02:43.410" style="s2">know our justice system relies on that</p>
+<p begin="00:02:40.580" end="00:02:45.360" style="s2">you know science relies on that and and</p>
+<p begin="00:02:43.410" end="00:02:47.760" style="s2">in the public discourse we don&#39;t have a</p>
+<p begin="00:02:45.360" end="00:02:51.269" style="s2">mediating third party yeah and I think</p>
+<p begin="00:02:47.760" end="00:02:53.880" style="s2">it&#39;s even hard to imagine what or who</p>
+<p begin="00:02:51.269" end="00:02:57.209" style="s2">that might be nowadays and what do you</p>
+<p begin="00:02:53.880" end="00:02:59.250" style="s2">think of the most relevant tips or</p>
+<p begin="00:02:57.209" end="00:03:02.280" style="s2">practices from conflict resolution that</p>
+<p begin="00:02:59.250" end="00:03:05.280" style="s2">that we need to develop well you&#39;ve</p>
+<p begin="00:03:02.280" end="00:03:08.400" style="s2">given a lot of attention on your channel</p>
+<p begin="00:03:05.280" end="00:03:11.459" style="s2">on to and on your website to this</p>
+<p begin="00:03:08.400" end="00:03:13.709" style="s2">question of the neurobiology and I would</p>
+<p begin="00:03:11.459" end="00:03:15.120" style="s2">agree with many of the people that</p>
+<p begin="00:03:13.709" end="00:03:18.870" style="s2">you&#39;ve interviewed that within a</p>
+<p begin="00:03:15.120" end="00:03:20.730" style="s2">conflict situation neurobiology drives a</p>
+<p begin="00:03:18.870" end="00:03:24.660" style="s2">lot of what happens so we really do need</p>
+<p begin="00:03:20.730" end="00:03:26.790" style="s2">to start there in terms of the the</p>
+<p begin="00:03:24.660" end="00:03:28.920" style="s2">relaxed resting state or the social</p>
+<p begin="00:03:26.790" end="00:03:32.510" style="s2">state in terms of fight or flight and</p>
+<p begin="00:03:28.920" end="00:03:35.280" style="s2">then at this question of shutting down</p>
+<p begin="00:03:32.510" end="00:03:37.340" style="s2">so I think that working with the body is</p>
+<p begin="00:03:35.280" end="00:03:39.569" style="s2">sort of the first thing and that can be</p>
+<p begin="00:03:37.340" end="00:03:41.370" style="s2">individually or that can be working in</p>
+<p begin="00:03:39.569" end="00:03:43.079" style="s2">small groups but I think it can also be</p>
+<p begin="00:03:41.370" end="00:03:45.560" style="s2">worked with a little bit of scale</p>
+<p begin="00:03:43.079" end="00:03:48.630" style="s2">because it&#39;s such it&#39;s so contagious</p>
+<p begin="00:03:45.560" end="00:03:51.209" style="s2">when fight or flight or being triggered</p>
+<p begin="00:03:48.630" end="00:03:53.280" style="s2">or aroused it&#39;s happening it usually</p>
+<p begin="00:03:51.209" end="00:03:55.350" style="s2">spreads relatively easily so one of the</p>
+<p begin="00:03:53.280" end="00:03:59.250" style="s2">technologies would would be how to calm</p>
+<p begin="00:03:55.350" end="00:04:00.720" style="s2">an entire room or how to encode a of</p>
+<p begin="00:03:59.250" end="00:04:03.840" style="s2">people at once that would be one thing</p>
+<p begin="00:04:00.720" end="00:04:05.970" style="s2">that we really care about in my work I</p>
+<p begin="00:04:03.840" end="00:04:08.670" style="s2">really am pointing people to the body a</p>
+<p begin="00:04:05.970" end="00:04:10.889" style="s2">lot to really experience states of</p>
+<p begin="00:04:08.670" end="00:04:13.410" style="s2">relaxation when the room becomes</p>
+<p begin="00:04:10.889" end="00:04:15.630" style="s2">coherent when energy is flowing easily</p>
+<p begin="00:04:13.410" end="00:04:17.910" style="s2">and when the nervous systems are aroused</p>
+<p begin="00:04:15.630" end="00:04:19.669" style="s2">when there&#39;s high differentiation when</p>
+<p begin="00:04:17.910" end="00:04:22.530" style="s2">the experience of threat or</p>
+<p begin="00:04:19.669" end="00:04:25.770" style="s2">defensiveness arises and how to actually</p>
+<p begin="00:04:22.530" end="00:04:27.870" style="s2">not to want one of the differences I may</p>
+<p begin="00:04:25.770" end="00:04:30.230" style="s2">have with some people is not to</p>
+<p begin="00:04:27.870" end="00:04:32.930" style="s2">necessarily always seek to</p>
+<p begin="00:04:30.230" end="00:04:36.650" style="s2">home that differentiation and arousal</p>
+<p begin="00:04:32.930" end="00:04:38.420" style="s2">but rather to utilize it to bring more</p>
+<p begin="00:04:36.650" end="00:04:41.060" style="s2">more creativity and sometimes more</p>
+<p begin="00:04:38.420" end="00:04:43.010" style="s2">intensity into the room so that it</p>
+<p begin="00:04:41.060" end="00:04:45.380" style="s2">actually can really serve to heighten</p>
+<p begin="00:04:43.010" end="00:04:49.190" style="s2">people&#39;s awareness to bring people fully</p>
+<p begin="00:04:45.380" end="00:04:51.350" style="s2">into a state together and then what is</p>
+<p begin="00:04:49.190" end="00:04:54.020" style="s2">the moment where you need to now shift</p>
+<p begin="00:04:51.350" end="00:04:55.670" style="s2">into some sort of fluidity so I think</p>
+<p begin="00:04:54.020" end="00:04:56.930" style="s2">the neurobiology is really really</p>
+<p begin="00:04:55.670" end="00:04:58.700" style="s2">critical</p>
+<p begin="00:04:56.930" end="00:05:00.470" style="s2">you know the very typical skills that</p>
+<p begin="00:04:58.700" end="00:05:03.340" style="s2">come from good communication or from</p>
+<p begin="00:05:00.470" end="00:05:06.280" style="s2">circling skills like listening</p>
+<p begin="00:05:03.340" end="00:05:08.390" style="s2">reflecting expressing yourself</p>
+<p begin="00:05:06.280" end="00:05:10.100" style="s2">connecting to your own life force and</p>
+<p begin="00:05:08.390" end="00:05:12.380" style="s2">energy around what&#39;s passionate when you</p>
+<p begin="00:05:10.100" end="00:05:15.410" style="s2">express yourself learning how to express</p>
+<p begin="00:05:12.380" end="00:05:17.360" style="s2">opinions that are not necessarily going</p>
+<p begin="00:05:15.410" end="00:05:19.430" style="s2">to be shared how do you do it in a way</p>
+<p begin="00:05:17.360" end="00:05:21.980" style="s2">that&#39;s respectful of others how do you</p>
+<p begin="00:05:19.430" end="00:05:23.390" style="s2">also hold multiple perspectives now</p>
+<p begin="00:05:21.980" end="00:05:25.430" style="s2">right here gets a little bit dicey</p>
+<p begin="00:05:23.390" end="00:05:27.890" style="s2">because some of these communication</p>
+<p begin="00:05:25.430" end="00:05:28.940" style="s2">skills correlate to what we we talk</p>
+<p begin="00:05:27.890" end="00:05:32.120" style="s2">about when we talk about human</p>
+<p begin="00:05:28.940" end="00:05:34.970" style="s2">development it is not a given that</p>
+<p begin="00:05:32.120" end="00:05:36.920" style="s2">everyone in the room can hold two</p>
+<p begin="00:05:34.970" end="00:05:39.220" style="s2">perspectives in their body mind at the</p>
+<p begin="00:05:36.920" end="00:05:41.930" style="s2">same time without an overabundance of</p>
+<p begin="00:05:39.220" end="00:05:44.450" style="s2">chaos and tension and will naturally</p>
+<p begin="00:05:41.930" end="00:05:47.480" style="s2">collapse into one so one of the ways</p>
+<p begin="00:05:44.450" end="00:05:49.700" style="s2">that I became engaged with Ken Wilber an</p>
+<p begin="00:05:47.480" end="00:05:52.550" style="s2">integral Institute is that in my work as</p>
+<p begin="00:05:49.700" end="00:05:54.380" style="s2">a mediator particularly around difficult</p>
+<p begin="00:05:52.550" end="00:05:56.780" style="s2">conversations like race and gender and</p>
+<p begin="00:05:54.380" end="00:05:59.120" style="s2">social justice and those kinds of things</p>
+<p begin="00:05:56.780" end="00:06:01.400" style="s2">is I started to observe real differences</p>
+<p begin="00:05:59.120" end="00:06:02.780" style="s2">in people&#39;s capacities some people</p>
+<p begin="00:06:01.400" end="00:06:04.370" style="s2">couldn&#39;t take their own perspective</p>
+<p begin="00:06:02.780" end="00:06:06.560" style="s2">they&#39;d either been abused or</p>
+<p begin="00:06:04.370" end="00:06:08.810" style="s2">marginalized some people could take one</p>
+<p begin="00:06:06.560" end="00:06:10.880" style="s2">perspective their own but not the other</p>
+<p begin="00:06:08.810" end="00:06:12.350" style="s2">some people could take their own and</p>
+<p begin="00:06:10.880" end="00:06:14.480" style="s2">even start to be able to hear the</p>
+<p begin="00:06:12.350" end="00:06:16.610" style="s2">perspective of others but couldn&#39;t take</p>
+<p begin="00:06:14.480" end="00:06:19.400" style="s2">a perspective of a court or a judge and</p>
+<p begin="00:06:16.610" end="00:06:21.920" style="s2">that was literally that observation I</p>
+<p begin="00:06:19.400" end="00:06:23.930" style="s2">started to use a stage model in my own</p>
+<p begin="00:06:21.920" end="00:06:27.050" style="s2">work I started to work with Elisabeth</p>
+<p begin="00:06:23.930" end="00:06:29.630" style="s2">kubler-ross as stages of grief to talk</p>
+<p begin="00:06:27.050" end="00:06:31.910" style="s2">about race people in denial people angry</p>
+<p begin="00:06:29.630" end="00:06:34.550" style="s2">bargaining and then shortly after that I</p>
+<p begin="00:06:31.910" end="00:06:36.230" style="s2">was introduced to Ken so we have to talk</p>
+<p begin="00:06:34.550" end="00:06:39.440" style="s2">development whenever we talk about these</p>
+<p begin="00:06:36.230" end="00:06:41.750" style="s2">skill sets so we have the body we have</p>
+<p begin="00:06:39.440" end="00:06:44.810" style="s2">the simple communication skills I think</p>
+<p begin="00:06:41.750" end="00:06:46.670" style="s2">there&#39;s a lot about negotiation</p>
+<p begin="00:06:44.810" end="00:06:48.920" style="s2">that really is helpful and I think the</p>
+<p begin="00:06:46.670" end="00:06:51.380" style="s2">book that Roger Fisher and William ury</p>
+<p begin="00:06:48.920" end="00:06:53.030" style="s2">wrote back in the 80s getting TS is a</p>
+<p begin="00:06:51.380" end="00:06:55.670" style="s2">really simple great model for</p>
+<p begin="00:06:53.030" end="00:06:58.340" style="s2">negotiation and that&#39;s really important</p>
+<p begin="00:06:55.670" end="00:06:59.840" style="s2">and then questions around Authority and</p>
+<p begin="00:06:58.340" end="00:07:01.400" style="s2">leadership is another one we have to</p>
+<p begin="00:06:59.840" end="00:07:03.470" style="s2">look at you and I were speaking earlier</p>
+<p begin="00:07:01.400" end="00:07:06.040" style="s2">about it&#39;s difficult to find people that</p>
+<p begin="00:07:03.470" end="00:07:09.080" style="s2">can represent a neutral perspective</p>
+<p begin="00:07:06.040" end="00:07:10.610" style="s2">within pluralist culture we tend to</p>
+<p begin="00:07:09.080" end="00:07:13.190" style="s2">flatten hierarchies and we want</p>
+<p begin="00:07:10.610" end="00:07:15.560" style="s2">leadership to emerge from a grassroots</p>
+<p begin="00:07:13.190" end="00:07:16.970" style="s2">perspective so that&#39;s just a basket full</p>
+<p begin="00:07:15.560" end="00:07:19.460" style="s2">of things that I think are important</p>
+<p begin="00:07:16.970" end="00:07:21.860" style="s2">differences in cultural sets differences</p>
+<p begin="00:07:19.460" end="00:07:23.960" style="s2">in rituals differences in how we come</p>
+<p begin="00:07:21.860" end="00:07:26.120" style="s2">into ceremony together those are all</p>
+<p begin="00:07:23.960" end="00:07:27.620" style="s2">things that from a big-picture or at</p>
+<p begin="00:07:26.120" end="00:07:29.390" style="s2">play when we talk about conflict</p>
+<p begin="00:07:27.620" end="00:07:30.980" style="s2">resolution yeah there was a there was a</p>
+<p begin="00:07:29.390" end="00:07:35.030" style="s2">lot there that I&#39;m really interested to</p>
+<p begin="00:07:30.980" end="00:07:37.460" style="s2">dig into the physiology piece let&#39;s</p>
+<p begin="00:07:35.030" end="00:07:38.810" style="s2">start with because we were just talking</p>
+<p begin="00:07:37.460" end="00:07:42.020" style="s2">a little bit before we started recording</p>
+<p begin="00:07:38.810" end="00:07:44.180" style="s2">and one of the things that I think is</p>
+<p begin="00:07:42.020" end="00:07:46.340" style="s2">incredibly valuable from the work that</p>
+<p begin="00:07:44.180" end="00:07:50.030" style="s2">we put out the interviews that we did</p>
+<p begin="00:07:46.340" end="00:07:51.650" style="s2">with Steven Porges and reflecting on his</p>
+<p begin="00:07:50.030" end="00:07:52.670" style="s2">polyvagal theory and the somatic</p>
+<p begin="00:07:51.650" end="00:07:55.730" style="s2">experiencing work</p>
+<p begin="00:07:52.670" end="00:07:57.890" style="s2">there&#39;s this idea about either being an</p>
+<p begin="00:07:55.730" end="00:08:00.650" style="s2">exploratory or defensive frame of mind</p>
+<p begin="00:07:57.890" end="00:08:02.480" style="s2">and you you&#39;ve sort of disagreed with</p>
+<p begin="00:08:00.650" end="00:08:03.710" style="s2">that and I I think it&#39;s really</p>
+<p begin="00:08:02.480" end="00:08:05.930" style="s2">interesting that you you raised the</p>
+<p begin="00:08:03.710" end="00:08:07.940" style="s2">question of well sometimes we need to</p>
+<p begin="00:08:05.930" end="00:08:09.920" style="s2">have a little bit more disagreement or</p>
+<p begin="00:08:07.940" end="00:08:11.240" style="s2">elevate the the energy in the room and I</p>
+<p begin="00:08:09.920" end="00:08:14.960" style="s2">think that I&#39;d love to hear a bit more</p>
+<p begin="00:08:11.240" end="00:08:17.720" style="s2">about that yes I would agree and now and</p>
+<p begin="00:08:14.960" end="00:08:20.180" style="s2">I I this is how I think a little bit and</p>
+<p begin="00:08:17.720" end="00:08:22.760" style="s2">keep in mind I&#39;m I&#39;m a mediator in the</p>
+<p begin="00:08:20.180" end="00:08:25.040" style="s2">trenches I work with people I&#39;m in great</p>
+<p begin="00:08:22.760" end="00:08:27.440" style="s2">admiration of theorists and magnet map</p>
+<p begin="00:08:25.040" end="00:08:29.930" style="s2">makers I rely on them but in really</p>
+<p begin="00:08:27.440" end="00:08:31.760" style="s2">really crude strokes so I&#39;ve learned</p>
+<p begin="00:08:29.930" end="00:08:34.880" style="s2">tremendous amount from from Ken Wilber</p>
+<p begin="00:08:31.760" end="00:08:37.520" style="s2">as you know and others but I I just do</p>
+<p begin="00:08:34.880" end="00:08:40.940" style="s2">it on the spot and what I&#39;ve observed</p>
+<p begin="00:08:37.520" end="00:08:43.040" style="s2">there&#39;s an idea that you know that the</p>
+<p begin="00:08:40.940" end="00:08:45.350" style="s2">universe kind of creates itself through</p>
+<p begin="00:08:43.040" end="00:08:47.890" style="s2">this incredible feedback loop of</p>
+<p begin="00:08:45.350" end="00:08:50.570" style="s2">sameness and difference right that that</p>
+<p begin="00:08:47.890" end="00:08:52.130" style="s2">at any one moment you know we take</p>
+<p begin="00:08:50.570" end="00:08:54.350" style="s2">something like a great sports play</p>
+<p begin="00:08:52.130" end="00:08:56.930" style="s2">there&#39;s a tremendous amount of coherence</p>
+<p begin="00:08:54.350" end="00:08:57.920" style="s2">and there&#39;s also differentiation right</p>
+<p begin="00:08:56.930" end="00:08:59.360" style="s2">because if there isn&#39;t</p>
+<p begin="00:08:57.920" end="00:09:01.670" style="s2">Ferengi ation someone doesn&#39;t receive</p>
+<p begin="00:08:59.360" end="00:09:02.329" style="s2">the pass and and go for the basket so</p>
+<p begin="00:09:01.670" end="00:09:03.320" style="s2">it&#39;s both</p>
+<p begin="00:09:02.329" end="00:09:06.170" style="s2">you know it&#39;s sameness and difference</p>
+<p begin="00:09:03.320" end="00:09:08.720" style="s2">all the time and these these are these</p>
+<p begin="00:09:06.170" end="00:09:11.300" style="s2">correlate to the body so this sense of</p>
+<p begin="00:09:08.720" end="00:09:13.880" style="s2">relaxation of coherence of sameness and</p>
+<p begin="00:09:11.300" end="00:09:16.220" style="s2">the feeling of psychological safety is</p>
+<p begin="00:09:13.880" end="00:09:17.870" style="s2">really important but the arousal in the</p>
+<p begin="00:09:16.220" end="00:09:20.240" style="s2">nervous system is also similarly</p>
+<p begin="00:09:17.870" end="00:09:22.430" style="s2">important in terms of our growth so we</p>
+<p begin="00:09:20.240" end="00:09:24.620" style="s2">differentiate in order to grow and</p>
+<p begin="00:09:22.430" end="00:09:28.370" style="s2">expand so one of the things that I&#39;ve</p>
+<p begin="00:09:24.620" end="00:09:30.350" style="s2">been exploring and working with this the</p>
+<p begin="00:09:28.370" end="00:09:32.600" style="s2">idea that the brain also evolves that</p>
+<p begin="00:09:30.350" end="00:09:35.600" style="s2">way that it evolves through that kind of</p>
+<p begin="00:09:32.600" end="00:09:37.699" style="s2">highly coherent systems and then new new</p>
+<p begin="00:09:35.600" end="00:09:40.940" style="s2">pathways emerge and then those pathways</p>
+<p begin="00:09:37.699" end="00:09:43.579" style="s2">become integrated so my proposition is</p>
+<p begin="00:09:40.940" end="00:09:47.329" style="s2">that we&#39;re capable of being triggered</p>
+<p begin="00:09:43.579" end="00:09:50.750" style="s2">and either through extending awareness</p>
+<p begin="00:09:47.329" end="00:09:53.089" style="s2">as coming from meditation practice</p>
+<p begin="00:09:50.750" end="00:09:56.600" style="s2">feeling triggered and being super aware</p>
+<p begin="00:09:53.089" end="00:09:58.610" style="s2">and expanding ourselves to include the</p>
+<p begin="00:09:56.600" end="00:10:00.980" style="s2">whole experience of the space or giving</p>
+<p begin="00:09:58.610" end="00:10:02.540" style="s2">a cognitive hue like I know I&#39;m</p>
+<p begin="00:10:00.980" end="00:10:04.490" style="s2">triggered right now but actually I&#39;m</p>
+<p begin="00:10:02.540" end="00:10:05.899" style="s2">going to continue to listen to what</p>
+<p begin="00:10:04.490" end="00:10:08.300" style="s2">someone&#39;s saying to me and I&#39;m gonna</p>
+<p begin="00:10:05.899" end="00:10:11.720" style="s2">look for the moment when relaxation sets</p>
+<p begin="00:10:08.300" end="00:10:14.120" style="s2">back in again and I kind of believe that</p>
+<p begin="00:10:11.720" end="00:10:15.920" style="s2">doing that is creating some new pathways</p>
+<p begin="00:10:14.120" end="00:10:17.480" style="s2">in the brain I could be wrong you know</p>
+<p begin="00:10:15.920" end="00:10:19.699" style="s2">cuz I really I&#39;m not an expert in that</p>
+<p begin="00:10:17.480" end="00:10:22.579" style="s2">but the sense that you can actually get</p>
+<p begin="00:10:19.699" end="00:10:24.800" style="s2">to where you can do both because that&#39;s</p>
+<p begin="00:10:22.579" end="00:10:27.320" style="s2">what we can start to do is we do these</p>
+<p begin="00:10:24.800" end="00:10:28.940" style="s2">we move to more complexity so it&#39;s one</p>
+<p begin="00:10:27.320" end="00:10:31.100" style="s2">thing to be super relaxed in the nervous</p>
+<p begin="00:10:28.940" end="00:10:32.690" style="s2">system and not be able to receive</p>
+<p begin="00:10:31.100" end="00:10:34.399" style="s2">information it&#39;s another thing to be</p>
+<p begin="00:10:32.690" end="00:10:36.290" style="s2">triggered and actually capable of</p>
+<p begin="00:10:34.399" end="00:10:38.120" style="s2">hearing information that then affects</p>
+<p begin="00:10:36.290" end="00:10:39.890" style="s2">the nervous system so that&#39;s how I think</p>
+<p begin="00:10:38.120" end="00:10:42.160" style="s2">about it whether it&#39;s true or not I</p>
+<p begin="00:10:39.890" end="00:10:44.990" style="s2">really don&#39;t know it is in my experience</p>
+<p begin="00:10:42.160" end="00:10:46.399" style="s2">I&#39;d also like to talk to you about</p>
+<p begin="00:10:44.990" end="00:10:48.199" style="s2">collective intelligence which is</p>
+<p begin="00:10:46.399" end="00:10:49.699" style="s2">something that we&#39;ve been discussing</p>
+<p begin="00:10:48.199" end="00:10:50.949" style="s2">quite a bit on the channel recently and</p>
+<p begin="00:10:49.699" end="00:10:53.569" style="s2">had a lot of really interesting</p>
+<p begin="00:10:50.949" end="00:10:55.670" style="s2">contributions from people like Jamie</p>
+<p begin="00:10:53.569" end="00:10:58.459" style="s2">wheel Daniel SHM Acton Berger Jordan</p>
+<p begin="00:10:55.670" end="00:11:02.420" style="s2">green hall Bonita Roy and quite a few</p>
+<p begin="00:10:58.459" end="00:11:04.310" style="s2">others and yeah I know that you&#39;ve got a</p>
+<p begin="00:11:02.420" end="00:11:05.690" style="s2">few perspectives to offer because I</p>
+<p begin="00:11:04.310" end="00:11:10.190" style="s2">think you&#39;ve also seen some of these</p>
+<p begin="00:11:05.690" end="00:11:11.630" style="s2">these films so I might be interested to</p>
+<p begin="00:11:10.190" end="00:11:13.220" style="s2">just ask you</p>
+<p begin="00:11:11.630" end="00:11:15.260" style="s2">kind of freestyle a little bit on what</p>
+<p begin="00:11:13.220" end="00:11:17.470" style="s2">you think of the important distinctions</p>
+<p begin="00:11:15.260" end="00:11:20.360" style="s2">and the important differences between</p>
+<p begin="00:11:17.470" end="00:11:23.330" style="s2">for example coherence and collective</p>
+<p begin="00:11:20.360" end="00:11:25.730" style="s2">intelligence the nature of difference</p>
+<p begin="00:11:23.330" end="00:11:29.270" style="s2">and the nature of coherence and how it&#39;s</p>
+<p begin="00:11:25.730" end="00:11:31.130" style="s2">important to balance those and and how</p>
+<p begin="00:11:29.270" end="00:11:32.930" style="s2">do you start how would you frame what</p>
+<p begin="00:11:31.130" end="00:11:34.700" style="s2">collective intelligence means to you</p>
+<p begin="00:11:32.930" end="00:11:38.270" style="s2">before we sort of go into those</p>
+<p begin="00:11:34.700" end="00:11:43.760" style="s2">distinctions I see collective</p>
+<p begin="00:11:38.270" end="00:11:47.870" style="s2">intelligence as basically the capacity</p>
+<p begin="00:11:43.760" end="00:11:52.210" style="s2">of a group regardless of size to</p>
+<p begin="00:11:47.870" end="00:11:53.960" style="s2">function optimally and holistically and</p>
+<p begin="00:11:52.210" end="00:11:56.240" style="s2">compassionately for the well-being of</p>
+<p begin="00:11:53.960" end="00:11:59.090" style="s2">the whole that&#39;s how I would define</p>
+<p begin="00:11:56.240" end="00:12:01.580" style="s2">collective intelligence and again it can</p>
+<p begin="00:11:59.090" end="00:12:03.740" style="s2">be it can be within family system it can</p>
+<p begin="00:12:01.580" end="00:12:06.560" style="s2">be within some sort of creative</p>
+<p begin="00:12:03.740" end="00:12:08.570" style="s2">enterprise or it can be a nation state</p>
+<p begin="00:12:06.560" end="00:12:12.980" style="s2">you know what what is it how is the</p>
+<p begin="00:12:08.570" end="00:12:14.810" style="s2">group functioning as a collective and is</p>
+<p begin="00:12:12.980" end="00:12:15.370" style="s2">it is it for the benefit of the entire</p>
+<p begin="00:12:14.810" end="00:12:18.770" style="s2">group</p>
+<p begin="00:12:15.370" end="00:12:20.540" style="s2">and Bonita Roy drew out a really</p>
+<p begin="00:12:18.770" end="00:12:22.340" style="s2">interesting distinction when I spoke to</p>
+<p begin="00:12:20.540" end="00:12:23.930" style="s2">her that there&#39;s a difference between</p>
+<p begin="00:12:22.340" end="00:12:26.330" style="s2">collective intelligence and what she</p>
+<p begin="00:12:23.930" end="00:12:28.700" style="s2">calls collective insight practice which</p>
+<p begin="00:12:26.330" end="00:12:31.670" style="s2">is more about getting a group of people</p>
+<p begin="00:12:28.700" end="00:12:34.460" style="s2">together and then entering a space where</p>
+<p begin="00:12:31.670" end="00:12:36.830" style="s2">what comes out is more than was present</p>
+<p begin="00:12:34.460" end="00:12:39.310" style="s2">in any one of those people before they</p>
+<p begin="00:12:36.830" end="00:12:42.290" style="s2">they went in so it&#39;s it&#39;s kind of a</p>
+<p begin="00:12:39.310" end="00:12:43.850" style="s2">almost like a group mind process which</p>
+<p begin="00:12:42.290" end="00:12:45.650" style="s2">is a slightly different thing I think</p>
+<p begin="00:12:43.850" end="00:12:47.210" style="s2">it&#39;s a really valuable distinction have</p>
+<p begin="00:12:45.650" end="00:12:52.190" style="s2">you had experiences with those kind of</p>
+<p begin="00:12:47.210" end="00:12:55.180" style="s2">processes well you did I mean yes I mean</p>
+<p begin="00:12:52.190" end="00:12:57.500" style="s2">in the sense that I would say that my</p>
+<p begin="00:12:55.180" end="00:12:59.990" style="s2">probably my earliest training with</p>
+<p begin="00:12:57.500" end="00:13:02.300" style="s2">collective intelligence was as a kid</p>
+<p begin="00:12:59.990" end="00:13:04.130" style="s2">being an athlete and that I was a</p>
+<p begin="00:13:02.300" end="00:13:05.750" style="s2">basketball player and so a lot of what</p>
+<p begin="00:13:04.130" end="00:13:08.270" style="s2">we were being trained in was collective</p>
+<p begin="00:13:05.750" end="00:13:11.300" style="s2">intelligence how we we gave and received</p>
+<p begin="00:13:08.270" end="00:13:13.610" style="s2">to each other in order for us to to</p>
+<p begin="00:13:11.300" end="00:13:15.770" style="s2">perform I&#39;m less interested in content</p>
+<p begin="00:13:13.610" end="00:13:17.690" style="s2">lots of times and I&#39;m more interested in</p>
+<p begin="00:13:15.770" end="00:13:19.880" style="s2">watching how energy is moving and how</p>
+<p begin="00:13:17.690" end="00:13:22.640" style="s2">life force is moving when is the group</p>
+<p begin="00:13:19.880" end="00:13:25.220" style="s2">becoming flat and uninteresting when is</p>
+<p begin="00:13:22.640" end="00:13:25.490" style="s2">one side becoming victimized and the</p>
+<p begin="00:13:25.220" end="00:13:28.190" style="s2">others</p>
+<p begin="00:13:25.490" end="00:13:31.070" style="s2">becoming somewhat sadistic when is there</p>
+<p begin="00:13:28.190" end="00:13:32.690" style="s2">some burst of tremendous creativity and</p>
+<p begin="00:13:31.070" end="00:13:35.420" style="s2">how do people organize and integrate</p>
+<p begin="00:13:32.690" end="00:13:38.230" style="s2">that so really watching the way in which</p>
+<p begin="00:13:35.420" end="00:13:41.000" style="s2">life force moves and changes because you</p>
+<p begin="00:13:38.230" end="00:13:43.250" style="s2">become super important but I think</p>
+<p begin="00:13:41.000" end="00:13:45.200" style="s2">collective intelligence sometimes people</p>
+<p begin="00:13:43.250" end="00:13:47.360" style="s2">have the idea that we just perform as a</p>
+<p begin="00:13:45.200" end="00:13:49.760" style="s2">group and what I&#39;m trying to say that I</p>
+<p begin="00:13:47.360" end="00:13:51.860" style="s2">think individual autonomy is essential</p>
+<p begin="00:13:49.760" end="00:13:54.920" style="s2">to collective intelligence I think they</p>
+<p begin="00:13:51.860" end="00:13:56.870" style="s2">they can&#39;t be separated and and also I</p>
+<p begin="00:13:54.920" end="00:13:59.810" style="s2">think you know this is in the context of</p>
+<p begin="00:13:56.870" end="00:14:01.730" style="s2">transformational workshops but I also</p>
+<p begin="00:13:59.810" end="00:14:03.620" style="s2">like to look at transformational</p>
+<p begin="00:14:01.730" end="00:14:05.870" style="s2">workshops to see what lessons can be</p>
+<p begin="00:14:03.620" end="00:14:08.320" style="s2">taken from them that can be applied in</p>
+<p begin="00:14:05.870" end="00:14:11.120" style="s2">culture generally speaking like the way</p>
+<p begin="00:14:08.320" end="00:14:14.779" style="s2">crisis gives way to new openings you</p>
+<p begin="00:14:11.120" end="00:14:18.890" style="s2">know or how I always like to say that in</p>
+<p begin="00:14:14.779" end="00:14:21.020" style="s2">my seminars there&#39;s you know and they</p>
+<p begin="00:14:18.890" end="00:14:23.180" style="s2">could be you know a very small seminar</p>
+<p begin="00:14:21.020" end="00:14:25.730" style="s2">say under 20 people or 20 people all the</p>
+<p begin="00:14:23.180" end="00:14:28.640" style="s2">way up to seminars with you know 600</p>
+<p begin="00:14:25.730" end="00:14:31.190" style="s2">people is that there&#39;s always just the</p>
+<p begin="00:14:28.640" end="00:14:32.540" style="s2">right amount of trouble you know there&#39;s</p>
+<p begin="00:14:31.190" end="00:14:34.430" style="s2">always just the right amount of trouble</p>
+<p begin="00:14:32.540" end="00:14:36.290" style="s2">there&#39;s never too much you never have in</p>
+<p begin="00:14:34.430" end="00:14:38.870" style="s2">it let&#39;s say in a workshop of 50 people</p>
+<p begin="00:14:36.290" end="00:14:41.480" style="s2">you never have ten problematic people</p>
+<p begin="00:14:38.870" end="00:14:43.310" style="s2">you always have to you know or you</p>
+<p begin="00:14:41.480" end="00:14:44.750" style="s2">always have three and I think in some</p>
+<p begin="00:14:43.310" end="00:14:46.880" style="s2">ways I don&#39;t know if that&#39;s just what</p>
+<p begin="00:14:44.750" end="00:14:48.829" style="s2">happens in groups but for some reason</p>
+<p begin="00:14:46.880" end="00:14:51.649" style="s2">everybody there&#39;s always just enough</p>
+<p begin="00:14:48.829" end="00:14:54.410" style="s2">drama and not too much so I&#39;m just</p>
+<p begin="00:14:51.649" end="00:14:57.140" style="s2">interested in how those insights can be</p>
+<p begin="00:14:54.410" end="00:14:59.649" style="s2">applied outside of transformational</p>
+<p begin="00:14:57.140" end="00:15:02.630" style="s2">containers I don&#39;t know that they can</p>
+<p begin="00:14:59.649" end="00:15:04.700" style="s2">yeah yeah I&#39;d love to come back to that</p>
+<p begin="00:15:02.630" end="00:15:07.010" style="s2">cuz there are a few things that I&#39;ve</p>
+<p begin="00:15:04.700" end="00:15:08.589" style="s2">learned through the workshops that I&#39;ve</p>
+<p begin="00:15:07.010" end="00:15:12.260" style="s2">led and the workshops that I&#39;ve been in</p>
+<p begin="00:15:08.589" end="00:15:13.459" style="s2">especially from a teacher that I&#39;m good</p>
+<p begin="00:15:12.260" end="00:15:14.870" style="s2">friends with who&#39;s been doing this for</p>
+<p begin="00:15:13.459" end="00:15:17.029" style="s2">about 40 years there&#39;s a few things that</p>
+<p begin="00:15:14.870" end="00:15:20.060" style="s2">he says that that have kind of entered</p>
+<p begin="00:15:17.029" end="00:15:21.470" style="s2">my way of thinking about the world for</p>
+<p begin="00:15:20.060" end="00:15:23.240" style="s2">example one which I think is really</p>
+<p begin="00:15:21.470" end="00:15:26.329" style="s2">powerful is that everything registers in</p>
+<p begin="00:15:23.240" end="00:15:29.660" style="s2">the field yes mm-hmm I agree absolutely</p>
+<p begin="00:15:26.329" end="00:15:31.730" style="s2">true and just says you if you register</p>
+<p begin="00:15:29.660" end="00:15:33.260" style="s2">if you&#39;re feeling something then if you</p>
+<p begin="00:15:31.730" end="00:15:36.170" style="s2">don&#39;t address it it&#39;s going to play out</p>
+<p begin="00:15:33.260" end="00:15:38.240" style="s2">in some way at some time which is a</p>
+<p begin="00:15:36.170" end="00:15:39.270" style="s2">really crucial realization I think yes</p>
+<p begin="00:15:38.240" end="00:15:41.250" style="s2">and</p>
+<p begin="00:15:39.270" end="00:15:45.180" style="s2">to some degree when we start we start</p>
+<p begin="00:15:41.250" end="00:15:47.370" style="s2">working with groups in this way where</p>
+<p begin="00:15:45.180" end="00:15:49.649" style="s2">everything plays out in the field and we</p>
+<p begin="00:15:47.370" end="00:15:52.230" style="s2">trust the unfolding and we attend to</p>
+<p begin="00:15:49.649" end="00:15:54.680" style="s2">crises and we give the right amount of</p>
+<p begin="00:15:52.230" end="00:15:58.860" style="s2">support but not too much and we allow</p>
+<p begin="00:15:54.680" end="00:16:02.120" style="s2">the natural impulse toward the natural</p>
+<p begin="00:15:58.860" end="00:16:04.890" style="s2">evolutionary impulse to express itself</p>
+<p begin="00:16:02.120" end="00:16:07.649" style="s2">it is amazing amazing how much people</p>
+<p begin="00:16:04.890" end="00:16:09.540" style="s2">transform I do really wonder how those</p>
+<p begin="00:16:07.649" end="00:16:12.120" style="s2">principles could be applied on a</p>
+<p begin="00:16:09.540" end="00:16:13.500" style="s2">different scale if possible you know I</p>
+<p begin="00:16:12.120" end="00:16:19.230" style="s2">really wonder about that it&#39;s a deep</p>
+<p begin="00:16:13.500" end="00:16:21.120" style="s2">deep inquiry of mind and you you</p>
+<p begin="00:16:19.230" end="00:16:23.630" style="s2">mentioned before I think maybe in a</p>
+<p begin="00:16:21.120" end="00:16:25.770" style="s2">previous conversation a little bit about</p>
+<p begin="00:16:23.630" end="00:16:27.480" style="s2">coherence and difference and how you</p>
+<p begin="00:16:25.770" end="00:16:30.089" style="s2">maybe have a slightly different view to</p>
+<p begin="00:16:27.480" end="00:16:32.010" style="s2">the one that was expressed by daniel</p>
+<p begin="00:16:30.089" end="00:16:36.620" style="s2">trachtenberg or and jamie wheel around</p>
+<p begin="00:16:32.010" end="00:16:36.620" style="s2">this would you like to expand on that</p>
+<p begin="00:16:37.010" end="00:16:48.570" style="s2">yes so Jamie has done tremendous amount</p>
+<p begin="00:16:44.910" end="00:16:50.550" style="s2">of work on the flow and you know I think</p>
+<p begin="00:16:48.570" end="00:16:52.440" style="s2">his his three characteristics of flow</p>
+<p begin="00:16:50.550" end="00:16:54.720" style="s2">that and maybe that it comes from the</p>
+<p begin="00:16:52.440" end="00:16:56.579" style="s2">the other person whose name I can never</p>
+<p begin="00:16:54.720" end="00:16:59.220" style="s2">pronounce but effortlessness</p>
+<p begin="00:16:56.579" end="00:17:02.220" style="s2">selflessness and timelessness right and</p>
+<p begin="00:16:59.220" end="00:17:04.020" style="s2">that when we are experiencing states of</p>
+<p begin="00:17:02.220" end="00:17:05.850" style="s2">flow and are highly coherent you know</p>
+<p begin="00:17:04.020" end="00:17:07.350" style="s2">that we&#39;re efficient that there&#39;s a</p>
+<p begin="00:17:05.850" end="00:17:09.540" style="s2">pleasure to it that there&#39;s a</p>
+<p begin="00:17:07.350" end="00:17:11.610" style="s2">willingness to go further that there&#39;s a</p>
+<p begin="00:17:09.540" end="00:17:14.550" style="s2">quality of easy and good relationships</p>
+<p begin="00:17:11.610" end="00:17:16.350" style="s2">and that so therefore we want to</p>
+<p begin="00:17:14.550" end="00:17:19.980" style="s2">understand as much as we can about how</p>
+<p begin="00:17:16.350" end="00:17:23.030" style="s2">those states work and the only thing</p>
+<p begin="00:17:19.980" end="00:17:26.040" style="s2">that I&#39;ve experienced is that coherence</p>
+<p begin="00:17:23.030" end="00:17:28.260" style="s2">is really important to human efficiency</p>
+<p begin="00:17:26.040" end="00:17:31.950" style="s2">but differentiation and struggle is</p>
+<p begin="00:17:28.260" end="00:17:33.990" style="s2">important to human creativity and so the</p>
+<p begin="00:17:31.950" end="00:17:35.400" style="s2">question that I have and that I bring up</p>
+<p begin="00:17:33.990" end="00:17:38.130" style="s2">a lot in the groups I work with because</p>
+<p begin="00:17:35.400" end="00:17:40.170" style="s2">I&#39;ve come from the conflict field is how</p>
+<p begin="00:17:38.130" end="00:17:41.990" style="s2">is it that we can take something like</p>
+<p begin="00:17:40.170" end="00:17:45.390" style="s2">difference which is naturally occurring</p>
+<p begin="00:17:41.990" end="00:17:46.860" style="s2">in human systems I mean when a child is</p>
+<p begin="00:17:45.390" end="00:17:48.690" style="s2">born a child is joined with the mother</p>
+<p begin="00:17:46.860" end="00:17:52.010" style="s2">and the very first act of being born is</p>
+<p begin="00:17:48.690" end="00:17:53.220" style="s2">differentiation when we talk about human</p>
+<p begin="00:17:52.010" end="00:17:55.429" style="s2">Robert</p>
+<p begin="00:17:53.220" end="00:17:57.830" style="s2">defines human development as</p>
+<p begin="00:17:55.429" end="00:17:59.970" style="s2">identification or sameness</p>
+<p begin="00:17:57.830" end="00:18:01.559" style="s2">differentiation we become separate or</p>
+<p begin="00:17:59.970" end="00:18:04.020" style="s2">different from the the group you</p>
+<p begin="00:18:01.559" end="00:18:05.850" style="s2">originate in and integration when we</p>
+<p begin="00:18:04.020" end="00:18:07.650" style="s2">look at brain sciences it&#39;s the exact</p>
+<p begin="00:18:05.850" end="00:18:09.870" style="s2">same thing you have a coherent brain new</p>
+<p begin="00:18:07.650" end="00:18:11.850" style="s2">neural pathways are created those neural</p>
+<p begin="00:18:09.870" end="00:18:13.679" style="s2">pathways are are integrated and the</p>
+<p begin="00:18:11.850" end="00:18:15.870" style="s2">brain continues to evolve so this is a</p>
+<p begin="00:18:13.679" end="00:18:17.220" style="s2">this is a principle that&#39;s at work all</p>
+<p begin="00:18:15.870" end="00:18:19.289" style="s2">the time so whenever we talk about</p>
+<p begin="00:18:17.220" end="00:18:20.760" style="s2">coherence I want to make sure we&#39;re</p>
+<p begin="00:18:19.289" end="00:18:22.799" style="s2">talking about differentiation at the</p>
+<p begin="00:18:20.760" end="00:18:24.900" style="s2">same time because they&#39;re always part</p>
+<p begin="00:18:22.799" end="00:18:27.450" style="s2">and parcel to each other and so how do</p>
+<p begin="00:18:24.900" end="00:18:29.730" style="s2">we create coherence and and learn to see</p>
+<p begin="00:18:27.450" end="00:18:31.169" style="s2">because differentiation is exciting in</p>
+<p begin="00:18:29.730" end="00:18:33.299" style="s2">the body until it isn&#39;t</p>
+<p begin="00:18:31.169" end="00:18:35.159" style="s2">and that&#39;s one of the differences I mean</p>
+<p begin="00:18:33.299" end="00:18:37.020" style="s2">the same is true of coherence as well</p>
+<p begin="00:18:35.159" end="00:18:39.330" style="s2">you can it can be very satisfying and</p>
+<p begin="00:18:37.020" end="00:18:41.010" style="s2">safe but if there&#39;s too much of it it</p>
+<p begin="00:18:39.330" end="00:18:44.760" style="s2">becomes kind of complacent and</p>
+<p begin="00:18:41.010" end="00:18:46.230" style="s2">stagnating and so I like conversations</p>
+<p begin="00:18:44.760" end="00:18:48.240" style="s2">in which coherence and differentiation</p>
+<p begin="00:18:46.230" end="00:18:51.270" style="s2">are placed together and that we actually</p>
+<p begin="00:18:48.240" end="00:18:53.850" style="s2">learn how to work with it in a way that</p>
+<p begin="00:18:51.270" end="00:18:56.250" style="s2">that contributes to the creativity of a</p>
+<p begin="00:18:53.850" end="00:18:59.159" style="s2">room and to the new emergence in a room</p>
+<p begin="00:18:56.250" end="00:19:01.200" style="s2">but it&#39;s harder because everyone when it</p>
+<p begin="00:18:59.159" end="00:19:03.570" style="s2">starts to stimulate fight-or-flight as</p>
+<p begin="00:19:01.200" end="00:19:06.299" style="s2">we know we want to leave or conflict or</p>
+<p begin="00:19:03.570" end="00:19:08.669" style="s2">as we&#39;ve talked about shutdown when it&#39;s</p>
+<p begin="00:19:06.299" end="00:19:10.110" style="s2">too extreme so part of what I have to</p>
+<p begin="00:19:08.669" end="00:19:11.970" style="s2">work with is the right amount of</p>
+<p begin="00:19:10.110" end="00:19:14.190" style="s2">difference in a room like when do I</p>
+<p begin="00:19:11.970" end="00:19:17.700" style="s2">almost like an acupuncturist as a</p>
+<p begin="00:19:14.190" end="00:19:19.380" style="s2">facilitator when do i stimulate and help</p>
+<p begin="00:19:17.700" end="00:19:21.299" style="s2">stimulate a group by bringing up</p>
+<p begin="00:19:19.380" end="00:19:23.520" style="s2">difference by saying hey if I were you</p>
+<p begin="00:19:21.299" end="00:19:25.409" style="s2">I&#39;d be mad about what he just said you</p>
+<p begin="00:19:23.520" end="00:19:26.789" style="s2">know or hey I feel you might feel fine</p>
+<p begin="00:19:25.409" end="00:19:28.590" style="s2">about it but if I were you I&#39;d feel</p>
+<p begin="00:19:26.789" end="00:19:30.809" style="s2">betrayed you know like when do I</p>
+<p begin="00:19:28.590" end="00:19:32.220" style="s2">actually take on the perspectives that</p>
+<p begin="00:19:30.809" end="00:19:34.320" style="s2">aren&#39;t in the room because you can&#39;t</p>
+<p begin="00:19:32.220" end="00:19:36.299" style="s2">quite get them in there and I just take</p>
+<p begin="00:19:34.320" end="00:19:38.400" style="s2">it on as the facilitator and represent</p>
+<p begin="00:19:36.299" end="00:19:40.799" style="s2">it and create actually a little more</p>
+<p begin="00:19:38.400" end="00:19:43.799" style="s2">conflict in the room and when do I say</p>
+<p begin="00:19:40.799" end="00:19:46.799" style="s2">let&#39;s take a moment to breathe and to</p>
+<p begin="00:19:43.799" end="00:19:49.770" style="s2">feel and for just a moment turn to the</p>
+<p begin="00:19:46.799" end="00:19:52.260" style="s2">person next to you express what it is</p>
+<p begin="00:19:49.770" end="00:19:54.000" style="s2">you&#39;re experiencing and your partner&#39;s</p>
+<p begin="00:19:52.260" end="00:19:56.039" style="s2">going to receive you really deeply and</p>
+<p begin="00:19:54.000" end="00:19:57.840" style="s2">then you are going to flip and I bring</p>
+<p begin="00:19:56.039" end="00:20:00.750" style="s2">listening into the room to settle and</p>
+<p begin="00:19:57.840" end="00:20:02.669" style="s2">soothe everyone so that play is really</p>
+<p begin="00:20:00.750" end="00:20:04.590" style="s2">really important to me so I don&#39;t know</p>
+<p begin="00:20:02.669" end="00:20:05.880" style="s2">if I disagree with Jamie and Daniel as</p>
+<p begin="00:20:04.590" end="00:20:08.730" style="s2">much as I just have this</p>
+<p begin="00:20:05.880" end="00:20:10.710" style="s2">on the utilization of differentiation</p>
+<p begin="00:20:08.730" end="00:20:13.860" style="s2">you know and it can be related to gender</p>
+<p begin="00:20:10.710" end="00:20:16.049" style="s2">socioeconomic status or how we perceive</p>
+<p begin="00:20:13.860" end="00:20:17.610" style="s2">healing or whatever it whatever it is</p>
+<p begin="00:20:16.049" end="00:20:19.770" style="s2">you know it can have to do with national</p>
+<p begin="00:20:17.610" end="00:20:21.690" style="s2">identity we could talk about the</p>
+<p begin="00:20:19.770" end="00:20:24.000" style="s2">relationship of America to Britain and</p>
+<p begin="00:20:21.690" end="00:20:25.410" style="s2">how do we feel and really having to let</p>
+<p begin="00:20:24.000" end="00:20:27.450" style="s2">some of those differences come out</p>
+<p begin="00:20:25.410" end="00:20:30.929" style="s2">because inevitably when you navigate</p>
+<p begin="00:20:27.450" end="00:20:32.640" style="s2">those well you create deeper trust as</p>
+<p begin="00:20:30.929" end="00:20:34.380" style="s2">soon as differences can emerge and</p>
+<p begin="00:20:32.640" end="00:20:36.299" style="s2">people can find out how to work with</p>
+<p begin="00:20:34.380" end="00:20:39.450" style="s2">them they trust each other more and then</p>
+<p begin="00:20:36.299" end="00:20:43.530" style="s2">it becomes a even more safe group than</p>
+<p begin="00:20:39.450" end="00:20:46.799" style="s2">it was previous yeah I got a really good</p>
+<p begin="00:20:43.530" end="00:20:49.320" style="s2">vision of maybe your facilitation style</p>
+<p begin="00:20:46.799" end="00:20:50.789" style="s2">then that you&#39;re sensing into what the</p>
+<p begin="00:20:49.320" end="00:20:53.100" style="s2">perspectives are that are maybe under</p>
+<p begin="00:20:50.789" end="00:20:54.929" style="s2">the surface or are not being</p>
+<p begin="00:20:53.100" end="00:20:57.120" style="s2">acknowledged and then bringing those in</p>
+<p begin="00:20:54.929" end="00:20:59.880" style="s2">which i think is it sounds like a really</p>
+<p begin="00:20:57.120" end="00:21:02.280" style="s2">like really valuable skilled thing to do</p>
+<p begin="00:20:59.880" end="00:21:03.960" style="s2">but that also that sounds like a very</p>
+<p begin="00:21:02.280" end="00:21:05.159" style="s2">dangerous thing to be doing as well how</p>
+<p begin="00:21:03.960" end="00:21:07.860" style="s2">do you know that you&#39;re not imposing</p>
+<p begin="00:21:05.159" end="00:21:10.530" style="s2">your stuff on to it and and how are you</p>
+<p begin="00:21:07.860" end="00:21:12.929" style="s2">doing that in a safe way well the in my</p>
+<p begin="00:21:10.530" end="00:21:15.000" style="s2">in my training what I do is I train</p>
+<p begin="00:21:12.929" end="00:21:18.929" style="s2">people in to this very very important</p>
+<p begin="00:21:15.000" end="00:21:21.299" style="s2">principle which is always stay open to</p>
+<p begin="00:21:18.929" end="00:21:25.409" style="s2">feedback because every gesture we make</p>
+<p begin="00:21:21.299" end="00:21:27.179" style="s2">creates a reaction as we know right so</p>
+<p begin="00:21:25.409" end="00:21:28.950" style="s2">as a facilitator what I have to do is</p>
+<p begin="00:21:27.179" end="00:21:32.610" style="s2">whenever I take a risk like that is</p>
+<p begin="00:21:28.950" end="00:21:35.460" style="s2">really stay very attuned to how the</p>
+<p begin="00:21:32.610" end="00:21:37.740" style="s2">group receives it and usually what will</p>
+<p begin="00:21:35.460" end="00:21:40.650" style="s2">happen is if I take a risk like that and</p>
+<p begin="00:21:37.740" end="00:21:42.059" style="s2">I say something that&#39;s unspoken that&#39;s</p>
+<p begin="00:21:40.650" end="00:21:44.940" style="s2">in the background or that is</p>
+<p begin="00:21:42.059" end="00:21:46.350" style="s2">controversial or that you know people</p>
+<p begin="00:21:44.940" end="00:21:49.440" style="s2">aren&#39;t going to be able to tolerate what</p>
+<p begin="00:21:46.350" end="00:21:52.080" style="s2">I do is notice the extent to which there</p>
+<p begin="00:21:49.440" end="00:21:53.700" style="s2">that it&#39;s exciting without becoming</p>
+<p begin="00:21:52.080" end="00:21:55.890" style="s2">threatening and if it&#39;s exciting I</p>
+<p begin="00:21:53.700" end="00:21:58.559" style="s2">continue and if it becomes too</p>
+<p begin="00:21:55.890" end="00:22:00.330" style="s2">threatening I&#39;d back off and repair so</p>
+<p begin="00:21:58.559" end="00:22:01.740" style="s2">you&#39;re always working in relationship to</p>
+<p begin="00:22:00.330" end="00:22:03.960" style="s2">the feedback and from that perspective</p>
+<p begin="00:22:01.740" end="00:22:06.990" style="s2">it&#39;s like art you&#39;re always in</p>
+<p begin="00:22:03.960" end="00:22:10.260" style="s2">conversation with your own gestures you</p>
+<p begin="00:22:06.990" end="00:22:12.809" style="s2">might say yeah and I was also kind of</p>
+<p begin="00:22:10.260" end="00:22:14.429" style="s2">playing that edge as well yes absolutely</p>
+<p begin="00:22:12.809" end="00:22:16.020" style="s2">and the edge is really really important</p>
+<p begin="00:22:14.429" end="00:22:18.570" style="s2">because that&#39;s where the emergence is</p>
+<p begin="00:22:16.020" end="00:22:19.230" style="s2">it&#39;s at the that we like to call it that</p>
+<p begin="00:22:18.570" end="00:22:21.450" style="s2">frothy</p>
+<p begin="00:22:19.230" end="00:22:23.280" style="s2">edge it&#39;s that little tremulousness you</p>
+<p begin="00:22:21.450" end="00:22:26.790" style="s2">can collapse back into what&#39;s known or</p>
+<p begin="00:22:23.280" end="00:22:29.400" style="s2">you can you can emerge into what&#39;s new</p>
+<p begin="00:22:26.790" end="00:22:31.260" style="s2">and that but you have to be able to know</p>
+<p begin="00:22:29.400" end="00:22:34.080" style="s2">how to stay there and how to navigate</p>
+<p begin="00:22:31.260" end="00:22:36.059" style="s2">that yeah that&#39;s really interesting yeah</p>
+<p begin="00:22:34.080" end="00:22:37.710" style="s2">one of my meditation teachers chögyam</p>
+<p begin="00:22:36.059" end="00:22:39.660" style="s2">trungpa said a very important thing that</p>
+<p begin="00:22:37.710" end="00:22:42.059" style="s2">always stuck with me said be yourself</p>
+<p begin="00:22:39.660" end="00:22:44.880" style="s2">the world will give you feedback that is</p>
+<p begin="00:22:42.059" end="00:22:47.580" style="s2">completely reliable it brings up a</p>
+<p begin="00:22:44.880" end="00:22:50.250" style="s2">question as well of because there&#39;s a no</p>
+<p begin="00:22:47.580" end="00:22:53.190" style="s2">real acute sensitivity required to be</p>
+<p begin="00:22:50.250" end="00:22:55.710" style="s2">able to do that and something that I</p>
+<p begin="00:22:53.190" end="00:22:57.750" style="s2">thought what a bit about is the gender</p>
+<p begin="00:22:55.710" end="00:22:59.400" style="s2">difference in these areas in particular</p>
+<p begin="00:22:57.750" end="00:23:00.929" style="s2">the collective intelligence question cuz</p>
+<p begin="00:22:59.400" end="00:23:03.650" style="s2">I think the first piece that we did had</p>
+<p begin="00:23:00.929" end="00:23:06.870" style="s2">mostly all men we&#39;ve since then</p>
+<p begin="00:23:03.650" end="00:23:09.360" style="s2">interviewed Benita Roy but that seems</p>
+<p begin="00:23:06.870" end="00:23:12.600" style="s2">that that being in the moment of real</p>
+<p begin="00:23:09.360" end="00:23:15.750" style="s2">emotional openness feels more like a</p>
+<p begin="00:23:12.600" end="00:23:17.580" style="s2">feminine a bit something that women</p>
+<p begin="00:23:15.750" end="00:23:20.520" style="s2">might be better at than the men doing</p>
+<p begin="00:23:17.580" end="00:23:21.929" style="s2">that kind of work but then do you have a</p>
+<p begin="00:23:20.520" end="00:23:25.260" style="s2">sense about what the gender difference</p>
+<p begin="00:23:21.929" end="00:23:30.150" style="s2">is or whether there are differences</p>
+<p begin="00:23:25.260" end="00:23:32.220" style="s2">between men and women&#39;s not suitability</p>
+<p begin="00:23:30.150" end="00:23:35.970" style="s2">for the work but but different skill</p>
+<p begin="00:23:32.220" end="00:23:38.370" style="s2">sets within this kind of area I mean I</p>
+<p begin="00:23:35.970" end="00:23:40.169" style="s2">think I think the differences are really</p>
+<p begin="00:23:38.370" end="00:23:41.970" style="s2">important I think some of them some of</p>
+<p begin="00:23:40.169" end="00:23:45.030" style="s2">them could be gendered in the sense of a</p>
+<p begin="00:23:41.970" end="00:23:50.160" style="s2">particular kind of emotional sensitivity</p>
+<p begin="00:23:45.030" end="00:23:53.160" style="s2">or an ability to strategize quickly and</p>
+<p begin="00:23:50.160" end="00:23:54.870" style="s2">to imagine tactics you know relatively</p>
+<p begin="00:23:53.160" end="00:23:56.730" style="s2">efficiently so I think there are those</p>
+<p begin="00:23:54.870" end="00:23:58.410" style="s2">general trends but I think the biggest</p>
+<p begin="00:23:56.730" end="00:24:01.950" style="s2">lesson I&#39;ve taken away in terms of</p>
+<p begin="00:23:58.410" end="00:24:04.830" style="s2">training mediators is to simply share</p>
+<p begin="00:24:01.950" end="00:24:07.429" style="s2">how I work and the models that I&#39;m</p>
+<p begin="00:24:04.830" end="00:24:10.980" style="s2">working with and then notice how the</p>
+<p begin="00:24:07.429" end="00:24:12.480" style="s2">individual facilitators integrate and</p>
+<p begin="00:24:10.980" end="00:24:14.580" style="s2">express those through their own</p>
+<p begin="00:24:12.480" end="00:24:16.740" style="s2">intelligence whatever it happens to be</p>
+<p begin="00:24:14.580" end="00:24:18.929" style="s2">and lots of times I&#39;ll be watching</p>
+<p begin="00:24:16.740" end="00:24:21.900" style="s2">students of mine and I&#39;ll think what are</p>
+<p begin="00:24:18.929" end="00:24:24.299" style="s2">they doing like this is a disaster in</p>
+<p begin="00:24:21.900" end="00:24:26.910" style="s2">the making and then they just pull it</p>
+<p begin="00:24:24.299" end="00:24:28.590" style="s2">out and I&#39;ll just be amazed and so it&#39;s</p>
+<p begin="00:24:26.910" end="00:24:30.990" style="s2">a little bit of kind of trusting that</p>
+<p begin="00:24:28.590" end="00:24:31.900" style="s2">the way people train and receive the</p>
+<p begin="00:24:30.990" end="00:24:33.580" style="s2">information and</p>
+<p begin="00:24:31.900" end="00:24:37.180" style="s2">integrated into their own way of working</p>
+<p begin="00:24:33.580" end="00:24:39.820" style="s2">kind of works but I have a I have a hard</p>
+<p begin="00:24:37.180" end="00:24:41.880" style="s2">time being able to always understand so</p>
+<p begin="00:24:39.820" end="00:24:43.930" style="s2">in that in that very specific</p>
+<p begin="00:24:41.880" end="00:24:45.790" style="s2">intelligence of a body mind that</p>
+<p begin="00:24:43.930" end="00:24:48.070" style="s2">includes a national identity that</p>
+<p begin="00:24:45.790" end="00:24:51.550" style="s2">includes a history of trauma that</p>
+<p begin="00:24:48.070" end="00:24:53.620" style="s2">includes gender or non gender identity</p>
+<p begin="00:24:51.550" end="00:24:56.230" style="s2">that includes whatever it includes that</p>
+<p begin="00:24:53.620" end="00:24:59.950" style="s2">somehow these kinds of intelligences can</p>
+<p begin="00:24:56.230" end="00:25:03.850" style="s2">go can take hold and can also manifest</p>
+<p begin="00:24:59.950" end="00:25:06.400" style="s2">so I really trust that and you you</p>
+<p begin="00:25:03.850" end="00:25:08.230" style="s2">mentioned before as well about the</p>
+<p begin="00:25:06.400" end="00:25:11.890" style="s2">dialogue between coherence and</p>
+<p begin="00:25:08.230" end="00:25:14.200" style="s2">difference and how I think you also said</p>
+<p begin="00:25:11.890" end="00:25:16.210" style="s2">that you need coherence first before you</p>
+<p begin="00:25:14.200" end="00:25:20.050" style="s2">can introduce difference is that sort of</p>
+<p begin="00:25:16.210" end="00:25:22.510" style="s2">creating safety or is that creating</p>
+<p begin="00:25:20.050" end="00:25:24.640" style="s2">connection between people in the group</p>
+<p begin="00:25:22.510" end="00:25:26.590" style="s2">and then introducing more difficult</p>
+<p begin="00:25:24.640" end="00:25:29.170" style="s2">topics to explore what does that look</p>
+<p begin="00:25:26.590" end="00:25:31.120" style="s2">like well for well for me I think there</p>
+<p begin="00:25:29.170" end="00:25:34.720" style="s2">there are certain things that have to be</p>
+<p begin="00:25:31.120" end="00:25:37.030" style="s2">in place prior to working with any group</p>
+<p begin="00:25:34.720" end="00:25:39.280" style="s2">and so one has to be a shared intention</p>
+<p begin="00:25:37.030" end="00:25:41.920" style="s2">what is the purpose for being here</p>
+<p begin="00:25:39.280" end="00:25:43.780" style="s2">the other is it the the kind of ground</p>
+<p begin="00:25:41.920" end="00:25:46.300" style="s2">rules and so one of the ground rules</p>
+<p begin="00:25:43.780" end="00:25:48.880" style="s2">that that I work with is that we&#39;re</p>
+<p begin="00:25:46.300" end="00:25:51.180" style="s2">being for everyone and realizing that</p>
+<p begin="00:25:48.880" end="00:25:53.410" style="s2">everybody has a responsibility to</p>
+<p begin="00:25:51.180" end="00:25:56.260" style="s2">determine the outcome so sometimes for</p>
+<p begin="00:25:53.410" end="00:25:59.470" style="s2">instance in conversations on race</p>
+<p begin="00:25:56.260" end="00:26:00.700" style="s2">relations or issues regarding equity of</p>
+<p begin="00:25:59.470" end="00:26:02.860" style="s2">those kinds of things I have to really</p>
+<p begin="00:26:00.700" end="00:26:04.510" style="s2">make sure that everybody&#39;s bought in to</p>
+<p begin="00:26:02.860" end="00:26:08.380" style="s2">the process and that everybody&#39;s bought</p>
+<p begin="00:26:04.510" end="00:26:09.760" style="s2">in to everyone else because if that</p>
+<p begin="00:26:08.380" end="00:26:10.840" style="s2">isn&#39;t in place and there are certain</p>
+<p begin="00:26:09.760" end="00:26:14.770" style="s2">things that just will not get</p>
+<p begin="00:26:10.840" end="00:26:18.730" style="s2">accomplished and then coherence is</p>
+<p begin="00:26:14.770" end="00:26:21.790" style="s2">important because we are so embodied and</p>
+<p begin="00:26:18.730" end="00:26:24.550" style="s2">we&#39;re so sensitive that when we are</p>
+<p begin="00:26:21.790" end="00:26:26.530" style="s2">functioning as one and when the body is</p>
+<p begin="00:26:24.550" end="00:26:28.480" style="s2">relaxed and extending and there isn&#39;t a</p>
+<p begin="00:26:26.530" end="00:26:30.370" style="s2">really hard and fast boundary between</p>
+<p begin="00:26:28.480" end="00:26:33.430" style="s2">you and me but we&#39;re relaxed and we&#39;re</p>
+<p begin="00:26:30.370" end="00:26:35.830" style="s2">sort of the animal of the tribe is kind</p>
+<p begin="00:26:33.430" end="00:26:37.420" style="s2">of intact and then the mind is empty and</p>
+<p begin="00:26:35.830" end="00:26:39.400" style="s2">usually what you find in high states of</p>
+<p begin="00:26:37.420" end="00:26:41.170" style="s2">coherences the mind is also empty it&#39;s</p>
+<p begin="00:26:39.400" end="00:26:42.230" style="s2">very present it&#39;s what we try to</p>
+<p begin="00:26:41.170" end="00:26:44.120" style="s2">cultivate in mind</p>
+<p begin="00:26:42.230" end="00:26:45.950" style="s2">from this meditation the mind is empty</p>
+<p begin="00:26:44.120" end="00:26:48.110" style="s2">available present and listening is</p>
+<p begin="00:26:45.950" end="00:26:50.150" style="s2">happening easily and spontaneously if</p>
+<p begin="00:26:48.110" end="00:26:53.360" style="s2">you can help people have that experience</p>
+<p begin="00:26:50.150" end="00:26:56.150" style="s2">and this you know psychological safety</p>
+<p begin="00:26:53.360" end="00:26:58.690" style="s2">or a sense of belonging then from there</p>
+<p begin="00:26:56.150" end="00:27:01.309" style="s2">we can actually start to differentiate</p>
+<p begin="00:26:58.690" end="00:27:03.860" style="s2">because we have a state to return to</p>
+<p begin="00:27:01.309" end="00:27:07.160" style="s2">that everyone can recognize so if you</p>
+<p begin="00:27:03.860" end="00:27:09.320" style="s2">come in differentiated lots of times the</p>
+<p begin="00:27:07.160" end="00:27:11.450" style="s2">first task is actually to relieve the</p>
+<p begin="00:27:09.320" end="00:27:14.059" style="s2">room of the differentiation and to bring</p>
+<p begin="00:27:11.450" end="00:27:17.480" style="s2">people into coherence and then to return</p>
+<p begin="00:27:14.059" end="00:27:18.980" style="s2">to it and really map and help people see</p>
+<p begin="00:27:17.480" end="00:27:20.630" style="s2">and experience what&#39;s happening in their</p>
+<p begin="00:27:18.980" end="00:27:23.330" style="s2">bodies and in their minds you know and</p>
+<p begin="00:27:20.630" end="00:27:25.640" style="s2">people start to trust that we literally</p>
+<p begin="00:27:23.330" end="00:27:27.590" style="s2">are one mind you know we can</p>
+<p begin="00:27:25.640" end="00:27:29.330" style="s2">differentiate and be very separate but</p>
+<p begin="00:27:27.590" end="00:27:31.070" style="s2">we also could be in exactly the same</p>
+<p begin="00:27:29.330" end="00:27:32.870" style="s2">point of view that doesn&#39;t mean our</p>
+<p begin="00:27:31.070" end="00:27:35.540" style="s2">cognition is functioning the same way</p>
+<p begin="00:27:32.870" end="00:27:37.490" style="s2">but it means our awareness is completely</p>
+<p begin="00:27:35.540" end="00:27:39.650" style="s2">continuous with one another and that</p>
+<p begin="00:27:37.490" end="00:27:42.080" style="s2">that&#39;s a really optimal state for people</p>
+<p begin="00:27:39.650" end="00:27:43.400" style="s2">to function from I just want to return a</p>
+<p begin="00:27:42.080" end="00:27:46.669" style="s2">little bit to the question I asked</p>
+<p begin="00:27:43.400" end="00:27:48.350" style="s2">before about the delicacy of if you are</p>
+<p begin="00:27:46.669" end="00:27:50.540" style="s2">facilitating in that way where you&#39;re</p>
+<p begin="00:27:48.350" end="00:27:51.740" style="s2">kind of taking a risk you&#39;re saying</p>
+<p begin="00:27:50.540" end="00:27:54.340" style="s2">something that you think might need to</p>
+<p begin="00:27:51.740" end="00:27:57.200" style="s2">be expressed and maybe potentially</p>
+<p begin="00:27:54.340" end="00:28:00.230" style="s2">bringing in anger or bringing in</p>
+<p begin="00:27:57.200" end="00:28:03.020" style="s2">whatever the emotions that is that I&#39;ve</p>
+<p begin="00:28:00.230" end="00:28:05.630" style="s2">seen that go very badly wrong in the</p>
+<p begin="00:28:03.020" end="00:28:08.330" style="s2">past I&#39;ve seen like the whole idea of</p>
+<p begin="00:28:05.630" end="00:28:10.429" style="s2">like crazy wisdom where you you have a</p>
+<p begin="00:28:08.330" end="00:28:12.110" style="s2">like someone like chögyam trungpa who</p>
+<p begin="00:28:10.429" end="00:28:15.200" style="s2">was a tulip master of that way of</p>
+<p begin="00:28:12.110" end="00:28:17.419" style="s2">working is an exception but you do the</p>
+<p begin="00:28:15.200" end="00:28:20.780" style="s2">idea of crazy wisdom just gives a lot of</p>
+<p begin="00:28:17.419" end="00:28:23.780" style="s2">people an excuse to be behaved really</p>
+<p begin="00:28:20.780" end="00:28:25.640" style="s2">badly and it can go right I&#39;ve seen I&#39;ve</p>
+<p begin="00:28:23.780" end="00:28:27.140" style="s2">seen people who are saying I&#39;m just I&#39;m</p>
+<p begin="00:28:25.640" end="00:28:28.309" style="s2">just speaking for the collective when</p>
+<p begin="00:28:27.140" end="00:28:30.610" style="s2">it&#39;s quite clear they&#39;re actually</p>
+<p begin="00:28:28.309" end="00:28:35.419" style="s2">speaking from their own personal</p>
+<p begin="00:28:30.610" end="00:28:38.360" style="s2">sociopathic behavior and how do you tell</p>
+<p begin="00:28:35.419" end="00:28:41.000" style="s2">the difference and what other dangers in</p>
+<p begin="00:28:38.360" end="00:28:43.190" style="s2">this kind of space well I think you just</p>
+<p begin="00:28:41.000" end="00:28:47.510" style="s2">described what the dangers are you know</p>
+<p begin="00:28:43.190" end="00:28:48.799" style="s2">is that you know for instance somebody</p>
+<p begin="00:28:47.510" end="00:28:51.110" style="s2">somebody asked me that I was just</p>
+<p begin="00:28:48.799" end="00:28:52.790" style="s2">recently in an event in Los Angeles and</p>
+<p begin="00:28:51.110" end="00:28:54.169" style="s2">facilitated a group of a hundred and</p>
+<p begin="00:28:52.790" end="00:28:54.800" style="s2">twenty people and we were doing this</p>
+<p begin="00:28:54.169" end="00:28:56.780" style="s2">experi</p>
+<p begin="00:28:54.800" end="00:28:58.880" style="s2">of going back and forth between sameness</p>
+<p begin="00:28:56.780" end="00:29:01.640" style="s2">and difference and somebody said to me</p>
+<p begin="00:28:58.880" end="00:29:03.320" style="s2">afterwards but you know how are you sure</p>
+<p begin="00:29:01.640" end="00:29:06.590" style="s2">that everybody&#39;s integrated that and</p>
+<p begin="00:29:03.320" end="00:29:08.720" style="s2">that people aren&#39;t necessarily really</p>
+<p begin="00:29:06.590" end="00:29:11.120" style="s2">stirred up and usually the way I do that</p>
+<p begin="00:29:08.720" end="00:29:12.830" style="s2">is by just simply listening to the the</p>
+<p begin="00:29:11.120" end="00:29:15.440" style="s2">kind of feedback that comes my way you</p>
+<p begin="00:29:12.830" end="00:29:16.940" style="s2">know I trust sort of the field you might</p>
+<p begin="00:29:15.440" end="00:29:19.220" style="s2">say what you were talking about a little</p>
+<p begin="00:29:16.940" end="00:29:21.530" style="s2">bit earlier the danger with crazy wisdom</p>
+<p begin="00:29:19.220" end="00:29:25.550" style="s2">as crazy wisdom is interpreted as some</p>
+<p begin="00:29:21.530" end="00:29:26.840" style="s2">really kind of immature thing if I&#39;m</p>
+<p begin="00:29:25.550" end="00:29:29.390" style="s2">just going to do what I want and let the</p>
+<p begin="00:29:26.840" end="00:29:31.850" style="s2">chips fall you know that&#39;s that&#39;s what</p>
+<p begin="00:29:29.390" end="00:29:35.270" style="s2">people mean by it crazy wisdom I think</p>
+<p begin="00:29:31.850" end="00:29:37.310" style="s2">is just sometimes utilizing that which</p>
+<p begin="00:29:35.270" end="00:29:40.120" style="s2">is more unconventional in the service of</p>
+<p begin="00:29:37.310" end="00:29:42.860" style="s2">the whole so you still you know Trump as</p>
+<p begin="00:29:40.120" end="00:29:44.510" style="s2">his intelligence was really deep and</p>
+<p begin="00:29:42.860" end="00:29:45.980" style="s2">really broad now I think there are</p>
+<p begin="00:29:44.510" end="00:29:49.430" style="s2">probably things that happened that we&#39;re</p>
+<p begin="00:29:45.980" end="00:29:51.980" style="s2">not so great but for the most part my</p>
+<p begin="00:29:49.430" end="00:29:54.140" style="s2">understanding is is that invoking</p>
+<p begin="00:29:51.980" end="00:29:56.630" style="s2">something unconventional to actually</p>
+<p begin="00:29:54.140" end="00:29:59.390" style="s2">support a group in going further in</p>
+<p begin="00:29:56.630" end="00:30:00.860" style="s2">their experience together can be</p>
+<p begin="00:29:59.390" end="00:30:03.170" style="s2">important and I have done it night I</p>
+<p begin="00:30:00.860" end="00:30:05.960" style="s2">can&#39;t say that I&#39;ve had very many</p>
+<p begin="00:30:03.170" end="00:30:08.270" style="s2">experiences in my 30-plus years of</p>
+<p begin="00:30:05.960" end="00:30:11.210" style="s2">mediating that have gone terribly off</p>
+<p begin="00:30:08.270" end="00:30:12.830" style="s2">the rails I&#39;ve certainly had moments you</p>
+<p begin="00:30:11.210" end="00:30:15.440" style="s2">know but then I found ways to bring</p>
+<p begin="00:30:12.830" end="00:30:17.690" style="s2">people back I don&#39;t I don&#39;t have a track</p>
+<p begin="00:30:15.440" end="00:30:21.020" style="s2">record of leaving people in a chaotic</p>
+<p begin="00:30:17.690" end="00:30:23.300" style="s2">heap for the most part one of the things</p>
+<p begin="00:30:21.020" end="00:30:25.730" style="s2">that came up in the conversation Bonita</p>
+<p begin="00:30:23.300" end="00:30:28.010" style="s2">Roy was she said that one of the blocks</p>
+<p begin="00:30:25.730" end="00:30:29.860" style="s2">to collective intelligence practice or</p>
+<p begin="00:30:28.010" end="00:30:33.230" style="s2">collective insight practice is</p>
+<p begin="00:30:29.860" end="00:30:35.000" style="s2">autobiographical coherence by which I</p>
+<p begin="00:30:33.230" end="00:30:36.320" style="s2">think she means this need we have to</p>
+<p begin="00:30:35.000" end="00:30:39.230" style="s2">make everything consistent with our</p>
+<p begin="00:30:36.320" end="00:30:41.480" style="s2">story we&#39;re telling about ourselves what</p>
+<p begin="00:30:39.230" end="00:30:43.190" style="s2">what do you make of that well I think</p>
+<p begin="00:30:41.480" end="00:30:44.920" style="s2">she&#39;s right you know because to the</p>
+<p begin="00:30:43.190" end="00:30:47.600" style="s2">extent that we&#39;re telling a story</p>
+<p begin="00:30:44.920" end="00:30:49.940" style="s2">cognition is preoccupied with that story</p>
+<p begin="00:30:47.600" end="00:30:52.820" style="s2">and and our awareness cannot be extended</p>
+<p begin="00:30:49.940" end="00:30:54.440" style="s2">as openly as it would otherwise and that</p>
+<p begin="00:30:52.820" end="00:30:56.660" style="s2">there is you know the ego is a</p>
+<p begin="00:30:54.440" end="00:31:00.470" style="s2">fascinating thing you know what is what</p>
+<p begin="00:30:56.660" end="00:31:02.480" style="s2">exactly is the ego you know I try in my</p>
+<p begin="00:31:00.470" end="00:31:04.730" style="s2">own teaching in my own work to say that</p>
+<p begin="00:31:02.480" end="00:31:07.490" style="s2">the the ego is not wrong but the ego is</p>
+<p begin="00:31:04.730" end="00:31:08.130" style="s2">limited and that the ego does create</p>
+<p begin="00:31:07.490" end="00:31:09.690" style="s2">division</p>
+<p begin="00:31:08.130" end="00:31:12.420" style="s2">in the mind because where there&#39;s a</p>
+<p begin="00:31:09.690" end="00:31:14.760" style="s2">narrative that narrative is separating</p>
+<p begin="00:31:12.420" end="00:31:16.350" style="s2">us from our immediate experience so for</p>
+<p begin="00:31:14.760" end="00:31:18.090" style="s2">instance someone will come into a group</p>
+<p begin="00:31:16.350" end="00:31:20.550" style="s2">and make a statement how I&#39;m an</p>
+<p begin="00:31:18.090" end="00:31:24.300" style="s2">introvert and therefore blah blah blah</p>
+<p begin="00:31:20.550" end="00:31:26.130" style="s2">and I&#39;ll say to them great so let&#39;s make</p>
+<p begin="00:31:24.300" end="00:31:27.690" style="s2">sure that we employ some techniques</p>
+<p begin="00:31:26.130" end="00:31:29.160" style="s2">where you get to think on your own and</p>
+<p begin="00:31:27.690" end="00:31:31.080" style="s2">you have a few minutes to think before</p>
+<p begin="00:31:29.160" end="00:31:34.230" style="s2">you speak and I&#39;m also wondering would</p>
+<p begin="00:31:31.080" end="00:31:36.420" style="s2">you be willing to suspend that idea that</p>
+<p begin="00:31:34.230" end="00:31:39.120" style="s2">you&#39;re an introvert and extrovert for</p>
+<p begin="00:31:36.420" end="00:31:43.170" style="s2">the purposes of what we&#39;re doing and and</p>
+<p begin="00:31:39.120" end="00:31:44.760" style="s2">that sense that oh I may just I could</p>
+<p begin="00:31:43.170" end="00:31:47.220" style="s2">actually be free of that category I&#39;ve</p>
+<p begin="00:31:44.760" end="00:31:48.930" style="s2">put myself in you know is really really</p>
+<p begin="00:31:47.220" end="00:31:51.270" style="s2">important because as soon as people</p>
+<p begin="00:31:48.930" end="00:31:52.890" style="s2">start referencing this category they</p>
+<p begin="00:31:51.270" end="00:31:54.810" style="s2">become less available to what&#39;s actually</p>
+<p begin="00:31:52.890" end="00:31:56.730" style="s2">happening and if they&#39;re doing that</p>
+<p begin="00:31:54.810" end="00:32:00.750" style="s2">they&#39;re probably in some state of</p>
+<p begin="00:31:56.730" end="00:32:03.300" style="s2">needing to protect or plan or strategize</p>
+<p begin="00:32:00.750" end="00:32:05.010" style="s2">safety so I think that if you can</p>
+<p begin="00:32:03.300" end="00:32:06.930" style="s2">increase the safety and the actual</p>
+<p begin="00:32:05.010" end="00:32:08.580" style="s2">embodied experience of well-being in the</p>
+<p begin="00:32:06.930" end="00:32:11.250" style="s2">room that sometimes will take care of</p>
+<p begin="00:32:08.580" end="00:32:13.170" style="s2">that yeah and there&#39;s there&#39;s this</p>
+<p begin="00:32:11.250" end="00:32:15.240" style="s2">constant dialogue I guess between our</p>
+<p begin="00:32:13.170" end="00:32:17.940" style="s2">personality structure and then moving</p>
+<p begin="00:32:15.240" end="00:32:19.710" style="s2">beyond it into connecting more with what</p>
+<p begin="00:32:17.940" end="00:32:24.390" style="s2">you might call the essence or the the</p>
+<p begin="00:32:19.710" end="00:32:25.920" style="s2">potential beyond that my friend yeah my</p>
+<p begin="00:32:24.390" end="00:32:27.030" style="s2">friend raffia has another way of</p>
+<p begin="00:32:25.920" end="00:32:29.400" style="s2">describing that other things really</p>
+<p begin="00:32:27.030" end="00:32:31.470" style="s2">beautiful which is that the ego was an</p>
+<p begin="00:32:29.400" end="00:32:33.810" style="s2">intelligent strategies to survive in the</p>
+<p begin="00:32:31.470" end="00:32:36.540" style="s2">environment we grew up in so it&#39;s not</p>
+<p begin="00:32:33.810" end="00:32:39.090" style="s2">wrong it&#39;s just out of date oh that&#39;s a</p>
+<p begin="00:32:36.540" end="00:32:41.220" style="s2">good one I like that too I like that too</p>
+<p begin="00:32:39.090" end="00:32:43.560" style="s2">I think the Buddha the Buddha&#39;s insight</p>
+<p begin="00:32:41.220" end="00:32:46.020" style="s2">was it was a good one his insight was</p>
+<p begin="00:32:43.560" end="00:32:49.020" style="s2">basically that to the extent that we&#39;re</p>
+<p begin="00:32:46.020" end="00:32:53.490" style="s2">self identified the self by its nature</p>
+<p begin="00:32:49.020" end="00:32:55.770" style="s2">is is not continuous with reality the</p>
+<p begin="00:32:53.490" end="00:32:58.320" style="s2">self is separate and where the self is</p>
+<p begin="00:32:55.770" end="00:33:00.360" style="s2">separate the self is also stressed the</p>
+<p begin="00:32:58.320" end="00:33:02.010" style="s2">self is also striving in a certain way</p>
+<p begin="00:33:00.360" end="00:33:04.610" style="s2">to survive so that when that can be</p>
+<p begin="00:33:02.010" end="00:33:07.800" style="s2">relaxed and the experience of more</p>
+<p begin="00:33:04.610" end="00:33:09.540" style="s2">continuity with what is in the natural</p>
+<p begin="00:33:07.800" end="00:33:11.550" style="s2">environment and in the immediacy of the</p>
+<p begin="00:33:09.540" end="00:33:14.160" style="s2">moment that we actually function much</p>
+<p begin="00:33:11.550" end="00:33:16.110" style="s2">better so that quality of the analytic</p>
+<p begin="00:33:14.160" end="00:33:19.190" style="s2">mind dividing us from our immediate</p>
+<p begin="00:33:16.110" end="00:33:21.450" style="s2">experience I think is important too and</p>
+<p begin="00:33:19.190" end="00:33:23.309" style="s2">the other distinction</p>
+<p begin="00:33:21.450" end="00:33:25.500" style="s2">Bonita drew out that I think was really</p>
+<p begin="00:33:23.309" end="00:33:29.159" style="s2">useful and I&#39;ve seen various people</p>
+<p begin="00:33:25.500" end="00:33:33.620" style="s2">makes a similar point is this that there</p>
+<p begin="00:33:29.159" end="00:33:35.340" style="s2">has to be a difference made between an</p>
+<p begin="00:33:33.620" end="00:33:38.340" style="s2">environment that is based around</p>
+<p begin="00:33:35.340" end="00:33:40.769" style="s2">belonging needs and one that is</p>
+<p begin="00:33:38.340" end="00:33:43.019" style="s2">potentially able to go into new</p>
+<p begin="00:33:40.769" end="00:33:44.789" style="s2">territory and I think David data talked</p>
+<p begin="00:33:43.019" end="00:33:48.750" style="s2">about this as well like trauma and and</p>
+<p begin="00:33:44.789" end="00:33:50.340" style="s2">yoga is a very different thing you can</p>
+<p begin="00:33:48.750" end="00:33:52.830" style="s2">either be in a process of dealing with</p>
+<p begin="00:33:50.340" end="00:33:55.169" style="s2">our sort of wounds and trauma but if</p>
+<p begin="00:33:52.830" end="00:33:57.269" style="s2">we&#39;re going into a space of genuine new</p>
+<p begin="00:33:55.169" end="00:33:58.559" style="s2">emergence where something that maybe has</p>
+<p begin="00:33:57.269" end="00:34:00.419" style="s2">never happened before and we&#39;re pushing</p>
+<p begin="00:33:58.559" end="00:34:03.289" style="s2">ourselves to our edge those two things</p>
+<p begin="00:34:00.419" end="00:34:05.519" style="s2">are completely distinct and and</p>
+<p begin="00:34:03.289" end="00:34:08.280" style="s2">collective insight practice where we</p>
+<p begin="00:34:05.519" end="00:34:11.399" style="s2">might be wanting to generate new ideas a</p>
+<p begin="00:34:08.280" end="00:34:14.609" style="s2">new genuine novelty is in the latter</p>
+<p begin="00:34:11.399" end="00:34:15.929" style="s2">category and belonging needs we have to</p>
+<p begin="00:34:14.609" end="00:34:17.820" style="s2">be at a stage of development where our</p>
+<p begin="00:34:15.929" end="00:34:20.940" style="s2">belonging needs are taken care of before</p>
+<p begin="00:34:17.820" end="00:34:27.060" style="s2">we can enter into the genuine emergent</p>
+<p begin="00:34:20.940" end="00:34:29.460" style="s2">space does that scan I think so III like</p>
+<p begin="00:34:27.060" end="00:34:31.500" style="s2">those distinctions that David&#39;s made the</p>
+<p begin="00:34:29.460" end="00:34:33.450" style="s2">the kind of healing or more therapeutic</p>
+<p begin="00:34:31.500" end="00:34:36.060" style="s2">environment I think he uses the word art</p>
+<p begin="00:34:33.450" end="00:34:38.310" style="s2">which I use a lot too which has to do</p>
+<p begin="00:34:36.060" end="00:34:40.470" style="s2">with you could talk about growth but you</p>
+<p begin="00:34:38.310" end="00:34:42.690" style="s2">can also talk about you know breaking</p>
+<p begin="00:34:40.470" end="00:34:45.629" style="s2">into new territory and creativity and</p>
+<p begin="00:34:42.690" end="00:34:46.859" style="s2">novelty is a different imperative and</p>
+<p begin="00:34:45.629" end="00:34:49.020" style="s2">then I think he also makes the</p>
+<p begin="00:34:46.859" end="00:34:51.569" style="s2">distinction of of spiritual awakening</p>
+<p begin="00:34:49.020" end="00:34:54.210" style="s2">which is moving beyond identification in</p>
+<p begin="00:34:51.569" end="00:34:55.980" style="s2">his in his mind discovering the absolute</p>
+<p begin="00:34:54.210" end="00:34:58.050" style="s2">that which is unqualified belong</p>
+<p begin="00:34:55.980" end="00:35:00.000" style="s2">conditioned and utterly indestructible</p>
+<p begin="00:34:58.050" end="00:35:01.440" style="s2">and then how to manifest that in the</p>
+<p begin="00:35:00.000" end="00:35:04.740" style="s2">world so he distinguishes between</p>
+<p begin="00:35:01.440" end="00:35:06.390" style="s2">therapy art and spiritual practice I</p>
+<p begin="00:35:04.740" end="00:35:09.570" style="s2">think those are very worthwhile</p>
+<p begin="00:35:06.390" end="00:35:18.670" style="s2">distinctions for my work</p>
+<p begin="00:35:09.570" end="00:35:21.380" style="s2">[Music]</p>
+<p begin="00:35:18.670" end="00:35:23.450" style="s2">rebel wisdom is a new sense making</p>
+<p begin="00:35:21.380" end="00:35:25.520" style="s2">platform bringing together the most</p>
+<p begin="00:35:23.450" end="00:35:27.680" style="s2">rebellious and inspiring thinkers from</p>
+<p begin="00:35:25.520" end="00:35:29.420" style="s2">around the world if you&#39;re enjoying our</p>
+<p begin="00:35:27.680" end="00:35:31.580" style="s2">content then you can help us make more</p>
+<p begin="00:35:29.420" end="00:35:33.740" style="s2">by becoming a subscriber which will give</p>
+<p begin="00:35:31.580" end="00:35:36.350" style="s2">you access to a load of exclusive films</p>
+<p begin="00:35:33.740" end="00:35:38.360" style="s2">also you can then join our group zoom</p>
+<p begin="00:35:36.350" end="00:35:40.910" style="s2">calls to discuss the ideas in the films</p>
+<p begin="00:35:38.360" end="00:35:42.800" style="s2">and you can send us ideas for questions</p>
+<p begin="00:35:40.910" end="00:35:44.780" style="s2">for upcoming interviews and if you&#39;re a</p>
+<p begin="00:35:42.800" end="00:35:46.970" style="s2">regular viewer you&#39;ll know we talk a lot</p>
+<p begin="00:35:44.780" end="00:35:48.740" style="s2">about the value of embodying or actually</p>
+<p begin="00:35:46.970" end="00:35:51.290" style="s2">living out the ideas that we talk about</p>
+<p begin="00:35:48.740" end="00:35:52.910" style="s2">so that&#39;s why we run regular events in</p>
+<p begin="00:35:51.290" end="00:35:55.760" style="s2">London check out the links on the</p>
+<p begin="00:35:52.910" end="00:35:57.300" style="s2">website for more and hope to see you</p>
+<p begin="00:35:55.760" end="00:35:59.360" style="s2">soon</p>
+<p begin="00:35:57.300" end="00:35:59.360" style="s2">you</p>
+</div>
+</body>
+</tt>

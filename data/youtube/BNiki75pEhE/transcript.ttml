@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.040" end="00:00:06.330" style="s2">welcome to the stola the stoah is a</p>
+<p begin="00:00:03.959" end="00:00:08.910" style="s2">digital campfire where we go here and</p>
+<p begin="00:00:06.330" end="00:00:13.099" style="s2">dialogue about what matters most at the</p>
+<p begin="00:00:08.910" end="00:00:13.099" style="s2">night&#39;s edge what&#39;s happening now</p>
+<p begin="00:00:13.100" end="00:00:19.960" style="s2">[Music]</p>
+<p begin="00:00:22.240" end="00:00:26.630" style="s2">okay</p>
+<p begin="00:00:23.480" end="00:00:29.270" style="s2">welcome to the stoah I&#39;m the Stewart of</p>
+<p begin="00:00:26.630" end="00:00:31.699" style="s2">the stoah the stola has a place for us</p>
+<p begin="00:00:29.270" end="00:00:33.800" style="s2">to cohere and dialogue but what matters</p>
+<p begin="00:00:31.699" end="00:00:38.239" style="s2">most at the knife&#39;s edge of this moment</p>
+<p begin="00:00:33.800" end="00:00:40.790" style="s2">and we&#39;re very lucky to have Robin</p>
+<p begin="00:00:38.239" end="00:00:44.650" style="s2">Hanson back at the stove and he&#39;s going</p>
+<p begin="00:00:40.790" end="00:00:46.879" style="s2">to talk about a short blog piece he did</p>
+<p begin="00:00:44.650" end="00:00:48.379" style="s2">that was a called the contrary in moment</p>
+<p begin="00:00:46.879" end="00:00:50.989" style="s2">or the contrary in times something along</p>
+<p begin="00:00:48.379" end="00:00:53.449" style="s2">those lines so he&#39;s gonna share his</p>
+<p begin="00:00:50.989" end="00:00:55.729" style="s2">thoughts rushed contrarians yes that&#39;s</p>
+<p begin="00:00:53.449" end="00:00:57.619" style="s2">it so he&#39;s gonna share his thoughts on</p>
+<p begin="00:00:55.729" end="00:00:59.089" style="s2">that maybe contrarian ism in general and</p>
+<p begin="00:00:57.619" end="00:01:00.470" style="s2">then I&#39;ll warm him up with some</p>
+<p begin="00:00:59.089" end="00:01:01.970" style="s2">questions and then if you have a</p>
+<p begin="00:01:00.470" end="00:01:03.920" style="s2">question for Robin just write in the</p>
+<p begin="00:01:01.970" end="00:01:05.689" style="s2">chat box and then I will unmute you and</p>
+<p begin="00:01:03.920" end="00:01:07.310" style="s2">you can ask it to him yourself</p>
+<p begin="00:01:05.689" end="00:01:14.090" style="s2">that being said I&#39;ll hand it over to you</p>
+<p begin="00:01:07.310" end="00:01:16.060" style="s2">brother oh what a tall so I&#39;ve been a</p>
+<p begin="00:01:14.090" end="00:01:21.680" style="s2">contrary in some sense most of my life</p>
+<p begin="00:01:16.060" end="00:01:23.330" style="s2">in my sort of personal style and I&#39;ve</p>
+<p begin="00:01:21.680" end="00:01:25.820" style="s2">often reflected on the nature of</p>
+<p begin="00:01:23.330" end="00:01:29.240" style="s2">contrary anism and and how it relates to</p>
+<p begin="00:01:25.820" end="00:01:31.640" style="s2">people who aren&#39;t contrarian so a couple</p>
+<p begin="00:01:29.240" end="00:01:34.580" style="s2">of obvious facts you know most</p>
+<p begin="00:01:31.640" end="00:01:35.870" style="s2">institutions are run by people and</p>
+<p begin="00:01:34.580" end="00:01:38.330" style="s2">whatever view they have is not</p>
+<p begin="00:01:35.870" end="00:01:40.580" style="s2">considered contrary contrary in it the</p>
+<p begin="00:01:38.330" end="00:01:43.220" style="s2">the usual view is identified with the</p>
+<p begin="00:01:40.580" end="00:01:44.540" style="s2">view of authorities there&#39;s authorities</p>
+<p begin="00:01:43.220" end="00:01:46.880" style="s2">in charge or something then whatever</p>
+<p begin="00:01:44.540" end="00:01:49.520" style="s2">they say by definition isn&#39;t contrary so</p>
+<p begin="00:01:46.880" end="00:01:51.290" style="s2">contrary and is a in some sense a status</p>
+<p begin="00:01:49.520" end="00:01:53.659" style="s2">for a little thing not just popularity</p>
+<p begin="00:01:51.290" end="00:01:55.130" style="s2">if most people believed one thing but</p>
+<p begin="00:01:53.659" end="00:01:56.360" style="s2">the authorities believed another the</p>
+<p begin="00:01:55.130" end="00:02:01.190" style="s2">thing most people believed would</p>
+<p begin="00:01:56.360" end="00:02:03.350" style="s2">probably be considered contrary so most</p>
+<p begin="00:02:01.190" end="00:02:06.229" style="s2">say people in charge of things</p>
+<p begin="00:02:03.350" end="00:02:08.539" style="s2">try not to be visibly advised by</p>
+<p begin="00:02:06.229" end="00:02:10.640" style="s2">outsiders they they consider that to be</p>
+<p begin="00:02:08.539" end="00:02:12.500" style="s2">a challenge to their status that is if</p>
+<p begin="00:02:10.640" end="00:02:14.120" style="s2">it looks like you&#39;re being influenced by</p>
+<p begin="00:02:12.500" end="00:02:15.170" style="s2">people in some sense your status is</p>
+<p begin="00:02:14.120" end="00:02:17.959" style="s2">being lowered and there&#39;s this being</p>
+<p begin="00:02:15.170" end="00:02:19.099" style="s2">raised so high status people try not to</p>
+<p begin="00:02:17.959" end="00:02:20.360" style="s2">be visibly influenced if they&#39;re</p>
+<p begin="00:02:19.099" end="00:02:23.239" style="s2">influenced they try to do it privately</p>
+<p begin="00:02:20.360" end="00:02:25.790" style="s2">to private advisers things like that and</p>
+<p begin="00:02:23.239" end="00:02:28.099" style="s2">so when there&#39;s a wide public</p>
+<p begin="00:02:25.790" end="00:02:29.980" style="s2">conversation and there are contrarians</p>
+<p begin="00:02:28.099" end="00:02:31.690" style="s2">talking</p>
+<p begin="00:02:29.980" end="00:02:33.310" style="s2">going saying something against whatever</p>
+<p begin="00:02:31.690" end="00:02:36.790" style="s2">the authority the authority view would</p>
+<p begin="00:02:33.310" end="00:02:38.680" style="s2">be then in some sense they are seen as a</p>
+<p begin="00:02:36.790" end="00:02:40.209" style="s2">challenge to the authority they are</p>
+<p begin="00:02:38.680" end="00:02:43.599" style="s2">challenging the status of that authority</p>
+<p begin="00:02:40.209" end="00:02:45.970" style="s2">and sometimes of course the authorities</p>
+<p begin="00:02:43.599" end="00:02:48.489" style="s2">do badly and then their power is lost</p>
+<p begin="00:02:45.970" end="00:02:50.680" style="s2">and in part that happens because people</p>
+<p begin="00:02:48.489" end="00:02:52.959" style="s2">challenge them and people who are</p>
+<p begin="00:02:50.680" end="00:02:54.970" style="s2">looking to rise in status often will</p>
+<p begin="00:02:52.959" end="00:02:57.069" style="s2">take a moment to challenge a leader or</p>
+<p begin="00:02:54.970" end="00:02:59.319" style="s2">an authority as the moment to make their</p>
+<p begin="00:02:57.069" end="00:03:01.000" style="s2">bid because if they succeed in</p>
+<p begin="00:02:59.319" end="00:03:02.920" style="s2">persuading people of their challenge and</p>
+<p begin="00:03:01.000" end="00:03:04.630" style="s2">that the authorities are wrong and this</p>
+<p begin="00:03:02.920" end="00:03:06.340" style="s2">Challenger is right they may well decide</p>
+<p begin="00:03:04.630" end="00:03:09.040" style="s2">to replace the current authorities with</p>
+<p begin="00:03:06.340" end="00:03:12.370" style="s2">the new challenges so people are in</p>
+<p begin="00:03:09.040" end="00:03:14.410" style="s2">general framing opinions in this way not</p>
+<p begin="00:03:12.370" end="00:03:18.250" style="s2">just who&#39;s right who&#39;s wrong but whose</p>
+<p begin="00:03:14.410" end="00:03:20.440" style="s2">high status whose low status and our</p>
+<p begin="00:03:18.250" end="00:03:22.120" style="s2">willing authorities be dumped out of the</p>
+<p begin="00:03:20.440" end="00:03:24.430" style="s2">role or will they stay in that role and</p>
+<p begin="00:03:22.120" end="00:03:26.260" style="s2">are the challengers people who are</p>
+<p begin="00:03:24.430" end="00:03:28.120" style="s2">disagreeing with them publicly are those</p>
+<p begin="00:03:26.260" end="00:03:30.519" style="s2">people to consider as people to replace</p>
+<p begin="00:03:28.120" end="00:03:33.540" style="s2">them and that&#39;s just part of the general</p>
+<p begin="00:03:30.519" end="00:03:36.880" style="s2">dynamic of challenging an authority now</p>
+<p begin="00:03:33.540" end="00:03:39.359" style="s2">one key fact is that usually when</p>
+<p begin="00:03:36.880" end="00:03:42.670" style="s2">challengers disagree with authorities</p>
+<p begin="00:03:39.359" end="00:03:45.970" style="s2">it&#39;s hard to prove them right usually</p>
+<p begin="00:03:42.670" end="00:03:47.049" style="s2">they say something and you know the</p>
+<p begin="00:03:45.970" end="00:03:49.000" style="s2">world doesn&#39;t believe us some hard to</p>
+<p begin="00:03:47.049" end="00:03:52.410" style="s2">see and whatever claims you&#39;re making</p>
+<p begin="00:03:49.000" end="00:03:55.660" style="s2">goes to take a long time to be proven so</p>
+<p begin="00:03:52.410" end="00:03:59.230" style="s2">and usually authorities look magnanimous</p>
+<p begin="00:03:55.660" end="00:04:01.209" style="s2">and generous and authoritative if they</p>
+<p begin="00:03:59.230" end="00:04:04.870" style="s2">allow some degree of contrary and</p>
+<p begin="00:04:01.209" end="00:04:07.389" style="s2">criticism and disagree if you to quickly</p>
+<p begin="00:04:04.870" end="00:04:09.430" style="s2">squelch disagreement that seems you know</p>
+<p begin="00:04:07.389" end="00:04:11.769" style="s2">like you&#39;re showing that you already</p>
+<p begin="00:04:09.430" end="00:04:13.030" style="s2">said you&#39;re insecure you and maybe</p>
+<p begin="00:04:11.769" end="00:04:14.500" style="s2">you&#39;ve got something to hide and maybe</p>
+<p begin="00:04:13.030" end="00:04:17.109" style="s2">those people have something to say that</p>
+<p begin="00:04:14.500" end="00:04:18.729" style="s2">you&#39;re trying to sponsor so in general</p>
+<p begin="00:04:17.109" end="00:04:20.919" style="s2">most times authorities want to give the</p>
+<p begin="00:04:18.729" end="00:04:22.750" style="s2">appearance of listening to criticism and</p>
+<p begin="00:04:20.919" end="00:04:24.430" style="s2">they do of course us into presidents a</p>
+<p begin="00:04:22.750" end="00:04:26.080" style="s2">lot but they don&#39;t want to seem to be</p>
+<p begin="00:04:24.430" end="00:04:28.810" style="s2">too visibly following any particular</p>
+<p begin="00:04:26.080" end="00:04:30.370" style="s2">rivals who might replace them and they</p>
+<p begin="00:04:28.810" end="00:04:32.410" style="s2">are usually somewhat safe from the sense</p>
+<p begin="00:04:30.370" end="00:04:34.510" style="s2">that in the usual noise in the world and</p>
+<p begin="00:04:32.410" end="00:04:35.979" style="s2">slow way to change that you can&#39;t really</p>
+<p begin="00:04:34.510" end="00:04:37.270" style="s2">see if the critics are right or not so</p>
+<p begin="00:04:35.979" end="00:04:39.039" style="s2">usually most people are going to presume</p>
+<p begin="00:04:37.270" end="00:04:40.210" style="s2">the authorities right the authorities</p>
+<p begin="00:04:39.039" end="00:04:42.120" style="s2">are willing to accept that so they&#39;re</p>
+<p begin="00:04:40.210" end="00:04:43.680" style="s2">willing to allow some criticism</p>
+<p begin="00:04:42.120" end="00:04:46.169" style="s2">and a small rate at which the</p>
+<p begin="00:04:43.680" end="00:04:48.930" style="s2">authorities seem wrong is okay as long</p>
+<p begin="00:04:46.169" end="00:04:52.590" style="s2">as usually people perceive and judge the</p>
+<p begin="00:04:48.930" end="00:04:55.169" style="s2">authorities right in a crisis like now</p>
+<p begin="00:04:52.590" end="00:04:57.180" style="s2">like a big war or pandemic these</p>
+<p begin="00:04:55.169" end="00:04:59.040" style="s2">dynamics change in interesting ways and</p>
+<p begin="00:04:57.180" end="00:05:01.710" style="s2">that allows us most to think about this</p>
+<p begin="00:04:59.040" end="00:05:05.160" style="s2">crisis and to think about the nature of</p>
+<p begin="00:05:01.710" end="00:05:06.980" style="s2">being a contrary so the most obvious</p>
+<p begin="00:05:05.160" end="00:05:09.660" style="s2">thing is that in a crisis like this</p>
+<p begin="00:05:06.980" end="00:05:11.700" style="s2">whatever you say that might be contrary</p>
+<p begin="00:05:09.660" end="00:05:13.290" style="s2">to what the authorities say you and the</p>
+<p begin="00:05:11.700" end="00:05:16.950" style="s2">authorities will be proven right or</p>
+<p begin="00:05:13.290" end="00:05:20.250" style="s2">wrong pretty fast and in a pretty</p>
+<p begin="00:05:16.950" end="00:05:21.660" style="s2">dramatic visible way so that means if</p>
+<p begin="00:05:20.250" end="00:05:23.130" style="s2">you&#39;re a contrary you might say ooh this</p>
+<p begin="00:05:21.660" end="00:05:26.070" style="s2">is my chance to prove myself I&#39;m gonna</p>
+<p begin="00:05:23.130" end="00:05:27.630" style="s2">go out there and you know work on this</p>
+<p begin="00:05:26.070" end="00:05:29.250" style="s2">and figure out a contrarian thing to say</p>
+<p begin="00:05:27.630" end="00:05:30.720" style="s2">challenge the authorities and then I&#39;ll</p>
+<p begin="00:05:29.250" end="00:05:34.020" style="s2">be proven right and this will be my big</p>
+<p begin="00:05:30.720" end="00:05:36.570" style="s2">chance to shine yeah me yes and of</p>
+<p begin="00:05:34.020" end="00:05:38.460" style="s2">course you playing a pro-social you are</p>
+<p begin="00:05:36.570" end="00:05:40.410" style="s2">helping us all by China you know</p>
+<p begin="00:05:38.460" end="00:05:41.639" style="s2">checking the authorities and wondering</p>
+<p begin="00:05:40.410" end="00:05:43.889" style="s2">whether they&#39;re really right and trying</p>
+<p begin="00:05:41.639" end="00:05:45.360" style="s2">to help us all deal with problem but</p>
+<p begin="00:05:43.889" end="00:05:48.840" style="s2">think about this from the point of view</p>
+<p begin="00:05:45.360" end="00:05:50.820" style="s2">of the authorities usually they&#39;re</p>
+<p begin="00:05:48.840" end="00:05:52.890" style="s2">pretty safe in allowing contrarians to</p>
+<p begin="00:05:50.820" end="00:05:54.840" style="s2">you know challenge them and say things</p>
+<p begin="00:05:52.890" end="00:05:57.780" style="s2">and you know don&#39;t have to repress them</p>
+<p begin="00:05:54.840" end="00:05:59.850" style="s2">too much but now in a crisis well they</p>
+<p begin="00:05:57.780" end="00:06:01.169" style="s2">are more risk first of all there are</p>
+<p begin="00:05:59.850" end="00:06:02.490" style="s2">more at risk of people being unhappy</p>
+<p begin="00:06:01.169" end="00:06:04.080" style="s2">what they do because in a crisis that</p>
+<p begin="00:06:02.490" end="00:06:06.720" style="s2">stuff happens and you can blame the</p>
+<p begin="00:06:04.080" end="00:06:08.370" style="s2">authorities and worse that these</p>
+<p begin="00:06:06.720" end="00:06:09.930" style="s2">contrarians who complain about what</p>
+<p begin="00:06:08.370" end="00:06:12.510" style="s2">you&#39;re doing early on they could be more</p>
+<p begin="00:06:09.930" end="00:06:15.889" style="s2">easily proven right and that&#39;s a threat</p>
+<p begin="00:06:12.510" end="00:06:18.720" style="s2">to you as authorities so what do you do</p>
+<p begin="00:06:15.889" end="00:06:21.330" style="s2">well it seems more obvious you you want</p>
+<p begin="00:06:18.720" end="00:06:23.940" style="s2">to be less tolerant of contrarians</p>
+<p begin="00:06:21.330" end="00:06:26.850" style="s2">less hollering of challengers you more</p>
+<p begin="00:06:23.940" end="00:06:28.440" style="s2">what to you know circle the wagons you</p>
+<p begin="00:06:26.850" end="00:06:30.150" style="s2">know draw the line saying we&#39;re the</p>
+<p begin="00:06:28.440" end="00:06:31.500" style="s2">authorities those people are our</p>
+<p begin="00:06:30.150" end="00:06:33.539" style="s2">outsiders and if you have the resources</p>
+<p begin="00:06:31.500" end="00:06:35.729" style="s2">and most people will defer to you most</p>
+<p begin="00:06:33.539" end="00:06:38.070" style="s2">people will consider you by default to</p>
+<p begin="00:06:35.729" end="00:06:39.750" style="s2">be the right party and you can accuse</p>
+<p begin="00:06:38.070" end="00:06:41.729" style="s2">the other party of trying to you know</p>
+<p begin="00:06:39.750" end="00:06:44.340" style="s2">take away our unity that we need now in</p>
+<p begin="00:06:41.729" end="00:06:46.320" style="s2">this crucial time we need everybody to</p>
+<p begin="00:06:44.340" end="00:06:49.560" style="s2">be behind the common policy that we&#39;ve</p>
+<p begin="00:06:46.320" end="00:06:51.120" style="s2">all chosen and those people are</p>
+<p begin="00:06:49.560" end="00:06:52.180" style="s2">challenging that and they are breaking</p>
+<p begin="00:06:51.120" end="00:06:53.680" style="s2">up our unity</p>
+<p begin="00:06:52.180" end="00:06:55.930" style="s2">and that&#39;s of course something we see</p>
+<p begin="00:06:53.680" end="00:06:58.150" style="s2">today I&#39;ll last leave you with the</p>
+<p begin="00:06:55.930" end="00:06:59.169" style="s2">example of world war one so leading up</p>
+<p begin="00:06:58.150" end="00:07:02.500" style="s2">to World War one there were a lot of</p>
+<p begin="00:06:59.169" end="00:07:04.240" style="s2">people who were anti-war a lot of people</p>
+<p begin="00:07:02.500" end="00:07:05.620" style="s2">visibly said you know war is bad</p>
+<p begin="00:07:04.240" end="00:07:07.449" style="s2">supporting your country&#39;s war that&#39;s not</p>
+<p begin="00:07:05.620" end="00:07:09.759" style="s2">good thing as soon as World War one</p>
+<p begin="00:07:07.449" end="00:07:11.740" style="s2">started those people showed up for a</p>
+<p begin="00:07:09.759" end="00:07:13.300" style="s2">couple years they completely shut up and</p>
+<p begin="00:07:11.740" end="00:07:14.620" style="s2">wisely suffering because people were</p>
+<p begin="00:07:13.300" end="00:07:16.389" style="s2">just completely intolerant they did not</p>
+<p begin="00:07:14.620" end="00:07:17.740" style="s2">let me hear that all these people who</p>
+<p begin="00:07:16.389" end="00:07:19.210" style="s2">are not so sure they like more all the</p>
+<p begin="00:07:17.740" end="00:07:21.250" style="s2">sudden people were too really eager for</p>
+<p begin="00:07:19.210" end="00:07:23.410" style="s2">war the nations all said yes gonna have</p>
+<p begin="00:07:21.250" end="00:07:26.500" style="s2">war our troops we held Christmas there</p>
+<p begin="00:07:23.410" end="00:07:27.729" style="s2">was this huge sense that everybody</p>
+<p begin="00:07:26.500" end="00:07:28.990" style="s2">should be behind that message nobody</p>
+<p begin="00:07:27.729" end="00:07:30.070" style="s2">should be questioning it and of course</p>
+<p begin="00:07:28.990" end="00:07:32.470" style="s2">even the United States</p>
+<p begin="00:07:30.070" end="00:07:34.690" style="s2">these are Sarpy key examples of where</p>
+<p begin="00:07:32.470" end="00:07:36.880" style="s2">the government requests free speech</p>
+<p begin="00:07:34.690" end="00:07:38.680" style="s2">basically by rounding on people who</p>
+<p begin="00:07:36.880" end="00:07:40.150" style="s2">disagreed with the war and throwing you</p>
+<p begin="00:07:38.680" end="00:07:43.539" style="s2">in jail for no other reason that they</p>
+<p begin="00:07:40.150" end="00:07:45.639" style="s2">had just agree with the war as an</p>
+<p begin="00:07:43.539" end="00:07:48.190" style="s2">example of how in a time of crisis</p>
+<p begin="00:07:45.639" end="00:07:49.930" style="s2">people tend to wanna you know back the</p>
+<p begin="00:07:48.190" end="00:07:51.639" style="s2">authorities support the authorities and</p>
+<p begin="00:07:49.930" end="00:07:54.370" style="s2">the authorities will be less tolerated</p>
+<p begin="00:07:51.639" end="00:07:59.650" style="s2">contraries anyway that was those are my</p>
+<p begin="00:07:54.370" end="00:08:01.000" style="s2">observations and let&#39;s talk cool so if</p>
+<p begin="00:07:59.650" end="00:08:03.130" style="s2">you have questions for Robin just write</p>
+<p begin="00:08:01.000" end="00:08:06.280" style="s2">it in chat box if you&#39;d like me to read</p>
+<p begin="00:08:03.130" end="00:08:08.110" style="s2">it on your behalf just indicate that say</p>
+<p begin="00:08:06.280" end="00:08:10.090" style="s2">I&#39;ll warm you up with a few questions</p>
+<p begin="00:08:08.110" end="00:08:15.430" style="s2">and I&#39;ll roam the room up so what</p>
+<p begin="00:08:10.090" end="00:08:18.430" style="s2">compels you to be a contrarian expect</p>
+<p begin="00:08:15.430" end="00:08:20.139" style="s2">it&#39;s a personality text thing but you</p>
+<p begin="00:08:18.430" end="00:08:22.120" style="s2">could give a theory that you know</p>
+<p begin="00:08:20.139" end="00:08:25.090" style="s2">sometime in life you made a bid for</p>
+<p begin="00:08:22.120" end="00:08:29.280" style="s2">authority and or rejected and you framed</p>
+<p begin="00:08:25.090" end="00:08:32.260" style="s2">yourself as in this country with already</p>
+<p begin="00:08:29.280" end="00:08:33.550" style="s2">success I won&#39;t just support the</p>
+<p begin="00:08:32.260" end="00:08:35.560" style="s2">authorities and they&#39;ll support me and I</p>
+<p begin="00:08:33.550" end="00:08:37.990" style="s2">will be promoted up the usual ladder if</p>
+<p begin="00:08:35.560" end="00:08:39.550" style="s2">I play ball and do what I&#39;m told some</p>
+<p begin="00:08:37.990" end="00:08:42.159" style="s2">time early on you got the signal that</p>
+<p begin="00:08:39.550" end="00:08:45.790" style="s2">was gonna work for you and so you</p>
+<p begin="00:08:42.159" end="00:08:47.260" style="s2">decided let me take this alternative you</p>
+<p begin="00:08:45.790" end="00:08:48.760" style="s2">know there&#39;s a lot of theories like that</p>
+<p begin="00:08:47.260" end="00:08:51.520" style="s2">in terms of personality types and roles</p>
+<p begin="00:08:48.760" end="00:08:54.040" style="s2">in society even say the standard story</p>
+<p begin="00:08:51.520" end="00:08:56.140" style="s2">of the first war enrich the claybournes</p>
+<p begin="00:08:54.040" end="00:08:58.209" style="s2">the firstborn tends to take the</p>
+<p begin="00:08:56.140" end="00:09:00.010" style="s2">authority role in the family of doing</p>
+<p begin="00:08:58.209" end="00:09:02.860" style="s2">with parents say it supporting parenting</p>
+<p begin="00:09:00.010" end="00:09:04.450" style="s2">roles and obedience and that sort of</p>
+<p begin="00:09:02.860" end="00:09:04.910" style="s2">thing later borns tend to be more of the</p>
+<p begin="00:09:04.450" end="00:09:09.200" style="s2">rebels</p>
+<p begin="00:09:04.910" end="00:09:15.170" style="s2">say well I didn&#39;t get to be firstborn by</p>
+<p begin="00:09:09.200" end="00:09:16.370" style="s2">somebody else right and in your book</p>
+<p begin="00:09:15.170" end="00:09:19.400" style="s2">elephant in the brain you talk a lot</p>
+<p begin="00:09:16.370" end="00:09:21.350" style="s2">about signaling and I&#39;m curious like if</p>
+<p begin="00:09:19.400" end="00:09:23.240" style="s2">there&#39;s different shades of contrarians</p>
+<p begin="00:09:21.350" end="00:09:24.380" style="s2">signaling as I imagine some are just</p>
+<p begin="00:09:23.240" end="00:09:26.120" style="s2">sort of like into that quick hit of</p>
+<p begin="00:09:24.380" end="00:09:27.680" style="s2">showing people how smart you are and</p>
+<p begin="00:09:26.120" end="00:09:32.000" style="s2">other ones maybe come from more deeper</p>
+<p begin="00:09:27.680" end="00:09:33.190" style="s2">place this probably range I haven&#39;t</p>
+<p begin="00:09:32.000" end="00:09:35.390" style="s2">thought that much about it but obviously</p>
+<p begin="00:09:33.190" end="00:09:37.220" style="s2">one thing is just to show that you&#39;re</p>
+<p begin="00:09:35.390" end="00:09:39.830" style="s2">clever so often even specially in</p>
+<p begin="00:09:37.220" end="00:09:41.480" style="s2">philosophy you know if everybody has a</p>
+<p begin="00:09:39.830" end="00:09:42.950" style="s2">state review you can show your clever by</p>
+<p begin="00:09:41.480" end="00:09:45.830" style="s2">arguing for an alternative you I mean</p>
+<p begin="00:09:42.950" end="00:09:47.120" style="s2">many of the most impressive philosophers</p>
+<p begin="00:09:45.830" end="00:09:49.820" style="s2">or people who argue reviews they&#39;re</p>
+<p begin="00:09:47.120" end="00:09:51.260" style="s2">basically sound crazy even on reflection</p>
+<p begin="00:09:49.820" end="00:09:52.610" style="s2">but damn if they didn&#39;t have an</p>
+<p begin="00:09:51.260" end="00:09:55.010" style="s2">oppressive argument for you couldn&#39;t</p>
+<p begin="00:09:52.610" end="00:09:56.960" style="s2">immediately dismiss and you know if</p>
+<p begin="00:09:55.010" end="00:09:58.460" style="s2">you&#39;re trying to be impressive putting</p>
+<p begin="00:09:56.960" end="00:09:59.900" style="s2">together impressive argument for</p>
+<p begin="00:09:58.460" end="00:10:02.030" style="s2">something everybody thinks it&#39;s wrong is</p>
+<p begin="00:09:59.900" end="00:10:03.890" style="s2">a lot more aggressive then putting</p>
+<p begin="00:10:02.030" end="00:10:06.050" style="s2">together in a persuasive argument for</p>
+<p begin="00:10:03.890" end="00:10:07.580" style="s2">something everybody thinks it&#39;s right so</p>
+<p begin="00:10:06.050" end="00:10:09.730" style="s2">that&#39;s just one way to look impressive</p>
+<p begin="00:10:07.580" end="00:10:12.380" style="s2">then of course as I said there&#39;s this</p>
+<p begin="00:10:09.730" end="00:10:14.510" style="s2">defiance rebel rebel mode where you&#39;re</p>
+<p begin="00:10:12.380" end="00:10:15.950" style="s2">basically you know the old James II</p>
+<p begin="00:10:14.510" end="00:10:19.600" style="s2">quote what do you what do you against</p>
+<p begin="00:10:15.950" end="00:10:21.830" style="s2">what do you got basically the</p>
+<p begin="00:10:19.600" end="00:10:24.050" style="s2">disagreement is merely a signal that I</p>
+<p begin="00:10:21.830" end="00:10:25.460" style="s2">want a rebel rebel and I want to throw</p>
+<p begin="00:10:24.050" end="00:10:26.960" style="s2">out the incumbent and I want to take</p>
+<p begin="00:10:25.460" end="00:10:28.430" style="s2">their places you have to come up with an</p>
+<p begin="00:10:26.960" end="00:10:29.900" style="s2">excuse you come up with some reason but</p>
+<p begin="00:10:28.430" end="00:10:32.630" style="s2">that&#39;s not where your heart is your or</p>
+<p begin="00:10:29.900" end="00:10:34.370" style="s2">your focuses you just lerner about great</p>
+<p begin="00:10:32.630" end="00:10:38.480" style="s2">and to quote that&#39;s coming up is that</p>
+<p begin="00:10:34.370" end="00:10:39.820" style="s2">Hunter H Thompson who&#39;s like the problem</p>
+<p begin="00:10:38.480" end="00:10:42.140" style="s2">saying his name wrong but like when the</p>
+<p begin="00:10:39.820" end="00:10:44.000" style="s2">going gets weird the weird turns pro</p>
+<p begin="00:10:42.140" end="00:10:45.920" style="s2">right this is like and these kind of</p>
+<p begin="00:10:44.000" end="00:10:49.880" style="s2">weird visit of states you you want to</p>
+<p begin="00:10:45.920" end="00:10:51.680" style="s2">listen to the weirdness yeah so uh I</p>
+<p begin="00:10:49.880" end="00:10:53.510" style="s2">mean it&#39;s also Pro so I mean another</p>
+<p begin="00:10:51.680" end="00:10:56.180" style="s2">consideration is just flexibility that</p>
+<p begin="00:10:53.510" end="00:10:58.190" style="s2">is most people and I wrote another blog</p>
+<p begin="00:10:56.180" end="00:11:00.620" style="s2">post about this later bait most people</p>
+<p begin="00:10:58.190" end="00:11:02.030" style="s2">in their roles in the 30s in stable</p>
+<p begin="00:11:00.620" end="00:11:03.530" style="s2">parts of society they get used to a</p>
+<p begin="00:11:02.030" end="00:11:05.990" style="s2">state standard pattern and way things</p>
+<p begin="00:11:03.530" end="00:11:07.490" style="s2">are and then in a crisis that&#39;s a moment</p>
+<p begin="00:11:05.990" end="00:11:09.800" style="s2">of disruption reflects ability a</p>
+<p begin="00:11:07.490" end="00:11:11.420" style="s2">generality is more valuable and so</p>
+<p begin="00:11:09.800" end="00:11:13.600" style="s2">that&#39;s often what contrarians how</p>
+<p begin="00:11:11.420" end="00:11:16.149" style="s2">they&#39;re the polymath there</p>
+<p begin="00:11:13.600" end="00:11:18.339" style="s2">who stand ready to reason about a wide</p>
+<p begin="00:11:16.149" end="00:11:20.589" style="s2">range of things but aren&#39;t authorities</p>
+<p begin="00:11:18.339" end="00:11:23.019" style="s2">within a very narrow area right right</p>
+<p begin="00:11:20.589" end="00:11:25.149" style="s2">what&#39;s coming to mind - it&#39;s like if you</p>
+<p begin="00:11:23.019" end="00:11:27.129" style="s2">weren&#39;t successful in the right way in</p>
+<p begin="00:11:25.149" end="00:11:29.290" style="s2">the old world it&#39;s like almost does you</p>
+<p begin="00:11:27.129" end="00:11:30.759" style="s2">a service and the whole service to be</p>
+<p begin="00:11:29.290" end="00:11:35.079" style="s2">successful in sort of a potential new</p>
+<p begin="00:11:30.759" end="00:11:36.790" style="s2">world right crises seem that way</p>
+<p begin="00:11:35.079" end="00:11:37.990" style="s2">openings to people who are lower in</p>
+<p begin="00:11:36.790" end="00:11:40.689" style="s2">status who think they deserve to be</p>
+<p begin="00:11:37.990" end="00:11:43.389" style="s2">higher when I sort of displace the</p>
+<p begin="00:11:40.689" end="00:11:45.160" style="s2">existing Howard&#39;s the beat a crisis</p>
+<p begin="00:11:43.389" end="00:11:47.230" style="s2">often looks attracted to them exactly on</p>
+<p begin="00:11:45.160" end="00:11:49.269" style="s2">the other side people in power exactly</p>
+<p begin="00:11:47.230" end="00:11:51.459" style="s2">fear that and so they&#39;re gonna be more</p>
+<p begin="00:11:49.269" end="00:11:53.769" style="s2">protective right so I ask one more</p>
+<p begin="00:11:51.459" end="00:11:56.559" style="s2">question and we&#39;ll open up to the room</p>
+<p begin="00:11:53.769" end="00:12:02.740" style="s2">so who what contrarians do you love to</p>
+<p begin="00:11:56.559" end="00:12:05.110" style="s2">read and follow and listen to I I don&#39;t</p>
+<p begin="00:12:02.740" end="00:12:06.790" style="s2">have a set list like that but I have a</p>
+<p begin="00:12:05.110" end="00:12:10.300" style="s2">lot of people most of my friends are</p>
+<p begin="00:12:06.790" end="00:12:11.589" style="s2">kind of contrarian style and so I just</p>
+<p begin="00:12:10.300" end="00:12:13.209" style="s2">know a lot of people who are more</p>
+<p begin="00:12:11.589" end="00:12:14.980" style="s2">contrarian style and more generalist and</p>
+<p begin="00:12:13.209" end="00:12:18.100" style="s2">more calling that style right the</p>
+<p begin="00:12:14.980" end="00:12:21.179" style="s2">diverse many people in history a lot of</p>
+<p begin="00:12:18.100" end="00:12:24.670" style="s2">people who became like a successful</p>
+<p begin="00:12:21.179" end="00:12:29.309" style="s2">Authority what want to look back and</p>
+<p begin="00:12:24.670" end="00:12:29.309" style="s2">tell the story that they were that&#39;s</p>
+<p begin="00:12:31.079" end="00:12:36.429" style="s2">people say well used to be this</p>
+<p begin="00:12:33.100" end="00:12:38.170" style="s2">Authority then I came along and I I and</p>
+<p begin="00:12:36.429" end="00:12:41.230" style="s2">then we fought for a while and now I&#39;m</p>
+<p begin="00:12:38.170" end="00:12:44.679" style="s2">in charge because we were right there</p>
+<p begin="00:12:41.230" end="00:12:47.139" style="s2">and so in our world today that origin</p>
+<p begin="00:12:44.679" end="00:12:49.179" style="s2">story of rebellion and contrariness is</p>
+<p begin="00:12:47.139" end="00:12:51.160" style="s2">one many people like but it&#39;s actually</p>
+<p begin="00:12:49.179" end="00:12:52.540" style="s2">not as true as people say a lot of</p>
+<p begin="00:12:51.160" end="00:12:56.079" style="s2">people who are authorities today we&#39;re</p>
+<p begin="00:12:52.540" end="00:13:01.929" style="s2">pretty much tony&#39;s before they found a</p>
+<p begin="00:12:56.079" end="00:13:03.999" style="s2">way to spin it as being a cool cool so</p>
+<p begin="00:13:01.929" end="00:13:05.110" style="s2">your videos a little bit blurry we can</p>
+<p begin="00:13:03.999" end="00:13:06.519" style="s2">hear you fine i don&#39;t know if you want</p>
+<p begin="00:13:05.110" end="00:13:18.480" style="s2">to turn it on turn it back on to see if</p>
+<p begin="00:13:06.519" end="00:13:20.410" style="s2">it works better supposed to happen now</p>
+<p begin="00:13:18.480" end="00:13:28.600" style="s2">so Amy would you like to read you a</p>
+<p begin="00:13:20.410" end="00:13:31.899" style="s2">question oh I think I have to allow you</p>
+<p begin="00:13:28.600" end="00:13:37.000" style="s2">to mute yourself okay go ahead Amy you</p>
+<p begin="00:13:31.899" end="00:13:40.470" style="s2">can unmute yourself now hi Robin how you</p>
+<p begin="00:13:37.000" end="00:13:43.449" style="s2">doing I had one question which is</p>
+<p begin="00:13:40.470" end="00:13:47.049" style="s2">basically what do you think that an</p>
+<p begin="00:13:43.449" end="00:13:49.000" style="s2">example of thoughtful practical</p>
+<p begin="00:13:47.049" end="00:13:51.790" style="s2">intelligent contrary anism</p>
+<p begin="00:13:49.000" end="00:13:54.759" style="s2">looks like in this time period it could</p>
+<p begin="00:13:51.790" end="00:14:11.829" style="s2">be a real example or an imagined it and</p>
+<p begin="00:13:54.759" end="00:14:13.360" style="s2">and excuse me an example and of course</p>
+<p begin="00:14:11.829" end="00:14:14.939" style="s2">the reason they&#39;re usually not possible</p>
+<p begin="00:14:13.360" end="00:14:17.799" style="s2">is most people can&#39;t tell the difference</p>
+<p begin="00:14:14.939" end="00:14:20.980" style="s2">the difference of being thoughtful is</p>
+<p begin="00:14:17.799" end="00:14:25.170" style="s2">that you are correct and careful rather</p>
+<p begin="00:14:20.980" end="00:14:27.189" style="s2">than incorrect islami and motivated and</p>
+<p begin="00:14:25.170" end="00:14:29.049" style="s2">most people again can&#39;t tell the</p>
+<p begin="00:14:27.189" end="00:14:33.579" style="s2">difference and so most people pretend to</p>
+<p begin="00:14:29.049" end="00:14:35.290" style="s2">be thoughtful so the obvious way to</p>
+<p begin="00:14:33.579" end="00:14:38.470" style="s2">actually be intelligent and thoughtful</p>
+<p begin="00:14:35.290" end="00:14:39.790" style="s2">is to think and to in addition to</p>
+<p begin="00:14:38.470" end="00:14:41.799" style="s2">whatever urge you have to be contrary</p>
+<p begin="00:14:39.790" end="00:14:44.620" style="s2">and actually be correct that&#39;s of course</p>
+<p begin="00:14:41.799" end="00:14:45.639" style="s2">a lot more work and it means you have to</p>
+<p begin="00:14:44.620" end="00:14:47.799" style="s2">sit through a lot more possibilities</p>
+<p begin="00:14:45.639" end="00:14:49.720" style="s2">before you find one that works the</p>
+<p begin="00:14:47.799" end="00:14:50.980" style="s2">thoughtless country more grabs one thing</p>
+<p begin="00:14:49.720" end="00:14:53.829" style="s2">right from the start and says that looks</p>
+<p begin="00:14:50.980" end="00:14:56.290" style="s2">good and runs with it the thoughtful</p>
+<p begin="00:14:53.829" end="00:14:58.360" style="s2">contrary you&#39;ll have sister 20 maybe 50</p>
+<p begin="00:14:56.290" end="00:15:00.040" style="s2">different contrary impossibilities in</p>
+<p begin="00:14:58.360" end="00:15:01.839" style="s2">each one go no that doesn&#39;t work that&#39;s</p>
+<p begin="00:15:00.040" end="00:15:06.939" style="s2">not right and eventually you come up</p>
+<p begin="00:15:01.839" end="00:15:12.309" style="s2">with one you say then you go that makes</p>
+<p begin="00:15:06.939" end="00:15:16.149" style="s2">sense Amy do you want to follow up</p>
+<p begin="00:15:12.309" end="00:15:17.470" style="s2">attender yes all right yeah I&#39;m just</p>
+<p begin="00:15:16.149" end="00:15:20.170" style="s2">wondering if you have any practical</p>
+<p begin="00:15:17.470" end="00:15:22.059" style="s2">examples for this time period of what on</p>
+<p begin="00:15:20.170" end="00:15:25.870" style="s2">thoughtful contrarian ISM might look</p>
+<p begin="00:15:22.059" end="00:15:28.269" style="s2">like or does look like again that&#39;s just</p>
+<p begin="00:15:25.870" end="00:15:30.519" style="s2">the people I think are correct there&#39;s</p>
+<p begin="00:15:28.269" end="00:15:34.490" style="s2">nothing more subtle about it than people</p>
+<p begin="00:15:30.519" end="00:15:38.960" style="s2">who are you</p>
+<p begin="00:15:34.490" end="00:15:41.180" style="s2">I mean certainly when there are these</p>
+<p begin="00:15:38.960" end="00:15:42.590" style="s2">locked in dogmas people who even</p>
+<p begin="00:15:41.180" end="00:15:43.850" style="s2">question the dogmas are being a little</p>
+<p begin="00:15:42.590" end="00:15:46.190" style="s2">more thoughtful of course they may have</p>
+<p begin="00:15:43.850" end="00:15:48.320" style="s2">other motives for that but you know the</p>
+<p begin="00:15:46.190" end="00:15:50.030" style="s2">elites locked in pretty early to this</p>
+<p begin="00:15:48.320" end="00:15:51.800" style="s2">plan that we&#39;re all going to lock down</p>
+<p begin="00:15:50.030" end="00:15:55.550" style="s2">and stay there until we get a vaccine</p>
+<p begin="00:15:51.800" end="00:15:58.850" style="s2">and a lot of people said you can&#39;t stay</p>
+<p begin="00:15:55.550" end="00:16:00.020" style="s2">down that long a lot of people yes we</p>
+<p begin="00:15:58.850" end="00:16:01.790" style="s2">can because we&#39;re gonna have enough</p>
+<p begin="00:16:00.020" end="00:16:04.250" style="s2">tests we&#39;re gonna hire more you know</p>
+<p begin="00:16:01.790" end="00:16:05.540" style="s2">other things and the other you got to be</p>
+<p begin="00:16:04.250" end="00:16:07.040" style="s2">hopeful you got to believe and tech will</p>
+<p begin="00:16:05.540" end="00:16:10.310" style="s2">save us and a lot of people were going</p>
+<p begin="00:16:07.040" end="00:16:13.010" style="s2">what you sure but you know how does that</p>
+<p begin="00:16:10.310" end="00:16:14.060" style="s2">how does that work so a lot of people</p>
+<p begin="00:16:13.010" end="00:16:16.460" style="s2">saying yes but we need the whole</p>
+<p begin="00:16:14.060" end="00:16:19.250" style="s2">community to be behind the message and</p>
+<p begin="00:16:16.460" end="00:16:21.140" style="s2">behind the plan that we all have which</p>
+<p begin="00:16:19.250" end="00:16:23.840" style="s2">is to lock down as long as we need to</p>
+<p begin="00:16:21.140" end="00:16:28.790" style="s2">and you know that that&#39;s sort of a</p>
+<p begin="00:16:23.840" end="00:16:36.170" style="s2">saying is undermining our unity so uh</p>
+<p begin="00:16:28.790" end="00:16:41.000" style="s2">then you have a question hi hi there can</p>
+<p begin="00:16:36.170" end="00:16:44.000" style="s2">you hear me yep John oh great yeah so uh</p>
+<p begin="00:16:41.000" end="00:16:45.680" style="s2">yeah my my question I suppose was yet</p>
+<p begin="00:16:44.000" end="00:16:49.970" style="s2">kind of really about the value I guess</p>
+<p begin="00:16:45.680" end="00:16:51.860" style="s2">of of contrarians um and I was sort of</p>
+<p begin="00:16:49.970" end="00:16:54.560" style="s2">really struck I guess by what you were</p>
+<p begin="00:16:51.860" end="00:16:57.830" style="s2">saying you know about the the this sort</p>
+<p begin="00:16:54.560" end="00:17:00.830" style="s2">of the tension almost between those in</p>
+<p begin="00:16:57.830" end="00:17:02.660" style="s2">authority and then this notion of this</p>
+<p begin="00:17:00.830" end="00:17:06.320" style="s2">contrarian so I suppose my question</p>
+<p begin="00:17:02.660" end="00:17:07.250" style="s2">really was you know colonel do</p>
+<p begin="00:17:06.320" end="00:17:09.800" style="s2">contrarians</p>
+<p begin="00:17:07.250" end="00:17:12.290" style="s2">lead and I mean maybe this as a contrary</p>
+<p begin="00:17:09.800" end="00:17:14.660" style="s2">thing to say in itself but even if not</p>
+<p begin="00:17:12.290" end="00:17:18.060" style="s2">necessarily from the front as it were so</p>
+<p begin="00:17:14.660" end="00:17:19.540" style="s2">so that notion of of value and</p>
+<p begin="00:17:18.060" end="00:17:22.310" style="s2">[Music]</p>
+<p begin="00:17:19.540" end="00:17:24.950" style="s2">leadership and thought leadership and</p>
+<p begin="00:17:22.310" end="00:17:28.820" style="s2">social leadership and bind up with our</p>
+<p begin="00:17:24.950" end="00:17:33.050" style="s2">whole notion of being contrarian what&#39;s</p>
+<p begin="00:17:28.820" end="00:17:34.790" style="s2">your thoughts on well certainly again</p>
+<p begin="00:17:33.050" end="00:17:36.500" style="s2">many contrarians like to present</p>
+<p begin="00:17:34.790" end="00:17:37.580" style="s2">themselves I mean many leaders and</p>
+<p begin="00:17:36.500" end="00:17:40.270" style="s2">authorities like to present themselves</p>
+<p begin="00:17:37.580" end="00:17:42.380" style="s2">contrary you know so for example</p>
+<p begin="00:17:40.270" end="00:17:44.030" style="s2">scientific Authority often wants to</p>
+<p begin="00:17:42.380" end="00:17:46.870" style="s2">emphasize how it&#39;s different from that</p>
+<p begin="00:17:44.030" end="00:17:48.009" style="s2">old religious authority from forcing</p>
+<p begin="00:17:46.870" end="00:17:49.509" style="s2">how they were billed against that I</p>
+<p begin="00:17:48.009" end="00:17:53.769" style="s2">remember their rebellion way back then</p>
+<p begin="00:17:49.509" end="00:17:55.630" style="s2">where those rebels still and like in the</p>
+<p begin="00:17:53.769" end="00:17:57.340" style="s2">political world often a rebel political</p>
+<p begin="00:17:55.630" end="00:18:00.039" style="s2">movement will be co-opted by the</p>
+<p begin="00:17:57.340" end="00:18:03.429" style="s2">established political parties so you you</p>
+<p begin="00:18:00.039" end="00:18:04.899" style="s2">might you will win the election but the</p>
+<p begin="00:18:03.429" end="00:18:06.429" style="s2">established parties will say I guess</p>
+<p begin="00:18:04.899" end="00:18:08.409" style="s2">that seems to be popular let&#39;s adopt</p>
+<p begin="00:18:06.429" end="00:18:11.289" style="s2">those views and that similarly happens</p>
+<p begin="00:18:08.409" end="00:18:12.970" style="s2">in other environments a rebel company</p>
+<p begin="00:18:11.289" end="00:18:14.769" style="s2">and firms they might have a rebel</p>
+<p begin="00:18:12.970" end="00:18:16.539" style="s2">product and the established companies</p>
+<p begin="00:18:14.769" end="00:18:17.980" style="s2">like Apple or Google manages to squash</p>
+<p begin="00:18:16.539" end="00:18:20.259" style="s2">it but they decide well we&#39;re going to</p>
+<p begin="00:18:17.980" end="00:18:24.190" style="s2">copy this ideas that looks good and they</p>
+<p begin="00:18:20.259" end="00:18:26.379" style="s2">do and so in that sense contrarians lead</p>
+<p begin="00:18:24.190" end="00:18:28.960" style="s2">even if they don&#39;t become authorities</p>
+<p begin="00:18:26.379" end="00:18:30.309" style="s2">they they tell or ities that there&#39;s a</p>
+<p begin="00:18:28.960" end="00:18:36.210" style="s2">set of options that they should consider</p>
+<p begin="00:18:30.309" end="00:18:39.639" style="s2">and they co-op it and of course you know</p>
+<p begin="00:18:36.210" end="00:18:42.580" style="s2">Koreans do sometimes women and become</p>
+<p begin="00:18:39.639" end="00:18:43.990" style="s2">leaders but then there are no longer in</p>
+<p begin="00:18:42.580" end="00:18:45.460" style="s2">some sense by definition contrarians</p>
+<p begin="00:18:43.990" end="00:18:47.139" style="s2">because people see the Maoist into</p>
+<p begin="00:18:45.460" end="00:18:50.049" style="s2">authority but they still celebrate that</p>
+<p begin="00:18:47.139" end="00:18:57.159" style="s2">contrary in origin as legitimizing their</p>
+<p begin="00:18:50.049" end="00:19:04.419" style="s2">artillery okay thank you fine okay</p>
+<p begin="00:18:57.159" end="00:19:07.330" style="s2">Jordan you had a question hey Robin okay</p>
+<p begin="00:19:04.419" end="00:19:08.980" style="s2">so I&#39;ve been following this guy courtesy</p>
+<p begin="00:19:07.330" end="00:19:11.610" style="s2">Arvind recently who talks a lot about</p>
+<p begin="00:19:08.980" end="00:19:14.950" style="s2">contrary anism and he has this idea that</p>
+<p begin="00:19:11.610" end="00:19:16.600" style="s2">you that there&#39;s like a this kind of</p>
+<p begin="00:19:14.950" end="00:19:18.909" style="s2">group consensus that we work in that</p>
+<p begin="00:19:16.600" end="00:19:21.879" style="s2">sort of a like a two-party two-story</p>
+<p begin="00:19:18.909" end="00:19:24.879" style="s2">system but that there&#39;s a there&#39;s like a</p>
+<p begin="00:19:21.879" end="00:19:27.129" style="s2">secret third story which is a kind of a</p>
+<p begin="00:19:24.879" end="00:19:30.159" style="s2">stereotype of what it looks like to be a</p>
+<p begin="00:19:27.129" end="00:19:32.350" style="s2">contrarian like for example in America&#39;s</p>
+<p begin="00:19:30.159" end="00:19:35.379" style="s2">kind of like the founding myth of the</p>
+<p begin="00:19:32.350" end="00:19:37.419" style="s2">the current system is partially embedded</p>
+<p begin="00:19:35.379" end="00:19:38.649" style="s2">in like an opposition to Nazism so</p>
+<p begin="00:19:37.419" end="00:19:41.379" style="s2">there&#39;s this stereotype about</p>
+<p begin="00:19:38.649" end="00:19:44.080" style="s2">contrarians that they look like Nazis</p>
+<p begin="00:19:41.379" end="00:19:49.809" style="s2">that but the problem with it is that</p>
+<p begin="00:19:44.080" end="00:19:52.570" style="s2">like you people who are contrary and</p>
+<p begin="00:19:49.809" end="00:19:54.909" style="s2">oftentimes find themselves drawn to</p>
+<p begin="00:19:52.570" end="00:19:56.470" style="s2">these stereotypes and they start doing</p>
+<p begin="00:19:54.909" end="00:19:57.900" style="s2">habit them accidentally without</p>
+<p begin="00:19:56.470" end="00:19:59.610" style="s2">realizing that like</p>
+<p begin="00:19:57.900" end="00:20:01.200" style="s2">that the fact that they&#39;re behaving that</p>
+<p begin="00:19:59.610" end="00:20:02.550" style="s2">way is just because they&#39;re inhabiting</p>
+<p begin="00:20:01.200" end="00:20:05.430" style="s2">just like the third part of the</p>
+<p begin="00:20:02.550" end="00:20:07.170" style="s2">territory and so you end up with people</p>
+<p begin="00:20:05.430" end="00:20:08.820" style="s2">in Charlottesville and this kind of</p>
+<p begin="00:20:07.170" end="00:20:12.870" style="s2">stuff in the question is later is that</p>
+<p begin="00:20:08.820" end="00:20:14.190" style="s2">their genuine belief or are they are</p>
+<p begin="00:20:12.870" end="00:20:16.860" style="s2">they kind of like misfiring on a</p>
+<p begin="00:20:14.190" end="00:20:18.480" style="s2">contrary an impulse and then doing so in</p>
+<p begin="00:20:16.860" end="00:20:20.340" style="s2">a way that like highlights them as a</p>
+<p begin="00:20:18.480" end="00:20:21.690" style="s2">target which is like beneficial to the</p>
+<p begin="00:20:20.340" end="00:20:24.180" style="s2">system so I wonder if you&#39;ve heard these</p>
+<p begin="00:20:21.690" end="00:20:26.820" style="s2">ideas before if you don&#39;t like for</p>
+<p begin="00:20:24.180" end="00:20:29.520" style="s2">example my cult xcode blogger eliezer</p>
+<p begin="00:20:26.820" end="00:20:31.800" style="s2">yudkowsky years ago talked about how you</p>
+<p begin="00:20:29.520" end="00:20:35.100" style="s2">know the stereotypical young teenage</p>
+<p begin="00:20:31.800" end="00:20:37.860" style="s2">rebel all looks and dresses and talks</p>
+<p begin="00:20:35.100" end="00:20:40.170" style="s2">the same they&#39;re rebelling against some</p>
+<p begin="00:20:37.860" end="00:20:43.850" style="s2">larger world but they are conforming to</p>
+<p begin="00:20:40.170" end="00:20:47.400" style="s2">a sub world and you know in many ways</p>
+<p begin="00:20:43.850" end="00:20:49.170" style="s2">when we feel like rebelling or being</p>
+<p begin="00:20:47.400" end="00:20:51.270" style="s2">amount of informants we don&#39;t try to</p>
+<p begin="00:20:49.170" end="00:20:53.100" style="s2">sort of just go out and be personally</p>
+<p begin="00:20:51.270" end="00:20:57.090" style="s2">distinctive we often look for a model</p>
+<p begin="00:20:53.100" end="00:20:59.610" style="s2">and try to join in that model so and</p>
+<p begin="00:20:57.090" end="00:21:02.490" style="s2">that of course can reinforce you know so</p>
+<p begin="00:20:59.610" end="00:21:06.530" style="s2">for example today many contrarians think</p>
+<p begin="00:21:02.490" end="00:21:06.530" style="s2">that they should not be polite or</p>
+<p begin="00:21:06.650" end="00:21:13.080" style="s2">careful in their speech or logical in</p>
+<p begin="00:21:10.380" end="00:21:16.320" style="s2">their analysis they think they should</p>
+<p begin="00:21:13.080" end="00:21:19.140" style="s2">defy that that yell and be rude and call</p>
+<p begin="00:21:16.320" end="00:21:21.929" style="s2">people names and draw rude pictures</p>
+<p begin="00:21:19.140" end="00:21:24.570" style="s2">because you know that&#39;s their idea a lot</p>
+<p begin="00:21:21.929" end="00:21:27.770" style="s2">of contrary it is like it&#39;s it&#39;s those</p>
+<p begin="00:21:24.570" end="00:21:30.900" style="s2">Tonys who are polite and careful and</p>
+<p begin="00:21:27.770" end="00:21:32.309" style="s2">gracious and you know acknowledge the</p>
+<p begin="00:21:30.900" end="00:21:34.830" style="s2">points of others and things like that</p>
+<p begin="00:21:32.309" end="00:21:38.309" style="s2">whereas it&#39;s true rebels who know that&#39;s</p>
+<p begin="00:21:34.830" end="00:21:41.250" style="s2">all needs to be rejected right so you</p>
+<p begin="00:21:38.309" end="00:21:45.480" style="s2">know like in general you know it&#39;s very</p>
+<p begin="00:21:41.250" end="00:21:46.770" style="s2">hard to escape you know identifying with</p>
+<p begin="00:21:45.480" end="00:21:49.890" style="s2">something or rebelling against it and</p>
+<p begin="00:21:46.770" end="00:21:51.240" style="s2">doing the opposite and of course in some</p>
+<p begin="00:21:49.890" end="00:21:52.710" style="s2">sense you&#39;re just as conformist if you</p>
+<p begin="00:21:51.240" end="00:21:54.380" style="s2">try to be the opposite of something that</p>
+<p begin="00:21:52.710" end="00:21:56.400" style="s2">if you try to be exactly the same is it</p>
+<p begin="00:21:54.380" end="00:21:58.890" style="s2">the hard part is to be thoughtful about</p>
+<p begin="00:21:56.400" end="00:22:01.920" style="s2">well what exactly makes sense what else</p>
+<p begin="00:21:58.890" end="00:22:03.330" style="s2">but most likely if you are that kind of</p>
+<p begin="00:22:01.920" end="00:22:04.920" style="s2">thoughtful contrary and you won&#39;t be</p>
+<p begin="00:22:03.330" end="00:22:07.470" style="s2">near other people in the space of</p>
+<p begin="00:22:04.920" end="00:22:09.419" style="s2">behaviors or styles or positions</p>
+<p begin="00:22:07.470" end="00:22:13.500" style="s2">and you won&#39;t be part of a little bit</p>
+<p begin="00:22:09.419" end="00:22:16.710" style="s2">people really create being part of so</p>
+<p begin="00:22:13.500" end="00:22:18.929" style="s2">yes but of course the contrarians</p>
+<p begin="00:22:16.710" end="00:22:21.330" style="s2">conformism isn&#39;t any worse than the</p>
+<p begin="00:22:18.929" end="00:22:23.280" style="s2">conformist confinement you know status</p>
+<p begin="00:22:21.330" end="00:22:25.950" style="s2">quo conformist conformism it&#39;s just a</p>
+<p begin="00:22:23.280" end="00:22:41.159" style="s2">different style and in both of them of</p>
+<p begin="00:22:25.950" end="00:22:43.710" style="s2">course play roles Narayan I&#39;m realizing</p>
+<p begin="00:22:41.159" end="00:22:46.320" style="s2">like in my own life that sometimes I</p>
+<p begin="00:22:43.710" end="00:22:49.320" style="s2">play the role of contrarian and other</p>
+<p begin="00:22:46.320" end="00:22:51.059" style="s2">times I play the role of like looking</p>
+<p begin="00:22:49.320" end="00:22:52.530" style="s2">for people who appear to be contrarians</p>
+<p begin="00:22:51.059" end="00:22:53.820" style="s2">and trying to evaluate whether or not</p>
+<p begin="00:22:52.530" end="00:22:57.360" style="s2">like what kind of value that they</p>
+<p begin="00:22:53.820" end="00:22:58.919" style="s2">actually hold and I was thinking that</p>
+<p begin="00:22:57.360" end="00:23:01.200" style="s2">like it seems like what you&#39;re saying is</p>
+<p begin="00:22:58.919" end="00:23:04.049" style="s2">that the first most important part is to</p>
+<p begin="00:23:01.200" end="00:23:06.179" style="s2">be right and if you&#39;re right and</p>
+<p begin="00:23:04.049" end="00:23:08.039" style="s2">everyone else is wrong that&#39;s when you</p>
+<p begin="00:23:06.179" end="00:23:10.500" style="s2">become that valuable contrarian that can</p>
+<p begin="00:23:08.039" end="00:23:12.179" style="s2">shift the masses to being more right but</p>
+<p begin="00:23:10.500" end="00:23:14.340" style="s2">if you&#39;re right but you&#39;re also with</p>
+<p begin="00:23:12.179" end="00:23:16.350" style="s2">everyone else you still need to have the</p>
+<p begin="00:23:14.340" end="00:23:18.090" style="s2">discernment to figure out is that person</p>
+<p begin="00:23:16.350" end="00:23:21.120" style="s2">the contrary and are they corrected</p>
+<p begin="00:23:18.090" end="00:23:22.650" style="s2">should I update towards them so I was</p>
+<p begin="00:23:21.120" end="00:23:24.030" style="s2">thinking about like the stock markets</p>
+<p begin="00:23:22.650" end="00:23:26.789" style="s2">and how they seemed to incentivize</p>
+<p begin="00:23:24.030" end="00:23:29.340" style="s2">contrarian to are right I&#39;m curious if</p>
+<p begin="00:23:26.789" end="00:23:33.750" style="s2">you have any thoughts about how society</p>
+<p begin="00:23:29.340" end="00:23:36.270" style="s2">as a whole might be restructured to</p>
+<p begin="00:23:33.750" end="00:23:40.080" style="s2">actually incentivize contrarians who are</p>
+<p begin="00:23:36.270" end="00:23:45.030" style="s2">correct I&#39;ve actually spent a big part</p>
+<p begin="00:23:40.080" end="00:23:48.030" style="s2">of my career thinking about that so you</p>
+<p begin="00:23:45.030" end="00:23:50.039" style="s2">know basically the stock market is like</p>
+<p begin="00:23:48.030" end="00:23:52.140" style="s2">betting markets in the same structure</p>
+<p begin="00:23:50.039" end="00:23:54.450" style="s2">called speculative markets and they do</p>
+<p begin="00:23:52.140" end="00:23:57.270" style="s2">in fact give people strong incentives to</p>
+<p begin="00:23:54.450" end="00:24:00.450" style="s2">just be accurate not to be thrower</p>
+<p begin="00:23:57.270" end="00:24:01.799" style="s2">against some trend but just yeah and we</p>
+<p begin="00:24:00.450" end="00:24:03.929" style="s2">can show that we have very good data</p>
+<p begin="00:24:01.799" end="00:24:05.970" style="s2">over time that shows across a very wide</p>
+<p begin="00:24:03.929" end="00:24:09.860" style="s2">range of topics we can just be more</p>
+<p begin="00:24:05.970" end="00:24:09.860" style="s2">accurate together if we</p>
+</div>
+</body>
+</tt>

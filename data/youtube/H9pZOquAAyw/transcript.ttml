@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.089" end="00:00:03.780" style="s2">hello welcome to voice club welcome to</p>
+<p begin="00:00:02.580" end="00:00:05.220" style="s2">Bristol where I&#39;m recording this</p>
+<p begin="00:00:03.780" end="00:00:06.779" style="s2">introduction this was a conversation</p>
+<p begin="00:00:05.220" end="00:00:09.060" style="s2">actually that was recorded at be on</p>
+<p begin="00:00:06.779" end="00:00:09.570" style="s2">psychedelics in Prague between myself -</p>
+<p begin="00:00:09.060" end="00:00:12.090" style="s2">Madeleine</p>
+<p begin="00:00:09.570" end="00:00:14.130" style="s2">Melissa Warner and Matthew Johnson are</p>
+<p begin="00:00:12.090" end="00:00:17.339" style="s2">two fantastic people who I&#39;m really</p>
+<p begin="00:00:14.130" end="00:00:19.140" style="s2">honored to have been able to record</p>
+<p begin="00:00:17.339" end="00:00:20.789" style="s2">anything with that&#39;s all I&#39;ve got quite</p>
+<p begin="00:00:19.140" end="00:00:22.109" style="s2">a bit more coming with Melissa actually</p>
+<p begin="00:00:20.789" end="00:00:24.269" style="s2">she has a wonderful conversation with</p>
+<p begin="00:00:22.109" end="00:00:26.640" style="s2">Rick Doblin but perhaps it&#39;s best if I</p>
+<p begin="00:00:24.269" end="00:00:29.970" style="s2">introduce and the two of these guys to</p>
+<p begin="00:00:26.640" end="00:00:31.980" style="s2">you first of all Matthew Matthew is a</p>
+<p begin="00:00:29.970" end="00:00:33.930" style="s2">PhD and associate professor of</p>
+<p begin="00:00:31.980" end="00:00:36.090" style="s2">psychiatry at Johns Hopkins University</p>
+<p begin="00:00:33.930" end="00:00:37.620" style="s2">School of Medicine and a leading expert</p>
+<p begin="00:00:36.090" end="00:00:39.450" style="s2">on the effects of psychedelics and</p>
+<p begin="00:00:37.620" end="00:00:40.920" style="s2">really a leading expert he&#39;s one of</p>
+<p begin="00:00:39.450" end="00:00:44.250" style="s2">those people that&#39;s published so much</p>
+<p begin="00:00:40.920" end="00:00:46.790" style="s2">it&#39;s like how many rungs above the</p>
+<p begin="00:00:44.250" end="00:00:49.620" style="s2">average he&#39;s right at the top you know</p>
+<p begin="00:00:46.790" end="00:00:51.270" style="s2">really fantastic energy about him as</p>
+<p begin="00:00:49.620" end="00:00:53.100" style="s2">well really opening I really enjoyed</p>
+<p begin="00:00:51.270" end="00:00:57.540" style="s2">meeting him Thank You Matthew for</p>
+<p begin="00:00:53.100" end="00:00:59.160" style="s2">spending the time again Melissa is very</p>
+<p begin="00:00:57.540" end="00:01:00.810" style="s2">interesting as well she&#39;s a co-founder</p>
+<p begin="00:00:59.160" end="00:01:02.490" style="s2">of the Australian psychedelic society</p>
+<p begin="00:01:00.810" end="00:01:04.589" style="s2">board member of prism which is the</p>
+<p begin="00:01:02.490" end="00:01:06.390" style="s2">Australian equivalent to Maps</p>
+<p begin="00:01:04.589" end="00:01:09.119" style="s2">it stands for psychedelic research in</p>
+<p begin="00:01:06.390" end="00:01:10.979" style="s2">science and medicine so really check out</p>
+<p begin="00:01:09.119" end="00:01:13.950" style="s2">what prism are doing I think it&#39;s</p>
+<p begin="00:01:10.979" end="00:01:16.920" style="s2">important moving forward without further</p>
+<p begin="00:01:13.950" end="00:01:19.650" style="s2">ado then I bring you Melissa Warner and</p>
+<p begin="00:01:16.920" end="00:01:21.710" style="s2">Matthew Johnson</p>
+<p begin="00:01:19.650" end="00:01:21.710" style="s2">you</p>
+<p begin="00:01:24.960" end="00:01:29.610" style="s2">so I&#39;m with Matthew Johnston today a few</p>
+<p begin="00:01:27.420" end="00:01:31.170" style="s2">on psychedelics in Prague and Matthew</p>
+<p begin="00:01:29.610" end="00:01:33.720" style="s2">was an associate professor at John</p>
+<p begin="00:01:31.170" end="00:01:35.460" style="s2">Hopkins School of Medicine in the USA</p>
+<p begin="00:01:33.720" end="00:01:38.430" style="s2">and he&#39;s been the pioneer of the</p>
+<p begin="00:01:35.460" end="00:01:41.100" style="s2">research into addiction for the</p>
+<p begin="00:01:38.430" end="00:01:43.530" style="s2">treatment of psilocybin and also</p>
+<p begin="00:01:41.100" end="00:01:46.860" style="s2">profiling the nature of mystical States</p>
+<p begin="00:01:43.530" end="00:01:49.080" style="s2">or peak experience I guess studying</p>
+<p begin="00:01:46.860" end="00:01:50.580" style="s2">addiction studying the alteration of</p>
+<p begin="00:01:49.080" end="00:01:53.130" style="s2">consciousness through things like</p>
+<p begin="00:01:50.580" end="00:01:55.560" style="s2">psychedelics isn&#39;t is a way of studying</p>
+<p begin="00:01:53.130" end="00:01:58.020" style="s2">consciousness and quite curious to know</p>
+<p begin="00:01:55.560" end="00:01:59.220" style="s2">what is it that led you to have an</p>
+<p begin="00:01:58.020" end="00:02:02.220" style="s2">interest in the study of consciousness</p>
+<p begin="00:01:59.220" end="00:02:05.729" style="s2">oh great question great question Melissa</p>
+<p begin="00:02:02.220" end="00:02:08.489" style="s2">I can come to at that from a number of</p>
+<p begin="00:02:05.729" end="00:02:10.470" style="s2">different angles one angle is that I</p>
+<p begin="00:02:08.489" end="00:02:13.290" style="s2">just have a great interest in the</p>
+<p begin="00:02:10.470" end="00:02:15.570" style="s2">effects of drugs really across all drug</p>
+<p begin="00:02:13.290" end="00:02:18.770" style="s2">classes whether we&#39;re talking about you</p>
+<p begin="00:02:15.570" end="00:02:22.440" style="s2">know caffeine or cocaine or psilocybin</p>
+<p begin="00:02:18.770" end="00:02:24.390" style="s2">alcohol you name it and I&#39;m a an</p>
+<p begin="00:02:22.440" end="00:02:27.209" style="s2">experimental psychologist and really</p>
+<p begin="00:02:24.390" end="00:02:29.070" style="s2">with a strong emphasis on behavior and</p>
+<p begin="00:02:27.209" end="00:02:30.750" style="s2">my kind of core foundation even though I</p>
+<p begin="00:02:29.070" end="00:02:32.940" style="s2">kind of see these as schools of thought</p>
+<p begin="00:02:30.750" end="00:02:35.190" style="s2">as tools in the toolbox but one of my</p>
+<p begin="00:02:32.940" end="00:02:37.830" style="s2">core foundations is as a behavioral</p>
+<p begin="00:02:35.190" end="00:02:39.420" style="s2">psychologist so I I kind of think you</p>
+<p begin="00:02:37.830" end="00:02:44.580" style="s2">know if you&#39;re interested in drugs and</p>
+<p begin="00:02:39.420" end="00:02:47.580" style="s2">behavior how could you not be interested</p>
+<p begin="00:02:44.580" end="00:02:50.970" style="s2">in psychedelics and I think in a sense I</p>
+<p begin="00:02:47.580" end="00:02:54.630" style="s2">think consciousness and in behavior are</p>
+<p begin="00:02:50.970" end="00:02:59.750" style="s2">two sides of the same coin behavior over</p>
+<p begin="00:02:54.630" end="00:02:59.750" style="s2">the time reflects consciousness and so</p>
+<p begin="00:03:00.470" end="00:03:08.430" style="s2">some of the effects of psychedelics are</p>
+<p begin="00:03:03.930" end="00:03:10.769" style="s2">so profound and are in the domain of</p>
+<p begin="00:03:08.430" end="00:03:12.870" style="s2">what people call consciousness even</p>
+<p begin="00:03:10.769" end="00:03:14.910" style="s2">though that you know just the concept</p>
+<p begin="00:03:12.870" end="00:03:18.600" style="s2">itself is difficult to deal with because</p>
+<p begin="00:03:14.910" end="00:03:21.120" style="s2">you know people use definitions for what</p>
+<p begin="00:03:18.600" end="00:03:23.670" style="s2">consciousness is but it these strong</p>
+<p begin="00:03:21.120" end="00:03:26.280" style="s2">alterations and subjective experience</p>
+<p begin="00:03:23.670" end="00:03:28.610" style="s2">it&#39;s just not uncommon for people to</p>
+<p begin="00:03:26.280" end="00:03:32.880" style="s2">have an experience on a psychedelic</p>
+<p begin="00:03:28.610" end="00:03:34.850" style="s2">where they say they could never put it</p>
+<p begin="00:03:32.880" end="00:03:38.570" style="s2">into words</p>
+<p begin="00:03:34.850" end="00:03:42.650" style="s2">and that it has profound changes in the</p>
+<p begin="00:03:38.570" end="00:03:44.030" style="s2">way they think and behave if you&#39;re a</p>
+<p begin="00:03:42.650" end="00:03:46.190" style="s2">psychologist how could you not be</p>
+<p begin="00:03:44.030" end="00:03:47.540" style="s2">interested in that yeah I think there&#39;s</p>
+<p begin="00:03:46.190" end="00:03:50.060" style="s2">no better way to study the nature of</p>
+<p begin="00:03:47.540" end="00:03:53.870" style="s2">consciousness than the alteration of it</p>
+<p begin="00:03:50.060" end="00:03:55.520" style="s2">yeah I I guess the other thing I really</p>
+<p begin="00:03:53.870" end="00:03:58.520" style="s2">liked what you said there was tools in</p>
+<p begin="00:03:55.520" end="00:04:01.850" style="s2">the toolbox so I guess that is the tools</p>
+<p begin="00:03:58.520" end="00:04:05.330" style="s2">to alter consciousness from undesirable</p>
+<p begin="00:04:01.850" end="00:04:07.520" style="s2">states and there is an array of tools so</p>
+<p begin="00:04:05.330" end="00:04:09.800" style="s2">state psychedelics are not the only tool</p>
+<p begin="00:04:07.520" end="00:04:11.360" style="s2">yeah books and what are the conditions</p>
+<p begin="00:04:09.800" end="00:04:16.850" style="s2">that we&#39;re trying to alter in your</p>
+<p begin="00:04:11.360" end="00:04:18.620" style="s2">research so in terms of problems or</p>
+<p begin="00:04:16.850" end="00:04:21.860" style="s2">issues that we&#39;re trying to help people</p>
+<p begin="00:04:18.620" end="00:04:25.340" style="s2">with um so one is people dealing with</p>
+<p begin="00:04:21.860" end="00:04:29.890" style="s2">cancer severe depression or anxiety or</p>
+<p begin="00:04:25.340" end="00:04:33.920" style="s2">both which is common in cancer and other</p>
+<p begin="00:04:29.890" end="00:04:35.720" style="s2">potentially terminal disorders so we&#39;re</p>
+<p begin="00:04:33.920" end="00:04:37.580" style="s2">very interested in that we conducted a</p>
+<p begin="00:04:35.720" end="00:04:41.480" style="s2">very promising trial and published it</p>
+<p begin="00:04:37.580" end="00:04:43.970" style="s2">about a year ago hoping to do a much</p>
+<p begin="00:04:41.480" end="00:04:45.650" style="s2">larger study that might with colleagues</p>
+<p begin="00:04:43.970" end="00:04:48.860" style="s2">at a number of sites that would gain</p>
+<p begin="00:04:45.650" end="00:04:50.420" style="s2">approval for the you know non research</p>
+<p begin="00:04:48.860" end="00:04:54.200" style="s2">just straight-up therapeutic use of</p>
+<p begin="00:04:50.420" end="00:04:56.000" style="s2">psilocybin and then another one the</p>
+<p begin="00:04:54.200" end="00:04:57.200" style="s2">other major therapeutic area that we&#39;re</p>
+<p begin="00:04:56.000" end="00:05:00.110" style="s2">looking at is in the treatment of</p>
+<p begin="00:04:57.200" end="00:05:03.020" style="s2">addiction specifically cigarette smoking</p>
+<p begin="00:05:00.110" end="00:05:06.560" style="s2">people who have tried multiple times to</p>
+<p begin="00:05:03.020" end="00:05:09.140" style="s2">quit and have not been able to but I</p>
+<p begin="00:05:06.560" end="00:05:11.150" style="s2">should say also the the foundation of</p>
+<p begin="00:05:09.140" end="00:05:13.610" style="s2">our work and the initial studies that</p>
+<p begin="00:05:11.150" end="00:05:17.560" style="s2">our group has done at Johns Hopkins or</p>
+<p begin="00:05:13.610" end="00:05:21.920" style="s2">in people without any kind of diagnosis</p>
+<p begin="00:05:17.560" end="00:05:23.780" style="s2">disorders but of course we&#39;re all human</p>
+<p begin="00:05:21.920" end="00:05:26.630" style="s2">beings and there&#39;s always things that</p>
+<p begin="00:05:23.780" end="00:05:31.300" style="s2">can be improved the the betterment of</p>
+<p begin="00:05:26.630" end="00:05:35.170" style="s2">well people the kind of if you would</p>
+<p begin="00:05:31.300" end="00:05:35.170" style="s2">self actualization</p>
+<p begin="00:05:35.360" end="00:05:42.170" style="s2">positive psychology you know in that</p>
+<p begin="00:05:39.020" end="00:05:45.630" style="s2">spirit I think our original research</p>
+<p begin="00:05:42.170" end="00:05:49.860" style="s2">with those healthy normals we&#39;re seeing</p>
+<p begin="00:05:45.630" end="00:05:52.080" style="s2">some the basic phenomena that we</p>
+<p begin="00:05:49.860" end="00:05:54.390" style="s2">observed in those we see them in these</p>
+<p begin="00:05:52.080" end="00:05:57.450" style="s2">therapeutic populations and in fact we</p>
+<p begin="00:05:54.390" end="00:05:59.190" style="s2">see mechanistically similarities such as</p>
+<p begin="00:05:57.450" end="00:06:01.770" style="s2">the important mediating role of the</p>
+<p begin="00:05:59.190" end="00:06:04.980" style="s2">mystical experience at the certain type</p>
+<p begin="00:06:01.770" end="00:06:07.950" style="s2">of subjective experience after taking</p>
+<p begin="00:06:04.980" end="00:06:10.440" style="s2">psilocybin not just taking psilocybin so</p>
+<p begin="00:06:07.950" end="00:06:14.060" style="s2">it&#39;s predictive of better outcomes for</p>
+<p begin="00:06:10.440" end="00:06:16.470" style="s2">just regular old people healthy people</p>
+<p begin="00:06:14.060" end="00:06:19.190" style="s2">reporting improvements in their life and</p>
+<p begin="00:06:16.470" end="00:06:21.570" style="s2">their attitudes and behaviors but also</p>
+<p begin="00:06:19.190" end="00:06:24.450" style="s2">mystical experience being tied to more</p>
+<p begin="00:06:21.570" end="00:06:29.070" style="s2">likely being still abstinent from</p>
+<p begin="00:06:24.450" end="00:06:31.560" style="s2">smoking once down the road after trying</p>
+<p begin="00:06:29.070" end="00:06:35.010" style="s2">to quit and also having less anxiety and</p>
+<p begin="00:06:31.560" end="00:06:37.200" style="s2">depression yes so much so much to go</p>
+<p begin="00:06:35.010" end="00:06:39.810" style="s2">with there and it&#39;s one of there&#39;s a</p>
+<p begin="00:06:37.200" end="00:06:43.260" style="s2">theme that I sort of observed there with</p>
+<p begin="00:06:39.810" end="00:06:44.910" style="s2">end-of-life anxiety addiction there&#39;s a</p>
+<p begin="00:06:43.260" end="00:06:47.820" style="s2">mood a sense of movement there&#39;s a</p>
+<p begin="00:06:44.910" end="00:06:50.640" style="s2">there&#39;s a shift in someone&#39;s life that</p>
+<p begin="00:06:47.820" end="00:06:51.720" style="s2">is occurring and it&#39;s a matter of trying</p>
+<p begin="00:06:50.640" end="00:06:53.820" style="s2">to deal with that</p>
+<p begin="00:06:51.720" end="00:06:57.780" style="s2">whereas addiction is being stuck</p>
+<p begin="00:06:53.820" end="00:07:01.020" style="s2">somewhere so there&#39;s something about a D</p>
+<p begin="00:06:57.780" end="00:07:03.450" style="s2">habituation would you say yeah I I think</p>
+<p begin="00:07:01.020" end="00:07:06.420" style="s2">that I think actually D habituation is a</p>
+<p begin="00:07:03.450" end="00:07:07.800" style="s2">great term in fact that that that&#39;s</p>
+<p begin="00:07:06.420" end="00:07:10.290" style="s2">similar to some of the language that</p>
+<p begin="00:07:07.800" end="00:07:12.690" style="s2">that Tim Leary used in talking about</p>
+<p begin="00:07:10.290" end="00:07:15.090" style="s2">these agents which I think we we should</p>
+<p begin="00:07:12.690" end="00:07:19.880" style="s2">return to I&#39;m interested in you know</p>
+<p begin="00:07:15.090" end="00:07:22.950" style="s2">really looking at these effects as as</p>
+<p begin="00:07:19.880" end="00:07:25.280" style="s2">learning trials as conditioning I think</p>
+<p begin="00:07:22.950" end="00:07:28.410" style="s2">there&#39;s something like D habituation</p>
+<p begin="00:07:25.280" end="00:07:30.420" style="s2">that&#39;s going on but I would say I I sort</p>
+<p begin="00:07:28.410" end="00:07:33.000" style="s2">of hold that as going on not just with</p>
+<p begin="00:07:30.420" end="00:07:36.360" style="s2">the addiction treatment but also with</p>
+<p begin="00:07:33.000" end="00:07:39.840" style="s2">with the cancer distress and anxiety and</p>
+<p begin="00:07:36.360" end="00:07:42.060" style="s2">presumably with the research that the</p>
+<p begin="00:07:39.840" end="00:07:44.340" style="s2">Imperial group published with straight</p>
+<p begin="00:07:42.060" end="00:07:46.380" style="s2">up depression patient patients you know</p>
+<p begin="00:07:44.340" end="00:07:48.560" style="s2">outside of a cancer context and we&#39;re</p>
+<p begin="00:07:46.380" end="00:07:51.420" style="s2">currently doing a pilot study with</p>
+<p begin="00:07:48.560" end="00:07:53.669" style="s2">straight-up depression patients right</p>
+<p begin="00:07:51.420" end="00:07:55.710" style="s2">now but I think that you know yes it&#39;s a</p>
+<p begin="00:07:53.669" end="00:07:57.270" style="s2">big shift in their life that kind of got</p>
+<p begin="00:07:55.710" end="00:07:58.950" style="s2">them you know the diagnosis of cancer</p>
+<p begin="00:07:57.270" end="00:08:00.510" style="s2">that got them</p>
+<p begin="00:07:58.950" end="00:08:04.590" style="s2">to this place but I think they too are</p>
+<p begin="00:08:00.510" end="00:08:09.380" style="s2">stuck and so whether you&#39;re stuck you&#39;re</p>
+<p begin="00:08:04.590" end="00:08:13.410" style="s2">sort of stuck in this narrow pattern of</p>
+<p begin="00:08:09.380" end="00:08:15.480" style="s2">behavior when it comes to addiction you</p>
+<p begin="00:08:13.410" end="00:08:17.430" style="s2">know I&#39;m a smoker oh gosh I&#39;ve relapsed</p>
+<p begin="00:08:15.480" end="00:08:20.130" style="s2">again I&#39;ve tried a million times</p>
+<p begin="00:08:17.430" end="00:08:22.820" style="s2">I&#39;m never gonna be successful I&#39;m just a</p>
+<p begin="00:08:20.130" end="00:08:26.250" style="s2">smoker you know being stuck in this loop</p>
+<p begin="00:08:22.820" end="00:08:28.920" style="s2">or in how you&#39;re dealing with cancer</p>
+<p begin="00:08:26.250" end="00:08:33.030" style="s2">like I deserve this you know</p>
+<p begin="00:08:28.920" end="00:08:36.450" style="s2">why me you know this is this great</p>
+<p begin="00:08:33.030" end="00:08:38.010" style="s2">punishment I am you know you know some</p>
+<p begin="00:08:36.450" end="00:08:40.740" style="s2">people you know come and think you know</p>
+<p begin="00:08:38.010" end="00:08:43.430" style="s2">holding this kind of judgment that God</p>
+<p begin="00:08:40.740" end="00:08:47.790" style="s2">is punishing them or just some other</p>
+<p begin="00:08:43.430" end="00:08:50.280" style="s2">kind of narrative for people that</p>
+<p begin="00:08:47.790" end="00:08:54.240" style="s2">medically can have right now a very full</p>
+<p begin="00:08:50.280" end="00:08:55.860" style="s2">life they&#39;re not having a full life not</p>
+<p begin="00:08:54.240" end="00:08:58.770" style="s2">because of the straight-up medical</p>
+<p begin="00:08:55.860" end="00:09:02.370" style="s2">consequences of their cancer but because</p>
+<p begin="00:08:58.770" end="00:09:05.010" style="s2">of that narrow thinking that it&#39;s the</p>
+<p begin="00:09:02.370" end="00:09:07.650" style="s2">cancer diagnosis has led them to so I</p>
+<p begin="00:09:05.010" end="00:09:09.060" style="s2">view that as very similar between you</p>
+<p begin="00:09:07.650" end="00:09:12.540" style="s2">know drug addictions or this sort of</p>
+<p begin="00:09:09.060" end="00:09:15.630" style="s2">addiction to thinking of you of yourself</p>
+<p begin="00:09:12.540" end="00:09:18.060" style="s2">your life in this certain way yeah</p>
+<p begin="00:09:15.630" end="00:09:20.340" style="s2">absolutely a negative self story exactly</p>
+<p begin="00:09:18.060" end="00:09:22.230" style="s2">it&#39;s just a repeating thing that that</p>
+<p begin="00:09:20.340" end="00:09:25.320" style="s2">someone can&#39;t really get out of and it&#39;s</p>
+<p begin="00:09:22.230" end="00:09:27.420" style="s2">such a phenomenally restrictive thing as</p>
+<p begin="00:09:25.320" end="00:09:29.400" style="s2">well like it&#39;s it&#39;s a real affect ation</p>
+<p begin="00:09:27.420" end="00:09:31.220" style="s2">to be in that place you know you&#39;re</p>
+<p begin="00:09:29.400" end="00:09:34.470" style="s2">really you&#39;re really contending with it</p>
+<p begin="00:09:31.220" end="00:09:36.690" style="s2">so so here I&#39;m gonna scramble around</p>
+<p begin="00:09:34.470" end="00:09:38.640" style="s2">here I had a question but but it&#39;s to do</p>
+<p begin="00:09:36.690" end="00:09:40.170" style="s2">with mystical experience and to do with</p>
+<p begin="00:09:38.640" end="00:09:43.050" style="s2">the fact that we know that when the</p>
+<p begin="00:09:40.170" end="00:09:45.210" style="s2">mystical experience does occur you know</p>
+<p begin="00:09:43.050" end="00:09:47.670" style="s2">in these therapeutic sessions that is</p>
+<p begin="00:09:45.210" end="00:09:49.590" style="s2">correlated with much better outcomes</p>
+<p begin="00:09:47.670" end="00:09:51.030" style="s2">which is really really fascinating and</p>
+<p begin="00:09:49.590" end="00:09:53.910" style="s2">you could talk about it from so many</p>
+<p begin="00:09:51.030" end="00:09:57.720" style="s2">different ways but I just I&#39;d be really</p>
+<p begin="00:09:53.910" end="00:09:59.699" style="s2">interested to hear your thoughts on how</p>
+<p begin="00:09:57.720" end="00:10:04.679" style="s2">you&#39;ve</p>
+<p begin="00:09:59.699" end="00:10:07.679" style="s2">recognized you know your patients be</p>
+<p begin="00:10:04.679" end="00:10:10.739" style="s2">able to set like what kind of story can</p>
+<p begin="00:10:07.679" end="00:10:12.689" style="s2">they can they can they move towards you</p>
+<p begin="00:10:10.739" end="00:10:15.839" style="s2">know is there is there a resetting of</p>
+<p begin="00:10:12.689" end="00:10:17.519" style="s2">some some underlying goal that happens</p>
+<p begin="00:10:15.839" end="00:10:20.790" style="s2">it&#39;s kind of a breakthrough from the</p>
+<p begin="00:10:17.519" end="00:10:24.529" style="s2">negative self story open to the world or</p>
+<p begin="00:10:20.790" end="00:10:27.299" style="s2">open to a different way you can be in it</p>
+<p begin="00:10:24.529" end="00:10:28.290" style="s2">there&#39;s a there&#39;s a breakthrough that</p>
+<p begin="00:10:27.299" end="00:10:29.699" style="s2">kind of happens there and I&#39;m</p>
+<p begin="00:10:28.290" end="00:10:31.109" style="s2">particularly interested in for people</p>
+<p begin="00:10:29.699" end="00:10:33.329" style="s2">who might not have had psychedelics</p>
+<p begin="00:10:31.109" end="00:10:36.809" style="s2">right and who might not have access to</p>
+<p begin="00:10:33.329" end="00:10:41.239" style="s2">them like I&#39;m interested in how we might</p>
+<p begin="00:10:36.809" end="00:10:43.799" style="s2">describe what it feels like to imagine</p>
+<p begin="00:10:41.239" end="00:10:46.889" style="s2">how to be in a different way and that</p>
+<p begin="00:10:43.799" end="00:10:48.660" style="s2">kind of acts in some unconscious and</p>
+<p begin="00:10:46.889" end="00:10:51.059" style="s2">really fundamental way as I can a new</p>
+<p begin="00:10:48.660" end="00:10:53.369" style="s2">landscape you can live in and be part of</p>
+<p begin="00:10:51.059" end="00:10:56.249" style="s2">you know I know I&#39;m throwing things at</p>
+<p begin="00:10:53.369" end="00:10:58.290" style="s2">you here but could you talk to could you</p>
+<p begin="00:10:56.249" end="00:11:01.230" style="s2">talk to how someone who might not have</p>
+<p begin="00:10:58.290" end="00:11:05.519" style="s2">had a mystical experience before could</p>
+<p begin="00:11:01.230" end="00:11:07.169" style="s2">grip onto how their whole conception of</p>
+<p begin="00:11:05.519" end="00:11:09.809" style="s2">themselves and what it is to feel like</p>
+<p begin="00:11:07.169" end="00:11:11.759" style="s2">to be then can change sure I think a</p>
+<p begin="00:11:09.809" end="00:11:14.449" style="s2">good analogy which is very salient for</p>
+<p begin="00:11:11.759" end="00:11:19.319" style="s2">me right now being in the Czech Republic</p>
+<p begin="00:11:14.449" end="00:11:20.910" style="s2">from the United States is travel in</p>
+<p begin="00:11:19.319" end="00:11:22.649" style="s2">Michael Pollan I believe makes this</p>
+<p begin="00:11:20.910" end="00:11:24.389" style="s2">point in his recent book about</p>
+<p begin="00:11:22.649" end="00:11:28.949" style="s2">psychedelics and I think it&#39;s a great</p>
+<p begin="00:11:24.389" end="00:11:30.660" style="s2">point great analogy Travel introduces</p>
+<p begin="00:11:28.949" end="00:11:35.100" style="s2">you it Ramon</p>
+<p begin="00:11:30.660" end="00:11:38.399" style="s2">it makes the million things that you&#39;re</p>
+<p begin="00:11:35.100" end="00:11:41.429" style="s2">habituated to in life that you you don&#39;t</p>
+<p begin="00:11:38.399" end="00:11:44.489" style="s2">even recognize their influence and all</p>
+<p begin="00:11:41.429" end="00:11:46.709" style="s2">of a sudden you&#39;re aware of them like I</p>
+<p begin="00:11:44.489" end="00:11:48.359" style="s2">don&#39;t know how to open this door I don&#39;t</p>
+<p begin="00:11:46.709" end="00:11:50.519" style="s2">know how they&#39;re like this you know</p>
+<p begin="00:11:48.359" end="00:11:52.739" style="s2">appliance works you know it&#39;s light and</p>
+<p begin="00:11:50.519" end="00:11:55.289" style="s2">you take a second to figure that and</p>
+<p begin="00:11:52.739" end="00:11:57.269" style="s2">just you know like or if you&#39;re in</p>
+<p begin="00:11:55.289" end="00:11:59.399" style="s2">London and everyone&#39;s going up on the</p>
+<p begin="00:11:57.269" end="00:12:01.470" style="s2">left side of this stairwell just like</p>
+<p begin="00:11:59.399" end="00:12:02.970" style="s2">when they&#39;re driving inside you notice</p>
+<p begin="00:12:01.470" end="00:12:05.160" style="s2">these things and you just you don&#39;t</p>
+<p begin="00:12:02.970" end="00:12:06.480" style="s2">notice that when you&#39;re you&#39;re back home</p>
+<p begin="00:12:05.160" end="00:12:12.140" style="s2">and everyone&#39;s just doing their thing</p>
+<p begin="00:12:06.480" end="00:12:15.170" style="s2">and you are reminded of how much of</p>
+<p begin="00:12:12.140" end="00:12:18.260" style="s2">life and circumstances that we just skip</p>
+<p begin="00:12:15.170" end="00:12:20.480" style="s2">over that we rely on heuristics and the</p>
+<p begin="00:12:18.260" end="00:12:22.580" style="s2">older we are as human beings the more we</p>
+<p begin="00:12:20.480" end="00:12:24.470" style="s2">rely on these heuristics and that&#39;s</p>
+<p begin="00:12:22.580" end="00:12:26.600" style="s2">important in that those heuristics are</p>
+<p begin="00:12:24.470" end="00:12:28.910" style="s2">part of wisdom that hopefully we develop</p>
+<p begin="00:12:26.600" end="00:12:31.360" style="s2">over time but it can also lock us in a</p>
+<p begin="00:12:28.910" end="00:12:33.200" style="s2">certain way of thinking and not even</p>
+<p begin="00:12:31.360" end="00:12:34.910" style="s2">recognizing just that initial</p>
+<p begin="00:12:33.200" end="00:12:36.500" style="s2">recognition that there is another way</p>
+<p begin="00:12:34.910" end="00:12:40.700" style="s2">and I think some of the most dramatic</p>
+<p begin="00:12:36.500" end="00:12:42.350" style="s2">experiences are like that where what</p>
+<p begin="00:12:40.700" end="00:12:44.690" style="s2">they kind of break through to might</p>
+<p begin="00:12:42.350" end="00:12:47.360" style="s2">differ for the individual whether it be</p>
+<p begin="00:12:44.690" end="00:12:49.010" style="s2">more connection with their family more</p>
+<p begin="00:12:47.360" end="00:12:52.010" style="s2">of a perspective of other people in</p>
+<p begin="00:12:49.010" end="00:12:54.290" style="s2">their lives more of a sympathetic view</p>
+<p begin="00:12:52.010" end="00:12:56.060" style="s2">of themselves a lot of people they would</p>
+<p begin="00:12:54.290" end="00:12:58.640" style="s2">take far more compassion on someone else</p>
+<p begin="00:12:56.060" end="00:13:00.740" style="s2">if they were from an extra right</p>
+<p begin="00:12:58.640" end="00:13:03.650" style="s2">perspective right or sometimes we&#39;ve had</p>
+<p begin="00:13:00.740" end="00:13:06.170" style="s2">many patients and area studies returning</p>
+<p begin="00:13:03.650" end="00:13:07.910" style="s2">to things that they did they say yeah I</p>
+<p begin="00:13:06.170" end="00:13:11.270" style="s2">wrote you know a 50-year old woman said</p>
+<p begin="00:13:07.910" end="00:13:13.910" style="s2">you know like I was really into poetry</p>
+<p begin="00:13:11.270" end="00:13:16.010" style="s2">in college I haven&#39;t written poetry in</p>
+<p begin="00:13:13.910" end="00:13:18.290" style="s2">decades and like I love poetry why am I</p>
+<p begin="00:13:16.010" end="00:13:22.400" style="s2">writing poets they start writing poetry</p>
+<p begin="00:13:18.290" end="00:13:25.330" style="s2">again you know yeah it&#39;s it&#39;s it&#39;s very</p>
+<p begin="00:13:22.400" end="00:13:28.540" style="s2">interesting when I said do you have</p>
+<p begin="00:13:25.330" end="00:13:31.340" style="s2">things of the situation of the mind of</p>
+<p begin="00:13:28.540" end="00:13:34.460" style="s2">allowing people to enter transition into</p>
+<p begin="00:13:31.340" end="00:13:36.530" style="s2">their lives I&#39;m curious about the the</p>
+<p begin="00:13:34.460" end="00:13:39.650" style="s2">other tools in the toolbox and how your</p>
+<p begin="00:13:36.530" end="00:13:42.470" style="s2">research into meditation relates to</p>
+<p begin="00:13:39.650" end="00:13:45.170" style="s2">psychedelics because meditation is</p>
+<p begin="00:13:42.470" end="00:13:47.990" style="s2">another way at habituating the minds of</p>
+<p begin="00:13:45.170" end="00:13:50.890" style="s2">practice and it&#39;s been reliably shown to</p>
+<p begin="00:13:47.990" end="00:13:54.290" style="s2">have some similar effects in the brain</p>
+<p begin="00:13:50.890" end="00:13:57.980" style="s2">to psychedelics and but I&#39;m curious</p>
+<p begin="00:13:54.290" end="00:13:59.720" style="s2">about how these two can combine because</p>
+<p begin="00:13:57.980" end="00:14:01.490" style="s2">you know meditation is hard particularly</p>
+<p begin="00:13:59.720" end="00:14:03.440" style="s2">for somebody who is suffering from</p>
+<p begin="00:14:01.490" end="00:14:04.730" style="s2">mental illness or who is suffering from</p>
+<p begin="00:14:03.440" end="00:14:07.040" style="s2">addiction</p>
+<p begin="00:14:04.730" end="00:14:09.350" style="s2">it&#39;s it&#39;s a it&#39;s a it&#39;s a practice that</p>
+<p begin="00:14:07.040" end="00:14:11.480" style="s2">you have to curate over a decent amount</p>
+<p begin="00:14:09.350" end="00:14:16.040" style="s2">of time to be able to get the rewards</p>
+<p begin="00:14:11.480" end="00:14:17.150" style="s2">out of and what what I know you have</p>
+<p begin="00:14:16.040" end="00:14:20.570" style="s2">been doing researchers into the</p>
+<p begin="00:14:17.150" end="00:14:22.670" style="s2">combination of using psilocybin with</p>
+<p begin="00:14:20.570" end="00:14:23.960" style="s2">meditation and if with experienced</p>
+<p begin="00:14:22.670" end="00:14:25.620" style="s2">meditators is that correct</p>
+<p begin="00:14:23.960" end="00:14:27.600" style="s2">we&#39;ve</p>
+<p begin="00:14:25.620" end="00:14:30.650" style="s2">we&#39;ve finished and published a study</p>
+<p begin="00:14:27.600" end="00:14:34.020" style="s2">with novice meditators 75 folks that</p>
+<p begin="00:14:30.650" end="00:14:35.700" style="s2">type of folks like a lot of people say</p>
+<p begin="00:14:34.020" end="00:14:37.380" style="s2">oh I&#39;ve always kind of been interested</p>
+<p begin="00:14:35.700" end="00:14:40.410" style="s2">and I&#39;ve tried a few times over the</p>
+<p begin="00:14:37.380" end="00:14:44.760" style="s2">years I can never quite stick to it but</p>
+<p begin="00:14:40.410" end="00:14:46.440" style="s2">it reveals wall and were we haven&#39;t</p>
+<p begin="00:14:44.760" end="00:14:49.020" style="s2">finished it yet but we&#39;ve been working</p>
+<p begin="00:14:46.440" end="00:14:51.390" style="s2">with in this new study long term</p>
+<p begin="00:14:49.020" end="00:14:53.880" style="s2">meditators people with any number of you</p>
+<p begin="00:14:51.390" end="00:14:55.770" style="s2">know some you know five ten thousand</p>
+<p begin="00:14:53.880" end="00:14:57.330" style="s2">hours of meditation over their lifetime</p>
+<p begin="00:14:55.770" end="00:15:00.900" style="s2">sort of looking at a broad number of</p>
+<p begin="00:14:57.330" end="00:15:02.700" style="s2">questions of how that might impact their</p>
+<p begin="00:15:00.900" end="00:15:04.589" style="s2">current practice whether they get more</p>
+<p begin="00:15:02.700" end="00:15:05.760" style="s2">out of their practice and on all of</p>
+<p begin="00:15:04.589" end="00:15:07.140" style="s2">these questions we of course look at</p>
+<p begin="00:15:05.760" end="00:15:09.870" style="s2">both sides of the coin maybe they&#39;re</p>
+<p begin="00:15:07.140" end="00:15:11.839" style="s2">maybe it hurts their practice these</p>
+<p begin="00:15:09.870" end="00:15:14.520" style="s2">types of things in the novice meditators</p>
+<p begin="00:15:11.839" end="00:15:19.529" style="s2">something we can speak to you know the</p>
+<p begin="00:15:14.520" end="00:15:22.140" style="s2">results of we saw a clear signal of of</p>
+<p begin="00:15:19.529" end="00:15:27.060" style="s2">an additive effect on various measures</p>
+<p begin="00:15:22.140" end="00:15:29.790" style="s2">such as altruism improvements and in</p>
+<p begin="00:15:27.060" end="00:15:33.330" style="s2">quality of life engagement and spiritual</p>
+<p begin="00:15:29.790" end="00:15:35.100" style="s2">practices and sort of reaping the</p>
+<p begin="00:15:33.330" end="00:15:37.700" style="s2">benefits of spiritual practice we</p>
+<p begin="00:15:35.100" end="00:15:45.410" style="s2">essentially found that whether you had</p>
+<p begin="00:15:37.700" end="00:15:49.380" style="s2">sort of in a really heavy dose of a</p>
+<p begin="00:15:45.410" end="00:15:52.110" style="s2">spiritual practice support so having not</p>
+<p begin="00:15:49.380" end="00:15:54.450" style="s2">just having the psilocybin session and</p>
+<p begin="00:15:52.110" end="00:15:55.980" style="s2">not just having kind of our standard in</p>
+<p begin="00:15:54.450" end="00:15:57.650" style="s2">what we think is minimal for safety</p>
+<p begin="00:15:55.980" end="00:16:00.210" style="s2">preparation and then follow-up</p>
+<p begin="00:15:57.650" end="00:16:02.550" style="s2">integration for this high support group</p>
+<p begin="00:16:00.210" end="00:16:05.040" style="s2">that we included in this study these</p>
+<p begin="00:16:02.550" end="00:16:07.050" style="s2">these people had extra integration</p>
+<p begin="00:16:05.040" end="00:16:08.940" style="s2">sessions and they they were able to do</p>
+<p begin="00:16:07.050" end="00:16:10.530" style="s2">something really cool that we haven&#39;t</p>
+<p begin="00:16:08.940" end="00:16:12.300" style="s2">done in other studies we actually have</p>
+<p begin="00:16:10.530" end="00:16:14.400" style="s2">our subjects formally get together in</p>
+<p begin="00:16:12.300" end="00:16:16.050" style="s2">discussion groups and share their</p>
+<p begin="00:16:14.400" end="00:16:17.670" style="s2">experiences with each other and have</p>
+<p begin="00:16:16.050" end="00:16:23.430" style="s2">mutual support what some of the</p>
+<p begin="00:16:17.670" end="00:16:25.850" style="s2">experiences of the participants well</p>
+<p begin="00:16:23.430" end="00:16:28.050" style="s2">there are a large number of participants</p>
+<p begin="00:16:25.850" end="00:16:31.890" style="s2">really though I would say in terms of</p>
+<p begin="00:16:28.050" end="00:16:35.550" style="s2">the the core experience it was very</p>
+<p begin="00:16:31.890" end="00:16:39.740" style="s2">similar to our the research you know</p>
+<p begin="00:16:35.550" end="00:16:42.690" style="s2">strong high rates of mystical experience</p>
+<p begin="00:16:39.740" end="00:16:45.210" style="s2">defined by these criteria of a strong</p>
+<p begin="00:16:42.690" end="00:16:47.820" style="s2">sense of unity a sense of positivity</p>
+<p begin="00:16:45.210" end="00:16:50.970" style="s2">there&#39;s a sort of a noetic quality which</p>
+<p begin="00:16:47.820" end="00:16:53.220" style="s2">first assume this like self-revealing</p>
+<p begin="00:16:50.970" end="00:16:56.100" style="s2">quality somehow it&#39;s more real than real</p>
+<p begin="00:16:53.220" end="00:16:59.670" style="s2">and a sense that it&#39;s the experience is</p>
+<p begin="00:16:56.100" end="00:17:01.590" style="s2">so profound it&#39;s it&#39;s beyond words and</p>
+<p begin="00:16:59.670" end="00:17:03.030" style="s2">we actually found that an one group had</p>
+<p begin="00:17:01.590" end="00:17:05.910" style="s2">just a kind of a trivial dose of</p>
+<p begin="00:17:03.030" end="00:17:08.820" style="s2">psilocybin kind of serving as a placebo</p>
+<p begin="00:17:05.910" end="00:17:11.040" style="s2">and you know getting just even if you&#39;re</p>
+<p begin="00:17:08.820" end="00:17:12.780" style="s2">in the standard support group without</p>
+<p begin="00:17:11.040" end="00:17:15.570" style="s2">that kind of extra heavy dose of</p>
+<p begin="00:17:12.780" end="00:17:17.339" style="s2">integration and the discussion groups</p>
+<p begin="00:17:15.570" end="00:17:18.959" style="s2">that you know just having the high dose</p>
+<p begin="00:17:17.339" end="00:17:19.709" style="s2">of psilocybin even without that extra</p>
+<p begin="00:17:18.959" end="00:17:22.140" style="s2">support</p>
+<p begin="00:17:19.709" end="00:17:24.570" style="s2">you know you that was what we was</p>
+<p begin="00:17:22.140" end="00:17:26.790" style="s2">responsible for having high rates of</p>
+<p begin="00:17:24.570" end="00:17:28.800" style="s2">mystical experience but then in terms of</p>
+<p begin="00:17:26.790" end="00:17:31.080" style="s2">the fruits of that mystical experience</p>
+<p begin="00:17:28.800" end="00:17:33.200" style="s2">how do you know question how does that</p>
+<p begin="00:17:31.080" end="00:17:35.640" style="s2">mystical experience translate into</p>
+<p begin="00:17:33.200" end="00:17:37.140" style="s2">improvements in your life so we don&#39;t</p>
+<p begin="00:17:35.640" end="00:17:39.240" style="s2">want just all these states we want holds</p>
+<p begin="00:17:37.140" end="00:17:41.610" style="s2">it traits yes and this is very much in</p>
+<p begin="00:17:39.240" end="00:17:44.490" style="s2">the spirit of Houston Smith who talked</p>
+<p begin="00:17:41.610" end="00:17:46.980" style="s2">about and wrote about this that you know</p>
+<p begin="00:17:44.490" end="00:17:49.440" style="s2">mystical experiences are one thing but</p>
+<p begin="00:17:46.980" end="00:17:53.730" style="s2">you know spiritual experiences</p>
+<p begin="00:17:49.440" end="00:17:56.070" style="s2">I mean spiritual and meditation work I</p>
+<p begin="00:17:53.730" end="00:17:57.540" style="s2">know that it&#39;s a bit of a hot word for</p>
+<p begin="00:17:56.070" end="00:18:00.180" style="s2">some people particularly from a</p>
+<p begin="00:17:57.540" end="00:18:02.790" style="s2">scientific background and so with with</p>
+<p begin="00:18:00.180" end="00:18:04.290" style="s2">meditation I&#39;m curious to know all of</p>
+<p begin="00:18:02.790" end="00:18:06.030" style="s2">the some measures in what kind of</p>
+<p begin="00:18:04.290" end="00:18:09.840" style="s2">cognitive change were you looking for</p>
+<p begin="00:18:06.030" end="00:18:14.910" style="s2">things like no non reactivity acceptance</p>
+<p begin="00:18:09.840" end="00:18:17.460" style="s2">a sense of meaning things like that just</p>
+<p begin="00:18:14.910" end="00:18:20.580" style="s2">to break down the word what spiritual is</p>
+<p begin="00:18:17.460" end="00:18:23.520" style="s2">referring to here and the other thing</p>
+<p begin="00:18:20.580" end="00:18:26.000" style="s2">was is in in this group so I&#39;m curious</p>
+<p begin="00:18:23.520" end="00:18:28.800" style="s2">because meditation has an ability to</p>
+<p begin="00:18:26.000" end="00:18:32.460" style="s2">allow you to navigate your mind with</p>
+<p begin="00:18:28.800" end="00:18:35.130" style="s2">greater ease was there a difference in</p>
+<p begin="00:18:32.460" end="00:18:40.200" style="s2">the meditative group with their ease of</p>
+<p begin="00:18:35.130" end="00:18:43.350" style="s2">the psilocybin experience yes yes so</p>
+<p begin="00:18:40.200" end="00:18:46.350" style="s2">make sure I understand you correctly did</p>
+<p begin="00:18:43.350" end="00:18:48.780" style="s2">they well I&#39;ll say in our long-term</p>
+<p begin="00:18:46.350" end="00:18:49.170" style="s2">meditators folks have said that they can</p>
+<p begin="00:18:48.780" end="00:18:52.920" style="s2">slip</p>
+<p begin="00:18:49.170" end="00:18:57.150" style="s2">into the met in different states more</p>
+<p begin="00:18:52.920" end="00:18:59.460" style="s2">readily and and there&#39;s some variation</p>
+<p begin="00:18:57.150" end="00:19:01.590" style="s2">some folks say that they can get more</p>
+<p begin="00:18:59.460" end="00:19:05.340" style="s2">out of a shorter time of meditation now</p>
+<p begin="00:19:01.590" end="00:19:07.290" style="s2">and interestingly I think some folks</p>
+<p begin="00:19:05.340" end="00:19:11.670" style="s2">seem to take their meditation less</p>
+<p begin="00:19:07.290" end="00:19:14.130" style="s2">compulsively so in one sense this might</p>
+<p begin="00:19:11.670" end="00:19:16.170" style="s2">sound odd but one can kind of think of</p>
+<p begin="00:19:14.130" end="00:19:18.000" style="s2">meditation as being stuck in a rut I</p>
+<p begin="00:19:16.170" end="00:19:20.070" style="s2">mean there are folks that can you know</p>
+<p begin="00:19:18.000" end="00:19:22.620" style="s2">be you know if you don&#39;t get your want</p>
+<p begin="00:19:20.070" end="00:19:25.020" style="s2">you know one hour or sometimes several</p>
+<p begin="00:19:22.620" end="00:19:28.200" style="s2">hours of meditation in every day you</p>
+<p begin="00:19:25.020" end="00:19:29.970" style="s2">feel like if you failed you know and you</p>
+<p begin="00:19:28.200" end="00:19:32.550" style="s2">know not allowing cutting yourself any</p>
+<p begin="00:19:29.970" end="00:19:35.070" style="s2">slack you know like you&#39;ve you know but</p>
+<p begin="00:19:32.550" end="00:19:37.440" style="s2">you&#39;re traveling or something in you</p>
+<p begin="00:19:35.070" end="00:19:38.520" style="s2">know flight more flexibility thank you</p>
+<p begin="00:19:37.440" end="00:19:40.560" style="s2">that&#39;s a great way to put it more</p>
+<p begin="00:19:38.520" end="00:19:43.290" style="s2">flexibility in their meditative practice</p>
+<p begin="00:19:40.560" end="00:19:46.830" style="s2">and the regularly in the other areas of</p>
+<p begin="00:19:43.290" end="00:19:51.110" style="s2">their life too yeah in in some sense of</p>
+<p begin="00:19:46.830" end="00:19:55.020" style="s2">a common a story we&#39;ve heard is that</p>
+<p begin="00:19:51.110" end="00:19:57.000" style="s2">just an increased recognition that it&#39;s</p>
+<p begin="00:19:55.020" end="00:20:00.540" style="s2">not about the practice it&#39;s about where</p>
+<p begin="00:19:57.000" end="00:20:04.530" style="s2">you get with the practice and so you</p>
+<p begin="00:20:00.540" end="00:20:06.360" style="s2">know you may not need that practice to</p>
+<p begin="00:20:04.530" end="00:20:08.160" style="s2">that degree all the time yeah it</p>
+<p begin="00:20:06.360" end="00:20:09.840" style="s2">requires an engagement with the world</p>
+<p begin="00:20:08.160" end="00:20:11.940" style="s2">mm-hmm I think that&#39;s another</p>
+<p begin="00:20:09.840" end="00:20:13.350" style="s2">interesting thing about psychedelics and</p>
+<p begin="00:20:11.940" end="00:20:16.290" style="s2">the mystical experience with a peak</p>
+<p begin="00:20:13.350" end="00:20:19.110" style="s2">experience is this sense of awe and</p>
+<p begin="00:20:16.290" end="00:20:22.310" style="s2">wonder at the world which participants</p>
+<p begin="00:20:19.110" end="00:20:26.760" style="s2">frequently report yeah this orientation</p>
+<p begin="00:20:22.310" end="00:20:28.920" style="s2">away from the internal self to the the</p>
+<p begin="00:20:26.760" end="00:20:31.910" style="s2">Wonder and the majesty of what is out</p>
+<p begin="00:20:28.920" end="00:20:34.680" style="s2">there yeah and an engagement with that</p>
+<p begin="00:20:31.910" end="00:20:38.090" style="s2">can you speak to that effect yeah that</p>
+<p begin="00:20:34.680" end="00:20:40.980" style="s2">and in fact I&#39;d point folks to a recent</p>
+<p begin="00:20:38.090" end="00:20:42.630" style="s2">but soon to be published paper by our</p>
+<p begin="00:20:40.980" end="00:20:46.140" style="s2">colleague at the University of Alabama</p>
+<p begin="00:20:42.630" end="00:20:48.450" style="s2">Birmingham Peter Hendrix has a paper</p>
+<p begin="00:20:46.140" end="00:20:52.080" style="s2">titled I think all as antidote</p>
+<p begin="00:20:48.450" end="00:20:53.520" style="s2">you know postulating that awe is maybe</p>
+<p begin="00:20:52.080" end="00:20:56.550" style="s2">an under-recognized</p>
+<p begin="00:20:53.520" end="00:20:57.900" style="s2">construct at play here with these you</p>
+<p begin="00:20:56.550" end="00:21:01.110" style="s2">know therapeutic and the betterment of</p>
+<p begin="00:20:57.900" end="00:21:03.440" style="s2">well people effects of psychedelics this</p>
+<p begin="00:21:01.110" end="00:21:05.909" style="s2">this idea of</p>
+<p begin="00:21:03.440" end="00:21:08.429" style="s2">through you know pharmacology or or</p>
+<p begin="00:21:05.909" end="00:21:12.650" style="s2">whatever other means confronted with</p>
+<p begin="00:21:08.429" end="00:21:15.539" style="s2">something so much larger than oneself</p>
+<p begin="00:21:12.650" end="00:21:17.549" style="s2">that the the sense of self and sort of</p>
+<p begin="00:21:15.539" end="00:21:19.049" style="s2">the problems that can come along with</p>
+<p begin="00:21:17.549" end="00:21:21.570" style="s2">the sense of self-identity</p>
+<p begin="00:21:19.049" end="00:21:24.049" style="s2">can be helped and whether that&#39;s kind of</p>
+<p begin="00:21:21.570" end="00:21:27.860" style="s2">staring out before the Grand Canyon or</p>
+<p begin="00:21:24.049" end="00:21:30.570" style="s2">maybe you know 30 min 30 milligrams of</p>
+<p begin="00:21:27.860" end="00:21:33.870" style="s2">psilocybin running through your your</p>
+<p begin="00:21:30.570" end="00:21:36.630" style="s2">blood you can lead to these profound</p>
+<p begin="00:21:33.870" end="00:21:38.580" style="s2">experiences of all so I think that&#39;s I</p>
+<p begin="00:21:36.630" end="00:21:40.289" style="s2">think there&#39;s a lot to that and and</p>
+<p begin="00:21:38.580" end="00:21:42.240" style="s2">that&#39;s closely associated with the</p>
+<p begin="00:21:40.289" end="00:21:43.770" style="s2">mystical experience any of use the term</p>
+<p begin="00:21:42.240" end="00:21:46.700" style="s2">peak experience a few times and I should</p>
+<p begin="00:21:43.770" end="00:21:49.140" style="s2">say those may be completely synonymous</p>
+<p begin="00:21:46.700" end="00:21:50.730" style="s2">concepts that are described slightly do</p>
+<p begin="00:21:49.140" end="00:21:52.770" style="s2">that&#39;s kind of my working assumption or</p>
+<p begin="00:21:50.730" end="00:21:54.990" style="s2">they might be slightly different shades</p>
+<p begin="00:21:52.770" end="00:21:58.320" style="s2">of the same phenomenon I feel like</p>
+<p begin="00:21:54.990" end="00:22:00.530" style="s2">they&#39;re the same thing to just defined</p>
+<p begin="00:21:58.320" end="00:22:03.210" style="s2">by different groups or different people</p>
+<p begin="00:22:00.530" end="00:22:04.950" style="s2">Abraham Maslow defining peak experience</p>
+<p begin="00:22:03.210" end="00:22:06.390" style="s2">and I believe mystical experience was</p>
+<p begin="00:22:04.950" end="00:22:10.760" style="s2">defined along with like the world of</p>
+<p begin="00:22:06.390" end="00:22:14.280" style="s2">Pankey experiment using psilocybin in</p>
+<p begin="00:22:10.760" end="00:22:16.620" style="s2">earlier before the laws the change in</p>
+<p begin="00:22:14.280" end="00:22:19.350" style="s2">earlier folks Walter&#39;s space and even</p>
+<p begin="00:22:16.620" end="00:22:22.710" style="s2">William James you know were kind of</p>
+<p begin="00:22:19.350" end="00:22:26.010" style="s2">focused on this construct but yeah the</p>
+<p begin="00:22:22.710" end="00:22:27.659" style="s2">in terms of really making progress and</p>
+<p begin="00:22:26.010" end="00:22:30.780" style="s2">understanding with psychedelics yeah</p>
+<p begin="00:22:27.659" end="00:22:35.120" style="s2">Wally panky and and Bill Richards in our</p>
+<p begin="00:22:30.780" end="00:22:35.120" style="s2">group made great contributions there</p>
+<p begin="00:22:35.210" end="00:22:41.730" style="s2">yeah I mean we don&#39;t have too long left</p>
+<p begin="00:22:37.909" end="00:22:45.030" style="s2">so perhaps my final question would just</p>
+<p begin="00:22:41.730" end="00:22:47.640" style="s2">be so what drives you to be interested</p>
+<p begin="00:22:45.030" end="00:22:49.950" style="s2">in doing this mm-hmm you know and I&#39;ll</p>
+<p begin="00:22:47.640" end="00:22:51.980" style="s2">leave that broad yeah I can I can come</p>
+<p begin="00:22:49.950" end="00:22:54.720" style="s2">at that at a number of directions I</p>
+<p begin="00:22:51.980" end="00:23:00.419" style="s2">guess from one perspective I kind of</p>
+<p begin="00:22:54.720" end="00:23:02.610" style="s2">think um you know what is meaningful in</p>
+<p begin="00:23:00.419" end="00:23:05.490" style="s2">my life like what am i I&#39;m only gonna be</p>
+<p begin="00:23:02.610" end="00:23:10.230" style="s2">around a little while I mean I&#39;m I&#39;m 44</p>
+<p begin="00:23:05.490" end="00:23:13.740" style="s2">like you know I do have I might be</p>
+<p begin="00:23:10.230" end="00:23:16.150" style="s2">you&#39;re a slightly 44 some folks do my</p>
+<p begin="00:23:13.740" end="00:23:17.710" style="s2">20s and might be like I said</p>
+<p begin="00:23:16.150" end="00:23:20.200" style="s2">finish college when I was 10 years old</p>
+<p begin="00:23:17.710" end="00:23:26.530" style="s2">but now I&#39;m nothing nothing like that</p>
+<p begin="00:23:20.200" end="00:23:28.420" style="s2">but you know you know and I&#39;m involved</p>
+<p begin="00:23:26.530" end="00:23:29.970" style="s2">with a variety of research topics beyond</p>
+<p begin="00:23:28.420" end="00:23:34.060" style="s2">psychedelics but I really see</p>
+<p begin="00:23:29.970" end="00:23:37.320" style="s2">psychedelics as something that can doing</p>
+<p begin="00:23:34.060" end="00:23:39.850" style="s2">this work can really contribute to the</p>
+<p begin="00:23:37.320" end="00:23:42.070" style="s2">to the health of humanity I think we&#39;re</p>
+<p begin="00:23:39.850" end="00:23:43.960" style="s2">getting to it let me preface it by</p>
+<p begin="00:23:42.070" end="00:23:46.810" style="s2">saying I think there can be a danger and</p>
+<p begin="00:23:43.960" end="00:23:49.360" style="s2">in speaking to largely about this yes</p>
+<p begin="00:23:46.810" end="00:23:50.530" style="s2">and it&#39;s not a panacea it&#39;s I&#39;m</p>
+<p begin="00:23:49.360" end="00:23:53.110" style="s2">certainly not saying everyone should use</p>
+<p begin="00:23:50.530" end="00:23:58.120" style="s2">psychedelics but we are dealing with</p>
+<p begin="00:23:53.110" end="00:24:01.150" style="s2">constructs that I think are really</p>
+<p begin="00:23:58.120" end="00:24:04.300" style="s2">important and in psychedelics is perhaps</p>
+<p begin="00:24:01.150" end="00:24:06.730" style="s2">just one way but the topics that we&#39;re</p>
+<p begin="00:24:04.300" end="00:24:09.730" style="s2">dealing with this sense of unity that we</p>
+<p begin="00:24:06.730" end="00:24:12.130" style="s2">are all ultimately a part of something</p>
+<p begin="00:24:09.730" end="00:24:15.160" style="s2">that is beyond ourselves and that we are</p>
+<p begin="00:24:12.130" end="00:24:17.020" style="s2">all ultimately completely interconnected</p>
+<p begin="00:24:15.160" end="00:24:21.010" style="s2">like we&#39;re all ultimately on this little</p>
+<p begin="00:24:17.020" end="00:24:23.860" style="s2">rock in the middle of space and we&#39;re</p>
+<p begin="00:24:21.010" end="00:24:27.010" style="s2">all we have all right each other if we</p>
+<p begin="00:24:23.860" end="00:24:29.380" style="s2">don&#39;t really get that broadly you know</p>
+<p begin="00:24:27.010" end="00:24:31.750" style="s2">our species is in trouble and I think</p>
+<p begin="00:24:29.380" end="00:24:33.580" style="s2">we&#39;re at the time in the history of</p>
+<p begin="00:24:31.750" end="00:24:36.940" style="s2">humanity where and I don&#39;t know whether</p>
+<p begin="00:24:33.580" end="00:24:39.160" style="s2">it&#39;s the next five years 20 years 100</p>
+<p begin="00:24:36.940" end="00:24:40.690" style="s2">years but it&#39;s a blink of an eye in</p>
+<p begin="00:24:39.160" end="00:24:45.370" style="s2">terms of history but we&#39;re there right</p>
+<p begin="00:24:40.690" end="00:24:47.280" style="s2">now and you know being someone who has</p>
+<p begin="00:24:45.370" end="00:24:50.470" style="s2">training and behavior in pharmacology</p>
+<p begin="00:24:47.280" end="00:24:52.240" style="s2">studying psychedelics is one way that I</p>
+<p begin="00:24:50.470" end="00:24:56.410" style="s2">can contribute to something that I think</p>
+<p begin="00:24:52.240" end="00:24:58.570" style="s2">is meaningful in terms of hopefully</p>
+<p begin="00:24:56.410" end="00:25:00.430" style="s2">helping us get through this period I</p>
+<p begin="00:24:58.570" end="00:25:02.590" style="s2">think we&#39;re we&#39;re either gonna make it</p>
+<p begin="00:25:00.430" end="00:25:04.240" style="s2">or not you know are we gonna be around</p>
+<p begin="00:25:02.590" end="00:25:06.520" style="s2">in a thousand years and what&#39;swhat&#39;s the</p>
+<p begin="00:25:04.240" end="00:25:08.440" style="s2">nature I know this is a really big</p>
+<p begin="00:25:06.520" end="00:25:10.060" style="s2">picture and I don&#39;t want to see this is</p>
+<p begin="00:25:08.440" end="00:25:11.950" style="s2">the only thing in that category in fact</p>
+<p begin="00:25:10.060" end="00:25:13.900" style="s2">it may be ultimately be a minor player</p>
+<p begin="00:25:11.950" end="00:25:16.240" style="s2">but something it&#39;s an area that I can</p>
+<p begin="00:25:13.900" end="00:25:19.120" style="s2">contribute to in that larger picture no</p>
+<p begin="00:25:16.240" end="00:25:21.820" style="s2">absolutely well I mean psilocybin the</p>
+<p begin="00:25:19.120" end="00:25:23.800" style="s2">the compound is obviously a minor player</p>
+<p begin="00:25:21.820" end="00:25:25.510" style="s2">at some level but but the mystical</p>
+<p begin="00:25:23.800" end="00:25:28.210" style="s2">experience the feeling of connection</p>
+<p begin="00:25:25.510" end="00:25:29.740" style="s2">right opening up to something new okay</p>
+<p begin="00:25:28.210" end="00:25:31.900" style="s2">seeing the world</p>
+<p begin="00:25:29.740" end="00:25:33.700" style="s2">in a way you didn&#39;t see it before in a</p>
+<p begin="00:25:31.900" end="00:25:36.280" style="s2">way that that has at least the belief</p>
+<p begin="00:25:33.700" end="00:25:38.260" style="s2">that there is a good that you can be a</p>
+<p begin="00:25:36.280" end="00:25:39.910" style="s2">part of with it that there&#39;s a life</p>
+<p begin="00:25:38.260" end="00:25:42.070" style="s2">there that there&#39;s a vitality you can</p>
+<p begin="00:25:39.910" end="00:25:44.880" style="s2">tap into that that same sense of</p>
+<p begin="00:25:42.070" end="00:25:47.590" style="s2">vitality is ultimately what grounds</p>
+<p begin="00:25:44.880" end="00:25:50.980" style="s2">relationships between all individuals of</p>
+<p begin="00:25:47.590" end="00:25:53.830" style="s2">any group you know I think it is you</p>
+<p begin="00:25:50.980" end="00:25:57.340" style="s2">know there&#39;s a there&#39;s many different</p>
+<p begin="00:25:53.830" end="00:25:59.140" style="s2">ways to to open what you are</p>
+<p begin="00:25:57.340" end="00:26:02.429" style="s2">authentically into a real relationship</p>
+<p begin="00:25:59.140" end="00:26:05.440" style="s2">with someone else and the world and</p>
+<p begin="00:26:02.429" end="00:26:10.059" style="s2">psychedelics administered properly with</p>
+<p begin="00:26:05.440" end="00:26:12.630" style="s2">the due amount of serious intent you</p>
+<p begin="00:26:10.059" end="00:26:15.490" style="s2">know and depends what we mean by serious</p>
+<p begin="00:26:12.630" end="00:26:17.530" style="s2">seems to be a way that certain people</p>
+<p begin="00:26:15.490" end="00:26:19.620" style="s2">can get them and then also in their</p>
+<p begin="00:26:17.530" end="00:26:23.740" style="s2">lives at at helping others to</p>
+<p begin="00:26:19.620" end="00:26:26.650" style="s2">participate in that same kind of sharing</p>
+<p begin="00:26:23.740" end="00:26:29.470" style="s2">and experience but I know we do have to</p>
+<p begin="00:26:26.650" end="00:26:34.270" style="s2">wrap up Melissa thank you so much for</p>
+<p begin="00:26:29.470" end="00:26:36.970" style="s2">being with me doing this thanks to both</p>
+<p begin="00:26:34.270" end="00:26:38.679" style="s2">you Melissa and Matthew as well so thank</p>
+<p begin="00:26:36.970" end="00:26:40.170" style="s2">you very much everybody for being here</p>
+<p begin="00:26:38.679" end="00:26:50.099" style="s2">we&#39;ll see you soon</p>
+<p begin="00:26:40.170" end="00:26:50.099" style="s2">[Music]</p>
+<p begin="00:26:52.029" end="00:26:54.090" style="s2">you</p>
+</div>
+</body>
+</tt>

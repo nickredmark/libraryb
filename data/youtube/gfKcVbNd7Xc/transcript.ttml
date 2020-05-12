@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.160" end="00:00:04.820" style="s2">[Music]</p>
+<p begin="00:00:04.030" end="00:00:14.400" style="s2">you</p>
+<p begin="00:00:04.820" end="00:00:16.780" style="s2">[Music]</p>
+<p begin="00:00:14.400" end="00:00:19.180" style="s2">welcome back to make wakening from the</p>
+<p begin="00:00:16.780" end="00:00:21.510" style="s2">meaning crisis this is episode 31 so</p>
+<p begin="00:00:19.180" end="00:00:25.619" style="s2">last time we were taking a look at</p>
+<p begin="00:00:21.510" end="00:00:30.670" style="s2">trying to progress in an attempt to give</p>
+<p begin="00:00:25.619" end="00:00:34.059" style="s2">at least a plausible suggestion of a</p>
+<p begin="00:00:30.670" end="00:00:37.720" style="s2">scientific theory of how we could</p>
+<p begin="00:00:34.059" end="00:00:40.540" style="s2">explain relevance realization and one of</p>
+<p begin="00:00:37.720" end="00:00:41.890" style="s2">the things we examined it was the</p>
+<p begin="00:00:40.540" end="00:00:43.540" style="s2">distinction between a theory of</p>
+<p begin="00:00:41.890" end="00:00:45.630" style="s2">relevance and a theory of relevance</p>
+<p begin="00:00:43.540" end="00:00:48.630" style="s2">realization and I made the argument that</p>
+<p begin="00:00:45.630" end="00:00:50.950" style="s2">we cannot have a scientific theory of</p>
+<p begin="00:00:48.630" end="00:00:53.739" style="s2">relevance precisely because of a lack of</p>
+<p begin="00:00:50.950" end="00:00:55.870" style="s2">systematic import but we can have a</p>
+<p begin="00:00:53.739" end="00:00:58.930" style="s2">theory of relevance realization and then</p>
+<p begin="00:00:55.870" end="00:01:00.640" style="s2">I gave you the analogy of that which I&#39;m</p>
+<p begin="00:00:58.930" end="00:01:03.899" style="s2">building towards something stronger than</p>
+<p begin="00:01:00.640" end="00:01:08.229" style="s2">an analogy of Darwin&#39;s theory of</p>
+<p begin="00:01:03.899" end="00:01:13.300" style="s2">evolution by natural selection and that</p>
+<p begin="00:01:08.229" end="00:01:15.940" style="s2">which Darwin proposed a virtual engine</p>
+<p begin="00:01:13.300" end="00:01:18.850" style="s2">that regulates the reproductive cycle so</p>
+<p begin="00:01:15.940" end="00:01:22.900" style="s2">that the system constantly evolves the</p>
+<p begin="00:01:18.850" end="00:01:26.140" style="s2">biological fitness of organisms to a</p>
+<p begin="00:01:22.900" end="00:01:28.799" style="s2">constantly changing environment and then</p>
+<p begin="00:01:26.140" end="00:01:32.439" style="s2">the analogy is there is a virtual engine</p>
+<p begin="00:01:28.799" end="00:01:34.360" style="s2">in the embodied brain and why it&#39;s</p>
+<p begin="00:01:32.439" end="00:01:36.909" style="s2">embodied will become clear embodied</p>
+<p begin="00:01:34.360" end="00:01:42.340" style="s2">embedded brain will become clear in this</p>
+<p begin="00:01:36.909" end="00:01:46.780" style="s2">lecture but there is a a virtual engine</p>
+<p begin="00:01:42.340" end="00:01:50.020" style="s2">that regulates the sensory motor loop so</p>
+<p begin="00:01:46.780" end="00:01:53.920" style="s2">that my cognitive interactional fitness</p>
+<p begin="00:01:50.020" end="00:01:57.280" style="s2">is constantly being shaped it&#39;s</p>
+<p begin="00:01:53.920" end="00:01:59.229" style="s2">constantly evolving to deal with a</p>
+<p begin="00:01:57.280" end="00:02:02.439" style="s2">constantly changing environment and what</p>
+<p begin="00:01:59.229" end="00:02:04.420" style="s2">I in fact need as I argued is a system</p>
+<p begin="00:02:02.439" end="00:02:06.729" style="s2">of constraints because I&#39;m trying to</p>
+<p begin="00:02:04.420" end="00:02:09.929" style="s2">write between selectively and enabling</p>
+<p begin="00:02:06.729" end="00:02:15.549" style="s2">constraints to limit and zero in on</p>
+<p begin="00:02:09.929" end="00:02:18.310" style="s2">relevant information and then I was</p>
+<p begin="00:02:15.549" end="00:02:21.100" style="s2">trying to argue that the way in which</p>
+<p begin="00:02:18.310" end="00:02:23.709" style="s2">that operates we saw that what needs to</p>
+<p begin="00:02:21.100" end="00:02:26.590" style="s2">be sort of related to an auto poetic</p>
+<p begin="00:02:23.709" end="00:02:27.340" style="s2">system and then the way that operates</p>
+<p begin="00:02:26.590" end="00:02:30.400" style="s2">the</p>
+<p begin="00:02:27.340" end="00:02:34.480" style="s2">self-organisation I suggested operates</p>
+<p begin="00:02:30.400" end="00:02:36.640" style="s2">in terms of a design that you see many</p>
+<p begin="00:02:34.480" end="00:02:40.720" style="s2">scales and we need member of multi scale</p>
+<p begin="00:02:36.640" end="00:02:43.090" style="s2">Euler theory in terms of your biological</p>
+<p begin="00:02:40.720" end="00:02:45.580" style="s2">and cognitive organization and that&#39;s in</p>
+<p begin="00:02:43.090" end="00:02:47.410" style="s2">terms of opponent processing we took a</p>
+<p begin="00:02:45.580" end="00:02:49.870" style="s2">look at the opponent processing within</p>
+<p begin="00:02:47.410" end="00:02:51.989" style="s2">the autonomic nervous system that is</p>
+<p begin="00:02:49.870" end="00:02:55.840" style="s2">constantly by the strong analogy</p>
+<p begin="00:02:51.989" end="00:02:57.640" style="s2">evolving your level of arousal to the</p>
+<p begin="00:02:55.840" end="00:03:00.310" style="s2">environment opposing goals but enter a</p>
+<p begin="00:02:57.640" end="00:03:05.230" style="s2">related function then I propose to you</p>
+<p begin="00:03:00.310" end="00:03:07.239" style="s2">that we could look for the kinds of</p>
+<p begin="00:03:05.230" end="00:03:09.459" style="s2">properties that we&#39;re going to be</p>
+<p begin="00:03:07.239" end="00:03:10.630" style="s2">talking about the level at which we&#39;re</p>
+<p begin="00:03:09.459" end="00:03:12.730" style="s2">going to be pitching a theory of</p>
+<p begin="00:03:10.630" end="00:03:14.739" style="s2">relevance realization which is the</p>
+<p begin="00:03:12.730" end="00:03:16.470" style="s2">theory of bio economic properties that</p>
+<p begin="00:03:14.739" end="00:03:19.299" style="s2">are operating not according to</p>
+<p begin="00:03:16.470" end="00:03:22.360" style="s2">normativity of truth or validity not</p>
+<p begin="00:03:19.299" end="00:03:26.290" style="s2">logical normativity but logistical</p>
+<p begin="00:03:22.360" end="00:03:28.299" style="s2">normativity and the two most important</p>
+<p begin="00:03:26.290" end="00:03:31.269" style="s2">logistical norms I would propose to you</p>
+<p begin="00:03:28.299" end="00:03:33.400" style="s2">our efficiency and resiliency and then I</p>
+<p begin="00:03:31.269" end="00:03:36.000" style="s2">made an argument that they would be</p>
+<p begin="00:03:33.400" end="00:03:37.900" style="s2">susceptible to opponent processing</p>
+<p begin="00:03:36.000" end="00:03:40.180" style="s2">precisely because they are in a</p>
+<p begin="00:03:37.900" end="00:03:45.459" style="s2">trade-off relationship with each other</p>
+<p begin="00:03:40.180" end="00:03:50.170" style="s2">and that if we could get a a cognitive</p>
+<p begin="00:03:45.459" end="00:03:52.870" style="s2">virtual engine that regulates the</p>
+<p begin="00:03:50.170" end="00:03:56.950" style="s2">sensory motor loop by systematically</p>
+<p begin="00:03:52.870" end="00:03:58.810" style="s2">playing off selective constraints on</p>
+<p begin="00:03:56.950" end="00:04:00.459" style="s2">efficiency second it selective</p>
+<p begin="00:03:58.810" end="00:04:04.120" style="s2">logistical economic constraints on</p>
+<p begin="00:04:00.459" end="00:04:07.419" style="s2">efficiency and enabling economic</p>
+<p begin="00:04:04.120" end="00:04:10.930" style="s2">constraints on resiliency then we could</p>
+<p begin="00:04:07.419" end="00:04:13.120" style="s2">give an explanation a theory deeply</p>
+<p begin="00:04:10.930" end="00:04:18.000" style="s2">analogous to Darwin&#39;s theory of the</p>
+<p begin="00:04:13.120" end="00:04:20.380" style="s2">evolution were cross individuals of</p>
+<p begin="00:04:18.000" end="00:04:23.169" style="s2">biological fitness we could give an</p>
+<p begin="00:04:20.380" end="00:04:27.130" style="s2">account of the cognitive evolution</p>
+<p begin="00:04:23.169" end="00:04:29.650" style="s2">within individuals cognition of their</p>
+<p begin="00:04:27.130" end="00:04:32.039" style="s2">cognitive interactional fitted Ness the</p>
+<p begin="00:04:29.650" end="00:04:36.430" style="s2">way they are shaping the problem space</p>
+<p begin="00:04:32.039" end="00:04:38.950" style="s2">so as to adaptively be well fitted to</p>
+<p begin="00:04:36.430" end="00:04:41.220" style="s2">achieving their interactional goals with</p>
+<p begin="00:04:38.950" end="00:04:45.340" style="s2">the environment</p>
+<p begin="00:04:41.220" end="00:04:47.350" style="s2">before I move on to try and make that</p>
+<p begin="00:04:45.340" end="00:04:51.220" style="s2">more specific and make some suggestions</p>
+<p begin="00:04:47.350" end="00:04:54.370" style="s2">as how this might be realized and the</p>
+<p begin="00:04:51.220" end="00:04:57.070" style="s2">neural machinery of brains I want to</p>
+<p begin="00:04:54.370" end="00:04:59.680" style="s2">point out why I keep emphasizing this</p>
+<p begin="00:04:57.070" end="00:05:01.510" style="s2">embodied embedded and I want to say a</p>
+<p begin="00:04:59.680" end="00:05:03.610" style="s2">little bit more about this because I</p>
+<p begin="00:05:01.510" end="00:05:06.310" style="s2">also want to return to something I</p>
+<p begin="00:05:03.610" end="00:05:08.290" style="s2">promised to return to why I want to</p>
+<p begin="00:05:06.310" end="00:05:13.389" style="s2">resist both sort of an empiricist notion</p>
+<p begin="00:05:08.290" end="00:05:19.360" style="s2">of of relevance detection and a romantic</p>
+<p begin="00:05:13.389" end="00:05:24.389" style="s2">notion of relevance projection so the</p>
+<p begin="00:05:19.360" end="00:05:27.130" style="s2">first thing is why am I saying embodied</p>
+<p begin="00:05:24.389" end="00:05:32.260" style="s2">because what I&#39;ve been trying to argue</p>
+<p begin="00:05:27.130" end="00:05:34.300" style="s2">is there is a deep dependency a deep</p>
+<p begin="00:05:32.260" end="00:05:36.250" style="s2">connection and the dependency runs from</p>
+<p begin="00:05:34.300" end="00:05:38.229" style="s2">propositional through to down to</p>
+<p begin="00:05:36.250" end="00:05:41.830" style="s2">participatory but there is a deep</p>
+<p begin="00:05:38.229" end="00:05:46.450" style="s2">dependency between your cognitive agency</p>
+<p begin="00:05:41.830" end="00:05:48.910" style="s2">as an right as an intelligent problem</p>
+<p begin="00:05:46.450" end="00:05:51.220" style="s2">solver and a channel you know an intent</p>
+<p begin="00:05:48.910" end="00:05:55.210" style="s2">of an intelligent general problem solver</p>
+<p begin="00:05:51.220" end="00:05:59.440" style="s2">and the fact that your brain exists</p>
+<p begin="00:05:55.210" end="00:06:03.430" style="s2">within a bio economy the body is not</p>
+<p begin="00:05:59.440" end="00:06:08.889" style="s2">Cartesian clay that we drag around and</p>
+<p begin="00:06:03.430" end="00:06:14.500" style="s2">shape according to the whims or desires</p>
+<p begin="00:06:08.889" end="00:06:16.960" style="s2">of our you know totally self enclosed or</p>
+<p begin="00:06:14.500" end="00:06:21.280" style="s2">Descartes immaterial minds the body is</p>
+<p begin="00:06:16.960" end="00:06:24.270" style="s2">not a useless appendage it is not just a</p>
+<p begin="00:06:21.280" end="00:06:27.940" style="s2">vehicle so even here I&#39;m criticizing</p>
+<p begin="00:06:24.270" end="00:06:31.450" style="s2">sort of certain platonic models the body</p>
+<p begin="00:06:27.940" end="00:06:34.510" style="s2">body is an auto poetic Bioeconomy that</p>
+<p begin="00:06:31.450" end="00:06:37.560" style="s2">makes your cognition possible without an</p>
+<p begin="00:06:34.510" end="00:06:41.620" style="s2">auto poetic Bioeconomy you do not have</p>
+<p begin="00:06:37.560" end="00:06:46.900" style="s2">the machinery necessary for the ongoing</p>
+<p begin="00:06:41.620" end="00:06:50.469" style="s2">evolution of relevance realization the</p>
+<p begin="00:06:46.900" end="00:06:53.580" style="s2">body is constitutive of your cognitive</p>
+<p begin="00:06:50.469" end="00:06:56.550" style="s2">agency in a profound way</p>
+<p begin="00:06:53.580" end="00:06:58.440" style="s2">why embedded and this will also lead us</p>
+<p begin="00:06:56.550" end="00:07:02.240" style="s2">into the rejection of both sort of an</p>
+<p begin="00:06:58.440" end="00:07:03.600" style="s2">empiricist and a romantic interpretation</p>
+<p begin="00:07:02.240" end="00:07:09.300" style="s2">all right</p>
+<p begin="00:07:03.600" end="00:07:13.050" style="s2">I embedded the biological fitted nosov a</p>
+<p begin="00:07:09.300" end="00:07:15.840" style="s2">creature is not a property of the</p>
+<p begin="00:07:13.050" end="00:07:19.980" style="s2">creature per se right</p>
+<p begin="00:07:15.840" end="00:07:24.810" style="s2">it is a real relation between the</p>
+<p begin="00:07:19.980" end="00:07:28.620" style="s2">creature and its environment is a great</p>
+<p begin="00:07:24.810" end="00:07:29.970" style="s2">white shark intrinsically adapted no it</p>
+<p begin="00:07:28.620" end="00:07:33.360" style="s2">makes no sense to ask that question</p>
+<p begin="00:07:29.970" end="00:07:36.480" style="s2">because if I take this supposedly apex</p>
+<p begin="00:07:33.360" end="00:07:38.130" style="s2">predator really adopted and put it in</p>
+<p begin="00:07:36.480" end="00:07:41.070" style="s2">the desert you know the Sahara Desert it</p>
+<p begin="00:07:38.130" end="00:07:44.660" style="s2">dies within minutes right it&#39;s</p>
+<p begin="00:07:41.070" end="00:07:49.950" style="s2">adaptivity is not a property right</p>
+<p begin="00:07:44.660" end="00:07:52.440" style="s2">intrinsic to it per se it&#39;s out</p>
+<p begin="00:07:49.950" end="00:07:54.390" style="s2">apptivity is not something that it</p>
+<p begin="00:07:52.440" end="00:07:57.560" style="s2">detects in the environment</p>
+<p begin="00:07:54.390" end="00:08:01.040" style="s2">it&#39;s adaptivity is a real relation on</p>
+<p begin="00:07:57.560" end="00:08:07.530" style="s2">affordance between it and the</p>
+<p begin="00:08:01.040" end="00:08:09.810" style="s2">environment in a similar way well I</p>
+<p begin="00:08:07.530" end="00:08:13.050" style="s2">would argue that relevance is not a</p>
+<p begin="00:08:09.810" end="00:08:15.960" style="s2">property in the object it is not a</p>
+<p begin="00:08:13.050" end="00:08:19.560" style="s2">property of the subjectivity of my mind</p>
+<p begin="00:08:15.960" end="00:08:21.960" style="s2">it is not a property of objectivity nor</p>
+<p begin="00:08:19.560" end="00:08:25.020" style="s2">a property of subjectivity it is</p>
+<p begin="00:08:21.960" end="00:08:28.730" style="s2">precisely a property that is who</p>
+<p begin="00:08:25.020" end="00:08:32.550" style="s2">co-created by how the environment and</p>
+<p begin="00:08:28.730" end="00:08:36.600" style="s2">the embodied brain are fitted together</p>
+<p begin="00:08:32.550" end="00:08:39.690" style="s2">in a dynamic evolving fashion it is very</p>
+<p begin="00:08:36.600" end="00:08:41.850" style="s2">much like the bottle being graspable</p>
+<p begin="00:08:39.690" end="00:08:44.520" style="s2">this is not a property of the bottle nor</p>
+<p begin="00:08:41.850" end="00:08:48.060" style="s2">a property of my hand but a PI real</p>
+<p begin="00:08:44.520" end="00:08:53.300" style="s2">relation a real relation on how they can</p>
+<p begin="00:08:48.060" end="00:08:57.380" style="s2">be fit fitted together function together</p>
+<p begin="00:08:53.300" end="00:08:59.280" style="s2">so I would argue we should not see</p>
+<p begin="00:08:57.380" end="00:09:02.370" style="s2">relevance as something that we</p>
+<p begin="00:08:59.280" end="00:09:05.310" style="s2">subjectively project as the romantic</p>
+<p begin="00:09:02.370" end="00:09:07.450" style="s2">claims we should not see relevance as</p>
+<p begin="00:09:05.310" end="00:09:10.600" style="s2">something we merely</p>
+<p begin="00:09:07.450" end="00:09:13.450" style="s2">you write detect from the objectivity of</p>
+<p begin="00:09:10.600" end="00:09:17.170" style="s2">objects as perhaps we might if we had an</p>
+<p begin="00:09:13.450" end="00:09:24.520" style="s2">empiricist bet I want to propose a term</p>
+<p begin="00:09:17.170" end="00:09:32.890" style="s2">to you I want to argue that relevance is</p>
+<p begin="00:09:24.520" end="00:09:35.950" style="s2">in this sense transgenerational between</p>
+<p begin="00:09:32.890" end="00:09:37.500" style="s2">the organism and its environment we</p>
+<p begin="00:09:35.950" end="00:09:41.050" style="s2">should not think of it as being</p>
+<p begin="00:09:37.500" end="00:09:44.350" style="s2">projected we should not think of it as</p>
+<p begin="00:09:41.050" end="00:09:46.240" style="s2">being detected this is why I have</p>
+<p begin="00:09:44.350" end="00:09:48.190" style="s2">consistently used the term we should</p>
+<p begin="00:09:46.240" end="00:09:50.800" style="s2">think of relevance as being realized</p>
+<p begin="00:09:48.190" end="00:09:53.800" style="s2">because the point about the term</p>
+<p begin="00:09:50.800" end="00:09:56.080" style="s2">realization is it has two aspects to it</p>
+<p begin="00:09:53.800" end="00:09:59.380" style="s2">and I&#39;m trying to triangulate from those</p>
+<p begin="00:09:56.080" end="00:10:05.400" style="s2">two aspects what do I mean by that there</p>
+<p begin="00:09:59.380" end="00:10:08.800" style="s2">is an objective sense to realization</p>
+<p begin="00:10:05.400" end="00:10:10.450" style="s2">which is to make real and if that&#39;s not</p>
+<p begin="00:10:08.800" end="00:10:14.740" style="s2">an objective thing I don&#39;t know what</p>
+<p begin="00:10:10.450" end="00:10:17.770" style="s2">counts making real that&#39;s objective but</p>
+<p begin="00:10:14.740" end="00:10:20.260" style="s2">of course there is a subjective sense to</p>
+<p begin="00:10:17.770" end="00:10:24.310" style="s2">realization which is coming into</p>
+<p begin="00:10:20.260" end="00:10:26.920" style="s2">awareness and what I&#39;m I&#39;m using both</p>
+<p begin="00:10:24.310" end="00:10:29.680" style="s2">these words I&#39;m using both these senses</p>
+<p begin="00:10:26.920" end="00:10:34.510" style="s2">of the same word I&#39;m not equivocating I</p>
+<p begin="00:10:29.680" end="00:10:41.800" style="s2">am trying to triangulate to the trans</p>
+<p begin="00:10:34.510" end="00:10:44.260" style="s2">Jetty of relevance realization that is</p>
+<p begin="00:10:41.800" end="00:10:50.040" style="s2">why I&#39;m talking about something that is</p>
+<p begin="00:10:44.260" end="00:10:54.160" style="s2">both embodied necessarily so and</p>
+<p begin="00:10:50.040" end="00:10:57.430" style="s2">embedded necessarily so notice how non</p>
+<p begin="00:10:54.160" end="00:11:02.230" style="s2">or perhaps better anti Cartesian this is</p>
+<p begin="00:10:57.430" end="00:11:03.730" style="s2">the connection between mind if what you</p>
+<p begin="00:11:02.230" end="00:11:06.150" style="s2">mean by mind is your capacity for</p>
+<p begin="00:11:03.730" end="00:11:11.160" style="s2">consciousness and cognition right and</p>
+<p begin="00:11:06.150" end="00:11:16.480" style="s2">body is one of dependence of</p>
+<p begin="00:11:11.160" end="00:11:18.750" style="s2">constitutive need your mind needs your</p>
+<p begin="00:11:16.480" end="00:11:18.750" style="s2">body</p>
+<p begin="00:11:20.779" end="00:11:26.519" style="s2">we&#39;re also talking not only about it</p>
+<p begin="00:11:23.309" end="00:11:34.319" style="s2">being embodied embedded it is inherently</p>
+<p begin="00:11:26.519" end="00:11:38.160" style="s2">a transient realization the world and</p>
+<p begin="00:11:34.319" end="00:11:44.239" style="s2">the organism are co-creating Co</p>
+<p begin="00:11:38.160" end="00:11:44.239" style="s2">determining Co evolving the fitted nasaw</p>
+<p begin="00:11:46.910" end="00:11:52.679" style="s2">let&#39;s now return to it</p>
+<p begin="00:11:49.049" end="00:11:54.660" style="s2">the proposal now before before Lia turn</p>
+<p begin="00:11:52.679" end="00:11:56.999" style="s2">notice what this is going to notice what</p>
+<p begin="00:11:54.660" end="00:12:01.739" style="s2">this is telling us this is telling us</p>
+<p begin="00:11:56.999" end="00:12:05.339" style="s2">that a lot of the grammar by which we</p>
+<p begin="00:12:01.739" end="00:12:08.040" style="s2">try to talk about ourselves and a</p>
+<p begin="00:12:05.339" end="00:12:09.569" style="s2">relationship to reality the subjective</p>
+<p begin="00:12:08.040" end="00:12:11.459" style="s2">objective</p>
+<p begin="00:12:09.569" end="00:12:13.589" style="s2">both of these are reifying and they--and</p>
+<p begin="00:12:11.459" end="00:12:16.739" style="s2">and their inherent claims they&#39;re the</p>
+<p begin="00:12:13.589" end="00:12:19.619" style="s2">idea that relevance is a thing that has</p>
+<p begin="00:12:16.739" end="00:12:21.929" style="s2">an essence that in here&#39;s in the subject</p>
+<p begin="00:12:19.619" end="00:12:24.449" style="s2">or @ relevance is a thing that has an</p>
+<p begin="00:12:21.929" end="00:12:27.720" style="s2">essence that in here&#39;s in the object</p>
+<p begin="00:12:24.449" end="00:12:31.199" style="s2">both of those that standard grammar and</p>
+<p begin="00:12:27.720" end="00:12:34.199" style="s2">the adversarial right partisan debates</p>
+<p begin="00:12:31.199" end="00:12:40.980" style="s2">we often have I am arguing need to be</p>
+<p begin="00:12:34.199" end="00:12:42.149" style="s2">transcended need to be transcended and I</p>
+<p begin="00:12:40.980" end="00:12:44.220" style="s2">would then propose to you that that&#39;s</p>
+<p begin="00:12:42.149" end="00:12:47.790" style="s2">going to have a fundamental impact on</p>
+<p begin="00:12:44.220" end="00:12:52.319" style="s2">how we interpret spirituality if again</p>
+<p begin="00:12:47.790" end="00:12:55.519" style="s2">by spirituality we mean a sense and a</p>
+<p begin="00:12:52.319" end="00:13:05.089" style="s2">functional sense of connectedness that</p>
+<p begin="00:12:55.519" end="00:13:05.089" style="s2">affords wisdom self transcendence etc</p>
+<p begin="00:13:15.030" end="00:13:20.200" style="s2">so back to the idea of efficiency</p>
+<p begin="00:13:17.850" end="00:13:22.660" style="s2">resiliency trade-offs I would point to</p>
+<p begin="00:13:20.200" end="00:13:25.960" style="s2">to the work of Marcus breed and he&#39;s got</p>
+<p begin="00:13:22.660" end="00:13:27.730" style="s2">work sort of mathematically showing that</p>
+<p begin="00:13:25.960" end="00:13:30.310" style="s2">when you&#39;re creating networks especially</p>
+<p begin="00:13:27.730" end="00:13:32.320" style="s2">neural networks you&#39;re going to optimize</p>
+<p begin="00:13:30.310" end="00:13:35.020" style="s2">and we talked about optimization again</p>
+<p begin="00:13:32.320" end="00:13:36.700" style="s2">in the previous video you&#39;re going to</p>
+<p begin="00:13:35.020" end="00:13:38.560" style="s2">optimize between efficiency and</p>
+<p begin="00:13:36.700" end="00:13:41.620" style="s2">resiliency that&#39;s how you&#39;re going to</p>
+<p begin="00:13:38.560" end="00:13:43.480" style="s2">get them to function the best you can</p>
+<p begin="00:13:41.620" end="00:13:47.830" style="s2">and what I want to try and do is try to</p>
+<p begin="00:13:43.480" end="00:13:51.580" style="s2">show you the relationship right the</p>
+<p begin="00:13:47.830" end="00:13:55.510" style="s2">poles of the transductive &#39;ti and how</p>
+<p begin="00:13:51.580" end="00:13:58.080" style="s2">that&#39;s going to come out or at least</p>
+<p begin="00:13:55.510" end="00:14:01.840" style="s2">point towards the generative</p>
+<p begin="00:13:58.080" end="00:14:07.770" style="s2">relationship that can be discussed in</p>
+<p begin="00:14:01.840" end="00:14:10.720" style="s2">terms of these poles so I argued that</p>
+<p begin="00:14:07.770" end="00:14:14.500" style="s2">initially the machinery of relevance</p>
+<p begin="00:14:10.720" end="00:14:16.990" style="s2">realization has to be in kernel now</p>
+<p begin="00:14:14.500" end="00:14:20.110" style="s2">again this is why I just did what I did</p>
+<p begin="00:14:16.990" end="00:14:23.680" style="s2">when I say internal I don&#39;t mean</p>
+<p begin="00:14:20.110" end="00:14:26.290" style="s2">subjective I don&#39;t mean inside the</p>
+<p begin="00:14:23.680" end="00:14:30.040" style="s2">introspective space of the mind when I&#39;m</p>
+<p begin="00:14:26.290" end="00:14:33.700" style="s2">talking about the the goals are internal</p>
+<p begin="00:14:30.040" end="00:14:37.900" style="s2">I mean internal to an embodied embedded</p>
+<p begin="00:14:33.700" end="00:14:42.820" style="s2">right brain body system an autopoietic</p>
+<p begin="00:14:37.900" end="00:14:45.100" style="s2">system of adaptivity in fact there&#39;s</p>
+<p begin="00:14:42.820" end="00:14:46.780" style="s2">many people who are arguing cognitive</p>
+<p begin="00:14:45.100" end="00:14:49.000" style="s2">science that those two terms are</p>
+<p begin="00:14:46.780" end="00:14:51.340" style="s2">interdependent just like I&#39;m arguing</p>
+<p begin="00:14:49.000" end="00:14:53.470" style="s2">that relevance realization is dependent</p>
+<p begin="00:14:51.340" end="00:14:55.090" style="s2">on Auto police&#39;s being an adaptive</p>
+<p begin="00:14:53.470" end="00:14:58.090" style="s2">system and being an auto dependence</p>
+<p begin="00:14:55.090" end="00:15:00.630" style="s2">sorry an auto poetic system are also</p>
+<p begin="00:14:58.090" end="00:15:03.880" style="s2">interdependent system can only be</p>
+<p begin="00:15:00.630" end="00:15:06.670" style="s2">continually self making if it has some</p>
+<p begin="00:15:03.880" end="00:15:08.350" style="s2">capacity to adapt to changes in its</p>
+<p begin="00:15:06.670" end="00:15:11.470" style="s2">environment and a system is only</p>
+<p begin="00:15:08.350" end="00:15:13.810" style="s2">adaptive if it is trying to maintain</p>
+<p begin="00:15:11.470" end="00:15:16.180" style="s2">itself and that only makes sense if it</p>
+<p begin="00:15:13.810" end="00:15:18.100" style="s2">has real needs if it&#39;s an auto poetic</p>
+<p begin="00:15:16.180" end="00:15:20.850" style="s2">thing so these things are actually</p>
+<p begin="00:15:18.100" end="00:15:23.389" style="s2">deeply interlocked relevance realization</p>
+<p begin="00:15:20.850" end="00:15:32.779" style="s2">Auto paresis</p>
+<p begin="00:15:23.389" end="00:15:34.429" style="s2">and adaptivity so as Marcus breed has</p>
+<p begin="00:15:32.779" end="00:15:36.529" style="s2">argued and other people and I&#39;m giving</p>
+<p begin="00:15:34.429" end="00:15:38.869" style="s2">you independent argument you you want to</p>
+<p begin="00:15:36.529" end="00:15:40.459" style="s2">get a way of optimizing between</p>
+<p begin="00:15:38.869" end="00:15:42.379" style="s2">efficiency and resilience that you don&#39;t</p>
+<p begin="00:15:40.459" end="00:15:43.759" style="s2">want remember with the autonomic nervous</p>
+<p begin="00:15:42.379" end="00:15:47.239" style="s2">system this doesn&#39;t mean getting some</p>
+<p begin="00:15:43.759" end="00:15:49.999" style="s2">average or right stable Mead it means</p>
+<p begin="00:15:47.239" end="00:15:51.499" style="s2">the system can move sometimes giving</p>
+<p begin="00:15:49.999" end="00:15:54.679" style="s2">more emphasis to efficiency sometimes</p>
+<p begin="00:15:51.499" end="00:15:56.480" style="s2">giving more emphasis to resiliency just</p>
+<p begin="00:15:54.679" end="00:15:58.989" style="s2">like your autonomic nervous system is</p>
+<p begin="00:15:56.480" end="00:16:04.040" style="s2">constantly evolving constantly</p>
+<p begin="00:15:58.989" end="00:16:06.949" style="s2">recalibrating your level of arousal now</p>
+<p begin="00:16:04.040" end="00:16:12.559" style="s2">what I want to do is pick up on how</p>
+<p begin="00:16:06.949" end="00:16:17.119" style="s2">those constraints might cash out in</p>
+<p begin="00:16:12.559" end="00:16:19.850" style="s2">particular I&#39;ll put this a little bit</p>
+<p begin="00:16:17.119" end="00:16:31.399" style="s2">farther over here how these logistical</p>
+<p begin="00:16:19.850" end="00:16:37.720" style="s2">norms understood as constraints can be</p>
+<p begin="00:16:31.399" end="00:16:37.720" style="s2">realized in particular virtual engines</p>
+<p begin="00:16:38.410" end="00:16:50.410" style="s2">so and I want to do this by talking</p>
+<p begin="00:16:42.679" end="00:16:50.410" style="s2">about internal bio economic properties</p>
+<p begin="00:16:51.999" end="00:16:58.399" style="s2">and then for lack of a better wait for</p>
+<p begin="00:16:56.660" end="00:17:00.949" style="s2">this contrast and again this does not</p>
+<p begin="00:16:58.399" end="00:17:02.559" style="s2">map on to the subjectivity objectivity I</p>
+<p begin="00:17:00.949" end="00:17:06.620" style="s2">don&#39;t have to keep saying that correct</p>
+<p begin="00:17:02.559" end="00:17:08.750" style="s2">okay external interactional properties</p>
+<p begin="00:17:06.620" end="00:17:10.639" style="s2">by external I mean that these right</p>
+<p begin="00:17:08.750" end="00:17:12.889" style="s2">eventually are going to give rise to</p>
+<p begin="00:17:10.639" end="00:17:17.269" style="s2">goals in the world as opposed to</p>
+<p begin="00:17:12.889" end="00:17:18.799" style="s2">constitutive goals in the system and</p>
+<p begin="00:17:17.269" end="00:17:20.409" style="s2">what I want to do is show you how you go</p>
+<p begin="00:17:18.799" end="00:17:23.809" style="s2">back and forth</p>
+<p begin="00:17:20.409" end="00:17:26.120" style="s2">now it&#39;ll make sense to do this in terms</p>
+<p begin="00:17:23.809" end="00:17:27.679" style="s2">of reverse engineering because it will</p>
+<p begin="00:17:26.120" end="00:17:29.360" style="s2">just help to make more sense because I&#39;m</p>
+<p begin="00:17:27.679" end="00:17:31.250" style="s2">starting from what you understand in</p>
+<p begin="00:17:29.360" end="00:17:33.649" style="s2">yourself and then working so often I</p>
+<p begin="00:17:31.250" end="00:17:36.860" style="s2">will start here and go this way so you</p>
+<p begin="00:17:33.649" end="00:17:38.450" style="s2">want to be right adaptive we</p>
+<p begin="00:17:36.860" end="00:17:42.080" style="s2">said you want to be a general problem</p>
+<p begin="00:17:38.450" end="00:17:45.460" style="s2">solver and that&#39;s important but notice</p>
+<p begin="00:17:42.080" end="00:17:47.480" style="s2">that that means there&#39;s two kinds of and</p>
+<p begin="00:17:45.460" end="00:17:51.019" style="s2">people don&#39;t like when I use this word</p>
+<p begin="00:17:47.480" end="00:17:52.760" style="s2">but I don&#39;t have an alternative word but</p>
+<p begin="00:17:51.019" end="00:17:54.830" style="s2">so I&#39;m just going to use it just if</p>
+<p begin="00:17:52.760" end="00:17:57.919" style="s2">there&#39;s two kinds of machines you can be</p>
+<p begin="00:17:54.830" end="00:18:00.529" style="s2">by that what I mean by that is a system</p>
+<p begin="00:17:57.919" end="00:18:04.700" style="s2">right that is capable of solving</p>
+<p begin="00:18:00.529" end="00:18:12.649" style="s2">problems and pursuing goals in some</p>
+<p begin="00:18:04.700" end="00:18:14.690" style="s2">fashion if I want to be adaptive what do</p>
+<p begin="00:18:12.649" end="00:18:18.649" style="s2">i what do i what do i what kind of</p>
+<p begin="00:18:14.690" end="00:18:22.880" style="s2">machine do I want to be well I might</p>
+<p begin="00:18:18.649" end="00:18:24.350" style="s2">want to be a general-purpose machine now</p>
+<p begin="00:18:22.880" end="00:18:26.029" style="s2">these terms are always when I keep</p>
+<p begin="00:18:24.350" end="00:18:27.889" style="s2">showing you that are always relative</p>
+<p begin="00:18:26.029" end="00:18:30.019" style="s2">they&#39;re comparative terms in relative I</p>
+<p begin="00:18:27.889" end="00:18:32.090" style="s2">don&#39;t think anything is absolutely</p>
+<p begin="00:18:30.019" end="00:18:34.929" style="s2">general or absolutely special-purpose</p>
+<p begin="00:18:32.090" end="00:18:39.769" style="s2">it&#39;s always a comparative term alright</p>
+<p begin="00:18:34.929" end="00:18:43.429" style="s2">but let me give you an example my hand</p>
+<p begin="00:18:39.769" end="00:18:46.940" style="s2">is a general-purpose machine right my</p>
+<p begin="00:18:43.429" end="00:18:49.789" style="s2">hand is such that it can be used in many</p>
+<p begin="00:18:46.940" end="00:18:52.010" style="s2">many different contexts for many many</p>
+<p begin="00:18:49.789" end="00:18:54.440" style="s2">different tasks so it&#39;s very general</p>
+<p begin="00:18:52.010" end="00:18:56.600" style="s2">purpose all right now the problem with</p>
+<p begin="00:18:54.440" end="00:18:59.539" style="s2">being a jack-of-all-trades is that you</p>
+<p begin="00:18:56.600" end="00:19:01.490" style="s2">are master of none so the problem with</p>
+<p begin="00:18:59.539" end="00:19:04.580" style="s2">my hand being general purpose is that</p>
+<p begin="00:19:01.490" end="00:19:07.220" style="s2">for specific tasks it can be out</p>
+<p begin="00:19:04.580" end="00:19:09.740" style="s2">competed by a special purpose machine so</p>
+<p begin="00:19:07.220" end="00:19:12.529" style="s2">right although this is a good general</p>
+<p begin="00:19:09.740" end="00:19:14.210" style="s2">purpose machine it is nowhere you know</p>
+<p begin="00:19:12.529" end="00:19:16.760" style="s2">as good as a hammer for driving in a</p>
+<p begin="00:19:14.210" end="00:19:19.429" style="s2">nail no good as a nowhere as good as a</p>
+<p begin="00:19:16.760" end="00:19:23.840" style="s2">screwdriver for removing a screw etc etc</p>
+<p begin="00:19:19.429" end="00:19:26.000" style="s2">so right in some contexts special</p>
+<p begin="00:19:23.840" end="00:19:28.519" style="s2">purpose machines outperform general</p>
+<p begin="00:19:26.000" end="00:19:30.799" style="s2">purpose machines but you wouldn&#39;t want</p>
+<p begin="00:19:28.519" end="00:19:32.299" style="s2">the following you wouldn&#39;t want you know</p>
+<p begin="00:19:30.799" end="00:19:34.940" style="s2">I you&#39;re gonna be stranded on a desert</p>
+<p begin="00:19:32.299" end="00:19:37.429" style="s2">island like maybe Tom Hanks and castaway</p>
+<p begin="00:19:34.940" end="00:19:38.870" style="s2">and he lost all of his special purpose</p>
+<p begin="00:19:37.429" end="00:19:41.409" style="s2">tools they sink to the bottom of the</p>
+<p begin="00:19:38.870" end="00:19:43.190" style="s2">ocean that causes them a lot of distress</p>
+<p begin="00:19:41.409" end="00:19:44.929" style="s2">literally what he starts with that first</p>
+<p begin="00:19:43.190" end="00:19:47.299" style="s2">is his hands the general purpose</p>
+<p begin="00:19:44.929" end="00:19:50.030" style="s2">machines and the problem you see that</p>
+<p begin="00:19:47.299" end="00:19:53.230" style="s2">wow they&#39;re not doing very good</p>
+<p begin="00:19:50.030" end="00:19:57.560" style="s2">just if I just had a good knife right</p>
+<p begin="00:19:53.230" end="00:19:59.150" style="s2">but the problem is I wouldn&#39;t want well</p>
+<p begin="00:19:57.560" end="00:19:59.990" style="s2">not Tom Hanks but his character forget</p>
+<p begin="00:19:59.150" end="00:20:02.360" style="s2">the character&#39;s name</p>
+<p begin="00:19:59.990" end="00:20:04.550" style="s2">I think it&#39;s Jack you wouldn&#39;t have Jack</p>
+<p begin="00:20:02.360" end="00:20:07.160" style="s2">Jack I&#39;m going to cut off your hands and</p>
+<p begin="00:20:04.550" end="00:20:08.990" style="s2">you know that I can attach a knife here</p>
+<p begin="00:20:07.160" end="00:20:10.340" style="s2">and you know a hammer here and now you</p>
+<p begin="00:20:08.990" end="00:20:11.930" style="s2">have a hammer a knife it&#39;s like no no no</p>
+<p begin="00:20:10.340" end="00:20:14.840" style="s2">I don&#39;t want that either</p>
+<p begin="00:20:11.930" end="00:20:21.010" style="s2">I don&#39;t want just a motley collection of</p>
+<p begin="00:20:14.840" end="00:20:25.520" style="s2">special purpose machines okay so</p>
+<p begin="00:20:21.010" end="00:20:30.050" style="s2">sometimes your adaptive by being a</p>
+<p begin="00:20:25.520" end="00:20:33.980" style="s2">general-purpose machine sometimes your</p>
+<p begin="00:20:30.050" end="00:20:40.100" style="s2">adoptive by being a special purpose</p>
+<p begin="00:20:33.980" end="00:20:42.050" style="s2">machine so general purpose machine you</p>
+<p begin="00:20:40.100" end="00:20:46.040" style="s2">use the same thing over and over again</p>
+<p begin="00:20:42.050" end="00:20:47.930" style="s2">sometimes we make a joke about somebody</p>
+<p begin="00:20:46.040" end="00:20:50.990" style="s2">using a special purpose machine as a</p>
+<p begin="00:20:47.930" end="00:20:52.430" style="s2">general purpose machine right when all</p>
+<p begin="00:20:50.990" end="00:20:55.460" style="s2">you have is a hammer everything looks</p>
+<p begin="00:20:52.430" end="00:20:57.740" style="s2">like a nail right and the joke there is</p>
+<p begin="00:20:55.460" end="00:20:58.790" style="s2">right and it strikes us as a joke</p>
+<p begin="00:20:57.740" end="00:21:00.080" style="s2">because we know that hammers are</p>
+<p begin="00:20:58.790" end="00:21:01.940" style="s2">special-purpose things and everything</p>
+<p begin="00:21:00.080" end="00:21:04.820" style="s2">isn&#39;t a nail it&#39;s not so much a joke if</p>
+<p begin="00:21:01.940" end="00:21:06.050" style="s2">I say you know sometimes when all you</p>
+<p begin="00:21:04.820" end="00:21:11.120" style="s2">have is a hand everything looks</p>
+<p begin="00:21:06.050" end="00:21:13.340" style="s2">graspable that&#39;s not so weird okay so</p>
+<p begin="00:21:11.120" end="00:21:15.740" style="s2">what are we what am I trying to get you</p>
+<p begin="00:21:13.340" end="00:21:19.520" style="s2">to see what I&#39;m trying to get you to see</p>
+<p begin="00:21:15.740" end="00:21:25.040" style="s2">is you want to be able to move between</p>
+<p begin="00:21:19.520" end="00:21:27.980" style="s2">these this is very efficient why because</p>
+<p begin="00:21:25.040" end="00:21:30.620" style="s2">I&#39;m using the same thing over and over</p>
+<p begin="00:21:27.980" end="00:21:33.770" style="s2">again the same function over and over</p>
+<p begin="00:21:30.620" end="00:21:37.130" style="s2">again or at least the state this same</p>
+<p begin="00:21:33.770" end="00:21:39.260" style="s2">set of tightly bound functions right the</p>
+<p begin="00:21:37.130" end="00:21:41.450" style="s2">thing about special purpose right is I</p>
+<p begin="00:21:39.260" end="00:21:43.340" style="s2">won&#39;t use it there you know I don&#39;t use</p>
+<p begin="00:21:41.450" end="00:21:45.620" style="s2">it that often I use my hammer sometimes</p>
+<p begin="00:21:43.340" end="00:21:47.240" style="s2">and my saw sometimes and my screwdriver</p>
+<p begin="00:21:45.620" end="00:21:48.920" style="s2">Center and I have to carry around the</p>
+<p begin="00:21:47.240" end="00:21:51.080" style="s2">toolbox now the problem with that is it</p>
+<p begin="00:21:48.920" end="00:21:52.640" style="s2">gets very inefficient because a lot of</p>
+<p begin="00:21:51.080" end="00:21:54.860" style="s2">the times I&#39;m carrying my hammer around</p>
+<p begin="00:21:52.640" end="00:21:57.470" style="s2">and I&#39;m not using it so I have to bear</p>
+<p begin="00:21:54.860" end="00:21:59.780" style="s2">the cost of carrying it around and I&#39;m</p>
+<p begin="00:21:57.470" end="00:22:01.160" style="s2">not using it so it&#39;s very inefficient</p>
+<p begin="00:21:59.780" end="00:22:03.530" style="s2">but you know what it makes me it makes</p>
+<p begin="00:22:01.160" end="00:22:07.450" style="s2">me Trent tremendously resilient</p>
+<p begin="00:22:03.530" end="00:22:11.750" style="s2">because when there&#39;s a lot of new things</p>
+<p begin="00:22:07.450" end="00:22:13.400" style="s2">unexpected specific issues that my</p>
+<p begin="00:22:11.750" end="00:22:14.300" style="s2">general purpose thing can&#39;t handle I&#39;m</p>
+<p begin="00:22:13.400" end="00:22:16.730" style="s2">ready for them</p>
+<p begin="00:22:14.300" end="00:22:19.490" style="s2">I have resiliency I&#39;ve got differences</p>
+<p begin="00:22:16.730" end="00:22:22.070" style="s2">within my tool box kit that allow me to</p>
+<p begin="00:22:19.490" end="00:22:23.420" style="s2">deal with these special circumstances so</p>
+<p begin="00:22:22.070" end="00:22:25.090" style="s2">notice what I want to do I want</p>
+<p begin="00:22:23.420" end="00:22:28.070" style="s2">something want to constantly trade</p>
+<p begin="00:22:25.090" end="00:22:29.660" style="s2">between them I wants to cook I want to</p>
+<p begin="00:22:28.070" end="00:22:32.180" style="s2">constantly trade between them now what</p>
+<p begin="00:22:29.660" end="00:22:34.490" style="s2">I&#39;m gonna do I did that to show you this</p>
+<p begin="00:22:32.180" end="00:22:37.220" style="s2">I&#39;m then now going to reorganize it this</p>
+<p begin="00:22:34.490" end="00:22:40.240" style="s2">way because when I&#39;m going to show you</p>
+<p begin="00:22:37.220" end="00:22:45.170" style="s2">what I&#39;m arguing is general purpose is</p>
+<p begin="00:22:40.240" end="00:22:47.720" style="s2">more efficient special purpose is making</p>
+<p begin="00:22:45.170" end="00:22:51.500" style="s2">you more resilient and you want to trade</p>
+<p begin="00:22:47.720" end="00:22:52.910" style="s2">between them okay so okay now those are</p>
+<p begin="00:22:51.500" end="00:22:54.830" style="s2">interactional properties and you said I</p>
+<p begin="00:22:52.910" end="00:22:57.790" style="s2">sort of get the analogy what does that</p>
+<p begin="00:22:54.830" end="00:23:02.720" style="s2">have to do with the brain and Bioeconomy</p>
+<p begin="00:22:57.790" end="00:23:07.360" style="s2">right so how would you try to make</p>
+<p begin="00:23:02.720" end="00:23:10.700" style="s2">information processing more efficient</p>
+<p begin="00:23:07.360" end="00:23:13.850" style="s2">well what I want to do is I want to try</p>
+<p begin="00:23:10.700" end="00:23:15.740" style="s2">and make the process I&#39;m using the</p>
+<p begin="00:23:13.850" end="00:23:17.750" style="s2">functions I&#39;m using to be as</p>
+<p begin="00:23:15.740" end="00:23:19.550" style="s2">generalizable as possible that will get</p>
+<p begin="00:23:17.750" end="00:23:22.940" style="s2">me general purpose because I can use the</p>
+<p begin="00:23:19.550" end="00:23:28.790" style="s2">same function in many places then I&#39;m</p>
+<p begin="00:23:22.940" end="00:23:31.730" style="s2">very efficient how do you do that how do</p>
+<p begin="00:23:28.790" end="00:23:33.200" style="s2">you do that well here&#39;s what I want to</p>
+<p begin="00:23:31.730" end="00:23:35.180" style="s2">pause and I want to introduce just a</p>
+<p begin="00:23:33.200" end="00:23:37.700" style="s2">tiny bit of narrative in here when I was</p>
+<p begin="00:23:35.180" end="00:23:39.380" style="s2">writing this paper with Tim little comp</p>
+<p begin="00:23:37.700" end="00:23:42.500" style="s2">and Blake Richards but especially this</p>
+<p begin="00:23:39.380" end="00:23:45.520" style="s2">was Tim&#39;s great insight you&#39;ve got to</p>
+<p begin="00:23:42.500" end="00:23:48.800" style="s2">get in if you&#39;re interested in</p>
+<p begin="00:23:45.520" end="00:23:50.090" style="s2">cutting-edge AI you really need to pay</p>
+<p begin="00:23:48.800" end="00:23:51.860" style="s2">attention to the work that Tim little</p>
+<p begin="00:23:50.090" end="00:23:54.110" style="s2">crap is doing</p>
+<p begin="00:23:51.860" end="00:23:56.270" style="s2">Tim&#39;s a former student of mine he&#39;s</p>
+<p begin="00:23:54.110" end="00:23:58.490" style="s2">calling in many ways of course he&#39;s</p>
+<p begin="00:23:56.270" end="00:23:59.750" style="s2">greatly surpassed my knowledge and</p>
+<p begin="00:23:58.490" end="00:24:02.030" style="s2">expertise is one of the cutting edge</p>
+<p begin="00:23:59.750" end="00:24:04.850" style="s2">people and artificial intelligence and</p>
+<p begin="00:24:02.030" end="00:24:07.640" style="s2">he had a great insight here I was</p>
+<p begin="00:24:04.850" end="00:24:10.670" style="s2">proposing this model this theory to him</p>
+<p begin="00:24:07.640" end="00:24:14.720" style="s2">and he said but you know you should</p>
+<p begin="00:24:10.670" end="00:24:17.590" style="s2">reverse-engineer it in a certain way and</p>
+<p begin="00:24:14.720" end="00:24:19.270" style="s2">I said what I mean what he says well</p>
+<p begin="00:24:17.590" end="00:24:21.130" style="s2">you&#39;re acting as if you&#39;re just</p>
+<p begin="00:24:19.270" end="00:24:22.810" style="s2">proposing this top down but what you</p>
+<p begin="00:24:21.130" end="00:24:24.880" style="s2">should see is that many of the things</p>
+<p begin="00:24:22.810" end="00:24:28.360" style="s2">you&#39;re talking about are already being</p>
+<p begin="00:24:24.880" end="00:24:30.160" style="s2">used within the AI community so the</p>
+<p begin="00:24:28.360" end="00:24:32.230" style="s2">paper we published was relevance</p>
+<p begin="00:24:30.160" end="00:24:35.230" style="s2">realization and the emerging framework</p>
+<p begin="00:24:32.230" end="00:24:37.840" style="s2">in cognitive science namely that a lot</p>
+<p begin="00:24:35.230" end="00:24:40.180" style="s2">of the strategies are going to talk</p>
+<p begin="00:24:37.840" end="00:24:43.030" style="s2">about here are strategies that are</p>
+<p begin="00:24:40.180" end="00:24:44.050" style="s2">already being developed now I&#39;m going to</p>
+<p begin="00:24:43.030" end="00:24:47.110" style="s2">have to talk about this at a very</p>
+<p begin="00:24:44.050" end="00:24:49.660" style="s2">abstract level because which one of the</p>
+<p begin="00:24:47.110" end="00:24:51.670" style="s2">particular architecture is a particular</p>
+<p begin="00:24:49.660" end="00:24:53.650" style="s2">application is going to turn out to be</p>
+<p begin="00:24:51.670" end="00:24:56.770" style="s2">the right one we don&#39;t know yet that&#39;s</p>
+<p begin="00:24:53.650" end="00:24:58.840" style="s2">still something in progress but I I</p>
+<p begin="00:24:56.770" end="00:25:01.660" style="s2">think Tim&#39;s point is very well taken</p>
+<p begin="00:24:58.840" end="00:25:05.050" style="s2">that we shouldn&#39;t be talking about this</p>
+<p begin="00:25:01.660" end="00:25:07.660" style="s2">in a vacuum we should also see that the</p>
+<p begin="00:25:05.050" end="00:25:10.120" style="s2">people who are trying to make artificial</p>
+<p begin="00:25:07.660" end="00:25:11.740" style="s2">intelligence are already implementing</p>
+<p begin="00:25:10.120" end="00:25:13.360" style="s2">some of these strategies that I&#39;m going</p>
+<p begin="00:25:11.740" end="00:25:15.070" style="s2">to point out and I think that&#39;s very</p>
+<p begin="00:25:13.360" end="00:25:20.560" style="s2">telling the fact that we&#39;re getting</p>
+<p begin="00:25:15.070" end="00:25:24.480" style="s2">convergent argument that way ok so how</p>
+<p begin="00:25:20.560" end="00:25:28.960" style="s2">do I make a information processing</p>
+<p begin="00:25:24.480" end="00:25:31.200" style="s2">function more generalizable how do I do</p>
+<p begin="00:25:28.960" end="00:25:35.920" style="s2">that</p>
+<p begin="00:25:31.200" end="00:25:38.080" style="s2">well I want to I mean you know how we do</p>
+<p begin="00:25:35.920" end="00:25:40.690" style="s2">it and because you we&#39;ve talked about it</p>
+<p begin="00:25:38.080" end="00:25:42.580" style="s2">before but you do it in science all</p>
+<p begin="00:25:40.690" end="00:25:46.300" style="s2">right so here&#39;s two variables for</p>
+<p begin="00:25:42.580" end="00:25:50.470" style="s2">example it&#39;s not limited to two right</p>
+<p begin="00:25:46.300" end="00:25:52.360" style="s2">right and so right I have a scatter plot</p>
+<p begin="00:25:50.470" end="00:25:55.750" style="s2">and what they taught you to do right was</p>
+<p begin="00:25:52.360" end="00:25:58.900" style="s2">a line of best fit all right this is</p>
+<p begin="00:25:55.750" end="00:26:01.300" style="s2">standard move in Cartesian graphing now</p>
+<p begin="00:25:58.900" end="00:26:03.130" style="s2">why do you do a line of best fit you</p>
+<p begin="00:26:01.300" end="00:26:04.900" style="s2">know and my line of best fit might</p>
+<p begin="00:26:03.130" end="00:26:07.270" style="s2">actually touch none of my data points</p>
+<p begin="00:26:04.900" end="00:26:10.690" style="s2">does that mean I&#39;m being ridiculously</p>
+<p begin="00:26:07.270" end="00:26:13.540" style="s2">irresponsible to the data I&#39;m just</p>
+<p begin="00:26:10.690" end="00:26:15.160" style="s2">gauging an arm trust population no why</p>
+<p begin="00:26:13.540" end="00:26:18.100" style="s2">do we do this why do we do a line of</p>
+<p begin="00:26:15.160" end="00:26:20.770" style="s2">best fit all right well while we&#39;re</p>
+<p begin="00:26:18.100" end="00:26:23.710" style="s2">doing this is because it allows us to</p>
+<p begin="00:26:20.770" end="00:26:27.370" style="s2">interpolate and extrapolate it allows us</p>
+<p begin="00:26:23.710" end="00:26:29.260" style="s2">to go beyond the data now we&#39;re taking a</p>
+<p begin="00:26:27.370" end="00:26:30.790" style="s2">chance and of course all good science</p>
+<p begin="00:26:29.260" end="00:26:31.300" style="s2">and this is this was the great insight</p>
+<p begin="00:26:30.790" end="00:26:33.930" style="s2">of popper</p>
+<p begin="00:26:31.300" end="00:26:38.080" style="s2">all good science takes good chances</p>
+<p begin="00:26:33.930" end="00:26:41.080" style="s2">right but here&#39;s the thing I do this so</p>
+<p begin="00:26:38.080" end="00:26:44.110" style="s2">that I can make predictions right what</p>
+<p begin="00:26:41.080" end="00:26:45.400" style="s2">the value of y will be when I have a</p>
+<p begin="00:26:44.110" end="00:26:47.920" style="s2">certain value of x that I&#39;ve never</p>
+<p begin="00:26:45.400" end="00:26:51.120" style="s2">obtained I can interpolate and</p>
+<p begin="00:26:47.920" end="00:26:55.240" style="s2">extrapolate that means I can generalize</p>
+<p begin="00:26:51.120" end="00:27:01.300" style="s2">the function so this is data compression</p>
+<p begin="00:26:55.240" end="00:27:05.320" style="s2">this is data compression what I&#39;m trying</p>
+<p begin="00:27:01.300" end="00:27:07.690" style="s2">to do is basically pick up on what&#39;s</p>
+<p begin="00:27:05.320" end="00:27:10.150" style="s2">invariant the idea is that the</p>
+<p begin="00:27:07.690" end="00:27:11.740" style="s2">information always contains noise and</p>
+<p begin="00:27:10.150" end="00:27:15.820" style="s2">I&#39;m trying to pick up on what&#39;s</p>
+<p begin="00:27:11.740" end="00:27:17.530" style="s2">invariant and extend that and of course</p>
+<p begin="00:27:15.820" end="00:27:18.880" style="s2">that&#39;s part and parcel of why we do this</p>
+<p begin="00:27:17.530" end="00:27:21.430" style="s2">because in science we&#39;re trying to do</p>
+<p begin="00:27:18.880" end="00:27:24.820" style="s2">the inductive generalizations etc etc so</p>
+<p begin="00:27:21.430" end="00:27:28.750" style="s2">the way in which I make my functionality</p>
+<p begin="00:27:24.820" end="00:27:37.330" style="s2">more general more general purpose is if</p>
+<p begin="00:27:28.750" end="00:27:40.180" style="s2">I can do a lot of data compression so if</p>
+<p begin="00:27:37.330" end="00:27:41.950" style="s2">the data compression allows me to</p>
+<p begin="00:27:40.180" end="00:27:43.840" style="s2">generalize my function and that</p>
+<p begin="00:27:41.950" end="00:27:45.990" style="s2">generalization is feeding through the</p>
+<p begin="00:27:43.840" end="00:27:49.180" style="s2">sensorimotor loop in a way that is</p>
+<p begin="00:27:45.990" end="00:27:55.570" style="s2">protecting and promoting my autopoietic</p>
+<p begin="00:27:49.180" end="00:28:00.850" style="s2">goals it&#39;s going to be reinforced but</p>
+<p begin="00:27:55.570" end="00:28:02.530" style="s2">what about the opposite what was</p>
+<p begin="00:28:00.850" end="00:28:03.880" style="s2">interesting at the time I think this</p>
+<p begin="00:28:02.530" end="00:28:05.230" style="s2">meant some people have picked this up on</p>
+<p begin="00:28:03.880" end="00:28:07.030" style="s2">a term we didn&#39;t have a term for this</p>
+<p begin="00:28:05.230" end="00:28:08.350" style="s2">and I remember there was a whole</p>
+<p begin="00:28:07.030" end="00:28:10.120" style="s2">afternoon where Tim and I were just</p>
+<p begin="00:28:08.350" end="00:28:14.020" style="s2">trying to come up with what do we want</p>
+<p begin="00:28:10.120" end="00:28:15.700" style="s2">for the trade-off so this is making your</p>
+<p begin="00:28:14.020" end="00:28:17.170" style="s2">information processing more efficient</p>
+<p begin="00:28:15.700" end="00:28:19.150" style="s2">more general-purpose</p>
+<p begin="00:28:17.170" end="00:28:20.680" style="s2">what makes it more special purpose more</p>
+<p begin="00:28:19.150" end="00:28:23.670" style="s2">resilient and so we came up with the</p>
+<p begin="00:28:20.680" end="00:28:23.670" style="s2">term particularization</p>
+<p begin="00:28:23.760" end="00:28:31.390" style="s2">and tim&#39;s point and i&#39;m not going to go</p>
+<p begin="00:28:27.520" end="00:28:33.160" style="s2">into detail here tim&#39;s point is this is</p>
+<p begin="00:28:31.390" end="00:28:34.960" style="s2">the general strategy that&#39;s at working</p>
+<p begin="00:28:33.160" end="00:28:36.970" style="s2">things like the wake-sleep algorithm</p>
+<p begin="00:28:34.960" end="00:28:40.960" style="s2">that is at the heart of the deep</p>
+<p begin="00:28:36.970" end="00:28:42.680" style="s2">learning promoted by Geoffrey Hinton who</p>
+<p begin="00:28:40.960" end="00:28:44.990" style="s2">was at U of T and Tim</p>
+<p begin="00:28:42.680" end="00:28:49.460" style="s2">was a very significant student of Jeff&#39;s</p>
+<p begin="00:28:44.990" end="00:28:52.250" style="s2">and so this is the abstract explanation</p>
+<p begin="00:28:49.460" end="00:28:55.010" style="s2">of how that strategy that&#39;s at work in a</p>
+<p begin="00:28:52.250" end="00:28:56.860" style="s2">lot of the deep learning of that&#39;s at</p>
+<p begin="00:28:55.010" end="00:29:00.020" style="s2">the core of a lot of successful they are</p>
+<p begin="00:28:56.860" end="00:29:03.410" style="s2">what particular ization is is right as</p>
+<p begin="00:29:00.020" end="00:29:05.060" style="s2">I&#39;m trying to keep more in track with</p>
+<p begin="00:29:03.410" end="00:29:08.030" style="s2">the data I&#39;m trying to create a function</p>
+<p begin="00:29:05.060" end="00:29:11.390" style="s2">that over fits in some sense to that</p>
+<p begin="00:29:08.030" end="00:29:14.560" style="s2">data that will get me more specifically</p>
+<p begin="00:29:11.390" end="00:29:17.620" style="s2">in contact with this particular</p>
+<p begin="00:29:14.560" end="00:29:21.830" style="s2">situation so this tends to emphasize</p>
+<p begin="00:29:17.620" end="00:29:30.170" style="s2">what is invariant this tends to get the</p>
+<p begin="00:29:21.830" end="00:29:33.290" style="s2">system to pick up on more variations so</p>
+<p begin="00:29:30.170" end="00:29:36.290" style="s2">this will make the system more cross</p>
+<p begin="00:29:33.290" end="00:29:38.270" style="s2">contextual it can move across contexts</p>
+<p begin="00:29:36.290" end="00:29:39.370" style="s2">because it can generalize this will tend</p>
+<p begin="00:29:38.270" end="00:29:44.720" style="s2">to make the system more</p>
+<p begin="00:29:39.370" end="00:29:46.190" style="s2">context-sensitive and of course you</p>
+<p begin="00:29:44.720" end="00:29:49.210" style="s2">don&#39;t want to maximize any one of these</p>
+<p begin="00:29:46.190" end="00:29:52.250" style="s2">you want them dynamically trading and</p>
+<p begin="00:29:49.210" end="00:29:54.950" style="s2">notice how they are is this the right</p>
+<p begin="00:29:52.250" end="00:29:56.510" style="s2">word I hope so obeying it sounds so</p>
+<p begin="00:29:54.950" end="00:30:00.620" style="s2">anthropomorphic notice how they&#39;re</p>
+<p begin="00:29:56.510" end="00:30:02.510" style="s2">obeying the logistical normativity</p>
+<p begin="00:30:00.620" end="00:30:06.290" style="s2">trading between efficiency and</p>
+<p begin="00:30:02.510" end="00:30:08.980" style="s2">resiliency and though there&#39;s various</p>
+<p begin="00:30:06.290" end="00:30:12.020" style="s2">ways of doing this right and there&#39;s</p>
+<p begin="00:30:08.980" end="00:30:15.410" style="s2">lots of interesting ways of engineering</p>
+<p begin="00:30:12.020" end="00:30:18.440" style="s2">this into but that&#39;s creating a virtual</p>
+<p begin="00:30:15.410" end="00:30:20.120" style="s2">engine engineering this creating sets of</p>
+<p begin="00:30:18.440" end="00:30:22.760" style="s2">constraints on this so this will</p>
+<p begin="00:30:20.120" end="00:30:27.050" style="s2">oscillate in the right way and optimize</p>
+<p begin="00:30:22.760" end="00:30:30.260" style="s2">that way and so the idea is when you&#39;ve</p>
+<p begin="00:30:27.050" end="00:30:34.250" style="s2">got this as something that&#39;s following</p>
+<p begin="00:30:30.260" end="00:30:37.640" style="s2">the completely internal bio economic</p>
+<p begin="00:30:34.250" end="00:30:40.100" style="s2">logistical norms it will result in the</p>
+<p begin="00:30:37.640" end="00:30:43.100" style="s2">evolution of sensorimotor interaction</p>
+<p begin="00:30:40.100" end="00:30:46.070" style="s2">that is going to make a system core an</p>
+<p begin="00:30:43.100" end="00:30:48.020" style="s2">organism constantly adaptively</p>
+<p begin="00:30:46.070" end="00:30:49.580" style="s2">like moving between being</p>
+<p begin="00:30:48.020" end="00:30:51.710" style="s2">general-purpose and being</p>
+<p begin="00:30:49.580" end="00:30:53.600" style="s2">special-purpose it will become very</p>
+<p begin="00:30:51.710" end="00:30:55.250" style="s2">adaptive now different organisms will be</p>
+<p begin="00:30:53.600" end="00:30:57.650" style="s2">biologically skewed one way or the other</p>
+<p begin="00:30:55.250" end="00:31:01.100" style="s2">even individuals will be biologically</p>
+<p begin="00:30:57.650" end="00:31:03.440" style="s2">skewed so there are people now proposing</p>
+<p begin="00:31:01.100" end="00:31:06.260" style="s2">for example right that we might</p>
+<p begin="00:31:03.440" end="00:31:09.440" style="s2">understand certain psychopathologies in</p>
+<p begin="00:31:06.260" end="00:31:12.710" style="s2">terms of some people are more biased</p>
+<p begin="00:31:09.440" end="00:31:15.320" style="s2">towards overfitting to particular izing</p>
+<p begin="00:31:12.710" end="00:31:18.530" style="s2">and some people are more biased towards</p>
+<p begin="00:31:15.320" end="00:31:21.560" style="s2">compressing and generalizing they these</p>
+<p begin="00:31:18.530" end="00:31:22.790" style="s2">people tend towards right see many</p>
+<p begin="00:31:21.560" end="00:31:25.460" style="s2">connections where there aren&#39;t</p>
+<p begin="00:31:22.790" end="00:31:35.600" style="s2">connections right and these people tend</p>
+<p begin="00:31:25.460" end="00:31:39.920" style="s2">to be very feature ly bound okay</p>
+<p begin="00:31:35.600" end="00:31:42.560" style="s2">what&#39;s another one another oh so this is</p>
+<p begin="00:31:39.920" end="00:31:49.810" style="s2">compression particularization right we</p>
+<p begin="00:31:42.560" end="00:31:54.500" style="s2">called we call this cognitive scope and</p>
+<p begin="00:31:49.810" end="00:31:59.350" style="s2">we called this applicability how much</p>
+<p begin="00:31:54.500" end="00:31:59.350" style="s2">you can apply your function or functions</p>
+<p begin="00:32:02.860" end="00:32:11.390" style="s2">and the idea is if you you can get scope</p>
+<p begin="00:32:07.360" end="00:32:12.890" style="s2">going the right way it will it will and</p>
+<p begin="00:32:11.390" end="00:32:14.750" style="s2">there&#39;s no other way of it will attach</p>
+<p begin="00:32:12.890" end="00:32:17.000" style="s2">to it will get coupled to it&#39;s not</p>
+<p begin="00:32:14.750" end="00:32:20.090" style="s2">representing it will get coupled to</p>
+<p begin="00:32:17.000" end="00:32:22.820" style="s2">right this pattern of interaction which</p>
+<p begin="00:32:20.090" end="00:32:26.500" style="s2">will fit you well to the dynamics of</p>
+<p begin="00:32:22.820" end="00:32:27.710" style="s2">change and stability in the environment</p>
+<p begin="00:32:26.500" end="00:32:33.490" style="s2">okay</p>
+<p begin="00:32:27.710" end="00:32:33.490" style="s2">what&#39;s another thing well</p>
+<p begin="00:32:34.090" end="00:32:39.280" style="s2">a lot of people are talking about this</p>
+<p begin="00:32:37.660" end="00:32:44.220" style="s2">you&#39;ll see people even talking about</p>
+<p begin="00:32:39.280" end="00:32:44.220" style="s2">this in AI very significantly</p>
+<p begin="00:32:50.100" end="00:32:59.470" style="s2">exploration versus right exploiting</p>
+<p begin="00:32:56.050" end="00:33:01.840" style="s2">versus exploration so here&#39;s another</p>
+<p begin="00:32:59.470" end="00:33:07.750" style="s2">trade-off this tends to be in terms of</p>
+<p begin="00:33:01.840" end="00:33:11.860" style="s2">the scope of your information this has</p>
+<p begin="00:33:07.750" end="00:33:14.860" style="s2">to do more with the timing so here&#39;s the</p>
+<p begin="00:33:11.860" end="00:33:16.480" style="s2">question should I stay here and try and</p>
+<p begin="00:33:14.860" end="00:33:19.360" style="s2">get as much as I can out of here</p>
+<p begin="00:33:16.480" end="00:33:23.350" style="s2">or should that&#39;s exploiting or should I</p>
+<p begin="00:33:19.360" end="00:33:26.760" style="s2">move and try and find new things new</p>
+<p begin="00:33:23.350" end="00:33:28.900" style="s2">potential sources of resource and reward</p>
+<p begin="00:33:26.760" end="00:33:30.670" style="s2">they&#39;re in a trade-off relationship</p>
+<p begin="00:33:28.900" end="00:33:33.220" style="s2">because the longer I stay here the more</p>
+<p begin="00:33:30.670" end="00:33:35.440" style="s2">opportunity cost I accrue but the more I</p>
+<p begin="00:33:33.220" end="00:33:37.030" style="s2">move around the less I can actually draw</p>
+<p begin="00:33:35.440" end="00:33:38.830" style="s2">from the environment so do I want to</p>
+<p begin="00:33:37.030" end="00:33:40.540" style="s2">maximize either no I want to trade</p>
+<p begin="00:33:38.830" end="00:33:45.520" style="s2">between them I&#39;m always trading between</p>
+<p begin="00:33:40.540" end="00:33:47.770" style="s2">exploiting and exploring there&#39;s</p>
+<p begin="00:33:45.520" end="00:33:53.580" style="s2">different strategies that might be at</p>
+<p begin="00:33:47.770" end="00:33:57.460" style="s2">work here I&#39;ve seen recent work in which</p>
+<p begin="00:33:53.580" end="00:34:00.040" style="s2">you this is you try to you reward when a</p>
+<p begin="00:33:57.460" end="00:34:01.930" style="s2">system doesn&#39;t make an error and then</p>
+<p begin="00:34:00.040" end="00:34:02.770" style="s2">you reward when it makes an error and of</p>
+<p begin="00:34:01.930" end="00:34:05.020" style="s2">course those are in a trade-off</p>
+<p begin="00:34:02.770" end="00:34:07.930" style="s2">relationship and this sort of makes it</p>
+<p begin="00:34:05.020" end="00:34:10.690" style="s2">more curious this makes it it more sort</p>
+<p begin="00:34:07.930" end="00:34:13.450" style="s2">of conscientious if I have to speak</p>
+<p begin="00:34:10.690" end="00:34:16.060" style="s2">anthropomorphic ly one way we thought</p>
+<p begin="00:34:13.450" end="00:34:19.680" style="s2">you could do this is you could trade so</p>
+<p begin="00:34:16.060" end="00:34:19.680" style="s2">one way you can do this is you can</p>
+<p begin="00:34:19.920" end="00:34:28.470" style="s2">reward error all right sorry reward</p>
+<p begin="00:34:25.570" end="00:34:28.470" style="s2">error reduction</p>
+<p begin="00:34:30.339" end="00:34:38.599" style="s2">reward error increase way we talked</p>
+<p begin="00:34:35.869" end="00:34:40.609" style="s2">about in the paper is you can trade-off</p>
+<p begin="00:34:38.599" end="00:34:43.820" style="s2">between what&#39;s called temporal</p>
+<p begin="00:34:40.609" end="00:34:48.859" style="s2">displacement learning and inhibition on</p>
+<p begin="00:34:43.820" end="00:34:51.500" style="s2">return I won&#39;t go into the dynamics</p>
+<p begin="00:34:48.859" end="00:34:53.929" style="s2">there what I can say is there&#39;s</p>
+<p begin="00:34:51.500" end="00:34:57.020" style="s2">different strategies being considered</p>
+<p begin="00:34:53.929" end="00:34:58.910" style="s2">and being implemented and and this is</p>
+<p begin="00:34:57.020" end="00:35:00.530" style="s2">cognitive tempering having to do with</p>
+<p begin="00:34:58.910" end="00:35:04.640" style="s2">both temper and the relationship between</p>
+<p begin="00:35:00.530" end="00:35:07.820" style="s2">Tom and time right and this has to do</p>
+<p begin="00:35:04.640" end="00:35:15.050" style="s2">with the project-- ability of your</p>
+<p begin="00:35:07.820" end="00:35:16.670" style="s2">processing now first of all a couple</p>
+<p begin="00:35:15.050" end="00:35:19.339" style="s2">things are we claiming that these are</p>
+<p begin="00:35:16.670" end="00:35:21.470" style="s2">exhaustive no they are not exhaustive</p>
+<p begin="00:35:19.339" end="00:35:24.410" style="s2">they are exemplary they&#39;re not</p>
+<p begin="00:35:21.470" end="00:35:26.510" style="s2">exhaustive they&#39;re exemplary of the ways</p>
+<p begin="00:35:24.410" end="00:35:30.080" style="s2">in which you can trade between</p>
+<p begin="00:35:26.510" end="00:35:33.200" style="s2">efficiency and resiliency and create</p>
+<p begin="00:35:30.080" end="00:35:35.750" style="s2">virtual engines that will adopt by</p>
+<p begin="00:35:33.200" end="00:35:38.630" style="s2">constrained by setting up systems of</p>
+<p begin="00:35:35.750" end="00:35:41.599" style="s2">constraints the sensorimotor loop the</p>
+<p begin="00:35:38.630" end="00:35:47.359" style="s2">interactions with the environment an</p>
+<p begin="00:35:41.599" end="00:35:50.119" style="s2">evolving manner so exploit wise</p>
+<p begin="00:35:47.359" end="00:35:51.290" style="s2">exploitation efficient because right I</p>
+<p begin="00:35:50.119" end="00:35:54.619" style="s2">don&#39;t have to expend very much I can</p>
+<p begin="00:35:51.290" end="00:35:57.970" style="s2">just stay here right but it depends on</p>
+<p begin="00:35:54.619" end="00:35:57.970" style="s2">things sort of staying the same</p>
+<p begin="00:35:58.119" end="00:36:01.609" style="s2">exploration is I have to expend a lot of</p>
+<p begin="00:36:00.109" end="00:36:03.560" style="s2">energy I have to move around and it&#39;s</p>
+<p begin="00:36:01.609" end="00:36:08.660" style="s2">only rewarding if there&#39;s significant</p>
+<p begin="00:36:03.560" end="00:36:10.130" style="s2">difference if I go to be and it&#39;s the</p>
+<p begin="00:36:08.660" end="00:36:14.210" style="s2">same as a you know what I should have</p>
+<p begin="00:36:10.130" end="00:36:16.520" style="s2">done state an a so do you see what&#39;s</p>
+<p begin="00:36:14.210" end="00:36:18.710" style="s2">happening all of these in different ways</p>
+<p begin="00:36:16.520" end="00:36:20.450" style="s2">this has to do with the applicability</p>
+<p begin="00:36:18.710" end="00:36:22.940" style="s2">the scope this has to do with the</p>
+<p begin="00:36:20.450" end="00:36:25.010" style="s2">projected bility that time but all of</p>
+<p begin="00:36:22.940" end="00:36:27.320" style="s2">these you&#39;re trading between that</p>
+<p begin="00:36:25.010" end="00:36:30.490" style="s2">sometimes what makes something relevant</p>
+<p begin="00:36:27.320" end="00:36:33.230" style="s2">is how it&#39;s the same how it&#39;s invariant</p>
+<p begin="00:36:30.490" end="00:36:37.450" style="s2">sometimes what makes something relevant</p>
+<p begin="00:36:33.230" end="00:36:41.540" style="s2">is how it&#39;s different how it changes and</p>
+<p begin="00:36:37.450" end="00:36:43.250" style="s2">you have to constantly shift the balance</p>
+<p begin="00:36:41.540" end="00:36:43.790" style="s2">between those because that&#39;s what</p>
+<p begin="00:36:43.250" end="00:36:48.670" style="s2">reality</p>
+<p begin="00:36:43.790" end="00:36:48.670" style="s2">he is doing that&#39;s what reality is doing</p>
+<p begin="00:36:58.079" end="00:37:04.440" style="s2">what&#39;s another one well another type of</p>
+<p begin="00:37:01.660" end="00:37:09.400" style="s2">one I think there are many of these</p>
+<p begin="00:37:04.440" end="00:37:11.109" style="s2">right and they are not going to act in</p>
+<p begin="00:37:09.400" end="00:37:14.470" style="s2">an arbitrary fashion because they are</p>
+<p begin="00:37:11.109" end="00:37:16.569" style="s2">all regulated by the trade off</p>
+<p begin="00:37:14.470" end="00:37:21.369" style="s2">normativity the opponent processing</p>
+<p begin="00:37:16.569" end="00:37:23.319" style="s2">between efficiency and resiliency notice</p>
+<p begin="00:37:21.369" end="00:37:25.509" style="s2">these are both what are called different</p>
+<p begin="00:37:23.319" end="00:37:28.599" style="s2">cost functions they are dealing again</p>
+<p begin="00:37:25.509" end="00:37:30.130" style="s2">with the bio economics how right how</p>
+<p begin="00:37:28.599" end="00:37:38.109" style="s2">you&#39;re dealing with the cost of</p>
+<p begin="00:37:30.130" end="00:37:43.059" style="s2">processing right so playing between the</p>
+<p begin="00:37:38.109" end="00:37:47.880" style="s2">costs and benefits of these etc but you</p>
+<p begin="00:37:43.059" end="00:37:54.849" style="s2">might also need to play between these</p>
+<p begin="00:37:47.880" end="00:37:58.349" style="s2">alright so it&#39;s also possible that we</p>
+<p begin="00:37:54.849" end="00:38:05.950" style="s2">have right what we call cognitive</p>
+<p begin="00:37:58.349" end="00:38:08.470" style="s2">prioritization in which you have cost</p>
+<p begin="00:38:05.950" end="00:38:12.220" style="s2">functions being played off against each</p>
+<p begin="00:38:08.470" end="00:38:13.509" style="s2">other different right so here&#39;s a cost</p>
+<p begin="00:38:12.220" end="00:38:16.299" style="s2">function here&#39;s a cost function they&#39;re</p>
+<p begin="00:38:13.509" end="00:38:18.789" style="s2">playing so cost function one right and</p>
+<p begin="00:38:16.299" end="00:38:21.789" style="s2">cost function two for playing off</p>
+<p begin="00:38:18.789" end="00:38:23.410" style="s2">against each other and you may and you</p>
+<p begin="00:38:21.789" end="00:38:26.650" style="s2">have to do you have to sort of decide</p>
+<p begin="00:38:23.410" end="00:38:27.970" style="s2">here and this overlaps with what&#39;s</p>
+<p begin="00:38:26.650" end="00:38:29.470" style="s2">called signal detection theory and other</p>
+<p begin="00:38:27.970" end="00:38:32.049" style="s2">things I won&#39;t get into you have to be</p>
+<p begin="00:38:29.470" end="00:38:36.099" style="s2">very flexible in how you gamble because</p>
+<p begin="00:38:32.049" end="00:38:39.369" style="s2">you may decide right that you will try</p>
+<p begin="00:38:36.099" end="00:38:42.999" style="s2">and sort of hedge your bets and activate</p>
+<p begin="00:38:39.369" end="00:38:44.769" style="s2">as many functions as you can or you may</p>
+<p begin="00:38:42.999" end="00:38:46.720" style="s2">try to go for the big thing and say no</p>
+<p begin="00:38:44.769" end="00:38:53.769" style="s2">I&#39;m going to give real a lot of priority</p>
+<p begin="00:38:46.720" end="00:38:56.230" style="s2">to just this function of course you</p>
+<p begin="00:38:53.769" end="00:38:59.430" style="s2">don&#39;t want that maximize you want</p>
+<p begin="00:38:56.230" end="00:38:59.430" style="s2">flexible gambling</p>
+<p begin="00:39:02.630" end="00:39:11.000" style="s2">sometimes you&#39;re focusing right</p>
+<p begin="00:39:07.650" end="00:39:11.000" style="s2">sometimes you&#39;re diversifying</p>
+<p begin="00:39:16.150" end="00:39:19.780" style="s2">you create a kind of integrative</p>
+<p begin="00:39:18.400" end="00:39:20.950" style="s2">function all of this can be and if you</p>
+<p begin="00:39:19.780" end="00:39:25.650" style="s2">check in the paper all of this can be</p>
+<p begin="00:39:20.950" end="00:39:29.230" style="s2">represented mathematically once again I</p>
+<p begin="00:39:25.650" end="00:39:30.910" style="s2">am NOT claiming this is exhaustive I&#39;m</p>
+<p begin="00:39:29.230" end="00:39:33.240" style="s2">claiming it&#39;s exemplary I think these</p>
+<p begin="00:39:30.910" end="00:39:37.450" style="s2">are important I think scope and time</p>
+<p begin="00:39:33.240" end="00:39:40.690" style="s2">right cost functions and prioritizing</p>
+<p begin="00:39:37.450" end="00:39:43.300" style="s2">between cost functions I think it&#39;s it&#39;s</p>
+<p begin="00:39:40.690" end="00:39:49.020" style="s2">very plausible that they are part and</p>
+<p begin="00:39:43.300" end="00:39:49.020" style="s2">parcel of our cognitive processing</p>
+<p begin="00:39:57.790" end="00:40:06.520" style="s2">what I want you to think about is I&#39;m</p>
+<p begin="00:40:03.960" end="00:40:08.110" style="s2">representing this abstractly think about</p>
+<p begin="00:40:06.520" end="00:40:09.690" style="s2">the each one of these you know here&#39;s</p>
+<p begin="00:40:08.110" end="00:40:13.780" style="s2">scope</p>
+<p begin="00:40:09.690" end="00:40:17.260" style="s2">here&#39;s tempering and then of course</p>
+<p begin="00:40:13.780" end="00:40:19.810" style="s2">there is right the prioritization that</p>
+<p begin="00:40:17.260" end="00:40:21.760" style="s2">is playing between them I want to think</p>
+<p begin="00:40:19.810" end="00:40:24.580" style="s2">it&#39;s the you think of this as a space</p>
+<p begin="00:40:21.760" end="00:40:28.750" style="s2">and these functions because they are all</p>
+<p begin="00:40:24.580" end="00:40:31.570" style="s2">being right governed regulated sorry</p>
+<p begin="00:40:28.750" end="00:40:33.490" style="s2">regulated in this fashion relevance</p>
+<p begin="00:40:31.570" end="00:40:36.640" style="s2">realization is always taking place in</p>
+<p begin="00:40:33.490" end="00:40:38.080" style="s2">this space and at this moment it&#39;s got</p>
+<p begin="00:40:36.640" end="00:40:40.510" style="s2">this particular value according to</p>
+<p begin="00:40:38.080" end="00:40:42.610" style="s2">tempering and scope and prioritization</p>
+<p begin="00:40:40.510" end="00:40:44.530" style="s2">and then it moves to this value and then</p>
+<p begin="00:40:42.610" end="00:40:47.130" style="s2">to this value into this value and then</p>
+<p begin="00:40:44.530" end="00:40:51.270" style="s2">to this value and then out to this value</p>
+<p begin="00:40:47.130" end="00:40:53.080" style="s2">it&#39;s moving around in a state space</p>
+<p begin="00:40:51.270" end="00:40:55.570" style="s2">that&#39;s what it is that&#39;s what&#39;s</p>
+<p begin="00:40:53.080" end="00:41:02.230" style="s2">happening when you&#39;re doing relevance</p>
+<p begin="00:40:55.570" end="00:41:04.030" style="s2">realization but although this is I</p>
+<p begin="00:41:02.230" end="00:41:05.980" style="s2">represented how this is dynamic I</p>
+<p begin="00:41:04.030" end="00:41:09.420" style="s2">haven&#39;t shown you how and why it would</p>
+<p begin="00:41:05.980" end="00:41:09.420" style="s2">be developmental</p>
+<p begin="00:41:14.890" end="00:41:19.750" style="s2">I&#39;m going to do this with just one of</p>
+<p begin="00:41:16.990" end="00:41:24.150" style="s2">these because I could teach an entire</p>
+<p begin="00:41:19.750" end="00:41:24.150" style="s2">course just on relevance realization</p>
+<p begin="00:41:28.950" end="00:41:34.930" style="s2">okay when you&#39;re doing data compression</p>
+<p begin="00:41:31.500" end="00:41:38.260" style="s2">you&#39;re emphasizing how you can integrate</p>
+<p begin="00:41:34.930" end="00:41:40.780" style="s2">information remember like the line of</p>
+<p begin="00:41:38.260" end="00:41:43.510" style="s2">best fit you&#39;re emphasizing integration</p>
+<p begin="00:41:40.780" end="00:41:47.530" style="s2">and because you&#39;re trying to pick up on</p>
+<p begin="00:41:43.510" end="00:41:50.260" style="s2">what&#39;s invariant and of course that&#39;s</p>
+<p begin="00:41:47.530" end="00:42:01.000" style="s2">going to be versus that&#39;s going to be</p>
+<p begin="00:41:50.260" end="00:42:02.980" style="s2">verse differentiation now I think you</p>
+<p begin="00:42:01.000" end="00:42:04.810" style="s2">can make a very clear argument that</p>
+<p begin="00:42:02.980" end="00:42:09.670" style="s2">these map very well on to the two</p>
+<p begin="00:42:04.810" end="00:42:14.470" style="s2">fundamental processes that are locked in</p>
+<p begin="00:42:09.670" end="00:42:16.480" style="s2">opponent processing that pIJ one of the</p>
+<p begin="00:42:14.470" end="00:42:19.720" style="s2">founding figures of developmental</p>
+<p begin="00:42:16.480" end="00:42:22.510" style="s2">psychology said driving said drive</p>
+<p begin="00:42:19.720" end="00:42:25.660" style="s2">development this is what prj called</p>
+<p begin="00:42:22.510" end="00:42:27.550" style="s2">assimilation assimilation is you have a</p>
+<p begin="00:42:25.660" end="00:42:29.500" style="s2">cognitive schema and what is a cognitive</p>
+<p begin="00:42:27.550" end="00:42:32.410" style="s2">schema again it is a set of constraints</p>
+<p begin="00:42:29.500" end="00:42:34.570" style="s2">and you have a cognitive schema right</p>
+<p begin="00:42:32.410" end="00:42:36.550" style="s2">and what that set of constraints do is</p>
+<p begin="00:42:34.570" end="00:42:39.190" style="s2">it makes you integrate it makes you</p>
+<p begin="00:42:36.550" end="00:42:40.930" style="s2">treat the new information as the same as</p>
+<p begin="00:42:39.190" end="00:42:45.850" style="s2">what you got you integrate it you</p>
+<p begin="00:42:40.930" end="00:42:48.190" style="s2">assimilate it that&#39;s compression what&#39;s</p>
+<p begin="00:42:45.850" end="00:42:49.960" style="s2">the opposite for Piaget well it&#39;s</p>
+<p begin="00:42:48.190" end="00:42:52.180" style="s2">accommodation and that&#39;s why of course</p>
+<p begin="00:42:49.960" end="00:42:54.220" style="s2">when people talk about exploratory</p>
+<p begin="00:42:52.180" end="00:42:56.440" style="s2">emotions like awe they invoke</p>
+<p begin="00:42:54.220" end="00:43:00.940" style="s2">accommodation as a Piaget ting principle</p>
+<p begin="00:42:56.440" end="00:43:05.980" style="s2">because it opens you up what does it do</p>
+<p begin="00:43:00.940" end="00:43:11.320" style="s2">it causes you to change your structure</p>
+<p begin="00:43:05.980" end="00:43:13.150" style="s2">your schemas what why do we do this well</p>
+<p begin="00:43:11.320" end="00:43:14.770" style="s2">because it&#39;s very efficient why do we</p>
+<p begin="00:43:13.150" end="00:43:17.440" style="s2">have to do this because if we just</p>
+<p begin="00:43:14.770" end="00:43:19.330" style="s2">pursue efficiency if we just assimilate</p>
+<p begin="00:43:17.440" end="00:43:21.460" style="s2">our machinery gets brittle and</p>
+<p begin="00:43:19.330" end="00:43:23.560" style="s2">distortive it has to go through</p>
+<p begin="00:43:21.460" end="00:43:25.600" style="s2">accommodation and how straight introduce</p>
+<p begin="00:43:23.560" end="00:43:27.759" style="s2">variation it has to rewire and</p>
+<p begin="00:43:25.600" end="00:43:30.789" style="s2">restructure itself so that it can</p>
+<p begin="00:43:27.759" end="00:43:35.769" style="s2">again respond to a more complex</p>
+<p begin="00:43:30.789" end="00:43:38.199" style="s2">environment so not only is relevance</p>
+<p begin="00:43:35.769" end="00:43:40.929" style="s2">realization inherently dynamic it is</p>
+<p begin="00:43:38.199" end="00:43:42.279" style="s2">inherently developmental when a system</p>
+<p begin="00:43:40.929" end="00:43:45.729" style="s2">is self-organizing</p>
+<p begin="00:43:42.279" end="00:43:48.519" style="s2">there is no deep distinction between its</p>
+<p begin="00:43:45.729" end="00:43:52.359" style="s2">function and its development it develops</p>
+<p begin="00:43:48.519" end="00:44:00.399" style="s2">by functioning but by functioning it</p>
+<p begin="00:43:52.359" end="00:44:04.539" style="s2">develops when a system is simultaneously</p>
+<p begin="00:44:00.399" end="00:44:10.389" style="s2">integrating and differentiating it is</p>
+<p begin="00:44:04.539" end="00:44:12.789" style="s2">complexify complexification a system is</p>
+<p begin="00:44:10.389" end="00:44:15.579" style="s2">highly complex if it is both highly</p>
+<p begin="00:44:12.789" end="00:44:18.459" style="s2">differentiated and highly integrated now</p>
+<p begin="00:44:15.579" end="00:44:23.199" style="s2">why but if I&#39;m highly differentiated I</p>
+<p begin="00:44:18.459" end="00:44:24.729" style="s2">can do many different things but if I do</p>
+<p begin="00:44:23.199" end="00:44:26.889" style="s2">many different things and I&#39;m not highly</p>
+<p begin="00:44:24.729" end="00:44:28.869" style="s2">integrated I will fly apart as a system</p>
+<p begin="00:44:26.889" end="00:44:30.159" style="s2">so I need to be both highly</p>
+<p begin="00:44:28.869" end="00:44:31.899" style="s2">differentiated so I can do many</p>
+<p begin="00:44:30.159" end="00:44:35.019" style="s2">different things and highly integrated</p>
+<p begin="00:44:31.899" end="00:44:41.739" style="s2">so I stay together as an integrated</p>
+<p begin="00:44:35.019" end="00:44:44.380" style="s2">system as systems complexify they self</p>
+<p begin="00:44:41.739" end="00:44:51.880" style="s2">transcend they go through qualitative</p>
+<p begin="00:44:44.380" end="00:44:53.559" style="s2">development let me give you an analogy</p>
+<p begin="00:44:51.880" end="00:44:55.569" style="s2">for this notice how I keep using</p>
+<p begin="00:44:53.559" end="00:44:59.169" style="s2">biological analogies that is not a</p>
+<p begin="00:44:55.569" end="00:45:02.049" style="s2">coincidence you started out life as a</p>
+<p begin="00:44:59.169" end="00:45:05.909" style="s2">zygote a fertilized cell a singular cell</p>
+<p begin="00:45:02.049" end="00:45:09.459" style="s2">the egg and the sperm your zygote</p>
+<p begin="00:45:05.909" end="00:45:12.009" style="s2">initially all that happens is the cells</p>
+<p begin="00:45:09.459" end="00:45:15.759" style="s2">just reproduce but then something very</p>
+<p begin="00:45:12.009" end="00:45:17.769" style="s2">interesting starts to happen you get</p>
+<p begin="00:45:15.759" end="00:45:19.449" style="s2">cellular differentiation some of the</p>
+<p begin="00:45:17.769" end="00:45:21.339" style="s2">cells start to become lung cells some of</p>
+<p begin="00:45:19.449" end="00:45:23.289" style="s2">them start to become I sell some of them</p>
+<p begin="00:45:21.339" end="00:45:25.719" style="s2">start to become organ cells but they</p>
+<p begin="00:45:23.289" end="00:45:32.619" style="s2">don&#39;t just differentiate they integrate</p>
+<p begin="00:45:25.719" end="00:45:39.809" style="s2">they literally self organ eyes into a</p>
+<p begin="00:45:32.619" end="00:45:39.809" style="s2">heart organ an i right</p>
+<p begin="00:45:40.060" end="00:45:46.910" style="s2">you developed through a process at least</p>
+<p begin="00:45:44.390" end="00:45:49.190" style="s2">biologically of biological</p>
+<p begin="00:45:46.910" end="00:45:51.980" style="s2">complexification what does that give you</p>
+<p begin="00:45:49.190" end="00:45:57.050" style="s2">that gives you emergent abilities you</p>
+<p begin="00:45:51.980" end="00:46:00.710" style="s2">transcend yourself as a system when I</p>
+<p begin="00:45:57.050" end="00:46:06.380" style="s2">was a zygote I could not vote I could</p>
+<p begin="00:46:00.710" end="00:46:09.650" style="s2">not give this lecture I now have those</p>
+<p begin="00:46:06.380" end="00:46:11.660" style="s2">functions in fact when I was a zygote I</p>
+<p begin="00:46:09.650" end="00:46:13.940" style="s2">couldn&#39;t learn what I needed to learn in</p>
+<p begin="00:46:11.660" end="00:46:16.580" style="s2">order to do this lecture I did not have</p>
+<p begin="00:46:13.940" end="00:46:18.470" style="s2">that qualitative competence I did not</p>
+<p begin="00:46:16.580" end="00:46:20.000" style="s2">have those functions but as a system</p>
+<p begin="00:46:18.470" end="00:46:22.070" style="s2">complexified notice what I&#39;m showing you</p>
+<p begin="00:46:20.000" end="00:46:25.610" style="s2">as a system is going through relevance</p>
+<p begin="00:46:22.070" end="00:46:28.010" style="s2">realization it is also complexified it</p>
+<p begin="00:46:25.610" end="00:46:29.720" style="s2">is getting new emergent abilities of how</p>
+<p begin="00:46:28.010" end="00:46:32.990" style="s2">we can interact with the environment and</p>
+<p begin="00:46:29.720" end="00:46:37.160" style="s2">then extend that relevance realization</p>
+<p begin="00:46:32.990" end="00:46:39.620" style="s2">into that emergent self transcendence if</p>
+<p begin="00:46:37.160" end="00:46:42.620" style="s2">you&#39;re a relevant realizing thing you&#39;re</p>
+<p begin="00:46:39.620" end="00:46:44.090" style="s2">inherently dynamical self-organizing</p>
+<p begin="00:46:42.620" end="00:46:45.980" style="s2">autopoietic things which means you an</p>
+<p begin="00:46:44.090" end="00:46:48.100" style="s2">inherently developmental thing which</p>
+<p begin="00:46:45.980" end="00:46:51.370" style="s2">means you are an inherently</p>
+<p begin="00:46:48.100" end="00:46:51.370" style="s2">self-transcending thing</p>
+<p begin="00:47:08.099" end="00:47:17.339" style="s2">I want to make clear an argument that</p>
+<p begin="00:47:15.180" end="00:47:18.839" style="s2">might well I want to respond to a</p>
+<p begin="00:47:17.339" end="00:47:21.359" style="s2">potential argument that you might have</p>
+<p begin="00:47:18.839" end="00:47:23.039" style="s2">was like well I get all of this but</p>
+<p begin="00:47:21.359" end="00:47:24.479" style="s2">maybe relevance realization is a bunch</p>
+<p begin="00:47:23.039" end="00:47:27.509" style="s2">of many different functions first of all</p>
+<p begin="00:47:24.479" end="00:47:29.819" style="s2">I I&#39;m not disagreeing with the idea that</p>
+<p begin="00:47:27.509" end="00:47:32.519" style="s2">a lot of our intelligence is carried</p>
+<p begin="00:47:29.819" end="00:47:34.140" style="s2">with heuristics and some of those are</p>
+<p begin="00:47:32.519" end="00:47:35.459" style="s2">more special-purpose and some of the</p>
+<p begin="00:47:34.140" end="00:47:37.190" style="s2">more general-purpose and we need to</p>
+<p begin="00:47:35.459" end="00:47:39.479" style="s2">learn how to trade off between them</p>
+<p begin="00:47:37.190" end="00:47:43.009" style="s2">however I do want to claim that</p>
+<p begin="00:47:39.479" end="00:47:47.099" style="s2">relevance realization is a unified</p>
+<p begin="00:47:43.009" end="00:47:49.859" style="s2">phenomena and I&#39;m going to do this in a</p>
+<p begin="00:47:47.099" end="00:47:50.910" style="s2">two-part way the first is to first</p>
+<p begin="00:47:49.859" end="00:47:52.559" style="s2">assert and then I will later</p>
+<p begin="00:47:50.910" end="00:47:53.880" style="s2">substantiate that when we&#39;re talking</p>
+<p begin="00:47:52.559" end="00:47:55.079" style="s2">about general intelligence in fact</p>
+<p begin="00:47:53.880" end="00:47:56.729" style="s2">that&#39;s what this whole argument is bit</p>
+<p begin="00:47:55.079" end="00:47:58.829" style="s2">we&#39;re talking about relevance</p>
+<p begin="00:47:56.729" end="00:48:01.650" style="s2">realization now this goes to work I did</p>
+<p begin="00:47:58.829" end="00:48:03.150" style="s2">with Leo Ferraro who was a psychometrist</p>
+<p begin="00:48:01.650" end="00:48:09.479" style="s2">somebody who actually does psychometric</p>
+<p begin="00:48:03.150" end="00:48:11.969" style="s2">testing on people&#39;s intelligence and one</p>
+<p begin="00:48:09.479" end="00:48:16.949" style="s2">of the things we know from Spearman way</p>
+<p begin="00:48:11.969" end="00:48:18.630" style="s2">back in the 20s right is in he</p>
+<p begin="00:48:16.949" end="00:48:20.309" style="s2">discovered what&#39;s called the general</p>
+<p begin="00:48:18.630" end="00:48:21.869" style="s2">factor of intelligence sometimes called</p>
+<p begin="00:48:20.309" end="00:48:23.789" style="s2">general intelligence and sometimes</p>
+<p begin="00:48:21.869" end="00:48:25.499" style="s2">there&#39;s a debate about whether we should</p>
+<p begin="00:48:23.789" end="00:48:28.259" style="s2">identify those or not I&#39;m not going to</p>
+<p begin="00:48:25.499" end="00:48:33.239" style="s2">get into that right now right what</p>
+<p begin="00:48:28.259" end="00:48:34.440" style="s2">Spearman found was right that how kids</p>
+<p begin="00:48:33.239" end="00:48:35.579" style="s2">were doing in math was actually</p>
+<p begin="00:48:34.440" end="00:48:37.199" style="s2">predictive of how they were doing in</p>
+<p begin="00:48:35.579" end="00:48:39.299" style="s2">English and even how they were doing</p>
+<p begin="00:48:37.199" end="00:48:43.140" style="s2">contrary to what our our culture says</p>
+<p begin="00:48:39.299" end="00:48:46.319" style="s2">how they&#39;re doing in sports there&#39;s</p>
+<p begin="00:48:43.140" end="00:48:50.160" style="s2">right how I&#39;m doing in all these</p>
+<p begin="00:48:46.319" end="00:48:51.930" style="s2">different tasks was how I did one a did</p>
+<p begin="00:48:50.160" end="00:48:53.809" style="s2">an a was predictive at how I did in B</p>
+<p begin="00:48:51.930" end="00:49:00.299" style="s2">and vice-versa</p>
+<p begin="00:48:53.809" end="00:49:02.459" style="s2">right this is a what&#39;s called a strong</p>
+<p begin="00:49:00.299" end="00:49:05.789" style="s2">positive manifold there is this huge</p>
+<p begin="00:49:02.459" end="00:49:07.739" style="s2">right inter predictability between how</p>
+<p begin="00:49:05.789" end="00:49:10.319" style="s2">you do an all these very many different</p>
+<p begin="00:49:07.739" end="00:49:11.969" style="s2">tasks that is your general intelligence</p>
+<p begin="00:49:10.319" end="00:49:14.069" style="s2">many people would argue and I would</p>
+<p begin="00:49:11.969" end="00:49:15.930" style="s2">agree that this is the capacity that</p>
+<p begin="00:49:14.069" end="00:49:18.349" style="s2">underwrites you being a general problem</p>
+<p begin="00:49:15.930" end="00:49:18.349" style="s2">solver</p>
+<p begin="00:49:21.050" end="00:49:25.530" style="s2">often when we&#39;re testing for</p>
+<p begin="00:49:23.730" end="00:49:30.510" style="s2">intelligence were chest testing for</p>
+<p begin="00:49:25.530" end="00:49:35.240" style="s2">therefore general intelligence I&#39;ll put</p>
+<p begin="00:49:30.510" end="00:49:38.400" style="s2">the panel up as we go along oh just what</p>
+<p begin="00:49:35.240" end="00:49:43.200" style="s2">Leo showed me we made a good argument is</p>
+<p begin="00:49:38.400" end="00:49:45.600" style="s2">that the things we study when we&#39;re</p>
+<p begin="00:49:43.200" end="00:49:47.400" style="s2">studying right like when you&#39;re doing</p>
+<p begin="00:49:45.600" end="00:49:49.820" style="s2">something like the Wechsler test or</p>
+<p begin="00:49:47.400" end="00:49:53.780" style="s2">something that psychometric test right</p>
+<p begin="00:49:49.820" end="00:49:56.430" style="s2">so you will test things like a</p>
+<p begin="00:49:53.780" end="00:50:00.660" style="s2">comprehension the comprehension subset</p>
+<p begin="00:49:56.430" end="00:50:03.510" style="s2">and of course you&#39;ll concentrate on</p>
+<p begin="00:50:00.660" end="00:50:06.450" style="s2">similarity judgments right you&#39;ll also</p>
+<p begin="00:50:03.510" end="00:50:09.570" style="s2">do what right the similarities of</p>
+<p begin="00:50:06.450" end="00:50:11.180" style="s2">pictures other people have talked about</p>
+<p begin="00:50:09.570" end="00:50:14.430" style="s2">your ability to adapt to unpredictable</p>
+<p begin="00:50:11.180" end="00:50:16.320" style="s2">environments there&#39;s other work by</p>
+<p begin="00:50:14.430" end="00:50:19.290" style="s2">governments and in others the ability to</p>
+<p begin="00:50:16.320" end="00:50:22.200" style="s2">deal with complex workplaces what I call</p>
+<p begin="00:50:19.290" end="00:50:25.290" style="s2">G loaded that require a lot now when you</p>
+<p begin="00:50:22.200" end="00:50:27.210" style="s2">trace these back right what this points</p>
+<p begin="00:50:25.290" end="00:50:30.210" style="s2">to is your capacity for problem</p>
+<p begin="00:50:27.210" end="00:50:31.650" style="s2">formulation the similarity judgments in</p>
+<p begin="00:50:30.210" end="00:50:35.780" style="s2">what are called the adduction abilities</p>
+<p begin="00:50:31.650" end="00:50:38.970" style="s2">the ability to draw out latent patterns</p>
+<p begin="00:50:35.780" end="00:50:40.890" style="s2">right this of course is similarity</p>
+<p begin="00:50:38.970" end="00:50:51.890" style="s2">judgment this is a similarity judgment</p>
+<p begin="00:50:40.890" end="00:50:51.890" style="s2">and pattern finding pattern finding</p>
+<p begin="00:50:54.800" end="00:51:01.310" style="s2">right the complex you know this is</p>
+<p begin="00:50:58.860" end="00:51:04.970" style="s2">basically dealing with very ill-defined</p>
+<p begin="00:51:01.310" end="00:51:04.970" style="s2">dynamic situations</p>
+<p begin="00:51:10.770" end="00:51:20.540" style="s2">the thing is right and adapting to</p>
+<p begin="00:51:16.880" end="00:51:20.540" style="s2">complex environments</p>
+<p begin="00:51:30.930" end="00:51:34.319" style="s2">so this is general intelligence this is</p>
+<p begin="00:51:32.760" end="00:51:35.849" style="s2">how we generally tempted to general</p>
+<p begin="00:51:34.319" end="00:51:38.700" style="s2">intelligence we test people across all</p>
+<p begin="00:51:35.849" end="00:51:40.500" style="s2">these different kinds of tasks and what</p>
+<p begin="00:51:38.700" end="00:51:41.880" style="s2">we find is a strong predictive manifold</p>
+<p begin="00:51:40.500" end="00:51:43.829" style="s2">there&#39;s some general ability behind us</p>
+<p begin="00:51:41.880" end="00:51:46.380" style="s2">but notice these problem formulation</p>
+<p begin="00:51:43.829" end="00:51:47.970" style="s2">similarity simply you know similarity</p>
+<p begin="00:51:46.380" end="00:51:50.130" style="s2">judgments pattern finding dealing with</p>
+<p begin="00:51:47.970" end="00:51:52.380" style="s2">ill-defined dynamic situations adapting</p>
+<p begin="00:51:50.130" end="00:51:55.740" style="s2">to complex environments that&#39;s exactly</p>
+<p begin="00:51:52.380" end="00:52:01.020" style="s2">all the places that I&#39;ve argued we need</p>
+<p begin="00:51:55.740" end="00:52:02.369" style="s2">relevance realization relevance</p>
+<p begin="00:52:01.020" end="00:52:06.839" style="s2">realization what I would argue is</p>
+<p begin="00:52:02.369" end="00:52:09.270" style="s2">actually the underlying ability of your</p>
+<p begin="00:52:06.839" end="00:52:13.460" style="s2">general intelligence that&#39;s how we test</p>
+<p begin="00:52:09.270" end="00:52:15.690" style="s2">for it this is the things that came out</p>
+<p begin="00:52:13.460" end="00:52:18.539" style="s2">right and you can even see you know</p>
+<p begin="00:52:15.690" end="00:52:22.079" style="s2">comprehension aspects in here all kinds</p>
+<p begin="00:52:18.539" end="00:52:24.930" style="s2">of things so relevance realization I</p>
+<p begin="00:52:22.079" end="00:52:29.069" style="s2">think is a very good candidate for your</p>
+<p begin="00:52:24.930" end="00:52:31.980" style="s2">general intelligence and so insofar as</p>
+<p begin="00:52:29.069" end="00:52:35.220" style="s2">general intelligence is a unified thing</p>
+<p begin="00:52:31.980" end="00:52:36.539" style="s2">and we have this is this look this is</p>
+<p begin="00:52:35.220" end="00:52:40.529" style="s2">one of the most robust findings in</p>
+<p begin="00:52:36.539" end="00:52:42.329" style="s2">psychology it&#39;s it just keeps happening</p>
+<p begin="00:52:40.529" end="00:52:44.099" style="s2">though there&#39;s always debates about it</p>
+<p begin="00:52:42.329" end="00:52:45.900" style="s2">ba bla bla ba and people don&#39;t like the</p>
+<p begin="00:52:44.099" end="00:52:46.920" style="s2">psychometric measures of intelligence</p>
+<p begin="00:52:45.900" end="00:52:48.539" style="s2">and I think that&#39;s because they&#39;re</p>
+<p begin="00:52:46.920" end="00:52:50.069" style="s2">confusing intelligence and relevance and</p>
+<p begin="00:52:48.539" end="00:52:52.680" style="s2">wisdom we&#39;ll come back to that they the</p>
+<p begin="00:52:50.069" end="00:52:55.289" style="s2">thing is this is a very powerful measure</p>
+<p begin="00:52:52.680" end="00:52:56.190" style="s2">if I it it&#39;s reliable this is from the</p>
+<p begin="00:52:55.289" end="00:52:59.160" style="s2">1920s</p>
+<p begin="00:52:56.190" end="00:53:00.900" style="s2">then this keeps getting replicated this</p>
+<p begin="00:52:59.160" end="00:53:04.049" style="s2">is not going through a replication</p>
+<p begin="00:53:00.900" end="00:53:06.000" style="s2">crisis and if I had to know one thing</p>
+<p begin="00:53:04.049" end="00:53:08.940" style="s2">about you in order to try and predict</p>
+<p begin="00:53:06.000" end="00:53:12.750" style="s2">you the one thing that outperforms</p>
+<p begin="00:53:08.940" end="00:53:14.160" style="s2">anything else is knowing this this will</p>
+<p begin="00:53:12.750" end="00:53:15.690" style="s2">tell me how you do in school how you do</p>
+<p begin="00:53:14.160" end="00:53:17.849" style="s2">in your relationships how well you treat</p>
+<p begin="00:53:15.690" end="00:53:20.880" style="s2">your health how long right you&#39;re likely</p>
+<p begin="00:53:17.849" end="00:53:24.150" style="s2">to live whether or not you&#39;re going to</p>
+<p begin="00:53:20.880" end="00:53:29.069" style="s2">get a job this crushes how well you do</p>
+<p begin="00:53:24.150" end="00:53:31.400" style="s2">in a in an interview in predicting</p>
+<p begin="00:53:29.069" end="00:53:33.690" style="s2">whether or not you&#39;ll get and keep a job</p>
+<p begin="00:53:31.400" end="00:53:35.339" style="s2">is this the only thing that&#39;s predictive</p>
+<p begin="00:53:33.690" end="00:53:36.960" style="s2">of you know and I&#39;m going to argue later</p>
+<p begin="00:53:35.339" end="00:53:39.960" style="s2">that intelligence and rationality are</p>
+<p begin="00:53:36.960" end="00:53:43.380" style="s2">not identical but is this a real thing</p>
+<p begin="00:53:39.960" end="00:53:44.520" style="s2">and is it a unified thing yes and can we</p>
+<p begin="00:53:43.380" end="00:53:47.580" style="s2">make sense of the</p>
+<p begin="00:53:44.520" end="00:53:49.200" style="s2">this as relevance realization yes is</p>
+<p begin="00:53:47.580" end="00:53:51.390" style="s2">well of its realization there for a</p>
+<p begin="00:53:49.200" end="00:53:54.690" style="s2">unified thing yes</p>
+<p begin="00:53:51.390" end="00:53:56.820" style="s2">so relevance realization is your general</p>
+<p begin="00:53:54.690" end="00:53:58.440" style="s2">intelligence and what I&#39;m arguing at</p>
+<p begin="00:53:56.820" end="00:54:00.060" style="s2">least that&#39;s what I&#39;m arguing and that</p>
+<p begin="00:53:58.440" end="00:54:03.480" style="s2">your general intelligence can be</p>
+<p begin="00:54:00.060" end="00:54:07.800" style="s2">understood as a dynamic developmental</p>
+<p begin="00:54:03.480" end="00:54:08.340" style="s2">evolution of your sensory motor fitted</p>
+<p begin="00:54:07.800" end="00:54:12.240" style="s2">miss</p>
+<p begin="00:54:08.340" end="00:54:16.260" style="s2">is regulated by virtual engines that are</p>
+<p begin="00:54:12.240" end="00:54:18.630" style="s2">ultimately regulated by the logistical</p>
+<p begin="00:54:16.260" end="00:54:22.610" style="s2">normativity of the opponent processing</p>
+<p begin="00:54:18.630" end="00:54:22.610" style="s2">between efficiency and resiliency</p>
+<p begin="00:54:34.280" end="00:54:41.770" style="s2">so we&#39;ve already integrated a lot of</p>
+<p begin="00:54:37.130" end="00:54:45.020" style="s2">psychology and the beginnings of biology</p>
+<p begin="00:54:41.770" end="00:54:46.670" style="s2">in neuroscience I want to next and we&#39;ve</p>
+<p begin="00:54:45.020" end="00:54:48.290" style="s2">definitely integrated with some of the</p>
+<p begin="00:54:46.670" end="00:54:50.810" style="s2">best insights from artificial</p>
+<p begin="00:54:48.290" end="00:54:53.360" style="s2">intelligence what I want to do next time</p>
+<p begin="00:54:50.810" end="00:54:56.770" style="s2">to finish off this argument is to show</p>
+<p begin="00:54:53.360" end="00:55:00.320" style="s2">how this might be realized in dynamical</p>
+<p begin="00:54:56.770" end="00:55:02.420" style="s2">processes within the brain and how that</p>
+<p begin="00:55:00.320" end="00:55:05.600" style="s2">is lining up with some of our</p>
+<p begin="00:55:02.420" end="00:55:09.740" style="s2">cutting-edge ideas I&#39;m spending so much</p>
+<p begin="00:55:05.600" end="00:55:12.020" style="s2">time on this because this is the</p>
+<p begin="00:55:09.740" end="00:55:17.210" style="s2">linchpin argument of the cognitive</p>
+<p begin="00:55:12.020" end="00:55:21.790" style="s2">science side of the whole series try to</p>
+<p begin="00:55:17.210" end="00:55:27.050" style="s2">show you how everything feeds in to</p>
+<p begin="00:55:21.790" end="00:55:30.320" style="s2">relevance realization if I can give you</p>
+<p begin="00:55:27.050" end="00:55:33.020" style="s2">a good scientific explanation of this in</p>
+<p begin="00:55:30.320" end="00:55:35.660" style="s2">terms of psychology artificial</p>
+<p begin="00:55:33.020" end="00:55:39.590" style="s2">intelligence biology neuro scientific</p>
+<p begin="00:55:35.660" end="00:55:40.850" style="s2">processing then it is legitimate and</p>
+<p begin="00:55:39.590" end="00:55:42.950" style="s2">plausible to say that I have a</p>
+<p begin="00:55:40.850" end="00:55:45.380" style="s2">naturalistic explanation of that and if</p>
+<p begin="00:55:42.950" end="00:55:48.290" style="s2">the history is and right pointing</p>
+<p begin="00:55:45.380" end="00:55:53.270" style="s2">towards this what I&#39;m going to then have</p>
+<p begin="00:55:48.290" end="00:55:55.160" style="s2">the means to do is to argue how this and</p>
+<p begin="00:55:53.270" end="00:55:59.810" style="s2">we&#39;ve already seen it how it&#39;s probably</p>
+<p begin="00:55:55.160" end="00:56:02.240" style="s2">embedded in your procedural respectable</p>
+<p begin="00:55:59.810" end="00:56:05.450" style="s2">participatory knowing it&#39;s embedded in</p>
+<p begin="00:56:02.240" end="00:56:07.070" style="s2">your trans jected dynamical coupling to</p>
+<p begin="00:56:05.450" end="00:56:08.630" style="s2">the environment and the affordance of</p>
+<p begin="00:56:07.070" end="00:56:10.490" style="s2">the age and arena relationship the</p>
+<p begin="00:56:08.630" end="00:56:12.650" style="s2">connectivity between mind and body the</p>
+<p begin="00:56:10.490" end="00:56:14.000" style="s2">connectivity between mind and world</p>
+<p begin="00:56:12.650" end="00:56:16.790" style="s2">we&#39;ve seen it central to your</p>
+<p begin="00:56:14.000" end="00:56:18.470" style="s2">intelligence central to right your</p>
+<p begin="00:56:16.790" end="00:56:22.340" style="s2">functionality of your consciousness this</p>
+<p begin="00:56:18.470" end="00:56:25.430" style="s2">is going to allow me to explain so much</p>
+<p begin="00:56:22.340" end="00:56:26.840" style="s2">we&#39;ve already seen it as affording an</p>
+<p begin="00:56:25.430" end="00:56:32.960" style="s2">account of why you&#39;re inherently</p>
+<p begin="00:56:26.840" end="00:56:34.940" style="s2">self-transcending we&#39;ll see that we can</p>
+<p begin="00:56:32.960" end="00:56:36.530" style="s2">use this machinery to come up with an</p>
+<p begin="00:56:34.940" end="00:56:39.290" style="s2">account of the relationship between</p>
+<p begin="00:56:36.530" end="00:56:41.870" style="s2">intelligence rationality and wisdom we</p>
+<p begin="00:56:39.290" end="00:56:44.690" style="s2">will be able to explain so much of</p>
+<p begin="00:56:41.870" end="00:56:47.220" style="s2">what&#39;s at the center of human</p>
+<p begin="00:56:44.690" end="00:56:51.210" style="s2">spirituality we will have a straw</p>
+<p begin="00:56:47.220" end="00:56:56.280" style="s2">plausibility argument for how we can</p>
+<p begin="00:56:51.210" end="00:57:00.000" style="s2">integrate cognitive science and human</p>
+<p begin="00:56:56.280" end="00:57:04.170" style="s2">spirituality in a way that may help us</p>
+<p begin="00:57:00.000" end="00:57:05.520" style="s2">to powerfully address the meeting crisis</p>
+<p begin="00:57:04.170" end="00:57:06.270" style="s2">thank you very much for your time and</p>
+<p begin="00:57:05.520" end="00:57:19.880" style="s2">attention</p>
+<p begin="00:57:06.270" end="00:57:21.940" style="s2">[Music]</p>
+<p begin="00:57:19.880" end="00:57:21.940" style="s2">you</p>
+<p begin="00:57:24.069" end="00:57:29.669" style="s2">you</p>
+<p begin="00:57:25.070" end="00:57:29.669" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

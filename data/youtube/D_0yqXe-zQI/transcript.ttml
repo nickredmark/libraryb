@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:09.650" end="00:00:15.990" style="s2">hey folks welcome to the Dark Horse</p>
+<p begin="00:00:13.230" end="00:00:18.810" style="s2">podcast livestream this is what our 8th</p>
+<p begin="00:00:15.990" end="00:00:21.330" style="s2">sorry this is our 8th livestream I am</p>
+<p begin="00:00:18.810" end="00:00:24.869" style="s2">sitting with dr. Heather huiying as has</p>
+<p begin="00:00:21.330" end="00:00:27.630" style="s2">become our tradition we have been</p>
+<p begin="00:00:24.869" end="00:00:31.140" style="s2">fending off technical difficulties of</p>
+<p begin="00:00:27.630" end="00:00:33.570" style="s2">many different kinds and I would say at</p>
+<p begin="00:00:31.140" end="00:00:35.489" style="s2">this point aside from the audio the</p>
+<p begin="00:00:33.570" end="00:00:37.620" style="s2">video and our connection to the internet</p>
+<p begin="00:00:35.489" end="00:00:39.540" style="s2">everything is going smoothly smooth</p>
+<p begin="00:00:37.620" end="00:00:41.910" style="s2">sailing smooth other than those rather</p>
+<p begin="00:00:39.540" end="00:00:43.860" style="s2">than those three issues I wouldn&#39;t call</p>
+<p begin="00:00:41.910" end="00:00:46.860" style="s2">them trivial but you know they&#39;re part</p>
+<p begin="00:00:43.860" end="00:00:48.780" style="s2">of it all right so we want to start with</p>
+<p begin="00:00:46.860" end="00:00:50.449" style="s2">logistics on how we&#39;re gonna be dealing</p>
+<p begin="00:00:48.780" end="00:00:54.329" style="s2">with the Super Show yes why don&#39;t you</p>
+<p begin="00:00:50.449" end="00:00:57.030" style="s2">take lead on I will try so we have been</p>
+<p begin="00:00:54.329" end="00:00:58.980" style="s2">receiving many excellent and some not so</p>
+<p begin="00:00:57.030" end="00:01:01.590" style="s2">excellent but mostly excellent super</p>
+<p begin="00:00:58.980" end="00:01:04.199" style="s2">shot questions but it has become a bit</p>
+<p begin="00:01:01.590" end="00:01:07.290" style="s2">onerous and we are not we&#39;re giving</p>
+<p begin="00:01:04.199" end="00:01:08.520" style="s2">short shrift to too many of them because</p>
+<p begin="00:01:07.290" end="00:01:12.299" style="s2">we have been trying to we&#39;ve been</p>
+<p begin="00:01:08.520" end="00:01:16.170" style="s2">reading all of them so this time we are</p>
+<p begin="00:01:12.299" end="00:01:18.090" style="s2">going to try another strategy which is</p>
+<p begin="00:01:16.170" end="00:01:19.920" style="s2">those super checked questions that come</p>
+<p begin="00:01:18.090" end="00:01:22.409" style="s2">in in this first live stream where we</p>
+<p begin="00:01:19.920" end="00:01:24.299" style="s2">are just talking to each other we will</p>
+<p begin="00:01:22.409" end="00:01:27.030" style="s2">look at over the break between the two</p>
+<p begin="00:01:24.299" end="00:01:29.610" style="s2">live streams and prioritize them based</p>
+<p begin="00:01:27.030" end="00:01:32.850" style="s2">on both monetary amount and then try to</p>
+<p begin="00:01:29.610" end="00:01:33.900" style="s2">do a very very first pass at you know</p>
+<p begin="00:01:32.850" end="00:01:35.520" style="s2">what questions are particularly</p>
+<p begin="00:01:33.900" end="00:01:37.950" style="s2">interesting and we&#39;ll spend a half an</p>
+<p begin="00:01:35.520" end="00:01:40.079" style="s2">hour only on those questions from the</p>
+<p begin="00:01:37.950" end="00:01:42.210" style="s2">first that come in during this first</p>
+<p begin="00:01:40.079" end="00:01:43.860" style="s2">live stream and if we don&#39;t get to all</p>
+<p begin="00:01:42.210" end="00:01:45.810" style="s2">of them which we probably won&#39;t that&#39;s</p>
+<p begin="00:01:43.860" end="00:01:47.970" style="s2">that&#39;s unfortunate and then we&#39;ll spend</p>
+<p begin="00:01:45.810" end="00:01:49.799" style="s2">a half an hour on the super chat</p>
+<p begin="00:01:47.970" end="00:01:51.390" style="s2">questions that come in during the next</p>
+<p begin="00:01:49.799" end="00:01:54.090" style="s2">live stream which we will probably have</p>
+<p begin="00:01:51.390" end="00:01:56.340" style="s2">to take in as as they come in so we&#39;re</p>
+<p begin="00:01:54.090" end="00:01:58.560" style="s2">going to limit the second live stream</p>
+<p begin="00:01:56.340" end="00:02:00.780" style="s2">the Q&amp;A to an hour and see how that goes</p>
+<p begin="00:01:58.560" end="00:02:03.180" style="s2">and this is a moving target we&#39;re gonna</p>
+<p begin="00:02:00.780" end="00:02:04.770" style="s2">see how this goes this time and maybe</p>
+<p begin="00:02:03.180" end="00:02:07.170" style="s2">modify it next time it&#39;s a learning</p>
+<p begin="00:02:04.770" end="00:02:10.770" style="s2">process and a live-fire exercise all</p>
+<p begin="00:02:07.170" end="00:02:12.910" style="s2">wrapped into one so in any case also do</p>
+<p begin="00:02:10.770" end="00:02:14.800" style="s2">let us know we don&#39;t see every comment</p>
+<p begin="00:02:12.910" end="00:02:16.390" style="s2">do let us know what&#39;s working what&#39;s not</p>
+<p begin="00:02:14.800" end="00:02:18.430" style="s2">working we discovered some sound</p>
+<p begin="00:02:16.390" end="00:02:19.780" style="s2">problems last time hopefully you will</p>
+<p begin="00:02:18.430" end="00:02:22.210" style="s2">find that they have been successfully</p>
+<p begin="00:02:19.780" end="00:02:25.540" style="s2">addressed this time but every piece of</p>
+<p begin="00:02:22.210" end="00:02:26.830" style="s2">information is useful to us and we&#39;re</p>
+<p begin="00:02:25.540" end="00:02:29.530" style="s2">working on it and we&#39;re working on it</p>
+<p begin="00:02:26.830" end="00:02:31.270" style="s2">alone because obviously nobody is coming</p>
+<p begin="00:02:29.530" end="00:02:34.000" style="s2">to anybody&#39;s house to troubleshoot stuff</p>
+<p begin="00:02:31.270" end="00:02:37.600" style="s2">so we we being the two of us on-screen</p>
+<p begin="00:02:34.000" end="00:02:39.610" style="s2">but mostly Bret and our wonderful now 16</p>
+<p begin="00:02:37.600" end="00:02:41.380" style="s2">year old son Zachary Weinstein who&#39;s</p>
+<p begin="00:02:39.610" end="00:02:43.420" style="s2">doing the production end of things</p>
+<p begin="00:02:41.380" end="00:02:46.030" style="s2">Zachary is on the production end and</p>
+<p begin="00:02:43.420" end="00:02:47.950" style="s2">Toby is on the wall fishing and he&#39;s</p>
+<p begin="00:02:46.030" end="00:02:49.870" style="s2">becoming an expert at wall fishing which</p>
+<p begin="00:02:47.950" end="00:02:51.460" style="s2">makes me very proud you keep on assuring</p>
+<p begin="00:02:49.870" end="00:02:53.320" style="s2">me you&#39;ve doing no wall lobstering but I</p>
+<p begin="00:02:51.460" end="00:02:55.420" style="s2">keep hoping we have not been forced to</p>
+<p begin="00:02:53.320" end="00:02:59.140" style="s2">wall lobstering yeah alright so I do</p>
+<p begin="00:02:55.420" end="00:03:00.790" style="s2">have a not a correction but an addendum</p>
+<p begin="00:02:59.140" end="00:03:02.320" style="s2">last time I mentioned a paper that I</p>
+<p begin="00:03:00.790" end="00:03:04.870" style="s2">thought was well worth people&#39;s time</p>
+<p begin="00:03:02.320" end="00:03:08.740" style="s2">written by one of the founders of</p>
+<p begin="00:03:04.870" end="00:03:10.750" style="s2">Instagram and it&#39;s a Kevin Systrom and</p>
+<p begin="00:03:08.740" end="00:03:13.330" style="s2">we will put a link to the paper in the</p>
+<p begin="00:03:10.750" end="00:03:16.630" style="s2">description but the short version is he</p>
+<p begin="00:03:13.330" end="00:03:18.250" style="s2">argues that the are not term that people</p>
+<p begin="00:03:16.630" end="00:03:21.250" style="s2">have become familiar with about how</p>
+<p begin="00:03:18.250" end="00:03:24.340" style="s2">likely an individual case of the virus</p>
+<p begin="00:03:21.250" end="00:03:27.880" style="s2">is to propagate to the term is are not</p>
+<p begin="00:03:24.340" end="00:03:29.709" style="s2">right which reads is r02 sure that that</p>
+<p begin="00:03:27.880" end="00:03:33.160" style="s2">tract yes on the paper it looks like our</p>
+<p begin="00:03:29.709" end="00:03:35.770" style="s2">subzero are not he argues that there is</p>
+<p begin="00:03:33.160" end="00:03:38.200" style="s2">a more important term that we need which</p>
+<p begin="00:03:35.770" end="00:03:40.000" style="s2">is our sub t which i think is just said</p>
+<p begin="00:03:38.200" end="00:03:43.959" style="s2">our sub t although it&#39;s not clear in the</p>
+<p begin="00:03:40.000" end="00:03:47.520" style="s2">paper which basically tracks the change</p>
+<p begin="00:03:43.959" end="00:03:49.570" style="s2">in transmissibility based on the</p>
+<p begin="00:03:47.520" end="00:03:52.810" style="s2">responses that people have the</p>
+<p begin="00:03:49.570" end="00:03:54.700" style="s2">behavioral responses and so this measure</p>
+<p begin="00:03:52.810" end="00:03:57.160" style="s2">is important for example if we want to</p>
+<p begin="00:03:54.700" end="00:04:00.220" style="s2">compare municipalities or something and</p>
+<p begin="00:03:57.160" end="00:04:02.200" style="s2">see what&#39;s working and what isn&#39;t not</p>
+<p begin="00:04:00.220" end="00:04:05.830" style="s2">just simply assigning an R nought to the</p>
+<p begin="00:04:02.200" end="00:04:07.750" style="s2">virus but assigning an R sub T to the</p>
+<p begin="00:04:05.830" end="00:04:10.810" style="s2">intersection between a virus and a</p>
+<p begin="00:04:07.750" end="00:04:12.220" style="s2">population is very useful so anyway it&#39;s</p>
+<p begin="00:04:10.810" end="00:04:15.340" style="s2">a good paper well-written</p>
+<p begin="00:04:12.220" end="00:04:18.010" style="s2">I strongly recommend it and we will link</p>
+<p begin="00:04:15.340" end="00:04:22.120" style="s2">it in the description alright I think</p>
+<p begin="00:04:18.010" end="00:04:23.770" style="s2">that&#39;s all I have you have correct I</p>
+<p begin="00:04:22.120" end="00:04:26.230" style="s2">want it well not a correction exactly an</p>
+<p begin="00:04:23.770" end="00:04:28.300" style="s2">addendum I want to add</p>
+<p begin="00:04:26.230" end="00:04:31.000" style="s2">or clarify to our discussion about</p>
+<p begin="00:04:28.300" end="00:04:32.710" style="s2">essentials last time where we spent a</p>
+<p begin="00:04:31.000" end="00:04:34.420" style="s2">while talking about flooring much to the</p>
+<p begin="00:04:32.710" end="00:04:36.820" style="s2">chagrin of some people and much to the</p>
+<p begin="00:04:34.420" end="00:04:38.320" style="s2">enthusiasm of others we were</p>
+<p begin="00:04:36.820" end="00:04:40.810" style="s2">specifically making an argument about</p>
+<p begin="00:04:38.320" end="00:04:42.880" style="s2">why flooring which has been included in</p>
+<p begin="00:04:40.810" end="00:04:45.790" style="s2">the list of prohibited purchases in the</p>
+<p begin="00:04:42.880" end="00:04:47.230" style="s2">Michigan stay at home order might be</p>
+<p begin="00:04:45.790" end="00:04:49.630" style="s2">considered an important psychological</p>
+<p begin="00:04:47.230" end="00:04:50.980" style="s2">tool for people in such times and in</p>
+<p begin="00:04:49.630" end="00:04:54.520" style="s2">times of lockdown giving them something</p>
+<p begin="00:04:50.980" end="00:04:56.500" style="s2">useful productive and creative to do we</p>
+<p begin="00:04:54.520" end="00:04:57.910" style="s2">didn&#39;t speak to the more obvious things</p>
+<p begin="00:04:56.500" end="00:04:59.980" style="s2">on the list things like seeds and</p>
+<p begin="00:04:57.910" end="00:05:01.960" style="s2">nursery supplies because a we&#39;ve alluded</p>
+<p begin="00:04:59.980" end="00:05:03.760" style="s2">to those in the past and it just it&#39;s a</p>
+<p begin="00:05:01.960" end="00:05:05.350" style="s2">it&#39;s a really easy argument to make that</p>
+<p begin="00:05:03.760" end="00:05:07.000" style="s2">people should be allowed to buy seeds</p>
+<p begin="00:05:05.350" end="00:05:11.140" style="s2">with which to potentially grow their own</p>
+<p begin="00:05:07.000" end="00:05:15.760" style="s2">food especially as supply chains come to</p>
+<p begin="00:05:11.140" end="00:05:17.320" style="s2">be at risk so I&#39;d like to reframe the</p>
+<p begin="00:05:15.760" end="00:05:20.770" style="s2">discussion slightly I know without</p>
+<p begin="00:05:17.320" end="00:05:22.270" style="s2">spending a lot more time on it but the</p>
+<p begin="00:05:20.770" end="00:05:24.940" style="s2">concept of essentials we were arguing</p>
+<p begin="00:05:22.270" end="00:05:27.150" style="s2">basically is a category problem but it</p>
+<p begin="00:05:24.940" end="00:05:29.430" style="s2">speaks to pre-existing category problems</p>
+<p begin="00:05:27.150" end="00:05:34.120" style="s2">nobody&#39;s being prohibited from buying</p>
+<p begin="00:05:29.430" end="00:05:35.980" style="s2">anything like anything that they might</p>
+<p begin="00:05:34.120" end="00:05:38.170" style="s2">eat actually you can buy flank steak and</p>
+<p begin="00:05:35.980" end="00:05:40.030" style="s2">blueberries you can buy mangos and whole</p>
+<p begin="00:05:38.170" end="00:05:41.890" style="s2">chickens and you could buy tofu and kale</p>
+<p begin="00:05:40.030" end="00:05:44.830" style="s2">to list six things that we&#39;ve bought</p>
+<p begin="00:05:41.890" end="00:05:45.850" style="s2">during during lockdown right so long as</p>
+<p begin="00:05:44.830" end="00:05:48.190" style="s2">you can find them in the stores you can</p>
+<p begin="00:05:45.850" end="00:05:49.450" style="s2">buy those you can also though at the</p>
+<p begin="00:05:48.190" end="00:05:51.760" style="s2">moment if you can find them in the</p>
+<p begin="00:05:49.450" end="00:05:55.360" style="s2">stores buy Cheetos and Pepsi pop-tarts</p>
+<p begin="00:05:51.760" end="00:05:57.820" style="s2">and Twizzlers and redbull and doughnuts</p>
+<p begin="00:05:55.360" end="00:06:00.310" style="s2">not only are none of those things in the</p>
+<p begin="00:05:57.820" end="00:06:03.220" style="s2">second list essential though they are</p>
+<p begin="00:06:00.310" end="00:06:06.310" style="s2">actually bad for human health which by</p>
+<p begin="00:06:03.220" end="00:06:09.670" style="s2">now everyone knows even those even those</p>
+<p begin="00:06:06.310" end="00:06:11.140" style="s2">of us who eat those things sometimes so</p>
+<p begin="00:06:09.670" end="00:06:13.210" style="s2">nobody&#39;s attempting to draw that line</p>
+<p begin="00:06:11.140" end="00:06:16.540" style="s2">between the things that we ingest that</p>
+<p begin="00:06:13.210" end="00:06:18.700" style="s2">are arguably good for you and the things</p>
+<p begin="00:06:16.540" end="00:06:21.340" style="s2">that we ingest that are quite obviously</p>
+<p begin="00:06:18.700" end="00:06:22.330" style="s2">not if you can ingest it you&#39;re allowed</p>
+<p begin="00:06:21.340" end="00:06:24.400" style="s2">to buy it</p>
+<p begin="00:06:22.330" end="00:06:28.800" style="s2">and the because the fact that humans</p>
+<p begin="00:06:24.400" end="00:06:31.180" style="s2">need to take in calories is is</p>
+<p begin="00:06:28.800" end="00:06:35.290" style="s2">understood in part because it is so easy</p>
+<p begin="00:06:31.180" end="00:06:37.510" style="s2">to quantify and it&#39;s easy to quantify in</p>
+<p begin="00:06:35.290" end="00:06:39.490" style="s2">part because everything alive does it</p>
+<p begin="00:06:37.510" end="00:06:40.090" style="s2">and what we were trying to do by getting</p>
+<p begin="00:06:39.490" end="00:06:41.889" style="s2">at</p>
+<p begin="00:06:40.090" end="00:06:43.810" style="s2">the issue of flooring is get at those</p>
+<p begin="00:06:41.889" end="00:06:46.030" style="s2">things that are essential to being human</p>
+<p begin="00:06:43.810" end="00:06:48.699" style="s2">that are much harder to quantify but</p>
+<p begin="00:06:46.030" end="00:06:53.050" style="s2">that are qualifiable necessaries right</p>
+<p begin="00:06:48.699" end="00:06:55.210" style="s2">so because every evolved life form needs</p>
+<p begin="00:06:53.050" end="00:06:57.220" style="s2">to take an energy somehow if you&#39;re</p>
+<p begin="00:06:55.210" end="00:06:59.229" style="s2">photoautotrophs like a plant you convert</p>
+<p begin="00:06:57.220" end="00:07:00.430" style="s2">sunlight into energy into sugars and</p>
+<p begin="00:06:59.229" end="00:07:03.040" style="s2">then if you&#39;re a head of troph like us</p>
+<p begin="00:07:00.430" end="00:07:04.540" style="s2">you either steal that energy directly</p>
+<p begin="00:07:03.040" end="00:07:05.860" style="s2">from the autotrophs when you eat plants</p>
+<p begin="00:07:04.540" end="00:07:07.780" style="s2">or you steal it from</p>
+<p begin="00:07:05.860" end="00:07:10.810" style="s2">second order autotrophs when you eat</p>
+<p begin="00:07:07.780" end="00:07:12.010" style="s2">other animals and we can we can look at</p>
+<p begin="00:07:10.810" end="00:07:13.540" style="s2">it we can count it and sometimes we</p>
+<p begin="00:07:12.010" end="00:07:14.889" style="s2">count the wrong thing isn&#39;t certainly we</p>
+<p begin="00:07:13.540" end="00:07:16.720" style="s2">have been counting many of the wrong</p>
+<p begin="00:07:14.889" end="00:07:19.960" style="s2">things but it allows for this</p>
+<p begin="00:07:16.720" end="00:07:21.280" style="s2">reductionist approach and no one is</p>
+<p begin="00:07:19.960" end="00:07:23.169" style="s2">trying to draw the line between that</p>
+<p begin="00:07:21.280" end="00:07:24.880" style="s2">which you can take in to eat which is</p>
+<p begin="00:07:23.169" end="00:07:30.520" style="s2">necessary and that which you can take in</p>
+<p begin="00:07:24.880" end="00:07:32.979" style="s2">and it&#39;s not necessary but staying alive</p>
+<p begin="00:07:30.520" end="00:07:35.200" style="s2">isn&#39;t the only goal here is it nor is</p>
+<p begin="00:07:32.979" end="00:07:37.630" style="s2">keeping on just a second noise keeping</p>
+<p begin="00:07:35.200" end="00:07:39.699" style="s2">the economy intact the only goal if we</p>
+<p begin="00:07:37.630" end="00:07:42.520" style="s2">emerge from this disaster having</p>
+<p begin="00:07:39.699" end="00:07:44.440" style="s2">mitigated it with fewer deaths and there</p>
+<p begin="00:07:42.520" end="00:07:46.060" style="s2">would have been had we not more or less</p>
+<p begin="00:07:44.440" end="00:07:49.960" style="s2">stayed in place while hopefully getting</p>
+<p begin="00:07:46.060" end="00:07:53.080" style="s2">outside with fewer deaths but we emerged</p>
+<p begin="00:07:49.960" end="00:07:55.660" style="s2">broken and empty this will be a</p>
+<p begin="00:07:53.080" end="00:07:57.510" style="s2">large-scale depression that will be more</p>
+<p begin="00:07:55.660" end="00:07:59.500" style="s2">than economic that will afflict a</p>
+<p begin="00:07:57.510" end="00:08:02.860" style="s2">massive part of humanity that will be</p>
+<p begin="00:07:59.500" end="00:08:06.580" style="s2">far harder to emerge from yes and I</p>
+<p begin="00:08:02.860" end="00:08:10.330" style="s2">would also point out we have kids who</p>
+<p begin="00:08:06.580" end="00:08:11.800" style="s2">are growing up facing this unprecedented</p>
+<p begin="00:08:10.330" end="00:08:13.539" style="s2">thing and I know one of the things that</p>
+<p begin="00:08:11.800" end="00:08:16.150" style="s2">gave me a lot of insight into where we</p>
+<p begin="00:08:13.539" end="00:08:18.729" style="s2">are was in the early part of the</p>
+<p begin="00:08:16.150" end="00:08:22.060" style="s2">lockdown our our oldest son Zach who is</p>
+<p begin="00:08:18.729" end="00:08:25.870" style="s2">manning the equipment here said in</p>
+<p begin="00:08:22.060" end="00:08:28.510" style="s2">passing he asked me something to the</p>
+<p begin="00:08:25.870" end="00:08:31.389" style="s2">effect of how often this has happened in</p>
+<p begin="00:08:28.510" end="00:08:33.219" style="s2">my lifetime and I looked at him and I I</p>
+<p begin="00:08:31.389" end="00:08:35.409" style="s2">said this has never happened in my</p>
+<p begin="00:08:33.219" end="00:08:37.570" style="s2">lifetime or really ever this is</p>
+<p begin="00:08:35.409" end="00:08:39.550" style="s2">unprecedented and it changed the way he</p>
+<p begin="00:08:37.570" end="00:08:41.740" style="s2">saw things but of course you know a</p>
+<p begin="00:08:39.550" end="00:08:43.719" style="s2">child who&#39;s seen a much shorter slice of</p>
+<p begin="00:08:41.740" end="00:08:47.350" style="s2">history doesn&#39;t know how to calibrate</p>
+<p begin="00:08:43.719" end="00:08:49.600" style="s2">this and the reason I raise it is I can</p>
+<p begin="00:08:47.350" end="00:08:51.339" style="s2">imagine a lot of frivolous things things</p>
+<p begin="00:08:49.600" end="00:08:53.779" style="s2">that really truly are frivolous that</p>
+<p begin="00:08:51.339" end="00:08:56.480" style="s2">might be actually</p>
+<p begin="00:08:53.779" end="00:08:58.310" style="s2">arguably necessary in some parent-child</p>
+<p begin="00:08:56.480" end="00:09:01.009" style="s2">relationship to keep a sense of normalcy</p>
+<p begin="00:08:58.310" end="00:09:04.970" style="s2">and so the point I made last livestream</p>
+<p begin="00:09:01.009" end="00:09:07.430" style="s2">was I defy you to draw that line well</p>
+<p begin="00:09:04.970" end="00:09:09.139" style="s2">it&#39;s not that there isn&#39;t a line but the</p>
+<p begin="00:09:07.430" end="00:09:12.019" style="s2">point is that line actually has a lot of</p>
+<p begin="00:09:09.139" end="00:09:16.129" style="s2">richness between individuals and special</p>
+<p begin="00:09:12.019" end="00:09:19.100" style="s2">cases and you know if there&#39;s some candy</p>
+<p begin="00:09:16.129" end="00:09:20.600" style="s2">that is you know a child&#39;s favorite and</p>
+<p begin="00:09:19.100" end="00:09:22.730" style="s2">some parent is trying to deliver that</p>
+<p begin="00:09:20.600" end="00:09:24.470" style="s2">normalcy and the fact that the candy was</p>
+<p begin="00:09:22.730" end="00:09:27.019" style="s2">suddenly off-limits would be jarring I</p>
+<p begin="00:09:24.470" end="00:09:29.809" style="s2">mean I can easily see an argument for it</p>
+<p begin="00:09:27.019" end="00:09:32.499" style="s2">even if on balance the candy is probably</p>
+<p begin="00:09:29.809" end="00:09:35.980" style="s2">a negative with respect to its effect on</p>
+<p begin="00:09:32.499" end="00:09:38.540" style="s2">the immunity for example yeah so really</p>
+<p begin="00:09:35.980" end="00:09:40.279" style="s2">we&#39;re pointing out the difficulty of</p>
+<p begin="00:09:38.540" end="00:09:42.649" style="s2">drawing lines for which there are no</p>
+<p begin="00:09:40.279" end="00:09:44.389" style="s2">easily quantifiable hard borders we&#39;re</p>
+<p begin="00:09:42.649" end="00:09:46.220" style="s2">not saying that lines don&#39;t need to be</p>
+<p begin="00:09:44.389" end="00:09:48.439" style="s2">drawn some of them do a hundred percent</p>
+<p begin="00:09:46.220" end="00:09:50.959" style="s2">this is in part and large part what</p>
+<p begin="00:09:48.439" end="00:09:54.199" style="s2">government is for and we are fans of</p>
+<p begin="00:09:50.959" end="00:09:55.490" style="s2">good government but but the lines that</p>
+<p begin="00:09:54.199" end="00:09:59.660" style="s2">some of the lines that have been being</p>
+<p begin="00:09:55.490" end="00:10:02.449" style="s2">drawn are patently bad the closing down</p>
+<p begin="00:09:59.660" end="00:10:05.990" style="s2">of beaches when people are maintaining</p>
+<p begin="00:10:02.449" end="00:10:10.069" style="s2">social distancing is bad policy it&#39;s bad</p>
+<p begin="00:10:05.990" end="00:10:11.930" style="s2">policy and in fact it emerges fairly</p>
+<p begin="00:10:10.069" end="00:10:14.600" style="s2">strongly I would say this week in</p>
+<p begin="00:10:11.930" end="00:10:16.990" style="s2">several different papers one of which</p>
+<p begin="00:10:14.600" end="00:10:19.670" style="s2">we&#39;re going to get to but there is</p>
+<p begin="00:10:16.990" end="00:10:22.180" style="s2">stronger and stronger evidence that the</p>
+<p begin="00:10:19.670" end="00:10:26.449" style="s2">circumstances that are dangerous are</p>
+<p begin="00:10:22.180" end="00:10:29.240" style="s2">endure close quarters circumstances and</p>
+<p begin="00:10:26.449" end="00:10:31.129" style="s2">so in some sense by telling people you</p>
+<p begin="00:10:29.240" end="00:10:33.740" style="s2">can&#39;t go to the beach or you can&#39;t go</p>
+<p begin="00:10:31.129" end="00:10:37.129" style="s2">for a hike we have been denying people</p>
+<p begin="00:10:33.740" end="00:10:39.620" style="s2">something that they might do in favor of</p>
+<p begin="00:10:37.129" end="00:10:43.160" style="s2">pushing them in the direction of yeah</p>
+<p begin="00:10:39.620" end="00:10:45.589" style="s2">all right you&#39;re not out at the you know</p>
+<p begin="00:10:43.160" end="00:10:48.259" style="s2">nightclub but you are in close quarters</p>
+<p begin="00:10:45.589" end="00:10:51.559" style="s2">probably indoors where this thing is</p>
+<p begin="00:10:48.259" end="00:10:53.059" style="s2">being transmitted so in some sense we</p>
+<p begin="00:10:51.559" end="00:10:54.769" style="s2">have to be very cautious we don&#39;t yet</p>
+<p begin="00:10:53.059" end="00:10:56.839" style="s2">know how this thing functions and</p>
+<p begin="00:10:54.769" end="00:10:58.819" style="s2">telling people you shouldn&#39;t do that</p>
+<p begin="00:10:56.839" end="00:11:01.429" style="s2">because it stands to reason that you</p>
+<p begin="00:10:58.819" end="00:11:04.059" style="s2">might get sick in a public park when in</p>
+<p begin="00:11:01.429" end="00:11:06.900" style="s2">fact the data ultimately reflect the</p>
+<p begin="00:11:04.059" end="00:11:11.040" style="s2">unlikeliness of that scenario</p>
+<p begin="00:11:06.900" end="00:11:13.350" style="s2">is it&#39;s a problem and it also serves to</p>
+<p begin="00:11:11.040" end="00:11:15.480" style="s2">create snitches out of people right</p>
+<p begin="00:11:13.350" end="00:11:17.250" style="s2">which we are also beginning to see that</p>
+<p begin="00:11:15.480" end="00:11:18.660" style="s2">people are being encouraged to tell on</p>
+<p begin="00:11:17.250" end="00:11:22.080" style="s2">their neighbors if they perceive that</p>
+<p begin="00:11:18.660" end="00:11:24.839" style="s2">they are going out too much and in fact</p>
+<p begin="00:11:22.080" end="00:11:27.140" style="s2">as I understood the the mostly good</p>
+<p begin="00:11:24.839" end="00:11:30.720" style="s2">faith orders that were coming down early</p>
+<p begin="00:11:27.140" end="00:11:33.390" style="s2">early on there were no attempts to keep</p>
+<p begin="00:11:30.720" end="00:11:36.000" style="s2">people in place it was you know shelter</p>
+<p begin="00:11:33.390" end="00:11:37.740" style="s2">in place but go out for exercise for</p>
+<p begin="00:11:36.000" end="00:11:39.839" style="s2">fresh air</p>
+<p begin="00:11:37.740" end="00:11:41.850" style="s2">and you know people with dogs had this</p>
+<p begin="00:11:39.839" end="00:11:44.760" style="s2">easy excuse which is which is itself</p>
+<p begin="00:11:41.850" end="00:11:46.890" style="s2">very interesting why is it now that we</p>
+<p begin="00:11:44.760" end="00:11:49.440" style="s2">understand that our dogs need to get out</p>
+<p begin="00:11:46.890" end="00:11:53.130" style="s2">and move but we are less likely to</p>
+<p begin="00:11:49.440" end="00:11:56.220" style="s2">understand that we do as well yeah so</p>
+<p begin="00:11:53.130" end="00:11:58.950" style="s2">the whole idea of having bureaucrats do</p>
+<p begin="00:11:56.220" end="00:12:00.839" style="s2">this from something other than a place</p>
+<p begin="00:11:58.950" end="00:12:04.070" style="s2">of caution is I think legitimately</p>
+<p begin="00:12:00.839" end="00:12:07.730" style="s2">frightening and it&#39;s resulting in</p>
+<p begin="00:12:04.070" end="00:12:09.990" style="s2">backlash which i think is itself</p>
+<p begin="00:12:07.730" end="00:12:12.510" style="s2">frightening it&#39;s apparently the backlash</p>
+<p begin="00:12:09.990" end="00:12:15.120" style="s2">against the idea of controlling the</p>
+<p begin="00:12:12.510" end="00:12:18.000" style="s2">virus through you know wearing a mask or</p>
+<p begin="00:12:15.120" end="00:12:20.010" style="s2">avoiding social contact or all these</p>
+<p begin="00:12:18.000" end="00:12:22.230" style="s2">things that backlash is obviously a</p>
+<p begin="00:12:20.010" end="00:12:24.450" style="s2">danger to human health and even an</p>
+<p begin="00:12:22.230" end="00:12:26.520" style="s2">individual who chooses to flaunt the</p>
+<p begin="00:12:24.450" end="00:12:29.100" style="s2">rules is putting everybody who might be</p>
+<p begin="00:12:26.520" end="00:12:30.720" style="s2">downstream of them epidemiologically at</p>
+<p begin="00:12:29.100" end="00:12:34.230" style="s2">risk and some of those peoples are going</p>
+<p begin="00:12:30.720" end="00:12:35.910" style="s2">to die so it&#39;s not a minor question but</p>
+<p begin="00:12:34.230" end="00:12:39.210" style="s2">nonetheless the incoherence of the</p>
+<p begin="00:12:35.910" end="00:12:42.360" style="s2">policy is raising people&#39;s hackles with</p>
+<p begin="00:12:39.210" end="00:12:44.790" style="s2">respect to governmental overreach and</p>
+<p begin="00:12:42.360" end="00:12:46.820" style="s2">all of these things and so anyway some</p>
+<p begin="00:12:44.790" end="00:12:51.540" style="s2">sort of caution is clearly necessary</p>
+<p begin="00:12:46.820" end="00:12:54.120" style="s2">indeed all right did you have a next</p>
+<p begin="00:12:51.540" end="00:12:55.080" style="s2">topic you wanted to move to well</p>
+<p begin="00:12:54.120" end="00:12:57.870" style="s2">ultimately we&#39;re going to be talking</p>
+<p begin="00:12:55.080" end="00:13:00.690" style="s2">about that that Santa Clara County</p>
+<p begin="00:12:57.870" end="00:13:02.400" style="s2">serology testing paper but it doesn&#39;t</p>
+<p begin="00:13:00.690" end="00:13:04.620" style="s2">have to happen first as you like</p>
+<p begin="00:13:02.400" end="00:13:06.000" style="s2">actually let&#39;s start there many people</p>
+<p begin="00:13:04.620" end="00:13:09.089" style="s2">will have seen this paper do you want to</p>
+<p begin="00:13:06.000" end="00:13:10.529" style="s2">introduce yeah so Zack maybe can you</p>
+<p begin="00:13:09.089" end="00:13:11.820" style="s2">pull up the I don&#39;t know how to</p>
+<p begin="00:13:10.529" end="00:13:18.660" style="s2">pronounce this name actually been to v8</p>
+<p begin="00:13:11.820" end="00:13:19.750" style="s2">at all 2020 what&#39;s up let&#39;s see if I can</p>
+<p begin="00:13:18.660" end="00:13:22.690" style="s2">do it I for the first</p>
+<p begin="00:13:19.750" end="00:13:27.130" style="s2">time today I have stuff in front of me</p>
+<p begin="00:13:22.690" end="00:13:37.180" style="s2">let&#39;s see I may have it here Zack except</p>
+<p begin="00:13:27.130" end="00:13:39.640" style="s2">I can&#39;t see my no no I don&#39;t I don&#39;t</p>
+<p begin="00:13:37.180" end="00:13:41.530" style="s2">have it here Zack if you can pull it up</p>
+<p begin="00:13:39.640" end="00:13:44.170" style="s2">it&#39;s the one on the first page been</p>
+<p begin="00:13:41.530" end="00:13:50.800" style="s2">defeated all 20/20 right below the break</p>
+<p begin="00:13:44.170" end="00:13:51.880" style="s2">I&#39;ll be great ok so this came out at</p>
+<p begin="00:13:50.800" end="00:13:52.720" style="s2">this point I think it came out the day</p>
+<p begin="00:13:51.880" end="00:13:54.190" style="s2">before we&#39;re supposed to do our</p>
+<p begin="00:13:52.720" end="00:13:57.760" style="s2">livestream so it must be three days ago</p>
+<p begin="00:13:54.190" end="00:14:00.780" style="s2">maybe but I don&#39;t I don&#39;t see are you</p>
+<p begin="00:13:57.760" end="00:14:03.070" style="s2">gonna be able to show it to us ok</p>
+<p begin="00:14:00.780" end="00:14:05.440" style="s2">because I will I will need to see it</p>
+<p begin="00:14:03.070" end="00:14:07.390" style="s2">ever going to talk about it the message</p>
+<p begin="00:14:05.440" end="00:14:08.920" style="s2">is basically this is directly from the</p>
+<p begin="00:14:07.390" end="00:14:10.360" style="s2">discussion quote the most important</p>
+<p begin="00:14:08.920" end="00:14:12.100" style="s2">implication of these findings is that</p>
+<p begin="00:14:10.360" end="00:14:14.830" style="s2">the number of infections is much greater</p>
+<p begin="00:14:12.100" end="00:14:16.660" style="s2">than the reported number of cases title</p>
+<p begin="00:14:14.830" end="00:14:18.550" style="s2">of the paper being covered 19 antibodies</p>
+<p begin="00:14:16.660" end="00:14:23.339" style="s2">seroprevalence in santa clara county</p>
+<p begin="00:14:18.550" end="00:14:27.130" style="s2">california so what these authors did was</p>
+<p begin="00:14:23.339" end="00:14:30.250" style="s2">solicited via facebook people to come to</p>
+<p begin="00:14:27.130" end="00:14:32.350" style="s2">be tested for antibodies which is to say</p>
+<p begin="00:14:30.250" end="00:14:36.160" style="s2">past infection not current infection it</p>
+<p begin="00:14:32.350" end="00:14:40.000" style="s2">will not find current infection and then</p>
+<p begin="00:14:36.160" end="00:14:42.550" style="s2">they had drive-through testing they were</p>
+<p begin="00:14:40.000" end="00:14:44.110" style="s2">looking they tried to control for three</p>
+<p begin="00:14:42.550" end="00:14:46.330" style="s2">demographic so they tried to get equal</p>
+<p begin="00:14:44.110" end="00:14:53.140" style="s2">representation to match the demographic</p>
+<p begin="00:14:46.330" end="00:14:54.190" style="s2">background data okay well we will find</p>
+<p begin="00:14:53.140" end="00:14:58.200" style="s2">the link and put it in there I think</p>
+<p begin="00:14:54.190" end="00:15:00.970" style="s2">yeah so this is the santa clara county</p>
+<p begin="00:14:58.200" end="00:15:06.280" style="s2">been defeated all 2020 paper that is</p>
+<p begin="00:15:00.970" end="00:15:08.700" style="s2">widely discussed right now so they they</p>
+<p begin="00:15:06.280" end="00:15:12.280" style="s2">were looking specifically at i think age</p>
+<p begin="00:15:08.700" end="00:15:13.480" style="s2">race and ethnicity and zip code as the</p>
+<p begin="00:15:12.280" end="00:15:15.640" style="s2">three parameters that they were trying</p>
+<p begin="00:15:13.480" end="00:15:18.250" style="s2">to to match to the background</p>
+<p begin="00:15:15.640" end="00:15:23.010" style="s2">demographics of santa clara county and</p>
+<p begin="00:15:18.250" end="00:15:25.150" style="s2">we&#39;re you know shut down accepting</p>
+<p begin="00:15:23.010" end="00:15:26.500" style="s2">applications for the serology testing</p>
+<p begin="00:15:25.150" end="00:15:28.480" style="s2">when they got too many from certain zip</p>
+<p begin="00:15:26.500" end="00:15:33.100" style="s2">codes or too many from maybe certain</p>
+<p begin="00:15:28.480" end="00:15:33.610" style="s2">races or ethnicities and and then deidre</p>
+<p begin="00:15:33.100" end="00:15:35.829" style="s2">did drive</p>
+<p begin="00:15:33.610" end="00:15:37.750" style="s2">testing they also let people come with</p>
+<p begin="00:15:35.829" end="00:15:39.040" style="s2">up to one child from a household so</p>
+<p begin="00:15:37.750" end="00:15:46.120" style="s2">there was some non independence among</p>
+<p begin="00:15:39.040" end="00:15:48.720" style="s2">their among their data and let me just</p>
+<p begin="00:15:46.120" end="00:15:53.980" style="s2">say that there so their conclusion is</p>
+<p begin="00:15:48.720" end="00:15:56.920" style="s2">that like like I said that they have</p>
+<p begin="00:15:53.980" end="00:15:58.810" style="s2">that the in Santa Clara County anyway</p>
+<p begin="00:15:56.920" end="00:16:00.190" style="s2">there&#39;s a far higher background rate of</p>
+<p begin="00:15:58.810" end="00:16:02.110" style="s2">infection in fact I think the numbers</p>
+<p begin="00:16:00.190" end="00:16:03.640" style="s2">they have since I can&#39;t see the paper</p>
+<p begin="00:16:02.110" end="00:16:07.360" style="s2">now I can&#39;t actually pull up the</p>
+<p begin="00:16:03.640" end="00:16:09.100" style="s2">specifics fifty to eighty five times the</p>
+<p begin="00:16:07.360" end="00:16:12.399" style="s2">actual numbers that are being reported</p>
+<p begin="00:16:09.100" end="00:16:15.430" style="s2">from the more standard testing in Santa</p>
+<p begin="00:16:12.399" end="00:16:18.250" style="s2">Clara County which means if true if</p>
+<p begin="00:16:15.430" end="00:16:21.190" style="s2">those results are true then the case</p>
+<p begin="00:16:18.250" end="00:16:22.750" style="s2">fatality rate which is defined from the</p>
+<p begin="00:16:21.190" end="00:16:24.519" style="s2">dictionary of Epidemiology as the</p>
+<p begin="00:16:22.750" end="00:16:25.899" style="s2">proportion of cases of a specified</p>
+<p begin="00:16:24.519" end="00:16:28.660" style="s2">condition that are fatal within a</p>
+<p begin="00:16:25.899" end="00:16:30.820" style="s2">specified time the CFR the case fatality</p>
+<p begin="00:16:28.660" end="00:16:33.279" style="s2">rate would be far lower than has been</p>
+<p begin="00:16:30.820" end="00:16:34.540" style="s2">reported and this is you know consistent</p>
+<p begin="00:16:33.279" end="00:16:36.579" style="s2">with things that we&#39;ve been saying for</p>
+<p begin="00:16:34.540" end="00:16:38.769" style="s2">you know well over a month at this point</p>
+<p begin="00:16:36.579" end="00:16:41.170" style="s2">right that the CFR is likely to be lower</p>
+<p begin="00:16:38.769" end="00:16:43.510" style="s2">than it&#39;s being reported but that does</p>
+<p begin="00:16:41.170" end="00:16:44.949" style="s2">not change most of the things that we</p>
+<p begin="00:16:43.510" end="00:16:46.750" style="s2">are that we need to do in order to</p>
+<p begin="00:16:44.949" end="00:16:48.519" style="s2">control this but let&#39;s just focus for a</p>
+<p begin="00:16:46.750" end="00:16:50.560" style="s2">moment on the actual study you want to</p>
+<p begin="00:16:48.519" end="00:16:53.290" style="s2">start by talking about a little bit well</p>
+<p begin="00:16:50.560" end="00:16:56.350" style="s2">let me just say you&#39;re gonna raise some</p>
+<p begin="00:16:53.290" end="00:16:59.829" style="s2">concerns about how the study functioned</p>
+<p begin="00:16:56.350" end="00:17:02.589" style="s2">yeah it does mirror data we&#39;re seeing</p>
+<p begin="00:16:59.829" end="00:17:05.410" style="s2">from elsewhere it&#39;s actually a fairly</p>
+<p begin="00:17:02.589" end="00:17:07.299" style="s2">close match for the data from Scotland</p>
+<p begin="00:17:05.410" end="00:17:10.569" style="s2">and then there&#39;s another study I believe</p>
+<p begin="00:17:07.299" end="00:17:13.449" style="s2">from Denmark that says the same thing</p>
+<p begin="00:17:10.569" end="00:17:16.299" style="s2">which is that the rate of infection is</p>
+<p begin="00:17:13.449" end="00:17:18.429" style="s2">actually far higher than we know that</p>
+<p begin="00:17:16.299" end="00:17:19.959" style="s2">when you test a population instead of</p>
+<p begin="00:17:18.429" end="00:17:21.459" style="s2">testing people who come through the door</p>
+<p begin="00:17:19.959" end="00:17:23.110" style="s2">for one reason or another you test the</p>
+<p begin="00:17:21.459" end="00:17:25.839" style="s2">population at large to see how many</p>
+<p begin="00:17:23.110" end="00:17:28.360" style="s2">people show signs of past exposure you</p>
+<p begin="00:17:25.839" end="00:17:29.919" style="s2">get a very high number which doesn&#39;t</p>
+<p begin="00:17:28.360" end="00:17:31.840" style="s2">change the number of people who have</p>
+<p begin="00:17:29.919" end="00:17:34.870" style="s2">died of the condition and so what we</p>
+<p begin="00:17:31.840" end="00:17:37.270" style="s2">find is that the transmissibility is</p>
+<p begin="00:17:34.870" end="00:17:40.150" style="s2">higher than we think but the mortality</p>
+<p begin="00:17:37.270" end="00:17:42.669" style="s2">rate is lower and so it would not be</p>
+<p begin="00:17:40.150" end="00:17:44.770" style="s2">surprising if Santa Clara County</p>
+<p begin="00:17:42.669" end="00:17:47.169" style="s2">reflected this very same pattern on the</p>
+<p begin="00:17:44.770" end="00:17:49.419" style="s2">other hand it doesn&#39;t make the study</p>
+<p begin="00:17:47.169" end="00:17:51.340" style="s2">viable if the study has methodological</p>
+<p begin="00:17:49.419" end="00:17:53.830" style="s2">flaws whether or not it comes to a</p>
+<p begin="00:17:51.340" end="00:17:55.690" style="s2">conclusion that&#39;s mirrored elsewhere</p>
+<p begin="00:17:53.830" end="00:17:57.700" style="s2">you know it&#39;s flawed so the question</p>
+<p begin="00:17:55.690" end="00:17:59.980" style="s2">really is what are the flaws and how</p>
+<p begin="00:17:57.700" end="00:18:01.570" style="s2">vital are they in terms of the</p>
+<p begin="00:17:59.980" end="00:18:04.210" style="s2">conclusion that was reached catch it</p>
+<p begin="00:18:01.570" end="00:18:06.100" style="s2">valid is it just noisy or is it</p>
+<p begin="00:18:04.210" end="00:18:07.950" style="s2">misleading in some way okay good so</p>
+<p begin="00:18:06.100" end="00:18:10.059" style="s2">there there are there are several</p>
+<p begin="00:18:07.950" end="00:18:11.679" style="s2">approaches that I could take to sort of</p>
+<p begin="00:18:10.059" end="00:18:13.539" style="s2">critiquing to and some some of them</p>
+<p begin="00:18:11.679" end="00:18:16.539" style="s2">bordering on nitpicking but I think</p>
+<p begin="00:18:13.539" end="00:18:20.710" style="s2">there&#39;s of two classes of critique of</p>
+<p begin="00:18:16.539" end="00:18:22.989" style="s2">this paper that are large enough to</p>
+<p begin="00:18:20.710" end="00:18:25.779" style="s2">warrant discussion here one is biases in</p>
+<p begin="00:18:22.989" end="00:18:27.399" style="s2">the subjects so as I said the methods by</p>
+<p begin="00:18:25.779" end="00:18:30.669" style="s2">which volunteers for serology testing</p>
+<p begin="00:18:27.399" end="00:18:34.299" style="s2">were chosen was through ads on Facebook</p>
+<p begin="00:18:30.669" end="00:18:37.480" style="s2">and those selected arrived at testing</p>
+<p begin="00:18:34.299" end="00:18:39.129" style="s2">centers by car for drive through testing</p>
+<p begin="00:18:37.480" end="00:18:40.960" style="s2">this means that those who were included</p>
+<p begin="00:18:39.129" end="00:18:44.730" style="s2">in the study had both means and interest</p>
+<p begin="00:18:40.960" end="00:18:48.489" style="s2">let&#39;s take those one by one means first</p>
+<p begin="00:18:44.730" end="00:18:49.960" style="s2">you have likely to be over selected for</p>
+<p begin="00:18:48.489" end="00:18:51.220" style="s2">relatively wealthy people at the very</p>
+<p begin="00:18:49.960" end="00:18:52.989" style="s2">least you&#39;re not including any homeless</p>
+<p begin="00:18:51.220" end="00:18:54.340" style="s2">people if you can only get testing when</p>
+<p begin="00:18:52.989" end="00:18:59.379" style="s2">you could show up with a car at a</p>
+<p begin="00:18:54.340" end="00:19:01.929" style="s2">testing site so this this though so this</p>
+<p begin="00:18:59.379" end="00:19:03.700" style="s2">this is going to miss count in maybe</p>
+<p begin="00:19:01.929" end="00:19:07.720" style="s2">both Direction simultaneously which</p>
+<p begin="00:19:03.700" end="00:19:09.369" style="s2">looks like noise right so if you if you</p>
+<p begin="00:19:07.720" end="00:19:11.379" style="s2">don&#39;t get some people in lower</p>
+<p begin="00:19:09.369" end="00:19:13.450" style="s2">socioeconomic classes who haven&#39;t been</p>
+<p begin="00:19:11.379" end="00:19:16.980" style="s2">tested because they didn&#39;t in have</p>
+<p begin="00:19:13.450" end="00:19:19.359" style="s2">previous means to get tested and</p>
+<p begin="00:19:16.980" end="00:19:22.330" style="s2">specifically homeless people you will</p>
+<p begin="00:19:19.359" end="00:19:24.190" style="s2">have you will have missed a large number</p>
+<p begin="00:19:22.330" end="00:19:25.600" style="s2">of people who were positive and thus</p>
+<p begin="00:19:24.190" end="00:19:31.690" style="s2">this could be actually an undercount</p>
+<p begin="00:19:25.600" end="00:19:33.549" style="s2">right the I mean I can I can see an</p>
+<p begin="00:19:31.690" end="00:19:36.009" style="s2">argument for going the other way but it</p>
+<p begin="00:19:33.549" end="00:19:38.649" style="s2">seems most likely that this means bias</p>
+<p begin="00:19:36.009" end="00:19:39.999" style="s2">goes goes one way and actually suggests</p>
+<p begin="00:19:38.649" end="00:19:41.350" style="s2">that these results in this paper are</p>
+<p begin="00:19:39.999" end="00:19:43.269" style="s2">conservative if everything else is</p>
+<p begin="00:19:41.350" end="00:19:44.859" style="s2">correct with regard to interest though</p>
+<p begin="00:19:43.269" end="00:19:47.169" style="s2">it clearly goes in the other direction</p>
+<p begin="00:19:44.859" end="00:19:49.389" style="s2">that those people who respond to a</p>
+<p begin="00:19:47.169" end="00:19:51.070" style="s2">Facebook ad a are you know looking at</p>
+<p begin="00:19:49.389" end="00:19:52.749" style="s2">Facebook at home that is to say they</p>
+<p begin="00:19:51.070" end="00:19:55.779" style="s2">again this is a question of means they</p>
+<p begin="00:19:52.749" end="00:19:57.249" style="s2">have the means to have to have a</p>
+<p begin="00:19:55.779" end="00:20:00.249" style="s2">computer at home through which to look</p>
+<p begin="00:19:57.249" end="00:20:01.180" style="s2">at Facebook but it&#39;s see it stands to</p>
+<p begin="00:20:00.249" end="00:20:02.830" style="s2">reason that</p>
+<p begin="00:20:01.180" end="00:20:04.540" style="s2">those people who think they might have</p>
+<p begin="00:20:02.830" end="00:20:06.850" style="s2">been infected in the past will have more</p>
+<p begin="00:20:04.540" end="00:20:08.530" style="s2">interest in going to be tested than</p>
+<p begin="00:20:06.850" end="00:20:10.180" style="s2">those who have no reason to think that</p>
+<p begin="00:20:08.530" end="00:20:12.910" style="s2">they&#39;ve been infected and you know other</p>
+<p begin="00:20:10.180" end="00:20:14.260" style="s2">than an excuse to get outside you know</p>
+<p begin="00:20:12.910" end="00:20:16.930" style="s2">why is it that they&#39;re gonna go and</p>
+<p begin="00:20:14.260" end="00:20:22.090" style="s2">potentially put themselves at risk for</p>
+<p begin="00:20:16.930" end="00:20:28.300" style="s2">for such a study so given that given</p>
+<p begin="00:20:22.090" end="00:20:29.830" style="s2">that interest was a key driver I can&#39;t</p>
+<p begin="00:20:28.300" end="00:20:32.740" style="s2">you know it&#39;s impossible to quantify how</p>
+<p begin="00:20:29.830" end="00:20:34.810" style="s2">large a driver but a driver of how it is</p>
+<p begin="00:20:32.740" end="00:20:37.990" style="s2">that the subjects got selected for this</p>
+<p begin="00:20:34.810" end="00:20:39.280" style="s2">that is that is going to suggest that</p>
+<p begin="00:20:37.990" end="00:20:40.690" style="s2">that&#39;s going to go the opposite</p>
+<p begin="00:20:39.280" end="00:20:42.880" style="s2">direction of the way I think the means</p>
+<p begin="00:20:40.690" end="00:20:44.320" style="s2">question would which is to say it&#39;s</p>
+<p begin="00:20:42.880" end="00:20:46.090" style="s2">going to have driven the number of</p>
+<p begin="00:20:44.320" end="00:20:48.640" style="s2">positives up compared to the background</p>
+<p begin="00:20:46.090" end="00:20:49.870" style="s2">population which suggests that the case</p>
+<p begin="00:20:48.640" end="00:20:52.210" style="s2">fatality rate that they&#39;re reporting is</p>
+<p begin="00:20:49.870" end="00:20:54.220" style="s2">actually too high and that bit should be</p>
+<p begin="00:20:52.210" end="00:20:56.950" style="s2">lower so those that&#39;s that&#39;s the first</p>
+<p begin="00:20:54.220" end="00:20:58.690" style="s2">large class of critique that I have</p>
+<p begin="00:20:56.950" end="00:21:01.120" style="s2">about the paper I&#39;m gonna say anything</p>
+<p begin="00:20:58.690" end="00:21:02.680" style="s2">about that or I would add one thing to</p>
+<p begin="00:21:01.120" end="00:21:04.930" style="s2">it which is a different kind of critique</p>
+<p begin="00:21:02.680" end="00:21:07.270" style="s2">altogether and it may well be that this</p>
+<p begin="00:21:04.930" end="00:21:10.120" style="s2">is so well understood epidemiologically</p>
+<p begin="00:21:07.270" end="00:21:12.610" style="s2">that it&#39;s a non-issue but yeah there is</p>
+<p begin="00:21:10.120" end="00:21:15.550" style="s2">a question in my mind given and I have</p>
+<p begin="00:21:12.610" end="00:21:17.980" style="s2">studied the immuno biology I will be at</p>
+<p begin="00:21:15.550" end="00:21:20.440" style="s2">a long time in the past but there&#39;s a</p>
+<p begin="00:21:17.980" end="00:21:24.160" style="s2">question about whether or not the</p>
+<p begin="00:21:20.440" end="00:21:26.680" style="s2">antibodies necessarily reflect a history</p>
+<p begin="00:21:24.160" end="00:21:29.980" style="s2">of infection or do they reflect a</p>
+<p begin="00:21:26.680" end="00:21:32.440" style="s2">history of exposure and my guess would</p>
+<p begin="00:21:29.980" end="00:21:35.320" style="s2">be that the level of antibodies that is</p>
+<p begin="00:21:32.440" end="00:21:37.960" style="s2">being detected would reflect a cleared</p>
+<p begin="00:21:35.320" end="00:21:41.620" style="s2">infection that is to say the immune</p>
+<p begin="00:21:37.960" end="00:21:44.830" style="s2">system goes into a pattern where it</p>
+<p begin="00:21:41.620" end="00:21:46.990" style="s2">becomes good at recognizing the invader</p>
+<p begin="00:21:44.830" end="00:21:48.550" style="s2">that it&#39;s already seen and that that is</p>
+<p begin="00:21:46.990" end="00:21:51.880" style="s2">what is being detected in which case it</p>
+<p begin="00:21:48.550" end="00:21:54.910" style="s2">would reflect an infection but it is</p>
+<p begin="00:21:51.880" end="00:21:56.770" style="s2">conceivable to me that especially in</p>
+<p begin="00:21:54.910" end="00:21:59.650" style="s2">light of how much doesn&#39;t make sense</p>
+<p begin="00:21:56.770" end="00:22:01.180" style="s2">about this virus or not doesn&#39;t make</p>
+<p begin="00:21:59.650" end="00:22:03.940" style="s2">sense but let&#39;s say surprising less</p>
+<p begin="00:22:01.180" end="00:22:07.090" style="s2">about this virus one thing we have to</p>
+<p begin="00:22:03.940" end="00:22:09.640" style="s2">ask ourselves is what happens to</p>
+<p begin="00:22:07.090" end="00:22:12.760" style="s2">somebody who has a high level of</p>
+<p begin="00:22:09.640" end="00:22:13.980" style="s2">exposure but doesn&#39;t contract an</p>
+<p begin="00:22:12.760" end="00:22:16.860" style="s2">infection</p>
+<p begin="00:22:13.980" end="00:22:18.330" style="s2">mm-hmm so it just worth it&#39;s worth</p>
+<p begin="00:22:16.860" end="00:22:19.980" style="s2">asking the question and I would love it</p>
+<p begin="00:22:18.330" end="00:22:22.290" style="s2">if somebody knows the answer and it is</p>
+<p begin="00:22:19.980" end="00:22:24.179" style="s2">clear that these antibody tests are</p>
+<p begin="00:22:22.290" end="00:22:26.460" style="s2">necessarily reflecting an infected</p>
+<p begin="00:22:24.179" end="00:22:28.110" style="s2">person now their infection has cleared</p>
+<p begin="00:22:26.460" end="00:22:29.640" style="s2">up that would be useful well in fact it</p>
+<p begin="00:22:28.110" end="00:22:31.470" style="s2">raises the question of high level of</p>
+<p begin="00:22:29.640" end="00:22:33.179" style="s2">exposure without contracting an</p>
+<p begin="00:22:31.470" end="00:22:36.059" style="s2">infection what would the antibody test</p>
+<p begin="00:22:33.179" end="00:22:38.580" style="s2">read what then does asymptomatic mean</p>
+<p begin="00:22:36.059" end="00:22:40.640" style="s2">asymptomatic is a category that could</p>
+<p begin="00:22:38.580" end="00:22:44.790" style="s2">mean either of those two things actually</p>
+<p begin="00:22:40.640" end="00:22:46.230" style="s2">if if they are in fact distinct yeah so</p>
+<p begin="00:22:44.790" end="00:22:49.620" style="s2">anyway maybe somebody in our audience</p>
+<p begin="00:22:46.230" end="00:22:54.660" style="s2">can conclude us into what we need to see</p>
+<p begin="00:22:49.620" end="00:22:56.910" style="s2">yeah so the other the other concern the</p>
+<p begin="00:22:54.660" end="00:22:59.450" style="s2">other major concern that I had about the</p>
+<p begin="00:22:56.910" end="00:23:01.679" style="s2">the scientific validity of this paper</p>
+<p begin="00:22:59.450" end="00:23:05.549" style="s2">even though again and we&#39;ll talk about</p>
+<p begin="00:23:01.679" end="00:23:08.400" style="s2">this more later I tend to believe that</p>
+<p begin="00:23:05.549" end="00:23:09.690" style="s2">the results are more true than the other</p>
+<p begin="00:23:08.400" end="00:23:13.380" style="s2">results that we&#39;re seeing that show a</p>
+<p begin="00:23:09.690" end="00:23:15.770" style="s2">very very low background infection rate</p>
+<p begin="00:23:13.380" end="00:23:18.720" style="s2">in populations</p>
+<p begin="00:23:15.770" end="00:23:20.850" style="s2">the authors demonstrate they go through</p>
+<p begin="00:23:18.720" end="00:23:23.010" style="s2">you know a fair bit of statistical song</p>
+<p begin="00:23:20.850" end="00:23:24.390" style="s2">and dance about explaining how they</p>
+<p begin="00:23:23.010" end="00:23:25.799" style="s2">assess the actual rate of false</p>
+<p begin="00:23:24.390" end="00:23:31.740" style="s2">negatives and false positives in these</p>
+<p begin="00:23:25.799" end="00:23:33.419" style="s2">tests and there other people online have</p>
+<p begin="00:23:31.740" end="00:23:37.080" style="s2">assessed whether or not they think that</p>
+<p begin="00:23:33.419" end="00:23:41.220" style="s2">those those are well done but they don&#39;t</p>
+<p begin="00:23:37.080" end="00:23:42.960" style="s2">seem to deal with the problem that with</p>
+<p begin="00:23:41.220" end="00:23:44.850" style="s2">a low base rate of infection in the</p>
+<p begin="00:23:42.960" end="00:23:46.470" style="s2">population even the higher rate that</p>
+<p begin="00:23:44.850" end="00:23:48.390" style="s2">they report here it&#39;s like the higher</p>
+<p begin="00:23:46.470" end="00:23:52.200" style="s2">rate that they report is up to close to</p>
+<p begin="00:23:48.390" end="00:23:53.820" style="s2">5% you know it&#39;s still very low right so</p>
+<p begin="00:23:52.200" end="00:23:56.160" style="s2">with a relatively low base rate of</p>
+<p begin="00:23:53.820" end="00:24:00.540" style="s2">infection of the population false</p>
+<p begin="00:23:56.160" end="00:24:03.390" style="s2">positives potentially outnumber true</p>
+<p begin="00:24:00.540" end="00:24:05.190" style="s2">positives in test results so I&#39;m at</p>
+<p begin="00:24:03.390" end="00:24:06.690" style="s2">considerable risk of losing a lot of the</p>
+<p begin="00:24:05.190" end="00:24:08.520" style="s2">audience I&#39;d like to walk us through</p>
+<p begin="00:24:06.690" end="00:24:09.960" style="s2">just a couple of made-up numbers just to</p>
+<p begin="00:24:08.520" end="00:24:11.370" style="s2">just to make this point because I think</p>
+<p begin="00:24:09.960" end="00:24:14.010" style="s2">a lot of people have been saying this</p>
+<p begin="00:24:11.370" end="00:24:17.220" style="s2">but with some made up numbers that are</p>
+<p begin="00:24:14.010" end="00:24:21.090" style="s2">simple it it might it might stick for</p>
+<p begin="00:24:17.220" end="00:24:23.220" style="s2">people so let&#39;s imagine a population of</p>
+<p begin="00:24:21.090" end="00:24:26.100" style="s2">103 people again this is just to make</p>
+<p begin="00:24:23.220" end="00:24:28.320" style="s2">the numbers easy in which</p>
+<p begin="00:24:26.100" end="00:24:31.410" style="s2">so let me say first that the authors of</p>
+<p begin="00:24:28.320" end="00:24:32.970" style="s2">this paper claim a false positive rate</p>
+<p begin="00:24:31.410" end="00:24:35.700" style="s2">while a confidence interval and</p>
+<p begin="00:24:32.970" end="00:24:37.320" style="s2">specificity between 98.3 and 99.9</p>
+<p begin="00:24:35.700" end="00:24:40.070" style="s2">percent which is staggering so that</p>
+<p begin="00:24:37.320" end="00:24:42.510" style="s2">would be a false positive rate of 0.1 to</p>
+<p begin="00:24:40.070" end="00:24:44.160" style="s2">1.7 percent which is very very low</p>
+<p begin="00:24:42.510" end="00:24:47.039" style="s2">listen the tests we&#39;re seeing suggest</p>
+<p begin="00:24:44.160" end="00:24:50.370" style="s2">about 5% false positive right so just</p>
+<p begin="00:24:47.039" end="00:24:52.799" style="s2">for ease of doing some some fake math</p>
+<p begin="00:24:50.370" end="00:24:55.799" style="s2">here I&#39;m gonna use this 5%</p>
+<p begin="00:24:52.799" end="00:24:57.240" style="s2">sort of population 103 people we&#39;re only</p>
+<p begin="00:24:55.799" end="00:24:58.620" style="s2">three people have been infected that&#39;s</p>
+<p begin="00:24:57.240" end="00:25:03.929" style="s2">based on this generous background</p>
+<p begin="00:24:58.620" end="00:25:06.120" style="s2">infection rate of 3% or a 2.9 percent if</p>
+<p begin="00:25:03.929" end="00:25:08.280" style="s2">the false positive rate is 5% for the</p>
+<p begin="00:25:06.120" end="00:25:10.679" style="s2">test that is the test tends to give a</p>
+<p begin="00:25:08.280" end="00:25:14.700" style="s2">false positive 1 out of 20 times from 5</p>
+<p begin="00:25:10.679" end="00:25:17.100" style="s2">percent of the time maybe the 3 here are</p>
+<p begin="00:25:14.700" end="00:25:19.260" style="s2">actually positive test positive the flip</p>
+<p begin="00:25:17.100" end="00:25:20.940" style="s2">flip is here that false negatives will</p>
+<p begin="00:25:19.260" end="00:25:24.179" style="s2">be pretty rare in such a situation so</p>
+<p begin="00:25:20.940" end="00:25:27.030" style="s2">it&#39;s a 3 in the population of 103 will</p>
+<p begin="00:25:24.179" end="00:25:28.610" style="s2">actually test positive the remaining 100</p>
+<p begin="00:25:27.030" end="00:25:31.289" style="s2">though all of whom are actually negative</p>
+<p begin="00:25:28.610" end="00:25:32.909" style="s2">5 out of those hundred will also test</p>
+<p begin="00:25:31.289" end="00:25:35.250" style="s2">positive because you&#39;ve got a 5 percent</p>
+<p begin="00:25:32.909" end="00:25:36.630" style="s2">false positive rate so in that case with</p>
+<p begin="00:25:35.250" end="00:25:38.280" style="s2">those very particular numbers that I</p>
+<p begin="00:25:36.630" end="00:25:41.340" style="s2">chose for ease of communication</p>
+<p begin="00:25:38.280" end="00:25:43.080" style="s2">you&#39;ll get 8 positive results in which 3</p>
+<p begin="00:25:41.340" end="00:25:45.539" style="s2">are actually positive and 5 are not</p>
+<p begin="00:25:43.080" end="00:25:47.190" style="s2">positive which means the majority of</p>
+<p begin="00:25:45.539" end="00:25:50.210" style="s2">people who show up as positive are</p>
+<p begin="00:25:47.190" end="00:25:53.940" style="s2">actually not so that&#39;s that&#39;s obviously</p>
+<p begin="00:25:50.210" end="00:25:55.080" style="s2">difficult to wrap your mind around and</p>
+<p begin="00:25:53.940" end="00:25:56.460" style="s2">let me just one more one more</p>
+<p begin="00:25:55.080" end="00:25:58.020" style="s2">mathematical thing and then I&#39;ll drop</p>
+<p begin="00:25:56.460" end="00:26:00.120" style="s2">the numbers if you take the same</p>
+<p begin="00:25:58.020" end="00:26:03.179" style="s2">population and the background infection</p>
+<p begin="00:26:00.120" end="00:26:06.270" style="s2">rate is now 15 percent rather than what</p>
+<p begin="00:26:03.179" end="00:26:07.740" style="s2">I said before 3 percent now you have 15</p>
+<p begin="00:26:06.270" end="00:26:12.150" style="s2">people out of the population of Hydra 3</p>
+<p begin="00:26:07.740" end="00:26:14.640" style="s2">who are actually positive only 4 people</p>
+<p begin="00:26:12.150" end="00:26:16.650" style="s2">out of the 88 remaining people who are</p>
+<p begin="00:26:14.640" end="00:26:19.260" style="s2">actually negative which means you got 19</p>
+<p begin="00:26:16.650" end="00:26:21.030" style="s2">positive results only 4 if I&#39;m only 20%</p>
+<p begin="00:26:19.260" end="00:26:22.950" style="s2">or so are false positives so as the</p>
+<p begin="00:26:21.030" end="00:26:26.460" style="s2">background rate of infection in the</p>
+<p begin="00:26:22.950" end="00:26:29.240" style="s2">population goes up the risk that you&#39;re</p>
+<p begin="00:26:26.460" end="00:26:32.130" style="s2">positive is a false positive goes down</p>
+<p begin="00:26:29.240" end="00:26:34.380" style="s2">so I would also point out that there are</p>
+<p begin="00:26:32.130" end="00:26:36.120" style="s2">two potential kinds of false positives</p>
+<p begin="00:26:34.380" end="00:26:38.179" style="s2">here and which kind we are dealing with</p>
+<p begin="00:26:36.120" end="00:26:40.429" style="s2">has a lot to say about how</p>
+<p begin="00:26:38.179" end="00:26:41.929" style="s2">we can correct for this one is a false</p>
+<p begin="00:26:40.429" end="00:26:43.999" style="s2">positive where the test comes up</p>
+<p begin="00:26:41.929" end="00:26:47.080" style="s2">positive for no good reason and a second</p>
+<p begin="00:26:43.999" end="00:26:49.909" style="s2">test would suggest something was wrong</p>
+<p begin="00:26:47.080" end="00:26:52.700" style="s2">the second would be a false positive I</p>
+<p begin="00:26:49.909" end="00:26:55.009" style="s2">guess this would be the case if people</p>
+<p begin="00:26:52.700" end="00:26:57.440" style="s2">who had exposures but did not contract</p>
+<p begin="00:26:55.009" end="00:26:59.240" style="s2">the infection had sufficient antibodies</p>
+<p begin="00:26:57.440" end="00:27:01.369" style="s2">to trigger the test and we regarded them</p>
+<p begin="00:26:59.240" end="00:27:03.679" style="s2">as it as having cleared an infection</p>
+<p begin="00:27:01.369" end="00:27:05.899" style="s2">they would test positive each time they</p>
+<p begin="00:27:03.679" end="00:27:08.990" style="s2">had the test even though they have never</p>
+<p begin="00:27:05.899" end="00:27:10.759" style="s2">had the infection so it is possible and</p>
+<p begin="00:27:08.990" end="00:27:12.379" style="s2">I would argue that those are people we</p>
+<p begin="00:27:10.759" end="00:27:15.529" style="s2">want to include you know they&#39;ve got</p>
+<p begin="00:27:12.379" end="00:27:17.299" style="s2">immunity oh well I don&#39;t know if they</p>
+<p begin="00:27:15.529" end="00:27:20.029" style="s2">have immunity in this iPod in this</p>
+<p begin="00:27:17.299" end="00:27:21.710" style="s2">hypothetical situation but let&#39;s put it</p>
+<p begin="00:27:20.029" end="00:27:24.940" style="s2">this way it&#39;s not that that situation</p>
+<p begin="00:27:21.710" end="00:27:28.159" style="s2">would be uninteresting it&#39;s that it&#39;s</p>
+<p begin="00:27:24.940" end="00:27:30.529" style="s2">signal for a category that we either are</p>
+<p begin="00:27:28.159" end="00:27:32.779" style="s2">or are not counting and so we need to be</p>
+<p begin="00:27:30.529" end="00:27:35.299" style="s2">very careful not to assume people into a</p>
+<p begin="00:27:32.779" end="00:27:37.100" style="s2">category they are not necessarily in and</p>
+<p begin="00:27:35.299" end="00:27:39.529" style="s2">a lot depends you know it may be that</p>
+<p begin="00:27:37.100" end="00:27:42.049" style="s2">experts on coronavirus infections know</p>
+<p begin="00:27:39.529" end="00:27:44.480" style="s2">very well what a particular titer of</p>
+<p begin="00:27:42.049" end="00:27:46.580" style="s2">antibodies implies and so they&#39;ve ruled</p>
+<p begin="00:27:44.480" end="00:27:49.159" style="s2">it out for a good reason or it may be</p>
+<p begin="00:27:46.580" end="00:27:50.809" style="s2">that things are so novel here that we</p>
+<p begin="00:27:49.159" end="00:27:52.580" style="s2">may discover that there was a category</p>
+<p begin="00:27:50.809" end="00:27:55.610" style="s2">that we had lumped with another category</p>
+<p begin="00:27:52.580" end="00:27:57.200" style="s2">and changed the interpretation in a way</p>
+<p begin="00:27:55.610" end="00:27:59.450" style="s2">that was misleading yeah in fact what</p>
+<p begin="00:27:57.200" end="00:28:02.570" style="s2">I&#39;m seeing is too much of the time and</p>
+<p begin="00:27:59.450" end="00:28:04.669" style="s2">this is just this is forced by the fact</p>
+<p begin="00:28:02.570" end="00:28:08.299" style="s2">that this is such a fast moving fast</p>
+<p begin="00:28:04.669" end="00:28:09.830" style="s2">emerging pandemic that categories are</p>
+<p begin="00:28:08.299" end="00:28:11.809" style="s2">being split into two that we are making</p>
+<p begin="00:28:09.830" end="00:28:14.600" style="s2">binary categories that really warrant</p>
+<p begin="00:28:11.809" end="00:28:17.179" style="s2">many more many more subdivisions and so</p>
+<p begin="00:28:14.600" end="00:28:19.460" style="s2">in general I think tighter you know</p>
+<p begin="00:28:17.179" end="00:28:21.529" style="s2">countable tighter of antibodies counts</p>
+<p begin="00:28:19.460" end="00:28:23.539" style="s2">as a yes and if you can&#39;t see it at all</p>
+<p begin="00:28:21.529" end="00:28:26.119" style="s2">it counts as a no and that&#39;s obviously</p>
+<p begin="00:28:23.539" end="00:28:27.889" style="s2">not a fine enough line to get at some of</p>
+<p begin="00:28:26.119" end="00:28:30.320" style="s2">the questions that that you and we are</p>
+<p begin="00:28:27.889" end="00:28:31.700" style="s2">raising but there&#39;s also you know</p>
+<p begin="00:28:30.320" end="00:28:35.119" style="s2">there&#39;s so much there&#39;s so much</p>
+<p begin="00:28:31.700" end="00:28:36.710" style="s2">important work to be done and this you</p>
+<p begin="00:28:35.119" end="00:28:37.730" style="s2">know will seem like nitpicking why quia</p>
+<p begin="00:28:36.710" end="00:28:40.309" style="s2">why aren&#39;t they splitting in and</p>
+<p begin="00:28:37.730" end="00:28:42.019" style="s2">thourough into more categories well then</p>
+<p begin="00:28:40.309" end="00:28:42.950" style="s2">you have this question just like we were</p>
+<p begin="00:28:42.019" end="00:28:45.019" style="s2">talking about with regard to what&#39;s</p>
+<p begin="00:28:42.950" end="00:28:47.029" style="s2">essential of where to draw the lines so</p>
+<p begin="00:28:45.019" end="00:28:48.769" style="s2">is there any are there any antibodies</p>
+<p begin="00:28:47.029" end="00:28:50.779" style="s2">present versus are there no antibodies</p>
+<p begin="00:28:48.769" end="00:28:52.010" style="s2">present is at least a line that everyone</p>
+<p begin="00:28:50.779" end="00:28:56.150" style="s2">can agree on that&#39;s Kwan</p>
+<p begin="00:28:52.010" end="00:28:59.720" style="s2">viable yes or no but but binary</p>
+<p begin="00:28:56.150" end="00:29:02.210" style="s2">situations that are actually in which</p>
+<p begin="00:28:59.720" end="00:29:04.040" style="s2">you can have zero and you can have some</p>
+<p begin="00:29:02.210" end="00:29:05.930" style="s2">to a lot that&#39;s actually a continuum and</p>
+<p begin="00:29:04.040" end="00:29:07.490" style="s2">it&#39;s it warrants a different kind of</p>
+<p begin="00:29:05.930" end="00:29:09.980" style="s2">statistical analysis that we just don&#39;t</p>
+<p begin="00:29:07.490" end="00:29:12.470" style="s2">have I think the time or the means for</p>
+<p begin="00:29:09.980" end="00:29:17.030" style="s2">yet and at the very least we can say</p>
+<p begin="00:29:12.470" end="00:29:20.390" style="s2">that the the phenomenology of these</p>
+<p begin="00:29:17.030" end="00:29:24.920" style="s2">infections is so varied and so confusing</p>
+<p begin="00:29:20.390" end="00:29:27.500" style="s2">that we know there are features of this</p>
+<p begin="00:29:24.920" end="00:29:29.840" style="s2">that are utterly continuous and leave</p>
+<p begin="00:29:27.500" end="00:29:32.510" style="s2">you scratching your head so whether the</p>
+<p begin="00:29:29.840" end="00:29:35.840" style="s2">infection itself in the test we&#39;re using</p>
+<p begin="00:29:32.510" end="00:29:37.580" style="s2">our truly testing binary circumstances</p>
+<p begin="00:29:35.840" end="00:29:41.630" style="s2">or whether their categories are missing</p>
+<p begin="00:29:37.580" end="00:29:42.980" style="s2">is an important question so if you&#39;ve</p>
+<p begin="00:29:41.630" end="00:29:48.260" style="s2">gotten where you wanted to go with the</p>
+<p begin="00:29:42.980" end="00:29:49.880" style="s2">the Santa Clara County I guess let me</p>
+<p begin="00:29:48.260" end="00:29:51.200" style="s2">just say man this this is probably a</p>
+<p begin="00:29:49.880" end="00:29:52.940" style="s2">decent segue to I don&#39;t know where</p>
+<p begin="00:29:51.200" end="00:29:57.230" style="s2">you&#39;re going next but I suspect it&#39;s a</p>
+<p begin="00:29:52.940" end="00:29:59.870" style="s2">decent segue so all of those critiques</p>
+<p begin="00:29:57.230" end="00:30:00.680" style="s2">and again I have more which I&#39;m not</p>
+<p begin="00:29:59.870" end="00:30:06.800" style="s2">going to make your all of those</p>
+<p begin="00:30:00.680" end="00:30:10.430" style="s2">critiques of this study do not mean that</p>
+<p begin="00:30:06.800" end="00:30:12.920" style="s2">I think that the overall conclusion is</p>
+<p begin="00:30:10.430" end="00:30:14.660" style="s2">likely wrong and this is based as you</p>
+<p begin="00:30:12.920" end="00:30:16.940" style="s2">suggested on some of what we&#39;re seeing</p>
+<p begin="00:30:14.660" end="00:30:20.750" style="s2">elsewhere and on what we understand to</p>
+<p begin="00:30:16.940" end="00:30:23.720" style="s2">be a high transmission right in in</p>
+<p begin="00:30:20.750" end="00:30:26.540" style="s2">places like hospitals and nursing homes</p>
+<p begin="00:30:23.720" end="00:30:29.450" style="s2">and such so I don&#39;t find that this study</p>
+<p begin="00:30:26.540" end="00:30:35.690" style="s2">demonstrates its conclusion to any high</p>
+<p begin="00:30:29.450" end="00:30:38.750" style="s2">scientific standard but that said a low</p>
+<p begin="00:30:35.690" end="00:30:41.240" style="s2">CFR even even if the case fatality rate</p>
+<p begin="00:30:38.750" end="00:30:42.890" style="s2">really is quite low you know a lot of</p>
+<p begin="00:30:41.240" end="00:30:45.560" style="s2">people are saying you know less than one</p>
+<p begin="00:30:42.890" end="00:30:47.240" style="s2">percent meaning doesn&#39;t mean no CFR</p>
+<p begin="00:30:45.560" end="00:30:49.970" style="s2">doesn&#39;t mean it&#39;s not killing people and</p>
+<p begin="00:30:47.240" end="00:30:51.680" style="s2">deaths are quite high in some places so</p>
+<p begin="00:30:49.970" end="00:30:53.720" style="s2">that begs the question is the CFR higher</p>
+<p begin="00:30:51.680" end="00:30:57.080" style="s2">in places like New York City and</p>
+<p begin="00:30:53.720" end="00:30:59.450" style="s2">Lombardi I don&#39;t know or background</p>
+<p begin="00:30:57.080" end="00:31:01.790" style="s2">rates of infection higher and you know</p>
+<p begin="00:30:59.450" end="00:31:03.200" style="s2">what what is it you know this this is</p>
+<p begin="00:31:01.790" end="00:31:05.090" style="s2">where we need the</p>
+<p begin="00:31:03.200" end="00:31:06.710" style="s2">excellent epidemiology and it&#39;s just</p>
+<p begin="00:31:05.090" end="00:31:09.620" style="s2">moving so fast it&#39;s really hard to get</p>
+<p begin="00:31:06.710" end="00:31:12.320" style="s2">to so um some of the other studies that</p>
+<p begin="00:31:09.620" end="00:31:14.990" style="s2">have reflected a similarly high base</p>
+<p begin="00:31:12.320" end="00:31:18.950" style="s2">infection rate and therefore low CF are</p>
+<p begin="00:31:14.990" end="00:31:21.260" style="s2">rate we&#39;re done with very different</p>
+<p begin="00:31:18.950" end="00:31:23.480" style="s2">methodologies and blood from blood</p>
+<p begin="00:31:21.260" end="00:31:25.370" style="s2">donors for example was tested and that</p>
+<p begin="00:31:23.480" end="00:31:28.190" style="s2">doesn&#39;t have the same bias of soliciting</p>
+<p begin="00:31:25.370" end="00:31:30.799" style="s2">people who can drive in from a Facebook</p>
+<p begin="00:31:28.190" end="00:31:33.200" style="s2">app so it does suggest that there is</p>
+<p begin="00:31:30.799" end="00:31:36.559" style="s2">reality to this interpretation whether</p>
+<p begin="00:31:33.200" end="00:31:38.809" style="s2">it varies by location we don&#39;t know and</p>
+<p begin="00:31:36.559" end="00:31:41.570" style="s2">you know the study is some sort of data</p>
+<p begin="00:31:38.809" end="00:31:44.679" style="s2">it&#39;s just compromised by methodological</p>
+<p begin="00:31:41.570" end="00:31:48.230" style="s2">flaws absolutely</p>
+<p begin="00:31:44.679" end="00:31:50.690" style="s2">so I guess I mean there&#39;s there&#39;s a lot</p>
+<p begin="00:31:48.230" end="00:31:54.350" style="s2">more to say here but the main thing I</p>
+<p begin="00:31:50.690" end="00:31:57.799" style="s2">would say is case fatality rate gets at</p>
+<p begin="00:31:54.350" end="00:32:01.399" style="s2">deaths and it may well be that the</p>
+<p begin="00:31:57.799" end="00:32:03.710" style="s2">biggest lingering effect health effect</p>
+<p begin="00:32:01.399" end="00:32:06.380" style="s2">put aside the economic effects but the</p>
+<p begin="00:32:03.710" end="00:32:09.679" style="s2">biggest lingering effect health-wise of</p>
+<p begin="00:32:06.380" end="00:32:13.610" style="s2">this virus is among the survivors that</p>
+<p begin="00:32:09.679" end="00:32:14.929" style="s2">we have we are seeing increasingly now</p>
+<p begin="00:32:13.610" end="00:32:16.370" style="s2">and of course we don&#39;t have any</p>
+<p begin="00:32:14.929" end="00:32:19.370" style="s2">long-term data because this isn&#39;t a</p>
+<p begin="00:32:16.370" end="00:32:23.149" style="s2">long-term situation yet but that people</p>
+<p begin="00:32:19.370" end="00:32:24.710" style="s2">who survive have respiratory problems of</p>
+<p begin="00:32:23.149" end="00:32:26.960" style="s2">lung problems have cardiac problems may</p>
+<p begin="00:32:24.710" end="00:32:29.450" style="s2">have neurological problems that there</p>
+<p begin="00:32:26.960" end="00:32:31.130" style="s2">are it&#39;s it&#39;s affecting all of these</p>
+<p begin="00:32:29.450" end="00:32:33.019" style="s2">systems in the body and of course why</p>
+<p begin="00:32:31.130" end="00:32:35.269" style="s2">wouldn&#39;t it why would we assume that</p>
+<p begin="00:32:33.019" end="00:32:36.799" style="s2">this respite that this respiratory virus</p>
+<p begin="00:32:35.269" end="00:32:39.250" style="s2">of this virus that we have named a</p>
+<p begin="00:32:36.799" end="00:32:42.260" style="s2">respiratory virus would only affect</p>
+<p begin="00:32:39.250" end="00:32:44.570" style="s2">respiratory systems there&#39;s really no</p>
+<p begin="00:32:42.260" end="00:32:47.000" style="s2">reason to assume that and so focusing</p>
+<p begin="00:32:44.570" end="00:32:50.389" style="s2">only on the case fatality rate as if</p>
+<p begin="00:32:47.000" end="00:32:53.360" style="s2">that is a good measure of the effect on</p>
+<p begin="00:32:50.389" end="00:32:57.250" style="s2">human health and well-being is is not</p>
+<p begin="00:32:53.360" end="00:33:00.260" style="s2">wise yeah it&#39;s it&#39;s a hazard I&#39;m</p>
+<p begin="00:32:57.250" end="00:33:03.830" style="s2">particularly troubled by the fact that</p>
+<p begin="00:33:00.260" end="00:33:06.769" style="s2">we don&#39;t have any good resolution on the</p>
+<p begin="00:33:03.830" end="00:33:08.929" style="s2">so-called asymptomatic cases whether</p>
+<p begin="00:33:06.769" end="00:33:11.809" style="s2">they have damage or not and if you have</p>
+<p begin="00:33:08.929" end="00:33:14.720" style="s2">followed the discussion here and on</p>
+<p begin="00:33:11.809" end="00:33:16.420" style="s2">Eric&#39;s podcast about telomeres the thing</p>
+<p begin="00:33:14.720" end="00:33:21.200" style="s2">to remember is that</p>
+<p begin="00:33:16.420" end="00:33:23.360" style="s2">in effect damage pushes you closer to</p>
+<p begin="00:33:21.200" end="00:33:26.150" style="s2">some threshold from which you cannot</p>
+<p begin="00:33:23.360" end="00:33:28.400" style="s2">repair right so that threshold at which</p>
+<p begin="00:33:26.150" end="00:33:30.920" style="s2">you cannot repair some vital tissue is</p>
+<p begin="00:33:28.400" end="00:33:33.350" style="s2">death right you have a vital tissue it&#39;s</p>
+<p begin="00:33:30.920" end="00:33:36.590" style="s2">gonna fail you can&#39;t live without it</p>
+<p begin="00:33:33.350" end="00:33:38.030" style="s2">so things that damage you push you in</p>
+<p begin="00:33:36.590" end="00:33:43.940" style="s2">the direction of death</p>
+<p begin="00:33:38.030" end="00:33:47.720" style="s2">now a lo CFR reflects people who have</p>
+<p begin="00:33:43.940" end="00:33:50.680" style="s2">not died yet it does not mean they were</p>
+<p begin="00:33:47.720" end="00:33:55.460" style="s2">not shoved in the direction of death by</p>
+<p begin="00:33:50.680" end="00:33:58.220" style="s2">15 years it also leaves open questions</p>
+<p begin="00:33:55.460" end="00:34:01.610" style="s2">which increasingly I hear circulating</p>
+<p begin="00:33:58.220" end="00:34:04.370" style="s2">about whether a this is a virus that can</p>
+<p begin="00:34:01.610" end="00:34:07.430" style="s2">recur right without having to be</p>
+<p begin="00:34:04.370" end="00:34:09.020" style="s2">reinfected whether be you have immunity</p>
+<p begin="00:34:07.430" end="00:34:11.720" style="s2">once you&#39;ve had it or it&#39;s going to</p>
+<p begin="00:34:09.020" end="00:34:14.000" style="s2">behave more like colds and flu we&#39;re</p>
+<p begin="00:34:11.720" end="00:34:16.040" style="s2">versions of it will reinfect you</p>
+<p begin="00:34:14.000" end="00:34:17.990" style="s2">periodically so to the extent that this</p>
+<p begin="00:34:16.040" end="00:34:20.120" style="s2">is a virus that clearly gives many</p>
+<p begin="00:34:17.990" end="00:34:21.620" style="s2">people enough of a shove to push them</p>
+<p begin="00:34:20.120" end="00:34:24.080" style="s2">across the threshold where they can&#39;t</p>
+<p begin="00:34:21.620" end="00:34:26.450" style="s2">get back it&#39;s presumably giving many</p>
+<p begin="00:34:24.080" end="00:34:30.500" style="s2">more people who do get back a shove in</p>
+<p begin="00:34:26.450" end="00:34:32.990" style="s2">the direction of mortality and then what</p>
+<p begin="00:34:30.500" end="00:34:35.690" style="s2">is it doing to the people who had a low</p>
+<p begin="00:34:32.990" end="00:34:37.610" style="s2">symptom or no symptom infection what</p>
+<p begin="00:34:35.690" end="00:34:40.490" style="s2">will they be like 15 years from an hour</p>
+<p begin="00:34:37.610" end="00:34:42.110" style="s2">or something like that so anyway all of</p>
+<p begin="00:34:40.490" end="00:34:44.240" style="s2">these things are important questions and</p>
+<p begin="00:34:42.110" end="00:34:46.850" style="s2">it points once again to the limitations</p>
+<p begin="00:34:44.240" end="00:34:48.170" style="s2">of binary thinking dead or not not a</p>
+<p begin="00:34:46.850" end="00:34:49.850" style="s2">sufficient analysis yes</p>
+<p begin="00:34:48.170" end="00:34:51.920" style="s2">fully recovered is not fully recovered</p>
+<p begin="00:34:49.850" end="00:34:54.410" style="s2">and that&#39;s true for many many phenomena</p>
+<p begin="00:34:51.920" end="00:34:56.450" style="s2">right we we medically miscategorized us</p>
+<p begin="00:34:54.410" end="00:34:59.630" style="s2">or at least the story that we tell does</p>
+<p begin="00:34:56.450" end="00:35:01.790" style="s2">so I wanted to suggest a couple things</p>
+<p begin="00:34:59.630" end="00:35:05.210" style="s2">places where we&#39;re falling down and then</p>
+<p begin="00:35:01.790" end="00:35:10.010" style="s2">places where we&#39;re succeeding again I&#39;m</p>
+<p begin="00:35:05.210" end="00:35:16.100" style="s2">stunned by how vibrant how interesting</p>
+<p begin="00:35:10.010" end="00:35:19.370" style="s2">and how normal the scientific discussion</p>
+<p begin="00:35:16.100" end="00:35:21.470" style="s2">is this everybody has been reduced to</p>
+<p begin="00:35:19.370" end="00:35:24.020" style="s2">amateur status even the experts who are</p>
+<p begin="00:35:21.470" end="00:35:26.300" style="s2">experts at coronaviruses or epidemiology</p>
+<p begin="00:35:24.020" end="00:35:28.880" style="s2">or whatever are novices with respect to</p>
+<p begin="00:35:26.300" end="00:35:30.060" style="s2">this particular virus so people are</p>
+<p begin="00:35:28.880" end="00:35:33.420" style="s2">interacting</p>
+<p begin="00:35:30.060" end="00:35:35.310" style="s2">in a way that is it&#39;s prone to error</p>
+<p begin="00:35:33.420" end="00:35:38.400" style="s2">I&#39;ve seen lots of false starts lots of</p>
+<p begin="00:35:35.310" end="00:35:40.200" style="s2">cul-de-sacs but the fact is the</p>
+<p begin="00:35:38.400" end="00:35:41.460" style="s2">scientific apparatus is actually</p>
+<p begin="00:35:40.200" end="00:35:43.740" style="s2">functioning in some ways better than</p>
+<p begin="00:35:41.460" end="00:35:46.050" style="s2">I&#39;ve ever seen it function before right</p>
+<p begin="00:35:43.740" end="00:35:47.430" style="s2">and the fact that you can tune in that</p>
+<p begin="00:35:46.050" end="00:35:49.050" style="s2">you&#39;re not being excluded because you&#39;re</p>
+<p begin="00:35:47.430" end="00:35:51.300" style="s2">not an expert enough to have access to</p>
+<p begin="00:35:49.050" end="00:35:54.390" style="s2">the literature is wonderful on the other</p>
+<p begin="00:35:51.300" end="00:35:56.310" style="s2">hand we are even I&#39;ll say not only is</p>
+<p begin="00:35:54.390" end="00:35:58.620" style="s2">most these papers going up in pre print</p>
+<p begin="00:35:56.310" end="00:36:01.830" style="s2">servers but Elsevier you know one of the</p>
+<p begin="00:35:58.620" end="00:36:03.360" style="s2">biggest blocks to actually sharing</p>
+<p begin="00:36:01.830" end="00:36:05.910" style="s2">scientific data out there because it&#39;s</p>
+<p begin="00:36:03.360" end="00:36:07.440" style="s2">one of the big publishers is making its</p>
+<p begin="00:36:05.910" end="00:36:09.450" style="s2">Cove in nineteen related publications</p>
+<p begin="00:36:07.440" end="00:36:12.210" style="s2">open at the moment yes this has</p>
+<p begin="00:36:09.450" end="00:36:15.300" style="s2">embarrassed publishers into behaving as</p>
+<p begin="00:36:12.210" end="00:36:17.940" style="s2">good citizens which you know is all is</p>
+<p begin="00:36:15.300" end="00:36:20.520" style="s2">extremely positive the problem is we are</p>
+<p begin="00:36:17.940" end="00:36:23.220" style="s2">hamstrung by the quality of what there</p>
+<p begin="00:36:20.520" end="00:36:25.920" style="s2">is to be analyzed and there are a couple</p>
+<p begin="00:36:23.220" end="00:36:29.670" style="s2">of things that I would suggest here one</p>
+<p begin="00:36:25.920" end="00:36:31.380" style="s2">of them is that we are unfortunately</p>
+<p begin="00:36:29.670" end="00:36:33.570" style="s2">being hamstrung by the political</p>
+<p begin="00:36:31.380" end="00:36:36.690" style="s2">apparatus which has a perverse incentive</p>
+<p begin="00:36:33.570" end="00:36:38.940" style="s2">and I&#39;m speculating here as to why this</p>
+<p begin="00:36:36.690" end="00:36:42.600" style="s2">is the case but the Trump administration</p>
+<p begin="00:36:38.940" end="00:36:45.990" style="s2">for example has been very slow and</p>
+<p begin="00:36:42.600" end="00:36:48.450" style="s2">reluctant about pushing testing right</p>
+<p begin="00:36:45.990" end="00:36:50.670" style="s2">and there&#39;s a question about why would</p>
+<p begin="00:36:48.450" end="00:36:54.420" style="s2">anybody not want more testing how could</p>
+<p begin="00:36:50.670" end="00:36:56.310" style="s2">information possibly be bad and the</p>
+<p begin="00:36:54.420" end="00:36:57.690" style="s2">answer is that there&#39;s a there&#39;s a very</p>
+<p begin="00:36:56.310" end="00:37:01.860" style="s2">reasonable</p>
+<p begin="00:36:57.690" end="00:37:05.160" style="s2">if immoral argument for eliminating that</p>
+<p begin="00:37:01.860" end="00:37:07.500" style="s2">data if you are a politician in a</p>
+<p begin="00:37:05.160" end="00:37:10.140" style="s2">position of authority and it has to do</p>
+<p begin="00:37:07.500" end="00:37:14.460" style="s2">with what I call monkeying with the</p>
+<p begin="00:37:10.140" end="00:37:15.540" style="s2">baseline if you are in a position of</p>
+<p begin="00:37:14.460" end="00:37:17.250" style="s2">authority and you&#39;re going to make</p>
+<p begin="00:37:15.540" end="00:37:19.050" style="s2">decisions and those decisions are gonna</p>
+<p begin="00:37:17.250" end="00:37:21.300" style="s2">have life-and-death ramifications</p>
+<p begin="00:37:19.050" end="00:37:24.840" style="s2">they&#39;re gonna decide whether or not we</p>
+<p begin="00:37:21.300" end="00:37:28.080" style="s2">fall into a depression or don&#39;t and you</p>
+<p begin="00:37:24.840" end="00:37:31.230" style="s2">don&#39;t want to make a call and have it</p>
+<p begin="00:37:28.080" end="00:37:34.590" style="s2">come back to haunt you then leaving the</p>
+<p begin="00:37:31.230" end="00:37:37.620" style="s2">data very vague maximizes the</p>
+<p begin="00:37:34.590" end="00:37:40.590" style="s2">opportunity to shift the narrative to</p>
+<p begin="00:37:37.620" end="00:37:43.410" style="s2">push blame on to somebody else so I</p>
+<p begin="00:37:40.590" end="00:37:46.740" style="s2">remember this first dawn</p>
+<p begin="00:37:43.410" end="00:37:51.020" style="s2">me after the Fukushima disaster in which</p>
+<p begin="00:37:46.740" end="00:37:53.880" style="s2">the Shinzo Abe a administration in Japan</p>
+<p begin="00:37:51.020" end="00:37:57.210" style="s2">began doing all kinds of bizarre stuff</p>
+<p begin="00:37:53.880" end="00:37:59.369" style="s2">like there was waste that you couldn&#39;t</p>
+<p begin="00:37:57.210" end="00:38:00.869" style="s2">burn because it was too radioactive and</p>
+<p begin="00:37:59.369" end="00:38:02.819" style="s2">there was a very clear legal standard</p>
+<p begin="00:38:00.869" end="00:38:05.099" style="s2">about how much radioactivity caused</p>
+<p begin="00:38:02.819" end="00:38:06.990" style="s2">something not to be viable for</p>
+<p begin="00:38:05.099" end="00:38:09.510" style="s2">incineration and they would they</p>
+<p begin="00:38:06.990" end="00:38:12.180" style="s2">justified the adding of non radioactive</p>
+<p begin="00:38:09.510" end="00:38:15.299" style="s2">material to this radioactive waste in</p>
+<p begin="00:38:12.180" end="00:38:17.309" style="s2">order to get it below the threshold just</p>
+<p begin="00:38:15.299" end="00:38:18.450" style="s2">no justification for this at all it does</p>
+<p begin="00:38:17.309" end="00:38:20.099" style="s2">is add extra pollutants to the</p>
+<p begin="00:38:18.450" end="00:38:22.710" style="s2">atmosphere but they&#39;ve gamed their own</p>
+<p begin="00:38:20.099" end="00:38:26.099" style="s2">standard and then I remember they were</p>
+<p begin="00:38:22.710" end="00:38:27.829" style="s2">moving waste around the country to burn</p>
+<p begin="00:38:26.099" end="00:38:31.619" style="s2">it in different places and the only</p>
+<p begin="00:38:27.829" end="00:38:34.799" style="s2">argument for doing this and I could see</p>
+<p begin="00:38:31.619" end="00:38:37.109" style="s2">is that later on if you wanted to find</p>
+<p begin="00:38:34.799" end="00:38:38.369" style="s2">out how bad the Fukushima disaster was</p>
+<p begin="00:38:37.109" end="00:38:39.960" style="s2">you were gonna have to figure out what</p>
+<p begin="00:38:38.369" end="00:38:42.180" style="s2">the baseline rate of all of these</p>
+<p begin="00:38:39.960" end="00:38:43.920" style="s2">cancers was well if you&#39;re burning the</p>
+<p begin="00:38:42.180" end="00:38:46.349" style="s2">radioactive waste in different parts of</p>
+<p begin="00:38:43.920" end="00:38:48.029" style="s2">the country then the baseline will be</p>
+<p begin="00:38:46.349" end="00:38:50.039" style="s2">artificially high which will make the</p>
+<p begin="00:38:48.029" end="00:38:52.619" style="s2">Fukushima disaster look artificially</p>
+<p begin="00:38:50.039" end="00:38:55.400" style="s2">okay so anyway monkeying with the</p>
+<p begin="00:38:52.619" end="00:38:58.109" style="s2">baseline is one way to dodge</p>
+<p begin="00:38:55.400" end="00:38:59.849" style="s2">responsibility and I&#39;m concerned that</p>
+<p begin="00:38:58.109" end="00:39:02.789" style="s2">what we are facing is a political</p>
+<p begin="00:38:59.849" end="00:39:05.640" style="s2">apparatus that is playing that game and</p>
+<p begin="00:39:02.789" end="00:39:08.400" style="s2">blinding us scientifically at a time</p>
+<p begin="00:39:05.640" end="00:39:10.650" style="s2">when we need high quality vision more</p>
+<p begin="00:39:08.400" end="00:39:12.210" style="s2">than ever they seem totally willing and</p>
+<p begin="00:39:10.650" end="00:39:15.180" style="s2">capable of monkeying with the baseline</p>
+<p begin="00:39:12.210" end="00:39:17.359" style="s2">like this phrase very much Fukushima of</p>
+<p begin="00:39:15.180" end="00:39:20.010" style="s2">course like Deepwater Horizon as well</p>
+<p begin="00:39:17.359" end="00:39:21.839" style="s2">was different from what&#39;s happening here</p>
+<p begin="00:39:20.010" end="00:39:23.549" style="s2">in that while there was an event</p>
+<p begin="00:39:21.839" end="00:39:25.650" style="s2">presumably there was a patient zero</p>
+<p begin="00:39:23.549" end="00:39:27.510" style="s2">there was an origination of this virus</p>
+<p begin="00:39:25.650" end="00:39:31.349" style="s2">wherever it came from as we&#39;ve talked</p>
+<p begin="00:39:27.510" end="00:39:33.960" style="s2">about in past podcasts our awareness of</p>
+<p begin="00:39:31.349" end="00:39:36.599" style="s2">it in much of the world was this rolling</p>
+<p begin="00:39:33.960" end="00:39:39.869" style="s2">awareness right there was not an event a</p>
+<p begin="00:39:36.599" end="00:39:44.520" style="s2">tsunami or a burst gas line in the case</p>
+<p begin="00:39:39.869" end="00:39:48.960" style="s2">of Deepwater Horizon and it means that</p>
+<p begin="00:39:44.520" end="00:39:51.930" style="s2">there was denial followed by possible</p>
+<p begin="00:39:48.960" end="00:39:53.640" style="s2">embarrassment and then sort of late to</p>
+<p begin="00:39:51.930" end="00:39:55.049" style="s2">the game I would think comes monkeying</p>
+<p begin="00:39:53.640" end="00:39:56.099" style="s2">with the baseline hey we can be</p>
+<p begin="00:39:55.049" end="00:39:58.920" style="s2">opportunistic</p>
+<p begin="00:39:56.099" end="00:40:00.089" style="s2">and change what&#39;s going on it just</p>
+<p begin="00:39:58.920" end="00:40:02.160" style="s2">doesn&#39;t it doesn&#39;t look like the</p>
+<p begin="00:40:00.089" end="00:40:04.229" style="s2">monkeying with the baseline thing is</p>
+<p begin="00:40:02.160" end="00:40:05.789" style="s2">what was happening earliest at least not</p>
+<p begin="00:40:04.229" end="00:40:07.650" style="s2">in the US not in the Trump</p>
+<p begin="00:40:05.789" end="00:40:08.940" style="s2">administration you know maybe depending</p>
+<p begin="00:40:07.650" end="00:40:10.739" style="s2">what was going on in China that&#39;s</p>
+<p begin="00:40:08.940" end="00:40:12.119" style="s2">possible but it depends a lot on what</p>
+<p begin="00:40:10.739" end="00:40:14.609" style="s2">was actually happening there well I</p>
+<p begin="00:40:12.119" end="00:40:16.769" style="s2">think the problem is I don&#39;t know how</p>
+<p begin="00:40:14.609" end="00:40:18.959" style="s2">monkeying with the baseline shows up in</p>
+<p begin="00:40:16.769" end="00:40:20.400" style="s2">the official discussions but my sense is</p>
+<p begin="00:40:18.959" end="00:40:23.420" style="s2">it&#39;s going to happen everywhere that</p>
+<p begin="00:40:20.400" end="00:40:25.709" style="s2">responsibility is being apportioned and</p>
+<p begin="00:40:23.420" end="00:40:28.079" style="s2">you know I think it accounts for some of</p>
+<p begin="00:40:25.709" end="00:40:30.209" style="s2">what we see in China and a lot of what</p>
+<p begin="00:40:28.079" end="00:40:31.920" style="s2">we see in the US and when it first dawns</p>
+<p begin="00:40:30.209" end="00:40:34.319" style="s2">on people that they don&#39;t want good data</p>
+<p begin="00:40:31.920" end="00:40:36.690" style="s2">I don&#39;t know and it may be that that</p>
+<p begin="00:40:34.319" end="00:40:39.959" style="s2">becomes a stance that you even recognize</p>
+<p begin="00:40:36.690" end="00:40:41.609" style="s2">as a general matter that good data tends</p>
+<p begin="00:40:39.959" end="00:40:44.910" style="s2">to put you in an awkward spot and so</p>
+<p begin="00:40:41.609" end="00:40:47.219" style="s2">cloudy data is preferable if you&#39;re in a</p>
+<p begin="00:40:44.910" end="00:40:51.019" style="s2">political position of authority but we</p>
+<p begin="00:40:47.219" end="00:40:53.459" style="s2">who have to face the the outcomes here</p>
+<p begin="00:40:51.019" end="00:40:55.410" style="s2">have an interest in forcing our</p>
+<p begin="00:40:53.459" end="00:40:56.940" style="s2">political apparatus to do right by us</p>
+<p begin="00:40:55.410" end="00:41:00.119" style="s2">and so I was going to make a suggestion</p>
+<p begin="00:40:56.940" end="00:41:02.190" style="s2">for in addition to what you have been</p>
+<p begin="00:41:00.119" end="00:41:04.469" style="s2">saying since the literally moment one on</p>
+<p begin="00:41:02.190" end="00:41:07.259" style="s2">this which is testing testing testing</p>
+<p begin="00:41:04.469" end="00:41:08.789" style="s2">that is absolutely the first move here</p>
+<p begin="00:41:07.259" end="00:41:13.559" style="s2">is to figure out how widespread this</p>
+<p begin="00:41:08.789" end="00:41:15.269" style="s2">thing is but people who have been paying</p>
+<p begin="00:41:13.559" end="00:41:17.640" style="s2">attention to these live streams will</p>
+<p begin="00:41:15.269" end="00:41:20.130" style="s2">remember we talked about the the USS</p>
+<p begin="00:41:17.640" end="00:41:22.670" style="s2">Theodore Roosevelt the aircraft carrier</p>
+<p begin="00:41:20.130" end="00:41:25.559" style="s2">that docked in Guam because it had a</p>
+<p begin="00:41:22.670" end="00:41:27.119" style="s2">infection spreading on board and I</p>
+<p begin="00:41:25.559" end="00:41:28.890" style="s2">remarked that this was a lost</p>
+<p begin="00:41:27.119" end="00:41:30.660" style="s2">opportunity because this had been an</p>
+<p begin="00:41:28.890" end="00:41:32.609" style="s2">isolated population which actually</p>
+<p begin="00:41:30.660" end="00:41:34.229" style="s2">allowed you to get good data about how</p>
+<p begin="00:41:32.609" end="00:41:38.069" style="s2">this stuff is spreading and what the</p>
+<p begin="00:41:34.229" end="00:41:43.289" style="s2">rates of mortality and serious illness</p>
+<p begin="00:41:38.069" end="00:41:48.719" style="s2">are per infected person yeah that ship</p>
+<p begin="00:41:43.289" end="00:41:50.969" style="s2">has unsay lizards docked but what I</p>
+<p begin="00:41:48.719" end="00:41:53.549" style="s2">would I really actually in the middle of</p>
+<p begin="00:41:50.969" end="00:41:55.829" style="s2">the night last night was that what was</p>
+<p begin="00:41:53.549" end="00:41:58.699" style="s2">going on that is what was going on is</p>
+<p begin="00:41:55.829" end="00:42:01.349" style="s2">that military bases might actually</p>
+<p begin="00:41:58.699" end="00:42:03.479" style="s2">provide the opportunity that we need and</p>
+<p begin="00:42:01.349" end="00:42:06.119" style="s2">I want to be very careful here I am NOT</p>
+<p begin="00:42:03.479" end="00:42:06.460" style="s2">suggesting that anybody experiment on</p>
+<p begin="00:42:06.119" end="00:42:08.770" style="s2">the</p>
+<p begin="00:42:06.460" end="00:42:10.119" style="s2">Terry there is a very dark history of</p>
+<p begin="00:42:08.770" end="00:42:11.950" style="s2">that sort of behavior and I&#39;m not</p>
+<p begin="00:42:10.119" end="00:42:15.040" style="s2">advocating that but what I am suggesting</p>
+<p begin="00:42:11.950" end="00:42:18.220" style="s2">is that military bases function as</p>
+<p begin="00:42:15.040" end="00:42:21.310" style="s2">effectively towns they have their towns</p>
+<p begin="00:42:18.220" end="00:42:23.680" style="s2">with a gate where you know who comes in</p>
+<p begin="00:42:21.310" end="00:42:25.930" style="s2">and you know who leaves and we&#39;ve got</p>
+<p begin="00:42:23.680" end="00:42:27.580" style="s2">built in track and trace right built in</p>
+<p begin="00:42:25.930" end="00:42:29.680" style="s2">track and trace you have a system of</p>
+<p begin="00:42:27.580" end="00:42:33.900" style="s2">authority in which people can actually</p>
+<p begin="00:42:29.680" end="00:42:38.170" style="s2">be you know told do this don&#39;t do that</p>
+<p begin="00:42:33.900" end="00:42:42.490" style="s2">and the question is could these bases be</p>
+<p begin="00:42:38.170" end="00:42:43.930" style="s2">used a as study locales so could we when</p>
+<p begin="00:42:42.490" end="00:42:47.260" style="s2">I was thinking is that we would have two</p>
+<p begin="00:42:43.930" end="00:42:49.060" style="s2">medical teams on a base you would have</p>
+<p begin="00:42:47.260" end="00:42:51.790" style="s2">the team that was dealing with treating</p>
+<p begin="00:42:49.060" end="00:42:53.589" style="s2">the patients and unlike is happening in</p>
+<p begin="00:42:51.790" end="00:42:55.630" style="s2">the world at large you would have an</p>
+<p begin="00:42:53.589" end="00:42:57.640" style="s2">entirely separate team dealing with</p>
+<p begin="00:42:55.630" end="00:43:02.410" style="s2">understanding what&#39;s taking place right</p>
+<p begin="00:42:57.640" end="00:43:09.099" style="s2">and that we could discover a how similar</p>
+<p begin="00:43:02.410" end="00:43:11.320" style="s2">these these outbreaks are be you could</p>
+<p begin="00:43:09.099" end="00:43:12.760" style="s2">potentially test different things like</p>
+<p begin="00:43:11.320" end="00:43:15.880" style="s2">different bases could have slightly</p>
+<p begin="00:43:12.760" end="00:43:17.589" style="s2">different rules about you know whether</p>
+<p begin="00:43:15.880" end="00:43:19.119" style="s2">you&#39;re allowed to go to the park and we</p>
+<p begin="00:43:17.589" end="00:43:22.240" style="s2">could discover if in fact going to the</p>
+<p begin="00:43:19.119" end="00:43:24.760" style="s2">park is really a safe thing to do and so</p>
+<p begin="00:43:22.240" end="00:43:26.770" style="s2">anyway I don&#39;t know how it would be done</p>
+<p begin="00:43:24.760" end="00:43:29.320" style="s2">responsibly but I do believe that there</p>
+<p begin="00:43:26.770" end="00:43:32.020" style="s2">is a responsible way that would treat</p>
+<p begin="00:43:29.320" end="00:43:34.930" style="s2">the members of our military with honor</p>
+<p begin="00:43:32.020" end="00:43:36.460" style="s2">but also allow us to take advantage of</p>
+<p begin="00:43:34.930" end="00:43:39.430" style="s2">the fact that they already have these</p>
+<p begin="00:43:36.460" end="00:43:41.589" style="s2">isolated communities established with</p>
+<p begin="00:43:39.430" end="00:43:45.430" style="s2">all of the tools necessary for us to</p>
+<p begin="00:43:41.589" end="00:43:48.040" style="s2">understand how you know cause results in</p>
+<p begin="00:43:45.430" end="00:43:50.349" style="s2">effect and potentially allowing for also</p>
+<p begin="00:43:48.040" end="00:43:52.119" style="s2">iterated serology testing you know I&#39;m</p>
+<p begin="00:43:50.349" end="00:43:53.619" style="s2">just adding more and more to what I want</p>
+<p begin="00:43:52.119" end="00:43:55.570" style="s2">out of the testing apparatus but</p>
+<p begin="00:43:53.619" end="00:43:57.520" style="s2">widespread antigen testing for current</p>
+<p begin="00:43:55.570" end="00:43:59.500" style="s2">infection widespread serology testing</p>
+<p begin="00:43:57.520" end="00:44:03.339" style="s2">for past infection which looks for</p>
+<p begin="00:43:59.500" end="00:44:05.320" style="s2">antibodies and at most I think people</p>
+<p begin="00:44:03.339" end="00:44:06.550" style="s2">have been tested twice or if they got</p>
+<p begin="00:44:05.320" end="00:44:09.040" style="s2">better than they maybe got sick again</p>
+<p begin="00:44:06.550" end="00:44:10.599" style="s2">maybe a third time but in order to</p>
+<p begin="00:44:09.040" end="00:44:14.020" style="s2">assess whether or not your first</p>
+<p begin="00:44:10.599" end="00:44:15.609" style="s2">positive was a positive maybe people you</p>
+<p begin="00:44:14.020" end="00:44:17.950" style="s2">know it was a false positive a real</p>
+<p begin="00:44:15.609" end="00:44:19.870" style="s2">positive people get tested twice but I</p>
+<p begin="00:44:17.950" end="00:44:21.430" style="s2">would love to know what</p>
+<p begin="00:44:19.870" end="00:44:24.460" style="s2">happens to those titers what happens to</p>
+<p begin="00:44:21.430" end="00:44:27.010" style="s2">the levels of antibodies over time early</p>
+<p begin="00:44:24.460" end="00:44:28.960" style="s2">estimates were suggesting that it&#39;s a</p>
+<p begin="00:44:27.010" end="00:44:32.620" style="s2">good seven to ten days after active</p>
+<p begin="00:44:28.960" end="00:44:34.390" style="s2">infection before you have any noticeable</p>
+<p begin="00:44:32.620" end="00:44:37.240" style="s2">antibodies in your system and that</p>
+<p begin="00:44:34.390" end="00:44:40.300" style="s2">climbs for three weeks or so and then</p>
+<p begin="00:44:37.240" end="00:44:42.400" style="s2">remain steady for no one knows no one</p>
+<p begin="00:44:40.300" end="00:44:45.580" style="s2">knows as far as I can tell in part</p>
+<p begin="00:44:42.400" end="00:44:47.350" style="s2">because the tests are are just missing</p>
+<p begin="00:44:45.580" end="00:44:49.870" style="s2">in action and this is partially due to</p>
+<p begin="00:44:47.350" end="00:44:52.300" style="s2">errors in the early days at least in the</p>
+<p begin="00:44:49.870" end="00:44:55.090" style="s2">US and the part of the CDC and such but</p>
+<p begin="00:44:52.300" end="00:44:58.270" style="s2">it&#39;s much more widespread than that so I</p>
+<p begin="00:44:55.090" end="00:45:00.790" style="s2">would love to see people who do show as</p>
+<p begin="00:44:58.270" end="00:45:02.530" style="s2">having been infected I would like to</p>
+<p begin="00:45:00.790" end="00:45:04.510" style="s2">know what happens to their antibody</p>
+<p begin="00:45:02.530" end="00:45:07.360" style="s2">titers over time which would then begin</p>
+<p begin="00:45:04.510" end="00:45:10.480" style="s2">to give us a sense possibly as to</p>
+<p begin="00:45:07.360" end="00:45:10.840" style="s2">whether or not immunity lasts and for</p>
+<p begin="00:45:10.480" end="00:45:14.380" style="s2">how long</p>
+<p begin="00:45:10.840" end="00:45:16.060" style="s2">yep so imagine you had a military base</p>
+<p begin="00:45:14.380" end="00:45:19.090" style="s2">in which everybody was being tracked</p>
+<p begin="00:45:16.060" end="00:45:21.010" style="s2">from some you know moment zero yeah and</p>
+<p begin="00:45:19.090" end="00:45:23.950" style="s2">you could simply say well what do we</p>
+<p begin="00:45:21.010" end="00:45:26.680" style="s2">know about asymptomatic cases and</p>
+<p begin="00:45:23.950" end="00:45:30.100" style="s2">whether or not they show the same kind</p>
+<p begin="00:45:26.680" end="00:45:32.560" style="s2">of ground-glass lung damage that shows</p>
+<p begin="00:45:30.100" end="00:45:34.810" style="s2">up in severe cases well that&#39;s an easy</p>
+<p begin="00:45:32.560" end="00:45:37.090" style="s2">you could test that question I would</p>
+<p begin="00:45:34.810" end="00:45:38.590" style="s2">imagine in a few days if you had a</p>
+<p begin="00:45:37.090" end="00:45:40.840" style="s2">population where you could simply</p>
+<p begin="00:45:38.590" end="00:45:43.720" style="s2">identify here are some people who match</p>
+<p begin="00:45:40.840" end="00:45:45.310" style="s2">that description let&#39;s give them an</p>
+<p begin="00:45:43.720" end="00:45:47.440" style="s2">x-ray and find out how their lungs look</p>
+<p begin="00:45:45.310" end="00:45:51.340" style="s2">and then you know track them over time</p>
+<p begin="00:45:47.440" end="00:45:52.810" style="s2">so in some sense I&#39;m heartened by the</p>
+<p begin="00:45:51.340" end="00:45:56.200" style="s2">way the scientific apparatus is</p>
+<p begin="00:45:52.810" end="00:45:58.240" style="s2">functioning I am disheartened by why we</p>
+<p begin="00:45:56.200" end="00:46:01.060" style="s2">are scratching our heads over what seems</p>
+<p begin="00:45:58.240" end="00:46:04.570" style="s2">like some of the most basic questions</p>
+<p begin="00:46:01.060" end="00:46:06.880" style="s2">about the course of this disease even</p>
+<p begin="00:46:04.570" end="00:46:10.590" style="s2">here you know many weeks down the road</p>
+<p begin="00:46:06.880" end="00:46:12.280" style="s2">yeah months yeah yeah I agree</p>
+<p begin="00:46:10.590" end="00:46:14.590" style="s2">well what else do you want to talk about</p>
+<p begin="00:46:12.280" end="00:46:17.470" style="s2">today we got maybe 15 minutes left um I</p>
+<p begin="00:46:14.590" end="00:46:20.590" style="s2">think we should talk about the subway</p>
+<p begin="00:46:17.470" end="00:46:22.840" style="s2">study all right now that I think I do</p>
+<p begin="00:46:20.590" end="00:46:27.640" style="s2">have open here I think hold on Zack let</p>
+<p begin="00:46:22.840" end="00:46:31.950" style="s2">me yeah this is it so you can put it on</p>
+<p begin="00:46:27.640" end="00:46:37.780" style="s2">my put my computer screen on</p>
+<p begin="00:46:31.950" end="00:46:39.520" style="s2">on okay so this came out of MIT</p>
+<p begin="00:46:37.780" end="00:46:43.210" style="s2">I don&#39;t know this month I don&#39;t remember</p>
+<p begin="00:46:39.520" end="00:46:45.010" style="s2">exactly when oh very recently so the</p>
+<p begin="00:46:43.210" end="00:46:46.359" style="s2">subways seeded the massive coronavirus</p>
+<p begin="00:46:45.010" end="00:46:48.580" style="s2">epidemic in New York City</p>
+<p begin="00:46:46.359" end="00:46:52.510" style="s2">is the title of the working paper</p>
+<p begin="00:46:48.580" end="00:46:56.290" style="s2">Jeffrey Harris who is an economist and</p>
+<p begin="00:46:52.510" end="00:46:58.090" style="s2">this paper is a it&#39;s a very interesting</p>
+<p begin="00:46:56.290" end="00:46:59.920" style="s2">paper basically it looks at New York and</p>
+<p begin="00:46:58.090" end="00:47:06.130" style="s2">it tries to figure out why New York</p>
+<p begin="00:46:59.920" end="00:47:10.540" style="s2">suffered the the rather impressive rate</p>
+<p begin="00:47:06.130" end="00:47:12.310" style="s2">of infection that it has faced and as it</p>
+<p begin="00:47:10.540" end="00:47:18.340" style="s2">says right up front it tested the</p>
+<p begin="00:47:12.310" end="00:47:21.670" style="s2">hypothesis that that the virus was being</p>
+<p begin="00:47:18.340" end="00:47:25.540" style="s2">transmitted by the subway and it goes on</p>
+<p begin="00:47:21.670" end="00:47:27.760" style="s2">to you know the paper is very careful it</p>
+<p begin="00:47:25.540" end="00:47:29.920" style="s2">says look we don&#39;t know whether this is</p>
+<p begin="00:47:27.760" end="00:47:33.820" style="s2">actually true because the subway is</p>
+<p begin="00:47:29.920" end="00:47:37.599" style="s2">obviously a non-random network of trains</p>
+<p begin="00:47:33.820" end="00:47:40.060" style="s2">those trains are built to accommodate at</p>
+<p begin="00:47:37.599" end="00:47:42.640" style="s2">least the historical understanding of</p>
+<p begin="00:47:40.060" end="00:47:45.119" style="s2">where people needed to go from and - and</p>
+<p begin="00:47:42.640" end="00:47:47.589" style="s2">so there are lots of other things that</p>
+<p begin="00:47:45.119" end="00:47:51.099" style="s2">travel at the same you know in the same</p>
+<p begin="00:47:47.589" end="00:47:53.680" style="s2">pattern however it does appear to be a</p>
+<p begin="00:47:51.099" end="00:47:56.500" style="s2">very careful hypothesis test and you may</p>
+<p begin="00:47:53.680" end="00:47:59.349" style="s2">have heard so the study is it says it&#39;s</p>
+<p begin="00:47:56.500" end="00:48:00.820" style="s2">a correlational study but I believe it&#39;s</p>
+<p begin="00:47:59.349" end="00:48:02.440" style="s2">actually a little too cautious on this</p>
+<p begin="00:48:00.820" end="00:48:06.400" style="s2">front you know that the correlation</p>
+<p begin="00:48:02.440" end="00:48:09.460" style="s2">being he&#39;s mapped cases I believe it&#39;s</p>
+<p begin="00:48:06.400" end="00:48:11.560" style="s2">just active cases known in various parts</p>
+<p begin="00:48:09.460" end="00:48:15.369" style="s2">of in zip codes I think it is in New</p>
+<p begin="00:48:11.560" end="00:48:17.500" style="s2">York City and also then looked actually</p>
+<p begin="00:48:15.369" end="00:48:18.940" style="s2">maybe I can pull this up he&#39;s got he&#39;s</p>
+<p begin="00:48:17.500" end="00:48:21.220" style="s2">got a lot of good maps okay so I can&#39;t</p>
+<p begin="00:48:18.940" end="00:48:22.510" style="s2">want to put this back up just so sorry</p>
+<p begin="00:48:21.220" end="00:48:24.339" style="s2">to interrupt Brett but just so people</p>
+<p begin="00:48:22.510" end="00:48:27.390" style="s2">can see what one of the things he&#39;s done</p>
+<p begin="00:48:24.339" end="00:48:30.820" style="s2">is he&#39;s got new reported cases in</p>
+<p begin="00:48:27.390" end="00:48:33.880" style="s2">Manhattan as the red dots here and then</p>
+<p begin="00:48:30.820" end="00:48:36.880" style="s2">the sky blue bars are turnstile entries</p>
+<p begin="00:48:33.880" end="00:48:40.960" style="s2">so entries at turnstiles in the subway</p>
+<p begin="00:48:36.880" end="00:48:44.680" style="s2">system from March 1st through April 4th</p>
+<p begin="00:48:40.960" end="00:48:47.420" style="s2">I guess where you see that</p>
+<p begin="00:48:44.680" end="00:48:50.839" style="s2">no strictures were in place I believe</p>
+<p begin="00:48:47.420" end="00:48:52.579" style="s2">that first week of March and then it</p>
+<p begin="00:48:50.839" end="00:48:54.439" style="s2">starts decline and it declines quite a</p>
+<p begin="00:48:52.579" end="00:48:57.279" style="s2">lot and later in the paper he&#39;s got this</p>
+<p begin="00:48:54.439" end="00:49:02.749" style="s2">divided up into the five boroughs and</p>
+<p begin="00:48:57.279" end="00:49:04.759" style="s2">also looking at differences he does he</p>
+<p begin="00:49:02.749" end="00:49:07.910" style="s2">does is up a lot see if you can find the</p>
+<p begin="00:49:04.759" end="00:49:11.839" style="s2">the map he says actually particular</p>
+<p begin="00:49:07.910" end="00:49:19.099" style="s2">lines are suspect and this one arose why</p>
+<p begin="00:49:11.839" end="00:49:21.319" style="s2">not yet Zack keep going yeah a lot of</p>
+<p begin="00:49:19.099" end="00:49:23.660" style="s2">fascinating maps in this paper also I</p>
+<p begin="00:49:21.319" end="00:49:26.150" style="s2">shall say what are we that&#39;s one of them</p>
+<p begin="00:49:23.660" end="00:49:27.650" style="s2">so this is one line this paper is also</p>
+<p begin="00:49:26.150" end="00:49:30.079" style="s2">very funny</p>
+<p begin="00:49:27.650" end="00:49:31.519" style="s2">yeah he uses humor in a way that you</p>
+<p begin="00:49:30.079" end="00:49:33.229" style="s2">don&#39;t tend to see in academic papers</p>
+<p begin="00:49:31.519" end="00:49:36.799" style="s2">usually presumably it&#39;s peer reviewed</p>
+<p begin="00:49:33.229" end="00:49:38.989" style="s2">out yeah I mean I guess this is part of</p>
+<p begin="00:49:36.799" end="00:49:40.579" style="s2">what I&#39;m reacting to is that there is</p>
+<p begin="00:49:38.989" end="00:49:42.140" style="s2">something that has become more honest</p>
+<p begin="00:49:40.579" end="00:49:47.239" style="s2">about the way people are writing in this</p>
+<p begin="00:49:42.140" end="00:49:49.249" style="s2">context and so anyway keep scrolling a</p>
+<p begin="00:49:47.239" end="00:49:50.989" style="s2">little bit I will just say in you want a</p>
+<p begin="00:49:49.249" end="00:49:52.359" style="s2">different map yeah you want the map that</p>
+<p begin="00:49:50.989" end="00:49:54.380" style="s2">intersects the two lines</p>
+<p begin="00:49:52.359" end="00:49:55.519" style="s2">sorry probably giving people vertigo</p>
+<p begin="00:49:54.380" end="00:49:58.819" style="s2">yeah we are probably giving people</p>
+<p begin="00:49:55.519" end="00:50:02.269" style="s2">vertigo yeah so okay so Zack to show</p>
+<p begin="00:49:58.819" end="00:50:04.249" style="s2">this one it&#39;s a little hard for me to</p>
+<p begin="00:50:02.269" end="00:50:06.130" style="s2">parse which which map this is but it</p>
+<p begin="00:50:04.249" end="00:50:09.619" style="s2">doesn&#39;t really matter that the point is</p>
+<p begin="00:50:06.130" end="00:50:11.539" style="s2">we have a correlational study you have</p>
+<p begin="00:50:09.619" end="00:50:15.589" style="s2">probably been told that correlation does</p>
+<p begin="00:50:11.539" end="00:50:18.499" style="s2">not imply causation that is a lie I am</p>
+<p begin="00:50:15.589" end="00:50:20.719" style="s2">sorry somebody hurt you that way the</p>
+<p begin="00:50:18.499" end="00:50:23.359" style="s2">truth is that correlation does imply</p>
+<p begin="00:50:20.719" end="00:50:25.939" style="s2">causation when that correlation maps on</p>
+<p begin="00:50:23.359" end="00:50:27.920" style="s2">to a pre-existing hypothesis as it does</p>
+<p begin="00:50:25.939" end="00:50:30.410" style="s2">here it does not say that this locks</p>
+<p begin="00:50:27.920" end="00:50:32.119" style="s2">down the question that this is causal</p>
+<p begin="00:50:30.410" end="00:50:35.269" style="s2">but it does say that this is strong</p>
+<p begin="00:50:32.119" end="00:50:38.049" style="s2">evidence of a causal link because the</p>
+<p begin="00:50:35.269" end="00:50:41.029" style="s2">hypothesis was being tested by the paper</p>
+<p begin="00:50:38.049" end="00:50:42.559" style="s2">just with regard to correlation does</p>
+<p begin="00:50:41.029" end="00:50:44.660" style="s2">imply causation when it maps on to a</p>
+<p begin="00:50:42.559" end="00:50:46.939" style="s2">pre-existing hypothesis that does not</p>
+<p begin="00:50:44.660" end="00:50:48.259" style="s2">require that the data didn&#39;t exist at</p>
+<p begin="00:50:46.939" end="00:50:49.849" style="s2">the point that the hypothesis was</p>
+<p begin="00:50:48.259" end="00:50:51.920" style="s2">formulated with that the person</p>
+<p begin="00:50:49.849" end="00:50:54.229" style="s2">formulating the hypothesis was not aware</p>
+<p begin="00:50:51.920" end="00:50:54.949" style="s2">of the data exactly the information was</p>
+<p begin="00:50:54.229" end="00:50:56.760" style="s2">out there</p>
+<p begin="00:50:54.949" end="00:50:58.830" style="s2">this guy Harris</p>
+<p begin="00:50:56.760" end="00:51:00.540" style="s2">said I&#39;ve got an idea I&#39;ve got a</p>
+<p begin="00:50:58.830" end="00:51:05.220" style="s2">hypothesis I think that it was about</p>
+<p begin="00:51:00.540" end="00:51:07.860" style="s2">Subway ridership that that is related to</p>
+<p begin="00:51:05.220" end="00:51:11.160" style="s2">that was causing New York City to be</p>
+<p begin="00:51:07.860" end="00:51:13.140" style="s2">such an epicenter of outbreak and he</p>
+<p begin="00:51:11.160" end="00:51:16.320" style="s2">then went having made the prediction</p>
+<p begin="00:51:13.140" end="00:51:18.480" style="s2">into the data and used the de are to</p>
+<p begin="00:51:16.320" end="00:51:20.070" style="s2">effectively effectively test the</p>
+<p begin="00:51:18.480" end="00:51:22.440" style="s2">hypotheses although he doesn&#39;t make such</p>
+<p begin="00:51:20.070" end="00:51:24.090" style="s2">a broad claim here yep he&#39;s a little</p>
+<p begin="00:51:22.440" end="00:51:27.690" style="s2">more cautious than I think he needs to</p>
+<p begin="00:51:24.090" end="00:51:29.580" style="s2">be but he even discovers patterns within</p>
+<p begin="00:51:27.690" end="00:51:35.130" style="s2">that not only our particular subway</p>
+<p begin="00:51:29.580" end="00:51:37.740" style="s2">lines implicated but the local trains</p>
+<p begin="00:51:35.130" end="00:51:39.840" style="s2">are apparently a particular source of</p>
+<p begin="00:51:37.740" end="00:51:42.510" style="s2">infection if this hypothesis is correct</p>
+<p begin="00:51:39.840" end="00:51:46.110" style="s2">and the reason is basically that local</p>
+<p begin="00:51:42.510" end="00:51:48.840" style="s2">trains keep you in contact with other</p>
+<p begin="00:51:46.110" end="00:51:50.460" style="s2">people longer so a local train is one</p>
+<p begin="00:51:48.840" end="00:51:52.500" style="s2">that stops at each of the stations along</p>
+<p begin="00:51:50.460" end="00:51:54.840" style="s2">the way and so if you&#39;re going a long</p>
+<p begin="00:51:52.500" end="00:51:56.790" style="s2">distance on a train and there are no</p>
+<p begin="00:51:54.840" end="00:51:58.710" style="s2">Express trains you get on the local</p>
+<p begin="00:51:56.790" end="00:52:00.420" style="s2">train and you&#39;re on it longer because</p>
+<p begin="00:51:58.710" end="00:52:01.920" style="s2">you&#39;re stopping at each thing which also</p>
+<p begin="00:52:00.420" end="00:52:03.930" style="s2">means you&#39;re being exposed to more</p>
+<p begin="00:52:01.920" end="00:52:05.070" style="s2">people so maybe this is obvious to</p>
+<p begin="00:52:03.930" end="00:52:06.540" style="s2">people but you know it wasn&#39;t to our</p>
+<p begin="00:52:05.070" end="00:52:07.920" style="s2">children we were talking about this last</p>
+<p begin="00:52:06.540" end="00:52:10.410" style="s2">night you know if you&#39;re going from A to</p>
+<p begin="00:52:07.920" end="00:52:12.180" style="s2">G an express train takes you you get on</p>
+<p begin="00:52:10.410" end="00:52:14.250" style="s2">an A and it doesn&#39;t stop until you get</p>
+<p begin="00:52:12.180" end="00:52:15.990" style="s2">to G that&#39;s quite different from a local</p>
+<p begin="00:52:14.250" end="00:52:17.850" style="s2">train where it&#39;ll not only take you</p>
+<p begin="00:52:15.990" end="00:52:19.140" style="s2">longer which is why people usually don&#39;t</p>
+<p begin="00:52:17.850" end="00:52:20.910" style="s2">like the local trains if they know</p>
+<p begin="00:52:19.140" end="00:52:23.880" style="s2">they&#39;re going all the way to G but if it</p>
+<p begin="00:52:20.910" end="00:52:25.230" style="s2">stops at b c d e and f on the way there</p>
+<p begin="00:52:23.880" end="00:52:28.260" style="s2">are many more possible transmission</p>
+<p begin="00:52:25.230" end="00:52:29.730" style="s2">points along the way yep and you will</p>
+<p begin="00:52:28.260" end="00:52:31.410" style="s2">have been exposed to many more people</p>
+<p begin="00:52:29.730" end="00:52:34.260" style="s2">right that&#39;s the transmission points</p>
+<p begin="00:52:31.410" end="00:52:38.250" style="s2">yeah transmission points okay so they&#39;re</p>
+<p begin="00:52:34.260" end="00:52:42.300" style="s2">points now in any case what he concludes</p>
+<p begin="00:52:38.250" end="00:52:44.160" style="s2">in this paper is that the reaction of</p>
+<p begin="00:52:42.300" end="00:52:47.160" style="s2">the Transit Authority doesn&#39;t blame them</p>
+<p begin="00:52:44.160" end="00:52:50.310" style="s2">because they didn&#39;t know but what we now</p>
+<p begin="00:52:47.160" end="00:52:52.740" style="s2">perhaps know but he says the reaction</p>
+<p begin="00:52:50.310" end="00:52:54.930" style="s2">was the wrong one which was to make all</p>
+<p begin="00:52:52.740" end="00:52:57.120" style="s2">trains local and to reduce the number of</p>
+<p begin="00:52:54.930" end="00:52:59.070" style="s2">trains to discourage ridership and the</p>
+<p begin="00:52:57.120" end="00:53:01.470" style="s2">point is if the mechanism here is right</p>
+<p begin="00:52:59.070" end="00:53:03.420" style="s2">then the best reaction would have been</p>
+<p begin="00:53:01.470" end="00:53:06.250" style="s2">to increase the number of trains and</p>
+<p begin="00:53:03.420" end="00:53:08.380" style="s2">Express trains beat local trains because</p>
+<p begin="00:53:06.250" end="00:53:11.560" style="s2">you&#39;re less likely to be infected in</p>
+<p begin="00:53:08.380" end="00:53:15.160" style="s2">them he also points out that the fact of</p>
+<p begin="00:53:11.560" end="00:53:18.760" style="s2">trains interacting with the epidemiology</p>
+<p begin="00:53:15.160" end="00:53:20.800" style="s2">here is also strongly suggestive of</p>
+<p begin="00:53:18.760" end="00:53:22.240" style="s2">economic factors and people have been</p>
+<p begin="00:53:20.800" end="00:53:24.760" style="s2">trying to chase down what are the</p>
+<p begin="00:53:22.240" end="00:53:26.590" style="s2">economic factors that have certain</p>
+<p begin="00:53:24.760" end="00:53:28.870" style="s2">populations more afflicted than others</p>
+<p begin="00:53:26.590" end="00:53:31.750" style="s2">and here would be an obvious one mass</p>
+<p begin="00:53:28.870" end="00:53:34.270" style="s2">transit yeah if you&#39;re condemned to mass</p>
+<p begin="00:53:31.750" end="00:53:37.630" style="s2">transit and you have a job that you</p>
+<p begin="00:53:34.270" end="00:53:39.400" style="s2">can&#39;t afford to not go to because you</p>
+<p begin="00:53:37.630" end="00:53:43.270" style="s2">know you&#39;re depending on it economically</p>
+<p begin="00:53:39.400" end="00:53:44.950" style="s2">week to week then you have a recipe for</p>
+<p begin="00:53:43.270" end="00:53:46.750" style="s2">disaster in some parts of town and not</p>
+<p begin="00:53:44.950" end="00:53:48.970" style="s2">others apparently the Transit Authority</p>
+<p begin="00:53:46.750" end="00:53:51.310" style="s2">started cleaning trains twice a day his</p>
+<p begin="00:53:48.970" end="00:53:55.750" style="s2">point also in the article is you know</p>
+<p begin="00:53:51.310" end="00:53:58.240" style="s2">what more trains still with the hope</p>
+<p begin="00:53:55.750" end="00:54:01.630" style="s2">that there is know that there is far</p>
+<p begin="00:53:58.240" end="00:54:03.220" style="s2">reduced ridership over time but at the</p>
+<p begin="00:54:01.630" end="00:54:06.370" style="s2">end of each line the trains should be</p>
+<p begin="00:54:03.220" end="00:54:09.400" style="s2">being cleaned completely yeah now last</p>
+<p begin="00:54:06.370" end="00:54:11.770" style="s2">point on this I did read one report</p>
+<p begin="00:54:09.400" end="00:54:13.900" style="s2">which reflected something I have been</p>
+<p begin="00:54:11.770" end="00:54:15.790" style="s2">wondering about whether somebody needed</p>
+<p begin="00:54:13.900" end="00:54:19.930" style="s2">to invent this and apparently in Asia</p>
+<p begin="00:54:15.790" end="00:54:22.240" style="s2">there are already UV robots and</p>
+<p begin="00:54:19.930" end="00:54:25.530" style="s2">sanitizers that are being used to do</p>
+<p begin="00:54:22.240" end="00:54:28.630" style="s2">things like clean buses and things so</p>
+<p begin="00:54:25.530" end="00:54:31.450" style="s2">things like that could be very helpful I</p>
+<p begin="00:54:28.630" end="00:54:32.860" style="s2">also strongly suspect that HVAC systems</p>
+<p begin="00:54:31.450" end="00:54:35.650" style="s2">are going to turn out to be a major</p>
+<p begin="00:54:32.860" end="00:54:36.970" style="s2">villain here and though that&#39;s 100</p>
+<p begin="00:54:35.650" end="00:54:38.830" style="s2">percent we actually have begun already</p>
+<p begin="00:54:36.970" end="00:54:41.530" style="s2">to see that that information and it&#39;s</p>
+<p begin="00:54:38.830" end="00:54:43.990" style="s2">utterly predicted by the information</p>
+<p begin="00:54:41.530" end="00:54:47.710" style="s2">from tuberculosis outbreaks from a</p>
+<p begin="00:54:43.990" end="00:54:50.710" style="s2">century ago and how easy a problem is</p>
+<p begin="00:54:47.710" end="00:54:53.080" style="s2">that to solve right because basically to</p>
+<p begin="00:54:50.710" end="00:54:54.880" style="s2">the extent that air is being captured in</p>
+<p begin="00:54:53.080" end="00:54:56.410" style="s2">one place and filtered through some</p>
+<p begin="00:54:54.880" end="00:54:59.050" style="s2">system and then pumped back out</p>
+<p begin="00:54:56.410" end="00:55:01.690" style="s2">elsewhere that air is under your control</p>
+<p begin="00:54:59.050" end="00:55:04.360" style="s2">and what you basically need to do is</p>
+<p begin="00:55:01.690" end="00:55:06.010" style="s2">expose whatever passes through it to</p>
+<p begin="00:55:04.360" end="00:55:08.230" style="s2">extreme enough circumstances that</p>
+<p begin="00:55:06.010" end="00:55:11.320" style="s2">viruses can&#39;t survive be it UV light be</p>
+<p begin="00:55:08.230" end="00:55:14.260" style="s2">it electromagnetic charge whatever it</p>
+<p begin="00:55:11.320" end="00:55:16.030" style="s2">would be again then so we have mass</p>
+<p begin="00:55:14.260" end="00:55:19.280" style="s2">transit which now it&#39;s mostly subways</p>
+<p begin="00:55:16.030" end="00:55:21.230" style="s2">and trains and buses but before</p>
+<p begin="00:55:19.280" end="00:55:22.430" style="s2">lockdowns was obviously plans we have</p>
+<p begin="00:55:21.230" end="00:55:24.980" style="s2">know that planes were the major</p>
+<p begin="00:55:22.430" end="00:55:26.300" style="s2">transmission agent at least between</p>
+<p begin="00:55:24.980" end="00:55:29.270" style="s2">continents and probably within the</p>
+<p begin="00:55:26.300" end="00:55:32.120" style="s2">states in between states as well but yet</p>
+<p begin="00:55:29.270" end="00:55:34.010" style="s2">one more reason go outside be outside</p>
+<p begin="00:55:32.120" end="00:55:36.290" style="s2">when you can&#39;t because your HVAC systems</p>
+<p begin="00:55:34.010" end="00:55:38.870" style="s2">are going to be pushing stuff around in</p>
+<p begin="00:55:36.290" end="00:55:43.670" style="s2">ways that you we do not we do not yet</p>
+<p begin="00:55:38.870" end="00:55:48.020" style="s2">have a control over yeah so all of this</p>
+<p begin="00:55:43.670" end="00:55:51.010" style="s2">suggests that there will be arbitrary</p>
+<p begin="00:55:48.020" end="00:55:53.660" style="s2">features of life that differ between</p>
+<p begin="00:55:51.010" end="00:55:56.360" style="s2">places that will have important</p>
+<p begin="00:55:53.660" end="00:55:58.070" style="s2">epidemiological impacts and one way to</p>
+<p begin="00:55:56.360" end="00:56:00.710" style="s2">think about it is that there are</p>
+<p begin="00:55:58.070" end="00:56:05.240" style="s2">different kinds of reproduction for a</p>
+<p begin="00:56:00.710" end="00:56:07.430" style="s2">pathogen right the fact that is it more</p>
+<p begin="00:56:05.240" end="00:56:11.960" style="s2">true if this paper is accurate is it</p>
+<p begin="00:56:07.430" end="00:56:15.710" style="s2">more true to say that that</p>
+<p begin="00:56:11.960" end="00:56:18.140" style="s2">SARS Cove 2 is transmitted largely</p>
+<p begin="00:56:15.710" end="00:56:20.750" style="s2">through aerosolized particles or by</p>
+<p begin="00:56:18.140" end="00:56:23.090" style="s2">subway right the fact is it actually</p>
+<p begin="00:56:20.750" end="00:56:25.850" style="s2">it&#39;s different scales of transmission</p>
+<p begin="00:56:23.090" end="00:56:28.640" style="s2">right and a virus that&#39;s really</p>
+<p begin="00:56:25.850" end="00:56:30.650" style="s2">successful like this one is one that is</p>
+<p begin="00:56:28.640" end="00:56:32.330" style="s2">utilizing many different modes of</p>
+<p begin="00:56:30.650" end="00:56:33.970" style="s2">transmission over many different scales</p>
+<p begin="00:56:32.330" end="00:56:36.230" style="s2">and yes it always has to go</p>
+<p begin="00:56:33.970" end="00:56:38.060" style="s2">person-to-person except in the rare case</p>
+<p begin="00:56:36.230" end="00:56:41.330" style="s2">that it goes to some other creature but</p>
+<p begin="00:56:38.060" end="00:56:43.580" style="s2">person-to-person when that person is in</p>
+<p begin="00:56:41.330" end="00:56:46.760" style="s2">transit over an ocean is obviously its</p>
+<p begin="00:56:43.580" end="00:56:47.990" style="s2">own its own hazard absolutely to start</p>
+<p begin="00:56:46.760" end="00:56:51.590" style="s2">thinking at these multiple scales</p>
+<p begin="00:56:47.990" end="00:56:53.390" style="s2">simultaneously yep all right well that&#39;s</p>
+<p begin="00:56:51.590" end="00:56:57.110" style="s2">about an hour right</p>
+<p begin="00:56:53.390" end="00:56:59.510" style="s2">I think we&#39;ve we&#39;ve done it and we&#39;ll be</p>
+<p begin="00:56:57.110" end="00:57:02.450" style="s2">back okay we&#39;ll be back in maybe 15</p>
+<p begin="00:56:59.510" end="00:57:04.220" style="s2">minutes or so to do an hour of Q&amp;A</p>
+<p begin="00:57:02.450" end="00:57:07.240" style="s2">addressing your super check questions</p>
+<p begin="00:57:04.220" end="00:57:07.240" style="s2">all right see you then</p>
+<p begin="00:57:07.930" end="00:57:11.110" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

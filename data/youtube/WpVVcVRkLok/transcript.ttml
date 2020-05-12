@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:05.460" style="s2">I teach a couple of courses that talk</p>
+<p begin="00:00:02.850" end="00:00:06.540" style="s2">significantly about wisdom one of them</p>
+<p begin="00:00:05.460" end="00:00:08.220" style="s2">is a course on higher cognitive</p>
+<p begin="00:00:06.540" end="00:00:10.050" style="s2">processes so I&#39;m going to try and</p>
+<p begin="00:00:08.220" end="00:00:12.620" style="s2">collapse all of that information into a</p>
+<p begin="00:00:10.050" end="00:00:15.750" style="s2">ten minute talk about the nature of</p>
+<p begin="00:00:12.620" end="00:00:17.699" style="s2">wisdom so wisdom involves some</p>
+<p begin="00:00:15.750" end="00:00:20.699" style="s2">transformation of our cognition that</p>
+<p begin="00:00:17.699" end="00:00:23.100" style="s2">affords an improvement of our lives it</p>
+<p begin="00:00:20.699" end="00:00:25.980" style="s2">helps to reduce foolishness and helps to</p>
+<p begin="00:00:23.100" end="00:00:27.480" style="s2">afford flourishing it frees us from ways</p>
+<p begin="00:00:25.980" end="00:00:30.269" style="s2">in which our cognition is working</p>
+<p begin="00:00:27.480" end="00:00:31.740" style="s2">against itself and frees us to improve</p>
+<p begin="00:00:30.269" end="00:00:35.489" style="s2">the way our cognition can work with</p>
+<p begin="00:00:31.740" end="00:00:37.410" style="s2">itself that means that wisdom has to do</p>
+<p begin="00:00:35.489" end="00:00:39.629" style="s2">with some central or fundamental</p>
+<p begin="00:00:37.410" end="00:00:41.250" style="s2">function of our cognition and one of the</p>
+<p begin="00:00:39.629" end="00:00:42.989" style="s2">things that I&#39;ve argued in my work</p>
+<p begin="00:00:41.250" end="00:00:45.600" style="s2">elsewhere is one of the central</p>
+<p begin="00:00:42.989" end="00:00:47.640" style="s2">functions of our cognition what really</p>
+<p begin="00:00:45.600" end="00:00:49.829" style="s2">affords our ability to learn and to</p>
+<p begin="00:00:47.640" end="00:00:52.140" style="s2">solve problems is our ability to realize</p>
+<p begin="00:00:49.829" end="00:00:54.210" style="s2">relevance to zero in on relevant</p>
+<p begin="00:00:52.140" end="00:00:56.460" style="s2">information and ignore irrelevant</p>
+<p begin="00:00:54.210" end="00:00:58.730" style="s2">information this seems to be what is</p>
+<p begin="00:00:56.460" end="00:01:01.739" style="s2">really constitutive of us being</p>
+<p begin="00:00:58.730" end="00:01:07.460" style="s2">intelligent agents so intelligence is</p>
+<p begin="00:01:01.739" end="00:01:09.479" style="s2">basically your capacity for learning and</p>
+<p begin="00:01:07.460" end="00:01:11.909" style="s2">relevance realization can be thought</p>
+<p begin="00:01:09.479" end="00:01:14.460" style="s2">initially as just our ability to zero in</p>
+<p begin="00:01:11.909" end="00:01:17.070" style="s2">on information find patterns and thereby</p>
+<p begin="00:01:14.460" end="00:01:19.979" style="s2">learn about the world but the problem is</p>
+<p begin="00:01:17.070" end="00:01:22.140" style="s2">that relevance realization process has</p>
+<p begin="00:01:19.979" end="00:01:24.150" style="s2">to be self-correcting it has to be self</p>
+<p begin="00:01:22.140" end="00:01:27.060" style="s2">transcending because the patterns we</p>
+<p begin="00:01:24.150" end="00:01:29.939" style="s2">find can often prevent us from solving</p>
+<p begin="00:01:27.060" end="00:01:31.950" style="s2">the problems we face so here&#39;s a classic</p>
+<p begin="00:01:29.939" end="00:01:34.350" style="s2">example of this it&#39;s called the nine dot</p>
+<p begin="00:01:31.950" end="00:01:36.360" style="s2">problem it&#39;s a very famous problem very</p>
+<p begin="00:01:34.350" end="00:01:38.400" style="s2">studied in psychology so here&#39;s the</p>
+<p begin="00:01:36.360" end="00:01:40.590" style="s2">problem you have to join all nine dots</p>
+<p begin="00:01:38.400" end="00:01:43.320" style="s2">with four straight lines and you have to</p>
+<p begin="00:01:40.590" end="00:01:45.149" style="s2">start the previous line sorry you have</p>
+<p begin="00:01:43.320" end="00:01:47.369" style="s2">to start the next line from the terminus</p>
+<p begin="00:01:45.149" end="00:01:50.009" style="s2">of the previous line so what many people</p>
+<p begin="00:01:47.369" end="00:01:50.700" style="s2">do is they immediately project a pattern</p>
+<p begin="00:01:50.009" end="00:01:53.100" style="s2">onto here</p>
+<p begin="00:01:50.700" end="00:01:55.890" style="s2">the that&#39;s their intelligence at work</p>
+<p begin="00:01:53.100" end="00:01:57.750" style="s2">they project a square and they think of</p>
+<p begin="00:01:55.890" end="00:02:00.509" style="s2">it that what I have to do is create a</p>
+<p begin="00:01:57.750" end="00:02:02.430" style="s2">closed figure and so they try and solve</p>
+<p begin="00:02:00.509" end="00:02:04.680" style="s2">the nine dots they draw four lines oh I</p>
+<p begin="00:02:02.430" end="00:02:06.750" style="s2">missed the center they do this sent oh</p>
+<p begin="00:02:04.680" end="00:02:09.209" style="s2">this isn&#39;t working and then it turns out</p>
+<p begin="00:02:06.750" end="00:02:12.950" style="s2">to be very difficult so here&#39;s one</p>
+<p begin="00:02:09.209" end="00:02:19.129" style="s2">solution to the nine dot problem one two</p>
+<p begin="00:02:12.950" end="00:02:21.200" style="s2">three four right lines now what&#39;s</p>
+<p begin="00:02:19.129" end="00:02:24.260" style="s2">important there is when you do this many</p>
+<p begin="00:02:21.200" end="00:02:27.170" style="s2">people say you cheated or you that&#39;s not</p>
+<p begin="00:02:24.260" end="00:02:29.870" style="s2">fair you went outside the box but</p>
+<p begin="00:02:27.170" end="00:02:31.970" style="s2">exactly that&#39;s the issue I at no point</p>
+<p begin="00:02:29.870" end="00:02:33.709" style="s2">said Square or box that was a pattern</p>
+<p begin="00:02:31.970" end="00:02:35.720" style="s2">that your intelligence imposed on there</p>
+<p begin="00:02:33.709" end="00:02:37.970" style="s2">that was the way you realized relevance</p>
+<p begin="00:02:35.720" end="00:02:40.069" style="s2">you said this is relevant and all this</p>
+<p begin="00:02:37.970" end="00:02:42.080" style="s2">space outside isn&#39;t relevant but it</p>
+<p begin="00:02:40.069" end="00:02:44.629" style="s2">turns out the space outside is relevant</p>
+<p begin="00:02:42.080" end="00:02:46.459" style="s2">and what your relevance realization what</p>
+<p begin="00:02:44.629" end="00:02:48.500" style="s2">your intelligence has to do is transcend</p>
+<p begin="00:02:46.459" end="00:02:50.840" style="s2">itself incorrect itself it has to</p>
+<p begin="00:02:48.500" end="00:02:53.660" style="s2">feedback on itself and so what you have</p>
+<p begin="00:02:50.840" end="00:02:55.280" style="s2">to do is not only learn fine pattern you</p>
+<p begin="00:02:53.660" end="00:02:57.200" style="s2">have to pay attention to how you&#39;re</p>
+<p begin="00:02:55.280" end="00:02:59.150" style="s2">finding patterns you have to do not only</p>
+<p begin="00:02:57.200" end="00:03:01.370" style="s2">learning you have to do learning to</p>
+<p begin="00:02:59.150" end="00:03:02.780" style="s2">learn what that means is one of the</p>
+<p begin="00:03:01.370" end="00:03:05.900" style="s2">things your intelligence can do is</p>
+<p begin="00:03:02.780" end="00:03:08.180" style="s2">actually feedback on itself and do</p>
+<p begin="00:03:05.900" end="00:03:10.160" style="s2">learning to learn now when you can do</p>
+<p begin="00:03:08.180" end="00:03:12.560" style="s2">that when you&#39;re learning to learn helps</p>
+<p begin="00:03:10.160" end="00:03:15.860" style="s2">you overcome how you&#39;ve missed framed a</p>
+<p begin="00:03:12.560" end="00:03:17.840" style="s2">problem we call that insight and what I</p>
+<p begin="00:03:15.860" end="00:03:20.239" style="s2">want to suggest to you is that insight</p>
+<p begin="00:03:17.840" end="00:03:23.269" style="s2">is one of the central functions of</p>
+<p begin="00:03:20.239" end="00:03:25.430" style="s2">wisdom look if I say Bob doesn&#39;t have a</p>
+<p begin="00:03:23.269" end="00:03:27.470" style="s2">lot of knowledge but he&#39;s very wise</p>
+<p begin="00:03:25.430" end="00:03:29.959" style="s2">people say yeah that&#39;s okay that makes</p>
+<p begin="00:03:27.470" end="00:03:31.639" style="s2">sense or if you say you know Bob is very</p>
+<p begin="00:03:29.959" end="00:03:33.980" style="s2">creative but he&#39;s not very wise people</p>
+<p begin="00:03:31.639" end="00:03:36.920" style="s2">go yeah that&#39;s okay but if I say to you</p>
+<p begin="00:03:33.980" end="00:03:39.049" style="s2">Bob is very wise but he&#39;s not very</p>
+<p begin="00:03:36.920" end="00:03:40.639" style="s2">insightful people go know that that</p>
+<p begin="00:03:39.049" end="00:03:44.090" style="s2">doesn&#39;t work that doesn&#39;t make any sense</p>
+<p begin="00:03:40.639" end="00:03:47.269" style="s2">so insight is a central capacity to</p>
+<p begin="00:03:44.090" end="00:03:49.220" style="s2">being wise now the thing about insight</p>
+<p begin="00:03:47.269" end="00:03:52.760" style="s2">in wisdom is we&#39;re not just talking</p>
+<p begin="00:03:49.220" end="00:03:53.959" style="s2">about you know improving how to solve a</p>
+<p begin="00:03:52.760" end="00:03:55.849" style="s2">particular problem we&#39;re talking about</p>
+<p begin="00:03:53.959" end="00:03:57.859" style="s2">again this comprehensive improvement of</p>
+<p begin="00:03:55.849" end="00:04:00.980" style="s2">our cognition of our intelligence</p>
+<p begin="00:03:57.859" end="00:04:03.049" style="s2">because we&#39;re trying to afford reducing</p>
+<p begin="00:04:00.980" end="00:04:05.599" style="s2">foolishness foolishness is being trapped</p>
+<p begin="00:04:03.049" end="00:04:08.359" style="s2">by our own cognition like you&#39;re trapped</p>
+<p begin="00:04:05.599" end="00:04:10.790" style="s2">in the nine problem flourishing is when</p>
+<p begin="00:04:08.359" end="00:04:12.470" style="s2">you do this right when intelligence</p>
+<p begin="00:04:10.790" end="00:04:14.989" style="s2">feeds on itself and we do learning to</p>
+<p begin="00:04:12.470" end="00:04:16.639" style="s2">learn when you afford your mind to be</p>
+<p begin="00:04:14.989" end="00:04:19.510" style="s2">able to work better than it was working</p>
+<p begin="00:04:16.639" end="00:04:22.340" style="s2">before but we want to do this</p>
+<p begin="00:04:19.510" end="00:04:24.830" style="s2">comprehensively now what I want to</p>
+<p begin="00:04:22.340" end="00:04:26.520" style="s2">suggest to you is that when intelligence</p>
+<p begin="00:04:24.830" end="00:04:27.990" style="s2">is insightfully</p>
+<p begin="00:04:26.520" end="00:04:30.690" style="s2">getting back on itself so that we get</p>
+<p begin="00:04:27.990" end="00:04:33.419" style="s2">learning to learn that&#39;s actually what</p>
+<p begin="00:04:30.690" end="00:04:35.400" style="s2">rationality is intelligence is using</p>
+<p begin="00:04:33.419" end="00:04:37.169" style="s2">your intelligence to solve the problem</p>
+<p begin="00:04:35.400" end="00:04:40.229" style="s2">through learning to learn of how to</p>
+<p begin="00:04:37.169" end="00:04:42.470" style="s2">better use and develop your intelligence</p>
+<p begin="00:04:40.229" end="00:04:45.120" style="s2">that&#39;s what rationality is and</p>
+<p begin="00:04:42.470" end="00:04:48.960" style="s2">rationality I think is therefore a key</p>
+<p begin="00:04:45.120" end="00:04:51.060" style="s2">element of what it is to be wise now the</p>
+<p begin="00:04:48.960" end="00:04:52.379" style="s2">problem that many people have when they</p>
+<p begin="00:04:51.060" end="00:04:53.819" style="s2">hear the word rationality is they</p>
+<p begin="00:04:52.379" end="00:04:55.590" style="s2">misunderstand it they think of it as</p>
+<p begin="00:04:53.819" end="00:04:57.629" style="s2">being logical kind of the you know the</p>
+<p begin="00:04:55.590" end="00:04:59.789" style="s2">spark or data thing from or you know the</p>
+<p begin="00:04:57.629" end="00:05:01.680" style="s2">Star Trek popular culture thing but I</p>
+<p begin="00:04:59.789" end="00:05:03.630" style="s2">want to suggest to you that it&#39;s much</p>
+<p begin="00:05:01.680" end="00:05:06.120" style="s2">more sophisticated than that so just</p>
+<p begin="00:05:03.630" end="00:05:08.130" style="s2">like the way intelligence can feedback</p>
+<p begin="00:05:06.120" end="00:05:10.110" style="s2">on itself to make it make us rational</p>
+<p begin="00:05:08.130" end="00:05:13.069" style="s2">what I want to suggest to you is the way</p>
+<p begin="00:05:10.110" end="00:05:16.050" style="s2">rationality can feedback on itself</p>
+<p begin="00:05:13.069" end="00:05:19.080" style="s2">transcend itself correct itself overcome</p>
+<p begin="00:05:16.050" end="00:05:21.259" style="s2">its self limitation afford its self</p>
+<p begin="00:05:19.080" end="00:05:24.479" style="s2">improvement that&#39;s what we mean by</p>
+<p begin="00:05:21.259" end="00:05:27.090" style="s2">wisdom now in order to talk about that</p>
+<p begin="00:05:24.479" end="00:05:29.250" style="s2">we have to talk about the three types of</p>
+<p begin="00:05:27.090" end="00:05:31.409" style="s2">knowing the three kinds of patterns that</p>
+<p begin="00:05:29.250" end="00:05:34.039" style="s2">our intelligence projects into the world</p>
+<p begin="00:05:31.409" end="00:05:36.750" style="s2">now the one we&#39;re very familiar with are</p>
+<p begin="00:05:34.039" end="00:05:38.729" style="s2">patterns that that we express in</p>
+<p begin="00:05:36.750" end="00:05:41.400" style="s2">propositions like I know that that</p>
+<p begin="00:05:38.729" end="00:05:43.650" style="s2">Australia is a continent I know that</p>
+<p begin="00:05:41.400" end="00:05:45.690" style="s2">Australia is a country I know that</p>
+<p begin="00:05:43.650" end="00:05:48.779" style="s2">Australia is a continent and the country</p>
+<p begin="00:05:45.690" end="00:05:51.419" style="s2">right and there what we need is we need</p>
+<p begin="00:05:48.779" end="00:05:52.889" style="s2">to improve our inferential abilities the</p>
+<p begin="00:05:51.419" end="00:05:55.919" style="s2">problem with our inferential abilities</p>
+<p begin="00:05:52.889" end="00:05:57.930" style="s2">is they&#39;re often beset by biases we jump</p>
+<p begin="00:05:55.919" end="00:06:00.360" style="s2">to conclusions we don&#39;t pay attention to</p>
+<p begin="00:05:57.930" end="00:06:02.639" style="s2">possibilities we don&#39;t properly consider</p>
+<p begin="00:06:00.360" end="00:06:05.940" style="s2">the relevant information that is going</p>
+<p begin="00:06:02.639" end="00:06:11.009" style="s2">into our inference but what we need to</p>
+<p begin="00:06:05.940" end="00:06:12.779" style="s2">do is develop a set of skills called by</p>
+<p begin="00:06:11.009" end="00:06:15.779" style="s2">Jonathan Barron active open mindedness</p>
+<p begin="00:06:12.779" end="00:06:18.090" style="s2">where we learn to find these biases and</p>
+<p begin="00:06:15.779" end="00:06:20.370" style="s2">we learned to correct them so what&#39;s an</p>
+<p begin="00:06:18.090" end="00:06:22.259" style="s2">example of a bias often when people are</p>
+<p begin="00:06:20.370" end="00:06:24.719" style="s2">using inference they only pay attention</p>
+<p begin="00:06:22.259" end="00:06:26.669" style="s2">to information that confirms their</p>
+<p begin="00:06:24.719" end="00:06:29.219" style="s2">belief they don&#39;t pay good attention</p>
+<p begin="00:06:26.669" end="00:06:31.289" style="s2">they don&#39;t find relevant enough the</p>
+<p begin="00:06:29.219" end="00:06:32.400" style="s2">information that could disconfirm their</p>
+<p begin="00:06:31.289" end="00:06:34.319" style="s2">belief they have what&#39;s called a</p>
+<p begin="00:06:32.400" end="00:06:36.300" style="s2">confirmation bias an active</p>
+<p begin="00:06:34.319" end="00:06:39.149" style="s2">open-mindedness you learn to become</p>
+<p begin="00:06:36.300" end="00:06:39.860" style="s2">aware and sensitive to confirmation bias</p>
+<p begin="00:06:39.149" end="00:06:43.099" style="s2">and</p>
+<p begin="00:06:39.860" end="00:06:46.159" style="s2">actively counteracted but that&#39;s not our</p>
+<p begin="00:06:43.099" end="00:06:47.780" style="s2">only form of knowing that&#39;s not our only</p>
+<p begin="00:06:46.159" end="00:06:50.090" style="s2">form of learning that&#39;s not the only</p>
+<p begin="00:06:47.780" end="00:06:52.069" style="s2">kind of pattern there&#39;s also right</p>
+<p begin="00:06:50.090" end="00:06:54.020" style="s2">knowing how to do something knowing how</p>
+<p begin="00:06:52.069" end="00:06:55.189" style="s2">to walk knowing how to catch a ball</p>
+<p begin="00:06:54.020" end="00:06:57.949" style="s2">knowing how to follow a conversation</p>
+<p begin="00:06:55.189" end="00:07:00.139" style="s2">knowing how to tell a joke these are not</p>
+<p begin="00:06:57.949" end="00:07:02.719" style="s2">matters of inference these are matters</p>
+<p begin="00:07:00.139" end="00:07:05.539" style="s2">of attention I have to pay attention in</p>
+<p begin="00:07:02.719" end="00:07:08.479" style="s2">the right way I have to track courses of</p>
+<p begin="00:07:05.539" end="00:07:10.430" style="s2">events I have to know how the rope this</p>
+<p begin="00:07:08.479" end="00:07:12.740" style="s2">isn&#39;t about propositions that express</p>
+<p begin="00:07:10.430" end="00:07:15.080" style="s2">beliefs this is about skills that enable</p>
+<p begin="00:07:12.740" end="00:07:17.150" style="s2">me to interact with the world well so</p>
+<p begin="00:07:15.080" end="00:07:20.509" style="s2">now I need a learning to learn strategy</p>
+<p begin="00:07:17.150" end="00:07:23.689" style="s2">for this procedural paying of attention</p>
+<p begin="00:07:20.509" end="00:07:25.879" style="s2">I have to train skills of attention I</p>
+<p begin="00:07:23.689" end="00:07:28.729" style="s2">have to have the practice of paying</p>
+<p begin="00:07:25.879" end="00:07:30.469" style="s2">attention to how I pay attention that&#39;s</p>
+<p begin="00:07:28.729" end="00:07:32.090" style="s2">exactly what mindfulness is so</p>
+<p begin="00:07:30.469" end="00:07:32.870" style="s2">mindfulness training is again this kind</p>
+<p begin="00:07:32.090" end="00:07:34.580" style="s2">of recursion</p>
+<p begin="00:07:32.870" end="00:07:37.189" style="s2">I learned to pay attention to how I&#39;m</p>
+<p begin="00:07:34.580" end="00:07:41.029" style="s2">paying attention and in that way I can</p>
+<p begin="00:07:37.189" end="00:07:42.710" style="s2">improve my cognitive skills but there&#39;s</p>
+<p begin="00:07:41.029" end="00:07:44.449" style="s2">a third kind of knowing and I owe this</p>
+<p begin="00:07:42.710" end="00:07:46.639" style="s2">to my friend Gregor Soros there&#39;s a</p>
+<p begin="00:07:44.449" end="00:07:49.039" style="s2">perspectival knowing this is knowing</p>
+<p begin="00:07:46.639" end="00:07:51.560" style="s2">that something this is the case this is</p>
+<p begin="00:07:49.039" end="00:07:54.020" style="s2">knowing how to do something this is</p>
+<p begin="00:07:51.560" end="00:07:56.930" style="s2">knowing what it&#39;s like to be something</p>
+<p begin="00:07:54.020" end="00:07:58.520" style="s2">to take a particular role so Leo Ferrara</p>
+<p begin="00:07:56.930" end="00:08:00.699" style="s2">and I have done work trying to integrate</p>
+<p begin="00:07:58.520" end="00:08:02.930" style="s2">this all together and the idea is in</p>
+<p begin="00:08:00.699" end="00:08:05.900" style="s2">perspectival knowing I&#39;m bringing</p>
+<p begin="00:08:02.930" end="00:08:08.150" style="s2">together my procedural know-how and my</p>
+<p begin="00:08:05.900" end="00:08:10.400" style="s2">propositional grasp of facts and I&#39;m</p>
+<p begin="00:08:08.150" end="00:08:12.710" style="s2">integrating them together so that I know</p>
+<p begin="00:08:10.400" end="00:08:14.539" style="s2">what kind of role to take in a situation</p>
+<p begin="00:08:12.710" end="00:08:18.110" style="s2">I&#39;m learning how to take perspectives</p>
+<p begin="00:08:14.539" end="00:08:21.169" style="s2">I&#39;m learning how to assume roles but I</p>
+<p begin="00:08:18.110" end="00:08:23.569" style="s2">need that process also to be trained</p>
+<p begin="00:08:21.169" end="00:08:25.219" style="s2">there&#39;s a rationality for that well how</p>
+<p begin="00:08:23.569" end="00:08:27.020" style="s2">do we train our ability to take</p>
+<p begin="00:08:25.219" end="00:08:29.060" style="s2">perspectives why is that crucial to</p>
+<p begin="00:08:27.020" end="00:08:31.460" style="s2">rationality one of the bisetti things</p>
+<p begin="00:08:29.060" end="00:08:33.560" style="s2">that makes us irrational is a failure to</p>
+<p begin="00:08:31.460" end="00:08:36.949" style="s2">take alternative perspectives we are</p>
+<p begin="00:08:33.560" end="00:08:38.839" style="s2">often too egocentric in our processing</p>
+<p begin="00:08:36.949" end="00:08:39.740" style="s2">and what we need to do is overcome our</p>
+<p begin="00:08:38.839" end="00:08:41.570" style="s2">ego centrism</p>
+<p begin="00:08:39.740" end="00:08:43.519" style="s2">by taking broader and better</p>
+<p begin="00:08:41.570" end="00:08:45.949" style="s2">perspectives in our own learning how to</p>
+<p begin="00:08:43.519" end="00:08:48.230" style="s2">internalize them learning how to imitate</p>
+<p begin="00:08:45.949" end="00:08:50.600" style="s2">them that&#39;s a process that Vygotsky the</p>
+<p begin="00:08:48.230" end="00:08:52.400" style="s2">psychologists called internalization now</p>
+<p begin="00:08:50.600" end="00:08:54.500" style="s2">one of the things we can do</p>
+<p begin="00:08:52.400" end="00:08:56.990" style="s2">and this is one of the ideas that comes</p>
+<p begin="00:08:54.500" end="00:08:59.630" style="s2">from the ancient world and the study of</p>
+<p begin="00:08:56.990" end="00:09:03.170" style="s2">wisdom is we can set up this idea as the</p>
+<p begin="00:08:59.630" end="00:09:06.860" style="s2">child is to the adult the adult is to</p>
+<p begin="00:09:03.170" end="00:09:09.970" style="s2">the sage what children do in order to</p>
+<p begin="00:09:06.860" end="00:09:12.650" style="s2">become less egocentric is they practice</p>
+<p begin="00:09:09.970" end="00:09:14.360" style="s2">internalizing the perspective of adults</p>
+<p begin="00:09:12.650" end="00:09:16.490" style="s2">because that helps them to overcome</p>
+<p begin="00:09:14.360" end="00:09:18.410" style="s2">their bias their agha their ego centrism</p>
+<p begin="00:09:16.490" end="00:09:20.330" style="s2">it helps them to acquire skills and</p>
+<p begin="00:09:18.410" end="00:09:22.700" style="s2">interests they won&#39;t initially have from</p>
+<p begin="00:09:20.330" end="00:09:26.029" style="s2">their own egocentric force effective but</p>
+<p begin="00:09:22.700" end="00:09:29.720" style="s2">our development isn&#39;t done we can also</p>
+<p begin="00:09:26.029" end="00:09:31.790" style="s2">take that attitude of imitation and</p>
+<p begin="00:09:29.720" end="00:09:34.580" style="s2">internalization towards figures that</p>
+<p begin="00:09:31.790" end="00:09:36.350" style="s2">have better broader less biased</p>
+<p begin="00:09:34.580" end="00:09:38.300" style="s2">perspectives than ours so these are the</p>
+<p begin="00:09:36.350" end="00:09:42.110" style="s2">figures of course that are recognized by</p>
+<p begin="00:09:38.300" end="00:09:44.420" style="s2">history Jesus the Buddha Muhammad Lao si</p>
+<p begin="00:09:42.110" end="00:09:47.029" style="s2">kung fued say these are the sages we can</p>
+<p begin="00:09:44.420" end="00:09:49.730" style="s2">practice internalizing the sage as a way</p>
+<p begin="00:09:47.029" end="00:09:51.770" style="s2">of bringing rationality into our</p>
+<p begin="00:09:49.730" end="00:09:54.440" style="s2">perspective of knowing and then what we</p>
+<p begin="00:09:51.770" end="00:09:56.630" style="s2">can do is we can use these various forms</p>
+<p begin="00:09:54.440" end="00:09:58.910" style="s2">of rationality to act as checks and</p>
+<p begin="00:09:56.630" end="00:10:02.630" style="s2">balances on each other the procedural</p>
+<p begin="00:09:58.910" end="00:10:04.400" style="s2">right mindfulness the propositional</p>
+<p begin="00:10:02.630" end="00:10:06.860" style="s2">active open mindedness and the</p>
+<p begin="00:10:04.400" end="00:10:08.600" style="s2">perspectival internalizing the sage can</p>
+<p begin="00:10:06.860" end="00:10:11.930" style="s2">all interact with each other they can</p>
+<p begin="00:10:08.600" end="00:10:14.270" style="s2">all self correct and self transcendence</p>
+<p begin="00:10:11.930" end="00:10:16.610" style="s2">so what we can do is these various forms</p>
+<p begin="00:10:14.270" end="00:10:18.800" style="s2">of rationality can conform a</p>
+<p begin="00:10:16.610" end="00:10:21.100" style="s2">self-organizing system so that our</p>
+<p begin="00:10:18.800" end="00:10:23.200" style="s2">rationality is constantly</p>
+<p begin="00:10:21.100" end="00:10:26.200" style="s2">self-correcting constantly</p>
+<p begin="00:10:23.200" end="00:10:33.410" style="s2">self-transcending that&#39;s how wisdom</p>
+<p begin="00:10:26.200" end="00:10:36.370" style="s2">right can be the way rationality just</p>
+<p begin="00:10:33.410" end="00:10:40.459" style="s2">like an insight is a self-correcting</p>
+<p begin="00:10:36.370" end="00:10:43.720" style="s2">self-transcending process so what we get</p>
+<p begin="00:10:40.459" end="00:10:47.150" style="s2">with wisdom is that our rationality is</p>
+<p begin="00:10:43.720" end="00:10:50.360" style="s2">rationally transcending itself wisdom is</p>
+<p begin="00:10:47.150" end="00:10:53.450" style="s2">rationally self-transcending rationality</p>
+<p begin="00:10:50.360" end="00:10:56.450" style="s2">and wisdom matters because the more we</p>
+<p begin="00:10:53.450" end="00:10:58.850" style="s2">can free ourselves from the way the mind</p>
+<p begin="00:10:56.450" end="00:11:01.180" style="s2">is hampering itself the way the mind is</p>
+<p begin="00:10:58.850" end="00:11:03.500" style="s2">foolish the more we can afford</p>
+<p begin="00:11:01.180" end="00:11:06.110" style="s2">flourishing the war we can free our mind</p>
+<p begin="00:11:03.500" end="00:11:09.440" style="s2">to take on broader perspectives to</p>
+<p begin="00:11:06.110" end="00:11:11.839" style="s2">remove bias to be more insightful the</p>
+<p begin="00:11:09.440" end="00:11:14.150" style="s2">more we can bring to bear the cognitive</p>
+<p begin="00:11:11.839" end="00:11:16.850" style="s2">tools we need to improve our lives and</p>
+<p begin="00:11:14.150" end="00:11:19.010" style="s2">address some of the problems that are</p>
+<p begin="00:11:16.850" end="00:11:21.760" style="s2">facing the world the problems that need</p>
+<p begin="00:11:19.010" end="00:11:21.760" style="s2">more wisdom</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.640" end="00:00:02.800" style="s2">[Music]</p>
+<p begin="00:00:05.330" end="00:00:09.269" style="s2">Eric it&#39;s a pleasure to sit down with</p>
+<p begin="00:00:07.830" end="00:00:12.059" style="s2">you again they were good to see you</p>
+<p begin="00:00:09.269" end="00:00:13.920" style="s2">so last time we met in person we</p>
+<p begin="00:00:12.059" end="00:00:16.350" style="s2">recorded a piece that ended up being</p>
+<p begin="00:00:13.920" end="00:00:17.880" style="s2">glitching the matrix - which was the</p>
+<p begin="00:00:16.350" end="00:00:20.730" style="s2">origin story of the intellectual dark</p>
+<p begin="00:00:17.880" end="00:00:23.279" style="s2">web was it was sort of a deep dive into</p>
+<p begin="00:00:20.730" end="00:00:25.769" style="s2">your thinking and then why the</p>
+<p begin="00:00:23.279" end="00:00:27.060" style="s2">intellectual dark web was or your take</p>
+<p begin="00:00:25.769" end="00:00:29.340" style="s2">on why the intellectual type what was</p>
+<p begin="00:00:27.060" end="00:00:31.529" style="s2">needed why it was timely why it was</p>
+<p begin="00:00:29.340" end="00:00:33.719" style="s2">really important and since then you&#39;ve</p>
+<p begin="00:00:31.529" end="00:00:36.000" style="s2">launched the portal we were talking</p>
+<p begin="00:00:33.719" end="00:00:37.500" style="s2">before about the portal before we</p>
+<p begin="00:00:36.000" end="00:00:38.940" style="s2">started recording and you said that you</p>
+<p begin="00:00:37.500" end="00:00:41.850" style="s2">felt that it kind of kicked into a new</p>
+<p begin="00:00:38.940" end="00:00:45.539" style="s2">gear in the recent episodes episode 18</p>
+<p begin="00:00:41.850" end="00:00:48.750" style="s2">episode 19 19 was a recent episode with</p>
+<p begin="00:00:45.539" end="00:00:50.640" style="s2">Bret your brother Bret Weinstein the</p>
+<p begin="00:00:48.750" end="00:00:52.320" style="s2">evolutionary biologist what you talked</p>
+<p begin="00:00:50.640" end="00:00:53.820" style="s2">about things called all all our mics are</p>
+<p begin="00:00:52.320" end="00:00:56.219" style="s2">broken which is a really fascinating</p>
+<p begin="00:00:53.820" end="00:00:58.710" style="s2">story it was a really really fascinating</p>
+<p begin="00:00:56.219" end="00:01:00.690" style="s2">episode and you slight reference to one</p>
+<p begin="00:00:58.710" end="00:01:02.930" style="s2">of our submarines is missing so you</p>
+<p begin="00:01:00.690" end="00:01:06.240" style="s2">introduced a concept called the disc in</p>
+<p begin="00:01:02.930" end="00:01:07.710" style="s2">the previous episode in episode 18 and I</p>
+<p begin="00:01:06.240" end="00:01:10.260" style="s2">think you you&#39;ve also said that it&#39;s</p>
+<p begin="00:01:07.710" end="00:01:13.070" style="s2">relevant to what has happened with with</p>
+<p begin="00:01:10.260" end="00:01:15.509" style="s2">19 especially the app the aftermath like</p>
+<p begin="00:01:13.070" end="00:01:16.770" style="s2">the follow-ups or the lack of follow-ups</p>
+<p begin="00:01:15.509" end="00:01:18.240" style="s2">do you want to talk a little bit about</p>
+<p begin="00:01:16.770" end="00:01:21.030" style="s2">what the disc is and why you think it&#39;s</p>
+<p begin="00:01:18.240" end="00:01:24.720" style="s2">so important sure if you went back to</p>
+<p begin="00:01:21.030" end="00:01:27.420" style="s2">the first Matrix movie let&#39;s say clearly</p>
+<p begin="00:01:24.720" end="00:01:30.000" style="s2">it&#39;s a sci-fi thriller would you have to</p>
+<p begin="00:01:27.420" end="00:01:31.920" style="s2">ask yourself was it fiction at all is</p>
+<p begin="00:01:30.000" end="00:01:34.049" style="s2">the reason that that movie did so well</p>
+<p begin="00:01:31.920" end="00:01:37.259" style="s2">and played so well that in fact it</p>
+<p begin="00:01:34.049" end="00:01:39.240" style="s2">wasn&#39;t fiction but metaphor and I think</p>
+<p begin="00:01:37.259" end="00:01:42.030" style="s2">that there&#39;s some point at which</p>
+<p begin="00:01:39.240" end="00:01:44.759" style="s2">Morpheus starts describing the matrix in</p>
+<p begin="00:01:42.030" end="00:01:47.100" style="s2">the film as a prison that you cannot see</p>
+<p begin="00:01:44.759" end="00:01:50.340" style="s2">taste feel or touch or something like</p>
+<p begin="00:01:47.100" end="00:01:53.369" style="s2">that in some sense the disc works like</p>
+<p begin="00:01:50.340" end="00:01:55.409" style="s2">this we&#39;ve lived our entire lives in a</p>
+<p begin="00:01:53.369" end="00:01:56.700" style="s2">medium and that medium has to do with</p>
+<p begin="00:01:55.409" end="00:01:58.890" style="s2">the way in which our ideas are</p>
+<p begin="00:01:56.700" end="00:02:01.439" style="s2">suppressed so Bret you were recently on</p>
+<p begin="00:01:58.890" end="00:02:04.020" style="s2">Eric&#39;s podcast the portal for an episode</p>
+<p begin="00:02:01.439" end="00:02:07.200" style="s2">called all our mice are broken which is</p>
+<p begin="00:02:04.020" end="00:02:08.640" style="s2">a long story really fascinating I&#39;ve</p>
+<p begin="00:02:07.200" end="00:02:10.830" style="s2">heard a lot of people say it was one of</p>
+<p begin="00:02:08.640" end="00:02:12.970" style="s2">the most fascinating podcasts they&#39;ve</p>
+<p begin="00:02:10.830" end="00:02:15.580" style="s2">ever heard if it&#39;s a detective story</p>
+<p begin="00:02:12.970" end="00:02:18.750" style="s2">it&#39;s a story that has kind of huge</p>
+<p begin="00:02:15.580" end="00:02:21.760" style="s2">ramifications for medical testing and</p>
+<p begin="00:02:18.750" end="00:02:23.680" style="s2">it&#39;s yeah it was really really well told</p>
+<p begin="00:02:21.760" end="00:02:25.030" style="s2">and it also has a lot of really</p>
+<p begin="00:02:23.680" end="00:02:28.360" style="s2">interesting dynamics between you and</p>
+<p begin="00:02:25.030" end="00:02:30.160" style="s2">Eric as well commiserations thank you</p>
+<p begin="00:02:28.360" end="00:02:31.870" style="s2">I&#39;d really urge anyone to go away and</p>
+<p begin="00:02:30.160" end="00:02:34.960" style="s2">listen to that because we don&#39;t want to</p>
+<p begin="00:02:31.870" end="00:02:37.510" style="s2">recap the whole story here but I&#39;d love</p>
+<p begin="00:02:34.960" end="00:02:39.730" style="s2">to hear what has happened since whether</p>
+<p begin="00:02:37.510" end="00:02:41.140" style="s2">there&#39;s been any because one of the</p>
+<p begin="00:02:39.730" end="00:02:45.550" style="s2">other questions that it brings up is</p>
+<p begin="00:02:41.140" end="00:02:47.320" style="s2">what stories are being covered by and</p>
+<p begin="00:02:45.550" end="00:02:48.610" style="s2">beyond registering in sort of the the</p>
+<p begin="00:02:47.320" end="00:02:50.260" style="s2">mainstream and which ones are</p>
+<p begin="00:02:48.610" end="00:02:51.760" style="s2">disappearing without trace and why they</p>
+<p begin="00:02:50.260" end="00:02:53.800" style="s2">might be disappearing without trace</p>
+<p begin="00:02:51.760" end="00:02:55.720" style="s2">and what Eric&#39;s called the disc the</p>
+<p begin="00:02:53.800" end="00:02:58.600" style="s2">distributed information suppression</p>
+<p begin="00:02:55.720" end="00:03:02.020" style="s2">complex yeah maybe we could talk about</p>
+<p begin="00:02:58.600" end="00:03:03.220" style="s2">like what effect it&#39;s had and just sort</p>
+<p begin="00:03:02.020" end="00:03:06.880" style="s2">of sub without summarizing the whole</p>
+<p begin="00:03:03.220" end="00:03:08.620" style="s2">story why this is significant so the the</p>
+<p begin="00:03:06.880" end="00:03:12.490" style="s2">important piece of the story from the</p>
+<p begin="00:03:08.620" end="00:03:14.320" style="s2">perspective of your audience and the</p>
+<p begin="00:03:12.490" end="00:03:18.430" style="s2">rest of us is that when I was a graduate</p>
+<p begin="00:03:14.320" end="00:03:22.000" style="s2">student I was working on a question that</p>
+<p begin="00:03:18.430" end="00:03:25.630" style="s2">involved cancer senescence and evolution</p>
+<p begin="00:03:22.000" end="00:03:28.030" style="s2">and I stumbled on a result in the</p>
+<p begin="00:03:25.630" end="00:03:30.940" style="s2">literature that I had to grapple with</p>
+<p begin="00:03:28.030" end="00:03:31.930" style="s2">that didn&#39;t fit with my hypothesis or</p>
+<p begin="00:03:30.940" end="00:03:33.970" style="s2">anything else</p>
+<p begin="00:03:31.930" end="00:03:38.620" style="s2">and as I wrestled with it that the</p>
+<p begin="00:03:33.970" end="00:03:40.959" style="s2">conclusion was that all mice or in some</p>
+<p begin="00:03:38.620" end="00:03:44.110" style="s2">cases all rodents were thought to have</p>
+<p begin="00:03:40.959" end="00:03:46.450" style="s2">long telomeres telomeres are repetitive</p>
+<p begin="00:03:44.110" end="00:03:48.550" style="s2">DNA sequences at the ends of chromosomes</p>
+<p begin="00:03:46.450" end="00:03:50.530" style="s2">and at the point that I was doing this</p>
+<p begin="00:03:48.550" end="00:03:53.019" style="s2">work in the late 90s they were</p>
+<p begin="00:03:50.530" end="00:03:56.590" style="s2">understood to shorten every time a cell</p>
+<p begin="00:03:53.019" end="00:03:58.300" style="s2">divided so in a Cell divided its DNA to</p>
+<p begin="00:03:56.590" end="00:04:00.100" style="s2">copy it a little bit of the telomere was</p>
+<p begin="00:03:58.300" end="00:04:04.150" style="s2">lost each time and there comes a point</p>
+<p begin="00:04:00.100" end="00:04:05.830" style="s2">at which a cell has a small enough set</p>
+<p begin="00:04:04.150" end="00:04:09.130" style="s2">of repeats in its telomere that it no</p>
+<p begin="00:04:05.830" end="00:04:13.180" style="s2">longer divides I was working on the</p>
+<p begin="00:04:09.130" end="00:04:15.700" style="s2">hypothesis that these shortening events</p>
+<p begin="00:04:13.180" end="00:04:19.690" style="s2">were actually a protection against</p>
+<p begin="00:04:15.700" end="00:04:22.710" style="s2">tumors and cancer and that the downside</p>
+<p begin="00:04:19.690" end="00:04:24.870" style="s2">of that system of</p>
+<p begin="00:04:22.710" end="00:04:26.789" style="s2">cancer protection was that our tissues</p>
+<p begin="00:04:24.870" end="00:04:29.310" style="s2">couldn&#39;t repair themselves indefinitely</p>
+<p begin="00:04:26.789" end="00:04:33.539" style="s2">and we grew old and feeble with age and</p>
+<p begin="00:04:29.310" end="00:04:36.000" style="s2">ultimately died the problem was that</p>
+<p begin="00:04:33.539" end="00:04:39.930" style="s2">with the conclusion that all mice have</p>
+<p begin="00:04:36.000" end="00:04:43.020" style="s2">ultra long telomeres this could not be</p>
+<p begin="00:04:39.930" end="00:04:45.210" style="s2">made sensible because mice have short</p>
+<p begin="00:04:43.020" end="00:04:46.680" style="s2">lives and if they have telomeres that</p>
+<p begin="00:04:45.210" end="00:04:48.210" style="s2">are ten times as long as people they</p>
+<p begin="00:04:46.680" end="00:04:50.130" style="s2">should have the ability to replace their</p>
+<p begin="00:04:48.210" end="00:04:56.130" style="s2">tissues and they should be very</p>
+<p begin="00:04:50.130" end="00:04:59.780" style="s2">long-lived so the podcast recounts the</p>
+<p begin="00:04:56.130" end="00:05:02.099" style="s2">story of my increasing suspicion that</p>
+<p begin="00:04:59.780" end="00:05:04.169" style="s2">there was something wrong with the</p>
+<p begin="00:05:02.099" end="00:05:07.380" style="s2">conclusion that all mice have long</p>
+<p begin="00:05:04.169" end="00:05:10.199" style="s2">telomeres and my contacting a researcher</p>
+<p begin="00:05:07.380" end="00:05:12.570" style="s2">Carol Greider who then tested that</p>
+<p begin="00:05:10.199" end="00:05:14.729" style="s2">hypothesis with her graduate student at</p>
+<p begin="00:05:12.570" end="00:05:17.430" style="s2">the time Mike Heymann and they</p>
+<p begin="00:05:14.729" end="00:05:20.070" style="s2">discovered that in fact mice that is to</p>
+<p begin="00:05:17.430" end="00:05:22.889" style="s2">say wild mice don&#39;t have long telomeres</p>
+<p begin="00:05:20.070" end="00:05:27.229" style="s2">and then it&#39;s only lab mice that do have</p>
+<p begin="00:05:22.889" end="00:05:30.470" style="s2">long telomeres as I had predicted the</p>
+<p begin="00:05:27.229" end="00:05:33.389" style="s2">most important outgrowth of that</p>
+<p begin="00:05:30.470" end="00:05:35.430" style="s2">conclusion is that there&#39;s a problem in</p>
+<p begin="00:05:33.389" end="00:05:38.190" style="s2">our drug safety system because our drug</p>
+<p begin="00:05:35.430" end="00:05:41.099" style="s2">safety system utilizes laboratory</p>
+<p begin="00:05:38.190" end="00:05:43.560" style="s2">rodents especially mice to test the</p>
+<p begin="00:05:41.099" end="00:05:46.470" style="s2">safety of drugs before they&#39;re ever</p>
+<p begin="00:05:43.560" end="00:05:49.440" style="s2">tested on humans our mice which have</p>
+<p begin="00:05:46.470" end="00:05:51.479" style="s2">been altered by the environment in the</p>
+<p begin="00:05:49.440" end="00:05:55.789" style="s2">laboratory breeding colonies from which</p>
+<p begin="00:05:51.479" end="00:05:59.130" style="s2">laboratories get them our mice have been</p>
+<p begin="00:05:55.789" end="00:06:02.130" style="s2">altered by evolutionary forces in those</p>
+<p begin="00:05:59.130" end="00:06:04.590" style="s2">colonies so that they have effectively</p>
+<p begin="00:06:02.130" end="00:06:09.599" style="s2">an infinite capacity to replace damaged</p>
+<p begin="00:06:04.590" end="00:06:11.940" style="s2">tissue and a an incredibly extreme</p>
+<p begin="00:06:09.599" end="00:06:15.630" style="s2">vulnerability to cancer in other words</p>
+<p begin="00:06:11.940" end="00:06:18.509" style="s2">they eventually get cancer and their</p>
+<p begin="00:06:15.630" end="00:06:22.650" style="s2">tissues do not grow old right because</p>
+<p begin="00:06:18.509" end="00:06:25.650" style="s2">their telomeres are so long when you use</p>
+<p begin="00:06:22.650" end="00:06:28.169" style="s2">those animals in order to test a drug a</p>
+<p begin="00:06:25.650" end="00:06:30.349" style="s2">new drug to see whether it be safe to</p>
+<p begin="00:06:28.169" end="00:06:32.930" style="s2">give them to people you get a</p>
+<p begin="00:06:30.349" end="00:06:35.449" style="s2">paradoxical effect</p>
+<p begin="00:06:32.930" end="00:06:39.080" style="s2">or at least the hypothesis suggests that</p>
+<p begin="00:06:35.449" end="00:06:41.449" style="s2">the effect should be that the damage</p>
+<p begin="00:06:39.080" end="00:06:43.880" style="s2">that is done to those mice by these</p>
+<p begin="00:06:41.449" end="00:06:46.340" style="s2">drugs unless it is so extreme in the</p>
+<p begin="00:06:43.880" end="00:06:48.229" style="s2">moment that it kills them outright will</p>
+<p begin="00:06:46.340" end="00:06:50.500" style="s2">not be harmful to them because mice</p>
+<p begin="00:06:48.229" end="00:06:53.900" style="s2">unlike us can replace their tissues</p>
+<p begin="00:06:50.500" end="00:06:56.810" style="s2">indefinitely and in fact because these</p>
+<p begin="00:06:53.900" end="00:06:59.240" style="s2">mice seem to all get cancer if you let</p>
+<p begin="00:06:56.810" end="00:07:01.820" style="s2">them live long enough a poisonous drug</p>
+<p begin="00:06:59.240" end="00:07:03.789" style="s2">may actually extend their lives because</p>
+<p begin="00:07:01.820" end="00:07:08.960" style="s2">it functions as a kind of chemotherapy</p>
+<p begin="00:07:03.789" end="00:07:13.340" style="s2">so the not so funny joke taught at old</p>
+<p begin="00:07:08.960" end="00:07:15.110" style="s2">in in chemotherapy wards is that the</p>
+<p begin="00:07:13.340" end="00:07:16.490" style="s2">whole purpose of chemotherapy is to kill</p>
+<p begin="00:07:15.110" end="00:07:18.590" style="s2">the tumor faster than you kill the</p>
+<p begin="00:07:16.490" end="00:07:21.710" style="s2">patient right tumors are more vulnerable</p>
+<p begin="00:07:18.590" end="00:07:23.720" style="s2">than regular tissues because their DNA</p>
+<p begin="00:07:21.710" end="00:07:25.729" style="s2">is constantly dividing and when DNA is</p>
+<p begin="00:07:23.720" end="00:07:29.479" style="s2">dividing it is vulnerable in a way that</p>
+<p begin="00:07:25.729" end="00:07:33.860" style="s2">DNA that is paired is not and so these</p>
+<p begin="00:07:29.479" end="00:07:37.930" style="s2">mice are suffering from unusual cancer</p>
+<p begin="00:07:33.860" end="00:07:40.340" style="s2">load and a poisonous drug that actually</p>
+<p begin="00:07:37.930" end="00:07:42.830" style="s2">damages cells that are vulnerable will</p>
+<p begin="00:07:40.340" end="00:07:44.720" style="s2">actually interrupt their cancers ability</p>
+<p begin="00:07:42.830" end="00:07:49.960" style="s2">to grow and so they may actually live</p>
+<p begin="00:07:44.720" end="00:07:53.180" style="s2">longer than their their non drug</p>
+<p begin="00:07:49.960" end="00:07:56.199" style="s2">counterparts in any case though the</p>
+<p begin="00:07:53.180" end="00:07:59.330" style="s2">result of this is that you will</p>
+<p begin="00:07:56.199" end="00:08:01.270" style="s2">administer drugs in high doses to mice</p>
+<p begin="00:07:59.330" end="00:08:03.979" style="s2">to see whether or not they are poisonous</p>
+<p begin="00:08:01.270" end="00:08:06.080" style="s2">mice will not respond the way people do</p>
+<p begin="00:08:03.979" end="00:08:07.759" style="s2">because of their unusual telomeres which</p>
+<p begin="00:08:06.080" end="00:08:12.020" style="s2">have evolved to belong in the laboratory</p>
+<p begin="00:08:07.759" end="00:08:16.159" style="s2">colonies and then when you release the</p>
+<p begin="00:08:12.020" end="00:08:18.860" style="s2">drug in into the human population these</p>
+<p begin="00:08:16.159" end="00:08:22.340" style="s2">toxins will do damage in our bodies</p>
+<p begin="00:08:18.860" end="00:08:23.870" style="s2">which will be particularly visible when</p>
+<p begin="00:08:22.340" end="00:08:27.470" style="s2">it affects the heart because the heart</p>
+<p begin="00:08:23.870" end="00:08:31.159" style="s2">has a low capacity for cellular repair</p>
+<p begin="00:08:27.470" end="00:08:34.279" style="s2">and when the heart fails it&#39;s very</p>
+<p begin="00:08:31.159" end="00:08:36.560" style="s2">noticeable so the idea is that something</p>
+<p begin="00:08:34.279" end="00:08:39.979" style="s2">like Vioxx which turned out to be</p>
+<p begin="00:08:36.560" end="00:08:43.820" style="s2">destructive of heart tissue was released</p>
+<p begin="00:08:39.979" end="00:08:45.410" style="s2">into the public because our mechanism</p>
+<p begin="00:08:43.820" end="00:08:47.070" style="s2">for testing whether it would be safe in</p>
+<p begin="00:08:45.410" end="00:08:48.840" style="s2">mice head</p>
+<p begin="00:08:47.070" end="00:08:50.400" style="s2">thus there are quite a number of other</p>
+<p begin="00:08:48.840" end="00:08:51.780" style="s2">drugs that have shown the same pattern</p>
+<p begin="00:08:50.400" end="00:08:53.070" style="s2">we thought they were safe they were then</p>
+<p begin="00:08:51.780" end="00:08:54.930" style="s2">released they turn out to do heart</p>
+<p begin="00:08:53.070" end="00:08:57.300" style="s2">damage they&#39;re pulled from the market or</p>
+<p begin="00:08:54.930" end="00:08:59.100" style="s2">warnings are appended to them so the</p>
+<p begin="00:08:57.300" end="00:09:00.840" style="s2">question is have we made an error where</p>
+<p begin="00:08:59.100" end="00:09:04.320" style="s2">something about our laboratory</p>
+<p begin="00:09:00.840" end="00:09:05.820" style="s2">environments is creating mice that make</p>
+<p begin="00:09:04.320" end="00:09:09.800" style="s2">drugs look much safer than they actually</p>
+<p begin="00:09:05.820" end="00:09:11.970" style="s2">are and causing us actually to to suffer</p>
+<p begin="00:09:09.800" end="00:09:16.250" style="s2">pharmaceutical harm that is unnecessary</p>
+<p begin="00:09:11.970" end="00:09:19.260" style="s2">you asked what the outgrowth of this</p>
+<p begin="00:09:16.250" end="00:09:24.150" style="s2">podcast had been there was tremendous</p>
+<p begin="00:09:19.260" end="00:09:27.450" style="s2">interest in it online on YouTube and on</p>
+<p begin="00:09:24.150" end="00:09:32.310" style="s2">other social media outlets and bizarrely</p>
+<p begin="00:09:27.450" end="00:09:38.610" style="s2">there&#39;s been no reaction from anybody in</p>
+<p begin="00:09:32.310" end="00:09:40.980" style="s2">the Academy or in the press in the</p>
+<p begin="00:09:38.610" end="00:09:43.890" style="s2">mainstream press there&#39;s some very</p>
+<p begin="00:09:40.980" end="00:09:48.990" style="s2">strange thing where nobody seems to want</p>
+<p begin="00:09:43.890" end="00:09:51.870" style="s2">to engage the issue that there was a</p>
+<p begin="00:09:48.990" end="00:09:54.230" style="s2">first principles prediction coming from</p>
+<p begin="00:09:51.870" end="00:09:56.550" style="s2">evolutionary theory that seems to have</p>
+<p begin="00:09:54.230" end="00:10:00.360" style="s2">radical implications both for our</p>
+<p begin="00:09:56.550" end="00:10:05.610" style="s2">understanding of death and for the way</p>
+<p begin="00:10:00.360" end="00:10:07.040" style="s2">in which we use the mouse model to test</p>
+<p begin="00:10:05.610" end="00:10:10.230" style="s2">all sorts of things</p>
+<p begin="00:10:07.040" end="00:10:14.790" style="s2">the mind reels I just can&#39;t I can&#39;t</p>
+<p begin="00:10:10.230" end="00:10:16.770" style="s2">fathom that given the amount of interest</p>
+<p begin="00:10:14.790" end="00:10:18.330" style="s2">in this story and this this video is</p>
+<p begin="00:10:16.770" end="00:10:20.610" style="s2">just sort up the charts it&#39;s now over a</p>
+<p begin="00:10:18.330" end="00:10:22.710" style="s2">hundred thousand views there must be two</p>
+<p begin="00:10:20.610" end="00:10:25.980" style="s2">hundred and fifty thousand downloads you</p>
+<p begin="00:10:22.710" end="00:10:27.900" style="s2">know they came very quickly many people</p>
+<p begin="00:10:25.980" end="00:10:30.330" style="s2">have heard it and the interesting thing</p>
+<p begin="00:10:27.900" end="00:10:33.920" style="s2">is how interested everyone is in the</p>
+<p begin="00:10:30.330" end="00:10:37.080" style="s2">story and how the interest is least in</p>
+<p begin="00:10:33.920" end="00:10:39.240" style="s2">the place that you would expect it most</p>
+<p begin="00:10:37.080" end="00:10:43.110" style="s2">I would imagine if this was a long story</p>
+<p begin="00:10:39.240" end="00:10:45.180" style="s2">we would be hearing nothing but</p>
+<p begin="00:10:43.110" end="00:10:47.280" style="s2">chortling from the molecular biology</p>
+<p begin="00:10:45.180" end="00:10:50.160" style="s2">community telling us how badly we&#39;ve</p>
+<p begin="00:10:47.280" end="00:10:51.720" style="s2">understood what in fact is going on or I</p>
+<p begin="00:10:50.160" end="00:10:54.120" style="s2">would want to understand from the news</p>
+<p begin="00:10:51.720" end="00:10:56.010" style="s2">media tell me why is this uninteresting</p>
+<p begin="00:10:54.120" end="00:10:59.230" style="s2">to you I should say that I&#39;ve named</p>
+<p begin="00:10:56.010" end="00:11:01.000" style="s2">these sorts of stories anti interesting</p>
+<p begin="00:10:59.230" end="00:11:03.940" style="s2">anteye interesting story isn&#39;t really</p>
+<p begin="00:11:01.000" end="00:11:06.340" style="s2">uninteresting the more riveting the anti</p>
+<p begin="00:11:03.940" end="00:11:08.470" style="s2">interesting story gets the less interest</p>
+<p begin="00:11:06.340" end="00:11:10.720" style="s2">there is from the official channels and</p>
+<p begin="00:11:08.470" end="00:11:13.420" style="s2">why why do you think that&#39;s the response</p>
+<p begin="00:11:10.720" end="00:11:14.800" style="s2">from from journalism why let&#39;s start</p>
+<p begin="00:11:13.420" end="00:11:15.940" style="s2">from molecular biology why do you think</p>
+<p begin="00:11:14.800" end="00:11:17.320" style="s2">this is about response from molecular</p>
+<p begin="00:11:15.940" end="00:11:20.290" style="s2">biology or from the scientific community</p>
+<p begin="00:11:17.320" end="00:11:25.090" style="s2">well let&#39;s think about it what if you</p>
+<p begin="00:11:20.290" end="00:11:27.970" style="s2">had 20 years of studies that were built</p>
+<p begin="00:11:25.090" end="00:11:30.550" style="s2">around a mouse model which was known to</p>
+<p begin="00:11:27.970" end="00:11:31.870" style="s2">be broken and that in fact you had</p>
+<p begin="00:11:30.550" end="00:11:34.450" style="s2">people who were trying to say that the</p>
+<p begin="00:11:31.870" end="00:11:35.650" style="s2">mouse model might be broken and we need</p>
+<p begin="00:11:34.450" end="00:11:37.450" style="s2">to have a discussion about this</p>
+<p begin="00:11:35.650" end="00:11:39.580" style="s2">immediately and the community had</p>
+<p begin="00:11:37.450" end="00:11:42.660" style="s2">decided that it didn&#39;t want to introduce</p>
+<p begin="00:11:39.580" end="00:11:45.700" style="s2">the idea that this might have</p>
+<p begin="00:11:42.660" end="00:11:48.730" style="s2">far-reaching implications perhaps many</p>
+<p begin="00:11:45.700" end="00:11:50.680" style="s2">results that we have based on the use of</p>
+<p begin="00:11:48.730" end="00:11:52.210" style="s2">these mice are off you could have a</p>
+<p begin="00:11:50.680" end="00:11:54.910" style="s2">thousand strains but if they share a</p>
+<p begin="00:11:52.210" end="00:11:56.650" style="s2">common breeding protocol you might have</p>
+<p begin="00:11:54.910" end="00:11:58.420" style="s2">a situation by which all of those</p>
+<p begin="00:11:56.650" end="00:12:00.550" style="s2">strains are affected because they&#39;re all</p>
+<p begin="00:11:58.420" end="00:12:04.690" style="s2">subject to the same ideology that the</p>
+<p begin="00:12:00.550" end="00:12:06.280" style="s2">the breeding rotation is in fact an</p>
+<p begin="00:12:04.690" end="00:12:09.160" style="s2">evolutionary environment and that</p>
+<p begin="00:12:06.280" end="00:12:11.950" style="s2">telomeres adapt rapidly unlike protein</p>
+<p begin="00:12:09.160" end="00:12:14.950" style="s2">coding regions so my belief is is that</p>
+<p begin="00:12:11.950" end="00:12:16.210" style="s2">if you really don&#39;t want to shake up</p>
+<p begin="00:12:14.950" end="00:12:18.910" style="s2">your own I mean this is the typical</p>
+<p begin="00:12:16.210" end="00:12:22.060" style="s2">story if you don&#39;t have the ability to</p>
+<p begin="00:12:18.910" end="00:12:23.620" style="s2">shake up your own institution you tend</p>
+<p begin="00:12:22.060" end="00:12:26.350" style="s2">to want to throw these things under the</p>
+<p begin="00:12:23.620" end="00:12:29.710" style="s2">rug and hope that nobody notices with</p>
+<p begin="00:12:26.350" end="00:12:32.320" style="s2">respect to journalism I don&#39;t know I</p>
+<p begin="00:12:29.710" end="00:12:34.690" style="s2">mean journalists have gotten very</p>
+<p begin="00:12:32.320" end="00:12:36.430" style="s2">bizarre you talk to a lot of them</p>
+<p begin="00:12:34.690" end="00:12:39.250" style="s2">they&#39;re very excited about the story so</p>
+<p begin="00:12:36.430" end="00:12:41.770" style="s2">that my experience with journalists is</p>
+<p begin="00:12:39.250" end="00:12:43.120" style="s2">that you still have fresh faces who hear</p>
+<p begin="00:12:41.770" end="00:12:45.670" style="s2">something they&#39;ll tell you oh this is</p>
+<p begin="00:12:43.120" end="00:12:47.710" style="s2">fascinating it&#39;s fantastic I got to run</p>
+<p begin="00:12:45.670" end="00:12:50.200" style="s2">it down like getting all these partial</p>
+<p begin="00:12:47.710" end="00:12:51.850" style="s2">results and then very often you get this</p>
+<p begin="00:12:50.200" end="00:12:53.620" style="s2">weird phone call which is like my editor</p>
+<p begin="00:12:51.850" end="00:12:55.720" style="s2">said to stop working on it</p>
+<p begin="00:12:53.620" end="00:12:58.270" style="s2">well why they said it wasn&#39;t of any</p>
+<p begin="00:12:55.720" end="00:13:00.250" style="s2">interest well it might involve drug</p>
+<p begin="00:12:58.270" end="00:13:01.210" style="s2">testing it might involve why we died how</p>
+<p begin="00:13:00.250" end="00:13:03.130" style="s2">could you say that this isn&#39;t</p>
+<p begin="00:13:01.210" end="00:13:05.110" style="s2">interesting well that&#39;s what he said he</p>
+<p begin="00:13:03.130" end="00:13:06.170" style="s2">said it wasn&#39;t interesting to enough</p>
+<p begin="00:13:05.110" end="00:13:09.350" style="s2">people</p>
+<p begin="00:13:06.170" end="00:13:11.899" style="s2">too complicated like are you kidding me</p>
+<p begin="00:13:09.350" end="00:13:13.940" style="s2">I mean there&#39;s just no way of telling</p>
+<p begin="00:13:11.899" end="00:13:16.279" style="s2">this David I&#39;m getting sort of almost</p>
+<p begin="00:13:13.940" end="00:13:18.290" style="s2">fatigued having to go through it</p>
+<p begin="00:13:16.279" end="00:13:20.690" style="s2">something has gone terribly wrong with</p>
+<p begin="00:13:18.290" end="00:13:23.360" style="s2">journalism and I just don&#39;t know of</p>
+<p begin="00:13:20.690" end="00:13:25.399" style="s2">anybody who&#39;s not sensing that I guess</p>
+<p begin="00:13:23.360" end="00:13:26.870" style="s2">trying to understand why it happened</p>
+<p begin="00:13:25.399" end="00:13:31.540" style="s2">from the sort of information site from</p>
+<p begin="00:13:26.870" end="00:13:33.860" style="s2">the journalism side journalism works by</p>
+<p begin="00:13:31.540" end="00:13:35.230" style="s2">dedicated or a story like this would</p>
+<p begin="00:13:33.860" end="00:13:37.130" style="s2">work but through a dedicated</p>
+<p begin="00:13:35.230" end="00:13:39.649" style="s2">investigative journalist who&#39;s willing</p>
+<p begin="00:13:37.130" end="00:13:42.800" style="s2">to sort of chase it down to stake sort</p>
+<p begin="00:13:39.649" end="00:13:45.800" style="s2">of to a lot of time and a lot of energy</p>
+<p begin="00:13:42.800" end="00:13:46.940" style="s2">in doing it so it kind of I certainly</p>
+<p begin="00:13:45.800" end="00:13:49.040" style="s2">feel that one of the things that&#39;s</p>
+<p begin="00:13:46.940" end="00:13:50.720" style="s2">happened in journalism it&#39;s become much</p>
+<p begin="00:13:49.040" end="00:13:52.399" style="s2">more of an information processing thing</p>
+<p begin="00:13:50.720" end="00:13:55.670" style="s2">rather than an information sourcing</p>
+<p begin="00:13:52.399" end="00:13:57.260" style="s2">thing like cutbacks on in in the numbers</p>
+<p begin="00:13:55.670" end="00:13:59.089" style="s2">of journalists and like probably the</p>
+<p begin="00:13:57.260" end="00:14:01.790" style="s2">skill level of journalists who used to</p>
+<p begin="00:13:59.089" end="00:14:03.860" style="s2">kind of in the 70s use the phonebook</p>
+<p begin="00:14:01.790" end="00:14:05.360" style="s2">make calls themselves it&#39;s like those</p>
+<p begin="00:14:03.860" end="00:14:07.790" style="s2">skills I think of definitely atrophied</p>
+<p begin="00:14:05.360" end="00:14:10.130" style="s2">to a degree look I have to be careful</p>
+<p begin="00:14:07.790" end="00:14:12.500" style="s2">about it if I wasn&#39;t careful about it</p>
+<p begin="00:14:10.130" end="00:14:14.630" style="s2">this is a very simple story yeah maybe</p>
+<p begin="00:14:12.500" end="00:14:16.940" style="s2">we released a lot of bad mice and that</p>
+<p begin="00:14:14.630" end="00:14:18.380" style="s2">now we&#39;ve got health implications from</p>
+<p begin="00:14:16.940" end="00:14:19.820" style="s2">the fact that our mice model is all</p>
+<p begin="00:14:18.380" end="00:14:21.320" style="s2">screwed up and that we had people who</p>
+<p begin="00:14:19.820" end="00:14:22.820" style="s2">didn&#39;t want to give credit where credit</p>
+<p begin="00:14:21.320" end="00:14:24.410" style="s2">was due and so we didn&#39;t get the</p>
+<p begin="00:14:22.820" end="00:14:26.089" style="s2">hypothesis that explained what the</p>
+<p begin="00:14:24.410" end="00:14:29.870" style="s2">potential ramifications are</p>
+<p begin="00:14:26.089" end="00:14:32.089" style="s2">full-stop yeah right somebody may have</p>
+<p begin="00:14:29.870" end="00:14:34.459" style="s2">figured out why we died is that of any</p>
+<p begin="00:14:32.089" end="00:14:36.500" style="s2">interest to you is it too complicated I</p>
+<p begin="00:14:34.459" end="00:14:38.120" style="s2">don&#39;t buy any of this if you&#39;re smart</p>
+<p begin="00:14:36.500" end="00:14:39.620" style="s2">enough to watch Game of Thrones of The</p>
+<p begin="00:14:38.120" end="00:14:41.899" style="s2">Sopranos you&#39;re smart enough to follow</p>
+<p begin="00:14:39.620" end="00:14:43.490" style="s2">this story if you if you really can&#39;t</p>
+<p begin="00:14:41.899" end="00:14:45.380" style="s2">follow more than one plot line at a time</p>
+<p begin="00:14:43.490" end="00:14:47.120" style="s2">and you need everything in all caps and</p>
+<p begin="00:14:45.380" end="00:14:48.860" style="s2">really big type then maybe you&#39;re not</p>
+<p begin="00:14:47.120" end="00:14:51.410" style="s2">the target audience for this but as long</p>
+<p begin="00:14:48.860" end="00:14:56.000" style="s2">as people subscribe to the I don&#39;t know</p>
+<p begin="00:14:51.410" end="00:14:59.120" style="s2">The Economist or The Times it would</p>
+<p begin="00:14:56.000" end="00:15:01.070" style="s2">appear if we don&#39;t have a world that&#39;s</p>
+<p begin="00:14:59.120" end="00:15:02.390" style="s2">smart enough to follow this story we&#39;ve</p>
+<p begin="00:15:01.070" end="00:15:03.740" style="s2">got a lot of bigger problems than T</p>
+<p begin="00:15:02.390" end="00:15:06.380" style="s2">lemaitre&#39;s I don&#39;t think this is very</p>
+<p begin="00:15:03.740" end="00:15:09.230" style="s2">difficult and I&#39;ll be honest I think</p>
+<p begin="00:15:06.380" end="00:15:13.370" style="s2">that these excuses about budgets are</p>
+<p begin="00:15:09.230" end="00:15:15.260" style="s2">absurd I could do this in my spare time</p>
+<p begin="00:15:13.370" end="00:15:16.460" style="s2">if I wasn&#39;t actually a participant in</p>
+<p begin="00:15:15.260" end="00:15:20.210" style="s2">the story</p>
+<p begin="00:15:16.460" end="00:15:21.620" style="s2">just to summarize like for people who as</p>
+<p begin="00:15:20.210" end="00:15:23.660" style="s2">soon as you say the word telomere start</p>
+<p begin="00:15:21.620" end="00:15:25.040" style="s2">to kind of glaze over and like I&#39;m</p>
+<p begin="00:15:23.660" end="00:15:26.810" style="s2">really struggling to follow the story</p>
+<p begin="00:15:25.040" end="00:15:29.660" style="s2">which which I think many of us are like</p>
+<p begin="00:15:26.810" end="00:15:33.800" style="s2">let the ins and outs of it why is this</p>
+<p begin="00:15:29.660" end="00:15:35.750" style="s2">so significant well it depends what you</p>
+<p begin="00:15:33.800" end="00:15:39.800" style="s2">mean by this there are two this&#39;s</p>
+<p begin="00:15:35.750" end="00:15:42.020" style="s2">there&#39;s what goes on in a normal mammal</p>
+<p begin="00:15:39.800" end="00:15:44.810" style="s2">with respect to telomeres senescence and</p>
+<p begin="00:15:42.020" end="00:15:47.210" style="s2">cancer and then there&#39;s what happened in</p>
+<p begin="00:15:44.810" end="00:15:49.520" style="s2">the scientific study of telomeres so</p>
+<p begin="00:15:47.210" end="00:15:51.530" style="s2">those are two very distinct stories and</p>
+<p begin="00:15:49.520" end="00:15:54.770" style="s2">I really wish that we could talk about</p>
+<p begin="00:15:51.530" end="00:15:57.110" style="s2">the scientific story in isolation from</p>
+<p begin="00:15:54.770" end="00:16:02.000" style="s2">the big science story because the big</p>
+<p begin="00:15:57.110" end="00:16:05.300" style="s2">science story is a very different it&#39;s</p>
+<p begin="00:16:02.000" end="00:16:07.010" style="s2">about human failings more than anything</p>
+<p begin="00:16:05.300" end="00:16:08.630" style="s2">else whereas the scientific story is an</p>
+<p begin="00:16:07.010" end="00:16:10.520" style="s2">absolutely fascinating story that</p>
+<p begin="00:16:08.630" end="00:16:14.510" style="s2">explains who we are and why we&#39;re built</p>
+<p begin="00:16:10.520" end="00:16:17.260" style="s2">the way we are and it really needs to be</p>
+<p begin="00:16:14.510" end="00:16:19.610" style="s2">more broadly understood the problem is</p>
+<p begin="00:16:17.260" end="00:16:21.800" style="s2">you can&#39;t really understand the</p>
+<p begin="00:16:19.610" end="00:16:24.140" style="s2">scientific story unless you understand</p>
+<p begin="00:16:21.800" end="00:16:26.120" style="s2">how the human story was preventing it</p>
+<p begin="00:16:24.140" end="00:16:27.710" style="s2">from emerging the two stories have</p>
+<p begin="00:16:26.120" end="00:16:30.650" style="s2">become intertwined in a way that they&#39;re</p>
+<p begin="00:16:27.710" end="00:16:32.510" style="s2">almost impossible to disentangle and so</p>
+<p begin="00:16:30.650" end="00:16:38.500" style="s2">anyway that that&#39;s one of the things</p>
+<p begin="00:16:32.510" end="00:16:43.870" style="s2">that emerged on this podcast the import</p>
+<p begin="00:16:38.500" end="00:16:46.010" style="s2">the import of the scientific story is we</p>
+<p begin="00:16:43.870" end="00:16:50.800" style="s2">do not understand that we are the</p>
+<p begin="00:16:46.010" end="00:16:54.910" style="s2">beneficiaries of a system that very</p>
+<p begin="00:16:50.800" end="00:16:58.580" style="s2">almost ideally balances two conflicting</p>
+<p begin="00:16:54.910" end="00:17:02.690" style="s2">deadly hazards one hazard is tumors and</p>
+<p begin="00:16:58.580" end="00:17:04.520" style="s2">the other is wearing out we have a</p>
+<p begin="00:17:02.690" end="00:17:06.440" style="s2">system in which we don&#39;t have to wear</p>
+<p begin="00:17:04.520" end="00:17:09.440" style="s2">out because our tissues can replace</p>
+<p begin="00:17:06.440" end="00:17:11.900" style="s2">themselves but if you let that system do</p>
+<p begin="00:17:09.440" end="00:17:14.150" style="s2">its own thing then every cell almost</p>
+<p begin="00:17:11.900" end="00:17:15.620" style="s2">every cell in your body is in danger of</p>
+<p begin="00:17:14.150" end="00:17:19.880" style="s2">turning into a tumor that will kill you</p>
+<p begin="00:17:15.620" end="00:17:22.220" style="s2">if you correct for the problem of tumors</p>
+<p begin="00:17:19.880" end="00:17:25.490" style="s2">that can run away and crowd out vital</p>
+<p begin="00:17:22.220" end="00:17:27.190" style="s2">organs then you create a limit on the</p>
+<p begin="00:17:25.490" end="00:17:29.590" style="s2">amount of tissue repair you can do and</p>
+<p begin="00:17:27.190" end="00:17:33.760" style="s2">understanding that human beings are</p>
+<p begin="00:17:29.590" end="00:17:36.340" style="s2">actually extremely well built in this</p>
+<p begin="00:17:33.760" end="00:17:39.850" style="s2">regard we are the longest live</p>
+<p begin="00:17:36.340" end="00:17:41.740" style="s2">terrestrial mammal by far as a result of</p>
+<p begin="00:17:39.850" end="00:17:44.529" style="s2">the fact that the system has been built</p>
+<p begin="00:17:41.740" end="00:17:47.289" style="s2">to give us very long life so the entire</p>
+<p begin="00:17:44.529" end="00:17:49.390" style="s2">question about extending maximum human</p>
+<p begin="00:17:47.289" end="00:17:51.730" style="s2">lifespans should happen in this context</p>
+<p begin="00:17:49.390" end="00:17:55.150" style="s2">we&#39;ve had our lifespans radically</p>
+<p begin="00:17:51.730" end="00:17:58.419" style="s2">extended since our branching point with</p>
+<p begin="00:17:55.150" end="00:18:00.130" style="s2">other mammals right natural selection</p>
+<p begin="00:17:58.419" end="00:18:04.450" style="s2">has already worked on this puzzle and it</p>
+<p begin="00:18:00.130" end="00:18:06.340" style="s2">has given us a very effective adaptive</p>
+<p begin="00:18:04.450" end="00:18:08.770" style="s2">balance between these two hazards you</p>
+<p begin="00:18:06.340" end="00:18:10.360" style="s2">can definitely have tissues that replace</p>
+<p begin="00:18:08.770" end="00:18:12.250" style="s2">themselves better but you&#39;ll have more</p>
+<p begin="00:18:10.360" end="00:18:14.440" style="s2">cancer risk right and you can definitely</p>
+<p begin="00:18:12.250" end="00:18:15.669" style="s2">have less cancer risk but then you&#39;ll</p>
+<p begin="00:18:14.440" end="00:18:17.860" style="s2">have tissues that don&#39;t replace each</p>
+<p begin="00:18:15.669" end="00:18:21.010" style="s2">other replace themselves very</p>
+<p begin="00:18:17.860" end="00:18:22.870" style="s2">effectively and the question is could we</p>
+<p begin="00:18:21.010" end="00:18:25.809" style="s2">adaptive leaf shift that balance a</p>
+<p begin="00:18:22.870" end="00:18:26.549" style="s2">little bit we could would it be</p>
+<p begin="00:18:25.809" end="00:18:28.840" style="s2">desirable</p>
+<p begin="00:18:26.549" end="00:18:33.190" style="s2">there are even scenarios in which it</p>
+<p begin="00:18:28.840" end="00:18:35.289" style="s2">might be for example if we got very very</p>
+<p begin="00:18:33.190" end="00:18:38.140" style="s2">good at spotting tumors when they had</p>
+<p begin="00:18:35.289" end="00:18:40.570" style="s2">just started right well then you might</p>
+<p begin="00:18:38.140" end="00:18:42.399" style="s2">be willing to have more tumors start and</p>
+<p begin="00:18:40.570" end="00:18:44.260" style="s2">then to address them surgically in</p>
+<p begin="00:18:42.399" end="00:18:46.510" style="s2">exchange for tissues that age less</p>
+<p begin="00:18:44.260" end="00:18:49.090" style="s2">quickly that&#39;s conceivable we could do</p>
+<p begin="00:18:46.510" end="00:18:50.350" style="s2">that and you know if that&#39;s what we&#39;re</p>
+<p begin="00:18:49.090" end="00:18:51.520" style="s2">gonna do we should pursue it but we</p>
+<p begin="00:18:50.350" end="00:18:53.200" style="s2">should not pretend that what we are</p>
+<p begin="00:18:51.520" end="00:18:54.669" style="s2">pursuing is an end to human agent if</p>
+<p begin="00:18:53.200" end="00:18:58.890" style="s2">that&#39;s not going to happen right it</p>
+<p begin="00:18:54.669" end="00:19:03.159" style="s2">can&#39;t happen so that&#39;s the scientific</p>
+<p begin="00:18:58.890" end="00:19:06.700" style="s2">upshot the social upshot the sign the</p>
+<p begin="00:19:03.159" end="00:19:09.940" style="s2">science the big science upshot is that</p>
+<p begin="00:19:06.700" end="00:19:12.460" style="s2">the market has interfaced with</p>
+<p begin="00:19:09.940" end="00:19:14.890" style="s2">scientific study in ways that are</p>
+<p begin="00:19:12.460" end="00:19:18.490" style="s2">absolutely devastating the way that the</p>
+<p begin="00:19:14.890" end="00:19:21.700" style="s2">mouse telomere got extended had to do</p>
+<p begin="00:19:18.490" end="00:19:25.600" style="s2">with market forces that rewarded the</p>
+<p begin="00:19:21.700" end="00:19:28.059" style="s2">production of mice at a very rapid rate</p>
+<p begin="00:19:25.600" end="00:19:31.899" style="s2">in order to produce mice at a very rapid</p>
+<p begin="00:19:28.059" end="00:19:34.299" style="s2">rate a decision was made to breed only</p>
+<p begin="00:19:31.899" end="00:19:36.309" style="s2">young animals and breeding only young</p>
+<p begin="00:19:34.299" end="00:19:38.480" style="s2">animals had a dramatic selective effect</p>
+<p begin="00:19:36.309" end="00:19:40.429" style="s2">in the colonies it would appear</p>
+<p begin="00:19:38.480" end="00:19:42.559" style="s2">that was one way in which the market</p>
+<p begin="00:19:40.429" end="00:19:44.660" style="s2">interfaced badly with the story the</p>
+<p begin="00:19:42.559" end="00:19:46.460" style="s2">other way it seems to enter face badly</p>
+<p begin="00:19:44.660" end="00:19:48.380" style="s2">with the story has to do with</p>
+<p begin="00:19:46.460" end="00:19:51.530" style="s2">flourishing in an academic environment</p>
+<p begin="00:19:48.380" end="00:19:57.220" style="s2">by keeping quiet with respect to hazards</p>
+<p begin="00:19:51.530" end="00:19:57.220" style="s2">like this and it had to do with the</p>
+<p begin="00:19:57.460" end="00:20:02.540" style="s2">scientific apparatus serving the</p>
+<p begin="00:20:00.320" end="00:20:05.299" style="s2">interests of potentially the</p>
+<p begin="00:20:02.540" end="00:20:07.970" style="s2">pharmaceutical industry at the expense</p>
+<p begin="00:20:05.299" end="00:20:09.530" style="s2">of the public I&#39;m pretty sure the</p>
+<p begin="00:20:07.970" end="00:20:11.390" style="s2">pharmaceutical industry did not know</p>
+<p begin="00:20:09.530" end="00:20:13.460" style="s2">that the mice were broken in a way that</p>
+<p begin="00:20:11.390" end="00:20:17.210" style="s2">bias to drugs in the direction of</p>
+<p begin="00:20:13.460" end="00:20:21.049" style="s2">looking safe until until I pointed it</p>
+<p begin="00:20:17.210" end="00:20:22.640" style="s2">out however after that point they did</p>
+<p begin="00:20:21.049" end="00:20:24.590" style="s2">know and they had a question did they</p>
+<p begin="00:20:22.640" end="00:20:27.169" style="s2">want to solve the problem at some large</p>
+<p begin="00:20:24.590" end="00:20:28.880" style="s2">financial cost to their industry or did</p>
+<p begin="00:20:27.169" end="00:20:31.160" style="s2">they want to sweep it under the rug I</p>
+<p begin="00:20:28.880" end="00:20:33.919" style="s2">have no idea whether pharmaceutical</p>
+<p begin="00:20:31.160" end="00:20:36.049" style="s2">companies have actually taken action but</p>
+<p begin="00:20:33.919" end="00:20:38.870" style="s2">what I do know is that the system is</p>
+<p begin="00:20:36.049" end="00:20:40.690" style="s2">sensitive to the kind of money that the</p>
+<p begin="00:20:38.870" end="00:20:44.799" style="s2">pharmaceutical industry brings to bear</p>
+<p begin="00:20:40.690" end="00:20:47.270" style="s2">and that it would not be surprising if</p>
+<p begin="00:20:44.799" end="00:20:48.980" style="s2">they are functioning as the ghost in the</p>
+<p begin="00:20:47.270" end="00:20:50.900" style="s2">machine that prevents the story from</p>
+<p begin="00:20:48.980" end="00:20:53.120" style="s2">ever emerging in the mainstream press</p>
+<p begin="00:20:50.900" end="00:20:55.520" style="s2">yeah I guess I&#39;m slightly more hopeful</p>
+<p begin="00:20:53.120" end="00:20:57.440" style="s2">because I I know I&#39;ve worked with</p>
+<p begin="00:20:55.520" end="00:21:00.620" style="s2">journalists who have followed particular</p>
+<p begin="00:20:57.440" end="00:21:02.000" style="s2">stories at significant personal risk put</p>
+<p begin="00:21:00.620" end="00:21:05.650" style="s2">their careers on the line to kind of</p>
+<p begin="00:21:02.000" end="00:21:08.780" style="s2">pursue especially in foreign affairs</p>
+<p begin="00:21:05.650" end="00:21:10.820" style="s2">stories of huge important so I&#39;m hopeful</p>
+<p begin="00:21:08.780" end="00:21:14.179" style="s2">that journalism is not as compromised as</p>
+<p begin="00:21:10.820" end="00:21:15.710" style="s2">maybe we&#39;re kind of sketching out to be</p>
+<p begin="00:21:14.179" end="00:21:17.870" style="s2">David I just want to say something about</p>
+<p begin="00:21:15.710" end="00:21:20.929" style="s2">that I&#39;ve been following the story for</p>
+<p begin="00:21:17.870" end="00:21:22.790" style="s2">20 years we&#39;ve intermittently tried to</p>
+<p begin="00:21:20.929" end="00:21:24.830" style="s2">get interest in the story it&#39;s not</p>
+<p begin="00:21:22.790" end="00:21:26.600" style="s2">difficult to locate reporters who find</p>
+<p begin="00:21:24.830" end="00:21:27.950" style="s2">the story to be of interest that&#39;s not</p>
+<p begin="00:21:26.600" end="00:21:30.440" style="s2">where the problem appears to be located</p>
+<p begin="00:21:27.950" end="00:21:32.510" style="s2">there is something above the level of</p>
+<p begin="00:21:30.440" end="00:21:35.210" style="s2">the reporter that causes the story to</p>
+<p begin="00:21:32.510" end="00:21:37.970" style="s2">die usually and I think that the disc is</p>
+<p begin="00:21:35.210" end="00:21:40.790" style="s2">much more located in the editorial later</p>
+<p begin="00:21:37.970" end="00:21:43.250" style="s2">rather than in the actual beat reporter</p>
+<p begin="00:21:40.790" end="00:21:45.020" style="s2">layer one possibility David is is that</p>
+<p begin="00:21:43.250" end="00:21:46.490" style="s2">the editorial layer is taking into</p>
+<p begin="00:21:45.020" end="00:21:48.559" style="s2">account different sorts of decisions</p>
+<p begin="00:21:46.490" end="00:21:50.659" style="s2">that the journalistic layer is still</p>
+<p begin="00:21:48.559" end="00:21:51.350" style="s2">being told go pursue the stories that</p>
+<p begin="00:21:50.659" end="00:21:53.090" style="s2">are important</p>
+<p begin="00:21:51.350" end="00:21:55.400" style="s2">that are interesting and bring them back</p>
+<p begin="00:21:53.090" end="00:21:58.070" style="s2">to us and then the editorial layer</p>
+<p begin="00:21:55.400" end="00:22:00.590" style="s2">filters on something else which is is</p>
+<p begin="00:21:58.070" end="00:22:02.480" style="s2">this going to be an inexpensive story to</p>
+<p begin="00:22:00.590" end="00:22:05.809" style="s2">produce or an expensive story to produce</p>
+<p begin="00:22:02.480" end="00:22:09.530" style="s2">is this going to put the paper or the</p>
+<p begin="00:22:05.809" end="00:22:12.289" style="s2">radio program at risk is a TV station</p>
+<p begin="00:22:09.530" end="00:22:14.000" style="s2">going to be compromised if in fact there</p>
+<p begin="00:22:12.289" end="00:22:16.190" style="s2">is a legal response from some of the</p>
+<p begin="00:22:14.000" end="00:22:19.370" style="s2">participants and so I believe that the</p>
+<p begin="00:22:16.190" end="00:22:21.260" style="s2">institutional sympathies really live</p>
+<p begin="00:22:19.370" end="00:22:23.179" style="s2">much more in the editorial and</p>
+<p begin="00:22:21.260" end="00:22:24.950" style="s2">managerial layers than they do in the</p>
+<p begin="00:22:23.179" end="00:22:27.890" style="s2">reporting layers which causes a false</p>
+<p begin="00:22:24.950" end="00:22:29.840" style="s2">sense of security with people who are</p>
+<p begin="00:22:27.890" end="00:22:30.980" style="s2">well acquainted with reporters they tend</p>
+<p begin="00:22:29.840" end="00:22:32.929" style="s2">to say you know I know a lot of</p>
+<p begin="00:22:30.980" end="00:22:34.640" style="s2">reporters and I think of them as in</p>
+<p begin="00:22:32.929" end="00:22:36.740" style="s2">general having a lot of integrity and a</p>
+<p begin="00:22:34.640" end="00:22:39.470" style="s2">lot of passion but that&#39;s not the issue</p>
+<p begin="00:22:36.740" end="00:22:41.690" style="s2">the issue is that it&#39;s the composite the</p>
+<p begin="00:22:39.470" end="00:22:43.460" style="s2">interest is there a lot of times the</p>
+<p begin="00:22:41.690" end="00:22:45.890" style="s2">intelligence is there the grit is there</p>
+<p begin="00:22:43.460" end="00:22:48.530" style="s2">the drive is there what enervates the</p>
+<p begin="00:22:45.890" end="00:22:50.570" style="s2">system is when certain other concerns</p>
+<p begin="00:22:48.530" end="00:22:52.850" style="s2">that we know much less well enter the</p>
+<p begin="00:22:50.570" end="00:22:54.770" style="s2">story like for example is there an</p>
+<p begin="00:22:52.850" end="00:22:56.659" style="s2">advertiser or might be a pharmaceutical</p>
+<p begin="00:22:54.770" end="00:22:59.809" style="s2">firm that might be negatively impacted</p>
+<p begin="00:22:56.659" end="00:23:01.460" style="s2">by the story or for example is the legal</p>
+<p begin="00:22:59.809" end="00:23:03.500" style="s2">bill going to be large in order to</p>
+<p begin="00:23:01.460" end="00:23:05.630" style="s2">figure out whether or not the paper can</p>
+<p begin="00:23:03.500" end="00:23:07.970" style="s2">actually print this or is it going to be</p>
+<p begin="00:23:05.630" end="00:23:10.700" style="s2">expensive if the experts who are</p>
+<p begin="00:23:07.970" end="00:23:12.470" style="s2">involved in the story might have a</p>
+<p begin="00:23:10.700" end="00:23:14.870" style="s2">vested interest and so we have to figure</p>
+<p begin="00:23:12.470" end="00:23:17.840" style="s2">out some way around expert vested</p>
+<p begin="00:23:14.870" end="00:23:19.850" style="s2">interest in all of those situations you</p>
+<p begin="00:23:17.840" end="00:23:21.590" style="s2">can imagine that the layer above the</p>
+<p begin="00:23:19.850" end="00:23:23.330" style="s2">reporter is going to be much more</p>
+<p begin="00:23:21.590" end="00:23:25.909" style="s2">important than most people think and</p>
+<p begin="00:23:23.330" end="00:23:27.799" style="s2">that casual observers or even people</p>
+<p begin="00:23:25.909" end="00:23:30.409" style="s2">inside the industry will tend to place</p>
+<p begin="00:23:27.799" end="00:23:32.360" style="s2">too much of an emphasis on whether or</p>
+<p begin="00:23:30.409" end="00:23:34.850" style="s2">not there are good reporters available</p>
+<p begin="00:23:32.360" end="00:23:37.880" style="s2">one of the things I understood from your</p>
+<p begin="00:23:34.850" end="00:23:40.970" style="s2">podcast that was preventing people</p>
+<p begin="00:23:37.880" end="00:23:42.830" style="s2">reporting it before is the nature of</p>
+<p begin="00:23:40.970" end="00:23:45.370" style="s2">like if you look into this as a</p>
+<p begin="00:23:42.830" end="00:23:51.140" style="s2">journalist you immediately will go to</p>
+<p begin="00:23:45.370" end="00:23:53.150" style="s2">certain arbiters of truth to check it</p>
+<p begin="00:23:51.140" end="00:23:54.409" style="s2">out you&#39;ll go to for example the Medical</p>
+<p begin="00:23:53.150" end="00:23:56.990" style="s2">Association you&#39;ll go to various places</p>
+<p begin="00:23:54.409" end="00:23:58.480" style="s2">to check out the story and I guess one</p>
+<p begin="00:23:56.990" end="00:24:01.669" style="s2">of the reasons that this can&#39;t be</p>
+<p begin="00:23:58.480" end="00:24:03.230" style="s2">reported is that effectively everyone</p>
+<p begin="00:24:01.669" end="00:24:04.840" style="s2">that you go to check it with would have</p>
+<p begin="00:24:03.230" end="00:24:08.080" style="s2">a vested interest in it not</p>
+<p begin="00:24:04.840" end="00:24:12.690" style="s2">true is that part of the the issue what</p>
+<p begin="00:24:08.080" end="00:24:15.279" style="s2">are the wider I guess informational</p>
+<p begin="00:24:12.690" end="00:24:19.690" style="s2">journalistic perspectives that it shows</p>
+<p begin="00:24:15.279" end="00:24:22.570" style="s2">up well I know that my experience was</p>
+<p begin="00:24:19.690" end="00:24:24.940" style="s2">that for ten years I went to everybody I</p>
+<p begin="00:24:22.570" end="00:24:29.080" style="s2">could think of who would listen and I</p>
+<p begin="00:24:24.940" end="00:24:31.389" style="s2">told them what I knew and many of them</p>
+<p begin="00:24:29.080" end="00:24:33.100" style="s2">were quite interested including quite a</p>
+<p begin="00:24:31.389" end="00:24:34.389" style="s2">number of journalists who you know</p>
+<p begin="00:24:33.100" end="00:24:37.179" style="s2">couldn&#39;t believe the story they were</p>
+<p begin="00:24:34.389" end="00:24:39.070" style="s2">hearing and then they went to do</p>
+<p begin="00:24:37.179" end="00:24:42.369" style="s2">whatever it is journalists do and then</p>
+<p begin="00:24:39.070" end="00:24:44.080" style="s2">they became very strange and they</p>
+<p begin="00:24:42.369" end="00:24:47.619" style="s2">treated me like a pariah and I don&#39;t</p>
+<p begin="00:24:44.080" end="00:24:49.269" style="s2">know why that was but the implication is</p>
+<p begin="00:24:47.619" end="00:24:51.519" style="s2">that something somebody on the other end</p>
+<p begin="00:24:49.269" end="00:24:58.299" style="s2">of a phone said to them caused this</p>
+<p begin="00:24:51.519" end="00:25:01.600" style="s2">reaction now my point would be something</p>
+<p begin="00:24:58.299" end="00:25:03.190" style="s2">is synchronizing the reaction of people</p>
+<p begin="00:25:01.600" end="00:25:05.110" style="s2">on the other ends of phones that</p>
+<p begin="00:25:03.190" end="00:25:08.080" style="s2">journalists would call that is to say</p>
+<p begin="00:25:05.110" end="00:25:13.450" style="s2">the establishment has a system of</p>
+<p begin="00:25:08.080" end="00:25:15.879" style="s2">incentives that causes certain things to</p>
+<p begin="00:25:13.450" end="00:25:18.369" style="s2">be said that shut down the story now I</p>
+<p begin="00:25:15.879" end="00:25:22.690" style="s2">know what some of them were we&#39;ve looked</p>
+<p begin="00:25:18.369" end="00:25:25.929" style="s2">at this there&#39;s no problem or this has</p>
+<p begin="00:25:22.690" end="00:25:28.029" style="s2">been addressed or we all know that the</p>
+<p begin="00:25:25.929" end="00:25:31.720" style="s2">mice are broken right all of these</p>
+<p begin="00:25:28.029" end="00:25:33.759" style="s2">things are easily answered if met on a</p>
+<p begin="00:25:31.720" end="00:25:37.860" style="s2">level playing field none of those are</p>
+<p begin="00:25:33.759" end="00:25:41.110" style="s2">proper concerns if the if the situation</p>
+<p begin="00:25:37.860" end="00:25:42.399" style="s2">has been addressed then it should leave</p>
+<p begin="00:25:41.110" end="00:25:44.619" style="s2">evidence in the literature that it&#39;s</p>
+<p begin="00:25:42.399" end="00:25:46.749" style="s2">been addressed if the situation is not a</p>
+<p begin="00:25:44.619" end="00:25:50.350" style="s2">problem that should also leave a</p>
+<p begin="00:25:46.749" end="00:25:52.210" style="s2">hallmark in the literature all the mice</p>
+<p begin="00:25:50.350" end="00:25:55.149" style="s2">are broken doesn&#39;t mean anything because</p>
+<p begin="00:25:52.210" end="00:25:57.789" style="s2">yes mice are not perfect model organisms</p>
+<p begin="00:25:55.149" end="00:26:00.850" style="s2">no organism is a perfect model organism</p>
+<p begin="00:25:57.789" end="00:26:02.919" style="s2">but the lab mouse telomeres appear to be</p>
+<p begin="00:26:00.850" end="00:26:05.440" style="s2">the result of a breeding protocol that</p>
+<p begin="00:26:02.919" end="00:26:07.419" style="s2">is sensitive to being altered in order</p>
+<p begin="00:26:05.440" end="00:26:09.580" style="s2">to change its affect on the lab mouse</p>
+<p begin="00:26:07.419" end="00:26:12.340" style="s2">telomeres so the fact that mice may be</p>
+<p begin="00:26:09.580" end="00:26:12.750" style="s2">broken with respect to this hormone or</p>
+<p begin="00:26:12.340" end="00:26:14.970" style="s2">that</p>
+<p begin="00:26:12.750" end="00:26:17.340" style="s2">hormone has nothing to say about whether</p>
+<p begin="00:26:14.970" end="00:26:19.740" style="s2">or not this thing that became broken on</p>
+<p begin="00:26:17.340" end="00:26:21.840" style="s2">the human watch could be unbroken and</p>
+<p begin="00:26:19.740" end="00:26:24.960" style="s2">they could be vastly better models so</p>
+<p begin="00:26:21.840" end="00:26:27.420" style="s2">there&#39;s no answer that anybody there&#39;s</p>
+<p begin="00:26:24.960" end="00:26:30.060" style="s2">no response that anybody heard that</p>
+<p begin="00:26:27.420" end="00:26:34.350" style="s2">doesn&#39;t invite the next question but in</p>
+<p begin="00:26:30.060" end="00:26:36.720" style="s2">general journalists are not molecular</p>
+<p begin="00:26:34.350" end="00:26:38.760" style="s2">biologists who are in a position to know</p>
+<p begin="00:26:36.720" end="00:26:39.570" style="s2">that what they&#39;re hearing is actual</p>
+<p begin="00:26:38.760" end="00:26:41.940" style="s2">bullshit</p>
+<p begin="00:26:39.570" end="00:26:45.810" style="s2">so they think that what they&#39;re hearing</p>
+<p begin="00:26:41.940" end="00:26:47.610" style="s2">is actually a proper response and that</p>
+<p begin="00:26:45.810" end="00:26:49.770" style="s2">that proper response therefore means</p>
+<p begin="00:26:47.610" end="00:26:50.760" style="s2">that whoever is pushing this is some</p>
+<p begin="00:26:49.770" end="00:26:52.680" style="s2">sort of a problem that needs</p>
+<p begin="00:26:50.760" end="00:26:58.020" style="s2">investigative journalism is therefore a</p>
+<p begin="00:26:52.680" end="00:27:00.810" style="s2">prank and I don&#39;t know what we do about</p>
+<p begin="00:26:58.020" end="00:27:04.230" style="s2">the fact that journalists don&#39;t have the</p>
+<p begin="00:27:00.810" end="00:27:05.520" style="s2">chops in general to figure out that what</p>
+<p begin="00:27:04.230" end="00:27:07.320" style="s2">they&#39;re getting on the other end of the</p>
+<p begin="00:27:05.520" end="00:27:10.080" style="s2">phone suggests the need for more</p>
+<p begin="00:27:07.320" end="00:27:14.160" style="s2">journalism not less maybe it involves</p>
+<p begin="00:27:10.080" end="00:27:16.200" style="s2">the vast overproduction of PhDs that we</p>
+<p begin="00:27:14.160" end="00:27:17.820" style="s2">currently engage in we produce lots of</p>
+<p begin="00:27:16.200" end="00:27:19.880" style="s2">people who never get a job inside of</p>
+<p begin="00:27:17.820" end="00:27:22.620" style="s2">academia maybe they need to become</p>
+<p begin="00:27:19.880" end="00:27:24.450" style="s2">journalists so that they have the idea</p>
+<p begin="00:27:22.620" end="00:27:25.710" style="s2">of what question asked next when they&#39;re</p>
+<p begin="00:27:24.450" end="00:27:28.920" style="s2">confronted with that kind of nonsense</p>
+<p begin="00:27:25.710" end="00:27:31.560" style="s2">but at the very least we can see not</p>
+<p begin="00:27:28.920" end="00:27:33.030" style="s2">only is the scientific system broken but</p>
+<p begin="00:27:31.560" end="00:27:35.070" style="s2">the journalistic system that&#39;s supposed</p>
+<p begin="00:27:33.030" end="00:27:36.960" style="s2">to keep the scientific system honest is</p>
+<p begin="00:27:35.070" end="00:27:38.400" style="s2">also broke one of the other stories that</p>
+<p begin="00:27:36.960" end="00:27:41.400" style="s2">you&#39;ve tweeted about quite regularly and</p>
+<p begin="00:27:38.400" end="00:27:43.110" style="s2">it&#39;s sort of something that many memes</p>
+<p begin="00:27:41.400" end="00:27:46.620" style="s2">basically kind of trying to prevent the</p>
+<p begin="00:27:43.110" end="00:27:49.820" style="s2">story from dying is the Epstein case do</p>
+<p begin="00:27:46.620" end="00:27:52.320" style="s2">you do you get a sense of journalistic</p>
+<p begin="00:27:49.820" end="00:27:55.230" style="s2">incompetence or journalistic malpractice</p>
+<p begin="00:27:52.320" end="00:27:58.170" style="s2">in that story as well again when you say</p>
+<p begin="00:27:55.230" end="00:28:01.140" style="s2">journalistic I mean the composite of the</p>
+<p begin="00:27:58.170" end="00:28:03.270" style="s2">reporter together with the institution</p>
+<p begin="00:28:01.140" end="00:28:05.070" style="s2">for whom they are reporting it&#39;s a</p>
+<p begin="00:28:03.270" end="00:28:08.010" style="s2">little bit like a pigeon constantly</p>
+<p begin="00:28:05.070" end="00:28:10.020" style="s2">flying into some sort of obstruction it</p>
+<p begin="00:28:08.010" end="00:28:11.910" style="s2">appears to be in flight and then as the</p>
+<p begin="00:28:10.020" end="00:28:14.010" style="s2">pigeon gets farther and farther across</p>
+<p begin="00:28:11.910" end="00:28:16.200" style="s2">the room suddenly it&#39;s like it slams</p>
+<p begin="00:28:14.010" end="00:28:17.940" style="s2">into some kind of a force field now you</p>
+<p begin="00:28:16.200" end="00:28:20.940" style="s2">and I know that that&#39;s probably a</p>
+<p begin="00:28:17.940" end="00:28:23.520" style="s2">description of a glass wall</p>
+<p begin="00:28:20.940" end="00:28:25.560" style="s2">all right there is some glass wall that</p>
+<p begin="00:28:23.520" end="00:28:27.660" style="s2">is preventing the Epstein story from</p>
+<p begin="00:28:25.560" end="00:28:30.000" style="s2">being discussed properly everyone&#39;s</p>
+<p begin="00:28:27.660" end="00:28:32.490" style="s2">interested in the questions are basic</p>
+<p begin="00:28:30.000" end="00:28:35.130" style="s2">and there&#39;s a guaranteed story to write</p>
+<p begin="00:28:32.490" end="00:28:37.200" style="s2">simply ask the most basic questions of</p>
+<p begin="00:28:35.130" end="00:28:39.630" style="s2">the officials involved and print</p>
+<p begin="00:28:37.200" end="00:28:41.400" style="s2">whatever comes back whatever it is</p>
+<p begin="00:28:39.630" end="00:28:43.200" style="s2">there&#39;s no possibility of an</p>
+<p begin="00:28:41.400" end="00:28:46.200" style="s2">uninteresting answer to the central</p>
+<p begin="00:28:43.200" end="00:28:48.750" style="s2">questions and yet the central questions</p>
+<p begin="00:28:46.200" end="00:28:50.760" style="s2">are not asked and what other central</p>
+<p begin="00:28:48.750" end="00:28:53.640" style="s2">questions the first one is very simple</p>
+<p begin="00:28:50.760" end="00:28:55.860" style="s2">you have to ask every government that</p>
+<p begin="00:28:53.640" end="00:28:58.890" style="s2">might be involved was Jeffrey Epstein</p>
+<p begin="00:28:55.860" end="00:29:00.990" style="s2">known to be attached to any Intelligence</p>
+<p begin="00:28:58.890" end="00:29:02.340" style="s2">Agency anywhere in the world then you</p>
+<p begin="00:29:00.990" end="00:29:04.950" style="s2">have to ask where his pedophile</p>
+<p begin="00:29:02.340" end="00:29:07.080" style="s2">activities known to the intelligence</p>
+<p begin="00:29:04.950" end="00:29:08.730" style="s2">agencies and was there any kind of tacit</p>
+<p begin="00:29:07.080" end="00:29:11.700" style="s2">approval or understanding or is there a</p>
+<p begin="00:29:08.730" end="00:29:15.090" style="s2">categorical denial that such techniques</p>
+<p begin="00:29:11.700" end="00:29:17.070" style="s2">may never be used now we have not</p>
+<p begin="00:29:15.090" end="00:29:19.170" style="s2">recorded the no comments or we don&#39;t</p>
+<p begin="00:29:17.070" end="00:29:21.240" style="s2">discuss sources and methods that&#39;s</p>
+<p begin="00:29:19.170" end="00:29:23.160" style="s2">typical in these stories where you</p>
+<p begin="00:29:21.240" end="00:29:25.710" style="s2">should be able to say can I at least get</p>
+<p begin="00:29:23.160" end="00:29:28.260" style="s2">a statement that we would never condone</p>
+<p begin="00:29:25.710" end="00:29:31.110" style="s2">paedophile activities to be used for</p>
+<p begin="00:29:28.260" end="00:29:33.600" style="s2">intelligence gathering purposes all</p>
+<p begin="00:29:31.110" end="00:29:35.580" style="s2">right the next question Jeffrey Epstein</p>
+<p begin="00:29:33.600" end="00:29:36.990" style="s2">was supposed to be a hedge fund manager</p>
+<p begin="00:29:35.580" end="00:29:39.210" style="s2">of some kind and he had extensive</p>
+<p begin="00:29:36.990" end="00:29:43.620" style="s2">offices at a place called Villard house</p>
+<p begin="00:29:39.210" end="00:29:45.120" style="s2">the former Helmsley Palace this trophy</p>
+<p begin="00:29:43.620" end="00:29:47.670" style="s2">building is a place that I myself</p>
+<p begin="00:29:45.120" end="00:29:49.740" style="s2">dropped off materials for Jeffrey</p>
+<p begin="00:29:47.670" end="00:29:52.560" style="s2">Epstein to review in connection to a</p>
+<p begin="00:29:49.740" end="00:29:54.330" style="s2">hedge fund matter what I want to know is</p>
+<p begin="00:29:52.560" end="00:29:56.310" style="s2">where are the trading records from</p>
+<p begin="00:29:54.330" end="00:29:59.550" style="s2">Villard house it would be almost</p>
+<p begin="00:29:56.310" end="00:30:02.010" style="s2">impossible to go back in time and fake</p>
+<p begin="00:29:59.550" end="00:30:04.620" style="s2">trading records for a billion</p>
+<p begin="00:30:02.010" end="00:30:07.500" style="s2">dollar-plus hedge fund and yet nobody</p>
+<p begin="00:30:04.620" end="00:30:09.090" style="s2">seems to have ever recorded a trade with</p>
+<p begin="00:30:07.500" end="00:30:10.830" style="s2">Jeffrey Epstein we don&#39;t know where he</p>
+<p begin="00:30:09.090" end="00:30:12.660" style="s2">did prime brokerage there are no</p>
+<p begin="00:30:10.830" end="00:30:14.700" style="s2">financial records that explain his</p>
+<p begin="00:30:12.660" end="00:30:16.920" style="s2">fortune all those publicly available</p>
+<p begin="00:30:14.700" end="00:30:18.450" style="s2">should be publicly available I don&#39;t</p>
+<p begin="00:30:16.920" end="00:30:21.630" style="s2">even care about that where are the</p>
+<p begin="00:30:18.450" end="00:30:23.930" style="s2">records if there are no records I mean</p>
+<p begin="00:30:21.630" end="00:30:26.940" style="s2">presumably this person paid taxes</p>
+<p begin="00:30:23.930" end="00:30:29.190" style="s2">presumably this person had to make SEC</p>
+<p begin="00:30:26.940" end="00:30:30.870" style="s2">filings I don&#39;t know but the key issue</p>
+<p begin="00:30:29.190" end="00:30:32.910" style="s2">is I don&#39;t think there was a hedge fund</p>
+<p begin="00:30:30.870" end="00:30:34.650" style="s2">when I met Jeffrey Epstein</p>
+<p begin="00:30:32.910" end="00:30:39.000" style="s2">which might have been something like</p>
+<p begin="00:30:34.650" end="00:30:43.230" style="s2">2002 before he was charged with sex</p>
+<p begin="00:30:39.000" end="00:30:45.030" style="s2">crimes violations in Florida I did not</p>
+<p begin="00:30:43.230" end="00:30:47.480" style="s2">believe that Jeffrey Epstein was a hedge</p>
+<p begin="00:30:45.030" end="00:30:50.370" style="s2">fund manager and I in fact called my</p>
+<p begin="00:30:47.480" end="00:30:52.380" style="s2">wife at the time and I said this man</p>
+<p begin="00:30:50.370" end="00:30:53.880" style="s2">appears to be a construct and she said</p>
+<p begin="00:30:52.380" end="00:30:56.370" style="s2">what do you mean by a construct I said</p>
+<p begin="00:30:53.880" end="00:30:58.770" style="s2">he it&#39;s like they&#39;ve hired an actor to</p>
+<p begin="00:30:56.370" end="00:31:00.990" style="s2">play a hedge fund manager but this</p>
+<p begin="00:30:58.770" end="00:31:02.670" style="s2">person didn&#39;t behave like the super rich</p>
+<p begin="00:31:00.990" end="00:31:04.950" style="s2">normally behaved he didn&#39;t behave like a</p>
+<p begin="00:31:02.670" end="00:31:07.050" style="s2">hedge fund manager behaved he didn&#39;t</p>
+<p begin="00:31:04.950" end="00:31:09.810" style="s2">have any of the substance that you would</p>
+<p begin="00:31:07.050" end="00:31:11.820" style="s2">normally associate with people of that</p>
+<p begin="00:31:09.810" end="00:31:14.370" style="s2">class I&#39;m not saying he wasn&#39;t smart but</p>
+<p begin="00:31:11.820" end="00:31:17.520" style="s2">he was glib and he lived essentially</p>
+<p begin="00:31:14.370" end="00:31:20.510" style="s2">like he was Gatsby I only met him once</p>
+<p begin="00:31:17.520" end="00:31:23.490" style="s2">it&#39;s probably for about an hour or so</p>
+<p begin="00:31:20.510" end="00:31:26.940" style="s2">but he was an absolutely terrifying</p>
+<p begin="00:31:23.490" end="00:31:28.950" style="s2">person to encounter it would be</p>
+<p begin="00:31:26.940" end="00:31:31.050" style="s2">surprising to me if I was alone in that</p>
+<p begin="00:31:28.950" end="00:31:32.430" style="s2">I immediately had the suspicion that I</p>
+<p begin="00:31:31.050" end="00:31:34.980" style="s2">was looking at somebody who had been</p>
+<p begin="00:31:32.430" end="00:31:36.750" style="s2">constructed rather than something that</p>
+<p begin="00:31:34.980" end="00:31:38.670" style="s2">had organically arisen within the</p>
+<p begin="00:31:36.750" end="00:31:40.890" style="s2">financial community further questions</p>
+<p begin="00:31:38.670" end="00:31:44.010" style="s2">that need to be asked where was ghilane</p>
+<p begin="00:31:40.890" end="00:31:45.840" style="s2">Maxwell&#39;s passport last sighted assume</p>
+<p begin="00:31:44.010" end="00:31:47.700" style="s2">that she has one or more passports and</p>
+<p begin="00:31:45.840" end="00:31:50.310" style="s2">assume that government&#39;s record when</p>
+<p begin="00:31:47.700" end="00:31:52.260" style="s2">passports go through a border point okay</p>
+<p begin="00:31:50.310" end="00:31:54.420" style="s2">we should at least be able to ascertain</p>
+<p begin="00:31:52.260" end="00:31:56.070" style="s2">where was the last point where her</p>
+<p begin="00:31:54.420" end="00:31:59.130" style="s2">passports or at least one of her</p>
+<p begin="00:31:56.070" end="00:32:01.110" style="s2">passports were officially seen I don&#39;t</p>
+<p begin="00:31:59.130" end="00:32:02.880" style="s2">know if anybody asking this question can</p>
+<p begin="00:32:01.110" end="00:32:06.480" style="s2">we not call up Interpol is there no</p>
+<p begin="00:32:02.880" end="00:32:08.520" style="s2">sense in which we can guess where she</p>
+<p begin="00:32:06.480" end="00:32:10.380" style="s2">was last located where what was the last</p>
+<p begin="00:32:08.520" end="00:32:12.210" style="s2">social event in which she was recorded</p>
+<p begin="00:32:10.380" end="00:32:14.400" style="s2">we don&#39;t seem to know anything about</p>
+<p begin="00:32:12.210" end="00:32:16.950" style="s2">this person why are we not talking to</p>
+<p begin="00:32:14.400" end="00:32:19.970" style="s2">Les Wexner I don&#39;t understand why these</p>
+<p begin="00:32:16.950" end="00:32:23.070" style="s2">people are not being interviewed or</p>
+<p begin="00:32:19.970" end="00:32:28.220" style="s2">deposed we have a very strange situation</p>
+<p begin="00:32:23.070" end="00:32:30.810" style="s2">and in all of these cases a simple</p>
+<p begin="00:32:28.220" end="00:32:32.370" style="s2">declaration of no comment would be a</p>
+<p begin="00:32:30.810" end="00:32:36.000" style="s2">newsworthy story</p>
+<p begin="00:32:32.370" end="00:32:37.680" style="s2">I mean I&#39;m hopeful I mean investigative</p>
+<p begin="00:32:36.000" end="00:32:39.900" style="s2">journalism does take time I&#39;m hopeful</p>
+<p begin="00:32:37.680" end="00:32:42.480" style="s2">there I&#39;ll be kidding I really I&#39;m gonna</p>
+<p begin="00:32:39.900" end="00:32:44.720" style="s2">shut you down on this it&#39;s been over six</p>
+<p begin="00:32:42.480" end="00:32:44.720" style="s2">months</p>
+<p begin="00:32:45.100" end="00:32:49.570" style="s2">this doesn&#39;t take that long to get a no</p>
+<p begin="00:32:46.870" end="00:32:51.519" style="s2">comment from the CIA nah no comment I&#39;m</p>
+<p begin="00:32:49.570" end="00:32:55.240" style="s2">not talking about the no comment I&#39;m my</p>
+<p begin="00:32:51.519" end="00:32:57.190" style="s2">point was going to be I given given the</p>
+<p begin="00:32:55.240" end="00:33:00.130" style="s2">amount of interest in the apps teen</p>
+<p begin="00:32:57.190" end="00:33:01.480" style="s2">story there must be some investigative</p>
+<p begin="00:33:00.130" end="00:33:02.889" style="s2">journalists working on it I completely</p>
+<p begin="00:33:01.480" end="00:33:05.860" style="s2">agree with your points about the no</p>
+<p begin="00:33:02.889" end="00:33:07.389" style="s2">comments like that being I&#39;m sorry it&#39;s</p>
+<p begin="00:33:05.860" end="00:33:09.460" style="s2">not a question of some investigative</p>
+<p begin="00:33:07.389" end="00:33:12.850" style="s2">journalists we tripped over some</p>
+<p begin="00:33:09.460" end="00:33:16.059" style="s2">enormous structure we don&#39;t know what</p>
+<p begin="00:33:12.850" end="00:33:19.809" style="s2">this structure was yeah it doesn&#39;t make</p>
+<p begin="00:33:16.059" end="00:33:21.190" style="s2">any sense the the fortune that I think</p>
+<p begin="00:33:19.809" end="00:33:23.769" style="s2">I&#39;ve seen reference to something like</p>
+<p begin="00:33:21.190" end="00:33:25.600" style="s2">six hundred million dollars who with six</p>
+<p begin="00:33:23.769" end="00:33:28.210" style="s2">hundred million dollars would make these</p>
+<p begin="00:33:25.600" end="00:33:33.610" style="s2">purchases you know multiple jet</p>
+<p begin="00:33:28.210" end="00:33:36.070" style="s2">aircrafts private islands you know a</p>
+<p begin="00:33:33.610" end="00:33:39.490" style="s2">townhouse on 71st Street and Manhattan a</p>
+<p begin="00:33:36.070" end="00:33:45.250" style="s2">huge comp complex in the New Mexico</p>
+<p begin="00:33:39.490" end="00:33:49.080" style="s2">desert property in Paris it would appear</p>
+<p begin="00:33:45.250" end="00:33:51.610" style="s2">that most of this was intended for</p>
+<p begin="00:33:49.080" end="00:33:53.289" style="s2">display I mean in other words the</p>
+<p begin="00:33:51.610" end="00:33:57.970" style="s2">behavior patterns of Jeffrey Epstein</p>
+<p begin="00:33:53.289" end="00:34:00.309" style="s2">suggests an eleven figure fortune maybe</p>
+<p begin="00:33:57.970" end="00:34:02.710" style="s2">high eleven figure fortune this person</p>
+<p begin="00:34:00.309" end="00:34:04.210" style="s2">appears to be somewhere in the nine</p>
+<p begin="00:34:02.710" end="00:34:06.759" style="s2">figures that&#39;s two orders of magnitude</p>
+<p begin="00:34:04.210" end="00:34:10.480" style="s2">off now I know that very rich is very</p>
+<p begin="00:34:06.759" end="00:34:13.599" style="s2">rich to many people but you know as a</p>
+<p begin="00:34:10.480" end="00:34:14.800" style="s2">person of much much smaller means I can</p>
+<p begin="00:34:13.599" end="00:34:17.710" style="s2">tell you that if you hang around with</p>
+<p begin="00:34:14.800" end="00:34:19.270" style="s2">people who are in this stratosphere they</p>
+<p begin="00:34:17.710" end="00:34:21.040" style="s2">behave very differently depending upon</p>
+<p begin="00:34:19.270" end="00:34:22.810" style="s2">which order of magnitude they&#39;re at and</p>
+<p begin="00:34:21.040" end="00:34:25.300" style="s2">Jeffrey Epstein was at the wrong order</p>
+<p begin="00:34:22.810" end="00:34:28.569" style="s2">of magnitude he was behaving like a high</p>
+<p begin="00:34:25.300" end="00:34:31.060" style="s2">eleven figure type guy maybe with what</p>
+<p begin="00:34:28.569" end="00:34:33.460" style="s2">appears to be a nine figure fortune yeah</p>
+<p begin="00:34:31.060" end="00:34:34.810" style="s2">I mean my my point on this is that I</p>
+<p begin="00:34:33.460" end="00:34:39.760" style="s2">don&#39;t I don&#39;t know where the media</p>
+<p begin="00:34:34.810" end="00:34:41.230" style="s2">interest is and and it doesn&#39;t add up</p>
+<p begin="00:34:39.760" end="00:34:43.270" style="s2">that there wouldn&#39;t be media interest</p>
+<p begin="00:34:41.230" end="00:34:45.399" style="s2">given that the the huge desire for the</p>
+<p begin="00:34:43.270" end="00:34:48.010" style="s2">story that you can kind of see every</p>
+<p begin="00:34:45.399" end="00:34:50.619" style="s2">time you log on anything any scrap is</p>
+<p begin="00:34:48.010" end="00:34:54.010" style="s2">interesting to everybody yeah especially</p>
+<p begin="00:34:50.619" end="00:34:55.659" style="s2">given that we already know the links to</p>
+<p begin="00:34:54.010" end="00:34:57.730" style="s2">someone like Prince Andrew the British</p>
+<p begin="00:34:55.659" end="00:34:58.510" style="s2">royal family this is one of the biggest</p>
+<p begin="00:34:57.730" end="00:35:00.280" style="s2">potentially one of</p>
+<p begin="00:34:58.510" end="00:35:02.050" style="s2">the biggest stories let&#39;s talk about has</p>
+<p begin="00:35:00.280" end="00:35:04.770" style="s2">ever has ever happened well let&#39;s talk</p>
+<p begin="00:35:02.050" end="00:35:11.470" style="s2">about the interview with Prince Andrew</p>
+<p begin="00:35:04.770" end="00:35:13.900" style="s2">what was that now I cannot believe my</p>
+<p begin="00:35:11.470" end="00:35:16.000" style="s2">ears when very intelligent people watch</p>
+<p begin="00:35:13.900" end="00:35:19.930" style="s2">that interview and its entirety and then</p>
+<p begin="00:35:16.000" end="00:35:22.300" style="s2">say well he was unprepared or it was a</p>
+<p begin="00:35:19.930" end="00:35:23.980" style="s2">mistake to grant that interview I think</p>
+<p begin="00:35:22.300" end="00:35:26.380" style="s2">that that&#39;s not true I think we have no</p>
+<p begin="00:35:23.980" end="00:35:28.270" style="s2">idea what that repu represented I think</p>
+<p begin="00:35:26.380" end="00:35:30.970" style="s2">that that interview was so bizarre and</p>
+<p begin="00:35:28.270" end="00:35:33.190" style="s2">so clearly it was almost like he was</p>
+<p begin="00:35:30.970" end="00:35:37.360" style="s2">trolling the media who was asking him</p>
+<p begin="00:35:33.190" end="00:35:39.160" style="s2">questions was he forced to give an</p>
+<p begin="00:35:37.360" end="00:35:40.570" style="s2">interview and he decided that he would</p>
+<p begin="00:35:39.160" end="00:35:43.890" style="s2">rather go down with the ship and give</p>
+<p begin="00:35:40.570" end="00:35:46.120" style="s2">the world&#39;s worst interview was he</p>
+<p begin="00:35:43.890" end="00:35:49.540" style="s2">realizing that he was completely trapped</p>
+<p begin="00:35:46.120" end="00:35:52.750" style="s2">and that his best strategy was to make</p>
+<p begin="00:35:49.540" end="00:35:54.700" style="s2">fun of the entire process by giving</p>
+<p begin="00:35:52.750" end="00:35:56.250" style="s2">answers that were so implausible that no</p>
+<p begin="00:35:54.700" end="00:35:58.810" style="s2">child would ever believe them</p>
+<p begin="00:35:56.250" end="00:36:00.610" style="s2">whatever that interview was was one of</p>
+<p begin="00:35:58.810" end="00:36:03.310" style="s2">the most remarkable pieces of footage</p>
+<p begin="00:36:00.610" end="00:36:06.160" style="s2">anybody has ever seen on television Bar</p>
+<p begin="00:36:03.310" end="00:36:08.470" style="s2">None to not be talking about this and</p>
+<p begin="00:36:06.160" end="00:36:12.010" style="s2">say we do not know what that interview</p>
+<p begin="00:36:08.470" end="00:36:13.180" style="s2">represented what was a member of the</p>
+<p begin="00:36:12.010" end="00:36:17.440" style="s2">British royal family</p>
+<p begin="00:36:13.180" end="00:36:20.470" style="s2">the Queen&#39;s son doing giving that</p>
+<p begin="00:36:17.440" end="00:36:23.940" style="s2">interview was it in Buckingham Palace</p>
+<p begin="00:36:20.470" end="00:36:28.180" style="s2">yes thank you most it was an insane</p>
+<p begin="00:36:23.940" end="00:36:29.890" style="s2">event that happened where nobody came to</p>
+<p begin="00:36:28.180" end="00:36:32.880" style="s2">a conclusion that makes that make any</p>
+<p begin="00:36:29.890" end="00:36:36.190" style="s2">sense I&#39;d rather leave the problem open</p>
+<p begin="00:36:32.880" end="00:36:37.480" style="s2">who was forced to do what by whom that</p>
+<p begin="00:36:36.190" end="00:36:39.580" style="s2">that interview would ever be granted</p>
+<p begin="00:36:37.480" end="00:36:41.830" style="s2">yeah I can remember when it was first</p>
+<p begin="00:36:39.580" end="00:36:43.570" style="s2">announced having a sort of double take</p>
+<p begin="00:36:41.830" end="00:36:45.160" style="s2">of like this is not a good this is not</p>
+<p begin="00:36:43.570" end="00:36:48.090" style="s2">gonna go well and then the actual</p>
+<p begin="00:36:45.160" end="00:36:51.790" style="s2">interview happened I think it really</p>
+<p begin="00:36:48.090" end="00:36:53.650" style="s2">maybe for us for us right it was</p>
+<p begin="00:36:51.790" end="00:36:55.780" style="s2">effectively an admission that something</p>
+<p begin="00:36:53.650" end="00:36:59.230" style="s2">is so often the world something that&#39;s</p>
+<p begin="00:36:55.780" end="00:37:02.140" style="s2">so completely bizarre that that thing</p>
+<p begin="00:36:59.230" end="00:37:03.670" style="s2">would be produced that was some sort of</p>
+<p begin="00:37:02.140" end="00:37:05.830" style="s2">internal conflict I don&#39;t know whether</p>
+<p begin="00:37:03.670" end="00:37:08.410" style="s2">it was between the Queen and her son or</p>
+<p begin="00:37:05.830" end="00:37:10.660" style="s2">the intelligence services or I don&#39;t</p>
+<p begin="00:37:08.410" end="00:37:12.310" style="s2">know what but it was it was sort of the</p>
+<p begin="00:37:10.660" end="00:37:15.280" style="s2">sense that you have like almost a</p>
+<p begin="00:37:12.310" end="00:37:17.740" style="s2">hostage video where the person B has to</p>
+<p begin="00:37:15.280" end="00:37:20.950" style="s2">behave so bizarrely as to send a message</p>
+<p begin="00:37:17.740" end="00:37:24.220" style="s2">and the message I got is I&#39;m going to</p>
+<p begin="00:37:20.950" end="00:37:27.760" style="s2">lie I&#39;m going to fabricate I&#39;m going to</p>
+<p begin="00:37:24.220" end="00:37:29.980" style="s2">say preposterous things in an effort to</p>
+<p begin="00:37:27.760" end="00:37:32.680" style="s2">just put this to bed in the worst</p>
+<p begin="00:37:29.980" end="00:37:35.380" style="s2">possible way like you want you now all</p>
+<p begin="00:37:32.680" end="00:37:37.060" style="s2">know never to ask me questions about</p>
+<p begin="00:37:35.380" end="00:37:38.980" style="s2">this because I&#39;m simply gonna say the</p>
+<p begin="00:37:37.060" end="00:37:41.680" style="s2">most outrageous and insane things that I</p>
+<p begin="00:37:38.980" end="00:37:43.480" style="s2">can possibly think I mean as I said I it</p>
+<p begin="00:37:41.680" end="00:37:46.330" style="s2">it didn&#39;t twig at the beginning it</p>
+<p begin="00:37:43.480" end="00:37:50.050" style="s2">sounded like a terrible idea but then I</p>
+<p begin="00:37:46.330" end="00:37:52.510" style="s2">guess I rationalized it by thinking he&#39;s</p>
+<p begin="00:37:50.050" end="00:37:53.790" style="s2">clearly got no self-awareness maybe he</p>
+<p begin="00:37:52.510" end="00:37:57.130" style="s2">did think that he could clear his name</p>
+<p begin="00:37:53.790" end="00:38:01.210" style="s2">nobody&#39;s that dumb David those questions</p>
+<p begin="00:37:57.130" end="00:38:03.430" style="s2">were entirely expected and the answer is</p>
+<p begin="00:38:01.210" end="00:38:06.310" style="s2">if you look at the amount of twinkle in</p>
+<p begin="00:38:03.430" end="00:38:08.350" style="s2">the arm he&#39;s clearly not a happy man but</p>
+<p begin="00:38:06.310" end="00:38:10.120" style="s2">he&#39;s saying absolutely ludicrous and</p>
+<p begin="00:38:08.350" end="00:38:12.700" style="s2">preposterous things I think that the</p>
+<p begin="00:38:10.120" end="00:38:14.590" style="s2">effect is exactly the reverse if I had</p>
+<p begin="00:38:12.700" end="00:38:19.660" style="s2">to speculate I really don&#39;t want to I</p>
+<p begin="00:38:14.590" end="00:38:22.060" style="s2">would say that this this interview was</p>
+<p begin="00:38:19.660" end="00:38:24.010" style="s2">given because an amount of pressure was</p>
+<p begin="00:38:22.060" end="00:38:26.050" style="s2">put on a human being who decided that</p>
+<p begin="00:38:24.010" end="00:38:29.260" style="s2">his life was effectively over in most</p>
+<p begin="00:38:26.050" end="00:38:31.600" style="s2">senses and this is the way he chose to</p>
+<p begin="00:38:29.260" end="00:38:34.120" style="s2">go out effectively making fun of the</p>
+<p begin="00:38:31.600" end="00:38:38.440" style="s2">entire process yeah but what&#39;s really</p>
+<p begin="00:38:34.120" end="00:38:39.670" style="s2">interesting is I&#39;m sort of aware for</p>
+<p begin="00:38:38.440" end="00:38:42.760" style="s2">example the Royal Television Society</p>
+<p begin="00:38:39.670" end="00:38:44.950" style="s2">Awards were tonight to go journalism</p>
+<p begin="00:38:42.760" end="00:38:47.080" style="s2">awards and the Prince Andrew interview</p>
+<p begin="00:38:44.950" end="00:38:48.670" style="s2">one scoop of the year and interview of</p>
+<p begin="00:38:47.080" end="00:38:50.800" style="s2">the year so it&#39;s kind of been</p>
+<p begin="00:38:48.670" end="00:38:52.720" style="s2">rationalized and I&#39;ve seen people talk</p>
+<p begin="00:38:50.800" end="00:38:56.050" style="s2">about how they got the interview they</p>
+<p begin="00:38:52.720" end="00:38:58.210" style="s2">the news night producer was trying hard</p>
+<p begin="00:38:56.050" end="00:39:00.100" style="s2">and was on buckingham palace like which</p>
+<p begin="00:38:58.210" end="00:39:03.040" style="s2">is kind of ludicrous the idea that it</p>
+<p begin="00:39:00.100" end="00:39:05.650" style="s2">was just the the dedication of the</p>
+<p begin="00:39:03.040" end="00:39:07.390" style="s2">journalists keep continuing to ask for</p>
+<p begin="00:39:05.650" end="00:39:08.920" style="s2">an interview that made Prince Andrew say</p>
+<p begin="00:39:07.390" end="00:39:10.420" style="s2">okay you&#39;ve asked me so many times I</p>
+<p begin="00:39:08.920" end="00:39:12.070" style="s2">mean that in itself is kind of a</p>
+<p begin="00:39:10.420" end="00:39:14.410" style="s2">ludicrous narrative but it is a</p>
+<p begin="00:39:12.070" end="00:39:17.250" style="s2">narrative that that the mainstream I&#39;ve</p>
+<p begin="00:39:14.410" end="00:39:19.540" style="s2">seen the mainstream media kind of</p>
+<p begin="00:39:17.250" end="00:39:21.700" style="s2">integrate that whole thing into wow this</p>
+<p begin="00:39:19.540" end="00:39:23.500" style="s2">is an amazing scoop you were dedicated</p>
+<p begin="00:39:21.700" end="00:39:25.609" style="s2">and you&#39;ve got the story which is which</p>
+<p begin="00:39:23.500" end="00:39:28.519" style="s2">is kind of ludicrous the idea that</p>
+<p begin="00:39:25.609" end="00:39:32.089" style="s2">so you see what I&#39;m what I&#39;m saying I</p>
+<p begin="00:39:28.519" end="00:39:33.259" style="s2">really don&#39;t I mean I&#39;m so I&#39;m so what</p>
+<p begin="00:39:32.089" end="00:39:35.210" style="s2">I&#39;m saying is that it&#39;s already been</p>
+<p begin="00:39:33.259" end="00:39:36.319" style="s2">rationalized within the mainstream media</p>
+<p begin="00:39:35.210" end="00:39:38.480" style="s2">the reason that that interview happened</p>
+<p begin="00:39:36.319" end="00:39:40.339" style="s2">was because they were so dedicated and</p>
+<p begin="00:39:38.480" end="00:39:42.079" style="s2">they pursued Prince Andrew and they</p>
+<p begin="00:39:40.339" end="00:39:43.640" style="s2">asked Buckingham Palace and eventually</p>
+<p begin="00:39:42.079" end="00:39:45.289" style="s2">they they conceded they gave the</p>
+<p begin="00:39:43.640" end="00:39:46.700" style="s2">interview which is kind of ludicrous I&#39;m</p>
+<p begin="00:39:45.289" end="00:39:49.220" style="s2">saying it&#39;s ludicrous oh it is ludicrous</p>
+<p begin="00:39:46.700" end="00:39:53.299" style="s2">but I guess I mean my expectation is</p>
+<p begin="00:39:49.220" end="00:39:55.789" style="s2">that even if the UK is no longer the</p>
+<p begin="00:39:53.299" end="00:39:59.420" style="s2">world power at once was I presume you</p>
+<p begin="00:39:55.789" end="00:40:01.099" style="s2">still have adults with IQs over 70 how</p>
+<p begin="00:39:59.420" end="00:40:03.249" style="s2">could you possibly rationalize such a</p>
+<p begin="00:40:01.099" end="00:40:06.170" style="s2">thing I mean we used to turn to you guys</p>
+<p begin="00:40:03.249" end="00:40:08.660" style="s2">for intelligence and sophistication this</p>
+<p begin="00:40:06.170" end="00:40:11.089" style="s2">seems the height of folly if I had that</p>
+<p begin="00:40:08.660" end="00:40:13.579" style="s2">say this is much closer to a hostage</p>
+<p begin="00:40:11.089" end="00:40:16.690" style="s2">video where the hostage is attempting to</p>
+<p begin="00:40:13.579" end="00:40:19.730" style="s2">send a message that is clearly not the</p>
+<p begin="00:40:16.690" end="00:40:21.589" style="s2">ostensibly John video the really</p>
+<p begin="00:40:19.730" end="00:40:22.999" style="s2">difficult part of the story David is is</p>
+<p begin="00:40:21.589" end="00:40:27.200" style="s2">that almost certainly we&#39;re talking</p>
+<p begin="00:40:22.999" end="00:40:30.529" style="s2">about some kind of operation that was</p>
+<p begin="00:40:27.200" end="00:40:33.049" style="s2">being run with knowledge of governments</p>
+<p begin="00:40:30.529" end="00:40:36.829" style="s2">that may have involved pedophilia and</p>
+<p begin="00:40:33.049" end="00:40:42.289" style="s2">was not shut down and what I can&#39;t</p>
+<p begin="00:40:36.829" end="00:40:45.140" style="s2">understand is what is it that is keeping</p>
+<p begin="00:40:42.289" end="00:40:46.880" style="s2">some reporter from simply asking the</p>
+<p begin="00:40:45.140" end="00:40:49.130" style="s2">questions that are on everybody&#39;s mind</p>
+<p begin="00:40:46.880" end="00:40:51.499" style="s2">was this person connected to the</p>
+<p begin="00:40:49.130" end="00:40:53.900" style="s2">intelligence services where was Gillian</p>
+<p begin="00:40:51.499" end="00:40:55.910" style="s2">Maxwell&#39;s passport last seen why are we</p>
+<p begin="00:40:53.900" end="00:40:57.829" style="s2">not talking to less wexter where are the</p>
+<p begin="00:40:55.910" end="00:40:58.579" style="s2">trading records what is the source of</p>
+<p begin="00:40:57.829" end="00:41:00.680" style="s2">the fortune</p>
+<p begin="00:40:58.579" end="00:41:02.599" style="s2">it seems to me very clear that we have a</p>
+<p begin="00:41:00.680" end="00:41:04.940" style="s2">missing fortune of robert maxwell an</p>
+<p begin="00:41:02.599" end="00:41:06.680" style="s2">unexplained fortune of Jeffrey Epstein</p>
+<p begin="00:41:04.940" end="00:41:09.410" style="s2">are those the same fortune</p>
+<p begin="00:41:06.680" end="00:41:10.910" style="s2">who&#39;s asking these questions did</p>
+<p begin="00:41:09.410" end="00:41:12.380" style="s2">everybody go to sleep when they taught</p>
+<p begin="00:41:10.910" end="00:41:15.019" style="s2">journalism in school I just don&#39;t</p>
+<p begin="00:41:12.380" end="00:41:17.869" style="s2">understand I guess my sort of disconnect</p>
+<p begin="00:41:15.019" end="00:41:19.849" style="s2">as well is this sense of I worked in</p>
+<p begin="00:41:17.869" end="00:41:21.589" style="s2">Channel 4 News they had an investigative</p>
+<p begin="00:41:19.849" end="00:41:23.450" style="s2">unit these were the kind of</p>
+<p begin="00:41:21.589" end="00:41:25.009" style="s2">bread-and-butter questions they pushed</p>
+<p begin="00:41:23.450" end="00:41:27.289" style="s2">really hard for example on the phone</p>
+<p begin="00:41:25.009" end="00:41:29.239" style="s2">hacking scandal in the UK that the</p>
+<p begin="00:41:27.289" end="00:41:31.940" style="s2">Murdoch papers phone hacking scandal</p>
+<p begin="00:41:29.239" end="00:41:34.309" style="s2">that also involved networks of power it</p>
+<p begin="00:41:31.940" end="00:41:36.289" style="s2">involved shady deals and involved</p>
+<p begin="00:41:34.309" end="00:41:39.290" style="s2">corruption and they they pursued that</p>
+<p begin="00:41:36.289" end="00:41:41.300" style="s2">quite intensely I I&#39;m feeling</p>
+<p begin="00:41:39.290" end="00:41:42.410" style="s2">a sense of dislocation because I agree</p>
+<p begin="00:41:41.300" end="00:41:43.970" style="s2">with you there are these questions that</p>
+<p begin="00:41:42.410" end="00:41:46.070" style="s2">are not being asked and I find it</p>
+<p begin="00:41:43.970" end="00:41:49.340" style="s2">difficult to understand why that is</p>
+<p begin="00:41:46.070" end="00:41:52.040" style="s2">knowing that there are knowing that the</p>
+<p begin="00:41:49.340" end="00:41:53.990" style="s2">public interest and knowing the that</p>
+<p begin="00:41:52.040" end="00:41:55.370" style="s2">that these are questions have been asked</p>
+<p begin="00:41:53.990" end="00:41:57.830" style="s2">in the past let me tell you what</p>
+<p begin="00:41:55.370" end="00:42:00.920" style="s2">happened people started asking those</p>
+<p begin="00:41:57.830" end="00:42:05.000" style="s2">questions and they stopped and that&#39;s</p>
+<p begin="00:42:00.920" end="00:42:06.560" style="s2">what ideas suppression is all about we</p>
+<p begin="00:42:05.000" end="00:42:08.240" style="s2">don&#39;t have the resources to pursue that</p>
+<p begin="00:42:06.560" end="00:42:09.890" style="s2">right now well actually I&#39;m concerned</p>
+<p begin="00:42:08.240" end="00:42:12.740" style="s2">that this is starting to reek of</p>
+<p begin="00:42:09.890" end="00:42:14.750" style="s2">conspiracy theory I think given the</p>
+<p begin="00:42:12.740" end="00:42:16.490" style="s2">delicacies of the situation I&#39;m gonna</p>
+<p begin="00:42:14.750" end="00:42:18.620" style="s2">need a lot more evidence before I give</p>
+<p begin="00:42:16.490" end="00:42:20.690" style="s2">this thing that go ahead these are the</p>
+<p begin="00:42:18.620" end="00:42:23.570" style="s2">sorts of things that you say when you&#39;re</p>
+<p begin="00:42:20.690" end="00:42:26.360" style="s2">trying to shut down a line of inquiry</p>
+<p begin="00:42:23.570" end="00:42:28.700" style="s2">and my guess is is that whatever the</p>
+<p begin="00:42:26.360" end="00:42:31.040" style="s2">story is it represents some very</p>
+<p begin="00:42:28.700" end="00:42:33.140" style="s2">powerful structure that we tripped over</p>
+<p begin="00:42:31.040" end="00:42:36.050" style="s2">and I tripped over that structure in</p>
+<p begin="00:42:33.140" end="00:42:37.610" style="s2">2002 and I was convinced at the time</p>
+<p begin="00:42:36.050" end="00:42:42.280" style="s2">before there was any knowledge about</p>
+<p begin="00:42:37.610" end="00:42:44.900" style="s2">this Florida situation that this was</p>
+<p begin="00:42:42.280" end="00:42:48.710" style="s2">constructed I mean we have a very famous</p>
+<p begin="00:42:44.900" end="00:42:51.110" style="s2">case of a guy named le Cohen who was</p>
+<p begin="00:42:48.710" end="00:42:55.490" style="s2">fitted with a backstory and became a</p>
+<p begin="00:42:51.110" end="00:42:57.680" style="s2">Playboy in Damascus and held orgies if I</p>
+<p begin="00:42:55.490" end="00:43:00.170" style="s2">understand correctly where he collected</p>
+<p begin="00:42:57.680" end="00:43:02.210" style="s2">information and leverage against people</p>
+<p begin="00:43:00.170" end="00:43:04.100" style="s2">in the Syrian government if you take</p>
+<p begin="00:43:02.210" end="00:43:06.170" style="s2">that situation this looks remarkably</p>
+<p begin="00:43:04.100" end="00:43:09.290" style="s2">similar we&#39;ve got a guy who was</p>
+<p begin="00:43:06.170" end="00:43:11.440" style="s2">apparently a math teacher at a private</p>
+<p begin="00:43:09.290" end="00:43:14.000" style="s2">high school and the next thing we know</p>
+<p begin="00:43:11.440" end="00:43:17.720" style="s2">he&#39;s avoided jail in some sort of</p>
+<p begin="00:43:14.000" end="00:43:21.680" style="s2">financial scandal and he suddenly set up</p>
+<p begin="00:43:17.720" end="00:43:23.720" style="s2">as a mystery financier with connections</p>
+<p begin="00:43:21.680" end="00:43:26.570" style="s2">to absolutely everyone in the top</p>
+<p begin="00:43:23.720" end="00:43:28.340" style="s2">echelon zuv power something doesn&#39;t</p>
+<p begin="00:43:26.570" end="00:43:29.900" style="s2">smell right about the story given that</p>
+<p begin="00:43:28.340" end="00:43:31.190" style="s2">nobody appears to have ever traded</p>
+<p begin="00:43:29.900" end="00:43:33.230" style="s2">currencies with the guy who was</p>
+<p begin="00:43:31.190" end="00:43:35.330" style="s2">apparently moving billions as a currency</p>
+<p begin="00:43:33.230" end="00:43:37.520" style="s2">trader and was this kind of well known</p>
+<p begin="00:43:35.330" end="00:43:40.520" style="s2">within the within the financial industry</p>
+<p begin="00:43:37.520" end="00:43:43.340" style="s2">at the time there were two fortunes that</p>
+<p begin="00:43:40.520" end="00:43:45.590" style="s2">were truly mysterious Bernie Madoff and</p>
+<p begin="00:43:43.340" end="00:43:47.990" style="s2">Jeff Epstein in the case of Bernie</p>
+<p begin="00:43:45.590" end="00:43:49.670" style="s2">Madoff the belief was that he had a</p>
+<p begin="00:43:47.990" end="00:43:51.620" style="s2">legitimate business and an illegitimate</p>
+<p begin="00:43:49.670" end="00:43:53.690" style="s2">business and he used the</p>
+<p begin="00:43:51.620" end="00:43:56.240" style="s2">legitimate business as a source of</p>
+<p begin="00:43:53.690" end="00:43:58.280" style="s2">profit by front-running it inside of his</p>
+<p begin="00:43:56.240" end="00:44:01.390" style="s2">illegitimate business that turned out</p>
+<p begin="00:43:58.280" end="00:44:04.220" style="s2">not to be the case in fact it was</p>
+<p begin="00:44:01.390" end="00:44:06.590" style="s2">basically a Ponzi scheme and that leaves</p>
+<p begin="00:44:04.220" end="00:44:09.410" style="s2">Jeffrey Epstein now I used to give talks</p>
+<p begin="00:44:06.590" end="00:44:11.750" style="s2">in the world of finance about how to</p>
+<p begin="00:44:09.410" end="00:44:13.070" style="s2">handle opaque hedge funds like when they</p>
+<p begin="00:44:11.750" end="00:44:15.650" style="s2">won&#39;t give you information about what</p>
+<p begin="00:44:13.070" end="00:44:17.750" style="s2">they&#39;re doing and I conflated Jeffrey</p>
+<p begin="00:44:15.650" end="00:44:21.470" style="s2">Epstein and Bernie Madoff into one slide</p>
+<p begin="00:44:17.750" end="00:44:23.270" style="s2">and I called it as a joke Black Arts</p>
+<p begin="00:44:21.470" end="00:44:25.400" style="s2">capital because you had black stone and</p>
+<p begin="00:44:23.270" end="00:44:27.590" style="s2">black rock and so I turned it into black</p>
+<p begin="00:44:25.400" end="00:44:29.030" style="s2">arts and their tagline was supposed to</p>
+<p begin="00:44:27.590" end="00:44:32.390" style="s2">be we tell you what we were doing but</p>
+<p begin="00:44:29.030" end="00:44:35.030" style="s2">then we&#39;d have to kill you so these were</p>
+<p begin="00:44:32.390" end="00:44:37.790" style="s2">well-known anomalies in New York in</p>
+<p begin="00:44:35.030" end="00:44:40.250" style="s2">financial circles because when when are</p>
+<p begin="00:44:37.790" end="00:44:42.230" style="s2">we talking what&#39;s one of the era you</p>
+<p begin="00:44:40.250" end="00:44:45.110" style="s2">know 2002 when I met Jeffrey Epstein</p>
+<p begin="00:44:42.230" end="00:44:48.190" style="s2">when he tried talking to me about</p>
+<p begin="00:44:45.110" end="00:44:50.510" style="s2">currency trading so it was well known</p>
+<p begin="00:44:48.190" end="00:44:53.120" style="s2">with financial journalists little well</p>
+<p begin="00:44:50.510" end="00:44:55.610" style="s2">known that the fortune didn&#39;t make sense</p>
+<p begin="00:44:53.120" end="00:44:58.220" style="s2">something didn&#39;t add up who is his prime</p>
+<p begin="00:44:55.610" end="00:45:00.380" style="s2">broker who was he trading with under</p>
+<p begin="00:44:58.220" end="00:45:03.760" style="s2">what name where did this money come from</p>
+<p begin="00:45:00.380" end="00:45:06.590" style="s2">why did he seem to know everybody</p>
+<p begin="00:45:03.760" end="00:45:08.990" style="s2">he was like somebody created it Gatsby</p>
+<p begin="00:45:06.590" end="00:45:12.140" style="s2">like character out of a Ralph Lauren</p>
+<p begin="00:45:08.990" end="00:45:14.240" style="s2">look-alike who had apparently recently</p>
+<p begin="00:45:12.140" end="00:45:16.190" style="s2">been a math teacher at a private high</p>
+<p begin="00:45:14.240" end="00:45:20.180" style="s2">school nothing made nothing added up and</p>
+<p begin="00:45:16.190" end="00:45:21.590" style="s2">is the sense now that even interest in</p>
+<p begin="00:45:20.180" end="00:45:23.630" style="s2">this story kind of mocks you out as a</p>
+<p begin="00:45:21.590" end="00:45:25.640" style="s2">conspiracy theorist you know I don&#39;t</p>
+<p begin="00:45:23.630" end="00:45:28.070" style="s2">like the question but he&#39;s easy is that</p>
+<p begin="00:45:25.640" end="00:45:30.860" style="s2">your service yeah no no I mean I attack</p>
+<p begin="00:45:28.070" end="00:45:32.540" style="s2">the question would you mind sure okay</p>
+<p begin="00:45:30.860" end="00:45:35.000" style="s2">what do you mean a conspiracy theorist</p>
+<p begin="00:45:32.540" end="00:45:37.430" style="s2">so when I hear nightly on the news that</p>
+<p begin="00:45:35.000" end="00:45:39.440" style="s2">maybe Russia is controlling the American</p>
+<p begin="00:45:37.430" end="00:45:41.770" style="s2">elections and trying to prop Donald</p>
+<p begin="00:45:39.440" end="00:45:44.660" style="s2">Trump up are those conspiracy theories</p>
+<p begin="00:45:41.770" end="00:45:46.430" style="s2">when I hear that the coronavirus is in</p>
+<p begin="00:45:44.660" end="00:45:48.830" style="s2">fact under control and then the market</p>
+<p begin="00:45:46.430" end="00:45:53.990" style="s2">falls apart is that a conspiracy theory</p>
+<p begin="00:45:48.830" end="00:45:56.960" style="s2">I mean where are we in history that</p>
+<p begin="00:45:53.990" end="00:45:59.450" style="s2">conspiracy theorizing is a privilege of</p>
+<p begin="00:45:56.960" end="00:46:01.510" style="s2">the people inside the institutional</p>
+<p begin="00:45:59.450" end="00:46:04.359" style="s2">class now</p>
+<p begin="00:46:01.510" end="00:46:06.730" style="s2">that&#39;s incompetent we have discovered</p>
+<p begin="00:46:04.359" end="00:46:08.950" style="s2">conspiracies previously in the United</p>
+<p begin="00:46:06.730" end="00:46:11.140" style="s2">States COINTELPRO is probably the most</p>
+<p begin="00:46:08.950" end="00:46:14.010" style="s2">disturbing conspiracy that we found</p>
+<p begin="00:46:11.140" end="00:46:16.210" style="s2">within the last 50 years in fact</p>
+<p begin="00:46:14.010" end="00:46:18.550" style="s2">conspiracies happen and you need to be</p>
+<p begin="00:46:16.210" end="00:46:20.320" style="s2">able to go after them so I think we</p>
+<p begin="00:46:18.550" end="00:46:22.540" style="s2">should make a new rule the next person</p>
+<p begin="00:46:20.320" end="00:46:24.369" style="s2">who tries to use the epithet conspiracy</p>
+<p begin="00:46:22.540" end="00:46:26.140" style="s2">theorist we figure out what conspiracy</p>
+<p begin="00:46:24.369" end="00:46:28.690" style="s2">theory they&#39;ve been pushing because</p>
+<p begin="00:46:26.140" end="00:46:30.520" style="s2">frankly everybody inside of the gated</p>
+<p begin="00:46:28.690" end="00:46:32.859" style="s2">institutional narrative is Hawking one</p>
+<p begin="00:46:30.520" end="00:46:34.240" style="s2">conspiracy theory or the other it&#39;s time</p>
+<p begin="00:46:32.859" end="00:46:36.760" style="s2">for this technique of trying to</p>
+<p begin="00:46:34.240" end="00:46:39.640" style="s2">intimidate people by using that epithet</p>
+<p begin="00:46:36.760" end="00:46:40.840" style="s2">to die and if you want to come after me</p>
+<p begin="00:46:39.640" end="00:46:42.520" style="s2">be my guest</p>
+<p begin="00:46:40.840" end="00:46:45.750" style="s2">do it in print and let&#39;s have some fun</p>
+<p begin="00:46:42.520" end="00:46:48.280" style="s2">we have to understand that in episode 18</p>
+<p begin="00:46:45.750" end="00:46:50.530" style="s2">which we were previously discussing I</p>
+<p begin="00:46:48.280" end="00:46:52.630" style="s2">introduced the disc the reason for doing</p>
+<p begin="00:46:50.530" end="00:46:55.330" style="s2">it right before episode 19 where I talk</p>
+<p begin="00:46:52.630" end="00:46:57.580" style="s2">about the telomere situation the Jackson</p>
+<p begin="00:46:55.330" end="00:46:59.560" style="s2">Laboratory in the Grider Laboratory was</p>
+<p begin="00:46:57.580" end="00:47:01.570" style="s2">is that I didn&#39;t want to explain what</p>
+<p begin="00:46:59.560" end="00:47:04.180" style="s2">the disc was only I wanted to show</p>
+<p begin="00:47:01.570" end="00:47:05.890" style="s2">people what the disc is in a normal</p>
+<p begin="00:47:04.180" end="00:47:08.290" style="s2">world given the amount of interest in</p>
+<p begin="00:47:05.890" end="00:47:11.350" style="s2">that story if what I&#39;m saying is untrue</p>
+<p begin="00:47:08.290" end="00:47:13.600" style="s2">or whether in fact is true whether what</p>
+<p begin="00:47:11.350" end="00:47:16.090" style="s2">Brett is saying is true or untrue every</p>
+<p begin="00:47:13.600" end="00:47:19.330" style="s2">possible outcome is interesting every</p>
+<p begin="00:47:16.090" end="00:47:21.790" style="s2">possible outcome could sell papers ergo</p>
+<p begin="00:47:19.330" end="00:47:23.410" style="s2">if the thing is not being followed up</p>
+<p begin="00:47:21.790" end="00:47:24.820" style="s2">and in fact you can demonstrate the</p>
+<p begin="00:47:23.410" end="00:47:26.980" style="s2">amount of interest by looking at the</p>
+<p begin="00:47:24.820" end="00:47:29.170" style="s2">amount of interest on the web you can</p>
+<p begin="00:47:26.980" end="00:47:32.410" style="s2">figure out very clearly that there is a</p>
+<p begin="00:47:29.170" end="00:47:35.140" style="s2">disc because nobody would forego those</p>
+<p begin="00:47:32.410" end="00:47:37.540" style="s2">that large a number of eyeballs and that</p>
+<p begin="00:47:35.140" end="00:47:40.840" style="s2">many clicks if they actually had a</p>
+<p begin="00:47:37.540" end="00:47:42.790" style="s2">proven story so in part the way you</p>
+<p begin="00:47:40.840" end="00:47:45.730" style="s2">understand the disc is to ask what</p>
+<p begin="00:47:42.790" end="00:47:47.320" style="s2">doesn&#39;t happen so for the moment just</p>
+<p begin="00:47:45.730" end="00:47:50.200" style="s2">imagine that you have two layers you</p>
+<p begin="00:47:47.320" end="00:47:53.050" style="s2">have a physical and legacy media layer</p>
+<p begin="00:47:50.200" end="00:47:55.480" style="s2">and you have a digital layer what is</p>
+<p begin="00:47:53.050" end="00:47:58.720" style="s2">remarkable is the extent to which the</p>
+<p begin="00:47:55.480" end="00:48:00.510" style="s2">physical and legacy layer comprised of</p>
+<p begin="00:47:58.720" end="00:48:05.410" style="s2">things that exist in the world</p>
+<p begin="00:48:00.510" end="00:48:06.970" style="s2">institutions legacy media ignores this</p>
+<p begin="00:48:05.410" end="00:48:08.980" style="s2">other layer it</p>
+<p begin="00:48:06.970" end="00:48:12.040" style="s2">occasionally you get sparks between the</p>
+<p begin="00:48:08.980" end="00:48:14.710" style="s2">two layers and when those sparks happen</p>
+<p begin="00:48:12.040" end="00:48:17.560" style="s2">you get magic now what I find</p>
+<p begin="00:48:14.710" end="00:48:20.710" style="s2">fascinating is the way in which the</p>
+<p begin="00:48:17.560" end="00:48:23.200" style="s2">legacy media layer is pretending that</p>
+<p begin="00:48:20.710" end="00:48:24.820" style="s2">very smart people with the same</p>
+<p begin="00:48:23.200" end="00:48:28.150" style="s2">credentials that are found in the lower</p>
+<p begin="00:48:24.820" end="00:48:31.360" style="s2">layer are saying interesting things and</p>
+<p begin="00:48:28.150" end="00:48:34.060" style="s2">there is almost like an agreement to</p>
+<p begin="00:48:31.360" end="00:48:38.320" style="s2">treat them as vampires that is when they</p>
+<p begin="00:48:34.060" end="00:48:38.830" style="s2">pass by the looking-glass of legacy</p>
+<p begin="00:48:38.320" end="00:48:40.330" style="s2">media</p>
+<p begin="00:48:38.830" end="00:48:42.400" style="s2">there should be no reflection that</p>
+<p begin="00:48:40.330" end="00:48:44.740" style="s2">something interesting is being said that</p>
+<p begin="00:48:42.400" end="00:48:46.570" style="s2">is gaining adherence and I think that&#39;s</p>
+<p begin="00:48:44.740" end="00:48:49.150" style="s2">what&#39;s fascinating to me if you think</p>
+<p begin="00:48:46.570" end="00:48:51.100" style="s2">about what the portal has done it&#39;s had</p>
+<p begin="00:48:49.150" end="00:48:54.970" style="s2">people like Sir Roger Penrose the great</p>
+<p begin="00:48:51.100" end="00:48:56.860" style="s2">physicist on it&#39;s had Tyler Cowen who</p>
+<p begin="00:48:54.970" end="00:49:00.190" style="s2">writes perhaps the most read economics</p>
+<p begin="00:48:56.860" end="00:49:03.760" style="s2">block on Peter Thiel one of the most</p>
+<p begin="00:49:00.190" end="00:49:06.340" style="s2">listened to voices in Silicon Valley all</p>
+<p begin="00:49:03.760" end="00:49:07.930" style="s2">of these people are saying interesting</p>
+<p begin="00:49:06.340" end="00:49:11.110" style="s2">things and yet there&#39;s effectively no</p>
+<p begin="00:49:07.930" end="00:49:14.050" style="s2">reflection of what&#39;s going on outside of</p>
+<p begin="00:49:11.110" end="00:49:16.300" style="s2">this legacy media arena so what you have</p>
+<p begin="00:49:14.050" end="00:49:18.070" style="s2">is you have an insular system that is</p>
+<p begin="00:49:16.300" end="00:49:21.430" style="s2">the gated institutional narrative and</p>
+<p begin="00:49:18.070" end="00:49:24.850" style="s2">you have an insulating layer which is</p>
+<p begin="00:49:21.430" end="00:49:26.680" style="s2">the disk that prevents anybody who&#39;s not</p>
+<p begin="00:49:24.850" end="00:49:29.110" style="s2">part of the institutional agreements</p>
+<p begin="00:49:26.680" end="00:49:30.790" style="s2">from saying something super interesting</p>
+<p begin="00:49:29.110" end="00:49:33.220" style="s2">and having it reflected inside of the</p>
+<p begin="00:49:30.790" end="00:49:35.320" style="s2">institutional conversation and I think</p>
+<p begin="00:49:33.220" end="00:49:38.410" style="s2">that that&#39;s what the point of the portal</p>
+<p begin="00:49:35.320" end="00:49:40.720" style="s2">is how do we find a way to arc between</p>
+<p begin="00:49:38.410" end="00:49:42.370" style="s2">the digital and the legacy layer because</p>
+<p begin="00:49:40.720" end="00:49:43.900" style="s2">actually the legacy layer isn&#39;t</p>
+<p begin="00:49:42.370" end="00:49:46.690" style="s2">important to me in terms of reaching</p>
+<p begin="00:49:43.900" end="00:49:48.670" style="s2">people the reach of a Joe Rogan or a sam</p>
+<p begin="00:49:46.690" end="00:49:51.430" style="s2">Harris or me or Brett or any of these</p>
+<p begin="00:49:48.670" end="00:49:53.920" style="s2">people is more than sufficient to get</p>
+<p begin="00:49:51.430" end="00:49:55.600" style="s2">the news out there the real importance</p>
+<p begin="00:49:53.920" end="00:49:57.550" style="s2">of the legacy layer is that there is an</p>
+<p begin="00:49:55.600" end="00:50:00.280" style="s2">agreement that we are not going to take</p>
+<p begin="00:49:57.550" end="00:50:03.100" style="s2">seriously that which is solely digital</p>
+<p begin="00:50:00.280" end="00:50:04.810" style="s2">and so if we can just stick our fingers</p>
+<p begin="00:50:03.100" end="00:50:07.210" style="s2">in our ears long enough or pretend that</p>
+<p begin="00:50:04.810" end="00:50:08.950" style="s2">everybody outside of the Citadel is Alex</p>
+<p begin="00:50:07.210" end="00:50:11.760" style="s2">Jones and a Matt and mad as a hatter</p>
+<p begin="00:50:08.950" end="00:50:14.710" style="s2">with a tinfoil hat then we can protect</p>
+<p begin="00:50:11.760" end="00:50:16.480" style="s2">potentially pretend that just like in</p>
+<p begin="00:50:14.710" end="00:50:18.790" style="s2">professional wrestling</p>
+<p begin="00:50:16.480" end="00:50:20.920" style="s2">everything is real and nothing is fake</p>
+<p begin="00:50:18.790" end="00:50:24.040" style="s2">and that&#39;s the that&#39;s the new fate of</p>
+<p begin="00:50:20.920" end="00:50:26.080" style="s2">litigated institutional narrative people</p>
+<p begin="00:50:24.040" end="00:50:28.440" style="s2">are increasingly taking a look at it and</p>
+<p begin="00:50:26.080" end="00:50:30.730" style="s2">saying there is no telling of the tale</p>
+<p begin="00:50:28.440" end="00:50:33.340" style="s2">that results in what you are currently</p>
+<p begin="00:50:30.730" end="00:50:35.320" style="s2">calling journalism we are all seeing</p>
+<p begin="00:50:33.340" end="00:50:37.600" style="s2">this extra layer and you guys are</p>
+<p begin="00:50:35.320" end="00:50:40.290" style="s2">pretending that it doesn&#39;t even exist do</p>
+<p begin="00:50:37.600" end="00:50:43.840" style="s2">you think that insulating layer has got</p>
+<p begin="00:50:40.290" end="00:50:46.119" style="s2">more intent since because in 2016 you</p>
+<p begin="00:50:43.840" end="00:50:50.520" style="s2">did have like Trump effectively kind of</p>
+<p begin="00:50:46.119" end="00:50:53.800" style="s2">coming out of the online insurgency and</p>
+<p begin="00:50:50.520" end="00:50:55.840" style="s2">changing and winning the election do you</p>
+<p begin="00:50:53.800" end="00:50:57.730" style="s2">think that there is more insulation</p>
+<p begin="00:50:55.840" end="00:50:59.230" style="s2">between the digital layer in there and</p>
+<p begin="00:50:57.730" end="00:51:02.170" style="s2">we just look at all of the changes in</p>
+<p begin="00:50:59.230" end="00:51:05.050" style="s2">the Terms of Service yeah so for example</p>
+<p begin="00:51:02.170" end="00:51:09.100" style="s2">look at the Terms of Service of Facebook</p>
+<p begin="00:51:05.050" end="00:51:11.859" style="s2">of Twitter of Google between then and</p>
+<p begin="00:51:09.100" end="00:51:14.710" style="s2">now and look at all of the terms we&#39;ve</p>
+<p begin="00:51:11.859" end="00:51:18.570" style="s2">learned right I mean I think Google had</p>
+<p begin="00:51:14.710" end="00:51:22.450" style="s2">a leaked report called the good sensor I</p>
+<p begin="00:51:18.570" end="00:51:24.340" style="s2">believe that Twitter uses down ranked to</p>
+<p begin="00:51:22.450" end="00:51:28.420" style="s2">mean shadow banning I believe that</p>
+<p begin="00:51:24.340" end="00:51:31.570" style="s2">Facebook uses D boosting the entire</p>
+<p begin="00:51:28.420" end="00:51:33.760" style="s2">conversation we now have a doctrine of</p>
+<p begin="00:51:31.570" end="00:51:36.880" style="s2">strategic silence coming out of the data</p>
+<p begin="00:51:33.760" end="00:51:41.619" style="s2">and society group about why reporters</p>
+<p begin="00:51:36.880" end="00:51:44.080" style="s2">should not talk about things I mean the</p>
+<p begin="00:51:41.619" end="00:51:47.230" style="s2">institution&#39;s had a wake up call which</p>
+<p begin="00:51:44.080" end="00:51:50.140" style="s2">is Donald Trump proves the power of the</p>
+<p begin="00:51:47.230" end="00:51:51.820" style="s2">digital layer the people are angry</p>
+<p begin="00:51:50.140" end="00:51:54.220" style="s2">they&#39;re sick of the stuff nobody</p>
+<p begin="00:51:51.820" end="00:51:55.270" style="s2">believes in the institution&#39;s I don&#39;t</p>
+<p begin="00:51:54.220" end="00:51:56.470" style="s2">think the people who man the</p>
+<p begin="00:51:55.270" end="00:51:58.869" style="s2">institution&#39;s believe in the</p>
+<p begin="00:51:56.470" end="00:52:03.310" style="s2">institution&#39;s they&#39;re all sick with the</p>
+<p begin="00:51:58.869" end="00:52:05.109" style="s2">same problem and in that in kind of an</p>
+<p begin="00:52:03.310" end="00:52:07.090" style="s2">environment they&#39;ve all gone to</p>
+<p begin="00:52:05.109" end="00:52:09.580" style="s2">desperate measures to defend themselves</p>
+<p begin="00:52:07.090" end="00:52:14.080" style="s2">by making sure that they have the means</p>
+<p begin="00:52:09.580" end="00:52:17.710" style="s2">of keeping anything unwanted out of that</p>
+<p begin="00:52:14.080" end="00:52:19.390" style="s2">layer so before it was an allegation I&#39;m</p>
+<p begin="00:52:17.710" end="00:52:22.150" style="s2">being shadow bin and they would say well</p>
+<p begin="00:52:19.390" end="00:52:24.310" style="s2">we don&#39;t we don&#39;t do that now that&#39;s</p>
+<p begin="00:52:22.150" end="00:52:27.070" style="s2">part of the Terms of Service now I don&#39;t</p>
+<p begin="00:52:24.310" end="00:52:28.900" style="s2">think that there&#39;s anything controlling</p>
+<p begin="00:52:27.070" end="00:52:29.740" style="s2">all of the different ways that ideas are</p>
+<p begin="00:52:28.900" end="00:52:32.349" style="s2">suppressed</p>
+<p begin="00:52:29.740" end="00:52:35.770" style="s2">but the central thesis that I have is</p>
+<p begin="00:52:32.349" end="00:52:40.020" style="s2">that since the early 1970s period</p>
+<p begin="00:52:35.770" end="00:52:42.640" style="s2">between 1971 and 1973 let&#39;s say</p>
+<p begin="00:52:40.020" end="00:52:46.150" style="s2">something changed in the nature of the</p>
+<p begin="00:52:42.640" end="00:52:47.800" style="s2">world economy and whatever this changes</p>
+<p begin="00:52:46.150" end="00:52:50.440" style="s2">we didn&#39;t study it enough we didn&#39;t talk</p>
+<p begin="00:52:47.800" end="00:52:52.270" style="s2">about it enough people will say oh I</p>
+<p begin="00:52:50.440" end="00:52:56.740" style="s2">know exactly what that is it&#39;s the Arab</p>
+<p begin="00:52:52.270" end="00:52:59.380" style="s2">oil shock or it&#39;s the change in the</p>
+<p begin="00:52:56.740" end="00:53:01.810" style="s2">relationship to the gold standard but in</p>
+<p begin="00:52:59.380" end="00:53:03.490" style="s2">fact something changed character and it</p>
+<p begin="00:53:01.810" end="00:53:05.200" style="s2">meant that all of our institutions that</p>
+<p begin="00:53:03.490" end="00:53:07.540" style="s2">were built on an expectation of growth</p>
+<p begin="00:53:05.200" end="00:53:10.510" style="s2">could suddenly no longer meet their</p>
+<p begin="00:53:07.540" end="00:53:13.960" style="s2">expect their expectations that were put</p>
+<p begin="00:53:10.510" end="00:53:16.180" style="s2">upon them as a result my belief is is</p>
+<p begin="00:53:13.960" end="00:53:17.589" style="s2">that we had a universal environmental</p>
+<p begin="00:53:16.180" end="00:53:22.240" style="s2">effect which is that all of the</p>
+<p begin="00:53:17.589" end="00:53:24.670" style="s2">institutions came to be headed by people</p>
+<p begin="00:53:22.240" end="00:53:26.530" style="s2">who were comfortable in one form or</p>
+<p begin="00:53:24.670" end="00:53:28.690" style="s2">another with distorting the truth and as</p>
+<p begin="00:53:26.530" end="00:53:30.099" style="s2">the situation went on longer the heads</p>
+<p begin="00:53:28.690" end="00:53:32.500" style="s2">of the institutions became more</p>
+<p begin="00:53:30.099" end="00:53:34.960" style="s2">aggressive in the way that they would</p>
+<p begin="00:53:32.500" end="00:53:37.359" style="s2">distort the truth to hide the fact that</p>
+<p begin="00:53:34.960" end="00:53:43.240" style="s2">the pyramid scheme that we discussed in</p>
+<p begin="00:53:37.359" end="00:53:44.619" style="s2">your last film was governing everything</p>
+<p begin="00:53:43.240" end="00:53:49.240" style="s2">that you couldn&#39;t get enough entrance</p>
+<p begin="00:53:44.619" end="00:53:51.490" style="s2">into the system in order to feed the</p>
+<p begin="00:53:49.240" end="00:53:54.849" style="s2">system by telling them the truth alright</p>
+<p begin="00:53:51.490" end="00:53:58.839" style="s2">so in this situation what happens we</p>
+<p begin="00:53:54.849" end="00:54:01.030" style="s2">have a very thorny problem if people</p>
+<p begin="00:53:58.839" end="00:54:03.310" style="s2">start discussing the idea that things</p>
+<p begin="00:54:01.030" end="00:54:06.099" style="s2">are patterned or built as pyramid</p>
+<p begin="00:54:03.310" end="00:54:07.960" style="s2">schemes then every single institution</p>
+<p begin="00:54:06.099" end="00:54:09.700" style="s2">becomes endangered and if one</p>
+<p begin="00:54:07.960" end="00:54:11.680" style="s2">institution is more honest and another</p>
+<p begin="00:54:09.700" end="00:54:15.550" style="s2">one less honest than the more honest one</p>
+<p begin="00:54:11.680" end="00:54:18.550" style="s2">will tend to suffer as a result we</p>
+<p begin="00:54:15.550" end="00:54:20.710" style="s2">became more and more aggressive towards</p>
+<p begin="00:54:18.550" end="00:54:23.230" style="s2">individuals on behalf of our</p>
+<p begin="00:54:20.710" end="00:54:26.760" style="s2">institutions dissenters people who would</p>
+<p begin="00:54:23.230" end="00:54:29.589" style="s2">actually raise the question of our</p>
+<p begin="00:54:26.760" end="00:54:31.599" style="s2">universities actually giving a good</p>
+<p begin="00:54:29.589" end="00:54:34.270" style="s2">education and delivering value for the</p>
+<p begin="00:54:31.599" end="00:54:36.880" style="s2">money that they cost or is it likely</p>
+<p begin="00:54:34.270" end="00:54:39.310" style="s2">that this law firm has a durable</p>
+<p begin="00:54:36.880" end="00:54:41.050" style="s2">business model or is this medical</p>
+<p begin="00:54:39.310" end="00:54:42.090" style="s2">practice too governed by incentives</p>
+<p begin="00:54:41.050" end="00:54:44.220" style="s2">coming from</p>
+<p begin="00:54:42.090" end="00:54:46.560" style="s2">the pharmaceutical industry in order to</p>
+<p begin="00:54:44.220" end="00:54:48.870" style="s2">keep afloat all of these sorts of</p>
+<p begin="00:54:46.560" end="00:54:53.340" style="s2">questions became very important to</p>
+<p begin="00:54:48.870" end="00:54:56.940" style="s2">suppress and as a result I would say</p>
+<p begin="00:54:53.340" end="00:54:59.370" style="s2">lots of different pieces started to</p>
+<p begin="00:54:56.940" end="00:55:03.630" style="s2">emerge that would suppress questioning</p>
+<p begin="00:54:59.370" end="00:55:06.330" style="s2">and suppress disruptive ideas so it</p>
+<p begin="00:55:03.630" end="00:55:12.180" style="s2">might in my understanding of this all of</p>
+<p begin="00:55:06.330" end="00:55:14.250" style="s2">these different complexes sort of begin</p>
+<p begin="00:55:12.180" end="00:55:17.100" style="s2">to interweave into a master complex it</p>
+<p begin="00:55:14.250" end="00:55:21.030" style="s2">was an emergent phenomenon but because</p>
+<p begin="00:55:17.100" end="00:55:23.180" style="s2">the etiology was universal that is every</p>
+<p begin="00:55:21.030" end="00:55:25.740" style="s2">institution was protecting itself from</p>
+<p begin="00:55:23.180" end="00:55:27.650" style="s2">the fact that it could no longer meet</p>
+<p begin="00:55:25.740" end="00:55:31.130" style="s2">its growth expectations</p>
+<p begin="00:55:27.650" end="00:55:34.260" style="s2">unless cheating of some kind occurred</p>
+<p begin="00:55:31.130" end="00:55:35.910" style="s2">the threat they all faced was a common</p>
+<p begin="00:55:34.260" end="00:55:37.710" style="s2">threat that is that somebody would point</p>
+<p begin="00:55:35.910" end="00:55:39.900" style="s2">out that the medicine wasn&#39;t as good as</p>
+<p begin="00:55:37.710" end="00:55:42.000" style="s2">it was claimed the education was</p>
+<p begin="00:55:39.900" end="00:55:44.640" style="s2">overpriced and didn&#39;t deliver enough</p>
+<p begin="00:55:42.000" end="00:55:47.190" style="s2">value that our representatives were on</p>
+<p begin="00:55:44.640" end="00:55:51.390" style="s2">the take whatever the individual issues</p>
+<p begin="00:55:47.190" end="00:55:52.830" style="s2">were it needed to come to pass that the</p>
+<p begin="00:55:51.390" end="00:55:54.780" style="s2">institutions would be defended</p>
+<p begin="00:55:52.830" end="00:55:56.100" style="s2">generically against people asking</p>
+<p begin="00:55:54.780" end="00:56:00.000" style="s2">difficult questions so if you think</p>
+<p begin="00:55:56.100" end="00:56:01.650" style="s2">about the period still in the 1970s</p>
+<p begin="00:56:00.000" end="00:56:04.070" style="s2">before this had really kind of</p>
+<p begin="00:56:01.650" end="00:56:05.910" style="s2">solidified and hardened you had</p>
+<p begin="00:56:04.070" end="00:56:08.760" style="s2">institutions going after other</p>
+<p begin="00:56:05.910" end="00:56:12.750" style="s2">institutions for example 60 minutes and</p>
+<p begin="00:56:08.760" end="00:56:15.180" style="s2">CBS News would take on a corporation</p>
+<p begin="00:56:12.750" end="00:56:16.710" style="s2">that was misbehaving and so you know the</p>
+<p begin="00:56:15.180" end="00:56:18.090" style="s2">the old joke is one of the most</p>
+<p begin="00:56:16.710" end="00:56:19.680" style="s2">frightening words in the English</p>
+<p begin="00:56:18.090" end="00:56:24.420" style="s2">language Mike Wallace is here to see you</p>
+<p begin="00:56:19.680" end="00:56:26.670" style="s2">and the entire thrust of that was that</p>
+<p begin="00:56:24.420" end="00:56:28.500" style="s2">you would have institutional warfare for</p>
+<p begin="00:56:26.670" end="00:56:30.570" style="s2">example the Washington Post would take</p>
+<p begin="00:56:28.500" end="00:56:33.300" style="s2">on the presidency during the Watergate</p>
+<p begin="00:56:30.570" end="00:56:35.400" style="s2">era and somehow we now have a</p>
+<p begin="00:56:33.300" end="00:56:37.260" style="s2">gentlemen&#39;s agreement when we had the</p>
+<p begin="00:56:35.400" end="00:56:40.320" style="s2">2008 financial crisis I think</p>
+<p begin="00:56:37.260" end="00:56:42.570" style="s2">effectively no personnel at the</p>
+<p begin="00:56:40.320" end="00:56:44.400" style="s2">investment banks went to jail when we</p>
+<p begin="00:56:42.570" end="00:56:45.570" style="s2">had a savings and loan crisis we did</p>
+<p begin="00:56:44.400" end="00:56:48.470" style="s2">have people going to jail</p>
+<p begin="00:56:45.570" end="00:56:51.120" style="s2">so as time has gone on</p>
+<p begin="00:56:48.470" end="00:56:53.340" style="s2">somehow it has emerged that there&#39;s kind</p>
+<p begin="00:56:51.120" end="00:56:56.760" style="s2">of a sensibility as the different pieces</p>
+<p begin="00:56:53.340" end="00:57:00.570" style="s2">of ideas suppression form a giant</p>
+<p begin="00:56:56.760" end="00:57:02.280" style="s2">complex and the general feature is</p>
+<p begin="00:57:00.570" end="00:57:04.260" style="s2">always the same which is that the</p>
+<p begin="00:57:02.280" end="00:57:06.990" style="s2">dissenting individual has to be</p>
+<p begin="00:57:04.260" end="00:57:08.700" style="s2">suppressed or held back by the</p>
+<p begin="00:57:06.990" end="00:57:11.100" style="s2">institution because it&#39;s not right to</p>
+<p begin="00:57:08.700" end="00:57:13.080" style="s2">question an institution that can&#39;t</p>
+<p begin="00:57:11.100" end="00:57:15.270" style="s2">actually defend itself on its merits and</p>
+<p begin="00:57:13.080" end="00:57:16.860" style="s2">I think that you know you start to look</p>
+<p begin="00:57:15.270" end="00:57:20.490" style="s2">for this everywhere and you&#39;ll find it</p>
+<p begin="00:57:16.860" end="00:57:23.130" style="s2">for example on social media you&#39;ll see</p>
+<p begin="00:57:20.490" end="00:57:26.790" style="s2">people talking about D boosting or down</p>
+<p begin="00:57:23.130" end="00:57:28.500" style="s2">ranking in the me to scandal we learn a</p>
+<p begin="00:57:26.790" end="00:57:32.130" style="s2">new phrase that we never heard catch</p>
+<p begin="00:57:28.500" end="00:57:33.660" style="s2">catch and kill whatever these things are</p>
+<p begin="00:57:32.130" end="00:57:36.300" style="s2">when you start to hear well someone so</p>
+<p begin="00:57:33.660" end="00:57:38.820" style="s2">is disgruntled why are they disgruntled</p>
+<p begin="00:57:36.300" end="00:57:40.140" style="s2">why does that discount their perspective</p>
+<p begin="00:57:38.820" end="00:57:43.860" style="s2">maybe we should listen to disgruntled</p>
+<p begin="00:57:40.140" end="00:57:47.340" style="s2">people what we have is we have an</p>
+<p begin="00:57:43.860" end="00:57:48.960" style="s2">enormous complex that has arisen from</p>
+<p begin="00:57:47.340" end="00:57:50.370" style="s2">different pieces that are all somehow</p>
+<p begin="00:57:48.960" end="00:57:52.560" style="s2">interoperable because they&#39;re all</p>
+<p begin="00:57:50.370" end="00:57:54.360" style="s2">solving the same problem how do we make</p>
+<p begin="00:57:52.560" end="00:57:57.330" style="s2">sure that institutions that can no</p>
+<p begin="00:57:54.360" end="00:57:59.310" style="s2">longer defend themselves in honest terms</p>
+<p begin="00:57:57.330" end="00:58:01.410" style="s2">are protected from the individuals that</p>
+<p begin="00:57:59.310" end="00:58:03.240" style="s2">would raise the questions and you&#39;ve</p>
+<p begin="00:58:01.410" end="00:58:06.330" style="s2">talked about before the gated</p>
+<p begin="00:58:03.240" end="00:58:09.030" style="s2">institutional narrative how is the the</p>
+<p begin="00:58:06.330" end="00:58:10.470" style="s2">disc different from the gates and</p>
+<p begin="00:58:09.030" end="00:58:12.810" style="s2">institutional narrative or the Djinn</p>
+<p begin="00:58:10.470" end="00:58:15.210" style="s2">that you talked about before well in the</p>
+<p begin="00:58:12.810" end="00:58:17.880" style="s2">case of the the Djinn it is a</p>
+<p begin="00:58:15.210" end="00:58:21.240" style="s2">conversation so it&#39;s the conversation</p>
+<p begin="00:58:17.880" end="00:58:24.180" style="s2">for example with the New York Times is</p>
+<p begin="00:58:21.240" end="00:58:26.780" style="s2">having with the Democratic Party with</p>
+<p begin="00:58:24.180" end="00:58:30.090" style="s2">commentary from the Atlantic and</p>
+<p begin="00:58:26.780" end="00:58:32.810" style="s2">analysis provided by The Economist so in</p>
+<p begin="00:58:30.090" end="00:58:36.810" style="s2">that sort of institutional conversation</p>
+<p begin="00:58:32.810" end="00:58:39.720" style="s2">all of the major players are talking the</p>
+<p begin="00:58:36.810" end="00:58:43.200" style="s2">disc is about the layer that separates</p>
+<p begin="00:58:39.720" end="00:58:46.560" style="s2">that conversation from the conversation</p>
+<p begin="00:58:43.200" end="00:58:50.250" style="s2">taking place outside of this sort of</p>
+<p begin="00:58:46.560" end="00:58:52.200" style="s2">rarefied exchange of ideas so what if</p>
+<p begin="00:58:50.250" end="00:58:53.640" style="s2">the person who is most knowledgeable</p>
+<p begin="00:58:52.200" end="00:58:55.350" style="s2">about something isn&#39;t attached to any</p>
+<p begin="00:58:53.640" end="00:58:57.720" style="s2">institution all that person has no</p>
+<p begin="00:58:55.350" end="00:58:59.589" style="s2">allegiance as the individuals remain</p>
+<p begin="00:58:57.720" end="00:59:02.380" style="s2">sovereign</p>
+<p begin="00:58:59.589" end="00:59:04.809" style="s2">as a result it&#39;s very important to make</p>
+<p begin="00:59:02.380" end="00:59:07.089" style="s2">sure that we don&#39;t have individuals</p>
+<p begin="00:59:04.809" end="00:59:09.209" style="s2">without institutional supervision or</p>
+<p begin="00:59:07.089" end="00:59:11.410" style="s2">attachment running around and</p>
+<p begin="00:59:09.209" end="00:59:13.509" style="s2">stimulating thought and questions about</p>
+<p begin="00:59:11.410" end="00:59:15.339" style="s2">various topics so I would say that the</p>
+<p begin="00:59:13.509" end="00:59:18.729" style="s2">gin is the thing that is being protected</p>
+<p begin="00:59:15.339" end="00:59:20.979" style="s2">by the disc Eric thank you very much</p>
+<p begin="00:59:18.729" end="00:59:22.839" style="s2">David pleasure as always well done for</p>
+<p begin="00:59:20.979" end="00:59:24.130" style="s2">making it to the end just wanted to let</p>
+<p begin="00:59:22.839" end="00:59:25.839" style="s2">you know a few things we&#39;ve got coming</p>
+<p begin="00:59:24.130" end="00:59:27.729" style="s2">up including the biggest event we&#39;ve</p>
+<p begin="00:59:25.839" end="00:59:30.009" style="s2">ever done the rebel wisdom festival</p>
+<p begin="00:59:27.729" end="00:59:32.709" style="s2">which will be a mix of ideas and</p>
+<p begin="00:59:30.009" end="00:59:34.959" style="s2">dialogues between people like Daniel</p>
+<p begin="00:59:32.709" end="00:59:37.599" style="s2">schmeckt and Berger Rupert Sheldrake</p>
+<p begin="00:59:34.959" end="00:59:39.849" style="s2">Jamba Vicki and many more and because</p>
+<p begin="00:59:37.599" end="00:59:41.410" style="s2">wisdom isn&#39;t just intellectual it&#39;s also</p>
+<p begin="00:59:39.849" end="00:59:43.749" style="s2">about practice will be offering</p>
+<p begin="00:59:41.410" end="00:59:45.759" style="s2">experiences like circling different</p>
+<p begin="00:59:43.749" end="00:59:46.809" style="s2">interpersonal dialogue mindfulness</p>
+<p begin="00:59:45.759" end="00:59:48.219" style="s2">breathwork</p>
+<p begin="00:59:46.809" end="00:59:50.469" style="s2">and many other with world-class</p>
+<p begin="00:59:48.219" end="00:59:53.170" style="s2">facilitators we&#39;re also running our</p>
+<p begin="00:59:50.469" end="00:59:55.539" style="s2">first online course called sense making</p>
+<p begin="00:59:53.170" end="00:59:57.430" style="s2">101 and if you&#39;re enjoying the content</p>
+<p begin="00:59:55.539" end="00:59:58.930" style="s2">you can help us make more by joining the</p>
+<p begin="00:59:57.430" end="01:00:00.999" style="s2">rebel wisdom Club which will give you</p>
+<p begin="00:59:58.930" end="01:00:03.519" style="s2">discounts on the courses and the events</p>
+<p begin="01:00:00.999" end="01:00:05.619" style="s2">and also access to a load more content</p>
+<p begin="01:00:03.519" end="01:00:07.630" style="s2">on the website including all of our live</p>
+<p begin="01:00:05.619" end="01:00:09.309" style="s2">events it&#39;ll also give you access to our</p>
+<p begin="01:00:07.630" end="01:00:11.229" style="s2">growing community which is something we</p>
+<p begin="01:00:09.309" end="01:00:13.539" style="s2">want to make a real focus for 2020</p>
+<p begin="01:00:11.229" end="01:00:16.479" style="s2">adding more meetups and other services</p>
+<p begin="01:00:13.539" end="01:00:19.160" style="s2">for members so I hope you enjoyed the</p>
+<p begin="01:00:16.479" end="01:00:21.220" style="s2">film and see you soon</p>
+<p begin="01:00:19.160" end="01:00:21.220" style="s2">you</p>
+</div>
+</body>
+</tt>

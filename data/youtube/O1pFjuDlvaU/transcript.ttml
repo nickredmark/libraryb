@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.410" end="00:00:07.140" style="s2">all right so I looked at this stuff that</p>
+<p begin="00:00:04.920" end="00:00:09.240" style="s2">you had sent me on the Dow stack I&#39;ve</p>
+<p begin="00:00:07.140" end="00:00:10.800" style="s2">looked at several times before I always</p>
+<p begin="00:00:09.240" end="00:00:11.820" style="s2">get the Dow stack in the hole of a chain</p>
+<p begin="00:00:10.800" end="00:00:13.620" style="s2">confused</p>
+<p begin="00:00:11.820" end="00:00:16.289" style="s2">they both are a little bit of an enigma</p>
+<p begin="00:00:13.620" end="00:00:17.490" style="s2">to me do you know the difference</p>
+<p begin="00:00:16.289" end="00:00:18.779" style="s2">like can you explain the difference</p>
+<p begin="00:00:17.490" end="00:00:19.740" style="s2">between dowel stock and hollow chain</p>
+<p begin="00:00:18.779" end="00:00:24.449" style="s2">because I feel like you&#39;re gonna</p>
+<p begin="00:00:19.740" end="00:00:25.949" style="s2">probably there is almost no common so</p>
+<p begin="00:00:24.449" end="00:00:27.359" style="s2">they it&#39;s it&#39;s very hard to say what&#39;s</p>
+<p begin="00:00:25.949" end="00:00:30.750" style="s2">the difference they have very little in</p>
+<p begin="00:00:27.359" end="00:00:32.430" style="s2">common in my head they&#39;re very common</p>
+<p begin="00:00:30.750" end="00:00:33.809" style="s2">because I don&#39;t know I don&#39;t know what</p>
+<p begin="00:00:32.430" end="00:00:36.059" style="s2">makes them different and I don&#39;t know</p>
+<p begin="00:00:33.809" end="00:00:38.399" style="s2">people bring up one or the other quite</p>
+<p begin="00:00:36.059" end="00:00:41.040" style="s2">frequently really okay so there is</p>
+<p begin="00:00:38.399" end="00:00:44.010" style="s2">almost no almost nothing in common for</p>
+<p begin="00:00:41.040" end="00:00:49.379" style="s2">them apart from good spirit and good</p>
+<p begin="00:00:44.010" end="00:00:54.949" style="s2">people but and good mission but a whole</p>
+<p begin="00:00:49.379" end="00:00:59.129" style="s2">chain is basically a more low level</p>
+<p begin="00:00:54.949" end="00:01:01.469" style="s2">technological solution so it&#39;s a it&#39;s</p>
+<p begin="00:00:59.129" end="00:01:07.290" style="s2">actually hard to explain but it&#39;s it&#39;s</p>
+<p begin="00:01:01.469" end="00:01:09.570" style="s2">sort of if you you know torrent you know</p>
+<p begin="00:01:07.290" end="00:01:13.049" style="s2">torrent this is like the closest analogy</p>
+<p begin="00:01:09.570" end="00:01:15.210" style="s2">that I can give torrent you know file</p>
+<p begin="00:01:13.049" end="00:01:17.549" style="s2">sharing network yeah yeah I&#39;m familiar</p>
+<p begin="00:01:15.210" end="00:01:20.189" style="s2">with it from like that 90s early 2000s</p>
+<p begin="00:01:17.549" end="00:01:22.500" style="s2">yeah right right so it&#39;s a distribute</p>
+<p begin="00:01:20.189" end="00:01:25.950" style="s2">acknowledged distributed technology that</p>
+<p begin="00:01:22.500" end="00:01:28.380" style="s2">allows people to to share files such</p>
+<p begin="00:01:25.950" end="00:01:30.829" style="s2">that the files sit over the network and</p>
+<p begin="00:01:28.380" end="00:01:33.720" style="s2">they there is no centralized server and</p>
+<p begin="00:01:30.829" end="00:01:40.790" style="s2">and thus there is no one that shut down</p>
+<p begin="00:01:33.720" end="00:01:44.970" style="s2">that that no server so blockchain is</p>
+<p begin="00:01:40.790" end="00:01:47.610" style="s2">something like that but the difference</p>
+<p begin="00:01:44.970" end="00:01:50.250" style="s2">blockchain in torrent is that in</p>
+<p begin="00:01:47.610" end="00:01:53.460" style="s2">blockchain there is a consensus so all</p>
+<p begin="00:01:50.250" end="00:01:56.670" style="s2">nodes in a network hold the same copies</p>
+<p begin="00:01:53.460" end="00:01:58.890" style="s2">of everything so there is commit screen</p>
+<p begin="00:01:56.670" end="00:02:01.290" style="s2">it&#39;s called consensus basically protocol</p>
+<p begin="00:01:58.890" end="00:02:03.780" style="s2">or tells database and torrent is it is a</p>
+<p begin="00:02:01.290" end="00:02:08.250" style="s2">visual data database without consensus</p>
+<p begin="00:02:03.780" end="00:02:11.280" style="s2">and then people have have changed</p>
+<p begin="00:02:08.250" end="00:02:13.950" style="s2">blockchain to also or advance progress</p>
+<p begin="00:02:11.280" end="00:02:19.849" style="s2">blockchain to also run software</p>
+<p begin="00:02:13.950" end="00:02:22.140" style="s2">in consensus and the way I understand</p>
+<p begin="00:02:19.849" end="00:02:27.630" style="s2">hollow chain is kind of like that</p>
+<p begin="00:02:22.140" end="00:02:30.750" style="s2">Nauticus edition of software distributed</p>
+<p begin="00:02:27.630" end="00:02:33.720" style="s2">software running but sounds something</p>
+<p begin="00:02:30.750" end="00:02:35.340" style="s2">more like torrent such as there is no</p>
+<p begin="00:02:33.720" end="00:02:38.370" style="s2">consensus it&#39;s not a blockchain there is</p>
+<p begin="00:02:35.340" end="00:02:41.880" style="s2">no consensus between all nodes but still</p>
+<p begin="00:02:38.370" end="00:02:45.209" style="s2">it can run software so it&#39;s sort of like</p>
+<p begin="00:02:41.880" end="00:02:48.319" style="s2">a data software distributed layer</p>
+<p begin="00:02:45.209" end="00:02:51.060" style="s2">without consensus something between</p>
+<p begin="00:02:48.319" end="00:02:53.540" style="s2">between the torrent and blockchain</p>
+<p begin="00:02:51.060" end="00:02:56.390" style="s2">something in between</p>
+<p begin="00:02:53.540" end="00:02:58.890" style="s2">so it&#39;s a very techy thankee part</p>
+<p begin="00:02:56.390" end="00:03:00.989" style="s2">although I know that they have</p>
+<p begin="00:02:58.890" end="00:03:04.140" style="s2">interesting governance but governance is</p>
+<p begin="00:03:00.989" end="00:03:05.640" style="s2">not their main thing but they&#39;re there I</p>
+<p begin="00:03:04.140" end="00:03:08.390" style="s2">mean they have an interest in governance</p>
+<p begin="00:03:05.640" end="00:03:10.769" style="s2">in that stock we are we are totally not</p>
+<p begin="00:03:08.390" end="00:03:12.870" style="s2">building any technological</p>
+<p begin="00:03:10.769" end="00:03:14.970" style="s2">infrastructure infrastructure by</p>
+<p begin="00:03:12.870" end="00:03:18.030" style="s2">ourselves we&#39;re using existing</p>
+<p begin="00:03:14.970" end="00:03:22.650" style="s2">infrastructures including a theorem for</p>
+<p begin="00:03:18.030" end="00:03:23.519" style="s2">the blockchain and ipfs for the data</p>
+<p begin="00:03:22.650" end="00:03:28.440" style="s2">storage</p>
+<p begin="00:03:23.519" end="00:03:30.060" style="s2">they&#39;re both distributed and then we</p>
+<p begin="00:03:28.440" end="00:03:32.549" style="s2">does that we are building infrastructure</p>
+<p begin="00:03:30.060" end="00:03:34.620" style="s2">I mean the the first goal of the stack</p>
+<p begin="00:03:32.549" end="00:03:37.940" style="s2">was to build governance infrastructure</p>
+<p begin="00:03:34.620" end="00:03:40.530" style="s2">so on top of aetherium building</p>
+<p begin="00:03:37.940" end="00:03:43.260" style="s2">infrastructure for distributed</p>
+<p begin="00:03:40.530" end="00:03:44.489" style="s2">governance or using aetherium building</p>
+<p begin="00:03:43.260" end="00:03:47.489" style="s2">infrastructure for distributed</p>
+<p begin="00:03:44.489" end="00:03:50.820" style="s2">governance of organizations or networks</p>
+<p begin="00:03:47.489" end="00:03:53.190" style="s2">or collaborations etc so this is what</p>
+<p begin="00:03:50.820" end="00:03:54.570" style="s2">these law was like the high level first</p>
+<p begin="00:03:53.190" end="00:03:56.970" style="s2">mission of tau stack</p>
+<p begin="00:03:54.570" end="00:04:01.500" style="s2">since then we&#39;ve developed this full</p>
+<p begin="00:03:56.970" end="00:04:06.569" style="s2">stack of layers or technologies on top</p>
+<p begin="00:04:01.500" end="00:04:09.060" style="s2">of ethereal to support yeah so</p>
+<p begin="00:04:06.569" end="00:04:11.190" style="s2">governance of you know of generic kind</p>
+<p begin="00:04:09.060" end="00:04:14.280" style="s2">and we also developed particular</p>
+<p begin="00:04:11.190" end="00:04:16.739" style="s2">protocols for governance for but in</p>
+<p begin="00:04:14.280" end="00:04:18.539" style="s2">particularly focused around scalable</p>
+<p begin="00:04:16.739" end="00:04:20.669" style="s2">governance so not not necessarily</p>
+<p begin="00:04:18.539" end="00:04:23.580" style="s2">focusing on governance of 30 people but</p>
+<p begin="00:04:20.669" end="00:04:25.620" style="s2">more solving the biggest question of our</p>
+<p begin="00:04:23.580" end="00:04:26.630" style="s2">biggest problem of governance of 30,000</p>
+<p begin="00:04:25.620" end="00:04:29.360" style="s2">people</p>
+<p begin="00:04:26.630" end="00:04:31.580" style="s2">this is totally totally different room</p>
+<p begin="00:04:29.360" end="00:04:35.540" style="s2">in total different problems and</p>
+<p begin="00:04:31.580" end="00:04:38.300" style="s2">solutions and then on top of that we</p>
+<p begin="00:04:35.540" end="00:04:42.140" style="s2">also build particular applications for</p>
+<p begin="00:04:38.300" end="00:04:44.650" style="s2">governance of groups so our first</p>
+<p begin="00:04:42.140" end="00:04:48.730" style="s2">application with the vilification that</p>
+<p begin="00:04:44.650" end="00:04:53.200" style="s2">was more targeted at the crypto audience</p>
+<p begin="00:04:48.730" end="00:04:57.620" style="s2">it was like fully or fairly</p>
+<p begin="00:04:53.200" end="00:05:01.310" style="s2">decentralized but because of that had or</p>
+<p begin="00:04:57.620" end="00:05:03.190" style="s2">has the cost of being not very UX</p>
+<p begin="00:05:01.310" end="00:05:05.410" style="s2">friendly or user-friendly</p>
+<p begin="00:05:03.190" end="00:05:09.170" style="s2">feel the technology that the blockchain</p>
+<p begin="00:05:05.410" end="00:05:11.780" style="s2">offers if you want to have fully Center</p>
+<p begin="00:05:09.170" end="00:05:14.110" style="s2">ization you pay me with the user</p>
+<p begin="00:05:11.780" end="00:05:17.060" style="s2">experience that is still fairly shitty</p>
+<p begin="00:05:14.110" end="00:05:19.250" style="s2">and now we are launching in about two</p>
+<p begin="00:05:17.060" end="00:05:22.100" style="s2">months we are launching a new app which</p>
+<p begin="00:05:19.250" end="00:05:25.510" style="s2">is targeted at the mainstream so firstly</p>
+<p begin="00:05:22.100" end="00:05:28.510" style="s2">we are narrowing down so so far we were</p>
+<p begin="00:05:25.510" end="00:05:31.250" style="s2">not fully generic but somewhat generic</p>
+<p begin="00:05:28.510" end="00:05:33.200" style="s2">about the governance or the entities if</p>
+<p begin="00:05:31.250" end="00:05:35.750" style="s2">you want to govern with and now we are</p>
+<p begin="00:05:33.200" end="00:05:38.450" style="s2">narrowing down for social collaboration</p>
+<p begin="00:05:35.750" end="00:05:43.130" style="s2">so we are starting to focus on social</p>
+<p begin="00:05:38.450" end="00:05:48.800" style="s2">collaboration and we&#39;re also turning</p>
+<p begin="00:05:43.130" end="00:05:51.350" style="s2">into offering to the mainstream and in</p>
+<p begin="00:05:48.800" end="00:05:53.150" style="s2">order to supply a perfect UX for that we</p>
+<p begin="00:05:51.350" end="00:05:55.640" style="s2">are compromising on the level of this of</p>
+<p begin="00:05:53.150" end="00:05:57.710" style="s2">a technical civilization such that we</p>
+<p begin="00:05:55.640" end="00:06:00.130" style="s2">can reach the mainstream today and over</p>
+<p begin="00:05:57.710" end="00:06:02.510" style="s2">time we will but we are we are</p>
+<p begin="00:06:00.130" end="00:06:04.190" style="s2">decentralized compatible such that we</p>
+<p begin="00:06:02.510" end="00:06:06.440" style="s2">can over time increase the center</p>
+<p begin="00:06:04.190" end="00:06:10.310" style="s2">ization of the infrastructures as they</p>
+<p begin="00:06:06.440" end="00:06:12.740" style="s2">advanced technically and this sort of</p>
+<p begin="00:06:10.310" end="00:06:15.080" style="s2">collaboration app we call it common it&#39;s</p>
+<p begin="00:06:12.740" end="00:06:19.460" style="s2">somewhere somewhere between Facebook and</p>
+<p begin="00:06:15.080" end="00:06:22.880" style="s2">Kickstarter so you have in when you</p>
+<p begin="00:06:19.460" end="00:06:26.360" style="s2">think about it in terms of a social</p>
+<p begin="00:06:22.880" end="00:06:30.560" style="s2">action or Co action you have two worlds</p>
+<p begin="00:06:26.360" end="00:06:33.080" style="s2">which are completely unrelated today to</p>
+<p begin="00:06:30.560" end="00:06:36.370" style="s2">each other so one world is the social</p>
+<p begin="00:06:33.080" end="00:06:40.199" style="s2">media world so particularly Facebook</p>
+<p begin="00:06:36.370" end="00:06:41.939" style="s2">they&#39;re around billion billion groups of</p>
+<p begin="00:06:40.199" end="00:06:45.689" style="s2">Facebook and almost every topic if you</p>
+<p begin="00:06:41.939" end="00:06:48.479" style="s2">think of has five with the Facebook</p>
+<p begin="00:06:45.689" end="00:06:50.669" style="s2">groups so if you want to make like a</p>
+<p begin="00:06:48.479" end="00:06:52.590" style="s2">social action today the first thing you</p>
+<p begin="00:06:50.669" end="00:06:54.150" style="s2">do is just to open a Facebook group you</p>
+<p begin="00:06:52.590" end="00:06:56.249" style="s2">can quite easily get ten thousand people</p>
+<p begin="00:06:54.150" end="00:06:58.979" style="s2">to the group if you know if it&#39;s an</p>
+<p begin="00:06:56.249" end="00:07:02.310" style="s2">interesting topic you&#39;d get tons of</p>
+<p begin="00:06:58.979" end="00:07:04.349" style="s2">conversation but sorry but not really a</p>
+<p begin="00:07:02.310" end="00:07:06.389" style="s2">co action or particular significant</p>
+<p begin="00:07:04.349" end="00:07:09.150" style="s2">action around that it&#39;s very hard to</p>
+<p begin="00:07:06.389" end="00:07:11.909" style="s2">trigger a real action on the other side</p>
+<p begin="00:07:09.150" end="00:07:13.080" style="s2">you have platform so crowdfunding</p>
+<p begin="00:07:11.909" end="00:07:15.240" style="s2">platform particularly social</p>
+<p begin="00:07:13.080" end="00:07:19.770" style="s2">crowdfunding platform for social</p>
+<p begin="00:07:15.240" end="00:07:22.259" style="s2">initiatives you have Kickstarter</p>
+<p begin="00:07:19.770" end="00:07:24.569" style="s2">GoFundMe and and many more I&#39;d remember</p>
+<p begin="00:07:22.259" end="00:07:28.669" style="s2">there&#39;s many more social activity</p>
+<p begin="00:07:24.569" end="00:07:32.099" style="s2">crowdfunding and but but in that case</p>
+<p begin="00:07:28.669" end="00:07:33.779" style="s2">you do you do have the ability to raise</p>
+<p begin="00:07:32.099" end="00:07:36.360" style="s2">money and because of that you do have</p>
+<p begin="00:07:33.779" end="00:07:38.729" style="s2">the ability to trigger meaningful action</p>
+<p begin="00:07:36.360" end="00:07:40.949" style="s2">but it&#39;s very centralized like I raised</p>
+<p begin="00:07:38.729" end="00:07:43.189" style="s2">money from many many people and then I</p>
+<p begin="00:07:40.949" end="00:07:47.969" style="s2">need to do without money something and</p>
+<p begin="00:07:43.189" end="00:07:49.439" style="s2">since I need to you know to generate</p>
+<p begin="00:07:47.969" end="00:07:50.610" style="s2">that trust I need to raise money from</p>
+<p begin="00:07:49.439" end="00:07:54.360" style="s2">ten thousand people so I need to</p>
+<p begin="00:07:50.610" end="00:07:55.770" style="s2">generate a very high level of trust you</p>
+<p begin="00:07:54.360" end="00:07:59.699" style="s2">know to show that I can actually execute</p>
+<p begin="00:07:55.770" end="00:08:01.860" style="s2">and thus to liftoff a meaningful</p>
+<p begin="00:07:59.699" end="00:08:05.069" style="s2">campaign would take quite a lot of</p>
+<p begin="00:08:01.860" end="00:08:08.849" style="s2">talent and effort and thus we&#39;ve seen</p>
+<p begin="00:08:05.069" end="00:08:11.310" style="s2">very little number of those so we are</p>
+<p begin="00:08:08.849" end="00:08:13.770" style="s2">actually combining I think that there is</p>
+<p begin="00:08:11.310" end="00:08:17.879" style="s2">no other place that combines the social</p>
+<p begin="00:08:13.770" end="00:08:19.860" style="s2">media or the social groups with the</p>
+<p begin="00:08:17.879" end="00:08:22.860" style="s2">fundraising and we are combining those</p>
+<p begin="00:08:19.860" end="00:08:25.110" style="s2">two into an app such that you can open</p>
+<p begin="00:08:22.860" end="00:08:27.360" style="s2">groups you can also make conversations</p>
+<p begin="00:08:25.110" end="00:08:29.189" style="s2">but you can also raise funds by the</p>
+<p begin="00:08:27.360" end="00:08:31.439" style="s2">donate but you can also externally but</p>
+<p begin="00:08:29.189" end="00:08:35.370" style="s2">also the members of the group basically</p>
+<p begin="00:08:31.439" end="00:08:36.810" style="s2">donate themselves and once you donate to</p>
+<p begin="00:08:35.370" end="00:08:39.329" style="s2">the group you also have the voting power</p>
+<p begin="00:08:36.810" end="00:08:41.610" style="s2">and that&#39;s where the interface between</p>
+<p begin="00:08:39.329" end="00:08:44.579" style="s2">them start to be interesting interesting</p>
+<p begin="00:08:41.610" end="00:08:48.769" style="s2">the fund is being raised by the group is</p>
+<p begin="00:08:44.579" end="00:08:48.769" style="s2">then co-managed by the group themselves</p>
+<p begin="00:08:49.120" end="00:08:52.990" style="s2">so that&#39;s the that&#39;s the app called</p>
+<p begin="00:08:51.069" end="00:08:55.540" style="s2">common so you can open a common the</p>
+<p begin="00:08:52.990" end="00:08:57.309" style="s2">comment can be to support a a global</p>
+<p begin="00:08:55.540" end="00:08:59.620" style="s2">initiative to say the Amazon it could be</p>
+<p begin="00:08:57.309" end="00:09:02.110" style="s2">a local initiative to build the park or</p>
+<p begin="00:08:59.620" end="00:09:06.579" style="s2">fight with the municipality or or former</p>
+<p begin="00:09:02.110" end="00:09:09.249" style="s2">political party or just organize the</p>
+<p begin="00:09:06.579" end="00:09:11.829" style="s2">festival or anything you can have in</p>
+<p begin="00:09:09.249" end="00:09:14.829" style="s2">mind you can share it in your social</p>
+<p begin="00:09:11.829" end="00:09:17.499" style="s2">media people can donate externally or</p>
+<p begin="00:09:14.829" end="00:09:19.540" style="s2">become member by a minimal donation and</p>
+<p begin="00:09:17.499" end="00:09:21.759" style="s2">get voting power in that group then once</p>
+<p begin="00:09:19.540" end="00:09:23.410" style="s2">you hit a minimal threshold of campaign</p>
+<p begin="00:09:21.759" end="00:09:26.589" style="s2">like a funding of minimum threshold of</p>
+<p begin="00:09:23.410" end="00:09:30.610" style="s2">funding all the group can start using</p>
+<p begin="00:09:26.589" end="00:09:32.829" style="s2">that funds in order to to pursue that</p>
+<p begin="00:09:30.610" end="00:09:35.709" style="s2">the cause they&#39;re organized around so</p>
+<p begin="00:09:32.829" end="00:09:38.769" style="s2">this is a this is basically the most of</p>
+<p begin="00:09:35.709" end="00:09:40.779" style="s2">our focus today is around code we still</p>
+<p begin="00:09:38.769" end="00:09:42.249" style="s2">continue to build the infrastructures</p>
+<p begin="00:09:40.779" end="00:09:44.620" style="s2">and code you&#39;ll develop the application</p>
+<p begin="00:09:42.249" end="00:09:46.389" style="s2">for the the board technical application</p>
+<p begin="00:09:44.620" end="00:09:50.170" style="s2">for the crypt audience but most of our</p>
+<p begin="00:09:46.389" end="00:09:52.689" style="s2">focus today is around common we&#39;re</p>
+<p begin="00:09:50.170" end="00:09:55.300" style="s2">explaining to launch the app in a closed</p>
+<p begin="00:09:52.689" end="00:09:58.059" style="s2">not lost or in a quiet but not closed</p>
+<p begin="00:09:55.300" end="00:10:02.499" style="s2">quite beta in about two to two and a</p>
+<p begin="00:09:58.059" end="00:10:04.990" style="s2">half months and and maybe a little bit</p>
+<p begin="00:10:02.499" end="00:10:09.459" style="s2">after in a public in a public launch and</p>
+<p begin="00:10:04.990" end="00:10:11.290" style="s2">we already start today to work with we</p>
+<p begin="00:10:09.459" end="00:10:15.370" style="s2">have we&#39;ve already listed like dozens of</p>
+<p begin="00:10:11.290" end="00:10:19.569" style="s2">using interesting use cases and several</p>
+<p begin="00:10:15.370" end="00:10:20.499" style="s2">dozens of potential confounders so we</p>
+<p begin="00:10:19.569" end="00:10:22.420" style="s2">are starting to have those conversations</p>
+<p begin="00:10:20.499" end="00:10:24.360" style="s2">you could choose maybe the first ten</p>
+<p begin="00:10:22.420" end="00:10:27.639" style="s2">Commons that we will really support</p>
+<p begin="00:10:24.360" end="00:10:34.360" style="s2">strongly to launch them with the launch</p>
+<p begin="00:10:27.639" end="00:10:35.030" style="s2">of the app I think you&#39;re muted I am</p>
+<p begin="00:10:34.360" end="00:10:37.380" style="s2">totally</p>
+<p begin="00:10:35.030" end="00:10:39.600" style="s2">sounds like say I was really excited to</p>
+<p begin="00:10:37.380" end="00:10:41.010" style="s2">hear about the Commons app when you</p>
+<p begin="00:10:39.600" end="00:10:44.610" style="s2">brought it out because that is something</p>
+<p begin="00:10:41.010" end="00:10:47.370" style="s2">that I&#39;ve had in my vision is like</p>
+<p begin="00:10:44.610" end="00:10:50.570" style="s2">Kickstarter meets meets face book as far</p>
+<p begin="00:10:47.370" end="00:10:53.340" style="s2">as you know like every other face book</p>
+<p begin="00:10:50.570" end="00:10:54.810" style="s2">feature has been spun off right Twitter</p>
+<p begin="00:10:53.340" end="00:10:57.060" style="s2">is kind of like the little blurbs and</p>
+<p begin="00:10:54.810" end="00:10:58.620" style="s2">instagrams the pictures and something</p>
+<p begin="00:10:57.060" end="00:11:00.750" style="s2">that a lot of people use Facebook for is</p>
+<p begin="00:10:58.620" end="00:11:02.540" style="s2">social justice is environmental causes</p>
+<p begin="00:11:00.750" end="00:11:05.160" style="s2">and yet there isn&#39;t hadn&#39;t really been a</p>
+<p begin="00:11:02.540" end="00:11:07.710" style="s2">like there is Kickstarter there is</p>
+<p begin="00:11:05.160" end="00:11:09.900" style="s2">patreon there are but it&#39;s not like if</p>
+<p begin="00:11:07.710" end="00:11:11.730" style="s2">you start a funding campaign on there</p>
+<p begin="00:11:09.900" end="00:11:13.590" style="s2">it&#39;s still a popularity contest it&#39;s</p>
+<p begin="00:11:11.730" end="00:11:16.260" style="s2">still about do I have enough friends to</p>
+<p begin="00:11:13.590" end="00:11:18.480" style="s2">fund it and so with a lot of community</p>
+<p begin="00:11:16.260" end="00:11:20.910" style="s2">building apps it seems that you have to</p>
+<p begin="00:11:18.480" end="00:11:22.440" style="s2">bring your community to it it sounds</p>
+<p begin="00:11:20.910" end="00:11:23.970" style="s2">like this might be different and it&#39;s</p>
+<p begin="00:11:22.440" end="00:11:25.860" style="s2">about building like the bigger community</p>
+<p begin="00:11:23.970" end="00:11:28.980" style="s2">of people and then they can find causes</p>
+<p begin="00:11:25.860" end="00:11:30.300" style="s2">that they can support or do I need to</p>
+<p begin="00:11:28.980" end="00:11:32.100" style="s2">bring friends to iterable and help me</p>
+<p begin="00:11:30.300" end="00:11:35.550" style="s2">find friends one question</p>
+<p begin="00:11:32.100" end="00:11:39.120" style="s2">well it&#39;s it&#39;s in that case that&#39;s the</p>
+<p begin="00:11:35.550" end="00:11:42.060" style="s2">big difference that&#39;s the big difference</p>
+<p begin="00:11:39.120" end="00:11:44.100" style="s2">of unifying social media and</p>
+<p begin="00:11:42.060" end="00:11:48.510" style="s2">crowdfunding let me let me try to</p>
+<p begin="00:11:44.100" end="00:11:51.690" style="s2">explain that when you go to when you go</p>
+<p begin="00:11:48.510" end="00:11:54.090" style="s2">to a crowdfunding platform do you spend</p>
+<p begin="00:11:51.690" end="00:11:56.850" style="s2">time on it you don&#39;t spend time with you</p>
+<p begin="00:11:54.090" end="00:11:58.320" style="s2">just get a share you get just a link to</p>
+<p begin="00:11:56.850" end="00:12:00.930" style="s2">the specific campaign through your</p>
+<p begin="00:11:58.320" end="00:12:03.060" style="s2">Facebook group or Facebook Twitter and</p>
+<p begin="00:12:00.930" end="00:12:05.280" style="s2">you enter to that group and usually</p>
+<p begin="00:12:03.060" end="00:12:06.750" style="s2">either you donate or not and then you</p>
+<p begin="00:12:05.280" end="00:12:08.730" style="s2">would go out maybe you own the way you</p>
+<p begin="00:12:06.750" end="00:12:10.560" style="s2">would seem to more campaigns but you&#39;re</p>
+<p begin="00:12:08.730" end="00:12:12.210" style="s2">not actually spending time on the</p>
+<p begin="00:12:10.560" end="00:12:15.030" style="s2">platform there is nothing I mean it&#39;s</p>
+<p begin="00:12:12.210" end="00:12:18.030" style="s2">not there is no activity could be done</p>
+<p begin="00:12:15.030" end="00:12:20.430" style="s2">on the platform yeah so the traffic on</p>
+<p begin="00:12:18.030" end="00:12:23.220" style="s2">the platform is very low and because of</p>
+<p begin="00:12:20.430" end="00:12:25.350" style="s2">that it&#39;s also not it&#39;s not there is no</p>
+<p begin="00:12:23.220" end="00:12:27.510" style="s2">social element to it and also that&#39;s why</p>
+<p begin="00:12:25.350" end="00:12:29.760" style="s2">it&#39;s also not mobile native none of the</p>
+<p begin="00:12:27.510" end="00:12:31.770" style="s2">none of the crowdfunding platforms are</p>
+<p begin="00:12:29.760" end="00:12:34.740" style="s2">mobile native both of them don&#39;t have</p>
+<p begin="00:12:31.770" end="00:12:37.200" style="s2">even mobile and even those who have</p>
+<p begin="00:12:34.740" end="00:12:38.850" style="s2">mobile apps such as Kickstarter it&#39;s not</p>
+<p begin="00:12:37.200" end="00:12:42.300" style="s2">the main traffic made up of traffic is</p>
+<p begin="00:12:38.850" end="00:12:44.490" style="s2">the web traffic and and the average time</p>
+<p begin="00:12:42.300" end="00:12:45.560" style="s2">a user would spend there is very very</p>
+<p begin="00:12:44.490" end="00:12:48.570" style="s2">low</p>
+<p begin="00:12:45.560" end="00:12:50.610" style="s2">you know and that&#39;s also the the</p>
+<p begin="00:12:48.570" end="00:12:55.620" style="s2">transition between networks is very low</p>
+<p begin="00:12:50.610" end="00:12:56.250" style="s2">like you transition on you can say it&#39;s</p>
+<p begin="00:12:55.620" end="00:12:58.850" style="s2">like Corona</p>
+<p begin="00:12:56.250" end="00:13:03.570" style="s2">it&#39;s like Corona how transition how</p>
+<p begin="00:12:58.850" end="00:13:05.790" style="s2">infecting it is like terror para</p>
+<p begin="00:13:03.570" end="00:13:08.640" style="s2">campaign you enter how many other</p>
+<p begin="00:13:05.790" end="00:13:11.720" style="s2">compares on average you would see and I</p>
+<p begin="00:13:08.640" end="00:13:13.970" style="s2">think that number is very very low</p>
+<p begin="00:13:11.720" end="00:13:16.620" style="s2">Facebook because it&#39;s social media</p>
+<p begin="00:13:13.970" end="00:13:17.460" style="s2">because it&#39;s social you spend a lot of</p>
+<p begin="00:13:16.620" end="00:13:19.230" style="s2">time in there</p>
+<p begin="00:13:17.460" end="00:13:21.780" style="s2">there is a lot of activity and</p>
+<p begin="00:13:19.230" end="00:13:26.010" style="s2">engagement you can do there so you can</p>
+<p begin="00:13:21.780" end="00:13:27.660" style="s2">spend hours in in there and because of</p>
+<p begin="00:13:26.010" end="00:13:30.360" style="s2">that the infecting parameter is much</p>
+<p begin="00:13:27.660" end="00:13:32.580" style="s2">higher you can go you can enter for one</p>
+<p begin="00:13:30.360" end="00:13:34.260" style="s2">group but you can see any other group</p>
+<p begin="00:13:32.580" end="00:13:35.970" style="s2">because you stay there it&#39;s something</p>
+<p begin="00:13:34.260" end="00:13:38.190" style="s2">you can be you can be there you can make</p>
+<p begin="00:13:35.970" end="00:13:41.640" style="s2">conversations four hours a day or four</p>
+<p begin="00:13:38.190" end="00:13:43.620" style="s2">minutes a day and and keep talking start</p>
+<p begin="00:13:41.640" end="00:13:48.150" style="s2">is more like I would spend there ten</p>
+<p begin="00:13:43.620" end="00:13:52.200" style="s2">minutes a months maybe so that&#39;s that&#39;s</p>
+<p begin="00:13:48.150" end="00:13:55.890" style="s2">why that&#39;s why the numbers of people</p>
+<p begin="00:13:52.200" end="00:13:57.390" style="s2">that you&#39;d get exposure to you know</p>
+<p begin="00:13:55.890" end="00:14:01.190" style="s2">people who are already interesting these</p>
+<p begin="00:13:57.390" end="00:14:03.420" style="s2">kind of things would be much higher then</p>
+<p begin="00:14:01.190" end="00:14:05.340" style="s2">then the number you&#39;d get in a</p>
+<p begin="00:14:03.420" end="00:14:08.160" style="s2">crowdfunding campaign and more so the</p>
+<p begin="00:14:05.340" end="00:14:09.360" style="s2">engagement factor the engagement of the</p>
+<p begin="00:14:08.160" end="00:14:12.240" style="s2">user with the platform would be much</p>
+<p begin="00:14:09.360" end="00:14:13.650" style="s2">much higher yeah it&#39;s really it&#39;s really</p>
+<p begin="00:14:12.240" end="00:14:15.750" style="s2">something between the facebooking and</p>
+<p begin="00:14:13.650" end="00:14:17.910" style="s2">Kickstarter but yes of course you can</p>
+<p begin="00:14:15.750" end="00:14:19.740" style="s2">you can still bring your friends you can</p>
+<p begin="00:14:17.910" end="00:14:22.890" style="s2">still share it you know you can share it</p>
+<p begin="00:14:19.740" end="00:14:25.800" style="s2">on Twitter and Facebook and the thing</p>
+<p begin="00:14:22.890" end="00:14:28.560" style="s2">but a big difference is the it&#39;s the</p>
+<p begin="00:14:25.800" end="00:14:30.690" style="s2">potential of virality that you have here</p>
+<p begin="00:14:28.560" end="00:14:32.460" style="s2">because of the group collaboration so if</p>
+<p begin="00:14:30.690" end="00:14:34.980" style="s2">I&#39;m raising of Kickstarter campaign I</p>
+<p begin="00:14:32.460" end="00:14:38.130" style="s2">need to put all of the power to bring</p>
+<p begin="00:14:34.980" end="00:14:40.860" style="s2">10,000 people I need to bring and those</p>
+<p begin="00:14:38.130" end="00:14:42.030" style="s2">people who I share with most of them</p>
+<p begin="00:14:40.860" end="00:14:45.360" style="s2">would not even share it with other</p>
+<p begin="00:14:42.030" end="00:14:46.830" style="s2">friends there it&#39;s not it&#39;s not very not</p>
+<p begin="00:14:45.360" end="00:14:50.340" style="s2">very comfortable to shino to cut like</p>
+<p begin="00:14:46.830" end="00:14:52.890" style="s2">spam people but donating money to</p>
+<p begin="00:14:50.340" end="00:14:55.470" style="s2">someone where here it&#39;s totally</p>
+<p begin="00:14:52.890" end="00:14:58.080" style="s2">different I&#39;m not donating to you if</p>
+<p begin="00:14:55.470" end="00:14:58.710" style="s2">you&#39;re up in common or if I&#39;m open to</p>
+<p begin="00:14:58.080" end="00:15:01.770" style="s2">come right</p>
+<p begin="00:14:58.710" end="00:15:03.570" style="s2">telling you donate money to me I&#39;m</p>
+<p begin="00:15:01.770" end="00:15:06.360" style="s2">telling you I&#39;m putting some money into</p>
+<p begin="00:15:03.570" end="00:15:09.270" style="s2">initiative do you know join it&#39;s totally</p>
+<p begin="00:15:06.360" end="00:15:12.690" style="s2">different dynamics and and if you join</p>
+<p begin="00:15:09.270" end="00:15:15.810" style="s2">me I expect like like any network</p>
+<p begin="00:15:12.690" end="00:15:19.770" style="s2">topology out of a hundred people ninety</p>
+<p begin="00:15:15.810" end="00:15:21.779" style="s2">would be just passive donators but nah</p>
+<p begin="00:15:19.770" end="00:15:24.120" style="s2">and I will be the father the 1% will be</p>
+<p begin="00:15:21.779" end="00:15:27.270" style="s2">maybe the founders or the very super</p>
+<p begin="00:15:24.120" end="00:15:29.070" style="s2">active full-time committed but nine</p>
+<p begin="00:15:27.270" end="00:15:31.260" style="s2">percent would be very very active and</p>
+<p begin="00:15:29.070" end="00:15:33.240" style="s2">they will share it with their friends so</p>
+<p begin="00:15:31.260" end="00:15:35.430" style="s2">I don&#39;t need to bring that of people I</p>
+<p begin="00:15:33.240" end="00:15:37.620" style="s2">need to be just I need to bring just 100</p>
+<p begin="00:15:35.430" end="00:15:41.630" style="s2">people because out of the hundred will</p>
+<p begin="00:15:37.620" end="00:15:44.279" style="s2">become ten active people each of those</p>
+<p begin="00:15:41.630" end="00:15:49.110" style="s2">each of those nine will bring another</p>
+<p begin="00:15:44.279" end="00:15:51.089" style="s2">twenty out of 200 you know 20 will be</p>
+<p begin="00:15:49.110" end="00:15:53.070" style="s2">active each of those 20 will be and so</p>
+<p begin="00:15:51.089" end="00:15:55.800" style="s2">on so forth so so there is much more</p>
+<p begin="00:15:53.070" end="00:16:00.140" style="s2">continuous process you don&#39;t need to</p>
+<p begin="00:15:55.800" end="00:16:04.290" style="s2">generate a huge campaign in order to be</p>
+<p begin="00:16:00.140" end="00:16:05.910" style="s2">you know meaningful you can just as long</p>
+<p begin="00:16:04.290" end="00:16:08.670" style="s2">as you have the reputation in your all</p>
+<p begin="00:16:05.910" end="00:16:11.790" style="s2">think circles quite easily you&#39;ll be</p>
+<p begin="00:16:08.670" end="00:16:13.050" style="s2">able to just roll it out and so that is</p>
+<p begin="00:16:11.790" end="00:16:15.510" style="s2">that&#39;s what I mean by bringing my</p>
+<p begin="00:16:13.050" end="00:16:17.070" style="s2">friends right that I like I&#39;m</p>
+<p begin="00:16:15.510" end="00:16:18.750" style="s2">comfortable starting a campaign and</p>
+<p begin="00:16:17.070" end="00:16:20.220" style="s2">putting it online but the chance is that</p>
+<p begin="00:16:18.750" end="00:16:22.550" style="s2">my friends are the ones who fund it it&#39;s</p>
+<p begin="00:16:20.220" end="00:16:25.560" style="s2">next to zero and then they you know like</p>
+<p begin="00:16:22.550" end="00:16:28.140" style="s2">do I have to rely on my social network</p>
+<p begin="00:16:25.560" end="00:16:29.850" style="s2">or just like on Facebook if I share</p>
+<p begin="00:16:28.140" end="00:16:31.320" style="s2">something and someone shares it I&#39;m</p>
+<p begin="00:16:29.850" end="00:16:32.790" style="s2">gonna get in contact with friends that</p>
+<p begin="00:16:31.320" end="00:16:36.080" style="s2">were never my friends right like it</p>
+<p begin="00:16:32.790" end="00:16:41.060" style="s2">helped it could do marketing for me so a</p>
+<p begin="00:16:36.080" end="00:16:44.070" style="s2">user who cares about various projects is</p>
+<p begin="00:16:41.060" end="00:16:46.800" style="s2">Commons my portal to all of my project</p>
+<p begin="00:16:44.070" end="00:16:48.300" style="s2">so that I have a dashboard to my you</p>
+<p begin="00:16:46.800" end="00:16:50.010" style="s2">know that we&#39;re saving the Amazon and</p>
+<p begin="00:16:48.300" end="00:16:51.690" style="s2">we&#39;re creating this local garden and I</p>
+<p begin="00:16:50.010" end="00:16:53.070" style="s2">can follow those and be as involved as I</p>
+<p begin="00:16:51.690" end="00:16:56.820" style="s2">want and see where I&#39;m putting my money</p>
+<p begin="00:16:53.070" end="00:16:59.459" style="s2">and vote where I want or is it more for</p>
+<p begin="00:16:56.820" end="00:17:01.320" style="s2">the single project funding and it&#39;s to</p>
+<p begin="00:16:59.459" end="00:17:02.970" style="s2">run that and I&#39;d have to like login to</p>
+<p begin="00:17:01.320" end="00:17:05.309" style="s2">each individual one I don&#39;t know it&#39;s</p>
+<p begin="00:17:02.970" end="00:17:07.589" style="s2">totally actually the best would be just</p>
+<p begin="00:17:05.309" end="00:17:08.939" style="s2">to show you that I mean I just have it</p>
+<p begin="00:17:07.589" end="00:17:11.939" style="s2">in mock-ups in about two months it will</p>
+<p begin="00:17:08.939" end="00:17:12.839" style="s2">be free functions it&#39;s already a working</p>
+<p begin="00:17:11.939" end="00:17:14.640" style="s2">version but I don&#39;t have it</p>
+<p begin="00:17:12.839" end="00:17:17.939" style="s2">my phone let me show you some mock-ups</p>
+<p begin="00:17:14.640" end="00:17:20.939" style="s2">it&#39;s totally the second like you you you</p>
+<p begin="00:17:17.939" end="00:17:23.760" style="s2">have like if like you have both like a</p>
+<p begin="00:17:20.939" end="00:17:26.760" style="s2">browser we can Brown we can it&#39;s like a</p>
+<p begin="00:17:23.760" end="00:17:28.529" style="s2">feed of Commons you can get also of</p>
+<p begin="00:17:26.760" end="00:17:30.539" style="s2">Commons to look at but you also have</p>
+<p begin="00:17:28.529" end="00:17:31.799" style="s2">your own feed where you get all of the</p>
+<p begin="00:17:30.539" end="00:17:33.450" style="s2">activities around the commerce you</p>
+<p begin="00:17:31.799" end="00:17:38.429" style="s2">followed or the comments of your friends</p>
+<p begin="00:17:33.450" end="00:17:39.809" style="s2">and so on so forth so we just if you</p>
+<p begin="00:17:38.429" end="00:17:42.179" style="s2">want you can share screen there&#39;s a</p>
+<p begin="00:17:39.809" end="00:17:49.440" style="s2">bottom button that says share scone yeah</p>
+<p begin="00:17:42.179" end="00:18:00.750" style="s2">it&#39;s just loading the I don&#39;t know why</p>
+<p begin="00:17:49.440" end="00:18:02.730" style="s2">it&#39;s not so fastest I think that they&#39;re</p>
+<p begin="00:18:00.750" end="00:18:06.960" style="s2">actually really hit alignment with each</p>
+<p begin="00:18:02.730" end="00:18:10.350" style="s2">other and if so yeah doing solution</p>
+<p begin="00:18:06.960" end="00:18:11.850" style="s2">racing with this app would be huge yeah</p>
+<p begin="00:18:10.350" end="00:18:17.460" style="s2">I think I really think there is like a</p>
+<p begin="00:18:11.850" end="00:18:19.919" style="s2">huge be vacuum in there yeah they I&#39;m a</p>
+<p begin="00:18:17.460" end="00:18:26.399" style="s2">super user of the app there is like 20</p>
+<p begin="00:18:19.919" end="00:18:28.200" style="s2">projects I go to open like every now and</p>
+<p begin="00:18:26.399" end="00:18:30.510" style="s2">then I think oh if I just had this app I</p>
+<p begin="00:18:28.200" end="00:18:32.580" style="s2">will open that project now and I can</p>
+<p begin="00:18:30.510" end="00:18:42.169" style="s2">bring easily 50 people 50 of my friends</p>
+<p begin="00:18:32.580" end="00:18:42.169" style="s2">to join them almost there</p>
+<p begin="00:18:43.800" end="00:19:06.690" style="s2">I don&#39;t know if it&#39;s my internet or okay</p>
+<p begin="00:19:03.830" end="00:19:11.120" style="s2">okay now I start to see the new cops</p>
+<p begin="00:19:06.690" end="00:19:11.120" style="s2">I think my dirt is pretty slow</p>
+<p begin="00:19:14.390" end="00:19:18.660" style="s2">and I mind sometimes has problems during</p>
+<p begin="00:19:16.740" end="00:19:21.200" style="s2">peak periods but seems to be doing</p>
+<p begin="00:19:18.660" end="00:19:21.200" style="s2">alright right now</p>
+<p begin="00:19:22.910" end="00:19:27.750" style="s2">yeah it&#39;s downloading woke up so don&#39;t</p>
+<p begin="00:19:25.800" end="00:19:29.550" style="s2">think like another we just keep talking</p>
+<p begin="00:19:27.750" end="00:19:32.160" style="s2">and like in two minutes I think it will</p>
+<p begin="00:19:29.550" end="00:19:34.590" style="s2">be ready alright I can um I can tell you</p>
+<p begin="00:19:32.160" end="00:19:36.390" style="s2">about our projects and what we&#39;re what</p>
+<p begin="00:19:34.590" end="00:19:38.010" style="s2">we&#39;re up to because I think either one</p>
+<p begin="00:19:36.390" end="00:19:40.020" style="s2">or the other and I&#39;m wondering how they</p>
+<p begin="00:19:38.010" end="00:19:42.330" style="s2">how they mesh together whether we can be</p>
+<p begin="00:19:40.020" end="00:19:44.790" style="s2">using yours come June or July once it&#39;s</p>
+<p begin="00:19:42.330" end="00:19:46.830" style="s2">less beta is beta is June the end of</p>
+<p begin="00:19:44.790" end="00:19:49.490" style="s2">June right but anyway so right now we</p>
+<p begin="00:19:46.830" end="00:19:52.800" style="s2">have together Tech which is our</p>
+<p begin="00:19:49.490" end="00:19:54.870" style="s2">technology cooperative the ideas that we</p>
+<p begin="00:19:52.800" end="00:19:57.690" style="s2">own and operate technology together but</p>
+<p begin="00:19:54.870" end="00:19:58.980" style="s2">because that&#39;s how people are used to</p>
+<p begin="00:19:57.690" end="00:20:00.360" style="s2">they&#39;re used to logging onto Facebook</p>
+<p begin="00:19:58.980" end="00:20:02.610" style="s2">and like it gives me what I want and</p>
+<p begin="00:20:00.360" end="00:20:04.500" style="s2">it&#39;s free it&#39;s not they don&#39;t non tech</p>
+<p begin="00:20:02.610" end="00:20:06.870" style="s2">people don&#39;t necessarily understand what</p>
+<p begin="00:20:04.500" end="00:20:10.740" style="s2">the power of tech is and to own it so</p>
+<p begin="00:20:06.870" end="00:20:12.360" style="s2">what it looks like right now is people</p>
+<p begin="00:20:10.740" end="00:20:14.490" style="s2">with projects people with their own</p>
+<p begin="00:20:12.360" end="00:20:16.500" style="s2">individual projects most of them tech</p>
+<p begin="00:20:14.490" end="00:20:18.060" style="s2">but not all of them bringing their</p>
+<p begin="00:20:16.500" end="00:20:19.350" style="s2">projects and how can we create the</p>
+<p begin="00:20:18.060" end="00:20:21.000" style="s2">infrastructure that supports all of</p>
+<p begin="00:20:19.350" end="00:20:23.250" style="s2">those how can we create common funding</p>
+<p begin="00:20:21.000" end="00:20:25.230" style="s2">common marketing in common you know</p>
+<p begin="00:20:23.250" end="00:20:27.360" style="s2">sharing tools and doing that so that&#39;s</p>
+<p begin="00:20:25.230" end="00:20:28.650" style="s2">what together tech is right now so it&#39;s</p>
+<p begin="00:20:27.360" end="00:20:30.360" style="s2">a bunch of project folders like my</p>
+<p begin="00:20:28.650" end="00:20:33.240" style="s2">brother has wiki election which is going</p>
+<p begin="00:20:30.360" end="00:20:34.770" style="s2">to be like an IMDB for politicians but</p>
+<p begin="00:20:33.240" end="00:20:36.420" style="s2">he&#39;s doing it under like his vision</p>
+<p begin="00:20:34.770" end="00:20:38.880" style="s2">right he&#39;s not necessarily he&#39;s he&#39;s</p>
+<p begin="00:20:36.420" end="00:20:40.170" style="s2">doing as open as he can but he&#39;s taking</p>
+<p begin="00:20:38.880" end="00:20:41.520" style="s2">ownership of it he&#39;s putting the money</p>
+<p begin="00:20:40.170" end="00:20:43.560" style="s2">in and he&#39;s taking the risk and he&#39;s</p>
+<p begin="00:20:41.520" end="00:20:44.760" style="s2">doing all of that and so we&#39;re trying to</p>
+<p begin="00:20:43.560" end="00:20:47.100" style="s2">figure out how to do that with the</p>
+<p begin="00:20:44.760" end="00:20:50.190" style="s2">project holders and then my project</p>
+<p begin="00:20:47.100" end="00:20:52.170" style="s2">under that is solution raising which is</p>
+<p begin="00:20:50.190" end="00:20:53.670" style="s2">a I&#39;m not a tech person I don&#39;t know how</p>
+<p begin="00:20:52.170" end="00:20:54.960" style="s2">to code but my brain comes up with</p>
+<p begin="00:20:53.670" end="00:20:57.510" style="s2">technology that would help the world</p>
+<p begin="00:20:54.960" end="00:20:59.100" style="s2">constantly which is how I&#39;m like we need</p>
+<p begin="00:20:57.510" end="00:21:00.480" style="s2">a technology cooperative so we can just</p>
+<p begin="00:20:59.100" end="00:21:03.420" style="s2">create the best ideas and fund them</p>
+<p begin="00:21:00.480" end="00:21:04.710" style="s2">together and basically do it clément</p>
+<p begin="00:21:03.420" end="00:21:06.240" style="s2">right like fund them together and decide</p>
+<p begin="00:21:04.710" end="00:21:08.280" style="s2">what do we want this to actually be not</p>
+<p begin="00:21:06.240" end="00:21:09.930" style="s2">my vision what does our vision of a food</p>
+<p begin="00:21:08.280" end="00:21:11.820" style="s2">app look like what does our vision of an</p>
+<p begin="00:21:09.930" end="00:21:13.320" style="s2">education have to look like that isn&#39;t</p>
+<p begin="00:21:11.820" end="00:21:18.350" style="s2">one person or a tiny group of people&#39;s</p>
+<p begin="00:21:13.320" end="00:21:22.440" style="s2">vision and so solution raising is my</p>
+<p begin="00:21:18.350" end="00:21:24.600" style="s2">near my most recent iteration of this</p>
+<p begin="00:21:22.440" end="00:21:26.419" style="s2">how do we create solutions together so</p>
+<p begin="00:21:24.600" end="00:21:29.330" style="s2">it&#39;s an hour-long conversation we&#39;ve had</p>
+<p begin="00:21:26.419" end="00:21:30.859" style="s2">nine of them so far and we spend 15</p>
+<p begin="00:21:29.330" end="00:21:32.840" style="s2">minutes talking about what is currently</p>
+<p begin="00:21:30.859" end="00:21:34.249" style="s2">done in that space 15 minutes talking</p>
+<p begin="00:21:32.840" end="00:21:36.049" style="s2">about our ideal version of the future</p>
+<p begin="00:21:34.249" end="00:21:39.109" style="s2">and then a half an hour talking about</p>
+<p begin="00:21:36.049" end="00:21:41.899" style="s2">what we could do right now if we had</p>
+<p begin="00:21:39.109" end="00:21:43.369" style="s2">10,000 people and $100,000 and so we&#39;ve</p>
+<p begin="00:21:41.899" end="00:21:44.720" style="s2">done one on transportation we&#39;ve done</p>
+<p begin="00:21:43.369" end="00:21:46.909" style="s2">one on food we&#39;re gonna do one on</p>
+<p begin="00:21:44.720" end="00:21:51.559" style="s2">packaging and materials this Wednesday</p>
+<p begin="00:21:46.909" end="00:21:56.359" style="s2">last Wednesday was on fragility and but</p>
+<p begin="00:21:51.559" end="00:21:59.570" style="s2">but easy just just understand is it is</p>
+<p begin="00:21:56.359" end="00:22:01.970" style="s2">it the technical solution or right now</p>
+<p begin="00:21:59.570" end="00:22:04.879" style="s2">is it&#39;s a group it&#39;s a particular group</p>
+<p begin="00:22:01.970" end="00:22:06.519" style="s2">thinking about this or it&#39;s anyone who</p>
+<p begin="00:22:04.879" end="00:22:09.919" style="s2">wants to come and have a conversation</p>
+<p begin="00:22:06.519" end="00:22:11.330" style="s2">there&#39;s there&#39;s been between I don&#39;t</p>
+<p begin="00:22:09.919" end="00:22:12.739" style="s2">think I haven&#39;t done one with less than</p>
+<p begin="00:22:11.330" end="00:22:14.289" style="s2">three people so between three and about</p>
+<p begin="00:22:12.739" end="00:22:16.989" style="s2">six people is what we have them with</p>
+<p begin="00:22:14.289" end="00:22:19.669" style="s2">ideally the idea is to come up with a</p>
+<p begin="00:22:16.989" end="00:22:21.739" style="s2">actual process that involves 10,000</p>
+<p begin="00:22:19.669" end="00:22:24.739" style="s2">people so we can&#39;t with an amazing food</p>
+<p begin="00:22:21.739" end="00:22:26.749" style="s2">up but what I want my previous iteration</p>
+<p begin="00:22:24.739" end="00:22:28.340" style="s2">was idea Cafe was an idea on how can we</p>
+<p begin="00:22:26.749" end="00:22:30.470" style="s2">have a hundred people a thousand people</p>
+<p begin="00:22:28.340" end="00:22:34.970" style="s2">having a conversation that&#39;s actually</p>
+<p begin="00:22:30.470" end="00:22:37.220" style="s2">generative and so solution raising is</p>
+<p begin="00:22:34.970" end="00:22:38.869" style="s2">only those five people having that</p>
+<p begin="00:22:37.220" end="00:22:41.330" style="s2">conversation but if there&#39;s a way to</p>
+<p begin="00:22:38.869" end="00:22:43.039" style="s2">have let&#39;s say a hundred people broken</p>
+<p begin="00:22:41.330" end="00:22:44.119" style="s2">into twenty five groups of four and</p>
+<p begin="00:22:43.039" end="00:22:46.159" style="s2">having all of them have that</p>
+<p begin="00:22:44.119" end="00:22:47.749" style="s2">conversation and then taking notes and</p>
+<p begin="00:22:46.159" end="00:22:49.369" style="s2">then you vote on which one&#39;s the best</p>
+<p begin="00:22:47.749" end="00:22:50.919" style="s2">idea right and then you make that one</p>
+<p begin="00:22:49.369" end="00:22:54.259" style="s2">better</p>
+<p begin="00:22:50.919" end="00:22:58.399" style="s2">socializing right now is a conversation</p>
+<p begin="00:22:54.259" end="00:23:01.039" style="s2">or it&#39;s a organization it is just a</p>
+<p begin="00:22:58.399" end="00:23:02.389" style="s2">conversation but eventually yes the</p>
+<p begin="00:23:01.039" end="00:23:04.129" style="s2">ideas we would create tools for</p>
+<p begin="00:23:02.389" end="00:23:06.289" style="s2">conversation because there&#39;s look we</p>
+<p begin="00:23:04.129" end="00:23:08.179" style="s2">have these nine different sectors that</p>
+<p begin="00:23:06.289" end="00:23:10.700" style="s2">we we&#39;ve been able to eat talking for</p>
+<p begin="00:23:08.179" end="00:23:13.759" style="s2">one hour come up with a potential real</p>
+<p begin="00:23:10.700" end="00:23:15.109" style="s2">world changing solution in an hour right</p>
+<p begin="00:23:13.759" end="00:23:16.399" style="s2">we didn&#39;t make it we didn&#39;t we don&#39;t</p>
+<p begin="00:23:15.109" end="00:23:17.869" style="s2">have the ten thousand people we don&#39;t</p>
+<p begin="00:23:16.399" end="00:23:19.399" style="s2">have the hundred thousand dollars but</p>
+<p begin="00:23:17.869" end="00:23:20.539" style="s2">ten thousand people equals a hundred</p>
+<p begin="00:23:19.399" end="00:23:25.429" style="s2">thousand dollars they each put ten</p>
+<p begin="00:23:20.539" end="00:23:28.249" style="s2">dollars in so hearing your idea for car</p>
+<p begin="00:23:25.429" end="00:23:30.440" style="s2">they the Commons I&#39;m like oh can I put</p>
+<p begin="00:23:28.249" end="00:23:34.789" style="s2">and I a solution raising so let&#39;s say</p>
+<p begin="00:23:30.440" end="00:23:37.249" style="s2">have education and then work through</p>
+<p begin="00:23:34.789" end="00:23:39.169" style="s2">that process how do we know what</p>
+<p begin="00:23:37.249" end="00:23:40.310" style="s2">actually comes out the other end cuz I&#39;m</p>
+<p begin="00:23:39.169" end="00:23:42.500" style="s2">more interested in that</p>
+<p begin="00:23:40.310" end="00:23:44.360" style="s2">I don&#39;t I honestly don&#39;t care what</p>
+<p begin="00:23:42.500" end="00:23:45.560" style="s2">education app we make I know if we</p>
+<p begin="00:23:44.360" end="00:23:47.180" style="s2">create it together that&#39;s gonna be way</p>
+<p begin="00:23:45.560" end="00:23:48.770" style="s2">better than any of the for-profit ones</p>
+<p begin="00:23:47.180" end="00:23:50.390" style="s2">that are out there cuz it can start less</p>
+<p begin="00:23:48.770" end="00:23:54.710" style="s2">good and we can iterate it and make it</p>
+<p begin="00:23:50.390" end="00:23:57.050" style="s2">better and better with agile with agile</p>
+<p begin="00:23:54.710" end="00:23:58.610" style="s2">right nothin and having the people</p>
+<p begin="00:23:57.050" end="00:24:01.310" style="s2">involved that are using it and hopefully</p>
+<p begin="00:23:58.610" end="00:24:03.320" style="s2">that brings the UX up because people</p>
+<p begin="00:24:01.310" end="00:24:04.520" style="s2">like me need good UX like I&#39;m not going</p>
+<p begin="00:24:03.320" end="00:24:07.040" style="s2">to use it unless it&#39;s simple and</p>
+<p begin="00:24:04.520" end="00:24:08.390" style="s2">beautiful and if it&#39;s open source it&#39;s a</p>
+<p begin="00:24:07.040" end="00:24:09.860" style="s2">little too complex for me generally</p>
+<p begin="00:24:08.390" end="00:24:12.560" style="s2">speaking most open source stuff even</p>
+<p begin="00:24:09.860" end="00:24:16.340" style="s2">though I love open source the idea that</p>
+<p begin="00:24:12.560" end="00:24:17.840" style="s2">got them yeah so I agree I mean so you</p>
+<p begin="00:24:16.340" end="00:24:20.510" style="s2">cannot you can open a comment to launch</p>
+<p begin="00:24:17.840" end="00:24:23.420" style="s2">an app that benefits the public rather</p>
+<p begin="00:24:20.510" end="00:24:26.360" style="s2">than the its shareholders you can you</p>
+<p begin="00:24:23.420" end="00:24:28.820" style="s2">can you can comment of things about</p>
+<p begin="00:24:26.360" end="00:24:31.490" style="s2">education solutions or yeah basically</p>
+<p begin="00:24:28.820" end="00:24:34.940" style="s2">anything we we right now we don&#39;t</p>
+<p begin="00:24:31.490" end="00:24:36.290" style="s2">provide the technology for the</p>
+<p begin="00:24:34.940" end="00:24:38.740" style="s2">conversation the conversation is just</p>
+<p begin="00:24:36.290" end="00:24:40.520" style="s2">simple conversation not particular</p>
+<p begin="00:24:38.740" end="00:24:42.710" style="s2">conversation might think this will</p>
+<p begin="00:24:40.520" end="00:24:44.660" style="s2">develop over time or you can also have</p>
+<p begin="00:24:42.710" end="00:24:46.730" style="s2">you know if you have if you want to have</p>
+<p begin="00:24:44.660" end="00:24:50.590" style="s2">a more complex conversation you can also</p>
+<p begin="00:24:46.730" end="00:24:52.970" style="s2">have it outside yeah we do provide</p>
+<p begin="00:24:50.590" end="00:24:57.710" style="s2">technology for simple conversation in</p>
+<p begin="00:24:52.970" end="00:24:59.450" style="s2">the app but not like fancy or very you</p>
+<p begin="00:24:57.710" end="00:25:03.470" style="s2">know special conversation for large</p>
+<p begin="00:24:59.450" end="00:25:05.030" style="s2">crowds it&#39;s it&#39;s very similar to the way</p>
+<p begin="00:25:03.470" end="00:25:07.460" style="s2">you do conversation Facebook you can</p>
+<p begin="00:25:05.030" end="00:25:12.830" style="s2">write posts and each has its own common</p>
+<p begin="00:25:07.460" end="00:25:15.110" style="s2">thread and and we both of the app it</p>
+<p begin="00:25:12.830" end="00:25:18.440" style="s2">provides the ability to raise proposals</p>
+<p begin="00:25:15.110" end="00:25:20.480" style="s2">funding proposals and then to you have</p>
+<p begin="00:25:18.440" end="00:25:23.660" style="s2">conversations on those proposals and</p>
+<p begin="00:25:20.480" end="00:25:25.310" style="s2">then people can vote and if it&#39;s gonna</p>
+<p begin="00:25:23.660" end="00:25:28.310" style="s2">if they&#39;re approved then you know the</p>
+<p begin="00:25:25.310" end="00:25:31.580" style="s2">funding is automatically going to the</p>
+<p begin="00:25:28.310" end="00:25:34.100" style="s2">beneficiary school I guess that would be</p>
+<p begin="00:25:31.580" end="00:25:36.050" style="s2">is what order does this take like what</p>
+<p begin="00:25:34.100" end="00:25:37.970" style="s2">order is it take place it like under the</p>
+<p begin="00:25:36.050" end="00:25:39.290" style="s2">under the umbrella of the Amazon right</p>
+<p begin="00:25:37.970" end="00:25:41.360" style="s2">there&#39;s tons of people who want to save</p>
+<p begin="00:25:39.290" end="00:25:43.580" style="s2">the Amazon so I put out the Amazon</p>
+<p begin="00:25:41.360" end="00:25:45.770" style="s2">campaign like you said and then it has</p>
+<p begin="00:25:43.580" end="00:25:49.010" style="s2">it gets 10,000 people I&#39;m just going to</p>
+<p begin="00:25:45.770" end="00:25:50.630" style="s2">say $100,000 that&#39;s where my mind is now</p>
+<p begin="00:25:49.010" end="00:25:53.210" style="s2">do we decide what to do with that money</p>
+<p begin="00:25:50.630" end="00:25:53.870" style="s2">or do I say no I know how to save the</p>
+<p begin="00:25:53.210" end="00:25:56.210" style="s2">Amazon</p>
+<p begin="00:25:53.870" end="00:25:58.700" style="s2">we involve the the local indigenous</p>
+<p begin="00:25:56.210" end="00:26:02.660" style="s2">people they have a policy we want to</p>
+<p begin="00:25:58.700" end="00:26:05.270" style="s2">raise $100,000 to do this ABCD and then</p>
+<p begin="00:26:02.660" end="00:26:06.740" style="s2">fundraise money for it so that&#39;s a</p>
+<p begin="00:26:05.270" end="00:26:10.940" style="s2">really good question</p>
+<p begin="00:26:06.740" end="00:26:12.980" style="s2">you can do both but I think it&#39;s it&#39;s at</p>
+<p begin="00:26:10.940" end="00:26:17.200" style="s2">least at the beginning I would expect</p>
+<p begin="00:26:12.980" end="00:26:19.580" style="s2">that better Commons would place agendas</p>
+<p begin="00:26:17.200" end="00:26:22.370" style="s2">before raising money at least initial</p>
+<p begin="00:26:19.580" end="00:26:26.690" style="s2">agenda the agenda can then be iterated</p>
+<p begin="00:26:22.370" end="00:26:29.660" style="s2">by the common so part of that just as</p>
+<p begin="00:26:26.690" end="00:26:33.429" style="s2">you can just as you can propose a</p>
+<p begin="00:26:29.660" end="00:26:36.770" style="s2">proposal to ten people to vote on that</p>
+<p begin="00:26:33.429" end="00:26:39.050" style="s2">that will trigger funding you can make a</p>
+<p begin="00:26:36.770" end="00:26:41.720" style="s2">proposal to change the agenda so you can</p>
+<p begin="00:26:39.050" end="00:26:43.400" style="s2">propose a change an agenda you can vote</p>
+<p begin="00:26:41.720" end="00:26:46.940" style="s2">on the agenda constantly changing and</p>
+<p begin="00:26:43.400" end="00:26:49.190" style="s2">amend the event agenda so I think they</p>
+<p begin="00:26:46.940" end="00:26:51.380" style="s2">will change but I think that the better</p>
+<p begin="00:26:49.190" end="00:26:53.870" style="s2">common at least at the beginning will</p>
+<p begin="00:26:51.380" end="00:26:56.600" style="s2">start miss the founder I will not just</p>
+<p begin="00:26:53.870" end="00:26:59.120" style="s2">say Amazon will be too vague I would say</p>
+<p begin="00:26:56.600" end="00:27:02.600" style="s2">I think they you know the biggest thing</p>
+<p begin="00:26:59.120" end="00:27:05.270" style="s2">we can do is to buy buy lands and</p>
+<p begin="00:27:02.600" end="00:27:07.730" style="s2">protect them from deforestation so my</p>
+<p begin="00:27:05.270" end="00:27:09.890" style="s2">agenda is to basically buy lands this is</p>
+<p begin="00:27:07.730" end="00:27:11.179" style="s2">like the big goal and for that we want</p>
+<p begin="00:27:09.890" end="00:27:13.550" style="s2">to raise ten million dollars and I&#39;m</p>
+<p begin="00:27:11.179" end="00:27:15.980" style="s2">suggesting do it in four steps stage</p>
+<p begin="00:27:13.550" end="00:27:17.390" style="s2">number one two or three four and so on</p>
+<p begin="00:27:15.980" end="00:27:20.420" style="s2">so forth like I would be like a mission</p>
+<p begin="00:27:17.390" end="00:27:23.000" style="s2">agenda and I think that would be much</p>
+<p begin="00:27:20.420" end="00:27:25.100" style="s2">easier to raise funds to even though it</p>
+<p begin="00:27:23.000" end="00:27:27.080" style="s2">might change the agenda later I mean the</p>
+<p begin="00:27:25.100" end="00:27:28.910" style="s2">commode might change the agenda but</p>
+<p begin="00:27:27.080" end="00:27:30.230" style="s2">still it will be much easier to a great</p>
+<p begin="00:27:28.910" end="00:27:32.870" style="s2">people to into action around the</p>
+<p begin="00:27:30.230" end="00:27:36.710" style="s2">particular agenda even if it&#39;s per</p>
+<p begin="00:27:32.870" end="00:27:38.750" style="s2">Marshall mm-hmm absolutely so um that</p>
+<p begin="00:27:36.710" end="00:27:41.500" style="s2">that part which I kind of saw in the in</p>
+<p begin="00:27:38.750" end="00:27:45.290" style="s2">the presentation that you you sent me</p>
+<p begin="00:27:41.500" end="00:27:48.110" style="s2">was that you can break down like you</p>
+<p begin="00:27:45.290" end="00:27:50.870" style="s2">said the by and they the wine the lands</p>
+<p begin="00:27:48.110" end="00:27:53.150" style="s2">in the Amazon in two different tasks and</p>
+<p begin="00:27:50.870" end="00:27:55.220" style="s2">those tests are kind of broken down as a</p>
+<p begin="00:27:53.150" end="00:27:57.140" style="s2">project like can I get help with that is</p>
+<p begin="00:27:55.220" end="00:27:58.790" style="s2">that what the crowd does also or do I</p>
+<p begin="00:27:57.140" end="00:28:00.230" style="s2">have to do that as my other initial</p>
+<p begin="00:27:58.790" end="00:28:01.240" style="s2">campaign but then people can change it</p>
+<p begin="00:28:00.230" end="00:28:04.490" style="s2">alter it</p>
+<p begin="00:28:01.240" end="00:28:06.600" style="s2">eventually they the common decides how</p>
+<p begin="00:28:04.490" end="00:28:09.690" style="s2">to use the fan so</p>
+<p begin="00:28:06.600" end="00:28:11.580" style="s2">come on so I mean the common could</p>
+<p begin="00:28:09.690" end="00:28:14.280" style="s2">decide on each each and every step or</p>
+<p begin="00:28:11.580" end="00:28:18.140" style="s2">each and every funding practically I</p>
+<p begin="00:28:14.280" end="00:28:21.990" style="s2">think at least it&#39;s in the beginning I</p>
+<p begin="00:28:18.140" end="00:28:26.970" style="s2">think better Commons would have either</p>
+<p begin="00:28:21.990" end="00:28:29.789" style="s2">narrowed down agendas so like I&#39;ll give</p>
+<p begin="00:28:26.970" end="00:28:34.040" style="s2">you example let&#39;s say we want to do we</p>
+<p begin="00:28:29.789" end="00:28:35.360" style="s2">want to do a common for supporting women</p>
+<p begin="00:28:34.040" end="00:28:39.350" style="s2">[Music]</p>
+<p begin="00:28:35.360" end="00:28:42.360" style="s2">enterpreneurship s-- and intrapreneurs a</p>
+<p begin="00:28:39.350" end="00:28:45.380" style="s2">it to basically give grants for women</p>
+<p begin="00:28:42.360" end="00:28:49.530" style="s2">entrepreneurs to start very very early</p>
+<p begin="00:28:45.380" end="00:28:53.940" style="s2">startups before pre pre proceed just</p>
+<p begin="00:28:49.530" end="00:28:55.440" style="s2">grunts so wanna raise by this would not</p>
+<p begin="00:28:53.940" end="00:28:58.470" style="s2">be like 10,000 people it will be more</p>
+<p begin="00:28:55.440" end="00:29:00.390" style="s2">like maybe 500 investors more investors</p>
+<p begin="00:28:58.470" end="00:29:03.179" style="s2">that will raise I don&#39;t know $100,000</p>
+<p begin="00:29:00.390" end="00:29:07.799" style="s2">500 people each put putting two thousand</p>
+<p begin="00:29:03.179" end="00:29:12.210" style="s2">dollars and and generating that grant</p>
+<p begin="00:29:07.799" end="00:29:14.730" style="s2">and then the the the activity is very</p>
+<p begin="00:29:12.210" end="00:29:16.919" style="s2">very narrow down basically the common</p>
+<p begin="00:29:14.730" end="00:29:19.100" style="s2">let&#39;s say just those 500 rest are just</p>
+<p begin="00:29:16.919" end="00:29:22.830" style="s2">speak every month they pick the winning</p>
+<p begin="00:29:19.100" end="00:29:25.799" style="s2">grantee and and because of the mode of</p>
+<p begin="00:29:22.830" end="00:29:30.870" style="s2">action is very very defined it&#39;s very</p>
+<p begin="00:29:25.799" end="00:29:32.640" style="s2">easy to iterate on it so I came for</p>
+<p begin="00:29:30.870" end="00:29:34.590" style="s2">example but basically what I&#39;m saying is</p>
+<p begin="00:29:32.640" end="00:29:35.940" style="s2">that either I think that successful cons</p>
+<p begin="00:29:34.590" end="00:29:38.120" style="s2">at least in the beginning before we</p>
+<p begin="00:29:35.940" end="00:29:42.150" style="s2">developed more infrastructures for</p>
+<p begin="00:29:38.120" end="00:29:44.299" style="s2">decentralized project management I think</p>
+<p begin="00:29:42.150" end="00:29:47.070" style="s2">that the successful comments are either</p>
+<p begin="00:29:44.299" end="00:29:50.010" style="s2">gonna have very particular narrowed down</p>
+<p begin="00:29:47.070" end="00:29:51.870" style="s2">mode of action that would be pretty fine</p>
+<p begin="00:29:50.010" end="00:29:56.460" style="s2">in the beginning so that it will be easy</p>
+<p begin="00:29:51.870" end="00:30:00.179" style="s2">to agree what to do next or it will</p>
+<p begin="00:29:56.460" end="00:30:02.820" style="s2">delegate power for example let&#39;s say we</p>
+<p begin="00:30:00.179" end="00:30:05.850" style="s2">do a common to run a festival so just</p>
+<p begin="00:30:02.820" end="00:30:10.740" style="s2">local local or if or a farmer markets</p>
+<p begin="00:30:05.850" end="00:30:13.049" style="s2">market so we raise the money around the</p>
+<p begin="00:30:10.740" end="00:30:14.309" style="s2">cause but then the actual project</p>
+<p begin="00:30:13.049" end="00:30:17.820" style="s2">management of the cause is quite</p>
+<p begin="00:30:14.309" end="00:30:19.710" style="s2">intricate so someone likely the founder</p>
+<p begin="00:30:17.820" end="00:30:20.519" style="s2">maybe some others are offering</p>
+<p begin="00:30:19.710" end="00:30:22.950" style="s2">themselves</p>
+<p begin="00:30:20.519" end="00:30:24.359" style="s2">I will run the project management I will</p>
+<p begin="00:30:22.950" end="00:30:26.249" style="s2">make it very transparent</p>
+<p begin="00:30:24.359" end="00:30:28.320" style="s2">you know I will ask for each budget that</p>
+<p begin="00:30:26.249" end="00:30:29.820" style="s2">will ask again again I will you know</p>
+<p begin="00:30:28.320" end="00:30:32.070" style="s2">present the result and present the</p>
+<p begin="00:30:29.820" end="00:30:33.779" style="s2">expenses but eventually I will run the</p>
+<p begin="00:30:32.070" end="00:30:35.549" style="s2">project management now the common can</p>
+<p begin="00:30:33.779" end="00:30:38.190" style="s2">fire me at any time and not giving me</p>
+<p begin="00:30:35.549" end="00:30:41.700" style="s2">the next budget or give it somewhere</p>
+<p begin="00:30:38.190" end="00:30:43.080" style="s2">else so yes I think at late stage later</p>
+<p begin="00:30:41.700" end="00:30:44.729" style="s2">I think like you need a year or two</p>
+<p begin="00:30:43.080" end="00:30:46.289" style="s2">years from now I think we would have a</p>
+<p begin="00:30:44.729" end="00:30:48.359" style="s2">tooling for this centralized project</p>
+<p begin="00:30:46.289" end="00:30:50.779" style="s2">management right now because we don&#39;t I</p>
+<p begin="00:30:48.359" end="00:30:52.979" style="s2">think either the motive faction will be</p>
+<p begin="00:30:50.779" end="00:30:54.389" style="s2">sort of like templated we call that</p>
+<p begin="00:30:52.979" end="00:30:56.070" style="s2">template that we have we&#39;ve kind of like</p>
+<p begin="00:30:54.389" end="00:31:00.959" style="s2">categorize different templates for motor</p>
+<p begin="00:30:56.070" end="00:31:03.119" style="s2">factions for Commons or delegated I&#39;d</p>
+<p begin="00:31:00.959" end="00:31:05.459" style="s2">say I&#39;m so happy for this app to exist</p>
+<p begin="00:31:03.119" end="00:31:06.779" style="s2">you put three pots for now I hope that</p>
+<p begin="00:31:05.459" end="00:31:09.119" style="s2">it&#39;s user-friendly enough that I can use</p>
+<p begin="00:31:06.779" end="00:31:11.339" style="s2">it but I&#39;m pretty good to figuring it</p>
+<p begin="00:31:09.119" end="00:31:13.049" style="s2">out unlike the other ones that I won&#39;t</p>
+<p begin="00:31:11.339" end="00:31:14.669" style="s2">even mention that I&#39;m not a fan of every</p>
+<p begin="00:31:13.049" end="00:31:16.769" style="s2">time someone brings them up like no not</p>
+<p begin="00:31:14.669" end="00:31:18.029" style="s2">again not again I don&#39;t want to have to</p>
+<p begin="00:31:16.769" end="00:31:20.459" style="s2">go and learn that but this sounds like</p>
+<p begin="00:31:18.029" end="00:31:22.139" style="s2">both the mission and so one of the</p>
+<p begin="00:31:20.459" end="00:31:23.700" style="s2">questions I have is when you raise money</p>
+<p begin="00:31:22.139" end="00:31:25.799" style="s2">so let&#39;s say we were able to do a</p>
+<p begin="00:31:23.700" end="00:31:27.259" style="s2">solution raising I managed to find</p>
+<p begin="00:31:25.799" end="00:31:29.579" style="s2">10,000 people who care about education</p>
+<p begin="00:31:27.259" end="00:31:31.049" style="s2">they each put ten dollars in we went</p>
+<p begin="00:31:29.579" end="00:31:34.919" style="s2">through this project we created an app</p>
+<p begin="00:31:31.049" end="00:31:39.329" style="s2">that was awesome for education who owns</p>
+<p begin="00:31:34.919" end="00:31:42.419" style="s2">it the 10,000 people evenly is that all</p>
+<p begin="00:31:39.329" end="00:31:44.639" style="s2">decided during the process or it&#39;s owned</p>
+<p begin="00:31:42.419" end="00:31:46.259" style="s2">by the common it&#39;s owned by the co and</p>
+<p begin="00:31:44.639" end="00:31:48.419" style="s2">that&#39;s where the blockchain comes in</p>
+<p begin="00:31:46.259" end="00:31:51.329" style="s2">it&#39;s literally it&#39;s not sitting in</p>
+<p begin="00:31:48.419" end="00:31:54.659" style="s2">anyone&#39;s like it&#39;s controlled by the</p>
+<p begin="00:31:51.329" end="00:31:56.669" style="s2">common mmm-hmm by the tennis people via</p>
+<p begin="00:31:54.659" end="00:31:59.579" style="s2">via gov the governance mechanism we had</p>
+<p begin="00:31:56.669" end="00:32:01.589" style="s2">a vote but it&#39;s not owned by any one of</p>
+<p begin="00:31:59.579" end="00:32:04.409" style="s2">them it&#39;s owned by the common and</p>
+<p begin="00:32:01.589" end="00:32:06.539" style="s2">including so so my I know other people</p>
+<p begin="00:32:04.409" end="00:32:08.459" style="s2">could have the opposite problem but the</p>
+<p begin="00:32:06.539" end="00:32:12.059" style="s2">idea that 10,000 people let&#39;s say we</p>
+<p begin="00:32:08.459" end="00:32:13.859" style="s2">created $100,000 saying there they each</p>
+<p begin="00:32:12.059" end="00:32:15.179" style="s2">know they put in ten dollars and then it</p>
+<p begin="00:32:13.859" end="00:32:17.639" style="s2">goes up to a million dollars they&#39;re</p>
+<p begin="00:32:15.179" end="00:32:19.799" style="s2">like well my money just times to ten no</p>
+<p begin="00:32:17.639" end="00:32:21.479" style="s2">it didn&#39;t because the idea is more</p>
+<p begin="00:32:19.799" end="00:32:24.359" style="s2">people came on board you&#39;re not creating</p>
+<p begin="00:32:21.479" end="00:32:26.159" style="s2">something to gain a profit you&#39;re</p>
+<p begin="00:32:24.359" end="00:32:29.219" style="s2">creating something for purpose and so</p>
+<p begin="00:32:26.159" end="00:32:32.039" style="s2">the next 10,000 to come on board have as</p>
+<p begin="00:32:29.219" end="00:32:34.350" style="s2">much say as the previous ones right that</p>
+<p begin="00:32:32.039" end="00:32:35.429" style="s2">it&#39;s not you&#39;re not deluding it</p>
+<p begin="00:32:34.350" end="00:32:37.289" style="s2">because you&#39;re if you&#39;re bringing your</p>
+<p begin="00:32:35.429" end="00:32:39.210" style="s2">ideas on board awesome right like you&#39;re</p>
+<p begin="00:32:37.289" end="00:32:41.010" style="s2">the next yo it&#39;s a social media that&#39;s</p>
+<p begin="00:32:39.210" end="00:32:43.650" style="s2">like more people come on board better it</p>
+<p begin="00:32:41.010" end="00:32:45.570" style="s2">is but I also on there have no ownership</p>
+<p begin="00:32:43.650" end="00:32:47.460" style="s2">like in a Kickstarter account right like</p>
+<p begin="00:32:45.570" end="00:32:50.910" style="s2">it&#39;s like listen this is ours it&#39;s the</p>
+<p begin="00:32:47.460" end="00:32:54.720" style="s2">Commons and it&#39;s so is Commons owned by</p>
+<p begin="00:32:50.910" end="00:32:57.799" style="s2">the common then you mean you asking</p>
+<p begin="00:32:54.720" end="00:33:02.309" style="s2">you&#39;re asking if the Commons app is all</p>
+<p begin="00:32:57.799" end="00:33:04.830" style="s2">yeah yeah eventually that - yeah I mean</p>
+<p begin="00:33:02.309" end="00:33:07.049" style="s2">that right now it&#39;s it&#39;s I mean we</p>
+<p begin="00:33:04.830" end="00:33:08.490" style="s2">that&#39;s that&#39;s where I told you that we</p>
+<p begin="00:33:07.049" end="00:33:10.980" style="s2">are compromising with the technologies</p>
+<p begin="00:33:08.490" end="00:33:12.809" style="s2">right now technology is still somewhat</p>
+<p begin="00:33:10.980" end="00:33:15.000" style="s2">centralized partly decentralized</p>
+<p begin="00:33:12.809" end="00:33:16.919" style="s2">somewhat centralized and we will be</p>
+<p begin="00:33:15.000" end="00:33:19.559" style="s2">running that centralized we&#39;re like part</p>
+<p begin="00:33:16.919" end="00:33:21.120" style="s2">the servers but eventually it will be</p>
+<p begin="00:33:19.559" end="00:33:22.380" style="s2">fully decentralized yes the food the app</p>
+<p begin="00:33:21.120" end="00:33:24.740" style="s2">itself will be decentralized and</p>
+<p begin="00:33:22.380" end="00:33:26.340" style="s2">controlled by the Commons exactly mm-hmm</p>
+<p begin="00:33:24.740" end="00:33:29.730" style="s2">I&#39;m excited</p>
+<p begin="00:33:26.340" end="00:33:33.740" style="s2">yeah I can show you yeah right now we</p>
+<p begin="00:33:29.730" end="00:33:36.270" style="s2">start with one man one vote and simple</p>
+<p begin="00:33:33.740" end="00:33:38.220" style="s2">we can also do variation on that what we</p>
+<p begin="00:33:36.270" end="00:33:46.380" style="s2">want to start simple</p>
+<p begin="00:33:38.220" end="00:33:47.880" style="s2">let me yes sure screen it all should pop</p>
+<p begin="00:33:46.380" end="00:33:49.860" style="s2">up at the corner I&#39;ll have to add it so</p>
+<p begin="00:33:47.880" end="00:33:53.549" style="s2">you can let me know and you want about</p>
+<p begin="00:33:49.860" end="00:33:55.200" style="s2">it it&#39;ll like be a third participant</p>
+<p begin="00:33:53.549" end="00:33:56.490" style="s2">there you go let me to add it so you can</p>
+<p begin="00:33:55.200" end="00:33:57.659" style="s2">see it or can you see it on yours so</p>
+<p begin="00:33:56.490" end="00:33:59.159" style="s2">that is right now I&#39;m just showing us</p>
+<p begin="00:33:57.659" end="00:34:00.299" style="s2">you can put it up on your screen and</p>
+<p begin="00:33:59.159" end="00:34:08.869" style="s2">then I&#39;ll put it up if that makes sense</p>
+<p begin="00:34:00.299" end="00:34:12.929" style="s2">yeah please good all right all right</p>
+<p begin="00:34:08.869" end="00:34:15.330" style="s2">yeah we see the movies here to be easier</p>
+<p begin="00:34:12.929" end="00:34:18.060" style="s2">yeah so so for example as I said before</p>
+<p begin="00:34:15.330" end="00:34:23.280" style="s2">like you have this sort of like the</p>
+<p begin="00:34:18.060" end="00:34:25.770" style="s2">notion of exploring Commons so you can</p>
+<p begin="00:34:23.280" end="00:34:28.520" style="s2">see sort of Commons and you know the</p>
+<p begin="00:34:25.770" end="00:34:32.190" style="s2">data of those Commons the funding goal</p>
+<p begin="00:34:28.520" end="00:34:34.050" style="s2">how much was fun founded already and in</p>
+<p begin="00:34:32.190" end="00:34:37.139" style="s2">the timeline for the first funding goal</p>
+<p begin="00:34:34.050" end="00:34:39.300" style="s2">the funding doesn&#39;t end at a timeline</p>
+<p begin="00:34:37.139" end="00:34:42.899" style="s2">but this is kind of like the talent to</p>
+<p begin="00:34:39.300" end="00:34:47.300" style="s2">complete at least some amount otherwise</p>
+<p begin="00:34:42.899" end="00:34:47.300" style="s2">the money goes back to the donors</p>
+<p begin="00:34:48.379" end="00:34:53.460" style="s2">anyway so this is this is one part there</p>
+<p begin="00:34:51.929" end="00:34:56.070" style="s2">is like the creation of the common which</p>
+<p begin="00:34:53.460" end="00:34:58.200" style="s2">is very easy just just step by step</p>
+<p begin="00:34:56.070" end="00:35:00.000" style="s2">creation of the common like helping you</p>
+<p begin="00:34:58.200" end="00:35:02.849" style="s2">to understand what economy is and how to</p>
+<p begin="00:35:00.000" end="00:35:06.570" style="s2">how to build it to have like like the</p>
+<p begin="00:35:02.849" end="00:35:08.310" style="s2">common in the description just some data</p>
+<p begin="00:35:06.570" end="00:35:10.320" style="s2">about the funding the agenda of the</p>
+<p begin="00:35:08.310" end="00:35:12.990" style="s2">common in the beginning we would like to</p>
+<p begin="00:35:10.320" end="00:35:20.400" style="s2">help co-founders you know to build good</p>
+<p begin="00:35:12.990" end="00:35:24.380" style="s2">agendas solid content then of course</p>
+<p begin="00:35:20.400" end="00:35:24.380" style="s2">resolves the log in creating account</p>
+<p begin="00:35:25.070" end="00:35:31.800" style="s2">yeah member profile or each member</p>
+<p begin="00:35:29.369" end="00:35:36.300" style="s2">profile you can see each member you can</p>
+<p begin="00:35:31.800" end="00:35:38.460" style="s2">see you know the comma the Commons this</p>
+<p begin="00:35:36.300" end="00:35:40.440" style="s2">is this would be changing that was</p>
+<p begin="00:35:38.460" end="00:35:43.470" style="s2">commerce the commerce site that is she&#39;s</p>
+<p begin="00:35:40.440" end="00:35:45.570" style="s2">part of the proposal she made each</p>
+<p begin="00:35:43.470" end="00:35:48.869" style="s2">common would have its own mini profile</p>
+<p begin="00:35:45.570" end="00:35:51.390" style="s2">that that you could see just by hovering</p>
+<p begin="00:35:48.869" end="00:35:55.950" style="s2">I mean just by clicking in the browser</p>
+<p begin="00:35:51.390" end="00:35:57.810" style="s2">and then you can enter it and see the</p>
+<p begin="00:35:55.950" end="00:35:59.730" style="s2">full agenda of the common you can see</p>
+<p begin="00:35:57.810" end="00:36:04.349" style="s2">the conversation that the company is</p>
+<p begin="00:35:59.730" end="00:36:07.650" style="s2">having so the the conversation the</p>
+<p begin="00:36:04.349" end="00:36:11.820" style="s2">funding proposals this you know although</p>
+<p begin="00:36:07.650" end="00:36:13.740" style="s2">opera proposal right now the</p>
+<p begin="00:36:11.820" end="00:36:16.200" style="s2">conversation looks like this this is the</p>
+<p begin="00:36:13.740" end="00:36:18.089" style="s2">conversation like so like instead like</p>
+<p begin="00:36:16.200" end="00:36:20.490" style="s2">something like Facebook basically post</p>
+<p begin="00:36:18.089" end="00:36:22.710" style="s2">by the way these are not yet some of</p>
+<p begin="00:36:20.490" end="00:36:25.740" style="s2">some of them are designed something some</p>
+<p begin="00:36:22.710" end="00:36:27.210" style="s2">of them are not final yet like this one</p>
+<p begin="00:36:25.740" end="00:36:29.070" style="s2">for example would still be designed I</p>
+<p begin="00:36:27.210" end="00:36:31.680" style="s2">mean all of them will be redesigned in</p>
+<p begin="00:36:29.070" end="00:36:33.750" style="s2">terms of like more flavor more better</p>
+<p begin="00:36:31.680" end="00:36:35.460" style="s2">design but yeah but many of them are</p>
+<p begin="00:36:33.750" end="00:36:38.670" style="s2">already in terms of why friends already</p>
+<p begin="00:36:35.460" end="00:36:40.200" style="s2">completed so this to be like a</p>
+<p begin="00:36:38.670" end="00:36:44.400" style="s2">conversation commenting on each</p>
+<p begin="00:36:40.200" end="00:36:46.950" style="s2">conversation yeah I would seem to be</p>
+<p begin="00:36:44.400" end="00:36:49.830" style="s2">able to see the members of the common</p>
+<p begin="00:36:46.950" end="00:36:53.790" style="s2">the new members that are requesting to</p>
+<p begin="00:36:49.830" end="00:36:55.109" style="s2">join even the approval of new members</p>
+<p begin="00:36:53.790" end="00:36:57.030" style="s2">would be decentralized so the common</p>
+<p begin="00:36:55.109" end="00:36:58.370" style="s2">each each each new member is approved by</p>
+<p begin="00:36:57.030" end="00:37:00.590" style="s2">the common you</p>
+<p begin="00:36:58.370" end="00:37:01.910" style="s2">you have an agenda you have a course of</p>
+<p begin="00:37:00.590" end="00:37:04.970" style="s2">action for example here in the course of</p>
+<p begin="00:37:01.910" end="00:37:07.430" style="s2">action you might be detailing the way</p>
+<p begin="00:37:04.970" end="00:37:11.120" style="s2">that you&#39;re suggesting the college</p>
+<p begin="00:37:07.430" end="00:37:13.430" style="s2">should act with now of course once you</p>
+<p begin="00:37:11.120" end="00:37:16.280" style="s2">once you have the funding in the COBOL</p>
+<p begin="00:37:13.430" end="00:37:19.160" style="s2">can vote and approve anything so this</p>
+<p begin="00:37:16.280" end="00:37:21.620" style="s2">course of action is not binding but it</p>
+<p begin="00:37:19.160" end="00:37:22.640" style="s2">since all people join the common with</p>
+<p begin="00:37:21.620" end="00:37:25.010" style="s2">this course faction</p>
+<p begin="00:37:22.640" end="00:37:26.570" style="s2">it&#39;s very likely that they&#39;re supported</p>
+<p begin="00:37:25.010" end="00:37:35.320" style="s2">so it&#39;s kind of like will already be</p>
+<p begin="00:37:26.570" end="00:37:37.460" style="s2">sort of like the default yeah so this is</p>
+<p begin="00:37:35.320" end="00:37:48.710" style="s2">yeah this will be like funny proposal</p>
+<p begin="00:37:37.460" end="00:37:50.060" style="s2">how funny puzzle will look like here</p>
+<p begin="00:37:48.710" end="00:37:53.930" style="s2">I&#39;ll see the cost at the top that says</p>
+<p begin="00:37:50.060" end="00:37:56.360" style="s2">200 is that like per person or is that</p>
+<p begin="00:37:53.930" end="00:37:58.310" style="s2">what they need overall no there&#39;s there</p>
+<p begin="00:37:56.360" end="00:38:00.230" style="s2">is no nothing nothing here happens per</p>
+<p begin="00:37:58.310" end="00:38:02.090" style="s2">person it&#39;s basically by the way I think</p>
+<p begin="00:38:00.230" end="00:38:04.840" style="s2">the word cost is not good because these</p>
+<p begin="00:38:02.090" end="00:38:07.460" style="s2">are still not is haven&#39;t yet been</p>
+<p begin="00:38:04.840" end="00:38:10.670" style="s2">finalized but basically this is just the</p>
+<p begin="00:38:07.460" end="00:38:14.690" style="s2">amount of funds that the the requester</p>
+<p begin="00:38:10.670" end="00:38:17.960" style="s2">is asking from the common so it&#39;s always</p>
+<p begin="00:38:14.690" end="00:38:20.390" style="s2">coming the body get gets into the</p>
+<p begin="00:38:17.960" end="00:38:22.400" style="s2">comment by the individuals once the</p>
+<p begin="00:38:20.390" end="00:38:24.830" style="s2">money got into the common the money is</p>
+<p begin="00:38:22.400" end="00:38:27.500" style="s2">owned and managed and controlled by the</p>
+<p begin="00:38:24.830" end="00:38:29.270" style="s2">entire come on and then you can request</p>
+<p begin="00:38:27.500" end="00:38:31.760" style="s2">money from the company in order to do</p>
+<p begin="00:38:29.270" end="00:38:37.610" style="s2">something for that for the benefit of</p>
+<p begin="00:38:31.760" end="00:38:39.560" style="s2">that goal so you can run a campaign and</p>
+<p begin="00:38:37.610" end="00:38:41.540" style="s2">ask for the cost of the campaign and</p>
+<p begin="00:38:39.560" end="00:38:44.120" style="s2">then run the campaign on behalf of the</p>
+<p begin="00:38:41.540" end="00:38:48.680" style="s2">common benefit for the benefit of common</p>
+<p begin="00:38:44.120" end="00:38:50.270" style="s2">or you can purchase land or yeah I mean</p>
+<p begin="00:38:48.680" end="00:38:52.310" style="s2">you can be a nonprofit that is basically</p>
+<p begin="00:38:50.270" end="00:38:57.230" style="s2">purchasing land for that come on or or</p>
+<p begin="00:38:52.310" end="00:39:02.710" style="s2">or it can be a you know buying buying</p>
+<p begin="00:38:57.230" end="00:39:05.780" style="s2">buying seeds to make a big planting</p>
+<p begin="00:39:02.710" end="00:39:09.670" style="s2">activity or whatever the cause that you</p>
+<p begin="00:39:05.780" end="00:39:09.670" style="s2">were promoting to begin with</p>
+<p begin="00:39:15.070" end="00:39:20.540" style="s2">do you have a picture of like what my</p>
+<p begin="00:39:19.010" end="00:39:21.830" style="s2">dashboard would look like not as</p>
+<p begin="00:39:20.540" end="00:39:23.150" style="s2">somebody who has a project but as</p>
+<p begin="00:39:21.830" end="00:39:27.590" style="s2">somebody who&#39;s involved with many</p>
+<p begin="00:39:23.150" end="00:39:32.120" style="s2">projects uh okay now I understand your</p>
+<p begin="00:39:27.590" end="00:39:34.640" style="s2">question yeah so we this is so firstly</p>
+<p begin="00:39:32.120" end="00:39:36.980" style="s2">there are two things that are somewhat</p>
+<p begin="00:39:34.640" end="00:39:38.450" style="s2">related but not exactly a dashboard but</p>
+<p begin="00:39:36.980" end="00:39:41.600" style="s2">this is a good question I&#39;ll tell you</p>
+<p begin="00:39:38.450" end="00:39:43.490" style="s2">what something about that so this here</p>
+<p begin="00:39:41.600" end="00:39:46.070" style="s2">you can see all of the cones that you</p>
+<p begin="00:39:43.490" end="00:39:48.920" style="s2">can explore like the suggested comments</p>
+<p begin="00:39:46.070" end="00:39:51.680" style="s2">but you&#39;ll also see your comments my</p>
+<p begin="00:39:48.920" end="00:39:53.030" style="s2">commands mm-hmm so you can basically see</p>
+<p begin="00:39:51.680" end="00:39:57.560" style="s2">you can scroll between all of the</p>
+<p begin="00:39:53.030" end="00:39:58.640" style="s2">comments that you are part of and each</p>
+<p begin="00:39:57.560" end="00:40:01.130" style="s2">of them you can see kind of like the</p>
+<p begin="00:39:58.640" end="00:40:03.620" style="s2">high level details of it but it&#39;s not</p>
+<p begin="00:40:01.130" end="00:40:05.630" style="s2">really a dashboard and the other thing</p>
+<p begin="00:40:03.620" end="00:40:08.030" style="s2">that is somewhat similar is a feed this</p>
+<p begin="00:40:05.630" end="00:40:10.130" style="s2">is my field where you see a stream of</p>
+<p begin="00:40:08.030" end="00:40:12.380" style="s2">activity in all of your the covers that</p>
+<p begin="00:40:10.130" end="00:40:14.510" style="s2">you are part of and this is exactly</p>
+<p begin="00:40:12.380" end="00:40:17.720" style="s2">exactly a good question which we talked</p>
+<p begin="00:40:14.510" end="00:40:19.640" style="s2">about I mean whether whether this feels</p>
+<p begin="00:40:17.720" end="00:40:24.470" style="s2">more like a dashboard view or like a</p>
+<p begin="00:40:19.640" end="00:40:29.810" style="s2">feed view and I think I think feed view</p>
+<p begin="00:40:24.470" end="00:40:31.460" style="s2">is more it&#39;s a good question means</p>
+<p begin="00:40:29.810" end="00:40:34.460" style="s2">question we had a lot of debates about I</p>
+<p begin="00:40:31.460" end="00:40:37.880" style="s2">mean feed is usually used for something</p>
+<p begin="00:40:34.460" end="00:40:41.050" style="s2">that has a very high stream so social</p>
+<p begin="00:40:37.880" end="00:40:43.660" style="s2">activity conversations very large groups</p>
+<p begin="00:40:41.050" end="00:40:45.680" style="s2">usually tend to fit more like feeds and</p>
+<p begin="00:40:43.660" end="00:40:48.110" style="s2">dashboard is something that you is maybe</p>
+<p begin="00:40:45.680" end="00:40:52.010" style="s2">slightly smaller and more organized</p>
+<p begin="00:40:48.110" end="00:40:55.610" style="s2">groups more like running a company for</p>
+<p begin="00:40:52.010" end="00:40:57.050" style="s2">example would be a dashboard so here</p>
+<p begin="00:40:55.610" end="00:40:58.550" style="s2">it&#39;s somewhere in between because it&#39;s</p>
+<p begin="00:40:57.050" end="00:41:00.290" style="s2">somewhat in some in one in some sense</p>
+<p begin="00:40:58.550" end="00:41:02.630" style="s2">it&#39;s organizations but it&#39;s the same</p>
+<p begin="00:41:00.290" end="00:41:04.640" style="s2">time it&#39;s very very big organizations in</p>
+<p begin="00:41:02.630" end="00:41:08.060" style="s2">many organizations and many</p>
+<p begin="00:41:04.640" end="00:41:11.270" style="s2">conversations and many proposals so I&#39;m</p>
+<p begin="00:41:08.060" end="00:41:12.620" style="s2">not sure if dashboard would fit so but</p>
+<p begin="00:41:11.270" end="00:41:15.680" style="s2">this is a big question we had actually a</p>
+<p begin="00:41:12.620" end="00:41:17.930" style="s2">lot of good recession about it whether</p>
+<p begin="00:41:15.680" end="00:41:19.910" style="s2">we should have a feed view or a</p>
+<p begin="00:41:17.930" end="00:41:22.130" style="s2">dashboard view</p>
+<p begin="00:41:19.910" end="00:41:23.720" style="s2">and eventually word with a feed view but</p>
+<p begin="00:41:22.130" end="00:41:25.790" style="s2">this is something we will discover maybe</p>
+<p begin="00:41:23.720" end="00:41:27.800" style="s2">we will discover that fetus is not the</p>
+<p begin="00:41:25.790" end="00:41:30.800" style="s2">right structure and we&#39;ll change it to a</p>
+<p begin="00:41:27.800" end="00:41:32.480" style="s2">dashboard but wondering like how the</p>
+<p begin="00:41:30.800" end="00:41:34.220" style="s2">reason I&#39;m interested in dashboard is I</p>
+<p begin="00:41:32.480" end="00:41:36.740" style="s2">want to know it&#39;s if I&#39;m involved in</p>
+<p begin="00:41:34.220" end="00:41:38.150" style="s2">many projects where they are right which</p>
+<p begin="00:41:36.740" end="00:41:39.980" style="s2">ones like the next one to launch what am</p>
+<p begin="00:41:38.150" end="00:41:41.599" style="s2">i voting on what&#39;s up for voting on all</p>
+<p begin="00:41:39.980" end="00:41:43.790" style="s2">of these if I care about voting so I can</p>
+<p begin="00:41:41.599" end="00:41:45.650" style="s2">kind of take a more peripheral you know</p>
+<p begin="00:41:43.790" end="00:41:47.510" style="s2">like put 10 bucks a month into like 10</p>
+<p begin="00:41:45.650" end="00:41:50.210" style="s2">different campaigns but take more of a</p>
+<p begin="00:41:47.510" end="00:41:54.380" style="s2">peripheral right right</p>
+<p begin="00:41:50.210" end="00:41:56.900" style="s2">so the yeah and so firstly you do have</p>
+<p begin="00:41:54.380" end="00:42:00.619" style="s2">you do have the data so for example when</p>
+<p begin="00:41:56.900" end="00:42:03.290" style="s2">you enter when you enter in each comment</p>
+<p begin="00:42:00.619" end="00:42:06.050" style="s2">and you have your comments right you</p>
+<p begin="00:42:03.290" end="00:42:09.200" style="s2">have your comments and then when you</p>
+<p begin="00:42:06.050" end="00:42:15.170" style="s2">enter the common when you enter this you</p>
+<p begin="00:42:09.200" end="00:42:16.910" style="s2">go over here and here you can see all</p>
+<p begin="00:42:15.170" end="00:42:20.690" style="s2">the proposals that right now are active</p>
+<p begin="00:42:16.910" end="00:42:22.520" style="s2">in that comment for example or later</p>
+<p begin="00:42:20.690" end="00:42:24.560" style="s2">this is this would be the history the</p>
+<p begin="00:42:22.520" end="00:42:27.829" style="s2">thing that were already approved here</p>
+<p begin="00:42:24.560" end="00:42:30.230" style="s2">history and I mean and later you&#39;ll also</p>
+<p begin="00:42:27.829" end="00:42:33.650" style="s2">see the statuses of the activity that</p>
+<p begin="00:42:30.230" end="00:42:35.329" style="s2">was triggered by that approval so in</p>
+<p begin="00:42:33.650" end="00:42:37.250" style="s2">some sense this is the dashboard of the</p>
+<p begin="00:42:35.329" end="00:42:39.530" style="s2">comment of each comment separately but</p>
+<p begin="00:42:37.250" end="00:42:42.470" style="s2">there is no one dashboard for all of</p>
+<p begin="00:42:39.530" end="00:42:44.869" style="s2">your comments so there each H cone has</p>
+<p begin="00:42:42.470" end="00:42:47.300" style="s2">its own dashboard of where it is right</p>
+<p begin="00:42:44.869" end="00:42:48.770" style="s2">now but it&#39;s not there is no one</p>
+<p begin="00:42:47.300" end="00:42:50.390" style="s2">centralized dashboard for all of them</p>
+<p begin="00:42:48.770" end="00:42:51.740" style="s2">and that&#39;s why the feed gives you an</p>
+<p begin="00:42:50.390" end="00:42:54.680" style="s2">also later notification you do have</p>
+<p begin="00:42:51.740" end="00:42:59.180" style="s2">notifications the feed basically brings</p>
+<p begin="00:42:54.680" end="00:43:01.880" style="s2">to you the more all of the most</p>
+<p begin="00:42:59.180" end="00:43:04.460" style="s2">interesting activities around your cones</p>
+<p begin="00:43:01.880" end="00:43:07.160" style="s2">so for example the the new proposal that</p>
+<p begin="00:43:04.460" end="00:43:09.020" style="s2">you could vote on or I mean there will</p>
+<p begin="00:43:07.160" end="00:43:11.089" style="s2">be Y my fitness with modifications so</p>
+<p begin="00:43:09.020" end="00:43:13.220" style="s2">you get notified all of the proposals</p>
+<p begin="00:43:11.089" end="00:43:15.890" style="s2">that around your common that you are</p>
+<p begin="00:43:13.220" end="00:43:17.900" style="s2">waiting for your voting so basically the</p>
+<p begin="00:43:15.890" end="00:43:20.000" style="s2">FINA notification will aggregate all the</p>
+<p begin="00:43:17.900" end="00:43:22.130" style="s2">activity towards you rather than you</p>
+<p begin="00:43:20.000" end="00:43:24.020" style="s2">sitting on the stack that&#39;s a difference</p>
+<p begin="00:43:22.130" end="00:43:27.530" style="s2">between a static dashboard and a</p>
+<p begin="00:43:24.020" end="00:43:29.150" style="s2">streamlined notification or acting or</p>
+<p begin="00:43:27.530" end="00:43:32.460" style="s2">feed</p>
+<p begin="00:43:29.150" end="00:43:34.110" style="s2">so but well yeah okay so again so this</p>
+<p begin="00:43:32.460" end="00:43:36.060" style="s2">is it this is a good question maybe</p>
+<p begin="00:43:34.110" end="00:43:38.190" style="s2">maybe we&#39;ll find out - what is it better</p>
+<p begin="00:43:36.060" end="00:43:40.050" style="s2">view mm-hmm because I know like I&#39;m</p>
+<p begin="00:43:38.190" end="00:43:42.320" style="s2">thinking of the two feeds that I know</p>
+<p begin="00:43:40.050" end="00:43:45.000" style="s2">which your Facebook and Twitter and</p>
+<p begin="00:43:42.320" end="00:43:46.950" style="s2">under neither of them are great from a</p>
+<p begin="00:43:45.000" end="00:43:48.750" style="s2">user standpoint right they&#39;re both there</p>
+<p begin="00:43:46.950" end="00:43:50.190" style="s2">to make Twitter and Facebook money and</p>
+<p begin="00:43:48.750" end="00:43:51.960" style="s2">and eyeballs they&#39;re not there to</p>
+<p begin="00:43:50.190" end="00:43:54.630" style="s2">actually help me get my message out or</p>
+<p begin="00:43:51.960" end="00:43:57.060" style="s2">find out what&#39;s happening into people&#39;s</p>
+<p begin="00:43:54.630" end="00:44:02.760" style="s2">lives I care about or something and so</p>
+<p begin="00:43:57.060" end="00:44:04.830" style="s2">um I guess like how do I know like</p>
+<p begin="00:44:02.760" end="00:44:06.930" style="s2">what&#39;s in my feed right like on Twitter</p>
+<p begin="00:44:04.830" end="00:44:08.820" style="s2">if you don&#39;t see it right away and no</p>
+<p begin="00:44:06.930" end="00:44:10.230" style="s2">one&#39;s gonna see it right like it&#39;s about</p>
+<p begin="00:44:08.820" end="00:44:12.330" style="s2">kind of the instantaneous whereas</p>
+<p begin="00:44:10.230" end="00:44:14.280" style="s2">Facebook&#39;s kind of kind of the opposite</p>
+<p begin="00:44:12.330" end="00:44:15.900" style="s2">where it&#39;s about the number of eyes</p>
+<p begin="00:44:14.280" end="00:44:17.580" style="s2">who&#39;ve seen it and engaged in it so is</p>
+<p begin="00:44:15.900" end="00:44:18.930" style="s2">Twitter but it&#39;s different like Facebook</p>
+<p begin="00:44:17.580" end="00:44:20.340" style="s2">you&#39;ll get people liking stuff and</p>
+<p begin="00:44:18.930" end="00:44:21.870" style="s2">commenting four days later that</p>
+<p begin="00:44:20.340" end="00:44:24.180" style="s2">generally doesn&#39;t happen on Twitter but</p>
+<p begin="00:44:21.870" end="00:44:26.550" style="s2">either option I can click on the thing</p>
+<p begin="00:44:24.180" end="00:44:27.960" style="s2">in my feed and go to their profile and I</p>
+<p begin="00:44:26.550" end="00:44:30.210" style="s2">could see everything they said if I</p>
+<p begin="00:44:27.960" end="00:44:31.500" style="s2">wanted to so it&#39;s still Ritter but I&#39;m</p>
+<p begin="00:44:30.210" end="00:44:34.710" style="s2">running their note and do that unless</p>
+<p begin="00:44:31.500" end="00:44:36.450" style="s2">it&#39;s in my feed right so likewise here</p>
+<p begin="00:44:34.710" end="00:44:37.920" style="s2">you once you click on the comment it can</p>
+<p begin="00:44:36.450" end="00:44:40.440" style="s2">go and see or think about all of</p>
+<p begin="00:44:37.920" end="00:44:42.510" style="s2">everything happens in the common the</p>
+<p begin="00:44:40.440" end="00:44:48.390" style="s2">feed is kind of organized I mean we</p>
+<p begin="00:44:42.510" end="00:44:51.900" style="s2">haven&#39;t yet drilled down into the what</p>
+<p begin="00:44:48.390" end="00:44:53.940" style="s2">what you know what and how things should</p>
+<p begin="00:44:51.900" end="00:44:55.380" style="s2">flow in the feed but generally the</p>
+<p begin="00:44:53.940" end="00:44:58.530" style="s2">purpose is to show you the most</p>
+<p begin="00:44:55.380" end="00:45:02.610" style="s2">interesting I mean here we don&#39;t have</p>
+<p begin="00:44:58.530" end="00:45:04.800" style="s2">any issue with eyeballs so the purpose</p>
+<p begin="00:45:02.610" end="00:45:06.180" style="s2">is not to create the most eyeballs the</p>
+<p begin="00:45:04.800" end="00:45:07.680" style="s2">correct purpose it&#39;s create the most</p>
+<p begin="00:45:06.180" end="00:45:10.440" style="s2">engagement for the thing that you want</p>
+<p begin="00:45:07.680" end="00:45:12.810" style="s2">to engage me yeah and so what are the</p>
+<p begin="00:45:10.440" end="00:45:15.210" style="s2">ways that I can engage as someone who if</p>
+<p begin="00:45:12.810" end="00:45:16.770" style="s2">I&#39;m just a user and I&#39;m not gonna be</p>
+<p begin="00:45:15.210" end="00:45:18.390" style="s2">putting in any campaigns let&#39;s say I&#39;m</p>
+<p begin="00:45:16.770" end="00:45:19.410" style="s2">just like a funder on Kickstarter as</p>
+<p begin="00:45:18.390" end="00:45:22.260" style="s2">opposed to someone putting out a</p>
+<p begin="00:45:19.410" end="00:45:24.540" style="s2">Kickstarter campaign I can put money</p>
+<p begin="00:45:22.260" end="00:45:25.770" style="s2">into things I can fund it I can vote on</p>
+<p begin="00:45:24.540" end="00:45:29.160" style="s2">the things once I&#39;m part of that</p>
+<p begin="00:45:25.770" end="00:45:32.130" style="s2">community and right you can you can make</p>
+<p begin="00:45:29.160" end="00:45:35.760" style="s2">so there are there are many so there are</p>
+<p begin="00:45:32.130" end="00:45:38.040" style="s2">multiples usable steps that you can like</p>
+<p begin="00:45:35.760" end="00:45:40.140" style="s2">sort of like a levels did you get engage</p>
+<p begin="00:45:38.040" end="00:45:41.320" style="s2">with the minimum level is just being a</p>
+<p begin="00:45:40.140" end="00:45:44.140" style="s2">funder you just</p>
+<p begin="00:45:41.320" end="00:45:46.750" style="s2">the stuff right the next the next level</p>
+<p begin="00:45:44.140" end="00:45:48.670" style="s2">which is the easiest is just voting so</p>
+<p begin="00:45:46.750" end="00:45:52.090" style="s2">just voting on your preferences of usage</p>
+<p begin="00:45:48.670" end="00:45:53.920" style="s2">of the funds so you just get the feed is</p>
+<p begin="00:45:52.090" end="00:45:56.470" style="s2">getting you know the more interesting</p>
+<p begin="00:45:53.920" end="00:46:00.370" style="s2">composers and you&#39;re voting yes/no on</p>
+<p begin="00:45:56.470" end="00:46:02.470" style="s2">them another level is the conversation</p>
+<p begin="00:46:00.370" end="00:46:04.150" style="s2">you can read conversation but you can</p>
+<p begin="00:46:02.470" end="00:46:06.040" style="s2">also engage in conversation you can say</p>
+<p begin="00:46:04.150" end="00:46:09.060" style="s2">what you think about things and engage</p>
+<p begin="00:46:06.040" end="00:46:12.250" style="s2">in conversation yet another level is</p>
+<p begin="00:46:09.060" end="00:46:14.350" style="s2">making proposals you understand the</p>
+<p begin="00:46:12.250" end="00:46:17.890" style="s2">agenda of the conversation of the of the</p>
+<p begin="00:46:14.350" end="00:46:20.080" style="s2">of the common so you have an idea how to</p>
+<p begin="00:46:17.890" end="00:46:23.200" style="s2">use the funds and you want to actually</p>
+<p begin="00:46:20.080" end="00:46:25.540" style="s2">be an active member of the common so</p>
+<p begin="00:46:23.200" end="00:46:29.980" style="s2">you&#39;re making proposal to get funded and</p>
+<p begin="00:46:25.540" end="00:46:32.350" style="s2">use that funds in some ways and then the</p>
+<p begin="00:46:29.980" end="00:46:36.190" style="s2">highest level is if being a founder to</p>
+<p begin="00:46:32.350" end="00:46:39.070" style="s2">open your your own come on so there it</p>
+<p begin="00:46:36.190" end="00:46:41.620" style="s2">is like a very you know a for example in</p>
+<p begin="00:46:39.070" end="00:46:44.830" style="s2">kickstarter either your your founder or</p>
+<p begin="00:46:41.620" end="00:46:46.510" style="s2">a funder that&#39;s it and there is no</p>
+<p begin="00:46:44.830" end="00:46:48.070" style="s2">nothing in between it also found there</p>
+<p begin="00:46:46.510" end="00:46:51.640" style="s2">is a very high very high threshold</p>
+<p begin="00:46:48.070" end="00:46:54.400" style="s2">because as explained before it wouldn&#39;t</p>
+<p begin="00:46:51.640" end="00:46:57.000" style="s2">take you an hour to open a campaign will</p>
+<p begin="00:46:54.400" end="00:47:00.160" style="s2">take you a months and if $50,000 a</p>
+<p begin="00:46:57.000" end="00:47:02.920" style="s2">effort to open a good complaint or three</p>
+<p begin="00:47:00.160" end="00:47:04.150" style="s2">months actually and here because of the</p>
+<p begin="00:47:02.920" end="00:47:05.590" style="s2">fact that you don&#39;t need to bring the</p>
+<p begin="00:47:04.150" end="00:47:08.410" style="s2">ten thousand people by yourself you just</p>
+<p begin="00:47:05.590" end="00:47:10.440" style="s2">need to bring the first hundred I would</p>
+<p begin="00:47:08.410" end="00:47:13.150" style="s2">say that you would work an hour or a day</p>
+<p begin="00:47:10.440" end="00:47:14.770" style="s2">to open the common and because that you</p>
+<p begin="00:47:13.150" end="00:47:17.050" style="s2">see many many more comments so so</p>
+<p begin="00:47:14.770" end="00:47:21.370" style="s2">basically there is many activities you</p>
+<p begin="00:47:17.050" end="00:47:22.810" style="s2">can do between just funding and founding</p>
+<p begin="00:47:21.370" end="00:47:24.610" style="s2">a newcomer there&#39;s many activities in</p>
+<p begin="00:47:22.810" end="00:47:32.850" style="s2">between you can do and because of that</p>
+<p begin="00:47:24.610" end="00:47:36.010" style="s2">you can be much more engaged gonna ask</p>
+<p begin="00:47:32.850" end="00:47:37.390" style="s2">once you guys are in beta and it&#39;s</p>
+<p begin="00:47:36.010" end="00:47:41.110" style="s2">actually out in the world and people can</p>
+<p begin="00:47:37.390" end="00:47:43.030" style="s2">go to it um like if I had a head</p>
+<p begin="00:47:41.110" end="00:47:45.130" style="s2">campaign on there and I posted it on</p>
+<p begin="00:47:43.030" end="00:47:46.720" style="s2">Facebook and on Twitter do people need</p>
+<p begin="00:47:45.130" end="00:47:50.920" style="s2">to sign up for the site in order to</p>
+<p begin="00:47:46.720" end="00:47:53.650" style="s2">participate if they want to donate or so</p>
+<p begin="00:47:50.920" end="00:47:54.680" style="s2">that&#39;s a good question so we are going</p>
+<p begin="00:47:53.650" end="00:47:59.119" style="s2">to have</p>
+<p begin="00:47:54.680" end="00:48:02.269" style="s2">so basically the we are going mobile</p>
+<p begin="00:47:59.119" end="00:48:04.700" style="s2">native so the we&#39;re firstly developing</p>
+<p begin="00:48:02.269" end="00:48:07.729" style="s2">the sorry mobile first first developing</p>
+<p begin="00:48:04.700" end="00:48:09.440" style="s2">the mobile app so if they would like to</p>
+<p begin="00:48:07.729" end="00:48:12.559" style="s2">have the full functionality that we need</p>
+<p begin="00:48:09.440" end="00:48:14.390" style="s2">to download the app but we&#39;re going to</p>
+<p begin="00:48:12.559" end="00:48:17.779" style="s2">already the first version we are going</p>
+<p begin="00:48:14.390" end="00:48:19.190" style="s2">to have also a web page that when you</p>
+<p begin="00:48:17.779" end="00:48:21.829" style="s2">share with your friends it will go to</p>
+<p begin="00:48:19.190" end="00:48:23.059" style="s2">the web page so they can see the agenda</p>
+<p begin="00:48:21.829" end="00:48:25.789" style="s2">of the common and everything they could</p>
+<p begin="00:48:23.059" end="00:48:27.859" style="s2">see already there they can read</p>
+<p begin="00:48:25.789" end="00:48:29.599" style="s2">everything in the web page so they don&#39;t</p>
+<p begin="00:48:27.859" end="00:48:30.200" style="s2">need to login sign-in or download the</p>
+<p begin="00:48:29.599" end="00:48:35.769" style="s2">app or anything</p>
+<p begin="00:48:30.200" end="00:48:38.630" style="s2">and then once they were to FUD</p>
+<p begin="00:48:35.769" end="00:48:41.450" style="s2">they would need so this is still not</p>
+<p begin="00:48:38.630" end="00:48:43.430" style="s2">final I mean eventually in there</p>
+<p begin="00:48:41.450" end="00:48:45.170" style="s2">definitely the second version they would</p>
+<p begin="00:48:43.430" end="00:48:47.539" style="s2">be able to fund directly from that web</p>
+<p begin="00:48:45.170" end="00:48:50.089" style="s2">page and maybe it&#39;s not yet financed</p>
+<p begin="00:48:47.539" end="00:48:52.069" style="s2">maybe in the first release they would</p>
+<p begin="00:48:50.089" end="00:48:54.170" style="s2">only be able to breathe and in order to</p>
+<p begin="00:48:52.069" end="00:48:59.930" style="s2">find they will need to get into the into</p>
+<p begin="00:48:54.170" end="00:49:02.420" style="s2">the app but I&#39;m trying to enter also</p>
+<p begin="00:48:59.930" end="00:49:05.619" style="s2">that funding from the web page into the</p>
+<p begin="00:49:02.420" end="00:49:07.759" style="s2">first release they depend on timelines</p>
+<p begin="00:49:05.619" end="00:49:10.039" style="s2">but basically yes eventually yes you&#39;ll</p>
+<p begin="00:49:07.759" end="00:49:13.099" style="s2">be able to fund and do stuff directly</p>
+<p begin="00:49:10.039" end="00:49:16.009" style="s2">from the web page although once you want</p>
+<p begin="00:49:13.099" end="00:49:18.019" style="s2">to become a member and for example make</p>
+<p begin="00:49:16.009" end="00:49:19.339" style="s2">vote and all that you do need to sign it</p>
+<p begin="00:49:18.019" end="00:49:23.210" style="s2">because you are basically getting your</p>
+<p begin="00:49:19.339" end="00:49:25.430" style="s2">your identifiers your your vote so yeah</p>
+<p begin="00:49:23.210" end="00:49:27.019" style="s2">and that was one of my other big</p>
+<p begin="00:49:25.430" end="00:49:29.239" style="s2">questions especially since there is the</p>
+<p begin="00:49:27.019" end="00:49:30.289" style="s2">voting process in it and it&#39;s one person</p>
+<p begin="00:49:29.239" end="00:49:32.119" style="s2">one vote</p>
+<p begin="00:49:30.289" end="00:49:34.969" style="s2">what if you guys have in place at the</p>
+<p begin="00:49:32.119" end="00:49:36.380" style="s2">moment for making sure it&#39;s one person</p>
+<p begin="00:49:34.969" end="00:49:37.869" style="s2">one vote but if I have a hundred dollars</p>
+<p begin="00:49:36.380" end="00:49:39.950" style="s2">and it&#39;s ten dollars for the campaign</p>
+<p begin="00:49:37.869" end="00:49:41.299" style="s2">instead if he donated a hundred and</p>
+<p begin="00:49:39.950" end="00:49:43.130" style="s2">getting a vote I signed up for ten</p>
+<p begin="00:49:41.299" end="00:49:45.319" style="s2">accounts and have ten votes right it&#39;s</p>
+<p begin="00:49:43.130" end="00:49:47.989" style="s2">right right right right so so right now</p>
+<p begin="00:49:45.319" end="00:49:51.200" style="s2">I mean right now the signup is very easy</p>
+<p begin="00:49:47.989" end="00:49:53.509" style="s2">it&#39;s just with your Google and just with</p>
+<p begin="00:49:51.200" end="00:49:56.089" style="s2">your Google account so yes you can</p>
+<p begin="00:49:53.509" end="00:49:57.349" style="s2">generate several accounts but hey it&#39;s</p>
+<p begin="00:49:56.089" end="00:49:59.150" style="s2">not that easy to generate multiple</p>
+<p begin="00:49:57.349" end="00:50:01.430" style="s2">accounts Google comm you can generate</p>
+<p begin="00:49:59.150" end="00:50:03.319" style="s2">maybe three about ten is already if you</p>
+<p begin="00:50:01.430" end="00:50:05.749" style="s2">can generate them but but that if they</p>
+<p begin="00:50:03.319" end="00:50:08.330" style="s2">are totally fake then if you remember</p>
+<p begin="00:50:05.749" end="00:50:09.830" style="s2">when you are trying to become member you</p>
+<p begin="00:50:08.330" end="00:50:12.470" style="s2">it&#39;s not enough that you are donating</p>
+<p begin="00:50:09.830" end="00:50:13.940" style="s2">you also it&#39;s like a Facebook group with</p>
+<p begin="00:50:12.470" end="00:50:15.380" style="s2">administration but the administration is</p>
+<p begin="00:50:13.940" end="00:50:19.610" style="s2">separate so you&#39;re requesting to join</p>
+<p begin="00:50:15.380" end="00:50:21.710" style="s2">and then the code is is is approving you</p>
+<p begin="00:50:19.610" end="00:50:23.420" style="s2">but just like in any Facebook group if</p>
+<p begin="00:50:21.710" end="00:50:25.850" style="s2">they see just now you must be person</p>
+<p begin="00:50:23.420" end="00:50:28.760" style="s2">with no details and doesn&#39;t seem like a</p>
+<p begin="00:50:25.850" end="00:50:30.490" style="s2">real person there is I mean it&#39;s not</p>
+<p begin="00:50:28.760" end="00:50:33.680" style="s2">likely that the comment will approve it</p>
+<p begin="00:50:30.490" end="00:50:35.480" style="s2">how does that work cuz I mean I&#39;m really</p>
+<p begin="00:50:33.680" end="00:50:37.100" style="s2">happy that you guys are doing Google</p>
+<p begin="00:50:35.480" end="00:50:38.300" style="s2">sign-in because it&#39;s one of the issues I</p>
+<p begin="00:50:37.100" end="00:50:39.620" style="s2">have with one of the other things is</p>
+<p begin="00:50:38.300" end="00:50:41.660" style="s2">they don&#39;t do that every time someone</p>
+<p begin="00:50:39.620" end="00:50:43.820" style="s2">wants me to use it I have to have a new</p>
+<p begin="00:50:41.660" end="00:50:46.940" style="s2">account like this is not helpful this is</p>
+<p begin="00:50:43.820" end="00:50:48.380" style="s2">no elbow um but I know what that looks</p>
+<p begin="00:50:46.940" end="00:50:50.030" style="s2">like for Facebook because it says you&#39;ve</p>
+<p begin="00:50:48.380" end="00:50:51.380" style="s2">been a member since X you can see how</p>
+<p begin="00:50:50.030" end="00:50:52.640" style="s2">many friends they have actually don&#39;t</p>
+<p begin="00:50:51.380" end="00:50:53.930" style="s2">know what that looks like for Google</p>
+<p begin="00:50:52.640" end="00:50:55.400" style="s2">even though I use Google to sign in to</p>
+<p begin="00:50:53.930" end="00:50:57.470" style="s2">almost everything like how do you know</p>
+<p begin="00:50:55.400" end="00:50:59.570" style="s2">whether something real with their Google</p>
+<p begin="00:50:57.470" end="00:51:02.870" style="s2">account that&#39;s that&#39;s true that&#39;s true</p>
+<p begin="00:50:59.570" end="00:51:06.500" style="s2">so that actually that&#39;s one of the so in</p>
+<p begin="00:51:02.870" end="00:51:09.440" style="s2">fact I mean this is one of the I would</p>
+<p begin="00:51:06.500" end="00:51:10.850" style="s2">say a first edition for the second for</p>
+<p begin="00:51:09.440" end="00:51:14.090" style="s2">the second version I mean what I see</p>
+<p begin="00:51:10.850" end="00:51:15.650" style="s2">here is just the first release what is</p>
+<p begin="00:51:14.090" end="00:51:17.930" style="s2">missing here is just what you&#39;re talking</p>
+<p begin="00:51:15.650" end="00:51:20.870" style="s2">about which is social verification and</p>
+<p begin="00:51:17.930" end="00:51:22.490" style="s2">and social occasion sauce just for</p>
+<p begin="00:51:20.870" end="00:51:24.740" style="s2">timelines sort of infinity they enter</p>
+<p begin="00:51:22.490" end="00:51:28.210" style="s2">the the first release but I&#39;m almost</p>
+<p begin="00:51:24.740" end="00:51:32.480" style="s2">sure it will enter that the beta</p>
+<p begin="00:51:28.210" end="00:51:34.220" style="s2">familiar with bright ID I&#39;m familiar</p>
+<p begin="00:51:32.480" end="00:51:37.370" style="s2">with the name I never looked at it in</p>
+<p begin="00:51:34.220" end="00:51:38.960" style="s2">detail but basically yeah we also just</p>
+<p begin="00:51:37.370" end="00:51:41.990" style="s2">build we&#39;ve developed is something I</p>
+<p begin="00:51:38.960" end="00:51:45.380" style="s2">think similar but but basically social</p>
+<p begin="00:51:41.990" end="00:51:49.280" style="s2">implication will could be signing</p>
+<p begin="00:51:45.380" end="00:51:50.870" style="s2">signing up with Facebook mm-hmm and then</p>
+<p begin="00:51:49.280" end="00:51:54.110" style="s2">you like showing your profile like</p>
+<p begin="00:51:50.870" end="00:51:55.760" style="s2">showing you that you&#39;re real yeah yeah</p>
+<p begin="00:51:54.110" end="00:51:58.070" style="s2">so right now it&#39;s signing a sign up with</p>
+<p begin="00:51:55.760" end="00:52:00.170" style="s2">Google but it could be I mean I think I</p>
+<p begin="00:51:58.070" end="00:52:02.240" style="s2">think that one option is that we will be</p>
+<p begin="00:52:00.170" end="00:52:04.430" style="s2">able to sign up with your Facebook or or</p>
+<p begin="00:52:02.240" end="00:52:07.550" style="s2">at least integrate your Facebook such</p>
+<p begin="00:52:04.430" end="00:52:10.240" style="s2">that your profile will be visible and</p>
+<p begin="00:52:07.550" end="00:52:12.590" style="s2">your friends and all that mm-hmm</p>
+<p begin="00:52:10.240" end="00:52:14.000" style="s2">um I mean I&#39;m really interested in all</p>
+<p begin="00:52:12.590" end="00:52:15.530" style="s2">this stuff and how it works cuz it&#39;s all</p>
+<p begin="00:52:14.000" end="00:52:17.810" style="s2">the things that you vote with my brain</p>
+<p begin="00:52:15.530" end="00:52:19.970" style="s2">but as far as like you&#39;d said before</p>
+<p begin="00:52:17.810" end="00:52:23.030" style="s2">with the approval that it&#39;s it&#39;s</p>
+<p begin="00:52:19.970" end="00:52:25.790" style="s2">like the group decides on approval I am</p>
+<p begin="00:52:23.030" end="00:52:27.980" style="s2">on Facebook and it generally is the</p>
+<p begin="00:52:25.790" end="00:52:30.020" style="s2">admin&#39;s who say yes or no but only one</p>
+<p begin="00:52:27.980" end="00:52:31.220" style="s2">person it&#39;s like I could say yes and</p>
+<p begin="00:52:30.020" end="00:52:32.450" style="s2">then the other man&#39;s could go and kick</p>
+<p begin="00:52:31.220" end="00:52:35.060" style="s2">them out but like it&#39;s a lot harder</p>
+<p begin="00:52:32.450" end="00:52:36.140" style="s2">process is it like are we voting on it</p>
+<p begin="00:52:35.060" end="00:52:38.270" style="s2">then I&#39;m like yes I think they&#39;re real</p>
+<p begin="00:52:36.140" end="00:52:40.040" style="s2">person and it&#39;s a percentage or a</p>
+<p begin="00:52:38.270" end="00:52:42.640" style="s2">certain number of people have to say yes</p>
+<p begin="00:52:40.040" end="00:52:44.930" style="s2">versus the no how does the group decide</p>
+<p begin="00:52:42.640" end="00:52:47.720" style="s2">it&#39;s it&#39;s basically there is there is a</p>
+<p begin="00:52:44.930" end="00:52:50.270" style="s2">whole decision protocol for whether it&#39;s</p>
+<p begin="00:52:47.720" end="00:52:51.109" style="s2">joining new members or whether it is for</p>
+<p begin="00:52:50.270" end="00:52:55.190" style="s2">funding</p>
+<p begin="00:52:51.109" end="00:52:57.530" style="s2">here is a decision protocol it&#39;s in so</p>
+<p begin="00:52:55.190" end="00:52:59.750" style="s2">basically I mean it&#39;s it&#39;s simple and</p>
+<p begin="00:52:57.530" end="00:53:03.170" style="s2">complex I&#39;ll tell you the simple part of</p>
+<p begin="00:52:59.750" end="00:53:06.410" style="s2">it simple part is that a if vote is</p>
+<p begin="00:53:03.170" end="00:53:09.470" style="s2">being approved if enough made for a vote</p>
+<p begin="00:53:06.410" end="00:53:11.869" style="s2">to be approved a majority of those who</p>
+<p begin="00:53:09.470" end="00:53:13.310" style="s2">votes needs to say yes this is easy is</p>
+<p begin="00:53:11.869" end="00:53:17.030" style="s2">it on the stand so majority of those who</p>
+<p begin="00:53:13.310" end="00:53:19.480" style="s2">of those who voted need to say yes but</p>
+<p begin="00:53:17.030" end="00:53:21.830" style="s2">there is also an additional condition</p>
+<p begin="00:53:19.480" end="00:53:25.310" style="s2">behind the scene that needs to take</p>
+<p begin="00:53:21.830" end="00:53:27.980" style="s2">place and this is like the main of our</p>
+<p begin="00:53:25.310" end="00:53:32.119" style="s2">our invention or mega for technology</p>
+<p begin="00:53:27.980" end="00:53:35.270" style="s2">which is to ensure this vote has is</p>
+<p begin="00:53:32.119" end="00:53:38.660" style="s2">representative so let&#39;s say you have 100</p>
+<p begin="00:53:35.270" end="00:53:41.359" style="s2">people and only 5 people voted and 3</p>
+<p begin="00:53:38.660" end="00:53:42.920" style="s2">said yes to said now how do you know</p>
+<p begin="00:53:41.359" end="00:53:46.910" style="s2">that these 5 people actually represent</p>
+<p begin="00:53:42.920" end="00:53:49.339" style="s2">the hundred because here at all and so</p>
+<p begin="00:53:46.910" end="00:53:52.849" style="s2">we&#39;ve invented this we&#39;ve invented this</p>
+<p begin="00:53:49.339" end="00:53:56.330" style="s2">extra technology that&#39;s supposed to in a</p>
+<p begin="00:53:52.849" end="00:53:57.800" style="s2">way verify when a local decision is</p>
+<p begin="00:53:56.330" end="00:54:00.050" style="s2">actually representative of the global</p>
+<p begin="00:53:57.800" end="00:54:03.320" style="s2">but the user the user would not see</p>
+<p begin="00:54:00.050" end="00:54:05.060" style="s2">anything about that okay so that&#39;s like</p>
+<p begin="00:54:03.320" end="00:54:06.770" style="s2">if I&#39;m trying to decide on creating a</p>
+<p begin="00:54:05.060" end="00:54:08.930" style="s2">park in Vancouver it needs to be</p>
+<p begin="00:54:06.770" end="00:54:10.520" style="s2">Vancouver people doing that if it&#39;s if</p>
+<p begin="00:54:08.930" end="00:54:13.580" style="s2">it&#39;s a local project and you can&#39;t have</p>
+<p begin="00:54:10.520" end="00:54:16.760" style="s2">someone from like Seattle or Mumbai all</p>
+<p begin="00:54:13.580" end="00:54:20.150" style="s2">right yeah but it&#39;s not it&#39;s not going</p>
+<p begin="00:54:16.760" end="00:54:21.859" style="s2">to happen like that it&#39;s just it&#39;s a job</p>
+<p begin="00:54:20.150" end="00:54:22.760" style="s2">graph is just a matter of like again</p>
+<p begin="00:54:21.859" end="00:54:25.220" style="s2">like you have a hundred four hundred</p>
+<p begin="00:54:22.760" end="00:54:28.400" style="s2">people need a common and just five voted</p>
+<p begin="00:54:25.220" end="00:54:29.780" style="s2">and ensuring that those five actually</p>
+<p begin="00:54:28.400" end="00:54:32.990" style="s2">representative of the hundred that did</p>
+<p begin="00:54:29.780" end="00:54:33.890" style="s2">not vote and of course you cannot well</p>
+<p begin="00:54:32.990" end="00:54:37.090" style="s2">in some sense</p>
+<p begin="00:54:33.890" end="00:54:40.510" style="s2">technology read the minds of the hundred</p>
+<p begin="00:54:37.090" end="00:54:43.370" style="s2">so we did with information that it has</p>
+<p begin="00:54:40.510" end="00:54:46.130" style="s2">the way that it happens is that actually</p>
+<p begin="00:54:43.370" end="00:54:50.180" style="s2">people are making estimates or guesses</p>
+<p begin="00:54:46.130" end="00:54:52.310" style="s2">or predictions whether they think the</p>
+<p begin="00:54:50.180" end="00:54:53.990" style="s2">votes are representative or not so</p>
+<p begin="00:54:52.310" end="00:54:56.000" style="s2">instead of being quorum that like in</p>
+<p begin="00:54:53.990" end="00:54:58.550" style="s2">order for that for this this thing to be</p>
+<p begin="00:54:56.000" end="00:55:01.220" style="s2">decided on we need sixty percent of the</p>
+<p begin="00:54:58.550" end="00:55:02.660" style="s2">people to vote your the numbers in so</p>
+<p begin="00:55:01.220" end="00:55:04.970" style="s2">matter it&#39;s whether that number is</p>
+<p begin="00:55:02.660" end="00:55:10.820" style="s2">actually representative if one hundred</p>
+<p begin="00:55:04.970" end="00:55:13.010" style="s2">percent of people vote it so try and get</p>
+<p begin="00:55:10.820" end="00:55:14.840" style="s2">so there is let&#39;s say the five people</p>
+<p begin="00:55:13.010" end="00:55:18.200" style="s2">voted or ten people voted out of the</p>
+<p begin="00:55:14.840" end="00:55:20.090" style="s2">hundred you are you&#39;re a you want to</p>
+<p begin="00:55:18.200" end="00:55:22.310" style="s2">know that these hot teller are likely</p>
+<p begin="00:55:20.090" end="00:55:24.140" style="s2">representing for the hundred I am NOT</p>
+<p begin="00:55:22.310" end="00:55:25.730" style="s2">explaining you how how that happens but</p>
+<p begin="00:55:24.140" end="00:55:28.790" style="s2">basically what what happens there is</p>
+<p begin="00:55:25.730" end="00:55:30.800" style="s2">that some other people do you don&#39;t know</p>
+<p begin="00:55:28.790" end="00:55:34.310" style="s2">about it you don&#39;t you&#39;re not aware</p>
+<p begin="00:55:30.800" end="00:55:38.360" style="s2">about about run some other people who</p>
+<p begin="00:55:34.310" end="00:55:41.990" style="s2">are do that further for-profit they are</p>
+<p begin="00:55:38.360" end="00:55:43.490" style="s2">estimating if in each proposal they&#39;re</p>
+<p begin="00:55:41.990" end="00:55:46.910" style="s2">estimating if the proposal is</p>
+<p begin="00:55:43.490" end="00:55:49.310" style="s2">representative or not and they have ways</p>
+<p begin="00:55:46.910" end="00:55:50.630" style="s2">to do that but the but the way that you</p>
+<p begin="00:55:49.310" end="00:55:55.550" style="s2">ensure that they are doing it correctly</p>
+<p begin="00:55:50.630" end="00:55:59.480" style="s2">is that when they do these guesses or</p>
+<p begin="00:55:55.550" end="00:56:03.500" style="s2">there&#39;s these predictions they they risk</p>
+<p begin="00:55:59.480" end="00:56:05.000" style="s2">some money if they if they&#39;re failing if</p>
+<p begin="00:56:03.500" end="00:56:06.890" style="s2">they&#39;re making wrong guesses they&#39;re</p>
+<p begin="00:56:05.000" end="00:56:08.510" style="s2">losing that money if they&#39;re making good</p>
+<p begin="00:56:06.890" end="00:56:11.420" style="s2">guesses they&#39;re they&#39;re earning more</p>
+<p begin="00:56:08.510" end="00:56:16.060" style="s2">money so that they have an incentive to</p>
+<p begin="00:56:11.420" end="00:56:19.520" style="s2">run all sort of tests and algorithms to</p>
+<p begin="00:56:16.060" end="00:56:21.020" style="s2">verify as much as possible that that</p>
+<p begin="00:56:19.520" end="00:56:23.150" style="s2">votes are representative basically there</p>
+<p begin="00:56:21.020" end="00:56:27.470" style="s2">are the guard guardians of the voting</p>
+<p begin="00:56:23.150" end="00:56:30.770" style="s2">process okay yeah it&#39;s I&#39;m not getting</p>
+<p begin="00:56:27.470" end="00:56:36.680" style="s2">into too much details there but sorry</p>
+<p begin="00:56:30.770" end="00:56:38.720" style="s2">magic algorithm works for me exactly</p>
+<p begin="00:56:36.680" end="00:56:40.940" style="s2">it&#39;s a it&#39;s actually magic algorithm</p>
+<p begin="00:56:38.720" end="00:56:42.740" style="s2">plus people yeah perfect perfect that&#39;s</p>
+<p begin="00:56:40.940" end="00:56:44.120" style="s2">that&#39;s always what I invoke the magic</p>
+<p begin="00:56:42.740" end="00:56:47.390" style="s2">algorithm that I have no idea how to</p>
+<p begin="00:56:44.120" end="00:56:49.369" style="s2">make it exist</p>
+<p begin="00:56:47.390" end="00:56:51.289" style="s2">someone can have it I&#39;ve heard people</p>
+<p begin="00:56:49.369" end="00:56:53.269" style="s2">come up with them before nakatsu bases</p>
+<p begin="00:56:51.289" end="00:56:55.190" style="s2">yeah I know I&#39;m like I&#39;ve said many</p>
+<p begin="00:56:53.269" end="00:56:59.650" style="s2">times I&#39;m very excited for this to exist</p>
+<p begin="00:56:55.190" end="00:57:01.730" style="s2">in the world and like all technology</p>
+<p begin="00:56:59.650" end="00:57:03.440" style="s2">technology that we own individually is</p>
+<p begin="00:57:01.730" end="00:57:05.059" style="s2">risky because it&#39;s like well is it does</p>
+<p begin="00:57:03.440" end="00:57:06.859" style="s2">it take off are there enough people does</p>
+<p begin="00:57:05.059" end="00:57:08.720" style="s2">it make enough money does it make and I</p>
+<p begin="00:57:06.859" end="00:57:11.269" style="s2">think anything like on the Dow stack and</p>
+<p begin="00:57:08.720" end="00:57:13.640" style="s2">and holo chain has part of that figured</p>
+<p begin="00:57:11.269" end="00:57:15.260" style="s2">out that like well it&#39;s it didn&#39;t of</p>
+<p begin="00:57:13.640" end="00:57:17.299" style="s2">itself brings people together and then</p>
+<p begin="00:57:15.260" end="00:57:19.039" style="s2">figures out the funding model but then</p>
+<p begin="00:57:17.299" end="00:57:20.960" style="s2">that&#39;s what I&#39;m passionate about is how</p>
+<p begin="00:57:19.039" end="00:57:22.579" style="s2">do we oh I don&#39;t I care less about</p>
+<p begin="00:57:20.960" end="00:57:23.599" style="s2">owning the technology together or more</p>
+<p begin="00:57:22.579" end="00:57:26.359" style="s2">about being able to use the technology</p>
+<p begin="00:57:23.599" end="00:57:28.130" style="s2">and Trust it and that generally just</p>
+<p begin="00:57:26.359" end="00:57:30.500" style="s2">needs only that together or the comments</p>
+<p begin="00:57:28.130" end="00:57:33.140" style="s2">Oneidas you can see full transparency on</p>
+<p begin="00:57:30.500" end="00:57:34.970" style="s2">the finances and governments and make</p>
+<p begin="00:57:33.140" end="00:57:40.519" style="s2">changes and see what the process is to</p>
+<p begin="00:57:34.970" end="00:57:42.170" style="s2">make changes yeah so that&#39;s it it&#39;s a</p>
+<p begin="00:57:40.519" end="00:57:46.519" style="s2">little bit late here I guess I should</p>
+<p begin="00:57:42.170" end="00:57:47.150" style="s2">head to bed yeah it was great chatting</p>
+<p begin="00:57:46.519" end="00:57:50.329" style="s2">with you</p>
+<p begin="00:57:47.150" end="00:57:52.339" style="s2">I&#39;m sure likewise if you if you&#39;re I</p>
+<p begin="00:57:50.329" end="00:57:53.960" style="s2">mean if you have I don&#39;t know comas in</p>
+<p begin="00:57:52.339" end="00:57:56.529" style="s2">mind like we&#39;re starting the</p>
+<p begin="00:57:53.960" end="00:57:59.269" style="s2">conversation with founders already know</p>
+<p begin="00:57:56.529" end="00:58:01.160" style="s2">if you if you&#39;re medical I mean if you</p>
+<p begin="00:57:59.269" end="00:58:02.450" style="s2">have comas that you think that I mean if</p>
+<p begin="00:58:01.160" end="00:58:05.390" style="s2">you have project that you think would be</p>
+<p begin="00:58:02.450" end="00:58:08.119" style="s2">relevant to be launched as comments I</p>
+<p begin="00:58:05.390" end="00:58:09.799" style="s2">would love to connect it with the guy</p>
+<p begin="00:58:08.119" end="00:58:12.980" style="s2">that&#39;s in charge of that you know theme</p>
+<p begin="00:58:09.799" end="00:58:15.619" style="s2">yeah absolutely I mean I don&#39;t I&#39;m</p>
+<p begin="00:58:12.980" end="00:58:17.420" style="s2">interested in the process of how can we</p>
+<p begin="00:58:15.619" end="00:58:18.589" style="s2">get 10,000 people together and actually</p>
+<p begin="00:58:17.420" end="00:58:20.119" style="s2">create something together so that</p>
+<p begin="00:58:18.589" end="00:58:22.099" style="s2">everyone feels like they&#39;re involved in</p>
+<p begin="00:58:20.119" end="00:58:23.299" style="s2">it to the degree which is it sounds</p>
+<p begin="00:58:22.099" end="00:58:25.160" style="s2">exactly like what you&#39;re doing that</p>
+<p begin="00:58:23.299" end="00:58:26.569" style="s2">people can fund it but not necessarily</p>
+<p begin="00:58:25.160" end="00:58:28.880" style="s2">vote if they don&#39;t want to or they can</p>
+<p begin="00:58:26.569" end="00:58:30.740" style="s2">vote and they can be sure involved as</p>
+<p begin="00:58:28.880" end="00:58:33.140" style="s2">they need to be and the group itself can</p>
+<p begin="00:58:30.740" end="00:58:34.670" style="s2">decide on things that the founder didn&#39;t</p>
+<p begin="00:58:33.140" end="00:58:38.390" style="s2">necessarily decide on I love all of that</p>
+<p begin="00:58:34.670" end="00:58:39.829" style="s2">um I don&#39;t know how I would create a</p>
+<p begin="00:58:38.390" end="00:58:41.269" style="s2">common because what I&#39;m trying to do is</p>
+<p begin="00:58:39.829" end="00:58:43.009" style="s2">the solution raising so it&#39;s like a</p>
+<p begin="00:58:41.269" end="00:58:44.569" style="s2">solution raising on solution raising how</p>
+<p begin="00:58:43.009" end="00:58:47.269" style="s2">do we get 10,000 people together how do</p>
+<p begin="00:58:44.569" end="00:58:49.519" style="s2">we get $100,000 and that&#39;s more like</p>
+<p begin="00:58:47.269" end="00:58:51.349" style="s2">this already solves that but I would be</p>
+<p begin="00:58:49.519" end="00:58:52.700" style="s2">interested in doing any Commons on any</p>
+<p begin="00:58:51.349" end="00:58:55.400" style="s2">of the things we&#39;ve done a solution</p>
+<p begin="00:58:52.700" end="00:58:56.599" style="s2">raising like education like food and I</p>
+<p begin="00:58:55.400" end="00:58:58.460" style="s2">think it would be more along the lines</p>
+<p begin="00:58:56.599" end="00:59:00.019" style="s2">of asking a question like when I did the</p>
+<p begin="00:58:58.460" end="00:59:00.559" style="s2">food one it was the question was like</p>
+<p begin="00:59:00.019" end="00:59:01.939" style="s2">how do we</p>
+<p begin="00:59:00.559" end="00:59:04.039" style="s2">feed ourselves right how do we be</p>
+<p begin="00:59:01.939" end="00:59:05.749" style="s2">inclusive of food and so something like</p>
+<p begin="00:59:04.039" end="00:59:08.539" style="s2">that we&#39;re like that point of the tech</p>
+<p begin="00:59:05.749" end="00:59:10.670" style="s2">the app is to solve that for us right</p>
+<p begin="00:59:08.539" end="00:59:12.979" style="s2">how do I feed myself how do I feed</p>
+<p begin="00:59:10.670" end="00:59:15.229" style="s2">myself nutritious delicious food for the</p>
+<p begin="00:59:12.979" end="00:59:16.939" style="s2">least amount of money figuring that out</p>
+<p begin="00:59:15.229" end="00:59:18.109" style="s2">collectively and then and then going</p>
+<p begin="00:59:16.939" end="00:59:21.499" style="s2">through the process of creating that</p>
+<p begin="00:59:18.109" end="00:59:22.939" style="s2">like I I&#39;m not short on ideas I guess</p>
+<p begin="00:59:21.499" end="00:59:25.609" style="s2">what I&#39;m saying it&#39;s more about like how</p>
+<p begin="00:59:22.939" end="00:59:27.499" style="s2">could it be made into a Commons because</p>
+<p begin="00:59:25.609" end="00:59:29.029" style="s2">I don&#39;t in any way care about owning it</p>
+<p begin="00:59:27.499" end="00:59:30.829" style="s2">I want it to be owned by the comments</p>
+<p begin="00:59:29.029" end="00:59:34.009" style="s2">like I want it to be something that we</p>
+<p begin="00:59:30.829" end="00:59:36.319" style="s2">feel together is ours and not that it&#39;s</p>
+<p begin="00:59:34.009" end="00:59:38.479" style="s2">mine or yours or you don&#39;t need any</p>
+<p begin="00:59:36.319" end="00:59:41.390" style="s2">individual or tiny group of people it&#39;s</p>
+<p begin="00:59:38.479" end="00:59:42.829" style="s2">like how do we actually create this so</p>
+<p begin="00:59:41.390" end="00:59:44.599" style="s2">yes I&#39;d like to be put in touch with the</p>
+<p begin="00:59:42.829" end="00:59:46.189" style="s2">person and maybe they can help figure</p>
+<p begin="00:59:44.599" end="00:59:48.439" style="s2">out what that would look like and even</p>
+<p begin="00:59:46.189" end="00:59:50.539" style="s2">if I don&#39;t put something on the Commons</p>
+<p begin="00:59:48.439" end="00:59:58.069" style="s2">I&#39;m sure they&#39;ll be something that comes</p>
+<p begin="00:59:50.539" end="00:59:59.930" style="s2">out of that okay so yeah I mean if you</p>
+<p begin="00:59:58.069" end="01:00:02.599" style="s2">if there&#39;s anything coming up let me</p>
+<p begin="00:59:59.930" end="01:00:08.299" style="s2">know anyway I&#39;ll make the introduction</p>
+<p begin="01:00:02.599" end="01:00:09.529" style="s2">with a guy called I and yeah just let me</p>
+<p begin="01:00:08.299" end="01:00:12.559" style="s2">know if I mean if you want to use the</p>
+<p begin="01:00:09.529" end="01:00:14.150" style="s2">recording for any any other purpose it&#39;s</p>
+<p begin="01:00:12.559" end="01:00:15.469" style="s2">gonna be the next question is we can</p>
+<p begin="01:00:14.150" end="01:00:16.849" style="s2">stop recording and then I was gonna ask</p>
+<p begin="01:00:15.469" end="01:00:20.229" style="s2">you what we can do with this record Ian</p>
+<p begin="01:00:16.849" end="01:00:20.229" style="s2">so this give me once again goodbye</p>
+</div>
+</body>
+</tt>

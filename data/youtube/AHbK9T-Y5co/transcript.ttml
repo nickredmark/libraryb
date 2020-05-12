@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.600" end="00:00:05.069" style="s2">[Music]</p>
+<p begin="00:00:01.220" end="00:00:08.370" style="s2">idea cafe is our first project we are</p>
+<p begin="00:00:05.069" end="00:00:13.290" style="s2">meeting live on Fridays at 11:00 a.m.</p>
+<p begin="00:00:08.370" end="00:00:15.299" style="s2">Pacific Standard Time to move forward</p>
+<p begin="00:00:13.290" end="00:00:17.730" style="s2">with the together text first project the</p>
+<p begin="00:00:15.299" end="00:00:19.050" style="s2">idea Cafe when we get stuck at a point</p>
+<p begin="00:00:17.730" end="00:00:20.520" style="s2">we might move on to a different project</p>
+<p begin="00:00:19.050" end="00:00:22.170" style="s2">but right now that is what we were doing</p>
+<p begin="00:00:20.520" end="00:00:26.099" style="s2">we&#39;re figuring out what features it</p>
+<p begin="00:00:22.170" end="00:00:27.840" style="s2">needs to have how we fund it how it can</p>
+<p begin="00:00:26.099" end="00:00:30.000" style="s2">be an effective communication tool how</p>
+<p begin="00:00:27.840" end="00:00:32.250" style="s2">we grow the YouTube channel which is its</p>
+<p begin="00:00:30.000" end="00:00:34.290" style="s2">current iteration its own channel idea</p>
+<p begin="00:00:32.250" end="00:00:36.210" style="s2">cafe where I&#39;m hosting conversations</p>
+<p begin="00:00:34.290" end="00:00:37.890" style="s2">that are going to be similar to the</p>
+<p begin="00:00:36.210" end="00:00:40.950" style="s2">format anyone can come and participate</p>
+<p begin="00:00:37.890" end="00:00:42.600" style="s2">in but not have it live on YouTube not</p>
+<p begin="00:00:40.950" end="00:00:44.789" style="s2">have it be something that potentially</p>
+<p begin="00:00:42.600" end="00:00:46.710" style="s2">millions of people can see it&#39;ll be up</p>
+<p begin="00:00:44.789" end="00:00:48.870" style="s2">to the individual participating how</p>
+<p begin="00:00:46.710" end="00:00:50.520" style="s2">comfortable they are clicking off or</p>
+<p begin="00:00:48.870" end="00:00:51.750" style="s2">dismissing different features right do</p>
+<p begin="00:00:50.520" end="00:00:52.980" style="s2">you want it recorded do not want to</p>
+<p begin="00:00:51.750" end="00:00:57.360" style="s2">record it do you want it video do you</p>
+<p begin="00:00:52.980" end="00:01:01.219" style="s2">want it voice and picking conversations</p>
+<p begin="00:00:57.360" end="00:01:08.030" style="s2">that matter not small talk conversations</p>
+<p begin="00:01:01.219" end="00:01:10.260" style="s2">about racism gender current events</p>
+<p begin="00:01:08.030" end="00:01:11.670" style="s2">creating a better world doing the</p>
+<p begin="00:01:10.260" end="00:01:13.530" style="s2">interpersonal work doing the intra</p>
+<p begin="00:01:11.670" end="00:01:15.030" style="s2">person at work anything that&#39;s</p>
+<p begin="00:01:13.530" end="00:01:18.210" style="s2">meaningful to you as an individual and</p>
+<p begin="00:01:15.030" end="00:01:19.500" style="s2">there can be a question designed for</p>
+<p begin="00:01:18.210" end="00:01:22.259" style="s2">that other people want to have a</p>
+<p begin="00:01:19.500" end="00:01:24.720" style="s2">conversation as well that is what the</p>
+<p begin="00:01:22.259" end="00:01:26.189" style="s2">idea Cafe will be anyone can come on say</p>
+<p begin="00:01:24.720" end="00:01:28.259" style="s2">when their availability is say what</p>
+<p begin="00:01:26.189" end="00:01:29.790" style="s2">their interests are and find people to</p>
+<p begin="00:01:28.259" end="00:01:31.439" style="s2">have a conversation with you don&#39;t need</p>
+<p begin="00:01:29.790" end="00:01:34.979" style="s2">to bring your existing friends we will</p>
+<p begin="00:01:31.439" end="00:01:37.170" style="s2">assign you people to talk to and we will</p>
+<p begin="00:01:34.979" end="00:01:38.909" style="s2">figure out the conflict together we will</p>
+<p begin="00:01:37.170" end="00:01:40.530" style="s2">figure out how to grow from conflict</p>
+<p begin="00:01:38.909" end="00:01:42.780" style="s2">we&#39;ll figure out how to mitigate</p>
+<p begin="00:01:40.530" end="00:01:44.040" style="s2">conflict so that you don&#39;t ever have to</p>
+<p begin="00:01:42.780" end="00:01:45.479" style="s2">everyone is welcome</p>
+<p begin="00:01:44.040" end="00:01:47.009" style="s2">we&#39;re not gonna kick people out</p>
+<p begin="00:01:45.479" end="00:01:50.549" style="s2">hopefully unless they&#39;re absolutely</p>
+<p begin="00:01:47.009" end="00:01:52.259" style="s2">horrific and I don&#39;t know what that</p>
+<p begin="00:01:50.549" end="00:01:55.229" style="s2">level is yet we don&#39;t know what that</p>
+<p begin="00:01:52.259" end="00:01:56.399" style="s2">level is yet but as people come and they</p>
+<p begin="00:01:55.229" end="00:01:57.960" style="s2">have an account and they&#39;re not being</p>
+<p begin="00:01:56.399" end="00:01:59.130" style="s2">trolls and they&#39;re being their true self</p>
+<p begin="00:01:57.960" end="00:02:00.899" style="s2">and just because we don&#39;t get along</p>
+<p begin="00:01:59.130" end="00:02:03.000" style="s2">doesn&#39;t mean I get to decide you&#39;re not</p>
+<p begin="00:02:00.899" end="00:02:04.890" style="s2">in anyone&#39;s table I can say you don&#39;t</p>
+<p begin="00:02:03.000" end="00:02:06.750" style="s2">get to sit at my table when the tools</p>
+<p begin="00:02:04.890" end="00:02:09.149" style="s2">and technology allow us to do that when</p>
+<p begin="00:02:06.750" end="00:02:10.560" style="s2">we&#39;re able to block people or say the</p>
+<p begin="00:02:09.149" end="00:02:11.910" style="s2">kinds of people we want to stay with in</p>
+<p begin="00:02:10.560" end="00:02:12.250" style="s2">the kinds of people we don&#39;t want to sit</p>
+<p begin="00:02:11.910" end="00:02:14.800" style="s2">with</p>
+<p begin="00:02:12.250" end="00:02:16.300" style="s2">but right now it&#39;s not right now it&#39;s</p>
+<p begin="00:02:14.800" end="00:02:17.800" style="s2">are you available at the same time in</p>
+<p begin="00:02:16.300" end="00:02:20.020" style="s2">the same place let&#39;s get together and</p>
+<p begin="00:02:17.800" end="00:02:22.630" style="s2">have a virtual conversation on the idea</p>
+<p begin="00:02:20.020" end="00:02:24.400" style="s2">cafe and we&#39;re creating it in full</p>
+<p begin="00:02:22.630" end="00:02:26.380" style="s2">transparency where anyone can come and</p>
+<p begin="00:02:24.400" end="00:02:27.490" style="s2">participate we were going to crowdfund</p>
+<p begin="00:02:26.380" end="00:02:30.070" style="s2">it together we&#39;re going to figure out</p>
+<p begin="00:02:27.490" end="00:02:32.950" style="s2">the features together and then once we</p>
+<p begin="00:02:30.070" end="00:02:35.140" style="s2">have that the tool for a conversation we</p>
+<p begin="00:02:32.950" end="00:02:37.390" style="s2">can use that tool to create all of the</p>
+<p begin="00:02:35.140" end="00:02:40.030" style="s2">other tools as well as have</p>
+<p begin="00:02:37.390" end="00:02:41.560" style="s2">conversations that are nothing to do</p>
+<p begin="00:02:40.030" end="00:02:43.060" style="s2">with technology nothing to do with</p>
+<p begin="00:02:41.560" end="00:02:45.640" style="s2">creating the new tools that are that</p>
+<p begin="00:02:43.060" end="00:02:47.320" style="s2">interpersonal work that are figure you</p>
+<p begin="00:02:45.640" end="00:02:49.300" style="s2">know how to have conversations about</p>
+<p begin="00:02:47.320" end="00:02:51.190" style="s2">difficult questions and difficult things</p>
+<p begin="00:02:49.300" end="00:02:52.750" style="s2">that are happening in the world what&#39;s</p>
+<p begin="00:02:51.190" end="00:02:55.300" style="s2">happening right now just divides us</p>
+<p begin="00:02:52.750" end="00:02:58.090" style="s2">being on opposite sides are you left are</p>
+<p begin="00:02:55.300" end="00:03:00.400" style="s2">you right are you this are you that how</p>
+<p begin="00:02:58.090" end="00:03:03.190" style="s2">dare you be that without me being able</p>
+<p begin="00:03:00.400" end="00:03:05.950" style="s2">to hear you hear yours why why does that</p>
+<p begin="00:03:03.190" end="00:03:10.170" style="s2">matter to you because the why and our</p>
+<p begin="00:03:05.950" end="00:03:13.150" style="s2">needs are often the same it&#39;s the</p>
+<p begin="00:03:10.170" end="00:03:15.100" style="s2">emotions we stack on top of that the</p>
+<p begin="00:03:13.150" end="00:03:17.700" style="s2">reasons we stack on top of that and the</p>
+<p begin="00:03:15.100" end="00:03:20.380" style="s2">other reen of people that makes this</p>
+<p begin="00:03:17.700" end="00:03:22.840" style="s2">combative culture that is going to</p>
+<p begin="00:03:20.380" end="00:03:24.400" style="s2">become more and more divisive unless we</p>
+<p begin="00:03:22.840" end="00:03:26.350" style="s2">create the tools to make it less and</p>
+<p begin="00:03:24.400" end="00:03:28.959" style="s2">less divisive and that&#39;s what the idea</p>
+<p begin="00:03:26.350" end="00:03:30.970" style="s2">cafe aims to be so come help create it</p>
+<p begin="00:03:28.959" end="00:03:34.320" style="s2">at 11:00 a.m. on Fridays Pacific</p>
+<p begin="00:03:30.970" end="00:03:34.320" style="s2">Standard Time thanks</p>
+</div>
+</body>
+</tt>

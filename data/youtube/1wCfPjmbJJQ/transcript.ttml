@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:07.710" style="s2">all right welcome James Jones from cube</p>
+<p begin="00:00:04.529" end="00:00:10.200" style="s2">spawn thanks for joining me and give a</p>
+<p begin="00:00:07.710" end="00:00:14.009" style="s2">brief rundown of what cube spawn is and</p>
+<p begin="00:00:10.200" end="00:00:15.900" style="s2">then we can talk cubic spawns the first</p>
+<p begin="00:00:14.009" end="00:00:17.340" style="s2">stage in a long term project and the</p>
+<p begin="00:00:15.900" end="00:00:19.529" style="s2">first part of it is to get some</p>
+<p begin="00:00:17.340" end="00:00:21.750" style="s2">functioning hardware to be able to take</p>
+<p begin="00:00:19.529" end="00:00:25.590" style="s2">digital templates for products and turn</p>
+<p begin="00:00:21.750" end="00:00:28.260" style="s2">them into physical things so that sounds</p>
+<p begin="00:00:25.590" end="00:00:31.080" style="s2">pretty straightforward but if you take</p>
+<p begin="00:00:28.260" end="00:00:33.570" style="s2">the hundred-foot altitude look at it</p>
+<p begin="00:00:31.080" end="00:00:35.840" style="s2">it&#39;s this bewildering landscape of</p>
+<p begin="00:00:33.570" end="00:00:40.710" style="s2">extremely complex technological</p>
+<p begin="00:00:35.840" end="00:00:43.070" style="s2">gibberish if you take the 40,000 foot</p>
+<p begin="00:00:40.710" end="00:00:47.670" style="s2">look at it from out your airplane window</p>
+<p begin="00:00:43.070" end="00:00:50.940" style="s2">it&#39;s a fairly simple idea the idea is to</p>
+<p begin="00:00:47.670" end="00:00:53.550" style="s2">change the distribution model from the</p>
+<p begin="00:00:50.940" end="00:00:56.190" style="s2">current physical model where you collect</p>
+<p begin="00:00:53.550" end="00:00:58.260" style="s2">recyclables in the United States you</p>
+<p begin="00:00:56.190" end="00:01:00.510" style="s2">know you truck them to California and</p>
+<p begin="00:00:58.260" end="00:01:03.149" style="s2">you put them on a ship you send them to</p>
+<p begin="00:01:00.510" end="00:01:05.790" style="s2">China China does a bad job recycling</p>
+<p begin="00:01:03.149" end="00:01:08.729" style="s2">them takes the materials that aren&#39;t</p>
+<p begin="00:01:05.790" end="00:01:11.310" style="s2">burned or buried or otherwise misused</p>
+<p begin="00:01:08.729" end="00:01:14.790" style="s2">and it turns them into products that are</p>
+<p begin="00:01:11.310" end="00:01:16.850" style="s2">then shipped to Europe now you get to</p>
+<p begin="00:01:14.790" end="00:01:19.950" style="s2">romp halfway around the world trips</p>
+<p begin="00:01:16.850" end="00:01:22.110" style="s2">baked into that product by the time it</p>
+<p begin="00:01:19.950" end="00:01:26.939" style="s2">arrives on the shelves and somebody buys</p>
+<p begin="00:01:22.110" end="00:01:29.040" style="s2">it and this seems immensely foolish to</p>
+<p begin="00:01:26.939" end="00:01:32.220" style="s2">me because the amount of embedded carbon</p>
+<p begin="00:01:29.040" end="00:01:34.770" style="s2">and everything just keeps going up and a</p>
+<p begin="00:01:32.220" end="00:01:35.880" style="s2">lot of stuff is one-shot you you make</p>
+<p begin="00:01:34.770" end="00:01:38.340" style="s2">the product you get it to the market</p>
+<p begin="00:01:35.880" end="00:01:41.520" style="s2">ends up in the landfill if you look at</p>
+<p begin="00:01:38.340" end="00:01:42.960" style="s2">Walmart&#39;s numbers it&#39;s something like 80</p>
+<p begin="00:01:41.520" end="00:01:46.170" style="s2">percent of all the products they sell</p>
+<p begin="00:01:42.960" end="00:01:47.909" style="s2">are in landfill within six months so you</p>
+<p begin="00:01:46.170" end="00:01:49.799" style="s2">think about the size of those warehouses</p>
+<p begin="00:01:47.909" end="00:01:51.240" style="s2">and the mega tons of goods that go</p>
+<p begin="00:01:49.799" end="00:01:53.189" style="s2">through them and all that stuff ends up</p>
+<p begin="00:01:51.240" end="00:01:55.770" style="s2">in the landfill I mean it&#39;s just a</p>
+<p begin="00:01:53.189" end="00:01:56.460" style="s2">landfill store go buy junk and then go</p>
+<p begin="00:01:55.770" end="00:01:59.159" style="s2">throw it away</p>
+<p begin="00:01:56.460" end="00:02:02.250" style="s2">so all of that is very dumb so the idea</p>
+<p begin="00:01:59.159" end="00:02:04.530" style="s2">with cube spawn is localized recycling</p>
+<p begin="00:02:02.250" end="00:02:06.630" style="s2">localized fabrication turn everything</p>
+<p begin="00:02:04.530" end="00:02:08.280" style="s2">into a template and the materials are</p>
+<p begin="00:02:06.630" end="00:02:10.500" style="s2">already there every metro area has a</p>
+<p begin="00:02:08.280" end="00:02:12.629" style="s2">huge municipal solid waste problem and</p>
+<p begin="00:02:10.500" end="00:02:14.150" style="s2">that municipal solid waste is semi</p>
+<p begin="00:02:12.629" end="00:02:17.370" style="s2">refined materials that were</p>
+<p begin="00:02:14.150" end="00:02:19.650" style="s2">product just a few months ago they were</p>
+<p begin="00:02:17.370" end="00:02:22.319" style="s2">on a shelf in some retail outlet or they</p>
+<p begin="00:02:19.650" end="00:02:23.700" style="s2">were an Amazon and see Amazon&#39;s another</p>
+<p begin="00:02:22.319" end="00:02:26.069" style="s2">nightmare because of its embedded</p>
+<p begin="00:02:23.700" end="00:02:27.480" style="s2">shipping it&#39;s just got the stuff goes</p>
+<p begin="00:02:26.069" end="00:02:29.370" style="s2">from warehouse to warehouse to warehouse</p>
+<p begin="00:02:27.480" end="00:02:32.160" style="s2">back and forth before it ever goes to</p>
+<p begin="00:02:29.370" end="00:02:33.930" style="s2">consumer a lot of that stuff has you</p>
+<p begin="00:02:32.160" end="00:02:36.900" style="s2">know a hundred thousand miles on by the</p>
+<p begin="00:02:33.930" end="00:02:40.110" style="s2">time it gets to you and that&#39;s just</p>
+<p begin="00:02:36.900" end="00:02:42.360" style="s2">insane the International shipping</p>
+<p begin="00:02:40.110" end="00:02:45.780" style="s2">industry some of the statistics relating</p>
+<p begin="00:02:42.360" end="00:02:47.489" style="s2">to that are mind-blowing in terms of</p>
+<p begin="00:02:45.780" end="00:02:50.269" style="s2">just the foolishness of that we don&#39;t</p>
+<p begin="00:02:47.489" end="00:02:54.120" style="s2">need to ship a list of every word so the</p>
+<p begin="00:02:50.269" end="00:02:56.010" style="s2">project&#39;s purpose is to try and reduce</p>
+<p begin="00:02:54.120" end="00:03:00.540" style="s2">all of this unnecessary shipping</p>
+<p begin="00:02:56.010" end="00:03:02.910" style="s2">encourage localized recycling and bring</p>
+<p begin="00:03:00.540" end="00:03:05.160" style="s2">about a state of affairs where you throw</p>
+<p begin="00:03:02.910" end="00:03:07.170" style="s2">stuff in a bin it immediately gets</p>
+<p begin="00:03:05.160" end="00:03:10.319" style="s2">classified by a robot living in the</p>
+<p begin="00:03:07.170" end="00:03:12.329" style="s2">bottom of your trash can and ends up</p>
+<p begin="00:03:10.319" end="00:03:14.790" style="s2">going back to a manufacturing facility</p>
+<p begin="00:03:12.329" end="00:03:16.650" style="s2">so that nothing travels more than 10 or</p>
+<p begin="00:03:14.790" end="00:03:21.060" style="s2">15 miles at the very most</p>
+<p begin="00:03:16.650" end="00:03:22.319" style="s2">instead of thousands and implementing</p>
+<p begin="00:03:21.060" end="00:03:25.889" style="s2">the technology has been a rather</p>
+<p begin="00:03:22.319" end="00:03:28.919" style="s2">complicated journey because I don&#39;t know</p>
+<p begin="00:03:25.889" end="00:03:32.190" style="s2">anything how do I build this thing you</p>
+<p begin="00:03:28.919" end="00:03:35.099" style="s2">know so I&#39;ve had to learn revive a lot</p>
+<p begin="00:03:32.190" end="00:03:37.049" style="s2">of ancient skills I was an IT guy for 35</p>
+<p begin="00:03:35.099" end="00:03:38.250" style="s2">years and prior to that I did a little</p>
+<p begin="00:03:37.049" end="00:03:41.370" style="s2">bit of machining I worked in a gun shop</p>
+<p begin="00:03:38.250" end="00:03:43.139" style="s2">and did some other stuff but you know</p>
+<p begin="00:03:41.370" end="00:03:45.269" style="s2">I&#39;m no master machinist I&#39;m not a</p>
+<p begin="00:03:43.139" end="00:03:47.639" style="s2">mechanical engineer amount electrical</p>
+<p begin="00:03:45.269" end="00:03:50.099" style="s2">engineer I don&#39;t design circuit boards</p>
+<p begin="00:03:47.639" end="00:03:51.540" style="s2">I&#39;m not a master programmer I&#39;ve done a</p>
+<p begin="00:03:50.099" end="00:03:54.000" style="s2">lot of hacking around to keep stuff</p>
+<p begin="00:03:51.540" end="00:03:55.889" style="s2">running an IT but that does not make me</p>
+<p begin="00:03:54.000" end="00:03:58.530" style="s2">a master coder or a full-stack developer</p>
+<p begin="00:03:55.889" end="00:04:00.540" style="s2">or whatever is needed which it turns out</p>
+<p begin="00:03:58.530" end="00:04:03.079" style="s2">there&#39;s probably four to five developers</p>
+<p begin="00:04:00.540" end="00:04:05.790" style="s2">for this because it&#39;s the software</p>
+<p begin="00:04:03.079" end="00:04:07.829" style="s2">becomes rather intricate when you try</p>
+<p begin="00:04:05.790" end="00:04:08.970" style="s2">and get a whole nest of machines to</p>
+<p begin="00:04:07.829" end="00:04:10.919" style="s2">communicate with each other and</p>
+<p begin="00:04:08.970" end="00:04:11.840" style="s2">coordinate their actions and do so in an</p>
+<p begin="00:04:10.919" end="00:04:18.180" style="s2">efficient way</p>
+<p begin="00:04:11.840" end="00:04:21.299" style="s2">so a lot of a lot of detail there but</p>
+<p begin="00:04:18.180" end="00:04:24.419" style="s2">but ultimately if we go back to the</p>
+<p begin="00:04:21.299" end="00:04:26.870" style="s2">high-level vision what I&#39;m trying to do</p>
+<p begin="00:04:24.419" end="00:04:26.870" style="s2">in a</p>
+<p begin="00:04:27.030" end="00:04:34.410" style="s2">a in a non pretentious way as save the</p>
+<p begin="00:04:30.600" end="00:04:37.110" style="s2">world from itself by fixing some of</p>
+<p begin="00:04:34.410" end="00:04:39.720" style="s2">these big problems the distribution</p>
+<p begin="00:04:37.110" end="00:04:42.000" style="s2">problem you know the linear economy the</p>
+<p begin="00:04:39.720" end="00:04:43.890" style="s2">take make dispose pull stuff out of the</p>
+<p begin="00:04:42.000" end="00:04:46.110" style="s2">ground turning products move it to</p>
+<p begin="00:04:43.890" end="00:04:50.510" style="s2">retail outlet so two peoples buried</p>
+<p begin="00:04:46.110" end="00:04:54.570" style="s2">again that&#39;s worked fine for the first</p>
+<p begin="00:04:50.510" end="00:04:56.040" style="s2">250 years of Western civilization isn&#39;t</p>
+<p begin="00:04:54.570" end="00:04:58.290" style="s2">working anymore</p>
+<p begin="00:04:56.040" end="00:05:00.890" style="s2">back to the shipping thing the amount of</p>
+<p begin="00:04:58.290" end="00:05:04.680" style="s2">shipping that we do is mind-blowing and</p>
+<p begin="00:05:00.890" end="00:05:08.460" style="s2">so take there are approximately 50,000</p>
+<p begin="00:05:04.680" end="00:05:12.240" style="s2">ships on the sea the the statistics are</p>
+<p begin="00:05:08.460" end="00:05:14.460" style="s2">that the most probable cause of death</p>
+<p begin="00:05:12.240" end="00:05:17.510" style="s2">for a right whale or a baleen whale now</p>
+<p begin="00:05:14.460" end="00:05:21.060" style="s2">is getting run over by up ah</p>
+<p begin="00:05:17.510" end="00:05:22.770" style="s2">that&#39;s insane I mean the the whales used</p>
+<p begin="00:05:21.060" end="00:05:24.780" style="s2">to communicate over thousands of miles</p>
+<p begin="00:05:22.770" end="00:05:27.560" style="s2">the oceans are so noisy now they can&#39;t</p>
+<p begin="00:05:24.780" end="00:05:31.350" style="s2">even hear what ships coming and that&#39;s</p>
+<p begin="00:05:27.560" end="00:05:33.000" style="s2">one of the many many problems so fifty</p>
+<p begin="00:05:31.350" end="00:05:35.550" style="s2">thousand ships on the sea at any given</p>
+<p begin="00:05:33.000" end="00:05:37.970" style="s2">time twenty thousand of room in port the</p>
+<p begin="00:05:35.550" end="00:05:41.370" style="s2">other 30 grand runs on the water</p>
+<p begin="00:05:37.970" end="00:05:44.700" style="s2">steaming away they&#39;re unregulated for</p>
+<p begin="00:05:41.370" end="00:05:46.680" style="s2">emissions the largest 15 container ships</p>
+<p begin="00:05:44.700" end="00:05:49.680" style="s2">and they&#39;re about 50-100 container ships</p>
+<p begin="00:05:46.680" end="00:05:52.260" style="s2">on the Registry&#39;s the largest 15</p>
+<p begin="00:05:49.680" end="00:05:54.440" style="s2">container ships emit more particulates</p>
+<p begin="00:05:52.260" end="00:06:00.120" style="s2">in pollution than all 770 million</p>
+<p begin="00:05:54.440" end="00:06:02.010" style="s2">terrestrial vehicles and you know so the</p>
+<p begin="00:06:00.120" end="00:06:05.640" style="s2">15 biggest do that what are the rest</p>
+<p begin="00:06:02.010" end="00:06:07.470" style="s2">doing nothing good and then all the</p>
+<p begin="00:06:05.640" end="00:06:09.360" style="s2">cruise ships and all the other stuff you</p>
+<p begin="00:06:07.470" end="00:06:13.050" style="s2">know we need to the oceans not really</p>
+<p begin="00:06:09.360" end="00:06:15.630" style="s2">our playground it&#39;s it&#39;s a habitat so</p>
+<p begin="00:06:13.050" end="00:06:18.140" style="s2">it&#39;s basically like turning the entire</p>
+<p begin="00:06:15.630" end="00:06:20.729" style="s2">forest into a giant four-wheeler park</p>
+<p begin="00:06:18.140" end="00:06:26.250" style="s2">you&#39;ve got machines running everywhere</p>
+<p begin="00:06:20.729" end="00:06:29.610" style="s2">and that does it no good so correcting</p>
+<p begin="00:06:26.250" end="00:06:31.580" style="s2">that problem and then if you localized</p>
+<p begin="00:06:29.610" end="00:06:34.740" style="s2">manufacturing and you incentivize</p>
+<p begin="00:06:31.580" end="00:06:36.450" style="s2">recycling all the materials that are</p>
+<p begin="00:06:34.740" end="00:06:39.180" style="s2">currently being thrown away suddenly</p>
+<p begin="00:06:36.450" end="00:06:40.980" style="s2">become a valuable resource for the next</p>
+<p begin="00:06:39.180" end="00:06:44.220" style="s2">cycle of products which</p>
+<p begin="00:06:40.980" end="00:06:45.360" style="s2">means that litter is disincentivized why</p>
+<p begin="00:06:44.220" end="00:06:48.240" style="s2">would you throw away perfectly good</p>
+<p begin="00:06:45.360" end="00:06:49.590" style="s2">manufacturing materials so littering the</p>
+<p begin="00:06:48.240" end="00:06:52.470" style="s2">landscape and dumping them into the</p>
+<p begin="00:06:49.590" end="00:06:55.050" style="s2">ocean and all the other insanity that we</p>
+<p begin="00:06:52.470" end="00:06:58.290" style="s2">currently engage in loses a lot of its</p>
+<p begin="00:06:55.050" end="00:07:00.450" style="s2">incentive and you are incentivized</p>
+<p begin="00:06:58.290" end="00:07:02.400" style="s2">instead to capture as much as possible</p>
+<p begin="00:07:00.450" end="00:07:04.080" style="s2">of it and convert it as efficiently as</p>
+<p begin="00:07:02.400" end="00:07:06.900" style="s2">possible into the next cycle products</p>
+<p begin="00:07:04.080" end="00:07:10.770" style="s2">because that lowers cost and lowering</p>
+<p begin="00:07:06.900" end="00:07:13.140" style="s2">cost is a shorter term thing where</p>
+<p begin="00:07:10.770" end="00:07:15.540" style="s2">you&#39;re worrying about this external</p>
+<p begin="00:07:13.140" end="00:07:18.360" style="s2">secondary system of tracking everything</p>
+<p begin="00:07:15.540" end="00:07:21.210" style="s2">in dollars and cents but the reality is</p>
+<p begin="00:07:18.360" end="00:07:23.520" style="s2">the tracking things in their inherent</p>
+<p begin="00:07:21.210" end="00:07:27.270" style="s2">value and tracking things in their lack</p>
+<p begin="00:07:23.520" end="00:07:28.950" style="s2">of negative value it is actually more</p>
+<p begin="00:07:27.270" end="00:07:32.550" style="s2">valuable than tracking things in dollars</p>
+<p begin="00:07:28.950" end="00:07:34.260" style="s2">and sentence so internally the system is</p>
+<p begin="00:07:32.550" end="00:07:37.350" style="s2">kind of money list it doesn&#39;t really</p>
+<p begin="00:07:34.260" end="00:07:40.710" style="s2">need to keep track of it needs to keep</p>
+<p begin="00:07:37.350" end="00:07:43.830" style="s2">track of statistics for efficiency so</p>
+<p begin="00:07:40.710" end="00:07:45.540" style="s2">that you can&#39;t improve but nobody should</p>
+<p begin="00:07:43.830" end="00:07:47.610" style="s2">really care whether it&#39;s you know this</p>
+<p begin="00:07:45.540" end="00:07:49.770" style="s2">cost a dollar or cost seventy five cents</p>
+<p begin="00:07:47.610" end="00:07:51.930" style="s2">because it&#39;s a bad metric it doesn&#39;t</p>
+<p begin="00:07:49.770" end="00:07:55.190" style="s2">actually measure what is going on inside</p>
+<p begin="00:07:51.930" end="00:07:59.220" style="s2">of a process it&#39;s a arbitrarily assigned</p>
+<p begin="00:07:55.190" end="00:08:00.450" style="s2">externality and that another thing is</p>
+<p begin="00:07:59.220" end="00:08:02.910" style="s2">people talk about the you know the</p>
+<p begin="00:08:00.450" end="00:08:04.680" style="s2">global economy being we have all this</p>
+<p begin="00:08:02.910" end="00:08:06.750" style="s2">shipping going on and we have all of</p>
+<p begin="00:08:04.680" end="00:08:09.180" style="s2">these materials moving around and it</p>
+<p begin="00:08:06.750" end="00:08:13.590" style="s2">turns out that of 86 trillion dollar</p>
+<p begin="00:08:09.180" end="00:08:15.840" style="s2">worldwide economy that about eight</p>
+<p begin="00:08:13.590" end="00:08:17.700" style="s2">trillion of it is environmental damage</p>
+<p begin="00:08:15.840" end="00:08:21.480" style="s2">what ends up on the bottom line of</p>
+<p begin="00:08:17.700" end="00:08:22.710" style="s2">companies is them failing to pay for the</p>
+<p begin="00:08:21.480" end="00:08:24.180" style="s2">damage that they&#39;re doing to the</p>
+<p begin="00:08:22.710" end="00:08:26.070" style="s2">environment it&#39;s almost 10 percent of</p>
+<p begin="00:08:24.180" end="00:08:27.660" style="s2">the economy and I think if you look</p>
+<p begin="00:08:26.070" end="00:08:30.450" style="s2">across the board for low margin</p>
+<p begin="00:08:27.660" end="00:08:37.110" style="s2">businesses like mining you take mining</p>
+<p begin="00:08:30.450" end="00:08:40.410" style="s2">and because of the all the really easy</p>
+<p begin="00:08:37.110" end="00:08:42.960" style="s2">mining is gone so now we&#39;re working sort</p>
+<p begin="00:08:40.410" end="00:08:45.300" style="s2">of less productive mines and less</p>
+<p begin="00:08:42.960" end="00:08:47.220" style="s2">profitable ores and so forth so I would</p>
+<p begin="00:08:45.300" end="00:08:48.660" style="s2">find it very difficult to imagine that</p>
+<p begin="00:08:47.220" end="00:08:51.720" style="s2">you have an open pit mine somewhere</p>
+<p begin="00:08:48.660" end="00:08:53.460" style="s2">that&#39;s yielding a 10% rate of return and</p>
+<p begin="00:08:51.720" end="00:08:54.060" style="s2">ten percent of the economy is going into</p>
+<p begin="00:08:53.460" end="00:08:56.250" style="s2">environmental</p>
+<p begin="00:08:54.060" end="00:09:01.740" style="s2">so you&#39;re pulling a net loss on</p>
+<p begin="00:08:56.250" end="00:09:04.440" style="s2">destroying environment yeah yeah that&#39;s</p>
+<p begin="00:09:01.740" end="00:09:06.029" style="s2">kind of a bad investment capitalism it&#39;s</p>
+<p begin="00:09:04.440" end="00:09:07.980" style="s2">definitely not I mean it&#39;s gotten us to</p>
+<p begin="00:09:06.029" end="00:09:09.779" style="s2">where we are but we need a new system we</p>
+<p begin="00:09:07.980" end="00:09:12.630" style="s2">need something that looks at the actual</p>
+<p begin="00:09:09.779" end="00:09:15.330" style="s2">truth of what we are doing right</p>
+<p begin="00:09:12.630" end="00:09:19.110" style="s2">something we can use as a real yardstick</p>
+<p begin="00:09:15.330" end="00:09:20.730" style="s2">yes over hundreds of years we&#39;ve had</p>
+<p begin="00:09:19.110" end="00:09:23.640" style="s2">this idea that our earth is like this</p>
+<p begin="00:09:20.730" end="00:09:25.710" style="s2">bounty of endless resources that we can</p>
+<p begin="00:09:23.640" end="00:09:28.350" style="s2">just take from and throw out into the</p>
+<p begin="00:09:25.710" end="00:09:31.230" style="s2">world but mainly the ocean without</p>
+<p begin="00:09:28.350" end="00:09:32.970" style="s2">realizing that clearly isn&#39;t true it</p>
+<p begin="00:09:31.230" end="00:09:35.250" style="s2">goes somewhere it has to be part of an</p>
+<p begin="00:09:32.970" end="00:09:37.410" style="s2">ecosystem it has to have a finite like</p>
+<p begin="00:09:35.250" end="00:09:39.990" style="s2">it has to have a loop to it to be part</p>
+<p begin="00:09:37.410" end="00:09:42.360" style="s2">of the world or it&#39;s going to sit</p>
+<p begin="00:09:39.990" end="00:09:44.820" style="s2">somewhere and probably have devastating</p>
+<p begin="00:09:42.360" end="00:09:46.470" style="s2">impacts and our current system of like</p>
+<p begin="00:09:44.820" end="00:09:48.390" style="s2">just make it will figure out if it does</p>
+<p begin="00:09:46.470" end="00:09:51.720" style="s2"> but then you&#39;re gonna eat like you</p>
+<p begin="00:09:48.390" end="00:09:53.070" style="s2">have people with money and power who are</p>
+<p begin="00:09:51.720" end="00:09:54.570" style="s2">stopping us from knowing that truth</p>
+<p begin="00:09:53.070" end="00:09:56.370" style="s2">because they&#39;re the ones who get money</p>
+<p begin="00:09:54.570" end="00:09:58.530" style="s2">and power from it&#39;s not knowing that</p>
+<p begin="00:09:56.370" end="00:10:00.540" style="s2">truth and including themselves they want</p>
+<p begin="00:09:58.530" end="00:10:02.550" style="s2">to remain ignorant the fact that the</p>
+<p begin="00:10:00.540" end="00:10:05.760" style="s2">chemical they produce causes cancer or</p>
+<p begin="00:10:02.550" end="00:10:09.960" style="s2">infertility or any number of problems</p>
+<p begin="00:10:05.760" end="00:10:12.360" style="s2">within the ecosystem you sterilize some</p>
+<p begin="00:10:09.960" end="00:10:14.780" style="s2">form of sea life that comes up you break</p>
+<p begin="00:10:12.360" end="00:10:18.570" style="s2">a chunk of the food chain you know and</p>
+<p begin="00:10:14.780" end="00:10:24.030" style="s2">we have been doing this consistently now</p>
+<p begin="00:10:18.570" end="00:10:27.150" style="s2">for 200 years I think a good example is</p>
+<p begin="00:10:24.030" end="00:10:29.040" style="s2">the old coal tar you know coal tar was</p>
+<p begin="00:10:27.150" end="00:10:31.380" style="s2">one of the first things all sorts of you</p>
+<p begin="00:10:29.040" end="00:10:33.390" style="s2">know fantastic dyes came out the Germans</p>
+<p begin="00:10:31.380" end="00:10:35.550" style="s2">started discovering Wow you can you can</p>
+<p begin="00:10:33.390" end="00:10:37.860" style="s2">turn yarn blue with some of the extracts</p>
+<p begin="00:10:35.550" end="00:10:41.459" style="s2">from this but the parts they didn&#39;t need</p>
+<p begin="00:10:37.860" end="00:10:45.959" style="s2">they just don&#39;t know River which it</p>
+<p begin="00:10:41.459" end="00:10:49.020" style="s2">turns out was a poorly chosen idea and</p>
+<p begin="00:10:45.959" end="00:10:51.450" style="s2">that&#39;s that&#39;s consistent across all of</p>
+<p begin="00:10:49.020" end="00:10:53.130" style="s2">the manufacturing world manufacturing is</p>
+<p begin="00:10:51.450" end="00:10:55.140" style="s2">35 trillion I just recently found an</p>
+<p begin="00:10:53.130" end="00:10:57.510" style="s2">article I was quoting it out at 12</p>
+<p begin="00:10:55.140" end="00:10:58.890" style="s2">trillion there&#39;s 35 trillion dollars out</p>
+<p begin="00:10:57.510" end="00:11:00.900" style="s2">in 80 trillion dollar economy it&#39;s</p>
+<p begin="00:10:58.890" end="00:11:02.160" style="s2">manufacturing so if you&#39;re going to</p>
+<p begin="00:11:00.900" end="00:11:05.820" style="s2">solve a problem</p>
+<p begin="00:11:02.160" end="00:11:07.830" style="s2">what part of how do you evaluate which</p>
+<p begin="00:11:05.820" end="00:11:10.670" style="s2">problem to solve and so</p>
+<p begin="00:11:07.830" end="00:11:14.370" style="s2">me manufacturing is clearly the root of</p>
+<p begin="00:11:10.670" end="00:11:16.740" style="s2">most of the activity that takes place so</p>
+<p begin="00:11:14.370" end="00:11:20.250" style="s2">if you&#39;re going to address changing the</p>
+<p begin="00:11:16.740" end="00:11:22.850" style="s2">nature of how society interacts with the</p>
+<p begin="00:11:20.250" end="00:11:25.470" style="s2">planet what&#39;s what you go after well</p>
+<p begin="00:11:22.850" end="00:11:27.330" style="s2">manufacturing it&#39;s the big one all the</p>
+<p begin="00:11:25.470" end="00:11:29.610" style="s2">material wealth that exists in our</p>
+<p begin="00:11:27.330" end="00:11:32.010" style="s2">society comes from turning one material</p>
+<p begin="00:11:29.610" end="00:11:36.510" style="s2">into either changing its form or</p>
+<p begin="00:11:32.010" end="00:11:38.490" style="s2">changing its its end use through</p>
+<p begin="00:11:36.510" end="00:11:40.230" style="s2">manufacturing so manufacturing is pretty</p>
+<p begin="00:11:38.490" end="00:11:41.550" style="s2">boring it turns people off they&#39;re not</p>
+<p begin="00:11:40.230" end="00:11:44.820" style="s2">interested and want to think about all</p>
+<p begin="00:11:41.550" end="00:11:47.580" style="s2">that but it&#39;s the crucial underlying</p>
+<p begin="00:11:44.820" end="00:11:50.130" style="s2">thing that drives almost all of the</p>
+<p begin="00:11:47.580" end="00:11:52.950" style="s2">other activities banking banking is this</p>
+<p begin="00:11:50.130" end="00:11:56.850" style="s2">little froth at the top of the pot it&#39;s</p>
+<p begin="00:11:52.950" end="00:11:59.850" style="s2">not what&#39;s really causing things to</p>
+<p begin="00:11:56.850" end="00:12:02.850" style="s2">occur resource extraction is at the</p>
+<p begin="00:11:59.850" end="00:12:04.050" style="s2">bottom you know and it propagates up</p>
+<p begin="00:12:02.850" end="00:12:07.410" style="s2">through all these steps but</p>
+<p begin="00:12:04.050" end="00:12:10.020" style="s2">manufacturing and our need for novelty</p>
+<p begin="00:12:07.410" end="00:12:12.360" style="s2">and continuous supplies of new material</p>
+<p begin="00:12:10.020" end="00:12:14.160" style="s2">goods and that back to Walmart does six</p>
+<p begin="00:12:12.360" end="00:12:16.350" style="s2">months lifespan of the products that</p>
+<p begin="00:12:14.160" end="00:12:19.560" style="s2">they produce if those products are not</p>
+<p begin="00:12:16.350" end="00:12:21.600" style="s2">produced with recycling in mind you know</p>
+<p begin="00:12:19.560" end="00:12:23.730" style="s2">you end up with stupid things like juice</p>
+<p begin="00:12:21.600" end="00:12:25.590" style="s2">packs juice packs we get 15 different</p>
+<p begin="00:12:23.730" end="00:12:27.510" style="s2">layers of materials sonically bonded</p>
+<p begin="00:12:25.590" end="00:12:29.280" style="s2">together the you&#39;re never gonna recycle</p>
+<p begin="00:12:27.510" end="00:12:32.160" style="s2">it because it&#39;s just almost impossible</p>
+<p begin="00:12:29.280" end="00:12:33.660" style="s2">to separate those you&#39;d have to you know</p>
+<p begin="00:12:32.160" end="00:12:36.330" style="s2">you&#39;d have to dissolve everything and</p>
+<p begin="00:12:33.660" end="00:12:39.060" style="s2">then precipitate it all out it&#39;s not</p>
+<p begin="00:12:36.330" end="00:12:41.520" style="s2">feasible it doesn&#39;t even make sense and</p>
+<p begin="00:12:39.060" end="00:12:42.810" style="s2">really our juice packs worth all that I</p>
+<p begin="00:12:41.520" end="00:12:44.070" style="s2">don&#39;t think they are I think we&#39;d</p>
+<p begin="00:12:42.810" end="00:12:45.660" style="s2">probably come up with a different form</p>
+<p begin="00:12:44.070" end="00:12:47.600" style="s2">of container especially if you&#39;re</p>
+<p begin="00:12:45.660" end="00:12:49.620" style="s2">working you know the old milk bottle</p>
+<p begin="00:12:47.600" end="00:12:58.410" style="s2">concept that&#39;s a thing we already have</p>
+<p begin="00:12:49.620" end="00:13:01.020" style="s2">one so it can cost more for that 20 line</p>
+<p begin="00:12:58.410" end="00:13:03.060" style="s2">not having a long-distance Freight for</p>
+<p begin="00:13:01.020" end="00:13:04.470" style="s2">any more than what is essential if</p>
+<p begin="00:13:03.060" end="00:13:07.380" style="s2">everything is produced locally including</p>
+<p begin="00:13:04.470" end="00:13:09.420" style="s2">containers you know how much glass is</p>
+<p begin="00:13:07.380" end="00:13:10.860" style="s2">there I live in San Antonio Texas it&#39;s a</p>
+<p begin="00:13:09.420" end="00:13:12.630" style="s2">largest city in the United States</p>
+<p begin="00:13:10.860" end="00:13:16.620" style="s2">physically even though it&#39;s not the</p>
+<p begin="00:13:12.630" end="00:13:19.350" style="s2">highest population area solid waste here</p>
+<p begin="00:13:16.620" end="00:13:20.310" style="s2">is astounding people throw away stuff</p>
+<p begin="00:13:19.350" end="00:13:21.720" style="s2">constantly</p>
+<p begin="00:13:20.310" end="00:13:23.759" style="s2">a lot of its class</p>
+<p begin="00:13:21.720" end="00:13:25.470" style="s2">you know and if you&#39;re hauling glass a</p>
+<p begin="00:13:23.759" end="00:13:28.310" style="s2">few hundred miles well you have a fuel</p>
+<p begin="00:13:25.470" end="00:13:31.350" style="s2">of fuel consequences of that are pretty</p>
+<p begin="00:13:28.310" end="00:13:32.879" style="s2">impactful but if you&#39;re only producing</p>
+<p begin="00:13:31.350" end="00:13:35.519" style="s2">it and distributing it within a</p>
+<p begin="00:13:32.879" end="00:13:37.290" style="s2">neighborhood and see that I think that</p>
+<p begin="00:13:35.519" end="00:13:41.189" style="s2">if you put manufacturing in place you</p>
+<p begin="00:13:37.290" end="00:13:44.370" style="s2">make if you put high efficiency you know</p>
+<p begin="00:13:41.189" end="00:13:47.610" style="s2">high performance fully automated</p>
+<p begin="00:13:44.370" end="00:13:49.230" style="s2">manufacturing in place then prototyping</p>
+<p begin="00:13:47.610" end="00:13:52.379" style="s2">stuff becomes much easier because you</p>
+<p begin="00:13:49.230" end="00:13:55.680" style="s2">have completely digital tool chain for</p>
+<p begin="00:13:52.379" end="00:14:00.089" style="s2">design you uh you make the product and</p>
+<p begin="00:13:55.680" end="00:14:02.730" style="s2">and digitally in simulation and then you</p>
+<p begin="00:14:00.089" end="00:14:04.649" style="s2">produce one and say oops well I didn&#39;t</p>
+<p begin="00:14:02.730" end="00:14:06.089" style="s2">right you know you have a you have an</p>
+<p begin="00:14:04.649" end="00:14:07.740" style="s2">error correction loop right at the end</p>
+<p begin="00:14:06.089" end="00:14:09.720" style="s2">you produce one copy but you don&#39;t have</p>
+<p begin="00:14:07.740" end="00:14:10.860" style="s2">to produce two hundred of them and then</p>
+<p begin="00:14:09.720" end="00:14:12.449" style="s2">circulate them with people and have them</p>
+<p begin="00:14:10.860" end="00:14:16.829" style="s2">tested the way products are tested now</p>
+<p begin="00:14:12.449" end="00:14:18.959" style="s2">you can test very small quantities of</p>
+<p begin="00:14:16.829" end="00:14:20.730" style="s2">prototypes because they&#39;re very easy to</p>
+<p begin="00:14:18.959" end="00:14:22.410" style="s2">produce they&#39;re produced from a template</p>
+<p begin="00:14:20.730" end="00:14:23.910" style="s2">if you have designed the template</p>
+<p begin="00:14:22.410" end="00:14:26.759" style="s2">properly then you get exactly what you</p>
+<p begin="00:14:23.910" end="00:14:28.709" style="s2">asked for and if that is correct then</p>
+<p begin="00:14:26.759" end="00:14:31.199" style="s2">you can deploy it in the field and then</p>
+<p begin="00:14:28.709" end="00:14:32.879" style="s2">people in Botswana can have your product</p>
+<p begin="00:14:31.199" end="00:14:34.559" style="s2">the same day that you release the</p>
+<p begin="00:14:32.879" end="00:14:36.509" style="s2">template because they download whatever</p>
+<p begin="00:14:34.559" end="00:14:38.879" style="s2">it is feed materials in one end and get</p>
+<p begin="00:14:36.509" end="00:14:42.420" style="s2">the gadget out the other end and that</p>
+<p begin="00:14:38.879" end="00:14:45.269" style="s2">that means also that for open source</p>
+<p begin="00:14:42.420" end="00:14:47.550" style="s2">solutions that relate to agriculture or</p>
+<p begin="00:14:45.269" end="00:14:49.050" style="s2">medicine or you know the 3d print</p>
+<p begin="00:14:47.550" end="00:14:50.959" style="s2">prosthesis the hands that they&#39;re</p>
+<p begin="00:14:49.050" end="00:14:53.579" style="s2">printing for kids with their Mozilla</p>
+<p begin="00:14:50.959" end="00:14:55.379" style="s2">that to me is a perfect model of what</p>
+<p begin="00:14:53.579" end="00:14:57.660" style="s2">I&#39;m talking about because somebody</p>
+<p begin="00:14:55.379" end="00:15:01.800" style="s2">designs this articulated gadget that</p>
+<p begin="00:14:57.660" end="00:15:03.990" style="s2">spits on your your terminal limb and all</p>
+<p begin="00:15:01.800" end="00:15:07.170" style="s2">of a sudden you have a hand you know</p>
+<p begin="00:15:03.990" end="00:15:09.509" style="s2">it&#39;s probably not the the most</p>
+<p begin="00:15:07.170" end="00:15:11.009" style="s2">sophisticated product but I think that</p>
+<p begin="00:15:09.509" end="00:15:12.600" style="s2">would change if you had relatively</p>
+<p begin="00:15:11.009" end="00:15:15.959" style="s2">sophisticated manufacturing everywhere</p>
+<p begin="00:15:12.600" end="00:15:18.860" style="s2">because then you could have the best</p>
+<p begin="00:15:15.959" end="00:15:22.379" style="s2">that medical technology can produce</p>
+<p begin="00:15:18.860" end="00:15:24.839" style="s2">anywhere no more than the cost of</p>
+<p begin="00:15:22.379" end="00:15:26.879" style="s2">materials and energy because yeah and</p>
+<p begin="00:15:24.839" end="00:15:28.559" style="s2">when someone upgrades it when somebody</p>
+<p begin="00:15:26.879" end="00:15:30.899" style="s2">comes up with a better solution for any</p>
+<p begin="00:15:28.559" end="00:15:32.519" style="s2">of it it&#39;s available to everyone after</p>
+<p begin="00:15:30.899" end="00:15:34.500" style="s2">they&#39;ve tested it hopefully sit on</p>
+<p begin="00:15:32.519" end="00:15:35.220" style="s2">everyone&#39;s doing a billion copies of</p>
+<p begin="00:15:34.500" end="00:15:37.500" style="s2">something that was</p>
+<p begin="00:15:35.220" end="00:15:38.910" style="s2">par but why would you do that you&#39;d wait</p>
+<p begin="00:15:37.500" end="00:15:40.950" style="s2">until it was tested there&#39;ll be the</p>
+<p begin="00:15:38.910" end="00:15:42.510" style="s2">early adopters who try it out and want</p>
+<p begin="00:15:40.950" end="00:15:44.430" style="s2">it first and then those were like right</p>
+<p begin="00:15:42.510" end="00:15:46.260" style="s2">no I want it now that it&#39;s tested I want</p>
+<p begin="00:15:44.430" end="00:15:48.300" style="s2">that well yeah the beta there and you</p>
+<p begin="00:15:46.260" end="00:15:51.390" style="s2">know the beta versions on the on the</p>
+<p begin="00:15:48.300" end="00:15:54.690" style="s2">thing but you know obviously you want</p>
+<p begin="00:15:51.390" end="00:15:57.480" style="s2">you want consensus to come back and say</p>
+<p begin="00:15:54.690" end="00:15:59.400" style="s2">hey this one works really good and all</p>
+<p begin="00:15:57.480" end="00:16:01.200" style="s2">that&#39;s wrong with is the thumbs funny or</p>
+<p begin="00:15:59.400" end="00:16:04.170" style="s2">whatever you know and then correction</p>
+<p begin="00:16:01.200" end="00:16:06.570" style="s2">happens and you end up them with decent</p>
+<p begin="00:16:04.170" end="00:16:09.990" style="s2">prosthesis and see that applies across</p>
+<p begin="00:16:06.570" end="00:16:12.810" style="s2">so agriculture I&#39;m working with some</p>
+<p begin="00:16:09.990" end="00:16:14.040" style="s2">people who are putting a project</p>
+<p begin="00:16:12.810" end="00:16:16.230" style="s2">together in the Philippines so in</p>
+<p begin="00:16:14.040" end="00:16:18.600" style="s2">February we&#39;re gonna present this</p>
+<p begin="00:16:16.230" end="00:16:21.990" style="s2">hopefully this person has contacts with</p>
+<p begin="00:16:18.600" end="00:16:25.080" style="s2">some of the attorneys in the judiciary</p>
+<p begin="00:16:21.990" end="00:16:27.050" style="s2">and they seem to think that they can get</p>
+<p begin="00:16:25.080" end="00:16:29.880" style="s2">this in front of president de corte so</p>
+<p begin="00:16:27.050" end="00:16:31.740" style="s2">the objective is to write proposal and</p>
+<p begin="00:16:29.880" end="00:16:35.520" style="s2">get it in front of them and build a very</p>
+<p begin="00:16:31.740" end="00:16:37.770" style="s2">small pilot community that will use a</p>
+<p begin="00:16:35.520" end="00:16:39.450" style="s2">lot of passive solar it&#39;ll use a lot of</p>
+<p begin="00:16:37.770" end="00:16:41.090" style="s2">that there&#39;s quite a bit the technology</p>
+<p begin="00:16:39.450" end="00:16:44.820" style="s2">coming out of India that&#39;s like the</p>
+<p begin="00:16:41.090" end="00:16:46.830" style="s2">biogas generators you know where human</p>
+<p begin="00:16:44.820" end="00:16:48.810" style="s2">waste and kitchen waste goes into this</p>
+<p begin="00:16:46.830" end="00:16:51.090" style="s2">digester and they mix it with cow manure</p>
+<p begin="00:16:48.810" end="00:16:53.310" style="s2">it produces methane the methane goes</p>
+<p begin="00:16:51.090" end="00:16:57.240" style="s2">through a set of scrubbers and then it&#39;s</p>
+<p begin="00:16:53.310" end="00:16:59.610" style="s2">used for cooking gas so that&#39;s something</p>
+<p begin="00:16:57.240" end="00:17:02.280" style="s2">that&#39;s technologically pretty easy to</p>
+<p begin="00:16:59.610" end="00:17:03.960" style="s2">achieve and it provides this feedback</p>
+<p begin="00:17:02.280" end="00:17:06.630" style="s2">loop a lot of people in the Philippines</p>
+<p begin="00:17:03.960" end="00:17:08.579" style="s2">are desperately poor so it&#39;s become a</p>
+<p begin="00:17:06.630" end="00:17:11.250" style="s2">very poor nation it was actually very</p>
+<p begin="00:17:08.579" end="00:17:15.449" style="s2">prosperous in the 50s and something went</p>
+<p begin="00:17:11.250" end="00:17:20.189" style="s2">wrong and but that kind of technology</p>
+<p begin="00:17:15.449" end="00:17:24.180" style="s2">building a small pilot village with all</p>
+<p begin="00:17:20.189" end="00:17:27.839" style="s2">of the passive solar water collection</p>
+<p begin="00:17:24.180" end="00:17:30.720" style="s2">you know Philippines really wet so no</p>
+<p begin="00:17:27.839" end="00:17:32.520" style="s2">shortage of water and putting all of</p>
+<p begin="00:17:30.720" end="00:17:34.830" style="s2">those systems together as a pilot and</p>
+<p begin="00:17:32.520" end="00:17:36.810" style="s2">then making it replica replicable</p>
+<p begin="00:17:34.830" end="00:17:38.520" style="s2">through this technology so that they can</p>
+<p begin="00:17:36.810" end="00:17:40.380" style="s2">produce all the technical parts for a</p>
+<p begin="00:17:38.520" end="00:17:43.110" style="s2">system and deploy it across the</p>
+<p begin="00:17:40.380" end="00:17:44.940" style="s2">Philippines multiple locations so I</p>
+<p begin="00:17:43.110" end="00:17:46.650" style="s2">don&#39;t know whether this will come to</p>
+<p begin="00:17:44.940" end="00:17:49.490" style="s2">fruition or not but it&#39;s certainly it&#39;s</p>
+<p begin="00:17:46.650" end="00:17:52.920" style="s2">one of the many efforts to try and get</p>
+<p begin="00:17:49.490" end="00:17:57.330" style="s2">the ability for a mini factory to</p>
+<p begin="00:17:52.920" end="00:17:59.400" style="s2">leverage other people&#39;s solutions so</p>
+<p begin="00:17:57.330" end="00:18:01.140" style="s2">that they can be deployed anywhere you</p>
+<p begin="00:17:59.400" end="00:18:03.960" style="s2">know design it in Boston deployed in</p>
+<p begin="00:18:01.140" end="00:18:06.240" style="s2">Botswana it&#39;s it doesn&#39;t there is no</p>
+<p begin="00:18:03.960" end="00:18:08.010" style="s2">distance anymore if you build localized</p>
+<p begin="00:18:06.240" end="00:18:10.170" style="s2">factories the other thing is make</p>
+<p begin="00:18:08.010" end="00:18:12.960" style="s2">factories cheap so that everybody can</p>
+<p begin="00:18:10.170" end="00:18:15.540" style="s2">have them and in response to something</p>
+<p begin="00:18:12.960" end="00:18:17.180" style="s2">you mentioned and now my mind&#39;s clouding</p>
+<p begin="00:18:15.540" end="00:18:21.570" style="s2">up and I can&#39;t think what it was exactly</p>
+<p begin="00:18:17.180" end="00:18:24.300" style="s2">but the concentration of wealth again if</p>
+<p begin="00:18:21.570" end="00:18:26.940" style="s2">you look at manufacturing well big</p>
+<p begin="00:18:24.300" end="00:18:29.310" style="s2">companies concentrate wealth shipping</p>
+<p begin="00:18:26.940" end="00:18:32.010" style="s2">companies concentrate wealth raw</p>
+<p begin="00:18:29.310" end="00:18:34.230" style="s2">materials and energy all of those areas</p>
+<p begin="00:18:32.010" end="00:18:36.600" style="s2">are the areas where the the billionaires</p>
+<p begin="00:18:34.230" end="00:18:38.430" style="s2">are created you know Amazon is sort of</p>
+<p begin="00:18:36.600" end="00:18:39.780" style="s2">this outlier and the technology</p>
+<p begin="00:18:38.430" end="00:18:42.000" style="s2">companies are a very recent development</p>
+<p begin="00:18:39.780" end="00:18:44.730" style="s2">it&#39;s always been manufacturing and</p>
+<p begin="00:18:42.000" end="00:18:47.180" style="s2">materials and energy but now technology</p>
+<p begin="00:18:44.730" end="00:18:50.250" style="s2">has found a way to sort of broker</p>
+<p begin="00:18:47.180" end="00:18:53.250" style="s2">everything we do on top of those</p>
+<p begin="00:18:50.250" end="00:18:55.220" style="s2">foundational elements to society so you</p>
+<p begin="00:18:53.250" end="00:18:57.810" style="s2">have Microsoft and you have you know</p>
+<p begin="00:18:55.220" end="00:19:00.630" style="s2">Google and Amazon and all these things</p>
+<p begin="00:18:57.810" end="00:19:02.820" style="s2">so there&#39;s a lot of money in those but</p>
+<p begin="00:19:00.630" end="00:19:05.310" style="s2">it&#39;s a concentration of wealth that</p>
+<p begin="00:19:02.820" end="00:19:07.770" style="s2">comes from brokering real things that</p>
+<p begin="00:19:05.310" end="00:19:09.270" style="s2">people want whether it&#39;s goods or the</p>
+<p begin="00:19:07.770" end="00:19:13.080" style="s2">management of their computers or</p>
+<p begin="00:19:09.270" end="00:19:15.930" style="s2">whatever if you deploy manufacturing</p>
+<p begin="00:19:13.080" end="00:19:18.350" style="s2">everywhere locally concentration of</p>
+<p begin="00:19:15.930" end="00:19:21.600" style="s2">wealth is very difficult to incentivize</p>
+<p begin="00:19:18.350" end="00:19:23.670" style="s2">because the local if you interact with</p>
+<p begin="00:19:21.600" end="00:19:26.640" style="s2">the system you own a partial share and</p>
+<p begin="00:19:23.670" end="00:19:29.810" style="s2">it&#39;s a co-op model the idea is that so</p>
+<p begin="00:19:26.640" end="00:19:32.100" style="s2">my local Factory in my community there&#39;s</p>
+<p begin="00:19:29.810" end="00:19:34.050" style="s2">10,000 people it serves I own one ten</p>
+<p begin="00:19:32.100" end="00:19:35.880" style="s2">thousandth of it there&#39;s no incentive</p>
+<p begin="00:19:34.050" end="00:19:38.940" style="s2">for somebody else to buy my share they</p>
+<p begin="00:19:35.880" end="00:19:41.850" style="s2">don&#39;t get anything for it and that way</p>
+<p begin="00:19:38.940" end="00:19:44.760" style="s2">you can basically you can sort of de</p>
+<p begin="00:19:41.850" end="00:19:48.000" style="s2">monetize the process of producing goods</p>
+<p begin="00:19:44.760" end="00:19:49.830" style="s2">because I&#39;m not gonna make money off of</p>
+<p begin="00:19:48.000" end="00:19:51.570" style="s2">it I all I can get from it as Goods and</p>
+<p begin="00:19:49.830" end="00:19:56.300" style="s2">those goods are proportional how much</p>
+<p begin="00:19:51.570" end="00:19:58.320" style="s2">material I feed into it so your</p>
+<p begin="00:19:56.300" end="00:20:02.970" style="s2">disincentivizing the concentration of</p>
+<p begin="00:19:58.320" end="00:20:07.260" style="s2">wealth for 35 trillion dollars of a 96</p>
+<p begin="00:20:02.970" end="00:20:09.539" style="s2">dollar economy that&#39;s likely to have a</p>
+<p begin="00:20:07.260" end="00:20:11.929" style="s2">fairly significant impact even if there</p>
+<p begin="00:20:09.539" end="00:20:14.700" style="s2">were only 1% market penetration and</p>
+<p begin="00:20:11.929" end="00:20:16.440" style="s2">people only 1% of people you know I</p>
+<p begin="00:20:14.700" end="00:20:19.400" style="s2">think what&#39;s the advantage has become</p>
+<p begin="00:20:16.440" end="00:20:23.909" style="s2">obvious who was it</p>
+<p begin="00:20:19.400" end="00:20:28.370" style="s2">one of the Futurist speakers was talking</p>
+<p begin="00:20:23.909" end="00:20:30.570" style="s2">about the marginal marginal cost economy</p>
+<p begin="00:20:28.370" end="00:20:34.140" style="s2">basically where automated production</p>
+<p begin="00:20:30.570" end="00:20:36.809" style="s2">reduces the value of goods or the cost</p>
+<p begin="00:20:34.140" end="00:20:39.059" style="s2">of goods to their marginal value it only</p>
+<p begin="00:20:36.809" end="00:20:40.530" style="s2">costs materials energy and of course</p>
+<p begin="00:20:39.059" end="00:20:42.120" style="s2">there could be labor and freight and so</p>
+<p begin="00:20:40.530" end="00:20:44.789" style="s2">forth in there but the idea with this is</p>
+<p begin="00:20:42.120" end="00:20:47.190" style="s2">to eliminate the labor by through</p>
+<p begin="00:20:44.789" end="00:20:48.990" style="s2">automation and eliminate the freight by</p>
+<p begin="00:20:47.190" end="00:20:50.640" style="s2">making it locally so two of the</p>
+<p begin="00:20:48.990" end="00:20:52.559" style="s2">components of the cost go away from a</p>
+<p begin="00:20:50.640" end="00:20:54.870" style="s2">product and now it&#39;s just the materials</p>
+<p begin="00:20:52.559" end="00:20:56.400" style="s2">and energy and the reason for automation</p>
+<p begin="00:20:54.870" end="00:20:58.890" style="s2">is you know people say well you want to</p>
+<p begin="00:20:56.400" end="00:21:01.679" style="s2">take everybody&#39;s jobs yes I do</p>
+<p begin="00:20:58.890" end="00:21:04.049" style="s2">that&#39;s been the objective for last 150</p>
+<p begin="00:21:01.679" end="00:21:07.830" style="s2">years people who have wanted to give up</p>
+<p begin="00:21:04.049" end="00:21:10.559" style="s2">the misery of time driven slavery of</p>
+<p begin="00:21:07.830" end="00:21:12.750" style="s2">having to report to work it doesn&#39;t mean</p>
+<p begin="00:21:10.559" end="00:21:14.909" style="s2">that you can&#39;t still pursue an interest</p>
+<p begin="00:21:12.750" end="00:21:16.950" style="s2">like if you are really good at painting</p>
+<p begin="00:21:14.909" end="00:21:19.770" style="s2">houses and you like painting houses</p>
+<p begin="00:21:16.950" end="00:21:23.789" style="s2">we&#39;ll go paint a house somebody wants it</p>
+<p begin="00:21:19.770" end="00:21:27.480" style="s2">but train a robot while you&#39;re at it so</p>
+<p begin="00:21:23.789" end="00:21:29.280" style="s2">that the drudgery of those kinds of</p>
+<p begin="00:21:27.480" end="00:21:32.309" style="s2">tasks can be removed it doesn&#39;t remove</p>
+<p begin="00:21:29.280" end="00:21:33.960" style="s2">the opportunity you can still do it and</p>
+<p begin="00:21:32.309" end="00:21:36.030" style="s2">if that&#39;s what you liked it maybe you</p>
+<p begin="00:21:33.960" end="00:21:39.000" style="s2">like to build boats you know build a</p>
+<p begin="00:21:36.030" end="00:21:42.539" style="s2">boat nobody&#39;s gonna stop you from doing</p>
+<p begin="00:21:39.000" end="00:21:45.960" style="s2">those things but it removes the drudgery</p>
+<p begin="00:21:42.539" end="00:21:49.559" style="s2">build a boat record the design now make</p>
+<p begin="00:21:45.960" end="00:21:51.929" style="s2">50 boats but look machines do the other</p>
+<p begin="00:21:49.559" end="00:21:54.030" style="s2">49 because you&#39;ve done such a fantastic</p>
+<p begin="00:21:51.929" end="00:21:56.370" style="s2">job on the first one or a terrible job</p>
+<p begin="00:21:54.030" end="00:22:01.770" style="s2">on the first one isn&#39;t it whatever but</p>
+<p begin="00:21:56.370" end="00:22:03.720" style="s2">for the point bees can do it yeah the</p>
+<p begin="00:22:01.770" end="00:22:05.400" style="s2">point is that it&#39;s not ill it&#39;s not</p>
+<p begin="00:22:03.720" end="00:22:07.710" style="s2">limiting people&#39;s potential</p>
+<p begin="00:22:05.400" end="00:22:09.840" style="s2">it&#39;s simply leveraging people&#39;s</p>
+<p begin="00:22:07.710" end="00:22:11.700" style="s2">potential by allowing them to automate</p>
+<p begin="00:22:09.840" end="00:22:14.250" style="s2">automation doesn&#39;t should belong to</p>
+<p begin="00:22:11.700" end="00:22:16.450" style="s2">corporations you know Automation is the</p>
+<p begin="00:22:14.250" end="00:22:19.300" style="s2">cumulative</p>
+<p begin="00:22:16.450" end="00:22:21.850" style="s2">idle wisdom of literally hundreds of</p>
+<p begin="00:22:19.300" end="00:22:25.510" style="s2">millions of man-hours of woman hours of</p>
+<p begin="00:22:21.850" end="00:22:30.100" style="s2">effort over the course of the last you</p>
+<p begin="00:22:25.510" end="00:22:32.260" style="s2">know hundred years those efforts were to</p>
+<p begin="00:22:30.100" end="00:22:35.890" style="s2">make life easier for the people doing</p>
+<p begin="00:22:32.260" end="00:22:37.630" style="s2">the work to a large degree they wanted</p>
+<p begin="00:22:35.890" end="00:22:40.750" style="s2">to make things easier for them to make</p>
+<p begin="00:22:37.630" end="00:22:43.810" style="s2">their company make more money sure but</p>
+<p begin="00:22:40.750" end="00:22:46.120" style="s2">also to eliminate the drudgery of time</p>
+<p begin="00:22:43.810" end="00:22:49.450" style="s2">you know a hundred thousand knots to</p>
+<p begin="00:22:46.120" end="00:22:53.500" style="s2">make a fishing net the kinds of things</p>
+<p begin="00:22:49.450" end="00:22:57.090" style="s2">that automation does is to vastly</p>
+<p begin="00:22:53.500" end="00:23:00.520" style="s2">leverage humans human productivity and</p>
+<p begin="00:22:57.090" end="00:23:02.920" style="s2">that resource should not be available</p>
+<p begin="00:23:00.520" end="00:23:04.900" style="s2">only to companies it should be available</p>
+<p begin="00:23:02.920" end="00:23:07.450" style="s2">to individuals automate automation</p>
+<p begin="00:23:04.900" end="00:23:09.970" style="s2">ultimately shines when I have automation</p>
+<p begin="00:23:07.450" end="00:23:13.240" style="s2">on my little homestead and I don&#39;t have</p>
+<p begin="00:23:09.970" end="00:23:14.890" style="s2">to weed the damn potatoes I can turn it</p>
+<p begin="00:23:13.240" end="00:23:17.230" style="s2">over to some machine who is perfectly</p>
+<p begin="00:23:14.890" end="00:23:21.730" style="s2">content with you know yanking weeds all</p>
+<p begin="00:23:17.230" end="00:23:23.950" style="s2">day then then you can then you can</p>
+<p begin="00:23:21.730" end="00:23:27.450" style="s2">explore your own potential or do</p>
+<p begin="00:23:23.950" end="00:23:27.450" style="s2">something more interesting and</p>
+<p begin="00:23:27.480" end="00:23:33.370" style="s2">automation takes care of the grunt work</p>
+<p begin="00:23:30.390" end="00:23:36.640" style="s2">that&#39;s what it&#39;s for that&#39;s why we built</p>
+<p begin="00:23:33.370" end="00:23:38.530" style="s2">it to begin with we built it to get to</p>
+<p begin="00:23:36.640" end="00:23:42.670" style="s2">limit the amount of drudgery let me had</p>
+<p begin="00:23:38.530" end="00:23:44.830" style="s2">people stand and find machines no the</p>
+<p begin="00:23:42.670" end="00:23:46.600" style="s2">orphanage is providing children to the</p>
+<p begin="00:23:44.830" end="00:23:47.980" style="s2">textile mills so that they could stand</p>
+<p begin="00:23:46.600" end="00:23:52.120" style="s2">in front of the loom and make sure they</p>
+<p begin="00:23:47.980" end="00:23:54.820" style="s2">didn&#39;t screw up we&#39;ve moved away from</p>
+<p begin="00:23:52.120" end="00:23:56.710" style="s2">that for some reason but we haven&#39;t</p>
+<p begin="00:23:54.820" end="00:23:59.320" style="s2">moved far enough we haven&#39;t moved to the</p>
+<p begin="00:23:56.710" end="00:24:01.030" style="s2">big obvious end point we have a lot of</p>
+<p begin="00:23:59.320" end="00:24:02.290" style="s2">Technology the biggest problem is this</p>
+<p begin="00:24:01.030" end="00:24:04.390" style="s2">because of the commercial system</p>
+<p begin="00:24:02.290" end="00:24:06.700" style="s2">automation is so expensive no one can</p>
+<p begin="00:24:04.390" end="00:24:08.020" style="s2">afford it so that&#39;s the other part of</p>
+<p begin="00:24:06.700" end="00:24:10.900" style="s2">the objective of building this system</p>
+<p begin="00:24:08.020" end="00:24:12.940" style="s2">It&#39;s Made humans are still cheaper yeah</p>
+<p begin="00:24:10.900" end="00:24:14.680" style="s2">and they shouldn&#39;t be because machines</p>
+<p begin="00:24:12.940" end="00:24:17.410" style="s2">you know you&#39;re never gonna get a</p>
+<p begin="00:24:14.680" end="00:24:19.480" style="s2">machine that shows up to work 365 days a</p>
+<p begin="00:24:17.410" end="00:24:21.670" style="s2">year and it&#39;s happy to do it you&#39;re not</p>
+<p begin="00:24:19.480" end="00:24:23.950" style="s2">gonna get humans to do that absolutely I</p>
+<p begin="00:24:21.670" end="00:24:25.840" style="s2">mean I wouldn&#39;t do what a machine would</p>
+<p begin="00:24:23.950" end="00:24:28.300" style="s2">do if we still had to manufacture things</p>
+<p begin="00:24:25.840" end="00:24:28.780" style="s2">locally in the way we used to do because</p>
+<p begin="00:24:28.300" end="00:24:31.570" style="s2">shipping</p>
+<p begin="00:24:28.780" end="00:24:33.700" style="s2">so expensive because you do not be able</p>
+<p begin="00:24:31.570" end="00:24:35.830" style="s2">to pay people $25 an hour and have that</p>
+<p begin="00:24:33.700" end="00:24:38.350" style="s2">cheap good available at Walmart when you</p>
+<p begin="00:24:35.830" end="00:24:40.750" style="s2">can buy a human being for $50 and just</p>
+<p begin="00:24:38.350" end="00:24:42.220" style="s2">use them till they&#39;re disposable and buy</p>
+<p begin="00:24:40.750" end="00:24:44.740" style="s2">a new human being and buy a new human</p>
+<p begin="00:24:42.220" end="00:24:47.350" style="s2">being and we have really took serious</p>
+<p begin="00:24:44.740" end="00:24:48.700" style="s2">you know hands and such then yeah it</p>
+<p begin="00:24:47.350" end="00:24:51.460" style="s2">doesn&#39;t make sense to automate when you</p>
+<p begin="00:24:48.700" end="00:24:53.770" style="s2">can instead be a horrible evil human</p>
+<p begin="00:24:51.460" end="00:24:57.220" style="s2">being and use humans till they&#39;re</p>
+<p begin="00:24:53.770" end="00:25:01.330" style="s2">disposable a bland new to the realities</p>
+<p begin="00:24:57.220" end="00:25:03.610" style="s2">of what living in that job is like mm-hm</p>
+<p begin="00:25:01.330" end="00:25:06.250" style="s2">simply defer it on to some core bastard</p>
+<p begin="00:25:03.610" end="00:25:08.290" style="s2">who has no choice and that&#39;s you know</p>
+<p begin="00:25:06.250" end="00:25:11.800" style="s2">leveraging people into the terrible work</p>
+<p begin="00:25:08.290" end="00:25:13.810" style="s2">so another project has come up is that</p>
+<p begin="00:25:11.800" end="00:25:16.450" style="s2">somebody in Bangladesh or somebody who&#39;s</p>
+<p begin="00:25:13.810" end="00:25:19.120" style="s2">a developer in Houston actually inside</p>
+<p begin="00:25:16.450" end="00:25:21.160" style="s2">the TED talk they they talked to me</p>
+<p begin="00:25:19.120" end="00:25:23.830" style="s2">about kids want to take it to Bangladesh</p>
+<p begin="00:25:21.160" end="00:25:26.410" style="s2">to try and enable smaller businesses to</p>
+<p begin="00:25:23.830" end="00:25:28.390" style="s2">be able to kind of self actualize</p>
+<p begin="00:25:26.410" end="00:25:30.460" style="s2">instead of ending up working for some</p>
+<p begin="00:25:28.390" end="00:25:32.770" style="s2">big textile mill some foreign company</p>
+<p begin="00:25:30.460" end="00:25:34.420" style="s2">they won&#39;t even work for domestic</p>
+<p begin="00:25:32.770" end="00:25:38.230" style="s2">companies in Bangladesh can actually</p>
+<p begin="00:25:34.420" end="00:25:41.740" style="s2">make a living so that nothing has really</p>
+<p begin="00:25:38.230" end="00:25:43.540" style="s2">come from that talk yet but I&#39;ve gotten</p>
+<p begin="00:25:41.740" end="00:25:45.700" style="s2">pinged a couple of times by the party</p>
+<p begin="00:25:43.540" end="00:25:47.170" style="s2">involved so there is some interest in</p>
+<p begin="00:25:45.700" end="00:25:48.760" style="s2">that and even if it doesn&#39;t work out for</p>
+<p begin="00:25:47.170" end="00:25:54.790" style="s2">Bangladesh it&#39;s a model to try and</p>
+<p begin="00:25:48.760" end="00:25:56.860" style="s2">implement elsewhere or anywhere to to</p>
+<p begin="00:25:54.790" end="00:25:58.540" style="s2">try and get the idea with this as</p>
+<p begin="00:25:56.860" end="00:26:00.660" style="s2">machines are all open-source you know so</p>
+<p begin="00:25:58.540" end="00:26:04.300" style="s2">you go down your local hackerspace and</p>
+<p begin="00:26:00.660" end="00:26:07.180" style="s2">download templates and try and build one</p>
+<p begin="00:26:04.300" end="00:26:09.280" style="s2">of these guys and once they&#39;re</p>
+<p begin="00:26:07.180" end="00:26:13.420" style="s2">operational my biggest problem is I need</p>
+<p begin="00:26:09.280" end="00:26:15.150" style="s2">to I need more time and I need to drum</p>
+<p begin="00:26:13.420" end="00:26:19.570" style="s2">up funding and I frankly have enough</p>
+<p begin="00:26:15.150" end="00:26:22.540" style="s2">money for right now my my wonderful</p>
+<p begin="00:26:19.570" end="00:26:24.220" style="s2">girlfriend has taken care of me now for</p>
+<p begin="00:26:22.540" end="00:26:28.150" style="s2">a number of years as I&#39;ve worked on this</p>
+<p begin="00:26:24.220" end="00:26:30.250" style="s2">project but that&#39;s just not possible her</p>
+<p begin="00:26:28.150" end="00:26:32.260" style="s2">the nature of job has changed and some</p>
+<p begin="00:26:30.250" end="00:26:33.640" style="s2">other things have changed in so I don&#39;t</p>
+<p begin="00:26:32.260" end="00:26:38.800" style="s2">have to go back to work and that&#39;s gonna</p>
+<p begin="00:26:33.640" end="00:26:40.540" style="s2">impart a delay in making the kind of</p>
+<p begin="00:26:38.800" end="00:26:42.850" style="s2">progress that I was making a few months</p>
+<p begin="00:26:40.540" end="00:26:44.530" style="s2">ago I&#39;ve got another partner</p>
+<p begin="00:26:42.850" end="00:26:46.510" style="s2">giving me a machine shop and owns a huge</p>
+<p begin="00:26:44.530" end="00:26:51.880" style="s2">recycling business and recycle their</p>
+<p begin="00:26:46.510" end="00:26:53.740" style="s2">cycle that&#39;s a hundred thousand square</p>
+<p begin="00:26:51.880" end="00:26:56.170" style="s2">feet of the building and it&#39;s completely</p>
+<p begin="00:26:53.740" end="00:26:58.600" style="s2">jam-packed that are afters with dead</p>
+<p begin="00:26:56.170" end="00:27:01.000" style="s2">machines from industry machines most of</p>
+<p begin="00:26:58.600" end="00:27:03.430" style="s2">Martin more than five years old I I</p>
+<p begin="00:27:01.000" end="00:27:05.260" style="s2">can&#39;t believe you know the one of the</p>
+<p begin="00:27:03.430" end="00:27:07.750" style="s2">machines that came in there was a two</p>
+<p begin="00:27:05.260" end="00:27:09.340" style="s2">million dollar chip copier but after</p>
+<p begin="00:27:07.750" end="00:27:12.700" style="s2">eight years it was junked to industry</p>
+<p begin="00:27:09.340" end="00:27:15.280" style="s2">this is giant 100 foot long stainless</p>
+<p begin="00:27:12.700" end="00:27:18.370" style="s2">steel monstrosity with every imaginable</p>
+<p begin="00:27:15.280" end="00:27:20.140" style="s2">piece of automation attached to it did</p>
+<p begin="00:27:18.370" end="00:27:21.940" style="s2">Emma was junk they just wanted her gone</p>
+<p begin="00:27:20.140" end="00:27:24.730" style="s2">ain&#39;t charged him for it they just</p>
+<p begin="00:27:21.940" end="00:27:25.900" style="s2">wanted all the way yeah it was two</p>
+<p begin="00:27:24.730" end="00:27:28.840" style="s2">million dollar machine when they bought</p>
+<p begin="00:27:25.900" end="00:27:31.890" style="s2">it and that is unfortunately the state</p>
+<p begin="00:27:28.840" end="00:27:37.960" style="s2">of things where industry cycles through</p>
+<p begin="00:27:31.890" end="00:27:39.790" style="s2">stuff that are phenomenal paste and you</p>
+<p begin="00:27:37.960" end="00:27:42.070" style="s2">know then everything is still too</p>
+<p begin="00:27:39.790" end="00:27:43.990" style="s2">expensive for ordinary folks to get all</p>
+<p begin="00:27:42.070" end="00:27:49.980" style="s2">these materials to build the things they</p>
+<p begin="00:27:43.990" end="00:27:49.980" style="s2">that would enable them to own automation</p>
+<p begin="00:27:50.970" end="00:27:56.680" style="s2">it&#39;s like the materials are out there</p>
+<p begin="00:27:53.830" end="00:27:59.380" style="s2">the ingenuity is out there the passion</p>
+<p begin="00:27:56.680" end="00:28:01.390" style="s2">the knowledge all of it it just needs to</p>
+<p begin="00:27:59.380" end="00:28:04.060" style="s2">be organized it just needs to be brought</p>
+<p begin="00:28:01.390" end="00:28:05.920" style="s2">together in a way like there aren&#39;t</p>
+<p begin="00:28:04.060" end="00:28:07.750" style="s2">enough materials out there I know I put</p>
+<p begin="00:28:05.920" end="00:28:09.820" style="s2">a lot of them out in my blue box every</p>
+<p begin="00:28:07.750" end="00:28:12.880" style="s2">week way too much of them out every week</p>
+<p begin="00:28:09.820" end="00:28:15.400" style="s2">and if to be able to produce that into</p>
+<p begin="00:28:12.880" end="00:28:17.820" style="s2">something right away to be able to use</p>
+<p begin="00:28:15.400" end="00:28:20.470" style="s2">it in a 3d printer to produce something</p>
+<p begin="00:28:17.820" end="00:28:24.850" style="s2">would be amazing to be able to produce</p>
+<p begin="00:28:20.470" end="00:28:26.530" style="s2">as much as possible locally I know</p>
+<p begin="00:28:24.850" end="00:28:27.850" style="s2">there&#39;s stuff I buy that I don&#39;t need to</p>
+<p begin="00:28:26.530" end="00:28:30.210" style="s2">buy and then there&#39;s stuff that I</p>
+<p begin="00:28:27.850" end="00:28:32.950" style="s2">absolutely need and a lot of it is</p>
+<p begin="00:28:30.210" end="00:28:36.370" style="s2">access to it as opposed to needing to</p>
+<p begin="00:28:32.950" end="00:28:39.190" style="s2">own it like the tool libraries and that</p>
+<p begin="00:28:36.370" end="00:28:40.420" style="s2">sort of ingenuity and then I need things</p>
+<p begin="00:28:39.190" end="00:28:42.280" style="s2">that are in my house right like I need</p>
+<p begin="00:28:40.420" end="00:28:45.580" style="s2">plates I need cups I need I&#39;m not gonna</p>
+<p begin="00:28:42.280" end="00:28:47.140" style="s2">borrow those or have a share in them but</p>
+<p begin="00:28:45.580" end="00:28:48.850" style="s2">even in those to be able to have them</p>
+<p begin="00:28:47.140" end="00:28:50.530" style="s2">broken back down into the ceramics I</p>
+<p begin="00:28:48.850" end="00:28:52.630" style="s2">don&#39;t know what ceramics looks like when</p>
+<p begin="00:28:50.530" end="00:28:54.250" style="s2">we make it back into something but to be</p>
+<p begin="00:28:52.630" end="00:28:56.530" style="s2">able to grind it down and make it back</p>
+<p begin="00:28:54.250" end="00:29:00.310" style="s2">again we need to be able to have</p>
+<p begin="00:28:56.530" end="00:29:02.020" style="s2">closed-loop production cycle and right</p>
+<p begin="00:29:00.310" end="00:29:05.010" style="s2">now we have to kind of close the loop</p>
+<p begin="00:29:02.020" end="00:29:07.930" style="s2">for them for the industry that is broken</p>
+<p begin="00:29:05.010" end="00:29:10.270" style="s2">meaning and using you know cokes bottles</p>
+<p begin="00:29:07.930" end="00:29:12.910" style="s2">using the things that are available and</p>
+<p begin="00:29:10.270" end="00:29:15.160" style="s2">eventually close it so that because if</p>
+<p begin="00:29:12.910" end="00:29:16.720" style="s2">we bankrupt coke hopefully there&#39;s not</p>
+<p begin="00:29:15.160" end="00:29:18.850" style="s2">going to be any more plastic bottles</p>
+<p begin="00:29:16.720" end="00:29:20.530" style="s2">right so there&#39;s a point where hopefully</p>
+<p begin="00:29:18.850" end="00:29:21.910" style="s2">it breaks its own system and then</p>
+<p begin="00:29:20.530" end="00:29:24.520" style="s2">they&#39;re not producing it anymore and</p>
+<p begin="00:29:21.910" end="00:29:26.140" style="s2">then we can design things in like we</p>
+<p begin="00:29:24.520" end="00:29:27.850" style="s2">don&#39;t need coke bottles we need glass</p>
+<p begin="00:29:26.140" end="00:29:29.320" style="s2">bottles that are that are and then the</p>
+<p begin="00:29:27.850" end="00:29:32.560" style="s2">plastic needs to be in things that maybe</p>
+<p begin="00:29:29.320" end="00:29:34.120" style="s2">are more like the prosthetic hands and</p>
+<p begin="00:29:32.560" end="00:29:37.390" style="s2">things that maybe that is the best</p>
+<p begin="00:29:34.120" end="00:29:40.480" style="s2">material for for that and plastic is</p>
+<p begin="00:29:37.390" end="00:29:42.610" style="s2">such a it car seats</p>
+<p begin="00:29:40.480" end="00:29:44.230" style="s2">car seats are this ridiculous huge</p>
+<p begin="00:29:42.610" end="00:29:45.640" style="s2">monstrosity that keeps your kids safe</p>
+<p begin="00:29:44.230" end="00:29:47.230" style="s2">they&#39;re very necessary but they&#39;re only</p>
+<p begin="00:29:45.640" end="00:29:48.580" style="s2">good for a few years and then the</p>
+<p begin="00:29:47.230" end="00:29:50.290" style="s2">plastic breaks down enough that they&#39;re</p>
+<p begin="00:29:48.580" end="00:29:51.790" style="s2">not safe anymore and you can&#39;t you can&#39;t</p>
+<p begin="00:29:50.290" end="00:29:53.440" style="s2">even you have to pay to get them recycle</p>
+<p begin="00:29:51.790" end="00:29:56.770" style="s2">then you can&#39;t sell them and you can&#39;t</p>
+<p begin="00:29:53.440" end="00:29:58.690" style="s2">reuse them like it&#39;s there are so many</p>
+<p begin="00:29:56.770" end="00:30:00.730" style="s2">things in our society that like we need</p>
+<p begin="00:29:58.690" end="00:30:04.420" style="s2">to figure out what the best material for</p>
+<p begin="00:30:00.730" end="00:30:05.680" style="s2">it is and the ingenuity is there someone</p>
+<p begin="00:30:04.420" end="00:30:07.870" style="s2">comes up with a new material but then</p>
+<p begin="00:30:05.680" end="00:30:09.490" style="s2">they&#39;re working against the market like</p>
+<p begin="00:30:07.870" end="00:30:11.230" style="s2">they&#39;re the market isn&#39;t designed for</p>
+<p begin="00:30:09.490" end="00:30:13.570" style="s2">new ideas the market isn&#39;t designed to</p>
+<p begin="00:30:11.230" end="00:30:15.280" style="s2">like is your idea better than we want to</p>
+<p begin="00:30:13.570" end="00:30:17.110" style="s2">incentivize it it&#39;s designed to be like</p>
+<p begin="00:30:15.280" end="00:30:18.940" style="s2">you have a new idea that&#39;s better can I</p>
+<p begin="00:30:17.110" end="00:30:23.460" style="s2">buy it and keep that on her shelf can I</p>
+<p begin="00:30:18.940" end="00:30:26.920" style="s2">like not be on the market place and so</p>
+<p begin="00:30:23.460" end="00:30:28.510" style="s2">disincentivizing well monetizing</p>
+<p begin="00:30:26.920" end="00:30:30.300" style="s2">everything first of all so a car seat</p>
+<p begin="00:30:28.510" end="00:30:33.940" style="s2">that&#39;s only good for a few years of</p>
+<p begin="00:30:30.300" end="00:30:39.040" style="s2">planned obsolescence you know it would</p>
+<p begin="00:30:33.940" end="00:30:41.770" style="s2">not take that much to put more additives</p>
+<p begin="00:30:39.040" end="00:30:45.610" style="s2">in the plastic to make it either have</p>
+<p begin="00:30:41.770" end="00:30:47.410" style="s2">high recyclability or extend its</p>
+<p begin="00:30:45.610" end="00:30:50.290" style="s2">lifespan or build it out of</p>
+<p begin="00:30:47.410" end="00:30:54.970" style="s2">you know luminol is a fantastic material</p>
+<p begin="00:30:50.290" end="00:30:57.070" style="s2">and 97% recycling right and you know</p>
+<p begin="00:30:54.970" end="00:30:58.750" style="s2">aircraft seats are typically out of that</p>
+<p begin="00:30:57.070" end="00:31:00.550" style="s2">and they&#39;re a safety device I presume</p>
+<p begin="00:30:58.750" end="00:31:03.430" style="s2">that you could probably come up with a</p>
+<p begin="00:31:00.550" end="00:31:06.310" style="s2">child&#39;s car seat that was an aluminum</p>
+<p begin="00:31:03.430" end="00:31:07.960" style="s2">frame plastic is great because it&#39;s</p>
+<p begin="00:31:06.310" end="00:31:09.670" style="s2">resilient that springs back to its</p>
+<p begin="00:31:07.960" end="00:31:11.620" style="s2">original shape and its impacted so</p>
+<p begin="00:31:09.670" end="00:31:14.740" style="s2">there&#39;s all sorts of you know great</p>
+<p begin="00:31:11.620" end="00:31:16.540" style="s2">things that plastic is good for but</p>
+<p begin="00:31:14.740" end="00:31:18.880" style="s2">engineering products so that they</p>
+<p begin="00:31:16.540" end="00:31:21.190" style="s2">fulfill the requirement and have high</p>
+<p begin="00:31:18.880" end="00:31:24.060" style="s2">recyclability should be criteria also</p>
+<p begin="00:31:21.190" end="00:31:26.820" style="s2">instead of just making stuff and then</p>
+<p begin="00:31:24.060" end="00:31:29.800" style="s2">leaving the consequences to the wind</p>
+<p begin="00:31:26.820" end="00:31:32.290" style="s2">which is what currently happens in a lot</p>
+<p begin="00:31:29.800" end="00:31:34.900" style="s2">of cases or there are some in some cases</p>
+<p begin="00:31:32.290" end="00:31:36.460" style="s2">there is actual harmful intent in</p>
+<p begin="00:31:34.900" end="00:31:38.320" style="s2">designing things that have limited</p>
+<p begin="00:31:36.460" end="00:31:42.190" style="s2">lifespans for the purpose of selling</p>
+<p begin="00:31:38.320" end="00:31:43.660" style="s2">more product that&#39;s people have argued</p>
+<p begin="00:31:42.190" end="00:31:45.280" style="s2">with me that now there isn&#39;t any such</p>
+<p begin="00:31:43.660" end="00:31:47.710" style="s2">thing it&#39;s just that stuff actually does</p>
+<p begin="00:31:45.280" end="00:31:50.650" style="s2">break down and there&#39;s a there&#39;s a point</p>
+<p begin="00:31:47.710" end="00:31:52.560" style="s2">to be made some things do fail after a</p>
+<p begin="00:31:50.650" end="00:31:55.570" style="s2">certain amount of time and that&#39;s okay</p>
+<p begin="00:31:52.560" end="00:31:58.180" style="s2">but there&#39;s a lot of effort in fact it</p>
+<p begin="00:31:55.570" end="00:32:01.410" style="s2">was very open in the 50s and 60s when</p>
+<p begin="00:31:58.180" end="00:32:04.570" style="s2">they started shifting over from the</p>
+<p begin="00:32:01.410" end="00:32:06.730" style="s2">shifting over to a consumption model you</p>
+<p begin="00:32:04.570" end="00:32:09.190" style="s2">know it&#39;s like how can we make this fail</p>
+<p begin="00:32:06.730" end="00:32:10.480" style="s2">because we&#39;ve designed it the way it was</p>
+<p begin="00:32:09.190" end="00:32:12.280" style="s2">designed before is a little too good</p>
+<p begin="00:32:10.480" end="00:32:14.860" style="s2">it&#39;s gonna last 20 years letting and</p>
+<p begin="00:32:12.280" end="00:32:16.720" style="s2">work I mean we can&#39;t can help people not</p>
+<p begin="00:32:14.860" end="00:32:19.150" style="s2">replacing their stuff for 20 years</p>
+<p begin="00:32:16.720" end="00:32:21.280" style="s2">yeah you can&#39;t keep a business open in</p>
+<p begin="00:32:19.150" end="00:32:23.560" style="s2">that regard like I mean there&#39;s a truth</p>
+<p begin="00:32:21.280" end="00:32:25.240" style="s2">there like there&#39;s a certain amount of</p>
+<p begin="00:32:23.560" end="00:32:27.010" style="s2">what we&#39;re doing to the economy which is</p>
+<p begin="00:32:25.240" end="00:32:28.900" style="s2">positive getting more into the sharing</p>
+<p begin="00:32:27.010" end="00:32:31.150" style="s2">economy getting more like to libraries</p>
+<p begin="00:32:28.900" end="00:32:34.990" style="s2">but the truth is a tool library can&#39;t</p>
+<p begin="00:32:31.150" end="00:32:37.180" style="s2">sustain the power tool industry lately</p>
+<p begin="00:32:34.990" end="00:32:39.550" style="s2">what a power tool industry needs to be</p>
+<p begin="00:32:37.180" end="00:32:41.320" style="s2">sustained financially is for people to</p>
+<p begin="00:32:39.550" end="00:32:43.870" style="s2">have a power drill that&#39;s used five</p>
+<p begin="00:32:41.320" end="00:32:46.120" style="s2">minutes in its lifespan not that it&#39;s</p>
+<p begin="00:32:43.870" end="00:32:49.030" style="s2">rented out to all of your neighbors so</p>
+<p begin="00:32:46.120" end="00:32:51.310" style="s2">that we can all use it all the time and</p>
+<p begin="00:32:49.030" end="00:32:53.620" style="s2">then if we need more of them we buy more</p>
+<p begin="00:32:51.310" end="00:32:55.810" style="s2">because of the demands not because oh</p>
+<p begin="00:32:53.620" end="00:32:57.430" style="s2">look shiny and red and we want to I want</p>
+<p begin="00:32:55.810" end="00:32:59.530" style="s2">to have access to a power tool for that</p>
+<p begin="00:32:57.430" end="00:33:02.320" style="s2">five minutes I need it one time in my</p>
+<p begin="00:32:59.530" end="00:33:04.480" style="s2">life oh and modularity so that you know</p>
+<p begin="00:33:02.320" end="00:33:09.070" style="s2">the part that wears that is easy to</p>
+<p begin="00:33:04.480" end="00:33:11.650" style="s2">replace that&#39;s that&#39;s something that</p>
+<p begin="00:33:09.070" end="00:33:13.360" style="s2">engineering is well aware of he said I</p>
+<p begin="00:33:11.650" end="00:33:14.950" style="s2">mean military equipment a lot of</p>
+<p begin="00:33:13.360" end="00:33:17.830" style="s2">military equipment while it is very</p>
+<p begin="00:33:14.950" end="00:33:19.600" style="s2">expensive when they designed a Black</p>
+<p begin="00:33:17.830" end="00:33:21.580" style="s2">Hawk helicopter they designed it so that</p>
+<p begin="00:33:19.600" end="00:33:23.530" style="s2">the entire rotor system can be serviced</p>
+<p begin="00:33:21.580" end="00:33:27.700" style="s2">with 11 tools the</p>
+<p begin="00:33:23.530" end="00:33:29.830" style="s2">old helicopters took 200 tools and then</p>
+<p begin="00:33:27.700" end="00:33:31.960" style="s2">a giant shop full of special tools to</p>
+<p begin="00:33:29.830" end="00:33:34.210" style="s2">put things together but the Black Hawk</p>
+<p begin="00:33:31.960" end="00:33:36.970" style="s2">was designed to be field serviceable the</p>
+<p begin="00:33:34.210" end="00:33:38.560" style="s2">engineering is within reach and we could</p>
+<p begin="00:33:36.970" end="00:33:40.570" style="s2">make a car that was the same way you</p>
+<p begin="00:33:38.560" end="00:33:42.280" style="s2">know modular engine modular chassis all</p>
+<p begin="00:33:40.570" end="00:33:44.290" style="s2">this stuff it snaps together when it</p>
+<p begin="00:33:42.280" end="00:33:47.890" style="s2">wears out he swap out the part that&#39;s</p>
+<p begin="00:33:44.290" end="00:33:50.340" style="s2">bad not move on and it takes ten minutes</p>
+<p begin="00:33:47.890" end="00:33:53.530" style="s2">and it&#39;s probably completely automated</p>
+<p begin="00:33:50.340" end="00:33:56.560" style="s2">well we don&#39;t do it that way because the</p>
+<p begin="00:33:53.530" end="00:34:00.000" style="s2">secondary market for I like the joke you</p>
+<p begin="00:33:56.560" end="00:34:02.440" style="s2">know you look at a new $30,000 car Wow</p>
+<p begin="00:34:00.000" end="00:34:05.140" style="s2">120,000 dollars worth of replacement</p>
+<p begin="00:34:02.440" end="00:34:08.350" style="s2">parts all in one place because that&#39;s</p>
+<p begin="00:34:05.140" end="00:34:10.690" style="s2">what it is you know Wyatt Ismail it</p>
+<p begin="00:34:08.350" end="00:34:16.659" style="s2">would cost an incredible sum of money</p>
+<p begin="00:34:10.690" end="00:34:19.600" style="s2">mm-hmm so work everything is in place to</p>
+<p begin="00:34:16.659" end="00:34:23.770" style="s2">do what I&#39;m talking about which is to to</p>
+<p begin="00:34:19.600" end="00:34:26.320" style="s2">and decentralized manufacturing you know</p>
+<p begin="00:34:23.770" end="00:34:28.630" style="s2">people talk about descent I&#39;ve gotten a</p>
+<p begin="00:34:26.320" end="00:34:30.550" style="s2">Bitcoin back when it started and I got a</p>
+<p begin="00:34:28.630" end="00:34:32.140" style="s2">good theory amande you know</p>
+<p begin="00:34:30.550" end="00:34:34.120" style="s2">decentralizing currency is okay but</p>
+<p begin="00:34:32.140" end="00:34:35.679" style="s2">currency once again is the froth at the</p>
+<p begin="00:34:34.120" end="00:34:38.679" style="s2">top of the pot there&#39;s all this stuff</p>
+<p begin="00:34:35.679" end="00:34:40.600" style="s2">that is inherent in the nature of the</p>
+<p begin="00:34:38.679" end="00:34:42.760" style="s2">distribution of wealth within society</p>
+<p begin="00:34:40.600" end="00:34:46.330" style="s2">that is physical has nothing really with</p>
+<p begin="00:34:42.760" end="00:34:49.030" style="s2">money so why not address things from</p>
+<p begin="00:34:46.330" end="00:34:52.390" style="s2">that physical level and decentralize at</p>
+<p begin="00:34:49.030" end="00:34:54.490" style="s2">that layer the American can quit</p>
+<p begin="00:34:52.390" end="00:34:56.380" style="s2">worrying about finance if everybody has</p>
+<p begin="00:34:54.490" end="00:34:59.980" style="s2">material wealth available to them at</p>
+<p begin="00:34:56.380" end="00:35:02.230" style="s2">their in their economy I&#39;ve I have a</p>
+<p begin="00:34:59.980" end="00:35:04.210" style="s2">problem there&#39;s all these projects that</p>
+<p begin="00:35:02.230" end="00:35:05.920" style="s2">people want to implement but they want</p>
+<p begin="00:35:04.210" end="00:35:07.630" style="s2">to implement them top-down through some</p>
+<p begin="00:35:05.920" end="00:35:11.560" style="s2">sort of an administrative change in the</p>
+<p begin="00:35:07.630" end="00:35:12.610" style="s2">way people do stuff and I frankly don&#39;t</p>
+<p begin="00:35:11.560" end="00:35:15.040" style="s2">have a lot of faith</p>
+<p begin="00:35:12.610" end="00:35:17.560" style="s2">I don&#39;t like following any rules I don&#39;t</p>
+<p begin="00:35:15.040" end="00:35:22.210" style="s2">have to you know I don&#39;t way to keep</p>
+<p begin="00:35:17.560" end="00:35:24.640" style="s2">super elaborate complex accounting to</p>
+<p begin="00:35:22.210" end="00:35:27.130" style="s2">keep the IRS happy I just don&#39;t make any</p>
+<p begin="00:35:24.640" end="00:35:29.350" style="s2">money it&#39;s easier and I have a lot of</p>
+<p begin="00:35:27.130" end="00:35:35.440" style="s2">material wealth but I don&#39;t buy the</p>
+<p begin="00:35:29.350" end="00:35:37.390" style="s2">stuff like salvage it so so talking</p>
+<p begin="00:35:35.440" end="00:35:39.279" style="s2">about doing something top-down or bill</p>
+<p begin="00:35:37.390" end="00:35:43.450" style="s2">you know the money free party look at</p>
+<p begin="00:35:39.279" end="00:35:46.269" style="s2">that cool idea but just learn how to</p>
+<p begin="00:35:43.450" end="00:35:48.250" style="s2">live without so much money instead of</p>
+<p begin="00:35:46.269" end="00:35:51.099" style="s2">trying to redesign society so there</p>
+<p begin="00:35:48.250" end="00:35:53.380" style="s2">doesn&#39;t have money because people don&#39;t</p>
+<p begin="00:35:51.099" end="00:35:55.180" style="s2">follow rules anyway and now you&#39;re</p>
+<p begin="00:35:53.380" end="00:35:57.819" style="s2">talking about an entire phone book a new</p>
+<p begin="00:35:55.180" end="00:36:00.730" style="s2">rules on how to get society door nice I</p>
+<p begin="00:35:57.819" end="00:36:03.490" style="s2">don&#39;t see how that works and I also see</p>
+<p begin="00:36:00.730" end="00:36:05.640" style="s2">that here&#39;s another thing where this</p>
+<p begin="00:36:03.490" end="00:36:08.710" style="s2">project keeps mine is completely</p>
+<p begin="00:36:05.640" end="00:36:10.510" style="s2">ideologically neutral if you&#39;re I tucked</p>
+<p begin="00:36:08.710" end="00:36:12.490" style="s2">I&#39;ve talked a lot of people online about</p>
+<p begin="00:36:10.510" end="00:36:14.440" style="s2">this so I talked to people in Pakistan</p>
+<p begin="00:36:12.490" end="00:36:16.480" style="s2">talk to people in India well Pakistanis</p>
+<p begin="00:36:14.440" end="00:36:19.089" style="s2">Indians don&#39;t be long you know they have</p>
+<p begin="00:36:16.480" end="00:36:21.119" style="s2">this deep suspicion about each other and</p>
+<p begin="00:36:19.089" end="00:36:23.769" style="s2">it&#39;s built by the propaganda of the last</p>
+<p begin="00:36:21.119" end="00:36:26.019" style="s2">50 years and all the other stuff but</p>
+<p begin="00:36:23.769" end="00:36:29.319" style="s2">they all use these the same models of</p>
+<p begin="00:36:26.019" end="00:36:31.529" style="s2">cell phones technology is neutral</p>
+<p begin="00:36:29.319" end="00:36:35.279" style="s2">whether you Hindu or whether you&#39;re a</p>
+<p begin="00:36:31.529" end="00:36:38.170" style="s2">Arab or whatever it does not it&#39;s</p>
+<p begin="00:36:35.279" end="00:36:39.700" style="s2">technology does not provide present a</p>
+<p begin="00:36:38.170" end="00:36:41.650" style="s2">barrier and I see every one of these</p>
+<p begin="00:36:39.700" end="00:36:43.089" style="s2">administrative approaches to changing</p>
+<p begin="00:36:41.650" end="00:36:46.410" style="s2">the structure of society is having</p>
+<p begin="00:36:43.089" end="00:36:49.539" style="s2">phenomenal number of barriers if you</p>
+<p begin="00:36:46.410" end="00:36:51.759" style="s2">because they&#39;re all ideological so this</p>
+<p begin="00:36:49.539" end="00:36:53.740" style="s2">is a completely non ideological way to</p>
+<p begin="00:36:51.759" end="00:36:56.200" style="s2">address the problem here&#39;s a gadget</p>
+<p begin="00:36:53.740" end="00:36:57.849" style="s2">here&#39;s what it does it&#39;ll benefit you in</p>
+<p begin="00:36:56.200" end="00:37:00.609" style="s2">the following ways and then sanitizes</p>
+<p begin="00:36:57.849" end="00:37:02.710" style="s2">this range of behaviors which is so</p>
+<p begin="00:37:00.609" end="00:37:04.900" style="s2">speaking of that what I&#39;ve been doing</p>
+<p begin="00:37:02.710" end="00:37:06.460" style="s2">with them and some of my stuff is top</p>
+<p begin="00:37:04.900" end="00:37:08.140" style="s2">down some of its bottom up and all the</p>
+<p begin="00:37:06.460" end="00:37:10.779" style="s2">top down stuff is like has they</p>
+<p begin="00:37:08.140" end="00:37:12.279" style="s2">reinvented bottom-up like it can&#39;t be me</p>
+<p begin="00:37:10.779" end="00:37:14.289" style="s2">sitting in my room by myself come up</p>
+<p begin="00:37:12.279" end="00:37:15.730" style="s2">with an idea and then selling it to</p>
+<p begin="00:37:14.289" end="00:37:17.079" style="s2">everyone because one I&#39;m not capable of</p>
+<p begin="00:37:15.730" end="00:37:19.390" style="s2">doing that and I can&#39;t actually</p>
+<p begin="00:37:17.079" end="00:37:20.980" style="s2">communicate the idea and there isn&#39;t</p>
+<p begin="00:37:19.390" end="00:37:22.480" style="s2">then we have to market it then we have</p>
+<p begin="00:37:20.980" end="00:37:24.160" style="s2">to like get instead of like no</p>
+<p begin="00:37:22.480" end="00:37:26.829" style="s2">recreating it from the bottom up means</p>
+<p begin="00:37:24.160" end="00:37:29.380" style="s2">you already have the energy there you</p>
+<p begin="00:37:26.829" end="00:37:30.519" style="s2">already have people wanting that if at</p>
+<p begin="00:37:29.380" end="00:37:32.650" style="s2">least the people who are creating it</p>
+<p begin="00:37:30.519" end="00:37:35.259" style="s2">they want it to come into fruition so we</p>
+<p begin="00:37:32.650" end="00:37:37.660" style="s2">care that but with what I&#39;m creating I&#39;m</p>
+<p begin="00:37:35.259" end="00:37:39.549" style="s2">like well it can&#39;t be talked to and</p>
+<p begin="00:37:37.660" end="00:37:41.289" style="s2">can&#39;t have new rules in fact we can&#39;t</p>
+<p begin="00:37:39.549" end="00:37:42.910" style="s2">you just can&#39;t have rules it has to be</p>
+<p begin="00:37:41.289" end="00:37:44.559" style="s2">meeting people where they&#39;re at we can&#39;t</p>
+<p begin="00:37:42.910" end="00:37:46.720" style="s2">create rules I&#39;m not I&#39;m not a</p>
+<p begin="00:37:44.559" end="00:37:49.420" style="s2">politician I can&#39;t pass new laws that</p>
+<p begin="00:37:46.720" end="00:37:51.099" style="s2">have for how I want you to behave but I</p>
+<p begin="00:37:49.420" end="00:37:52.630" style="s2">can ask you if you happen to</p>
+<p begin="00:37:51.099" end="00:37:54.190" style="s2">not be behaving in a way that I think is</p>
+<p begin="00:37:52.630" end="00:37:57.460" style="s2">not conducive to the environment or my</p>
+<p begin="00:37:54.190" end="00:37:58.989" style="s2">life why are you doing that and how can</p>
+<p begin="00:37:57.460" end="00:38:00.789" style="s2">I help you not maybe you&#39;re never gonna</p>
+<p begin="00:37:58.989" end="00:38:02.710" style="s2">get there right like maybe you&#39;re</p>
+<p begin="00:38:00.789" end="00:38:04.089" style="s2">drinking I&#39;m just because you just take</p>
+<p begin="00:38:02.710" end="00:38:06.609" style="s2">a sip maybe I think you&#39;re drinking</p>
+<p begin="00:38:04.089" end="00:38:09.009" style="s2">coffee is horrible unless I&#39;m gonna ask</p>
+<p begin="00:38:06.609" end="00:38:10.450" style="s2">you what would get you not to drink</p>
+<p begin="00:38:09.009" end="00:38:11.799" style="s2">coffee why do I even want you to not</p>
+<p begin="00:38:10.450" end="00:38:13.749" style="s2">drink coffee right like unless I can</p>
+<p begin="00:38:11.799" end="00:38:16.420" style="s2">instead of passing a law no one can</p>
+<p begin="00:38:13.749" end="00:38:19.089" style="s2">drink coffee creating a space that is</p>
+<p begin="00:38:16.420" end="00:38:20.710" style="s2">more well what what is it there right</p>
+<p begin="00:38:19.089" end="00:38:23.559" style="s2">like what am I actually asking you to do</p>
+<p begin="00:38:20.710" end="00:38:24.819" style="s2">or not do and how how can I ask you to</p>
+<p begin="00:38:23.559" end="00:38:27.430" style="s2">actually get those needs met in a</p>
+<p begin="00:38:24.819" end="00:38:29.589" style="s2">different way that isn&#39;t coffee a</p>
+<p begin="00:38:27.430" end="00:38:31.720" style="s2">simulated coffee flavored beverage but</p>
+<p begin="00:38:29.589" end="00:38:33.519" style="s2">it doesn&#39;t drive some coffee beans and</p>
+<p begin="00:38:31.720" end="00:38:35.589" style="s2">it doesn&#39;t you know damage the</p>
+<p begin="00:38:33.519" end="00:38:37.440" style="s2">environment by turning every every part</p>
+<p begin="00:38:35.589" end="00:38:42.940" style="s2">of the tropical world into a plantation</p>
+<p begin="00:38:37.440" end="00:38:45.309" style="s2">see results from by directly modifying</p>
+<p begin="00:38:42.940" end="00:38:47.589" style="s2">the nature of the problem this sort of</p>
+<p begin="00:38:45.309" end="00:38:49.809" style="s2">results from implying that what I&#39;m</p>
+<p begin="00:38:47.589" end="00:38:51.729" style="s2">doing needs to change I&#39;m not going to</p>
+<p begin="00:38:49.809" end="00:38:55.749" style="s2">change on the basis that external</p>
+<p begin="00:38:51.729" end="00:38:59.920" style="s2">opinion exactly that&#39;s very much what</p>
+<p begin="00:38:55.749" end="00:39:03.309" style="s2">I&#39;m talking about which is to you know</p>
+<p begin="00:38:59.920" end="00:39:05.380" style="s2">decentralize manufacturing decentralizes</p>
+<p begin="00:39:03.309" end="00:39:08.650" style="s2">the concentration of wealth because it&#39;s</p>
+<p begin="00:39:05.380" end="00:39:10.450" style="s2">community based and it decentralizes the</p>
+<p begin="00:39:08.650" end="00:39:12.460" style="s2">concentration of wealth by eliminating</p>
+<p begin="00:39:10.450" end="00:39:14.079" style="s2">enormous amounts of shipping so there</p>
+<p begin="00:39:12.460" end="00:39:17.440" style="s2">isn&#39;t some gatekeeper who can go collect</p>
+<p begin="00:39:14.079" end="00:39:18.609" style="s2">that it decentralizes the implementation</p>
+<p begin="00:39:17.440" end="00:39:20.349" style="s2">of engineering if I come up with a</p>
+<p begin="00:39:18.609" end="00:39:22.059" style="s2">brilliant idea I don&#39;t have to go to the</p>
+<p begin="00:39:20.349" end="00:39:23.529" style="s2">Patent Office and I don&#39;t have to fight</p>
+<p begin="00:39:22.059" end="00:39:27.519" style="s2">get a hundred thousand dollars with a</p>
+<p begin="00:39:23.529" end="00:39:29.559" style="s2">lawyer time in to get my idea protected</p>
+<p begin="00:39:27.519" end="00:39:30.940" style="s2">because I need to do is commit to the</p>
+<p begin="00:39:29.559" end="00:39:33.130" style="s2">blockchain that I came up with this</p>
+<p begin="00:39:30.940" end="00:39:35.319" style="s2">thing it&#39;s derivative of these four</p>
+<p begin="00:39:33.130" end="00:39:37.210" style="s2">things and you can make it on your</p>
+<p begin="00:39:35.319" end="00:39:41.170" style="s2">machines in your community and I&#39;ll get</p>
+<p begin="00:39:37.210" end="00:39:44.529" style="s2">a tiny little incentive for were having</p>
+<p begin="00:39:41.170" end="00:39:48.400" style="s2">provided the design but it won&#39;t be you</p>
+<p begin="00:39:44.529" end="00:39:51.130" style="s2">know outrageous because that&#39;s that&#39;s</p>
+<p begin="00:39:48.400" end="00:39:54.969" style="s2">part of so I come up with the new</p>
+<p begin="00:39:51.130" end="00:39:57.579" style="s2">prosthetic hands and so on the market I</p>
+<p begin="00:39:54.969" end="00:39:59.829" style="s2">can make that worth a thousand dollars</p>
+<p begin="00:39:57.579" end="00:40:01.960" style="s2">and you&#39;re not a you&#39;re no longer no one</p>
+<p begin="00:39:59.829" end="00:40:03.460" style="s2">is allowed to print a 3d hand only I am</p>
+<p begin="00:40:01.960" end="00:40:04.960" style="s2">and it&#39;s a thousand dollars which is</p>
+<p begin="00:40:03.460" end="00:40:06.849" style="s2">lower than they are</p>
+<p begin="00:40:04.960" end="00:40:09.520" style="s2">way higher than most people who are</p>
+<p begin="00:40:06.849" end="00:40:13.359" style="s2">lacking a limb because they got blown up</p>
+<p begin="00:40:09.520" end="00:40:15.160" style="s2">by landmine can afford and so who sets</p>
+<p begin="00:40:13.359" end="00:40:17.440" style="s2">the price of how much I get is the</p>
+<p begin="00:40:15.160" end="00:40:19.660" style="s2">adventurer and then the next question</p>
+<p begin="00:40:17.440" end="00:40:21.160" style="s2">which may be the same one is so then you</p>
+<p begin="00:40:19.660" end="00:40:22.750" style="s2">so now it&#39;s open source and I don&#39;t get</p>
+<p begin="00:40:21.160" end="00:40:24.520" style="s2">to decide if it&#39;s community decides that</p>
+<p begin="00:40:22.750" end="00:40:26.680" style="s2">or whatever that set up when you come up</p>
+<p begin="00:40:24.520" end="00:40:28.960" style="s2">with a new way to make a new finger who</p>
+<p begin="00:40:26.680" end="00:40:31.000" style="s2">decides how much that fingers worth they</p>
+<p begin="00:40:28.960" end="00:40:32.619" style="s2">mark it and how much has it then added</p>
+<p begin="00:40:31.000" end="00:40:34.480" style="s2">on like the improvements on the original</p>
+<p begin="00:40:32.619" end="00:40:38.290" style="s2">design and the original design who</p>
+<p begin="00:40:34.480" end="00:40:40.750" style="s2">prices it so my thought is that it&#39;s</p>
+<p begin="00:40:38.290" end="00:40:44.740" style="s2">derivative first of all pricing is</p>
+<p begin="00:40:40.750" end="00:40:48.040" style="s2">determined by demand which means that if</p>
+<p begin="00:40:44.740" end="00:40:49.450" style="s2">I put a design out for the greatest turn</p>
+<p begin="00:40:48.040" end="00:40:54.250" style="s2">of spinner you&#39;ve ever seen in your life</p>
+<p begin="00:40:49.450" end="00:40:59.530" style="s2">and nobody buys it it&#39;s worth nothing so</p>
+<p begin="00:40:54.250" end="00:41:03.670" style="s2">I see I see a a a black chain based</p>
+<p begin="00:40:59.530" end="00:41:06.250" style="s2">system that has consensus and everybody</p>
+<p begin="00:41:03.670" end="00:41:08.319" style="s2">who is a participant in you know if I</p>
+<p begin="00:41:06.250" end="00:41:11.470" style="s2">decide to set up one of these many</p>
+<p begin="00:41:08.319" end="00:41:14.200" style="s2">factories in my community so that would</p>
+<p begin="00:41:11.470" end="00:41:15.940" style="s2">initially make me the authority in that</p>
+<p begin="00:41:14.200" end="00:41:17.799" style="s2">community and that would give me a</p>
+<p begin="00:41:15.940" end="00:41:19.450" style="s2">percentage of vote for the overall</p>
+<p begin="00:41:17.799" end="00:41:21.549" style="s2">system to decide what the value of</p>
+<p begin="00:41:19.450" end="00:41:23.619" style="s2">particular thing was obviously it&#39;s</p>
+<p begin="00:41:21.549" end="00:41:25.150" style="s2">going to be very dispersed because if</p>
+<p begin="00:41:23.619" end="00:41:26.890" style="s2">there are a thousand systems in</p>
+<p begin="00:41:25.150" end="00:41:28.809" style="s2">operation and their design propagates</p>
+<p begin="00:41:26.890" end="00:41:30.460" style="s2">across them it&#39;s really popular in this</p>
+<p begin="00:41:28.809" end="00:41:32.890" style="s2">area but it&#39;s not popular at all in this</p>
+<p begin="00:41:30.460" end="00:41:34.150" style="s2">area the people in the area where it&#39;s</p>
+<p begin="00:41:32.890" end="00:41:35.799" style="s2">not popular they&#39;re going to say yeah</p>
+<p begin="00:41:34.150" end="00:41:39.069" style="s2">that&#39;s worth a nickel because it&#39;s not</p>
+<p begin="00:41:35.799" end="00:41:40.540" style="s2">we don&#39;t need it we&#39;re not gonna put the</p>
+<p begin="00:41:39.069" end="00:41:42.460" style="s2">people in area that think it&#39;s great</p>
+<p begin="00:41:40.540" end="00:41:44.559" style="s2">you&#39;re gonna say well it&#39;s worth $10 and</p>
+<p begin="00:41:42.460" end="00:41:48.760" style="s2">consensus will fall somewhere in the</p>
+<p begin="00:41:44.559" end="00:41:51.970" style="s2">middle and so the way this the way this</p>
+<p begin="00:41:48.760" end="00:41:54.190" style="s2">is envisioned for the payment system</p>
+<p begin="00:41:51.970" end="00:41:57.130" style="s2">basically is when you produce something</p>
+<p begin="00:41:54.190" end="00:41:58.809" style="s2">there&#39;s a material as an energy cost and</p>
+<p begin="00:41:57.130" end="00:42:01.059" style="s2">I really want to get away from having a</p>
+<p begin="00:41:58.809" end="00:42:04.299" style="s2">monetary assignment of value I think</p>
+<p begin="00:42:01.059" end="00:42:07.119" style="s2">this value should be materials based you</p>
+<p begin="00:42:04.299" end="00:42:09.130" style="s2">know a pound of aluminum is worth you</p>
+<p begin="00:42:07.119" end="00:42:11.170" style="s2">know four pounds of steel or whatever I</p>
+<p begin="00:42:09.130" end="00:42:12.910" style="s2">don&#39;t haven&#39;t come to conclusion on that</p>
+<p begin="00:42:11.170" end="00:42:15.520" style="s2">and actually I don&#39;t have the expertise</p>
+<p begin="00:42:12.910" end="00:42:17.380" style="s2">I think the system the participants in</p>
+<p begin="00:42:15.520" end="00:42:18.700" style="s2">the system are going to have to decide</p>
+<p begin="00:42:17.380" end="00:42:21.400" style="s2">this stuff so I</p>
+<p begin="00:42:18.700" end="00:42:23.470" style="s2">I think there&#39;s there is no fixed answer</p>
+<p begin="00:42:21.400" end="00:42:25.270" style="s2">in the beginning there are be some rough</p>
+<p begin="00:42:23.470" end="00:42:27.130" style="s2">guidelines and then I&#39;ll have to shake</p>
+<p begin="00:42:25.270" end="00:42:31.720" style="s2">itself out as to what things are worth</p>
+<p begin="00:42:27.130" end="00:42:34.200" style="s2">and then if if I bring a thousand pounds</p>
+<p begin="00:42:31.720" end="00:42:37.630" style="s2">of aluminum to us system then that</p>
+<p begin="00:42:34.200" end="00:42:40.450" style="s2">potentially buys me some credit if I put</p>
+<p begin="00:42:37.630" end="00:42:44.380" style="s2">a design in and its popular then I&#39;m</p>
+<p begin="00:42:40.450" end="00:42:47.859" style="s2">given credit possibly an aluminum or</p>
+<p begin="00:42:44.380" end="00:42:50.320" style="s2">some other intrinsic material that the</p>
+<p begin="00:42:47.859" end="00:42:54.430" style="s2">system consumes consistently and</p>
+<p begin="00:42:50.320" end="00:42:55.839" style="s2">consumes a lot of so all of those I</p>
+<p begin="00:42:54.430" end="00:42:58.150" style="s2">haven&#39;t answered a question with any</p>
+<p begin="00:42:55.839" end="00:43:00.190" style="s2">definitive answer but I believe that</p>
+<p begin="00:42:58.150" end="00:43:03.070" style="s2">there&#39;s a way to work out a materials</p>
+<p begin="00:43:00.190" end="00:43:06.550" style="s2">based equivalent value for things and</p>
+<p begin="00:43:03.070" end="00:43:10.089" style="s2">then if I am inventor and I&#39;m getting a</p>
+<p begin="00:43:06.550" end="00:43:13.660" style="s2">royalty off of a invention there&#39;s two</p>
+<p begin="00:43:10.089" end="00:43:16.780" style="s2">at least two layers to it so I put a</p>
+<p begin="00:43:13.660" end="00:43:19.990" style="s2">part in the repository it&#39;s a cube it&#39;s</p>
+<p begin="00:43:16.780" end="00:43:22.900" style="s2">just a chunk of material you know 200</p>
+<p begin="00:43:19.990" end="00:43:25.270" style="s2">centimeters on the side that&#39;s a basic</p>
+<p begin="00:43:22.900" end="00:43:29.619" style="s2">design that serves no real purpose but</p>
+<p begin="00:43:25.270" end="00:43:33.280" style="s2">then if I sawed it in half then I have</p>
+<p begin="00:43:29.619" end="00:43:35.560" style="s2">to new part numbers the original part</p>
+<p begin="00:43:33.280" end="00:43:36.880" style="s2">number and then a couple of derivative</p>
+<p begin="00:43:35.560" end="00:43:38.440" style="s2">part numbers that say if you pick this</p>
+<p begin="00:43:36.880" end="00:43:41.109" style="s2">part number you modify it in this way it</p>
+<p begin="00:43:38.440" end="00:43:42.869" style="s2">ends up being this and then the idea is</p>
+<p begin="00:43:41.109" end="00:43:45.790" style="s2">to take and put those part numbers on</p>
+<p begin="00:43:42.869" end="00:43:48.369" style="s2">essentially what is the equivalent to</p>
+<p begin="00:43:45.790" end="00:43:51.010" style="s2">github so github you have the original</p>
+<p begin="00:43:48.369" end="00:43:54.069" style="s2">part and then you have derivative parts</p>
+<p begin="00:43:51.010" end="00:43:57.310" style="s2">and the degree to which the derivative</p>
+<p begin="00:43:54.069" end="00:43:59.500" style="s2">part is modified determines if the</p>
+<p begin="00:43:57.310" end="00:44:01.300" style="s2">original part received a royalty of this</p>
+<p begin="00:43:59.500" end="00:44:03.430" style="s2">and you&#39;ve made this modified version</p>
+<p begin="00:44:01.300" end="00:44:05.109" style="s2">the original parts I&#39;ve received a small</p>
+<p begin="00:44:03.430" end="00:44:07.930" style="s2">percentage of the royalty that you can</p>
+<p begin="00:44:05.109" end="00:44:08.980" style="s2">collect for your derivative design so</p>
+<p begin="00:44:07.930" end="00:44:12.819" style="s2">again there would be an automatic</p>
+<p begin="00:44:08.980" end="00:44:15.430" style="s2">cascade a fifth order derivative part</p>
+<p begin="00:44:12.819" end="00:44:16.990" style="s2">would produce a royalty and the fourth</p>
+<p begin="00:44:15.430" end="00:44:19.300" style="s2">order derivative would receive a small</p>
+<p begin="00:44:16.990" end="00:44:21.010" style="s2">percentage of that royalty and the third</p>
+<p begin="00:44:19.300" end="00:44:23.020" style="s2">order derivative which receive a small</p>
+<p begin="00:44:21.010" end="00:44:24.250" style="s2">process it have to be how you explained</p>
+<p begin="00:44:23.020" end="00:44:25.869" style="s2">it was like well you have a cube and</p>
+<p begin="00:44:24.250" end="00:44:27.430" style="s2">then you put it into so now it&#39;s 2 but</p>
+<p begin="00:44:25.869" end="00:44:28.030" style="s2">that first needed you to make the first</p>
+<p begin="00:44:27.430" end="00:44:29.589" style="s2">cube</p>
+<p begin="00:44:28.030" end="00:44:31.089" style="s2">there&#39;s other derivatives that are like</p>
+<p begin="00:44:29.589" end="00:44:32.560" style="s2">okay so you come up with a new widget</p>
+<p begin="00:44:31.089" end="00:44:34.210" style="s2">and I</p>
+<p begin="00:44:32.560" end="00:44:35.500" style="s2">it doesn&#39;t quite make my needs and I&#39;m</p>
+<p begin="00:44:34.210" end="00:44:36.970" style="s2">not quite the best engineer but there&#39;s</p>
+<p begin="00:44:35.500" end="00:44:40.090" style="s2">something I do to it that makes it way</p>
+<p begin="00:44:36.970" end="00:44:41.980" style="s2">better but not quite great so you</p>
+<p begin="00:44:40.090" end="00:44:43.600" style="s2">created the first iteration I create a</p>
+<p begin="00:44:41.980" end="00:44:47.170" style="s2">not-so-great second iteration that</p>
+<p begin="00:44:43.600" end="00:44:48.910" style="s2">nobody really uses but it spawns a dozen</p>
+<p begin="00:44:47.170" end="00:44:51.490" style="s2">amazing ones that are way better than</p>
+<p begin="00:44:48.910" end="00:44:53.980" style="s2">anything you did no one&#39;s using mine but</p>
+<p begin="00:44:51.490" end="00:44:57.460" style="s2">it was an intermediary step to all of</p>
+<p begin="00:44:53.980" end="00:44:59.410" style="s2">these ones do I get any yes a little bit</p>
+<p begin="00:44:57.460" end="00:45:01.630" style="s2">of pass through but the pass through</p>
+<p begin="00:44:59.410" end="00:45:04.660" style="s2">again would be is that part itself</p>
+<p begin="00:45:01.630" end="00:45:05.890" style="s2">actually used and if it&#39;s not then the</p>
+<p begin="00:45:04.660" end="00:45:08.770" style="s2">derivative would be a small percentage</p>
+<p begin="00:45:05.890" end="00:45:10.390" style="s2">but if that part is used widely then</p>
+<p begin="00:45:08.770" end="00:45:12.520" style="s2">there would be a larger percentage now</p>
+<p begin="00:45:10.390" end="00:45:17.500" style="s2">deciding what those percentages are is</p>
+<p begin="00:45:12.520" end="00:45:20.200" style="s2">going to have to be driven by driven by</p>
+<p begin="00:45:17.500" end="00:45:22.810" style="s2">criteria in the system to evaluate and</p>
+<p begin="00:45:20.200" end="00:45:24.520" style="s2">see I think everybody in the system has</p>
+<p begin="00:45:22.810" end="00:45:26.530" style="s2">a vote to everybody who interacts with</p>
+<p begin="00:45:24.520" end="00:45:29.530" style="s2">the system is gonna vote and say this is</p>
+<p begin="00:45:26.530" end="00:45:37.930" style="s2">the greatest prosthetic add-on since you</p>
+<p begin="00:45:29.530" end="00:45:39.640" style="s2">know there&#39;s light fingers the the but</p>
+<p begin="00:45:37.930" end="00:45:43.960" style="s2">intermediate steps where was I going</p>
+<p begin="00:45:39.640" end="00:45:46.360" style="s2">with it I got confused so this this part</p>
+<p begin="00:45:43.960" end="00:45:49.090" style="s2">is that a fantastic part is extremely</p>
+<p begin="00:45:46.360" end="00:45:50.590" style="s2">popular and therefore it gets a lion&#39;s</p>
+<p begin="00:45:49.090" end="00:45:55.750" style="s2">share of royalties that are collected</p>
+<p begin="00:45:50.590" end="00:45:58.930" style="s2">for that and upstream parts that aren&#39;t</p>
+<p begin="00:45:55.750" end="00:46:00.550" style="s2">used because they&#39;ve been obsoleted they</p>
+<p begin="00:45:58.930" end="00:46:02.320" style="s2">would still get a tiny little percentage</p>
+<p begin="00:46:00.550" end="00:46:07.960" style="s2">because they were the derivative you</p>
+<p begin="00:46:02.320" end="00:46:09.460" style="s2">know the source of that innovation well</p>
+<p begin="00:46:07.960" end="00:46:12.640" style="s2">I was gonna go for a little deeper with</p>
+<p begin="00:46:09.460" end="00:46:15.310" style="s2">so royalties are collected as part of</p>
+<p begin="00:46:12.640" end="00:46:17.410" style="s2">the fee structure the foundation that</p>
+<p begin="00:46:15.310" end="00:46:19.840" style="s2">organizes releases for instance you</p>
+<p begin="00:46:17.410" end="00:46:21.040" style="s2">collect all the innovations that pertain</p>
+<p begin="00:46:19.840" end="00:46:23.620" style="s2">directly to the system because the</p>
+<p begin="00:46:21.040" end="00:46:24.970" style="s2">system can self modify I mean you can</p>
+<p begin="00:46:23.620" end="00:46:27.250" style="s2">start off with them you&#39;re gonna start</p>
+<p begin="00:46:24.970" end="00:46:30.310" style="s2">off with whatever system I come up with</p>
+<p begin="00:46:27.250" end="00:46:32.620" style="s2">that&#39;ll be iteration one but then people</p>
+<p begin="00:46:30.310" end="00:46:34.780" style="s2">smarter than me or that are more to have</p>
+<p begin="00:46:32.620" end="00:46:36.730" style="s2">more domain knowledge in a specific area</p>
+<p begin="00:46:34.780" end="00:46:38.230" style="s2">we&#39;re gonna look at the design and say I</p>
+<p begin="00:46:36.730" end="00:46:39.730" style="s2">need you do it that way and they&#39;re</p>
+<p begin="00:46:38.230" end="00:46:44.140" style="s2">gonna fix you know whatever they see you</p>
+<p begin="00:46:39.730" end="00:46:46.410" style="s2">are coming and extend it so all of that</p>
+<p begin="00:46:44.140" end="00:46:46.410" style="s2">together</p>
+<p begin="00:46:46.420" end="00:46:50.260" style="s2">accumulates in a system that becomes</p>
+<p begin="00:46:48.370" end="00:46:53.290" style="s2">more efficient over time and each</p>
+<p begin="00:46:50.260" end="00:46:56.260" style="s2">derivative design everything that it</p>
+<p begin="00:46:53.290" end="00:46:58.300" style="s2">pertains to modifications to the systems</p>
+<p begin="00:46:56.260" end="00:47:01.300" style="s2">gonna have to be organized into releases</p>
+<p begin="00:46:58.300" end="00:47:04.390" style="s2">because the continuous flood of upgrades</p>
+<p begin="00:47:01.300" end="00:47:07.960" style="s2">I mean anybody who&#39;s managed complex</p>
+<p begin="00:47:04.390" end="00:47:09.940" style="s2">software systems knows yeah you got 15</p>
+<p begin="00:47:07.960" end="00:47:11.860" style="s2">different vendors and they&#39;re all got</p>
+<p begin="00:47:09.940" end="00:47:13.780" style="s2">different patches and releases they</p>
+<p begin="00:47:11.860" end="00:47:17.530" style="s2">interact and completely unexpected ways</p>
+<p begin="00:47:13.780" end="00:47:21.040" style="s2">and bad things happen yeah it is and so</p>
+<p begin="00:47:17.530" end="00:47:22.810" style="s2">on and so on so the fee structure when</p>
+<p begin="00:47:21.040" end="00:47:27.360" style="s2">you produce something there&#39;s a royalty</p>
+<p begin="00:47:22.810" end="00:47:29.950" style="s2">for the inventor but then there&#39;s also a</p>
+<p begin="00:47:27.360" end="00:47:31.570" style="s2">marketing somebody has to do marketing</p>
+<p begin="00:47:29.950" end="00:47:33.340" style="s2">to get the system into new people&#39;s</p>
+<p begin="00:47:31.570" end="00:47:34.660" style="s2">hands because obviously adoption it&#39;s</p>
+<p begin="00:47:33.340" end="00:47:36.580" style="s2">not on a percent right out of the gate</p>
+<p begin="00:47:34.660" end="00:47:40.780" style="s2">you&#39;re gonna have five misses running</p>
+<p begin="00:47:36.580" end="00:47:42.340" style="s2">where to meet the needs of not having</p>
+<p begin="00:47:40.780" end="00:47:45.940" style="s2">shipping and so forth you actually need</p>
+<p begin="00:47:42.340" end="00:47:47.920" style="s2">five hundred so the other 490 system</p>
+<p begin="00:47:45.940" end="00:47:50.490" style="s2">somebody has to go out there and promote</p>
+<p begin="00:47:47.920" end="00:47:54.010" style="s2">the idea so that they get installed</p>
+<p begin="00:47:50.490" end="00:47:56.500" style="s2">sales and marketing those two things</p>
+<p begin="00:47:54.010" end="00:47:59.380" style="s2">selling work for the systems marketing</p>
+<p begin="00:47:56.500" end="00:48:00.880" style="s2">and I see that as freelancers who hook</p>
+<p begin="00:47:59.380" end="00:48:03.490" style="s2">up with the system and say hey I can</p>
+<p begin="00:48:00.880" end="00:48:07.150" style="s2">really so I&#39;m so anything anybody they</p>
+<p begin="00:48:03.490" end="00:48:10.030" style="s2">will sell work to end-users who want</p>
+<p begin="00:48:07.150" end="00:48:11.950" style="s2">things produced a part of the feed</p>
+<p begin="00:48:10.030" end="00:48:16.150" style="s2">that&#39;s collected at the manufacturing</p>
+<p begin="00:48:11.950" end="00:48:18.130" style="s2">point for each item there&#39;s a collection</p>
+<p begin="00:48:16.150" end="00:48:20.560" style="s2">of fees and that fee how that&#39;s</p>
+<p begin="00:48:18.130" end="00:48:23.260" style="s2">dispersed is decided by a consensus</p>
+<p begin="00:48:20.560" end="00:48:26.410" style="s2">system where people vote they say well</p>
+<p begin="00:48:23.260" end="00:48:28.210" style="s2">the inventor should only get 10% because</p>
+<p begin="00:48:26.410" end="00:48:30.460" style="s2">most of the work occurs somewhere else</p>
+<p begin="00:48:28.210" end="00:48:32.530" style="s2">and there&#39;s gonna be millions of these</p>
+<p begin="00:48:30.460" end="00:48:36.760" style="s2">so it&#39;s not like they&#39;re gonna end up</p>
+<p begin="00:48:32.530" end="00:48:38.890" style="s2">you know impoverished sales marketing is</p>
+<p begin="00:48:36.760" end="00:48:41.020" style="s2">gonna take a cut a small percentage</p>
+<p begin="00:48:38.890" end="00:48:43.630" style="s2">should go back to the organization that</p>
+<p begin="00:48:41.020" end="00:48:45.400" style="s2">organizes taking all the innovations for</p>
+<p begin="00:48:43.630" end="00:48:48.490" style="s2">a particular period of time and</p>
+<p begin="00:48:45.400" end="00:48:50.590" style="s2">releasing it in a coherent way so there</p>
+<p begin="00:48:48.490" end="00:48:52.930" style="s2">are basically those five areas that that</p>
+<p begin="00:48:50.590" end="00:48:54.370" style="s2">the system will collect fees for so</p>
+<p begin="00:48:52.930" end="00:48:56.980" style="s2">there&#39;ll be one lumpy and there breaks</p>
+<p begin="00:48:54.370" end="00:48:58.570" style="s2">down into royalty sales and sales</p>
+<p begin="00:48:56.980" end="00:49:02.080" style="s2">commissions mark</p>
+<p begin="00:48:58.570" end="00:49:06.310" style="s2">and then the foundation that organizes</p>
+<p begin="00:49:02.080" end="00:49:08.110" style="s2">the whole thing so that that idea is to</p>
+<p begin="00:49:06.310" end="00:49:12.370" style="s2">have that embedded and blockchain base</p>
+<p begin="00:49:08.110" end="00:49:14.980" style="s2">and so forth so that the the collection</p>
+<p begin="00:49:12.370" end="00:49:16.570" style="s2">of fees is an intrinsic property and the</p>
+<p begin="00:49:14.980" end="00:49:18.190" style="s2">only thing that I would do to constrain</p>
+<p begin="00:49:16.570" end="00:49:20.230" style="s2">it or throttle it would be that it would</p>
+<p begin="00:49:18.190" end="00:49:21.730" style="s2">be opt-in when you get your system do</p>
+<p begin="00:49:20.230" end="00:49:23.230" style="s2">you want to participate in the sales</p>
+<p begin="00:49:21.730" end="00:49:26.470" style="s2">thing you want people to sell work for</p>
+<p begin="00:49:23.230" end="00:49:28.150" style="s2">your system in your area and if they</p>
+<p begin="00:49:26.470" end="00:49:29.560" style="s2">know well then that feat doesn&#39;t get</p>
+<p begin="00:49:28.150" end="00:49:32.050" style="s2">collected you can keep it yourself</p>
+<p begin="00:49:29.560" end="00:49:33.820" style="s2">because that was also one of it one of</p>
+<p begin="00:49:32.050" end="00:49:36.040" style="s2">the questions less so about the selling</p>
+<p begin="00:49:33.820" end="00:49:38.920" style="s2">to get make sure that the factory itself</p>
+<p begin="00:49:36.040" end="00:49:42.190" style="s2">has enough work assuming it has more</p>
+<p begin="00:49:38.920" end="00:49:43.810" style="s2">than enough work how do you decide is it</p>
+<p begin="00:49:42.190" end="00:49:45.670" style="s2">first come first serve basis I ordered</p>
+<p begin="00:49:43.810" end="00:49:48.550" style="s2">my piece but it takes a week to print</p>
+<p begin="00:49:45.670" end="00:49:50.140" style="s2">versus yours takes five minutes I get</p>
+<p begin="00:49:48.550" end="00:49:52.450" style="s2">this problem at Starbucks all the time</p>
+<p begin="00:49:50.140" end="00:49:53.950" style="s2">or whatever coffee shop I go into where</p>
+<p begin="00:49:52.450" end="00:49:55.210" style="s2">when it&#39;s a one person and they&#39;ll be</p>
+<p begin="00:49:53.950" end="00:49:56.260" style="s2">like okay I&#39;ll make your lot in they</p>
+<p begin="00:49:55.210" end="00:49:57.340" style="s2">come back and get the next person&#39;s</p>
+<p begin="00:49:56.260" end="00:49:58.840" style="s2">order and they go and make it I&#39;m like</p>
+<p begin="00:49:57.340" end="00:50:00.130" style="s2">if you just got eight people&#39;s order and</p>
+<p begin="00:49:58.840" end="00:50:03.100" style="s2">then made it all together this would be</p>
+<p begin="00:50:00.130" end="00:50:05.350" style="s2">way faster like an algorithm decides who</p>
+<p begin="00:50:03.100" end="00:50:07.600" style="s2">decides the algorithm besides there&#39;s</p>
+<p begin="00:50:05.350" end="00:50:09.970" style="s2">queue management the other thing is the</p>
+<p begin="00:50:07.600" end="00:50:11.560" style="s2">fifth part I mentioned I said there&#39;s</p>
+<p begin="00:50:09.970" end="00:50:14.770" style="s2">five parts and then I mentioned for the</p>
+<p begin="00:50:11.560" end="00:50:19.080" style="s2">fifth part is in selecting of the part</p>
+<p begin="00:50:14.770" end="00:50:21.880" style="s2">of that feed is used to incentivize the</p>
+<p begin="00:50:19.080" end="00:50:24.520" style="s2">setup of new systems so in an</p>
+<p begin="00:50:21.880" end="00:50:26.530" style="s2">underserved area you got one system and</p>
+<p begin="00:50:24.520" end="00:50:28.570" style="s2">it&#39;s trying to serve too many people</p>
+<p begin="00:50:26.530" end="00:50:31.060" style="s2">it&#39;s gonna get saturated and you&#39;ll end</p>
+<p begin="00:50:28.570" end="00:50:33.850" style="s2">up with long queues stacking up so the</p>
+<p begin="00:50:31.060" end="00:50:35.740" style="s2">idea is to incentivize a system so that</p>
+<p begin="00:50:33.850" end="00:50:39.160" style="s2">a balances reach the demand and supply</p>
+<p begin="00:50:35.740" end="00:50:41.440" style="s2">are equal and that that means that the</p>
+<p begin="00:50:39.160" end="00:50:43.240" style="s2">fifth part of the fee collection is to</p>
+<p begin="00:50:41.440" end="00:50:46.290" style="s2">incentivize new systems so that the</p>
+<p begin="00:50:43.240" end="00:50:49.840" style="s2">system is proud self-propagating and</p>
+<p begin="00:50:46.290" end="00:50:52.810" style="s2">that way in your area you don&#39;t end up</p>
+<p begin="00:50:49.840" end="00:50:55.360" style="s2">waiting a week for your order because</p>
+<p begin="00:50:52.810" end="00:50:56.710" style="s2">the order the capacity of the system</p>
+<p begin="00:50:55.360" end="00:50:59.230" style="s2">should be balanced against the</p>
+<p begin="00:50:56.710" end="00:51:01.480" style="s2">requirements in that community and it&#39;ll</p>
+<p begin="00:50:59.230" end="00:51:03.670" style="s2">be pretty obvious after they&#39;re honored</p>
+<p begin="00:51:01.480" end="00:51:05.800" style="s2">systems installed you know that striking</p>
+<p begin="00:51:03.670" end="00:51:11.650" style="s2">that balance will become more refined as</p>
+<p begin="00:51:05.800" end="00:51:13.390" style="s2">time goes on I think that</p>
+<p begin="00:51:11.650" end="00:51:16.390" style="s2">you know this is a physical system it</p>
+<p begin="00:51:13.390" end="00:51:21.990" style="s2">has it has existing hardware that is</p>
+<p begin="00:51:16.390" end="00:51:25.750" style="s2">functioning so unlike a lot of the the</p>
+<p begin="00:51:21.990" end="00:51:27.190" style="s2">administrative approaches to migrating</p>
+<p begin="00:51:25.750" end="00:51:29.740" style="s2">us through the transition towards the</p>
+<p begin="00:51:27.190" end="00:51:33.670" style="s2">society that operates more in a more</p>
+<p begin="00:51:29.740" end="00:51:36.370" style="s2">game V fashion this is a tool that as</p>
+<p begin="00:51:33.670" end="00:51:38.290" style="s2">people adopt it sort of automatically</p>
+<p begin="00:51:36.370" end="00:51:39.130" style="s2">puts you at least on the game B</p>
+<p begin="00:51:38.290" end="00:51:41.920" style="s2">landscape</p>
+<p begin="00:51:39.130" end="00:51:44.950" style="s2">it doesn&#39;t necessarily create a game B</p>
+<p begin="00:51:41.920" end="00:51:47.380" style="s2">society but it certainly fulfills a lot</p>
+<p begin="00:51:44.950" end="00:51:51.160" style="s2">of the precursors where you can D</p>
+<p begin="00:51:47.380" end="00:51:55.240" style="s2">monetize you can distribute wealth more</p>
+<p begin="00:51:51.160" end="00:51:56.560" style="s2">evenly you can balance how people</p>
+<p begin="00:51:55.240" end="00:51:58.450" style="s2">interact with each other because there</p>
+<p begin="00:51:56.560" end="00:52:00.640" style="s2">are less incentives to pressure other</p>
+<p begin="00:51:58.450" end="00:52:03.760" style="s2">people to do things for you you can do</p>
+<p begin="00:52:00.640" end="00:52:05.920" style="s2">them yourself and if it distributes</p>
+<p begin="00:52:03.760" end="00:52:09.970" style="s2">automation across society so that people</p>
+<p begin="00:52:05.920" end="00:52:12.220" style="s2">don&#39;t have the burden of you know</p>
+<p begin="00:52:09.970" end="00:52:14.260" style="s2">carving each chess pieces themselves</p>
+<p begin="00:52:12.220" end="00:52:21.780" style="s2">they can commit it to an automatic</p>
+<p begin="00:52:14.260" end="00:52:24.760" style="s2">process there&#39;s also in regular current</p>
+<p begin="00:52:21.780" end="00:52:26.530" style="s2">manufacturing I have a factory set up to</p>
+<p begin="00:52:24.760" end="00:52:28.570" style="s2">manufacture you know ten thousand a</p>
+<p begin="00:52:26.530" end="00:52:30.850" style="s2">million of one item and then they might</p>
+<p begin="00:52:28.570" end="00:52:32.410" style="s2">redo their system to manufacture</p>
+<p begin="00:52:30.850" end="00:52:35.590" style="s2">something else but it&#39;s set up to do a</p>
+<p begin="00:52:32.410" end="00:52:37.450" style="s2">mass production of it is cube spawn is</p>
+<p begin="00:52:35.590" end="00:52:40.360" style="s2">there still a trade-off that like if I</p>
+<p begin="00:52:37.450" end="00:52:42.130" style="s2">if if 30 of us want widgets and we&#39;re</p>
+<p begin="00:52:40.360" end="00:52:44.410" style="s2">not in a ten-mile area we&#39;re in a</p>
+<p begin="00:52:42.130" end="00:52:46.540" style="s2">thousand-mile area does it makes sense</p>
+<p begin="00:52:44.410" end="00:52:47.830" style="s2">for one factory to do that and then to</p>
+<p begin="00:52:46.540" end="00:52:50.890" style="s2">ship you don&#39;t even shoot them out</p>
+<p begin="00:52:47.830" end="00:52:53.500" style="s2">further or does it make like is there a</p>
+<p begin="00:52:50.890" end="00:52:54.960" style="s2">cost to reorganizing the thing so it</p>
+<p begin="00:52:53.500" end="00:52:58.690" style="s2">makes the next item</p>
+<p begin="00:52:54.960" end="00:53:01.840" style="s2">there&#39;s the intent is that there it</p>
+<p begin="00:52:58.690" end="00:53:04.570" style="s2">should be no fixed tooling cost the idea</p>
+<p begin="00:53:01.840" end="00:53:06.370" style="s2">is to modular fixturing so that if you</p>
+<p begin="00:53:04.570" end="00:53:09.700" style="s2">have a part that&#39;s difficult to hold you</p>
+<p begin="00:53:06.370" end="00:53:11.560" style="s2">know there will be a set of blocks that</p>
+<p begin="00:53:09.700" end="00:53:13.570" style="s2">can be bolted to a plate to support that</p>
+<p begin="00:53:11.560" end="00:53:15.670" style="s2">part ball and operation is occurring to</p>
+<p begin="00:53:13.570" end="00:53:18.070" style="s2">it that aren&#39;t consumable you don&#39;t have</p>
+<p begin="00:53:15.670" end="00:53:19.450" style="s2">to make a fixture that is a committed</p>
+<p begin="00:53:18.070" end="00:53:23.100" style="s2">resource that you&#39;re gonna have to</p>
+<p begin="00:53:19.450" end="00:53:24.250" style="s2">recycle at the end yes so flexible</p>
+<p begin="00:53:23.100" end="00:53:26.109" style="s2">fixturing</p>
+<p begin="00:53:24.250" end="00:53:29.019" style="s2">flexible tooling</p>
+<p begin="00:53:26.109" end="00:53:31.059" style="s2">so that standardized tools and the other</p>
+<p begin="00:53:29.019" end="00:53:33.549" style="s2">thing is a dovetailing a feedback loop</p>
+<p begin="00:53:31.059" end="00:53:36.759" style="s2">between the design and manufacturing</p>
+<p begin="00:53:33.549" end="00:53:39.489" style="s2">process and fixture and standardized</p>
+<p begin="00:53:36.759" end="00:53:41.890" style="s2">tooling so that you avoid that situation</p>
+<p begin="00:53:39.489" end="00:53:44.950" style="s2">where I worked at a machine shop and I</p>
+<p begin="00:53:41.890" end="00:53:49.119" style="s2">made a out of stock part for a Boeing</p>
+<p begin="00:53:44.950" end="00:53:51.789" style="s2">727 one of the cable pulleys that went</p>
+<p begin="00:53:49.119" end="00:53:54.009" style="s2">in the wing the tooling for that thing</p>
+<p begin="00:53:51.789" end="00:53:56.920" style="s2">the supports necessary to hold this big</p>
+<p begin="00:53:54.009" end="00:54:00.519" style="s2">delicate piece of aluminum up while it</p>
+<p begin="00:53:56.920" end="00:54:03.369" style="s2">was being cut on by the machine the</p>
+<p begin="00:54:00.519" end="00:54:07.059" style="s2">fixture was five times the cost of the</p>
+<p begin="00:54:03.369" end="00:54:08.950" style="s2">part you know because of the nature of</p>
+<p begin="00:54:07.059" end="00:54:11.019" style="s2">the way the part was designed and the</p>
+<p begin="00:54:08.950" end="00:54:12.640" style="s2">nature of the machining process it was</p>
+<p begin="00:54:11.019" end="00:54:14.499" style="s2">extremely difficult part to make</p>
+<p begin="00:54:12.640" end="00:54:18.549" style="s2">accurately and and really high standards</p>
+<p begin="00:54:14.499" end="00:54:21.940" style="s2">so that that is something to attempt to</p>
+<p begin="00:54:18.549" end="00:54:24.190" style="s2">avoid I will not always avoid it because</p>
+<p begin="00:54:21.940" end="00:54:26.170" style="s2">there are certain things that just have</p>
+<p begin="00:54:24.190" end="00:54:29.739" style="s2">to be made a specific way there&#39;s no way</p>
+<p begin="00:54:26.170" end="00:54:35.019" style="s2">around it but the idea would be to to</p>
+<p begin="00:54:29.739" end="00:54:36.729" style="s2">constantly impart design control to end</p>
+<p begin="00:54:35.019" end="00:54:40.569" style="s2">up with the result that does not have</p>
+<p begin="00:54:36.729" end="00:54:42.279" style="s2">such special requirements so initially</p>
+<p begin="00:54:40.569" end="00:54:44.170" style="s2">this thing live a relatively limited</p>
+<p begin="00:54:42.279" end="00:54:46.239" style="s2">applicability there&#39;s only you know I</p>
+<p begin="00:54:44.170" end="00:54:47.680" style="s2">mean just like first computers and they</p>
+<p begin="00:54:46.239" end="00:54:50.289" style="s2">came out there was a nice offer at one</p>
+<p begin="00:54:47.680" end="00:54:52.269" style="s2">well same thing here when this first</p>
+<p begin="00:54:50.289" end="00:54:55.059" style="s2">comes out there will be very few designs</p>
+<p begin="00:54:52.269" end="00:54:58.900" style="s2">because the design process is probably</p>
+<p begin="00:54:55.059" end="00:55:01.509" style="s2">the more intricate portion on how to how</p>
+<p begin="00:54:58.900" end="00:55:04.449" style="s2">do I get these limited machines with</p>
+<p begin="00:55:01.509" end="00:55:08.440" style="s2">fixed capabilities to produce my thing</p>
+<p begin="00:55:04.449" end="00:55:10.989" style="s2">whatever my my tool art or product is</p>
+<p begin="00:55:08.440" end="00:55:13.509" style="s2">and then how do I design that product so</p>
+<p begin="00:55:10.989" end="00:55:15.489" style="s2">that it&#39;s recyclable because that&#39;s of</p>
+<p begin="00:55:13.509" end="00:55:17.140" style="s2">the greatest benefit and I&#39;m sure that</p>
+<p begin="00:55:15.489" end="00:55:19.630" style="s2">initially some of the things that are</p>
+<p begin="00:55:17.140" end="00:55:20.739" style="s2">produced by this will have shortcomings</p>
+<p begin="00:55:19.630" end="00:55:22.390" style="s2">in that area</p>
+<p begin="00:55:20.739" end="00:55:23.739" style="s2">you know you&#39;ll produce something and</p>
+<p begin="00:55:22.390" end="00:55:25.599" style="s2">they&#39;ll be this plastic part in it</p>
+<p begin="00:55:23.739" end="00:55:29.440" style="s2">that&#39;s not particularly recyclable</p>
+<p begin="00:55:25.599" end="00:55:31.259" style="s2">because to get a strength you needed you</p>
+<p begin="00:55:29.440" end="00:55:33.910" style="s2">had to use a plastic what that it is</p>
+<p begin="00:55:31.259" end="00:55:35.410" style="s2">mm-hmm items are not particularly</p>
+<p begin="00:55:33.910" end="00:55:37.809" style="s2">conducive for recycling you know there&#39;s</p>
+<p begin="00:55:35.410" end="00:55:39.370" style="s2">there are potentials along the way for</p>
+<p begin="00:55:37.809" end="00:55:43.900" style="s2">all sorts of things that are</p>
+<p begin="00:55:39.370" end="00:55:46.420" style="s2">non-ideal but the goal is to especially</p>
+<p begin="00:55:43.900" end="00:55:48.040" style="s2">if this enters the commercial realm</p>
+<p begin="00:55:46.420" end="00:55:51.280" style="s2">which it probably will have to to get</p>
+<p begin="00:55:48.040" end="00:55:55.090" style="s2">enough funding to to expand and then</p>
+<p begin="00:55:51.280" end="00:55:56.800" style="s2">there will be some compromises in making</p>
+<p begin="00:55:55.090" end="00:55:59.050" style="s2">this into a specific vertical</p>
+<p begin="00:55:56.800" end="00:56:00.250" style="s2">application for manufacturers so that</p>
+<p begin="00:55:59.050" end="00:56:02.110" style="s2">they can make whatever it is that are</p>
+<p begin="00:56:00.250" end="00:56:04.390" style="s2">already making which is probably not</p>
+<p begin="00:56:02.110" end="00:56:10.120" style="s2">meeting any other design criteria that</p>
+<p begin="00:56:04.390" end="00:56:12.900" style="s2">just laid out so there&#39;s it&#39;s a phased</p>
+<p begin="00:56:10.120" end="00:56:15.340" style="s2">process it&#39;s gonna take quite a while to</p>
+<p begin="00:56:12.900" end="00:56:19.480" style="s2">to bring all of the necessary elements</p>
+<p begin="00:56:15.340" end="00:56:21.280" style="s2">together and if so I believe in the</p>
+<p begin="00:56:19.480" end="00:56:22.750" style="s2">comments section if we are I&#39;m guessing</p>
+<p begin="00:56:21.280" end="00:56:25.180" style="s2">we&#39;re gonna post this although after we</p>
+<p begin="00:56:22.750" end="00:56:26.890" style="s2">stop going live but um if you can send</p>
+<p begin="00:56:25.180" end="00:56:28.480" style="s2">me your patreon information because I&#39;ll</p>
+<p begin="00:56:26.890" end="00:56:30.730" style="s2">also post that down in case somebody</p>
+<p begin="00:56:28.480" end="00:56:32.410" style="s2">wants to support your project they want</p>
+<p begin="00:56:30.730" end="00:56:33.640" style="s2">you know want you working on this it</p>
+<p begin="00:56:32.410" end="00:56:35.500" style="s2">sounds like the best place for you to be</p>
+<p begin="00:56:33.640" end="00:56:39.310" style="s2">working for all of humanity&#39;s sake I</p>
+<p begin="00:56:35.500" end="00:56:41.200" style="s2">don&#39;t believe that&#39;s true and I think</p>
+<p begin="00:56:39.310" end="00:56:42.970" style="s2">the more we everyone doing that the more</p>
+<p begin="00:56:41.200" end="00:56:44.800" style="s2">we can get without patreon because</p>
+<p begin="00:56:42.970" end="00:56:46.810" style="s2">that&#39;s the issue right we need people to</p>
+<p begin="00:56:44.800" end="00:56:49.060" style="s2">give you X amount of dollars as opposed</p>
+<p begin="00:56:46.810" end="00:56:51.430" style="s2">to us together figuring out how do we</p>
+<p begin="00:56:49.060" end="00:56:53.890" style="s2">implement a UVI or something that gets</p>
+<p begin="00:56:51.430" end="00:56:55.990" style="s2">us fed shelter clothing without needing</p>
+<p begin="00:56:53.890" end="00:56:58.510" style="s2">the government to install it without</p>
+<p begin="00:56:55.990" end="00:57:00.130" style="s2">needing it to be a taxed system right</p>
+<p begin="00:56:58.510" end="00:57:01.900" style="s2">like how do we feed ourselves how do we</p>
+<p begin="00:57:00.130" end="00:57:03.910" style="s2">house ourselves but that&#39;s more of like</p>
+<p begin="00:57:01.900" end="00:57:07.360" style="s2">a meta project to support all of the</p>
+<p begin="00:57:03.910" end="00:57:08.920" style="s2">individual projects what I was going to</p>
+<p begin="00:57:07.360" end="00:57:09.790" style="s2">talk about before is the triangle the</p>
+<p begin="00:57:08.920" end="00:57:11.440" style="s2">mint I think it&#39;s a manufacturing</p>
+<p begin="00:57:09.790" end="00:57:14.290" style="s2">triangle or something where there&#39;s like</p>
+<p begin="00:57:11.440" end="00:57:16.390" style="s2">that it&#39;s fast cheeping and quality</p>
+<p begin="00:57:14.290" end="00:57:20.410" style="s2">right and you can only have two of you</p>
+<p begin="00:57:16.390" end="00:57:22.330" style="s2">and for what I&#39;m doing which is like the</p>
+<p begin="00:57:20.410" end="00:57:23.620" style="s2">technology cooperative like we need it&#39;s</p>
+<p begin="00:57:22.330" end="00:57:25.210" style="s2">funny because we all have all these can</p>
+<p begin="00:57:23.620" end="00:57:27.160" style="s2">be people who are like this piece is the</p>
+<p begin="00:57:25.210" end="00:57:29.200" style="s2">most important and I&#39;m like concentrated</p>
+<p begin="00:57:27.160" end="00:57:31.540" style="s2">on technology yours is manufacturing</p>
+<p begin="00:57:29.200" end="00:57:33.490" style="s2">Ramses is like currency and and like</p>
+<p begin="00:57:31.540" end="00:57:35.470" style="s2">everyone has their own it&#39;s like this is</p>
+<p begin="00:57:33.490" end="00:57:36.940" style="s2">the central piece and I think they&#39;re</p>
+<p begin="00:57:35.470" end="00:57:39.100" style="s2">all the central piece it&#39;s just every</p>
+<p begin="00:57:36.940" end="00:57:40.570" style="s2">piece is your piece is what you&#39;re</p>
+<p begin="00:57:39.100" end="00:57:42.040" style="s2">supposed to be working on and how do we</p>
+<p begin="00:57:40.570" end="00:57:45.280" style="s2">kind of combine them so we can do them</p>
+<p begin="00:57:42.040" end="00:57:48.850" style="s2">all it kind of at the same time but so</p>
+<p begin="00:57:45.280" end="00:57:50.650" style="s2">in my what I&#39;m creating I know no one&#39;s</p>
+<p begin="00:57:48.850" end="00:57:52.240" style="s2">coming on board until they have a better</p>
+<p begin="00:57:50.650" end="00:57:53.059" style="s2">product than what they get in the world</p>
+<p begin="00:57:52.240" end="00:57:54.919" style="s2">right I can&#39;t</p>
+<p begin="00:57:53.059" end="00:57:56.329" style="s2">at people to come use me instead of</p>
+<p begin="00:57:54.919" end="00:57:58.699" style="s2">Google there is no need to use insects</p>
+<p begin="00:57:56.329" end="00:57:59.959" style="s2">Google but like it has to be fast or two</p>
+<p begin="00:57:58.699" end="00:58:02.659" style="s2">for better they&#39;re not going to do it</p>
+<p begin="00:57:59.959" end="00:58:05.059" style="s2">right so I think that manufacturing</p>
+<p begin="00:58:02.659" end="00:58:07.069" style="s2">locally isn&#39;t necessarily going to be</p>
+<p begin="00:58:05.059" end="00:58:10.729" style="s2">fast or right because I can just go to</p>
+<p begin="00:58:07.069" end="00:58:12.319" style="s2">Walmart and buy the thing it won&#39;t in</p>
+<p begin="00:58:10.729" end="00:58:15.349" style="s2">the beginning be cheaper it&#39;s gonna be</p>
+<p begin="00:58:12.319" end="00:58:17.089" style="s2">like steak right like sorry the petri</p>
+<p begin="00:58:15.349" end="00:58:18.589" style="s2">dish steak which is like great I don&#39;t</p>
+<p begin="00:58:17.089" end="00:58:20.929" style="s2">want it you have to kill a cow a mistake</p>
+<p begin="00:58:18.589" end="00:58:23.239" style="s2">what a million dollars no thank you it</p>
+<p begin="00:58:20.929" end="00:58:24.769" style="s2">doesn&#39;t taste good but it has to go</p>
+<p begin="00:58:23.239" end="00:58:27.019" style="s2">through that stage to get to the cheese</p>
+<p begin="00:58:24.769" end="00:58:30.289" style="s2">stage to get to the wait the materials</p>
+<p begin="00:58:27.019" end="00:58:32.329" style="s2">are right here that it&#39;s being used and</p>
+<p begin="00:58:30.289" end="00:58:34.609" style="s2">I don&#39;t know what point is it is a good</p>
+<p begin="00:58:32.329" end="00:58:36.439" style="s2">cheaper to be bought from this source is</p>
+<p begin="00:58:34.609" end="00:58:40.699" style="s2">it as soon as when it&#39;s there it&#39;s</p>
+<p begin="00:58:36.439" end="00:58:42.679" style="s2">cheaper or you&#39;ll have to also keep it</p>
+<p begin="00:58:40.699" end="00:58:45.709" style="s2">binded these initial machines would be</p>
+<p begin="00:58:42.679" end="00:58:48.259" style="s2">somewhat limited there the prototype its</p>
+<p begin="00:58:45.709" end="00:58:51.079" style="s2">first cut machines so how old were they</p>
+<p begin="00:58:48.259" end="00:58:52.969" style="s2">perform probably adequately I think that</p>
+<p begin="00:58:51.079" end="00:58:56.809" style="s2">I can at least hit the adequate target</p>
+<p begin="00:58:52.969" end="00:59:00.439" style="s2">but adequate is not what you get after</p>
+<p begin="00:58:56.809" end="00:59:02.029" style="s2">you had a few years of refinement where</p>
+<p begin="00:59:00.439" end="00:59:03.650" style="s2">are you ironed out all the little bugs</p>
+<p begin="00:59:02.029" end="00:59:06.619" style="s2">then they&#39;ll be great you know they&#39;ll</p>
+<p begin="00:59:03.650" end="00:59:09.229" style="s2">be fantastic but first cut you&#39;re not</p>
+<p begin="00:59:06.619" end="00:59:10.759" style="s2">gonna hit fantastic it&#39;s not gonna be</p>
+<p begin="00:59:09.229" end="00:59:13.069" style="s2">there the other thing I remember is that</p>
+<p begin="00:59:10.759" end="00:59:15.049" style="s2">on the recycling side when I finished</p>
+<p begin="00:59:13.069" end="00:59:17.959" style="s2">these prototype machines there&#39;s no</p>
+<p begin="00:59:15.049" end="00:59:20.449" style="s2">recycling there is no resource to</p>
+<p begin="00:59:17.959" end="00:59:22.689" style="s2">recycle the materials to do the complex</p>
+<p begin="00:59:20.449" end="00:59:25.189" style="s2">and intricate process of sorting through</p>
+<p begin="00:59:22.689" end="00:59:27.380" style="s2">17 types of white plastic and</p>
+<p begin="00:59:25.189" end="00:59:28.729" style="s2">identifying which ones would each and</p>
+<p begin="00:59:27.380" end="00:59:31.400" style="s2">making certain that it&#39;s classified</p>
+<p begin="00:59:28.729" end="00:59:34.159" style="s2">properly so that you know contaminate</p>
+<p begin="00:59:31.400" end="00:59:37.789" style="s2">the good plastic you have was something</p>
+<p begin="00:59:34.159" end="00:59:41.029" style="s2">that doesn&#39;t match its chemistry so now</p>
+<p begin="00:59:37.789" end="00:59:43.400" style="s2">fortunately the control architecture for</p>
+<p begin="00:59:41.029" end="00:59:44.929" style="s2">this system is that it&#39;s gonna run a</p>
+<p begin="00:59:43.400" end="00:59:46.279" style="s2">bunch of little manufacturing machines</p>
+<p begin="00:59:44.929" end="00:59:48.019" style="s2">and do queue management and all this</p>
+<p begin="00:59:46.279" end="00:59:50.059" style="s2">other stuff a lot of that has been</p>
+<p begin="00:59:48.019" end="00:59:52.999" style="s2">worked out by people much smarter than</p>
+<p begin="00:59:50.059" end="00:59:55.549" style="s2">me there&#39;s a development project the</p>
+<p begin="00:59:52.999" end="00:59:58.249" style="s2">United States called the DMD III which</p>
+<p begin="00:59:55.549" end="01:00:00.289" style="s2">was funded by DARPA they put up 70</p>
+<p begin="00:59:58.249" end="01:00:03.919" style="s2">million dollars and it&#39;s the digital</p>
+<p begin="01:00:00.289" end="01:00:05.110" style="s2">manufacturing design initiative and then</p>
+<p begin="01:00:03.919" end="01:00:07.480" style="s2">they had another eye</p>
+<p begin="01:00:05.110" end="01:00:09.100" style="s2">Institute it&#39;s in Chicago and they&#39;ve</p>
+<p begin="01:00:07.480" end="01:00:13.090" style="s2">renamed themselves twice so they&#39;re</p>
+<p begin="01:00:09.100" end="01:00:15.640" style="s2">called MXD now but they take they raise</p>
+<p begin="01:00:13.090" end="01:00:17.290" style="s2">300 million dollars between the city of</p>
+<p begin="01:00:15.640" end="01:00:18.940" style="s2">Chicago the university system</p>
+<p begin="01:00:17.290" end="01:00:20.920" style="s2">manufacturers and this is an initial</p>
+<p begin="01:00:18.940" end="01:00:22.420" style="s2">seven million dollar grant and what</p>
+<p begin="01:00:20.920" end="01:00:24.270" style="s2">they&#39;re working on is the history four</p>
+<p begin="01:00:22.420" end="01:00:33.160" style="s2">point over the United States</p>
+<p begin="01:00:24.270" end="01:00:37.480" style="s2">pardon me so the one thing going on for</p>
+<p begin="01:00:33.160" end="01:00:39.730" style="s2">about two weeks so the they have</p>
+<p begin="01:00:37.480" end="01:00:41.800" style="s2">produced some stuff for industry 4.0</p>
+<p begin="01:00:39.730" end="01:00:44.140" style="s2">it&#39;s just mind-blowing ly sophisticated</p>
+<p begin="01:00:41.800" end="01:00:45.700" style="s2">and it&#39;s all built they prototype out</p>
+<p begin="01:00:44.140" end="01:00:49.090" style="s2">their design they&#39;ve actually built some</p>
+<p begin="01:00:45.700" end="01:00:53.190" style="s2">of software all this stuff is is done so</p>
+<p begin="01:00:49.090" end="01:00:55.690" style="s2">the design architecture for this system</p>
+<p begin="01:00:53.190" end="01:00:57.250" style="s2">largely comes from industry which has</p>
+<p begin="01:00:55.690" end="01:01:01.870" style="s2">already worked out all the details the</p>
+<p begin="01:00:57.250" end="01:01:05.050" style="s2">digital the digital templates there&#39;s a</p>
+<p begin="01:01:01.870" end="01:01:07.840" style="s2">thing called step NC and step NC is is</p>
+<p begin="01:01:05.050" end="01:01:10.600" style="s2">based on a bunch of research that was</p>
+<p begin="01:01:07.840" end="01:01:13.120" style="s2">done to move beyond G code G code is</p>
+<p begin="01:01:10.600" end="01:01:15.640" style="s2">what is used to control most 3d printers</p>
+<p begin="01:01:13.120" end="01:01:18.960" style="s2">and a large number of manufacturing</p>
+<p begin="01:01:15.640" end="01:01:22.150" style="s2">machines G code was developed in 1940s</p>
+<p begin="01:01:18.960" end="01:01:23.890" style="s2">and has evolved in all these strange</p>
+<p begin="01:01:22.150" end="01:01:25.960" style="s2">directions since then with no real</p>
+<p begin="01:01:23.890" end="01:01:28.420" style="s2">controlling standards bite so there&#39;s</p>
+<p begin="01:01:25.960" end="01:01:29.740" style="s2">fifty thousand different flavors the G</p>
+<p begin="01:01:28.420" end="01:01:36.520" style="s2">code all of which are mutually</p>
+<p begin="01:01:29.740" end="01:01:40.300" style="s2">incompatible and so this project started</p>
+<p begin="01:01:36.520" end="01:01:42.370" style="s2">in the late 80s to develop the successor</p>
+<p begin="01:01:40.300" end="01:01:44.500" style="s2">to GE code to control machines and</p>
+<p begin="01:01:42.370" end="01:01:49.030" style="s2">that&#39;s what stem NC ended up being and</p>
+<p begin="01:01:44.500" end="01:01:52.030" style="s2">step NC is I don&#39;t remember the acronym</p>
+<p begin="01:01:49.030" end="01:01:56.440" style="s2">but it&#39;s the standard for the exchange</p>
+<p begin="01:01:52.030" end="01:01:58.630" style="s2">of product specifications and that&#39;s not</p>
+<p begin="01:01:56.440" end="01:02:02.590" style="s2">verbatim to the acronym but that&#39;s what</p>
+<p begin="01:01:58.630" end="01:02:04.420" style="s2">it means more or less those technologies</p>
+<p begin="01:02:02.590" end="01:02:07.210" style="s2">are those open standards have all been</p>
+<p begin="01:02:04.420" end="01:02:09.730" style="s2">developed so it&#39;s not like I&#39;m trying to</p>
+<p begin="01:02:07.210" end="01:02:12.430" style="s2">reinvent industry I&#39;m actually just</p>
+<p begin="01:02:09.730" end="01:02:16.210" style="s2">packaging something the first flexible</p>
+<p begin="01:02:12.430" end="01:02:18.640" style="s2">manufacturing system was patented 1963</p>
+<p begin="01:02:16.210" end="01:02:19.210" style="s2">three years before I was born so it&#39;s</p>
+<p begin="01:02:18.640" end="01:02:22.380" style="s2">not like this</p>
+<p begin="01:02:19.210" end="01:02:25.270" style="s2">exactly new but it hasn&#39;t been</p>
+<p begin="01:02:22.380" end="01:02:28.150" style="s2">propagated to individuals it&#39;s always</p>
+<p begin="01:02:25.270" end="01:02:29.530" style="s2">been too expensive that&#39;s the only thing</p>
+<p begin="01:02:28.150" end="01:02:33.310" style="s2">that&#39;s really new about the system is</p>
+<p begin="01:02:29.530" end="01:02:35.530" style="s2">making it accessible to people so that a</p>
+<p begin="01:02:33.310" end="01:02:37.420" style="s2">hackerspace or a small community or an</p>
+<p begin="01:02:35.530" end="01:02:41.520" style="s2">intentional community could actually put</p>
+<p begin="01:02:37.420" end="01:02:44.700" style="s2">a meaningful factory yeah facility that</p>
+<p begin="01:02:41.520" end="01:02:47.890" style="s2">that I&#39;ll take credit for because I&#39;ve</p>
+<p begin="01:02:44.700" end="01:02:49.900" style="s2">decided to you know commit to the</p>
+<p begin="01:02:47.890" end="01:02:53.770" style="s2">process of making these machines small</p>
+<p begin="01:02:49.900" end="01:02:55.990" style="s2">enough that you can port and that&#39;s not</p>
+<p begin="01:02:53.770" end="01:02:58.839" style="s2">a limitation because once they&#39;re up and</p>
+<p begin="01:02:55.990" end="01:03:00.640" style="s2">running there&#39;s a pass-through side that</p>
+<p begin="01:02:58.839" end="01:03:01.750" style="s2">can make larger components which means</p>
+<p begin="01:03:00.640" end="01:03:04.900" style="s2">that these machines can bootstrap</p>
+<p begin="01:03:01.750" end="01:03:06.400" style="s2">themselves up in size and more</p>
+<p begin="01:03:04.900" end="01:03:09.099" style="s2">interesting to me is they can bootstrap</p>
+<p begin="01:03:06.400" end="01:03:11.910" style="s2">down in size because I would like to see</p>
+<p begin="01:03:09.099" end="01:03:15.849" style="s2">this technology tunnel towards now scale</p>
+<p begin="01:03:11.910" end="01:03:18.580" style="s2">you can you know all is DIY bio stuff</p>
+<p begin="01:03:15.849" end="01:03:22.000" style="s2">you can build the tools to actually do</p>
+<p begin="01:03:18.580" end="01:03:24.760" style="s2">that and until intelligent way instead</p>
+<p begin="01:03:22.000" end="01:03:27.580" style="s2">of doing you know bulk conversion and</p>
+<p begin="01:03:24.760" end="01:03:30.190" style="s2">all the other old chemistry stuff the</p>
+<p begin="01:03:27.580" end="01:03:32.980" style="s2">actual actually able to look through</p>
+<p begin="01:03:30.190" end="01:03:36.940" style="s2">your instruments at the molecular scale</p>
+<p begin="01:03:32.980" end="01:03:38.710" style="s2">at the work you&#39;re doing and do it now</p>
+<p begin="01:03:36.940" end="01:03:40.359" style="s2">that that&#39;s those are kinds of tools</p>
+<p begin="01:03:38.710" end="01:03:41.890" style="s2">they&#39;re only available to big research</p>
+<p begin="01:03:40.359" end="01:03:45.580" style="s2">institutes now but they can be available</p>
+<p begin="01:03:41.890" end="01:03:48.280" style="s2">to everyone if we successively chain our</p>
+<p begin="01:03:45.580" end="01:03:50.260" style="s2">way down to micro factories ya know I</p>
+<p begin="01:03:48.280" end="01:03:52.390" style="s2">like I like bottom-up stuff that I like</p>
+<p begin="01:03:50.260" end="01:03:54.220" style="s2">I am getting to like decentralization</p>
+<p begin="01:03:52.390" end="01:03:57.970" style="s2">even if it was triggering for me a few</p>
+<p begin="01:03:54.220" end="01:03:59.950" style="s2">weeks ago right yes mainly because my</p>
+<p begin="01:03:57.970" end="01:04:01.990" style="s2">project does not decentralized like but</p>
+<p begin="01:03:59.950" end="01:04:04.270" style="s2">it also is I don&#39;t know it&#39;s it&#39;s all</p>
+<p begin="01:04:01.990" end="01:04:05.740" style="s2">and it&#39;s not about me it&#39;s not creating</p>
+<p begin="01:04:04.270" end="01:04:07.390" style="s2">a better world it&#39;s not necessarily</p>
+<p begin="01:04:05.740" end="01:04:08.560" style="s2">about my eco and me getting to play my</p>
+<p begin="01:04:07.390" end="01:04:10.780" style="s2">my place in it</p>
+<p begin="01:04:08.560" end="01:04:13.210" style="s2">but I&#39;m me and you know I mean those</p>
+<p begin="01:04:10.780" end="01:04:16.089" style="s2">things all come in to come into play in</p>
+<p begin="01:04:13.210" end="01:04:18.220" style="s2">a very real way in the world like if</p>
+<p begin="01:04:16.089" end="01:04:19.660" style="s2">you&#39;ve spent a lot of time on cube</p>
+<p begin="01:04:18.220" end="01:04:20.619" style="s2">spawned a lot of money and if someone</p>
+<p begin="01:04:19.660" end="01:04:22.570" style="s2">else came and created something</p>
+<p begin="01:04:20.619" end="01:04:24.099" style="s2">overnight that took over and now you</p>
+<p begin="01:04:22.570" end="01:04:26.840" style="s2">don&#39;t get it you know what I mean that</p>
+<p begin="01:04:24.099" end="01:04:29.120" style="s2">this yeah very similar it&#39;s</p>
+<p begin="01:04:26.840" end="01:04:31.100" style="s2">it sucks they exists in the world right</p>
+<p begin="01:04:29.120" end="01:04:33.140" style="s2">but like you&#39;re not part of it and your</p>
+<p begin="01:04:31.100" end="01:04:35.810" style="s2">ingenuity doesn&#39;t go into being part of</p>
+<p begin="01:04:33.140" end="01:04:37.850" style="s2">it and that that is ego killing like</p>
+<p begin="01:04:35.810" end="01:04:41.690" style="s2">that doesn&#39;t feel good to be like oh</p>
+<p begin="01:04:37.850" end="01:04:43.610" style="s2">well I&#39;m all it&#39;s not Darwin nice I&#39;ve</p>
+<p begin="01:04:41.690" end="01:04:47.840" style="s2">been at this for 13 years</p>
+<p begin="01:04:43.610" end="01:04:52.070" style="s2">oh it&#39;s not like I dreamed it wild sweat</p>
+<p begin="01:04:47.840" end="01:04:54.830" style="s2">last Wednesday it&#39;s and it came from the</p>
+<p begin="01:04:52.070" end="01:04:56.600" style="s2">RepRap 3d printer the RepRap 3d printer</p>
+<p begin="01:04:54.830" end="01:04:58.100" style="s2">the first open-source 3d printer the</p>
+<p begin="01:04:56.600" end="01:04:59.720" style="s2">community had formed around that I</p>
+<p begin="01:04:58.100" end="01:05:01.670" style="s2">thought 3d printing was really cool I</p>
+<p begin="01:04:59.720" end="01:05:04.310" style="s2">thought it was but I saw limitations in</p>
+<p begin="01:05:01.670" end="01:05:05.900" style="s2">it right away it was slow and there were</p>
+<p begin="01:05:04.310" end="01:05:07.790" style="s2">a limited range of materials and there</p>
+<p begin="01:05:05.900" end="01:05:10.820" style="s2">are certain things you just can&#39;t 3d</p>
+<p begin="01:05:07.790" end="01:05:13.580" style="s2">print you can now but the machines are</p>
+<p begin="01:05:10.820" end="01:05:16.100" style="s2">million bucks so it&#39;s there&#39;s still</p>
+<p begin="01:05:13.580" end="01:05:18.530" style="s2">enough barrier on affordability okay</p>
+<p begin="01:05:16.100" end="01:05:20.300" style="s2">bandits it&#39;s coming down 3d printers I</p>
+<p begin="01:05:18.530" end="01:05:23.000" style="s2">see it kids find the future will evolve</p>
+<p begin="01:05:20.300" end="01:05:24.800" style="s2">towards many of its processes will be 3d</p>
+<p begin="01:05:23.000" end="01:05:26.930" style="s2">printing processes that are specific to</p>
+<p begin="01:05:24.800" end="01:05:28.820" style="s2">a given material and as that becomes</p>
+<p begin="01:05:26.930" end="01:05:31.460" style="s2">more sophisticated there will be multi</p>
+<p begin="01:05:28.820" end="01:05:33.740" style="s2">material printers who will you know who</p>
+<p begin="01:05:31.460" end="01:05:35.570" style="s2">will take over significant chunks of how</p>
+<p begin="01:05:33.740" end="01:05:35.930" style="s2">its designed today but that&#39;s the whole</p>
+<p begin="01:05:35.570" end="01:05:38.000" style="s2">point</p>
+<p begin="01:05:35.930" end="01:05:42.590" style="s2">it&#39;s intended to evolve which means that</p>
+<p begin="01:05:38.000" end="01:05:45.590" style="s2">whatever we do today will not persist as</p>
+<p begin="01:05:42.590" end="01:05:47.090" style="s2">new innovation becomes available it&#39;ll</p>
+<p begin="01:05:45.590" end="01:05:49.010" style="s2">change somebody will come up with a</p>
+<p begin="01:05:47.090" end="01:05:51.020" style="s2">module to stick in it that replaces</p>
+<p begin="01:05:49.010" end="01:05:53.320" style="s2">these three modules with a 3d printer</p>
+<p begin="01:05:51.020" end="01:05:56.930" style="s2">that does what those three modules did</p>
+<p begin="01:05:53.320" end="01:05:58.640" style="s2">so nothing is nothingness cast in stone</p>
+<p begin="01:05:56.930" end="01:06:01.820" style="s2">everything will constantly be a fluid</p>
+<p begin="01:05:58.640" end="01:06:03.890" style="s2">state and that&#39;s one of the things I</p>
+<p begin="01:06:01.820" end="01:06:05.960" style="s2">like about what it sounds like you&#39;re</p>
+<p begin="01:06:03.890" end="01:06:08.660" style="s2">doing and also what I&#39;m attempting to do</p>
+<p begin="01:06:05.960" end="01:06:10.280" style="s2">is it doesn&#39;t actually need to be better</p>
+<p begin="01:06:08.660" end="01:06:12.320" style="s2">than what&#39;s currently out there it has</p>
+<p begin="01:06:10.280" end="01:06:14.300" style="s2">to start somewhere and improve</p>
+<p begin="01:06:12.320" end="01:06:16.460" style="s2">incrementally right like in as long as</p>
+<p begin="01:06:14.300" end="01:06:18.080" style="s2">it&#39;s open to that improvement and open</p>
+<p begin="01:06:16.460" end="01:06:20.690" style="s2">to the transparency so there can be</p>
+<p begin="01:06:18.080" end="01:06:21.950" style="s2">trust in the system more trust than what</p>
+<p begin="01:06:20.690" end="01:06:23.300" style="s2">is currently out there we already know</p>
+<p begin="01:06:21.950" end="01:06:25.310" style="s2">we can&#39;t trust what&#39;s out there</p>
+<p begin="01:06:23.300" end="01:06:26.990" style="s2">but if that&#39;s where every project is</p>
+<p begin="01:06:25.310" end="01:06:27.350" style="s2">starting is like wait why would we trust</p>
+<p begin="01:06:26.990" end="01:06:28.610" style="s2">you</p>
+<p begin="01:06:27.350" end="01:06:30.170" style="s2">what are you doing this evil because</p>
+<p begin="01:06:28.610" end="01:06:32.720" style="s2">everyone&#39;s evil so like what are you</p>
+<p begin="01:06:30.170" end="01:06:34.460" style="s2">doing this evil hey it&#39;s like I&#39;m nine</p>
+<p begin="01:06:32.720" end="01:06:36.440" style="s2">I&#39;m really just trying to help</p>
+<p begin="01:06:34.460" end="01:06:38.030" style="s2">like I&#39;m really I think like sometimes I</p>
+<p begin="01:06:36.440" end="01:06:40.130" style="s2">uncover it&#39;s an ego stuff and I have to</p>
+<p begin="01:06:38.030" end="01:06:41.720" style="s2">get rid of it but yeah overall</p>
+<p begin="01:06:40.130" end="01:06:44.480" style="s2">kind of doing it too that&#39;s revenge I</p>
+<p begin="01:06:41.720" end="01:06:46.370" style="s2">didn&#39;t have one more question about cube</p>
+<p begin="01:06:44.480" end="01:06:48.770" style="s2">spawn that has been typically not me for</p>
+<p begin="01:06:46.370" end="01:06:50.570" style="s2">a while and then we should probably go</p>
+<p begin="01:06:48.770" end="01:06:52.850" style="s2">cuz my my kid is still on Christmas</p>
+<p begin="01:06:50.570" end="01:06:54.680" style="s2">break and I need to comment you know but</p>
+<p begin="01:06:52.850" end="01:06:56.840" style="s2">it&#39;s been a great so with the</p>
+<p begin="01:06:54.680" end="01:06:59.420" style="s2">incentivization of the royalties and and</p>
+<p begin="01:06:56.840" end="01:07:02.140" style="s2">and such it sounds like people will be</p>
+<p begin="01:06:59.420" end="01:07:05.090" style="s2">more incentivized to work on designs for</p>
+<p begin="01:07:02.140" end="01:07:07.910" style="s2">stuff that is more popular right stuff</p>
+<p begin="01:07:05.090" end="01:07:09.470" style="s2">that is going to be in the millions or</p>
+<p begin="01:07:07.910" end="01:07:11.690" style="s2">tens of thousands and not things that</p>
+<p begin="01:07:09.470" end="01:07:14.240" style="s2">will be a one-off design and things like</p>
+<p begin="01:07:11.690" end="01:07:16.250" style="s2">the prosthetics although I&#39;m sure</p>
+<p begin="01:07:14.240" end="01:07:17.900" style="s2">there&#39;s a base of 2 that prosthetic they</p>
+<p begin="01:07:16.250" end="01:07:21.200" style="s2">are kind of one-off designs that&#39;s why</p>
+<p begin="01:07:17.900" end="01:07:22.820" style="s2">prosthetics are so expensive they are so</p>
+<p begin="01:07:21.200" end="01:07:24.260" style="s2">my question is a lot of the one-off</p>
+<p begin="01:07:22.820" end="01:07:27.020" style="s2">designs that are needed are</p>
+<p begin="01:07:24.260" end="01:07:28.250" style="s2">life-changing like the impact they&#39;re</p>
+<p begin="01:07:27.020" end="01:07:29.480" style="s2">gonna have on people it&#39;s gonna be</p>
+<p begin="01:07:28.250" end="01:07:31.220" style="s2">bigger than the ones that are millions</p>
+<p begin="01:07:29.480" end="01:07:33.830" style="s2">and since a lot of what I deal with too</p>
+<p begin="01:07:31.220" end="01:07:36.170" style="s2">is like how do you incentivize the small</p>
+<p begin="01:07:33.830" end="01:07:38.990" style="s2">ones that aren&#39;t gonna have as much</p>
+<p begin="01:07:36.170" end="01:07:41.240" style="s2">demand for the good and therefore not</p>
+<p begin="01:07:38.990" end="01:07:44.630" style="s2">gonna have that as much royalty involved</p>
+<p begin="01:07:41.240" end="01:07:46.310" style="s2">in it well I didn&#39;t mention it but the</p>
+<p begin="01:07:44.630" end="01:07:51.530" style="s2">Institut part of it that&#39;s gonna roll</p>
+<p begin="01:07:46.310" end="01:07:54.020" style="s2">out the upgrades the the objective with</p>
+<p begin="01:07:51.530" end="01:07:56.270" style="s2">the Institute is to take those kinds of</p>
+<p begin="01:07:54.020" end="01:07:58.820" style="s2">problems because there are there&#39;s a</p>
+<p begin="01:07:56.270" end="01:08:02.260" style="s2">fairly limited range of core problems</p>
+<p begin="01:07:58.820" end="01:08:05.900" style="s2">that can be addressed some degree and so</p>
+<p begin="01:08:02.260" end="01:08:08.960" style="s2">prosthetics ethical meet you know meet</p>
+<p begin="01:08:05.900" end="01:08:11.420" style="s2">printers when do we get to that point</p>
+<p begin="01:08:08.960" end="01:08:13.520" style="s2">all of those problems are things that I</p>
+<p begin="01:08:11.420" end="01:08:16.130" style="s2">see as being priorities and if my hands</p>
+<p begin="01:08:13.520" end="01:08:18.050" style="s2">weren&#39;t tied up with building this</p>
+<p begin="01:08:16.130" end="01:08:21.440" style="s2">prototype which I&#39;ve been at for five</p>
+<p begin="01:08:18.050" end="01:08:23.690" style="s2">years so it&#39;s not you know it&#39;s taken a</p>
+<p begin="01:08:21.440" end="01:08:25.160" style="s2">lot of time and it&#39;s been very more more</p>
+<p begin="01:08:23.690" end="01:08:29.450" style="s2">of that time has been spent raising</p>
+<p begin="01:08:25.160" end="01:08:31.130" style="s2">money or getting the materials and the</p>
+<p begin="01:08:29.450" end="01:08:33.590" style="s2">relationships together so that I have</p>
+<p begin="01:08:31.130" end="01:08:35.450" style="s2">the resources necessary to do it I spent</p>
+<p begin="01:08:33.590" end="01:08:39.410" style="s2">far more time on that than I have on</p>
+<p begin="01:08:35.450" end="01:08:41.840" style="s2">actually building anything and what I</p>
+<p begin="01:08:39.410" end="01:08:44.300" style="s2">would like to move forward to is look at</p>
+<p begin="01:08:41.840" end="01:08:46.790" style="s2">precious plastics that&#39;s Dave Hawkins</p>
+<p begin="01:08:44.300" end="01:08:48.650" style="s2">out of the Netherlands who&#39;s building a</p>
+<p begin="01:08:46.790" end="01:08:50.510" style="s2">little cheap recycling plastics</p>
+<p begin="01:08:48.650" end="01:08:53.270" style="s2">recycling machine as his effort to try</p>
+<p begin="01:08:50.510" end="01:08:53.929" style="s2">and get people to tackle the plastics</p>
+<p begin="01:08:53.270" end="01:08:57.529" style="s2">problem</p>
+<p begin="01:08:53.929" end="01:09:00.679" style="s2">boy I see that as my problem too and I</p>
+<p begin="01:08:57.529" end="01:09:02.929" style="s2">would like to give Dave Hawkins credit</p>
+<p begin="01:09:00.679" end="01:09:04.100" style="s2">and then fold his designs into something</p>
+<p begin="01:09:02.929" end="01:09:06.770" style="s2">that these machines could produce</p>
+<p begin="01:09:04.100" end="01:09:08.480" style="s2">because then he&#39;d have small recycling</p>
+<p begin="01:09:06.770" end="01:09:13.609" style="s2">machines that are near processed plastic</p>
+<p begin="01:09:08.480" end="01:09:16.219" style="s2">and so that would be to me the purpose</p>
+<p begin="01:09:13.609" end="01:09:20.029" style="s2">of the kids mind of the Institute would</p>
+<p begin="01:09:16.219" end="01:09:22.549" style="s2">be to take that feed collection</p>
+<p begin="01:09:20.029" end="01:09:25.580" style="s2">mechanism and apply that to war solving</p>
+<p begin="01:09:22.549" end="01:09:27.949" style="s2">those problems that are at the edges of</p>
+<p begin="01:09:25.580" end="01:09:33.679" style="s2">commercial viability but do serve a</p>
+<p begin="01:09:27.949" end="01:09:35.600" style="s2">significant social purpose so I I don&#39;t</p>
+<p begin="01:09:33.679" end="01:09:37.580" style="s2">necessarily think that I&#39;m gonna do all</p>
+<p begin="01:09:35.600" end="01:09:40.580" style="s2">that myself I&#39;m I don&#39;t make any claims</p>
+<p begin="01:09:37.580" end="01:09:42.830" style="s2">about my own skill set I am capable and</p>
+<p begin="01:09:40.580" end="01:09:44.480" style="s2">I have done a lot of work towards this</p>
+<p begin="01:09:42.830" end="01:09:46.489" style="s2">but there are really brilliant people</p>
+<p begin="01:09:44.480" end="01:09:48.949" style="s2">out there and I&#39;ve met quite a few of my</p>
+<p begin="01:09:46.489" end="01:09:50.929" style="s2">line who they know far more than I do</p>
+<p begin="01:09:48.949" end="01:09:53.270" style="s2">about a particular thing so</p>
+<p begin="01:09:50.929" end="01:09:56.360" style="s2">sighing prosthetics am I gonna meet a</p>
+<p begin="01:09:53.270" end="01:10:01.190" style="s2">guy no but I would like to be able to</p>
+<p begin="01:09:56.360" end="01:10:02.719" style="s2">guide funds towards that solution so and</p>
+<p begin="01:10:01.190" end="01:10:05.449" style="s2">that&#39;s what I see the Institute is</p>
+<p begin="01:10:02.719" end="01:10:08.570" style="s2">served its purpose beyond you know once</p>
+<p begin="01:10:05.449" end="01:10:10.940" style="s2">the system&#39;s up and running and releases</p>
+<p begin="01:10:08.570" end="01:10:12.620" style="s2">have been produced to get it past this</p>
+<p begin="01:10:10.940" end="01:10:14.000" style="s2">preliminary stage so there&#39;s a fairly</p>
+<p begin="01:10:12.620" end="01:10:16.070" style="s2">sophisticated manufacturing platform</p>
+<p begin="01:10:14.000" end="01:10:17.920" style="s2">well then what&#39;s the institute gonna do</p>
+<p begin="01:10:16.070" end="01:10:20.870" style="s2">with its time because most of those</p>
+<p begin="01:10:17.920" end="01:10:22.820" style="s2">fundamental problems they won&#39;t be</p>
+<p begin="01:10:20.870" end="01:10:27.050" style="s2">permanently solved but they&#39;ll be solved</p>
+<p begin="01:10:22.820" end="01:10:28.699" style="s2">sufficient to requirements and then what</p>
+<p begin="01:10:27.050" end="01:10:31.460" style="s2">does it do what does the Institute do it</p>
+<p begin="01:10:28.699" end="01:10:34.429" style="s2">it&#39;s time well solve all of those clean</p>
+<p begin="01:10:31.460" end="01:10:36.949" style="s2">water you know small-scale energy</p>
+<p begin="01:10:34.429" end="01:10:39.230" style="s2">production all of the necessary things</p>
+<p begin="01:10:36.949" end="01:10:42.170" style="s2">to make life on Earth a little more</p>
+<p begin="01:10:39.230" end="01:10:44.060" style="s2">pleasant and to bring habitability to</p>
+<p begin="01:10:42.170" end="01:10:46.040" style="s2">people who may not have it and to</p>
+<p begin="01:10:44.060" end="01:10:47.480" style="s2">address things that are a result of</p>
+<p begin="01:10:46.040" end="01:10:49.550" style="s2">climate change you know if your country</p>
+<p begin="01:10:47.480" end="01:10:55.810" style="s2">is no longer capable of producing</p>
+<p begin="01:10:49.550" end="01:11:00.340" style="s2">adequate food say the southern part of</p>
+<p begin="01:10:55.810" end="01:11:02.960" style="s2">Pakistan where in India there&#39;s already</p>
+<p begin="01:11:00.340" end="01:11:05.300" style="s2">killing temperatures in the summertime</p>
+<p begin="01:11:02.960" end="01:11:07.460" style="s2">people are conditioning their well</p>
+<p begin="01:11:05.300" end="01:11:09.620" style="s2">passive design at solar passes</p>
+<p begin="01:11:07.460" end="01:11:12.100" style="s2">and housing can address some of that and</p>
+<p begin="01:11:09.620" end="01:11:14.300" style="s2">make it so that at least you can be</p>
+<p begin="01:11:12.100" end="01:11:16.610" style="s2">comfortable without huge energy</p>
+<p begin="01:11:14.300" end="01:11:21.230" style="s2">expenditures of air conditioning and so</p>
+<p begin="01:11:16.610" end="01:11:22.940" style="s2">forth so all of those problems are in my</p>
+<p begin="01:11:21.230" end="01:11:25.730" style="s2">opinion core elements and if you&#39;re</p>
+<p begin="01:11:22.940" end="01:11:27.850" style="s2">either a literature on the project it</p>
+<p begin="01:11:25.730" end="01:11:31.460" style="s2">fairly quickly gets into green houses</p>
+<p begin="01:11:27.850" end="01:11:35.330" style="s2">passive solar systems water clean all</p>
+<p begin="01:11:31.460" end="01:11:36.890" style="s2">the core elements of what we mistakenly</p>
+<p begin="01:11:35.330" end="01:11:41.210" style="s2">call a civilization but isn&#39;t really</p>
+<p begin="01:11:36.890" end="01:11:43.600" style="s2">that civil yet this message so it sounds</p>
+<p begin="01:11:41.210" end="01:11:46.010" style="s2">like if there&#39;s a design in this system</p>
+<p begin="01:11:43.600" end="01:11:48.770" style="s2">anyone can work on improving it and</p>
+<p begin="01:11:46.010" end="01:11:51.469" style="s2">there isn&#39;t necessarily barriers to</p>
+<p begin="01:11:48.770" end="01:11:52.670" style="s2">using someone else&#39;s design the person</p>
+<p begin="01:11:51.469" end="01:11:54.500" style="s2">who is creating it doesn&#39;t necessarily</p>
+<p begin="01:11:52.670" end="01:11:55.610" style="s2">get to choose what royalty they get but</p>
+<p begin="01:11:54.500" end="01:11:56.960" style="s2">they get to put it in the system and</p>
+<p begin="01:11:55.610" end="01:11:58.550" style="s2">they&#39;ll probably get something out of it</p>
+<p begin="01:11:56.960" end="01:12:02.570" style="s2">they&#39;ll probably get something that is</p>
+<p begin="01:11:58.550" end="01:12:04.370" style="s2">going to sustain them if not we&#39;ll</p>
+<p begin="01:12:02.570" end="01:12:08.510" style="s2">figure out ubi together and you&#39;ll be</p>
+<p begin="01:12:04.370" end="01:12:10.160" style="s2">sustained anyway and then this is notice</p>
+<p begin="01:12:08.510" end="01:12:11.360" style="s2">like with your project chance with the</p>
+<p begin="01:12:10.160" end="01:12:12.620" style="s2">hold of projects that are going on</p>
+<p begin="01:12:11.360" end="01:12:15.710" style="s2">someone will figure out how to feed</p>
+<p begin="01:12:12.620" end="01:12:18.500" style="s2">clothe that hose us and we&#39;ll figure out</p>
+<p begin="01:12:15.710" end="01:12:21.080" style="s2">how to get good since Moses and my goal</p>
+<p begin="01:12:18.500" end="01:12:25.340" style="s2">is by having this system I can lose</p>
+<p begin="01:12:21.080" end="01:12:28.580" style="s2">everything I need so that&#39;s Universal</p>
+<p begin="01:12:25.340" end="01:12:32.060" style="s2">basic whatever universal basic materials</p>
+<p begin="01:12:28.580" end="01:12:35.810" style="s2">universally subsistence yeah</p>
+<p begin="01:12:32.060" end="01:12:38.060" style="s2">without money wealth without money to me</p>
+<p begin="01:12:35.810" end="01:12:40.070" style="s2">is that was a phrase that was attached</p>
+<p begin="01:12:38.060" end="01:12:42.020" style="s2">to that 3d printer in the RepRap the</p>
+<p begin="01:12:40.070" end="01:12:44.180" style="s2">original 3d open-source 3d printer</p>
+<p begin="01:12:42.020" end="01:12:45.950" style="s2">well that lucky the Adrian boy the guy</p>
+<p begin="01:12:44.180" end="01:12:47.360" style="s2">who founded that that&#39;s what he said</p>
+<p begin="01:12:45.950" end="01:12:48.950" style="s2">this is wealth without money because you</p>
+<p begin="01:12:47.360" end="01:12:50.510" style="s2">can produce the things you need and you</p>
+<p begin="01:12:48.950" end="01:12:53.930" style="s2">can do it from you know in this annual</p>
+<p begin="01:12:50.510" end="01:12:57.080" style="s2">plastic and I think that is a reflection</p>
+<p begin="01:12:53.930" end="01:12:58.810" style="s2">of exactly the ethnos that this system</p>
+<p begin="01:12:57.080" end="01:13:01.489" style="s2">is supposed to have wealth without money</p>
+<p begin="01:12:58.810" end="01:13:05.390" style="s2">because if you have materials you can</p>
+<p begin="01:13:01.489" end="01:13:07.760" style="s2">produce whatever many so it&#39;s kind of</p>
+<p begin="01:13:05.390" end="01:13:09.920" style="s2">ubi is kind of built into this it&#39;s just</p>
+<p begin="01:13:07.760" end="01:13:14.510" style="s2">there&#39;s no monetary component its</p>
+<p begin="01:13:09.920" end="01:13:16.430" style="s2">physical yeah which is more like ubi is</p>
+<p begin="01:13:14.510" end="01:13:18.080" style="s2">actually like the government tax a some</p>
+<p begin="01:13:16.430" end="01:13:19.790" style="s2">money and then distributes it I&#39;m like</p>
+<p begin="01:13:18.080" end="01:13:20.870" style="s2">that doesn&#39;t actually like the money</p>
+<p begin="01:13:19.790" end="01:13:23.840" style="s2">there doesn&#39;t work</p>
+<p begin="01:13:20.870" end="01:13:25.250" style="s2">like you can&#39;t actually whereas if you</p>
+<p begin="01:13:23.840" end="01:13:26.720" style="s2">come up with a new design for something</p>
+<p begin="01:13:25.250" end="01:13:29.600" style="s2">and if you can figure out how to get our</p>
+<p begin="01:13:26.720" end="01:13:31.370" style="s2">food system even if it&#39;s 30 seconds less</p>
+<p begin="01:13:29.600" end="01:13:32.990" style="s2">time to create that meal and you figure</p>
+<p begin="01:13:31.370" end="01:13:34.790" style="s2">that out well then everyone gets to use</p>
+<p begin="01:13:32.990" end="01:13:38.780" style="s2">that you just created 30 seconds for</p>
+<p begin="01:13:34.790" end="01:13:40.580" style="s2">everybody like and those things for</p>
+<p begin="01:13:38.780" end="01:13:45.050" style="s2">exponential lines three billion minutes</p>
+<p begin="01:13:40.580" end="01:13:46.460" style="s2">a day of new time and so if you can</p>
+<p begin="01:13:45.050" end="01:13:48.470" style="s2">somehow figure out how that you get a</p>
+<p begin="01:13:46.460" end="01:13:50.450" style="s2">fraction of that you get one billionth</p>
+<p begin="01:13:48.470" end="01:13:52.090" style="s2">of a second for a second that you put</p>
+<p begin="01:13:50.450" end="01:13:57.440" style="s2">out there then yeah you just you just</p>
+<p begin="01:13:52.090" end="01:13:58.880" style="s2">manufactured yourself a whole day I do</p>
+<p begin="01:13:57.440" end="01:14:01.610" style="s2">that all right I&#39;m gonna say goodbye to</p>
+<p begin="01:13:58.880" end="01:14:04.100" style="s2">YouTube thank you James for joining me</p>
+<p begin="01:14:01.610" end="01:14:07.220" style="s2">and like I said we&#39;ll put your patreon</p>
+<p begin="01:14:04.100" end="01:14:08.240" style="s2">accounts it&#39;s already the cubes fun URL</p>
+<p begin="01:14:07.220" end="01:14:09.650" style="s2">is already there but we&#39;ll put the</p>
+<p begin="01:14:08.240" end="01:14:15.220" style="s2">patreon account too for people you know</p>
+<p begin="01:14:09.650" end="01:14:15.220" style="s2">a little blocked by YouTube why</p>
+</div>
+</body>
+</tt>

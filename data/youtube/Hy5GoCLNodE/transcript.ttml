@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.259" style="s2">this is a room full of Stoics so I just</p>
+<p begin="00:00:03.000" end="00:00:08.090" style="s2">wanna get a show of hands how many of</p>
+<p begin="00:00:04.259" end="00:00:11.280" style="s2">you take cold showers on a regular basis</p>
+<p begin="00:00:08.090" end="00:00:16.800" style="s2">it&#39;s pretty good keep your hand raised</p>
+<p begin="00:00:11.280" end="00:00:18.150" style="s2">if you took one today not bad how many</p>
+<p begin="00:00:16.800" end="00:00:20.210" style="s2">of you think it&#39;s crazy to take cold</p>
+<p begin="00:00:18.150" end="00:00:20.210" style="s2">showers</p>
+<p begin="00:00:20.710" end="00:00:27.450" style="s2">all right so this next talk is gonna be</p>
+<p begin="00:00:24.250" end="00:00:31.150" style="s2">highly relevant to that group of people</p>
+<p begin="00:00:27.450" end="00:00:33.640" style="s2">I&#39;m really excited to introduce Steve</p>
+<p begin="00:00:31.150" end="00:00:36.940" style="s2">Beatty who is a Canadian wilderness</p>
+<p begin="00:00:33.640" end="00:00:40.210" style="s2">trainer or guide sorry a personal</p>
+<p begin="00:00:36.940" end="00:00:42.970" style="s2">trainer and a wim HOF instructor if</p>
+<p begin="00:00:40.210" end="00:00:44.440" style="s2">you&#39;ve heard of wim HOF then you know</p>
+<p begin="00:00:42.970" end="00:00:46.150" style="s2">what you&#39;re about to get yourself into</p>
+<p begin="00:00:44.440" end="00:00:50.110" style="s2">if you haven&#39;t heard about it then I&#39;ll</p>
+<p begin="00:00:46.150" end="00:00:53.260" style="s2">let Steve explain but basically at a</p>
+<p begin="00:00:50.110" end="00:00:55.390" style="s2">high level he is going to explain this</p>
+<p begin="00:00:53.260" end="00:00:56.860" style="s2">breathwork exercise that is designed to</p>
+<p begin="00:00:55.390" end="00:00:59.260" style="s2">bring people to peak physical</p>
+<p begin="00:00:56.860" end="00:01:01.510" style="s2">performance and to get them to their</p>
+<p begin="00:00:59.260" end="00:01:03.880" style="s2">edge to increase their resilience to</p>
+<p begin="00:01:01.510" end="00:01:08.500" style="s2">increase their cold tolerance and this</p>
+<p begin="00:01:03.880" end="00:01:10.540" style="s2">is a highly stoic exercise and without</p>
+<p begin="00:01:08.500" end="00:01:19.479" style="s2">further ado I like to invite Steve to</p>
+<p begin="00:01:10.540" end="00:01:21.330" style="s2">stage thank you good afternoon everyone</p>
+<p begin="00:01:19.479" end="00:01:23.440" style="s2">this is this is an amazing day isn&#39;t it</p>
+<p begin="00:01:21.330" end="00:01:24.460" style="s2">having a lot of fun I&#39;m learning like</p>
+<p begin="00:01:23.440" end="00:01:26.619" style="s2">way more than I thought I was gonna</p>
+<p begin="00:01:24.460" end="00:01:29.020" style="s2">learn dare you I have a really good</p>
+<p begin="00:01:26.619" end="00:01:34.390" style="s2">lunch how many you went out for beer and</p>
+<p begin="00:01:29.020" end="00:01:35.950" style="s2">hamburgers cuz that was a bad idea I can</p>
+<p begin="00:01:34.390" end="00:01:37.000" style="s2">take you through a breath exercise and a</p>
+<p begin="00:01:35.950" end="00:01:37.990" style="s2">few minutes gonna explain a whole bunch</p>
+<p begin="00:01:37.000" end="00:01:41.170" style="s2">of stuff but we&#39;re gonna go through a</p>
+<p begin="00:01:37.990" end="00:01:43.210" style="s2">breath exercise that is going to push</p>
+<p begin="00:01:41.170" end="00:01:46.330" style="s2">your limits and it&#39;s gonna teach you to</p>
+<p begin="00:01:43.210" end="00:01:49.119" style="s2">observe your inner state of stress and</p>
+<p begin="00:01:46.330" end="00:01:50.650" style="s2">your inner knowledge of your body so</p>
+<p begin="00:01:49.119" end="00:01:52.930" style="s2">because we&#39;re pushing that that envelope</p>
+<p begin="00:01:50.650" end="00:01:54.790" style="s2">of stress within our body when you have</p>
+<p begin="00:01:52.930" end="00:01:58.150" style="s2">an acute stress response your body</p>
+<p begin="00:01:54.790" end="00:02:00.400" style="s2">responds to the stress so if you have a</p>
+<p begin="00:01:58.150" end="00:02:04.420" style="s2">big full body or a big full belly of</p>
+<p begin="00:02:00.400" end="00:02:07.060" style="s2">cheeseburgers and beer and pizza we&#39;re</p>
+<p begin="00:02:04.420" end="00:02:08.920" style="s2">gonna see it so hopefully we just had a</p>
+<p begin="00:02:07.060" end="00:02:12.880" style="s2">nice light salad no noemi&#39;s go throbbing</p>
+<p begin="00:02:08.920" end="00:02:16.140" style="s2">but it might happen so I&#39;m a limp off</p>
+<p begin="00:02:12.880" end="00:02:18.640" style="s2">math instructor but I teach breathing</p>
+<p begin="00:02:16.140" end="00:02:20.799" style="s2">mindset and meditation you know a little</p>
+<p begin="00:02:18.640" end="00:02:22.329" style="s2">envelope you got there&#39;s a little card</p>
+<p begin="00:02:20.799" end="00:02:24.820" style="s2">in there from mindset brain gym right</p>
+<p begin="00:02:22.329" end="00:02:26.799" style="s2">around the corner I teach this every</p>
+<p begin="00:02:24.820" end="00:02:28.390" style="s2">morning that mindset brain gym so use</p>
+<p begin="00:02:26.799" end="00:02:30.820" style="s2">that card here&#39;s a little cheeky little</p>
+<p begin="00:02:28.390" end="00:02:33.489" style="s2">secret as a $20 off or a free class you</p>
+<p begin="00:02:30.820" end="00:02:34.630" style="s2">can use that for a month membership for</p>
+<p begin="00:02:33.489" end="00:02:37.600" style="s2">only $20</p>
+<p begin="00:02:34.630" end="00:02:39.790" style="s2">so do that if you&#39;re local but I got</p>
+<p begin="00:02:37.600" end="00:02:41.830" style="s2">involved in this whole stoic thing about</p>
+<p begin="00:02:39.790" end="00:02:43.510" style="s2">nine months ago a Peter contacted me and</p>
+<p begin="00:02:41.830" end="00:02:45.130" style="s2">asked if I could teach the wim HOF</p>
+<p begin="00:02:43.510" end="00:02:47.290" style="s2">method to the stoic thing I thought yeah</p>
+<p begin="00:02:45.130" end="00:02:48.580" style="s2">wim HOF method that&#39;s absolutely stoic</p>
+<p begin="00:02:47.290" end="00:02:52.770" style="s2">sucked you take cold showers and you</p>
+<p begin="00:02:48.580" end="00:02:55.120" style="s2">have to suffer more than anybody what</p>
+<p begin="00:02:52.770" end="00:02:57.940" style="s2">then I started to read about that I wait</p>
+<p begin="00:02:55.120" end="00:03:02.260" style="s2">a second I used to always think I was a</p>
+<p begin="00:02:57.940" end="00:03:04.210" style="s2">stoic but as a small less stoic as a</p>
+<p begin="00:03:02.260" end="00:03:06.490" style="s2">good presbyterian child from England</p>
+<p begin="00:03:04.210" end="00:03:09.640" style="s2">suck it up don&#39;t show your emotions</p>
+<p begin="00:03:06.490" end="00:03:11.530" style="s2">that&#39;s why I was and one of this wim HOF</p>
+<p begin="00:03:09.640" end="00:03:13.780" style="s2">method journey a few years ago and I was</p>
+<p begin="00:03:11.530" end="00:03:16.600" style="s2">in Australia two years ago taking my</p>
+<p begin="00:03:13.780" end="00:03:20.350" style="s2">masters course on the wim HOF method and</p>
+<p begin="00:03:16.600" end="00:03:22.780" style="s2">learning how to breathe and all that</p>
+<p begin="00:03:20.350" end="00:03:25.330" style="s2">week of breathing and meditating we had</p>
+<p begin="00:03:22.780" end="00:03:27.010" style="s2">this blockage that we were working on</p>
+<p begin="00:03:25.330" end="00:03:28.810" style="s2">this idea inside of us that we were</p>
+<p begin="00:03:27.010" end="00:03:30.580" style="s2">observing trying to understand something</p>
+<p begin="00:03:28.810" end="00:03:32.590" style="s2">about ourselves all week we&#39;re working</p>
+<p begin="00:03:30.580" end="00:03:37.450" style="s2">on this and it was until that final day</p>
+<p begin="00:03:32.590" end="00:03:40.270" style="s2">his long breath work practice of</p>
+<p begin="00:03:37.450" end="00:03:42.820" style="s2">meditating and we went into the ice tub</p>
+<p begin="00:03:40.270" end="00:03:43.630" style="s2">for the last time and is when I went</p>
+<p begin="00:03:42.820" end="00:03:45.640" style="s2">that ice tub</p>
+<p begin="00:03:43.630" end="00:03:48.670" style="s2">that&#39;s is anybody have an ice bath</p>
+<p begin="00:03:45.640" end="00:03:50.800" style="s2">before yeah it&#39;s stressful you go in and</p>
+<p begin="00:03:48.670" end="00:03:52.420" style="s2">you have this enormous stress response</p>
+<p begin="00:03:50.800" end="00:03:54.970" style="s2">to the cold you know fight it off and</p>
+<p begin="00:03:52.420" end="00:03:56.830" style="s2">you control it you observant and you</p>
+<p begin="00:03:54.970" end="00:03:58.210" style="s2">breathe and you&#39;re relaxed into it and</p>
+<p begin="00:03:56.830" end="00:04:00.670" style="s2">go okay this is what my stress is I</p>
+<p begin="00:03:58.210" end="00:04:03.010" style="s2">understand what this is now and it&#39;s</p>
+<p begin="00:04:00.670" end="00:04:05.470" style="s2">right at that moment where this thing</p>
+<p begin="00:04:03.010" end="00:04:08.400" style="s2">that I&#39;ve been carrying all week was</p>
+<p begin="00:04:05.470" end="00:04:11.500" style="s2">right in front of me and my eyes opened</p>
+<p begin="00:04:08.400" end="00:04:13.570" style="s2">and I breathed in and it was like my</p>
+<p begin="00:04:11.500" end="00:04:16.930" style="s2">brain was this rubik&#39;s cube and it went</p>
+<p begin="00:04:13.570" end="00:04:18.609" style="s2">click and everything fell into place all</p>
+<p begin="00:04:16.930" end="00:04:21.190" style="s2">the colors were lined up and i saw my</p>
+<p begin="00:04:18.609" end="00:04:22.270" style="s2">life in front of me I observed</p>
+<p begin="00:04:21.190" end="00:04:25.930" style="s2">everything we went through this practice</p>
+<p begin="00:04:22.270" end="00:04:29.560" style="s2">where you look down on who you are from</p>
+<p begin="00:04:25.930" end="00:04:31.840" style="s2">above that&#39;s what I did I was outside my</p>
+<p begin="00:04:29.560" end="00:04:33.340" style="s2">body looking at myself and my whole life</p>
+<p begin="00:04:31.840" end="00:04:35.310" style="s2">was presented in front of me and what I</p>
+<p begin="00:04:33.340" end="00:04:38.410" style="s2">need to do everything fell into place</p>
+<p begin="00:04:35.310" end="00:04:41.680" style="s2">there&#39;s this really incredible moment of</p>
+<p begin="00:04:38.410" end="00:04:45.640" style="s2">clarity and I knew exactly what my life</p>
+<p begin="00:04:41.680" end="00:04:47.139" style="s2">was and then I had this big rush of</p>
+<p begin="00:04:45.640" end="00:04:49.689" style="s2">emotions</p>
+<p begin="00:04:47.139" end="00:04:53.560" style="s2">and I cried for the first time in 32</p>
+<p begin="00:04:49.689" end="00:04:56.080" style="s2">years lying in this ice tub cried</p>
+<p begin="00:04:53.560" end="00:04:58.659" style="s2">hysterically is the weirdest thing and I</p>
+<p begin="00:04:56.080" end="00:04:59.830" style="s2">realized that this stoic life I was</p>
+<p begin="00:04:58.659" end="00:05:02.229" style="s2">living was actually just the smallest</p>
+<p begin="00:04:59.830" end="00:05:04.810" style="s2">stoic how she&#39;s denying myself what life</p>
+<p begin="00:05:02.229" end="00:05:07.060" style="s2">is I was observing my life I was saying</p>
+<p begin="00:05:04.810" end="00:05:09.279" style="s2">no I don&#39;t want any of that don&#39;t want</p>
+<p begin="00:05:07.060" end="00:05:11.319" style="s2">any of that but the blinders on put the</p>
+<p begin="00:05:09.279" end="00:05:13.900" style="s2">blinkers on I&#39;m not gonna observe my</p>
+<p begin="00:05:11.319" end="00:05:18.580" style="s2">life I was gonna stumble through and</p>
+<p begin="00:05:13.900" end="00:05:20.080" style="s2">ignore everything when I started this</p>
+<p begin="00:05:18.580" end="00:05:24.069" style="s2">breath work practice it gave me this</p>
+<p begin="00:05:20.080" end="00:05:28.750" style="s2">chance to look at my life to observe it</p>
+<p begin="00:05:24.069" end="00:05:31.379" style="s2">and to understand what life is I could</p>
+<p begin="00:05:28.750" end="00:05:35.740" style="s2">see the impressions and make decisions</p>
+<p begin="00:05:31.379" end="00:05:37.539" style="s2">for the first time in my life can I</p>
+<p begin="00:05:35.740" end="00:05:40.240" style="s2">change that small as to a big s just</p>
+<p begin="00:05:37.539" end="00:05:41.560" style="s2">like that so then about 9 months ago</p>
+<p begin="00:05:40.240" end="00:05:42.969" style="s2">we&#39;re talking about stoicism and how</p>
+<p begin="00:05:41.560" end="00:05:45.370" style="s2">that applies to the wim HOF mathis why</p>
+<p begin="00:05:42.969" end="00:05:47.979" style="s2">write into it a little bit and the</p>
+<p begin="00:05:45.370" end="00:05:49.839" style="s2">Stoics their knowledge of the human body</p>
+<p begin="00:05:47.979" end="00:05:51.629" style="s2">and the universe around them and this is</p>
+<p begin="00:05:49.839" end="00:05:54.460" style="s2">going back to the ancient Greeks Daleks</p>
+<p begin="00:05:51.629" end="00:05:58.210" style="s2">they believed in this thing called the</p>
+<p begin="00:05:54.460" end="00:06:02.050" style="s2">pneuma which is literally translation</p>
+<p begin="00:05:58.210" end="00:06:03.189" style="s2">the breath is the breath and they</p>
+<p begin="00:06:02.050" end="00:06:06.430" style="s2">believed that in the pneuma was this</p>
+<p begin="00:06:03.189" end="00:06:07.659" style="s2">combination of fire and air and you get</p>
+<p begin="00:06:06.430" end="00:06:10.539" style="s2">experiment with this yourself you could</p>
+<p begin="00:06:07.659" end="00:06:14.649" style="s2">actually just blow on your hand and it&#39;s</p>
+<p begin="00:06:10.539" end="00:06:17.020" style="s2">cold or you can and it&#39;s hot you can</p>
+<p begin="00:06:14.649" end="00:06:18.639" style="s2">change that combination of fire and air</p>
+<p begin="00:06:17.020" end="00:06:20.770" style="s2">no we know it&#39;s just evaporation that&#39;s</p>
+<p begin="00:06:18.639" end="00:06:22.810" style="s2">why it feels cold but that&#39;s the idea of</p>
+<p begin="00:06:20.770" end="00:06:24.729" style="s2">this combination of air and fire and it</p>
+<p begin="00:06:22.810" end="00:06:27.520" style="s2">permeates everything in the universe and</p>
+<p begin="00:06:24.729" end="00:06:29.529" style="s2">it makes up the human soul and the</p>
+<p begin="00:06:27.520" end="00:06:31.810" style="s2">pneuma in the human soul the human body</p>
+<p begin="00:06:29.529" end="00:06:33.339" style="s2">has these eight streams as our five</p>
+<p begin="00:06:31.810" end="00:06:35.229" style="s2">senses we all know the five senses</p>
+<p begin="00:06:33.339" end="00:06:37.210" style="s2">entirely incorrect but we know our five</p>
+<p begin="00:06:35.229" end="00:06:39.430" style="s2">senses of taste touch hearing smell</p>
+<p begin="00:06:37.210" end="00:06:42.219" style="s2">whatever the other one was but it also</p>
+<p begin="00:06:39.430" end="00:06:44.710" style="s2">has these other three as our sex to our</p>
+<p begin="00:06:42.219" end="00:06:49.029" style="s2">gender with this power source in our</p>
+<p begin="00:06:44.710" end="00:06:51.039" style="s2">groin we have our voice that&#39;s what we</p>
+<p begin="00:06:49.029" end="00:06:53.199" style="s2">speak with we&#39;re the only animal that</p>
+<p begin="00:06:51.039" end="00:06:55.569" style="s2">does this and we have something else</p>
+<p begin="00:06:53.199" end="00:06:57.069" style="s2">called the hegemonic on and the ancient</p>
+<p begin="00:06:55.569" end="00:06:59.680" style="s2">Greeks believed that this hegemonic own</p>
+<p begin="00:06:57.069" end="00:07:01.090" style="s2">was here in their heart is their seat of</p>
+<p begin="00:06:59.680" end="00:07:03.280" style="s2">knowledge</p>
+<p begin="00:07:01.090" end="00:07:04.750" style="s2">and the Romans moved it up and it&#39;s</p>
+<p begin="00:07:03.280" end="00:07:06.010" style="s2">actually up here which is probably a</p>
+<p begin="00:07:04.750" end="00:07:10.200" style="s2">little bit more correct and we can liken</p>
+<p begin="00:07:06.010" end="00:07:13.900" style="s2">this hegemonic on to the the neocortex</p>
+<p begin="00:07:10.200" end="00:07:15.669" style="s2">or frontal lobe of our brain and again</p>
+<p begin="00:07:13.900" end="00:07:17.530" style="s2">we&#39;re the only ones with while whales</p>
+<p begin="00:07:15.669" end="00:07:19.330" style="s2">and elephants also have one too but I</p>
+<p begin="00:07:17.530" end="00:07:23.050" style="s2">don&#39;t know if they do breathwork whales</p>
+<p begin="00:07:19.330" end="00:07:24.910" style="s2">probably do but this is our seat of</p>
+<p begin="00:07:23.050" end="00:07:28.930" style="s2">logic right here this is where we</p>
+<p begin="00:07:24.910" end="00:07:34.900" style="s2">observe our life right here and we use</p>
+<p begin="00:07:28.930" end="00:07:38.740" style="s2">this Numa this breath to activate it do</p>
+<p begin="00:07:34.900" end="00:07:39.760" style="s2">any of you have stress yeah who doesn&#39;t</p>
+<p begin="00:07:38.740" end="00:07:40.930" style="s2">have stress I like to meet you</p>
+<p begin="00:07:39.760" end="00:07:43.570" style="s2">stress is why you got out of bed this</p>
+<p begin="00:07:40.930" end="00:07:45.970" style="s2">morning alright stress is is part of who</p>
+<p begin="00:07:43.570" end="00:07:48.250" style="s2">we are we have stress and when we look</p>
+<p begin="00:07:45.970" end="00:07:49.600" style="s2">at our brain that put of an older view</p>
+<p begin="00:07:48.250" end="00:07:51.250" style="s2">of our brain we got these three little</p>
+<p begin="00:07:49.600" end="00:07:54.160" style="s2">brains inside of us and our very small</p>
+<p begin="00:07:51.250" end="00:07:55.630" style="s2">brain is our there&#39;s our reptilian brain</p>
+<p begin="00:07:54.160" end="00:07:58.389" style="s2">at the top of our brainstem and that&#39;s</p>
+<p begin="00:07:55.630" end="00:08:00.460" style="s2">involved in our movement patterns it&#39;s</p>
+<p begin="00:07:58.389" end="00:08:02.050" style="s2">involved in our five senses as our feel</p>
+<p begin="00:08:00.460" end="00:08:03.490" style="s2">it&#39;s our touches our proprioception</p>
+<p begin="00:08:02.050" end="00:08:05.110" style="s2">remember when you&#39;re learning to ride a</p>
+<p begin="00:08:03.490" end="00:08:07.300" style="s2">bike it was difficult you kept falling</p>
+<p begin="00:08:05.110" end="00:08:08.680" style="s2">off plus your reptile brain was trying</p>
+<p begin="00:08:07.300" end="00:08:10.960" style="s2">to figure it out and once you learn how</p>
+<p begin="00:08:08.680" end="00:08:12.100" style="s2">to do it you didn&#39;t forget anymore</p>
+<p begin="00:08:10.960" end="00:08:14.320" style="s2">because you just map it into your</p>
+<p begin="00:08:12.100" end="00:08:16.330" style="s2">proprioception then beyond that we have</p>
+<p begin="00:08:14.320" end="00:08:17.950" style="s2">our limbic system it&#39;s a deeper part of</p>
+<p begin="00:08:16.330" end="00:08:20.020" style="s2">our brain it&#39;s our proto mammalian brain</p>
+<p begin="00:08:17.950" end="00:08:22.479" style="s2">and that is the part that&#39;s in charge of</p>
+<p begin="00:08:20.020" end="00:08:25.210" style="s2">our fight-or-flight is our stress</p>
+<p begin="00:08:22.479" end="00:08:27.010" style="s2">response part of our brain it keeps us</p>
+<p begin="00:08:25.210" end="00:08:30.100" style="s2">alive it&#39;s really important and the</p>
+<p begin="00:08:27.010" end="00:08:31.690" style="s2">saber-tooth Tiger is attacking us you</p>
+<p begin="00:08:30.100" end="00:08:33.400" style="s2">want a limbic system in charge of what&#39;s</p>
+<p begin="00:08:31.690" end="00:08:36.789" style="s2">going on it helps you run away really</p>
+<p begin="00:08:33.400" end="00:08:38.380" style="s2">fast or fight it off have any of you</p>
+<p begin="00:08:36.789" end="00:08:41.200" style="s2">ever been attacked by a saber-toothed</p>
+<p begin="00:08:38.380" end="00:08:42.479" style="s2">tiger probably not how many of you carry</p>
+<p begin="00:08:41.200" end="00:08:44.830" style="s2">a phone with you</p>
+<p begin="00:08:42.479" end="00:08:47.320" style="s2">yeah that&#39;s your saber-toothed tiger</p>
+<p begin="00:08:44.830" end="00:08:49.690" style="s2">right there that is keeping you wired</p>
+<p begin="00:08:47.320" end="00:08:52.480" style="s2">all the time you&#39;re waiting for it to</p>
+<p begin="00:08:49.690" end="00:08:54.790" style="s2">vibrate this is what is that it&#39;s a</p>
+<p begin="00:08:52.480" end="00:08:57.190" style="s2">distraction all the time it is keep your</p>
+<p begin="00:08:54.790" end="00:08:59.290" style="s2">limbic system in charge of who we are</p>
+<p begin="00:08:57.190" end="00:09:01.920" style="s2">and because of a limbic system our</p>
+<p begin="00:08:59.290" end="00:09:04.029" style="s2">fight-or-flight system is in charge it</p>
+<p begin="00:09:01.920" end="00:09:06.190" style="s2">operates so much quicker than our</p>
+<p begin="00:09:04.029" end="00:09:06.940" style="s2">neocortex the neocortex just says well</p>
+<p begin="00:09:06.190" end="00:09:09.339" style="s2">forget it</p>
+<p begin="00:09:06.940" end="00:09:11.380" style="s2">I don&#39;t you&#39;re part of this I&#39;ll just go</p>
+<p begin="00:09:09.339" end="00:09:13.000" style="s2">quiet can we do that we can put</p>
+<p begin="00:09:11.380" end="00:09:14.899" style="s2">electrodes on people&#39;s heads and look at</p>
+<p begin="00:09:13.000" end="00:09:17.240" style="s2">the activity inside the brain and see</p>
+<p begin="00:09:14.899" end="00:09:18.740" style="s2">active and for so many people is that</p>
+<p begin="00:09:17.240" end="00:09:20.839" style="s2">limbic system-- just buzzing it&#39;s on</p>
+<p begin="00:09:18.740" end="00:09:22.610" style="s2">fire they&#39;re stressed they&#39;re wired all</p>
+<p begin="00:09:20.839" end="00:09:24.829" style="s2">the time loaded for bear we like to say</p>
+<p begin="00:09:22.610" end="00:09:27.680" style="s2">in the wilderness world all the time</p>
+<p begin="00:09:24.829" end="00:09:30.709" style="s2">were stressed out that&#39;s where we live</p>
+<p begin="00:09:27.680" end="00:09:32.779" style="s2">in this world of stress this neocortex</p>
+<p begin="00:09:30.709" end="00:09:35.929" style="s2">up here that makes us human this is the</p>
+<p begin="00:09:32.779" end="00:09:39.709" style="s2">part that understands who we are this is</p>
+<p begin="00:09:35.929" end="00:09:42.949" style="s2">the part that makes friends with people</p>
+<p begin="00:09:39.709" end="00:09:45.470" style="s2">it&#39;s what we fall in love it&#39;s where we</p>
+<p begin="00:09:42.949" end="00:09:48.350" style="s2">remember the past and learn the lessons</p>
+<p begin="00:09:45.470" end="00:09:51.589" style="s2">from before and it&#39;s where we plan for</p>
+<p begin="00:09:48.350" end="00:09:53.449" style="s2">the future our limbic system dwells in</p>
+<p begin="00:09:51.589" end="00:09:54.980" style="s2">the past and worries about the future is</p>
+<p begin="00:09:53.449" end="00:09:56.470" style="s2">that stuff we can&#39;t control but we&#39;re</p>
+<p begin="00:09:54.980" end="00:09:59.300" style="s2">gonna try</p>
+<p begin="00:09:56.470" end="00:10:02.389" style="s2">but the prefrontal cortex is what</p>
+<p begin="00:09:59.300" end="00:10:04.369" style="s2">understands things as observes us it</p>
+<p begin="00:10:02.389" end="00:10:07.929" style="s2">observes the impressions on life and</p>
+<p begin="00:10:04.369" end="00:10:11.540" style="s2">makes decisions and it&#39;s gone quiet</p>
+<p begin="00:10:07.929" end="00:10:14.360" style="s2">that&#39;s what&#39;s happened when we use our</p>
+<p begin="00:10:11.540" end="00:10:17.569" style="s2">breath we activate that prefrontal</p>
+<p begin="00:10:14.360" end="00:10:20.870" style="s2">cortex and we can use our breath to fall</p>
+<p begin="00:10:17.569" end="00:10:22.819" style="s2">into a very deep state of meditation and</p>
+<p begin="00:10:20.870" end="00:10:25.220" style="s2">that&#39;s where we&#39;re gonna go in just a</p>
+<p begin="00:10:22.819" end="00:10:27.410" style="s2">few minutes how many of you have a</p>
+<p begin="00:10:25.220" end="00:10:28.790" style="s2">meditation practice trough hands how</p>
+<p begin="00:10:27.410" end="00:10:30.249" style="s2">many have meditation practice how many</p>
+<p begin="00:10:28.790" end="00:10:32.449" style="s2">meditate every day</p>
+<p begin="00:10:30.249" end="00:10:34.189" style="s2">few of you how many of you tried</p>
+<p begin="00:10:32.449" end="00:10:35.300" style="s2">meditation before and thought I&#39;m not</p>
+<p begin="00:10:34.189" end="00:10:38.089" style="s2">really too sure if I&#39;m doing this right</p>
+<p begin="00:10:35.300" end="00:10:40.790" style="s2">I think I just wasted 20 minutes yeah it</p>
+<p begin="00:10:38.089" end="00:10:42.350" style="s2">hurts to sit like that on the floor yeah</p>
+<p begin="00:10:40.790" end="00:10:43.910" style="s2">a lot of people are like that you don&#39;t</p>
+<p begin="00:10:42.350" end="00:10:46.129" style="s2">know if you&#39;re meditating when we do</p>
+<p begin="00:10:43.910" end="00:10:48.410" style="s2">breath work we know that we&#39;re</p>
+<p begin="00:10:46.129" end="00:10:50.059" style="s2">meditating and breath work isn&#39;t new I</p>
+<p begin="00:10:48.410" end="00:10:52.100" style="s2">don&#39;t know if the stoic specifically did</p>
+<p begin="00:10:50.059" end="00:10:53.629" style="s2">breath work but I do know that shamanic</p>
+<p begin="00:10:52.100" end="00:10:55.009" style="s2">breath work is practiced in every single</p>
+<p begin="00:10:53.629" end="00:10:57.740" style="s2">culture around the world since the</p>
+<p begin="00:10:55.009" end="00:11:00.110" style="s2">beginning of humans every culture has</p>
+<p begin="00:10:57.740" end="00:11:03.889" style="s2">breath work so I&#39;m assuming the Stoics</p>
+<p begin="00:11:00.110" end="00:11:06.019" style="s2">did too but I don&#39;t know for sure when</p>
+<p begin="00:11:03.889" end="00:11:07.639" style="s2">we do breath work when we just sit and</p>
+<p begin="00:11:06.019" end="00:11:10.069" style="s2">we did this right before lunch we just</p>
+<p begin="00:11:07.639" end="00:11:13.549" style="s2">sat with our breath you close your eyes</p>
+<p begin="00:11:10.069" end="00:11:15.350" style="s2">and you observe your breath right away</p>
+<p begin="00:11:13.549" end="00:11:18.079" style="s2">when you just sit quietly and observe</p>
+<p begin="00:11:15.350" end="00:11:21.589" style="s2">your breath a part of your brain called</p>
+<p begin="00:11:18.079" end="00:11:23.569" style="s2">the anterior cingulate it&#39;s part of this</p>
+<p begin="00:11:21.589" end="00:11:26.389" style="s2">prefrontal cortex and wires back into</p>
+<p begin="00:11:23.569" end="00:11:27.829" style="s2">the limbic system so your prefrontal</p>
+<p begin="00:11:26.389" end="00:11:28.279" style="s2">cortex is just looking back and saying</p>
+<p begin="00:11:27.829" end="00:11:30.410" style="s2">hey what&#39;s</p>
+<p begin="00:11:28.279" end="00:11:33.110" style="s2">I&#39;m back there just talking on the door</p>
+<p begin="00:11:30.410" end="00:11:35.449" style="s2">oh you&#39;re feeling all wired and tired</p>
+<p begin="00:11:33.110" end="00:11:38.660" style="s2">and stressed and worried and scared and</p>
+<p begin="00:11:35.449" end="00:11:42.560" style="s2">upset okay I can see that now I can see</p>
+<p begin="00:11:38.660" end="00:11:45.110" style="s2">you feel that way just paying attention</p>
+<p begin="00:11:42.560" end="00:11:47.569" style="s2">to your breath just observing it does</p>
+<p begin="00:11:45.110" end="00:11:50.499" style="s2">that it allows us to see our emotional</p>
+<p begin="00:11:47.569" end="00:11:53.240" style="s2">state when we take control of our breath</p>
+<p begin="00:11:50.499" end="00:11:56.300" style="s2">which and what we&#39;re going to do we&#39;re</p>
+<p begin="00:11:53.240" end="00:12:00.879" style="s2">gonna change the way we breathe again a</p>
+<p begin="00:11:56.300" end="00:12:03.410" style="s2">different part of our brain wakes up I</p>
+<p begin="00:12:00.879" end="00:12:06.139" style="s2">have to look it up the camera in the</p>
+<p begin="00:12:03.410" end="00:12:08.870" style="s2">name of it the caudal medial part of the</p>
+<p begin="00:12:06.139" end="00:12:10.970" style="s2">frontal cortex wakes up on that part of</p>
+<p begin="00:12:08.870" end="00:12:13.370" style="s2">our prefrontal cortex is what is in</p>
+<p begin="00:12:10.970" end="00:12:14.720" style="s2">charge of our executive function by</p>
+<p begin="00:12:13.370" end="00:12:16.910" style="s2">taking control of our breath and</p>
+<p begin="00:12:14.720" end="00:12:18.829" style="s2">changing the way we breathe we change</p>
+<p begin="00:12:16.910" end="00:12:22.009" style="s2">the way we think we change the way our</p>
+<p begin="00:12:18.829" end="00:12:24.999" style="s2">brain works and we&#39;re able to look at</p>
+<p begin="00:12:22.009" end="00:12:27.249" style="s2">the impressions to observe our life and</p>
+<p begin="00:12:24.999" end="00:12:30.259" style="s2">then we&#39;re going to modulate our breath</p>
+<p begin="00:12:27.249" end="00:12:32.089" style="s2">deeply and take you through a very deep</p>
+<p begin="00:12:30.259" end="00:12:34.160" style="s2">the wim HOF method style of breath work</p>
+<p begin="00:12:32.089" end="00:12:37.100" style="s2">the power breath that I teach at mindset</p>
+<p begin="00:12:34.160" end="00:12:48.980" style="s2">you&#39;re gonna be taking deep full breaths</p>
+<p begin="00:12:37.100" end="00:12:50.240" style="s2">of air over and over and over again and</p>
+<p begin="00:12:48.980" end="00:12:52.790" style="s2">you&#39;re gonna start to feel kind of funny</p>
+<p begin="00:12:50.240" end="00:12:54.589" style="s2">your fingers are gonna tingle you might</p>
+<p begin="00:12:52.790" end="00:12:56.269" style="s2">go numb around your nose and mouth and</p>
+<p begin="00:12:54.589" end="00:12:59.959" style="s2">you&#39;re gonna continue to breathe deeply</p>
+<p begin="00:12:56.269" end="00:13:01.459" style="s2">in and out over and over and over again</p>
+<p begin="00:12:59.959" end="00:13:06.699" style="s2">and finally you&#39;re gonna take a final</p>
+<p begin="00:13:01.459" end="00:13:08.750" style="s2">big breath in and you&#39;re gonna let it go</p>
+<p begin="00:13:06.699" end="00:13:13.160" style="s2">you&#39;re gonna hold your breath with no</p>
+<p begin="00:13:08.750" end="00:13:17.389" style="s2">air in your lungs for a long long long</p>
+<p begin="00:13:13.160" end="00:13:19.850" style="s2">time and that&#39;s during this state where</p>
+<p begin="00:13:17.389" end="00:13:23.929" style="s2">we go from a focused attention on our</p>
+<p begin="00:13:19.850" end="00:13:27.199" style="s2">breath to a wide insight view of our</p>
+<p begin="00:13:23.929" end="00:13:28.850" style="s2">entire existence we&#39;re gonna do this</p>
+<p begin="00:13:27.199" end="00:13:33.370" style="s2">three times so we&#39;re gonna go deeper and</p>
+<p begin="00:13:28.850" end="00:13:37.519" style="s2">deeper each time it&#39;s pretty wild</p>
+<p begin="00:13:33.370" end="00:13:40.519" style="s2">there&#39;s one try it out yeah</p>
+<p begin="00:13:37.519" end="00:13:42.390" style="s2">so when everybody take your phone out</p>
+<p begin="00:13:40.519" end="00:13:44.519" style="s2">you know I&#39;m gonna swipe up from the</p>
+<p begin="00:13:42.390" end="00:13:47.579" style="s2">bottom and press a little icon for the</p>
+<p begin="00:13:44.519" end="00:13:49.920" style="s2">airplane put on airplane mode you do not</p>
+<p begin="00:13:47.579" end="00:13:54.360" style="s2">want to be the person whose phone goes</p>
+<p begin="00:13:49.920" end="00:13:55.350" style="s2">off during this meditation it&#39;s rude so</p>
+<p begin="00:13:54.360" end="00:14:00.360" style="s2">turn your phone&#39;s off</p>
+<p begin="00:13:55.350" end="00:14:01.230" style="s2">let them away so the first thing we&#39;re</p>
+<p begin="00:14:00.360" end="00:14:02.640" style="s2">going to do we&#39;re just gonna do a little</p>
+<p begin="00:14:01.230" end="00:14:03.600" style="s2">breath meditation I&#39;m gonna guide you</p>
+<p begin="00:14:02.640" end="00:14:05.190" style="s2">through it&#39;s a lot of people when you</p>
+<p begin="00:14:03.600" end="00:14:07.860" style="s2">say meditate on your breath I think okay</p>
+<p begin="00:14:05.190" end="00:14:09.480" style="s2">I&#39;m breathing I got my breath meditation</p>
+<p begin="00:14:07.860" end="00:14:11.130" style="s2">I&#39;m gonna guide you through I&#39;m gonna</p>
+<p begin="00:14:09.480" end="00:14:13.680" style="s2">teach you how to do a breath meditation</p>
+<p begin="00:14:11.130" end="00:14:15.450" style="s2">it&#39;s kind of tricky and then we&#39;re gonna</p>
+<p begin="00:14:13.680" end="00:14:17.070" style="s2">move directly into a breath modulation</p>
+<p begin="00:14:15.450" end="00:14:19.829" style="s2">where you&#39;re gonna take control I&#39;m</p>
+<p begin="00:14:17.070" end="00:14:21.570" style="s2">gonna move towards a connected breath or</p>
+<p begin="00:14:19.829" end="00:14:24.209" style="s2">a circular breath normally when you</p>
+<p begin="00:14:21.570" end="00:14:26.420" style="s2">breathe you breathe in and out and then</p>
+<p begin="00:14:24.209" end="00:14:29.250" style="s2">there&#39;s a little pause they breathe in</p>
+<p begin="00:14:26.420" end="00:14:30.630" style="s2">and out in this little pause we&#39;re gonna</p>
+<p begin="00:14:29.250" end="00:14:37.200" style="s2">move towards the connected breath is</p>
+<p begin="00:14:30.630" end="00:14:38.790" style="s2">gonna be a steady like so I&#39;m gonna do</p>
+<p begin="00:14:37.200" end="00:14:40.230" style="s2">that for a while and that&#39;s going to</p>
+<p begin="00:14:38.790" end="00:14:42.449" style="s2">wake up that front part of your brain</p>
+<p begin="00:14:40.230" end="00:14:44.310" style="s2">and then we&#39;re going to move into the</p>
+<p begin="00:14:42.449" end="00:14:47.970" style="s2">power breath which we&#39;re gonna be taking</p>
+<p begin="00:14:44.310" end="00:14:50.010" style="s2">full breaths of air and when we&#39;re doing</p>
+<p begin="00:14:47.970" end="00:14:52.220" style="s2">this I want you to start thinking about</p>
+<p begin="00:14:50.010" end="00:14:56.370" style="s2">where your breath is coming from</p>
+<p begin="00:14:52.220" end="00:14:59.220" style="s2">just like the hegemonic on who are Numa</p>
+<p begin="00:14:56.370" end="00:15:02.279" style="s2">has eight streams or five senses and</p>
+<p begin="00:14:59.220" end="00:15:04.589" style="s2">then we have our sex our heart our</p>
+<p begin="00:15:02.279" end="00:15:07.440" style="s2">throat and our head we&#39;re going to</p>
+<p begin="00:15:04.589" end="00:15:09.630" style="s2">breathe up from our groin from our root</p>
+<p begin="00:15:07.440" end="00:15:12.329" style="s2">from our pelvic floor I&#39;m going to</p>
+<p begin="00:15:09.630" end="00:15:14.850" style="s2">breathe from here and we need to feel or</p>
+<p begin="00:15:12.329" end="00:15:17.010" style="s2">have an awareness of this energy rising</p>
+<p begin="00:15:14.850" end="00:15:18.269" style="s2">up every time you breathe in up to the</p>
+<p begin="00:15:17.010" end="00:15:20.670" style="s2">top of your head to the seat of power</p>
+<p begin="00:15:18.269" end="00:15:23.579" style="s2">the seat of knowledge right here inside</p>
+<p begin="00:15:20.670" end="00:15:24.990" style="s2">your head your hegemonic on or here if</p>
+<p begin="00:15:23.579" end="00:15:26.640" style="s2">you&#39;re Greek here if you&#39;re Roman</p>
+<p begin="00:15:24.990" end="00:15:28.680" style="s2">doesn&#39;t matter I&#39;m not judging but I</p>
+<p begin="00:15:26.640" end="00:15:31.350" style="s2">want you to feel this rise of energy</p>
+<p begin="00:15:28.680" end="00:15:34.230" style="s2">through your body each time there&#39;s</p>
+<p begin="00:15:31.350" end="00:15:36.750" style="s2">gonna be full deep breaths of air</p>
+<p begin="00:15:34.230" end="00:15:38.279" style="s2">bursting your lungs at the top don&#39;t</p>
+<p begin="00:15:36.750" end="00:15:40.980" style="s2">don&#39;t burst your lungs but very very</p>
+<p begin="00:15:38.279" end="00:15:42.480" style="s2">very deep breaths of air now I&#39;ll tell</p>
+<p begin="00:15:40.980" end="00:15:43.890" style="s2">you to breathe out finally and you&#39;ll</p>
+<p begin="00:15:42.480" end="00:15:44.970" style="s2">just stop and hold your breath and I&#39;ll</p>
+<p begin="00:15:43.890" end="00:15:47.760" style="s2">guide you through that a couple times</p>
+<p begin="00:15:44.970" end="00:15:49.420" style="s2">now people who should not do this kind</p>
+<p begin="00:15:47.760" end="00:15:52.210" style="s2">of power breath work</p>
+<p begin="00:15:49.420" end="00:15:53.890" style="s2">if you&#39;re pregnant we haven&#39;t tested</p>
+<p begin="00:15:52.210" end="00:15:56.170" style="s2">this on pregnant women we&#39;re probably</p>
+<p begin="00:15:53.890" end="00:15:57.940" style="s2">not going to but I do know women who&#39;ve</p>
+<p begin="00:15:56.170" end="00:16:01.360" style="s2">done it and also if you have</p>
+<p begin="00:15:57.940" end="00:16:03.310" style="s2">uncontrolled epilepsy doing deep full</p>
+<p begin="00:16:01.360" end="00:16:06.790" style="s2">circular breaths of air and breath holes</p>
+<p begin="00:16:03.310" end="00:16:09.070" style="s2">can trigger a seizure right so if you&#39;re</p>
+<p begin="00:16:06.790" end="00:16:10.570" style="s2">in any of those two categories just do</p>
+<p begin="00:16:09.070" end="00:16:12.370" style="s2">the breath awareness just stay with us</p>
+<p begin="00:16:10.570" end="00:16:14.200" style="s2">do your breath awareness do the</p>
+<p begin="00:16:12.370" end="00:16:16.240" style="s2">connected breath but don&#39;t go super deep</p>
+<p begin="00:16:14.200" end="00:16:17.590" style="s2">with it if you&#39;re doing this breath work</p>
+<p begin="00:16:16.240" end="00:16:19.270" style="s2">and you&#39;re thinking I&#39;m not too sure if</p>
+<p begin="00:16:17.590" end="00:16:24.430" style="s2">I like this isn&#39;t it feel very good to</p>
+<p begin="00:16:19.270" end="00:16:25.800" style="s2">me don&#39;t stop don&#39;t do it don&#39;t stop</p>
+<p begin="00:16:24.430" end="00:16:28.000" style="s2">breathing keep reading</p>
+<p begin="00:16:25.800" end="00:16:29.950" style="s2">well I said we go back to that breath</p>
+<p begin="00:16:28.000" end="00:16:31.780" style="s2">meditation part that we start with okay</p>
+<p begin="00:16:29.950" end="00:16:35.410" style="s2">so I want everybody make yourselves</p>
+<p begin="00:16:31.780" end="00:16:37.240" style="s2">comfortable your feet are flat on the</p>
+<p begin="00:16:35.410" end="00:16:40.150" style="s2">floor you&#39;re sitting up nice and</p>
+<p begin="00:16:37.240" end="00:16:41.890" style="s2">straight in your seats so slide your bum</p>
+<p begin="00:16:40.150" end="00:16:43.150" style="s2">back sit up nice and tall spread</p>
+<p begin="00:16:41.890" end="00:16:44.730" style="s2">yourself out if you need to if you got a</p>
+<p begin="00:16:43.150" end="00:16:46.720" style="s2">seat next to you just spread yourself at</p>
+<p begin="00:16:44.730" end="00:16:48.400" style="s2">three the people at the back already</p>
+<p begin="00:16:46.720" end="00:16:50.320" style="s2">spread your chairs out people at the</p>
+<p begin="00:16:48.400" end="00:16:51.580" style="s2">front are all nice and close still it&#39;s</p>
+<p begin="00:16:50.320" end="00:16:54.010" style="s2">like the rebels on the school bus around</p>
+<p begin="00:16:51.580" end="00:16:55.900" style="s2">the back so he&#39;s sitting up nice and</p>
+<p begin="00:16:54.010" end="00:17:01.870" style="s2">tall some nice gentle music is going to</p>
+<p begin="00:16:55.900" end="00:17:05.120" style="s2">start I&#39;m going to close your eyes place</p>
+<p begin="00:17:01.870" end="00:17:08.289" style="s2">your hands wherever you want your hands</p>
+<p begin="00:17:05.120" end="00:17:08.289" style="s2">your body to relax</p>
+<p begin="00:17:08.700" end="00:17:13.400" style="s2">you&#39;re gonna bring your awareness to</p>
+<p begin="00:17:10.890" end="00:17:13.400" style="s2">your breath</p>
+<p begin="00:17:14.120" end="00:17:17.800" style="s2">the part of your breath that resonates</p>
+<p begin="00:17:16.309" end="00:17:19.560" style="s2">with you</p>
+<p begin="00:17:17.800" end="00:17:21.630" style="s2">[Music]</p>
+<p begin="00:17:19.560" end="00:17:28.470" style="s2">bring your awareness to the end of your</p>
+<p begin="00:17:21.630" end="00:17:31.970" style="s2">nose you feel the rush of cool air</p>
+<p begin="00:17:28.470" end="00:17:31.970" style="s2">moving in through your nose</p>
+<p begin="00:17:35.490" end="00:17:40.370" style="s2">a rush of warm air moving out through</p>
+<p begin="00:17:38.310" end="00:17:43.540" style="s2">your nose</p>
+<p begin="00:17:40.370" end="00:17:43.540" style="s2">[Music]</p>
+<p begin="00:17:45.400" end="00:17:50.260" style="s2">like your awareness rests solely on your</p>
+<p begin="00:17:48.160" end="00:17:53.650" style="s2">breath as you feel it moving through</p>
+<p begin="00:17:50.260" end="00:17:56.650" style="s2">your nose trying to hold your awareness</p>
+<p begin="00:17:53.650" end="00:18:01.920" style="s2">for a full cycle of breath as you</p>
+<p begin="00:17:56.650" end="00:18:01.920" style="s2">breathe in and you breathe out</p>
+<p begin="00:18:02.810" end="00:18:05.860" style="s2">and he repeats</p>
+<p begin="00:18:06.080" end="00:18:12.760" style="s2">if you find your mind rushing off to</p>
+<p begin="00:18:09.400" end="00:18:12.760" style="s2">other things</p>
+<p begin="00:18:12.820" end="00:18:18.090" style="s2">that&#39;s okay</p>
+<p begin="00:18:15.300" end="00:18:21.600" style="s2">that my friends is meditation bring it</p>
+<p begin="00:18:18.090" end="00:18:26.570" style="s2">back to your breath fully aware of the</p>
+<p begin="00:18:21.600" end="00:18:26.570" style="s2">movement of air in and at</p>
+<p begin="00:18:26.710" end="00:18:34.000" style="s2">when your awareness to your belly to the</p>
+<p begin="00:18:29.980" end="00:18:36.240" style="s2">rise and fall gentle expansion of your</p>
+<p begin="00:18:34.000" end="00:18:36.240" style="s2">ribs</p>
+<p begin="00:18:40.280" end="00:18:48.330" style="s2">this feeling within your body fully hold</p>
+<p begin="00:18:44.280" end="00:18:50.480" style="s2">your awareness you gently breathe in and</p>
+<p begin="00:18:48.330" end="00:18:50.480" style="s2">apps</p>
+<p begin="00:18:51.760" end="00:18:58.019" style="s2">without control just observe your breath</p>
+<p begin="00:18:58.799" end="00:19:05.730" style="s2">gentle movement of air in and out</p>
+<p begin="00:19:05.869" end="00:19:09.159" style="s2">the body&#39;s relaxed</p>
+<p begin="00:19:13.870" end="00:19:17.050" style="s2">[Music]</p>
+<p begin="00:19:17.110" end="00:19:21.419" style="s2">fully aware of your breath</p>
+<p begin="00:19:38.910" end="00:19:43.130" style="s2">come aware the sensation of touch</p>
+<p begin="00:19:43.690" end="00:19:50.230" style="s2">temperature of the air on your skin</p>
+<p begin="00:19:46.600" end="00:19:50.230" style="s2">feeling of your clothes</p>
+<p begin="00:19:55.190" end="00:19:58.900" style="s2">pressure of your body in the chair</p>
+<p begin="00:19:59.790" end="00:20:04.730" style="s2">Kirra wearin is explore the sensation of</p>
+<p begin="00:20:02.490" end="00:20:04.730" style="s2">touch</p>
+<p begin="00:20:06.730" end="00:20:09.829" style="s2">[Music]</p>
+<p begin="00:20:13.790" end="00:20:18.760" style="s2">I&#39;m aware of the sense of sound hearing</p>
+<p begin="00:20:20.580" end="00:20:28.799" style="s2">open your mind and body the vibrations</p>
+<p begin="00:20:23.639" end="00:20:29.400" style="s2">of the music sound of my voice sounds</p>
+<p begin="00:20:28.799" end="00:20:31.440" style="s2">the building</p>
+<p begin="00:20:29.400" end="00:20:35.660" style="s2">[Music]</p>
+<p begin="00:20:31.440" end="00:20:35.660" style="s2">fully aware of your sense of hearing</p>
+<p begin="00:20:36.590" end="00:20:41.430" style="s2">[Music]</p>
+<p begin="00:20:42.600" end="00:20:47.010" style="s2">your awareness to your sense of smell</p>
+<p begin="00:20:45.260" end="00:20:48.580" style="s2">taste</p>
+<p begin="00:20:47.010" end="00:20:52.840" style="s2">[Music]</p>
+<p begin="00:20:48.580" end="00:20:56.080" style="s2">lingering taste of lunch coffee</p>
+<p begin="00:20:52.840" end="00:20:59.789" style="s2">if your awareness fully rest your senses</p>
+<p begin="00:20:56.080" end="00:20:59.789" style="s2">of smell and taste</p>
+<p begin="00:21:03.270" end="00:21:09.320" style="s2">even with your eyes closed when your</p>
+<p begin="00:21:05.760" end="00:21:09.320" style="s2">awareness your sense of sights</p>
+<p begin="00:21:12.520" end="00:21:19.510" style="s2">darkness behind your eyes shifting</p>
+<p begin="00:21:16.090" end="00:21:22.710" style="s2">shadows light and dark</p>
+<p begin="00:21:19.510" end="00:21:22.710" style="s2">pops of lights</p>
+<p begin="00:21:23.670" end="00:21:27.950" style="s2">fully aware sight</p>
+<p begin="00:21:29.970" end="00:21:34.210" style="s2">your awareness back to your breath</p>
+<p begin="00:21:32.240" end="00:21:36.700" style="s2">[Music]</p>
+<p begin="00:21:34.210" end="00:21:40.480" style="s2">your awareness sink deep within you</p>
+<p begin="00:21:36.700" end="00:21:41.170" style="s2">become aware the deep organic rhythm of</p>
+<p begin="00:21:40.480" end="00:21:43.179" style="s2">your breath</p>
+<p begin="00:21:41.170" end="00:21:46.269" style="s2">[Music]</p>
+<p begin="00:21:43.179" end="00:21:48.509" style="s2">fully aware the time it takes to breathe</p>
+<p begin="00:21:46.269" end="00:21:48.509" style="s2">in</p>
+<p begin="00:21:49.210" end="00:21:52.020" style="s2">and out</p>
+<p begin="00:21:52.680" end="00:22:00.220" style="s2">the pause between breaths fully aware</p>
+<p begin="00:21:58.100" end="00:22:03.159" style="s2">its rhythm of your breath</p>
+<p begin="00:22:00.220" end="00:22:06.330" style="s2">[Music]</p>
+<p begin="00:22:03.159" end="00:22:06.330" style="s2">the rhythm of your life</p>
+<p begin="00:22:06.800" end="00:22:10.570" style="s2">to observe your breath</p>
+<p begin="00:22:10.920" end="00:22:22.510" style="s2">[Music]</p>
+<p begin="00:22:18.340" end="00:22:28.230" style="s2">move now towards a connected breath as</p>
+<p begin="00:22:22.510" end="00:22:28.230" style="s2">you breathe in and out</p>
+<p begin="00:22:28.510" end="00:22:34.430" style="s2">and then</p>
+<p begin="00:22:31.220" end="00:22:39.950" style="s2">and outs without pause at the top or</p>
+<p begin="00:22:34.430" end="00:22:44.620" style="s2">bottom without force light control with</p>
+<p begin="00:22:39.950" end="00:22:44.620" style="s2">a deep connected breath circular</p>
+<p begin="00:22:44.970" end="00:22:51.780" style="s2">to take control of your breath come</p>
+<p begin="00:22:49.410" end="00:22:54.320" style="s2">aware of the breath rising from the base</p>
+<p begin="00:22:51.780" end="00:22:54.320" style="s2">of your spine</p>
+<p begin="00:22:55.250" end="00:23:03.770" style="s2">your pelvic floor</p>
+<p begin="00:22:58.490" end="00:23:06.310" style="s2">breath rises from your sex and moves up</p>
+<p begin="00:23:03.770" end="00:23:06.310" style="s2">your spine</p>
+<p begin="00:23:07.809" end="00:23:13.280" style="s2">to your hat</p>
+<p begin="00:23:10.310" end="00:23:19.510" style="s2">the wave of energy rising with your</p>
+<p begin="00:23:13.280" end="00:23:25.570" style="s2">breath to breathe from your roots</p>
+<p begin="00:23:19.510" end="00:23:25.570" style="s2">through ballet your hearts your throats</p>
+<p begin="00:23:25.690" end="00:23:31.440" style="s2">the seed of your knowledge your head</p>
+<p begin="00:23:31.760" end="00:23:38.210" style="s2">breathing steadily in and out</p>
+<p begin="00:23:41.320" end="00:23:48.870" style="s2">observe the sensations in your body you</p>
+<p begin="00:23:44.470" end="00:23:48.870" style="s2">feel your breath rise up within you</p>
+<p begin="00:23:51.660" end="00:23:56.790" style="s2">see your breath it&#39;s a wave of energy</p>
+<p begin="00:23:54.440" end="00:24:00.270" style="s2">rising up your spine with every breath</p>
+<p begin="00:23:56.790" end="00:24:02.470" style="s2">in and as a breath falls from your body</p>
+<p begin="00:24:00.270" end="00:24:05.619" style="s2">your body fully relaxed</p>
+<p begin="00:24:02.470" end="00:24:05.619" style="s2">[Music]</p>
+<p begin="00:24:09.120" end="00:24:15.210" style="s2">as we move towards a deeper fuller</p>
+<p begin="00:24:11.880" end="00:24:20.370" style="s2">powerful breath you&#39;ll fill your lungs</p>
+<p begin="00:24:15.210" end="00:24:25.040" style="s2">to the top breathe fully in three two</p>
+<p begin="00:24:20.370" end="00:24:28.860" style="s2">one let it go three two one</p>
+<p begin="00:24:25.040" end="00:24:35.690" style="s2">deeply in three two one</p>
+<p begin="00:24:28.860" end="00:24:38.580" style="s2">out three two one in three two one out</p>
+<p begin="00:24:35.690" end="00:24:40.760" style="s2">three two one</p>
+<p begin="00:24:38.580" end="00:24:40.760" style="s2">and</p>
+<p begin="00:24:41.140" end="00:24:43.710" style="s2">out</p>
+<p begin="00:24:43.990" end="00:24:46.560" style="s2">and</p>
+<p begin="00:24:47.030" end="00:24:53.720" style="s2">out fully aware of the control over your</p>
+<p begin="00:24:50.900" end="00:24:57.040" style="s2">breath as you breathe fully in and out</p>
+<p begin="00:24:53.720" end="00:24:59.860" style="s2">the deep rhythmic connected breath</p>
+<p begin="00:24:57.040" end="00:25:03.560" style="s2">breathing from the base of your spine</p>
+<p begin="00:24:59.860" end="00:25:07.160" style="s2">the wave of energy rising up through you</p>
+<p begin="00:25:03.560" end="00:25:09.170" style="s2">but your body move with this wave your</p>
+<p begin="00:25:07.160" end="00:25:12.440" style="s2">chest lifts up towards the sky as you</p>
+<p begin="00:25:09.170" end="00:25:16.070" style="s2">breathe in your body fully relaxes as</p>
+<p begin="00:25:12.440" end="00:25:20.150" style="s2">you breathe out we&#39;re you getting deep</p>
+<p begin="00:25:16.070" end="00:25:22.550" style="s2">in your belly two ribs expand the wave</p>
+<p begin="00:25:20.150" end="00:25:27.660" style="s2">of energy rising up through your body</p>
+<p begin="00:25:22.550" end="00:25:31.080" style="s2">[Music]</p>
+<p begin="00:25:27.660" end="00:25:35.370" style="s2">you&#39;re aware of sensations the tingling</p>
+<p begin="00:25:31.080" end="00:25:42.770" style="s2">in your fingers lightness your arms and</p>
+<p begin="00:25:35.370" end="00:25:47.390" style="s2">legs breathe deeply in and let it go</p>
+<p begin="00:25:42.770" end="00:25:47.390" style="s2">wave after wave of breaths</p>
+<p begin="00:25:48.400" end="00:25:57.640" style="s2">fully in with every breath deeper then</p>
+<p begin="00:25:53.060" end="00:25:57.640" style="s2">you need your mind is on your breath</p>
+<p begin="00:25:57.670" end="00:26:05.300" style="s2">you&#39;re aware of your body narrow focus</p>
+<p begin="00:26:02.420" end="00:26:08.930" style="s2">of your breath feel the rush of air</p>
+<p begin="00:26:05.300" end="00:26:11.370" style="s2">moving through you a wave of energy to</p>
+<p begin="00:26:08.930" end="00:26:21.600" style="s2">breathe deeply in and out</p>
+<p begin="00:26:11.370" end="00:26:25.490" style="s2">[Music]</p>
+<p begin="00:26:21.600" end="00:26:25.490" style="s2">mine stays with your breath</p>
+<p begin="00:26:28.720" end="00:26:35.430" style="s2">you feeling numbness around your nose</p>
+<p begin="00:26:30.580" end="00:26:35.430" style="s2">and mouth you&#39;re in full control</p>
+<p begin="00:26:39.980" end="00:26:53.320" style="s2">breathe five more breaths deeply and let</p>
+<p begin="00:26:45.560" end="00:27:01.790" style="s2">it go deeply and let it go</p>
+<p begin="00:26:53.320" end="00:27:05.930" style="s2">deeply and let it go deeply and let it</p>
+<p begin="00:27:01.790" end="00:27:09.620" style="s2">go last breath breathe deeply in a small</p>
+<p begin="00:27:05.930" end="00:27:14.060" style="s2">hole to the top of your lungs and let it</p>
+<p begin="00:27:09.620" end="00:27:18.000" style="s2">go and hold without air</p>
+<p begin="00:27:14.060" end="00:27:18.000" style="s2">[Music]</p>
+<p begin="00:27:21.240" end="00:27:26.700" style="s2">narrow focus on your breath it&#39;s gone</p>
+<p begin="00:27:24.649" end="00:27:31.500" style="s2">surrender to this moment of your breath</p>
+<p begin="00:27:26.700" end="00:27:35.510" style="s2">hold you&#39;re Wearing&#39;s expand the full</p>
+<p begin="00:27:31.500" end="00:27:35.510" style="s2">insights to your mind</p>
+<p begin="00:27:37.559" end="00:27:44.139" style="s2">body relaxes</p>
+<p begin="00:27:40.330" end="00:27:46.889" style="s2">push past your desire to breathe deep</p>
+<p begin="00:27:44.139" end="00:27:46.889" style="s2">within your body</p>
+<p begin="00:27:49.400" end="00:27:55.970" style="s2">you feel an air hunger build within you</p>
+<p begin="00:27:53.110" end="00:27:59.530" style="s2">focus on where that energy is that</p>
+<p begin="00:27:55.970" end="00:28:03.770" style="s2">anxiety and stress is coming from</p>
+<p begin="00:27:59.530" end="00:28:12.910" style="s2">becomes too strong a sip of air in and</p>
+<p begin="00:28:03.770" end="00:28:12.910" style="s2">out and hold your body relaxes</p>
+<p begin="00:28:15.170" end="00:28:33.710" style="s2">[Music]</p>
+<p begin="00:28:29.780" end="00:28:38.780" style="s2">breathe full in and hold at the top of</p>
+<p begin="00:28:33.710" end="00:28:41.560" style="s2">your lungs hold feel a rush of energy</p>
+<p begin="00:28:38.780" end="00:28:41.560" style="s2">through your body</p>
+<p begin="00:28:42.260" end="00:28:48.530" style="s2">Russia bless</p>
+<p begin="00:28:44.290" end="00:28:48.530" style="s2">[Music]</p>
+<p begin="00:28:48.980" end="00:28:52.030" style="s2">let it go</p>
+<p begin="00:28:55.170" end="00:29:03.090" style="s2">breathe deeply in three two one out</p>
+<p begin="00:29:00.140" end="00:29:06.890" style="s2">three two one</p>
+<p begin="00:29:03.090" end="00:29:08.730" style="s2">in out</p>
+<p begin="00:29:06.890" end="00:29:11.740" style="s2">[Music]</p>
+<p begin="00:29:08.730" end="00:29:14.909" style="s2">deeply and</p>
+<p begin="00:29:11.740" end="00:29:21.150" style="s2">let it go</p>
+<p begin="00:29:14.909" end="00:29:24.299" style="s2">deeply and let it go find your rhythm</p>
+<p begin="00:29:21.150" end="00:29:26.590" style="s2">breathing deeply in with every breath in</p>
+<p begin="00:29:24.299" end="00:29:30.030" style="s2">breathing from your root for the wave of</p>
+<p begin="00:29:26.590" end="00:29:36.330" style="s2">energy rising up your spine to breathe</p>
+<p begin="00:29:30.030" end="00:29:36.330" style="s2">deeply in with every breath deep in full</p>
+<p begin="00:29:36.930" end="00:29:40.980" style="s2">see your breath is a wave of energy</p>
+<p begin="00:29:38.850" end="00:29:41.410" style="s2">rising up your spine with every breath</p>
+<p begin="00:29:40.980" end="00:29:46.610" style="s2">in</p>
+<p begin="00:29:41.410" end="00:29:48.870" style="s2">[Music]</p>
+<p begin="00:29:46.610" end="00:29:52.580" style="s2">in full control of your breath</p>
+<p begin="00:29:48.870" end="00:29:52.580" style="s2">[Music]</p>
+<p begin="00:29:57.210" end="00:30:02.200" style="s2">breathe deep from your belly breathing</p>
+<p begin="00:30:00.929" end="00:30:06.609" style="s2">up through your body</p>
+<p begin="00:30:02.200" end="00:30:06.609" style="s2">[Music]</p>
+<p begin="00:30:06.680" end="00:30:12.260" style="s2">imagine this energy is rising from your</p>
+<p begin="00:30:09.140" end="00:30:15.410" style="s2">feet as you breathe in rising from your</p>
+<p begin="00:30:12.260" end="00:30:18.680" style="s2">hands as you breathe in breathing fully</p>
+<p begin="00:30:15.410" end="00:30:23.120" style="s2">into your head with every breath the</p>
+<p begin="00:30:18.680" end="00:30:24.240" style="s2">wave of energy rising up deep full</p>
+<p begin="00:30:23.120" end="00:30:32.760" style="s2">breaths</p>
+<p begin="00:30:24.240" end="00:30:36.540" style="s2">[Music]</p>
+<p begin="00:30:32.760" end="00:30:38.570" style="s2">fingers begin to tingle your arms feel</p>
+<p begin="00:30:36.540" end="00:30:40.640" style="s2">lights</p>
+<p begin="00:30:38.570" end="00:30:43.540" style="s2">you&#39;re Wearing&#39;s of your body expands</p>
+<p begin="00:30:40.640" end="00:30:47.160" style="s2">beyond yourself</p>
+<p begin="00:30:43.540" end="00:30:47.160" style="s2">in deeply and</p>
+<p begin="00:30:48.130" end="00:30:56.100" style="s2">wave after wave of breath rising through</p>
+<p begin="00:30:51.990" end="00:31:02.220" style="s2">deeper and fuller ten more breaths</p>
+<p begin="00:30:56.100" end="00:31:02.220" style="s2">deeply and let it go</p>
+<p begin="00:31:03.600" end="00:31:06.730" style="s2">[Music]</p>
+<p begin="00:31:09.090" end="00:31:13.470" style="s2">you breathe and contract the muscles</p>
+<p begin="00:31:11.519" end="00:31:15.480" style="s2">from your pelvic floor and squeeze the</p>
+<p begin="00:31:13.470" end="00:31:20.190" style="s2">energy up for your spine with every</p>
+<p begin="00:31:15.480" end="00:31:25.320" style="s2">breath in deep full breaths the energy</p>
+<p begin="00:31:20.190" end="00:31:33.029" style="s2">rises fully relaxed as you let go five</p>
+<p begin="00:31:25.320" end="00:31:41.029" style="s2">more deeply and let it go deeply and let</p>
+<p begin="00:31:33.029" end="00:31:45.990" style="s2">it go deeply and let it go deeply and</p>
+<p begin="00:31:41.029" end="00:31:50.009" style="s2">let it go last breath breathe deeply in</p>
+<p begin="00:31:45.990" end="00:31:54.860" style="s2">holes for a second at the top and let it</p>
+<p begin="00:31:50.009" end="00:31:54.860" style="s2">go and hold</p>
+<p begin="00:31:55.100" end="00:31:58.210" style="s2">you&#39;re mine go</p>
+<p begin="00:32:12.190" end="00:32:16.350" style="s2">it&#39;s Randor to this moment of your</p>
+<p begin="00:32:13.930" end="00:32:16.350" style="s2">breath hold</p>
+<p begin="00:32:16.900" end="00:32:20.900" style="s2">mine turns inwards explore your</p>
+<p begin="00:32:20.020" end="00:32:24.339" style="s2">subconscious</p>
+<p begin="00:32:20.900" end="00:32:24.339" style="s2">[Music]</p>
+<p begin="00:32:25.620" end="00:32:34.750" style="s2">and to realize your true self</p>
+<p begin="00:32:29.090" end="00:32:34.750" style="s2">your true nature deep within your mind</p>
+<p begin="00:32:35.700" end="00:32:38.630" style="s2">begin to awaken</p>
+<p begin="00:32:40.210" end="00:32:44.220" style="s2">push deep within your breath hold</p>
+<p begin="00:32:44.750" end="00:32:49.830" style="s2">relax</p>
+<p begin="00:32:47.250" end="00:32:52.880" style="s2">your body go</p>
+<p begin="00:32:49.830" end="00:32:57.290" style="s2">to mine wake up</p>
+<p begin="00:32:52.880" end="00:33:02.300" style="s2">but air hunger becomes too strong a sip</p>
+<p begin="00:32:57.290" end="00:33:02.610" style="s2">of air in and out hole deeper into your</p>
+<p begin="00:33:02.300" end="00:33:06.630" style="s2">body</p>
+<p begin="00:33:02.610" end="00:33:06.630" style="s2">[Music]</p>
+<p begin="00:33:07.460" end="00:33:12.399" style="s2">and feel a connection deep within</p>
+<p begin="00:33:13.070" end="00:33:18.920" style="s2">you can feel a connection to something</p>
+<p begin="00:33:14.810" end="00:33:20.390" style="s2">greater something unknown and mysterious</p>
+<p begin="00:33:18.920" end="00:33:22.530" style="s2">vo deep within</p>
+<p begin="00:33:20.390" end="00:33:26.370" style="s2">[Music]</p>
+<p begin="00:33:22.530" end="00:33:28.200" style="s2">breathe fully in and hold at the top of</p>
+<p begin="00:33:26.370" end="00:33:30.350" style="s2">your lungs and squeeze from your root</p>
+<p begin="00:33:28.200" end="00:33:33.960" style="s2">squeeze from the pelvic floor squeeze</p>
+<p begin="00:33:30.350" end="00:33:36.090" style="s2">through your spine up through your body</p>
+<p begin="00:33:33.960" end="00:33:38.340" style="s2">squeeze the cerebral spinal fluid back</p>
+<p begin="00:33:36.090" end="00:33:41.640" style="s2">into your brain squeeze of that</p>
+<p begin="00:33:38.340" end="00:33:46.440" style="s2">hegemonic on the seat of knowledge and</p>
+<p begin="00:33:41.640" end="00:33:49.790" style="s2">power seat of who you are feel the rush</p>
+<p begin="00:33:46.440" end="00:33:49.790" style="s2">of lists and energy</p>
+<p begin="00:33:51.049" end="00:33:54.220" style="s2">let it go</p>
+<p begin="00:33:58.560" end="00:34:14.850" style="s2">breathe deeply and let it go deeply and</p>
+<p begin="00:34:07.130" end="00:34:18.090" style="s2">let it go deeply and let it go deeper</p>
+<p begin="00:34:14.850" end="00:34:20.909" style="s2">fuller quicker than before deep full</p>
+<p begin="00:34:18.090" end="00:34:24.810" style="s2">rhythmic breaths charge in your body</p>
+<p begin="00:34:20.909" end="00:34:27.240" style="s2">find your rhythm deep fast breath</p>
+<p begin="00:34:24.810" end="00:34:29.640" style="s2">filling your body all the way up the</p>
+<p begin="00:34:27.240" end="00:34:33.060" style="s2">rise of energy rising up your spine with</p>
+<p begin="00:34:29.640" end="00:34:39.510" style="s2">every breath your body fully relaxes as</p>
+<p begin="00:34:33.060" end="00:34:42.300" style="s2">you let go deeply in let it go deep full</p>
+<p begin="00:34:39.510" end="00:34:45.060" style="s2">breaths there every breath in feel the</p>
+<p begin="00:34:42.300" end="00:34:49.080" style="s2">rise from your roots base of your spine</p>
+<p begin="00:34:45.060" end="00:34:53.250" style="s2">your sacrum your breath rises up through</p>
+<p begin="00:34:49.080" end="00:35:00.090" style="s2">you to breathe up from your feet</p>
+<p begin="00:34:53.250" end="00:35:03.090" style="s2">the energy rise is deeply in with every</p>
+<p begin="00:35:00.090" end="00:35:04.780" style="s2">breath your body fully goes the air</p>
+<p begin="00:35:03.090" end="00:35:12.200" style="s2">falls from you</p>
+<p begin="00:35:04.780" end="00:35:16.329" style="s2">[Music]</p>
+<p begin="00:35:12.200" end="00:35:16.329" style="s2">for that wave move through you</p>
+<p begin="00:35:18.830" end="00:35:26.139" style="s2">deeply in with every breath</p>
+<p begin="00:35:22.960" end="00:35:26.139" style="s2">[Music]</p>
+<p begin="00:35:27.250" end="00:35:35.130" style="s2">your awareness of self expands beyond</p>
+<p begin="00:35:29.590" end="00:35:35.130" style="s2">your body your sense of self expands</p>
+<p begin="00:35:41.980" end="00:35:49.530" style="s2">deeply in and out deep waves of energy</p>
+<p begin="00:35:46.690" end="00:35:52.090" style="s2">moving through your body</p>
+<p begin="00:35:49.530" end="00:35:55.500" style="s2">[Music]</p>
+<p begin="00:35:52.090" end="00:35:57.580" style="s2">this wave of energy rising up your spine</p>
+<p begin="00:35:55.500" end="00:36:00.510" style="s2">the movement of energy through your</p>
+<p begin="00:35:57.580" end="00:36:00.510" style="s2">spine into your head</p>
+<p begin="00:36:02.980" end="00:36:13.839" style="s2">deeply in and out deeply in and that&#39;s</p>
+<p begin="00:36:10.450" end="00:36:13.839" style="s2">ten more</p>
+<p begin="00:36:19.380" end="00:36:26.880" style="s2">full rhythmic circular breaths your body</p>
+<p begin="00:36:23.610" end="00:36:27.300" style="s2">go the tingling and numbness in your</p>
+<p begin="00:36:26.880" end="00:36:33.110" style="s2">body</p>
+<p begin="00:36:27.300" end="00:36:40.550" style="s2">the rise of emotions observe understands</p>
+<p begin="00:36:33.110" end="00:36:48.300" style="s2">five more deeply in vladica deeply and</p>
+<p begin="00:36:40.550" end="00:36:52.650" style="s2">vladica deeply in vladica deeply and let</p>
+<p begin="00:36:48.300" end="00:36:56.190" style="s2">it go last breath breathe fully in holes</p>
+<p begin="00:36:52.650" end="00:37:01.310" style="s2">per second at the top and let it go and</p>
+<p begin="00:36:56.190" end="00:37:04.190" style="s2">hold without air let it go</p>
+<p begin="00:37:01.310" end="00:37:08.540" style="s2">[Music]</p>
+<p begin="00:37:04.190" end="00:37:11.080" style="s2">mr. mine free free to explore deep</p>
+<p begin="00:37:08.540" end="00:37:11.080" style="s2">within</p>
+<p begin="00:37:11.460" end="00:37:21.199" style="s2">your subconscious wake up</p>
+<p begin="00:37:13.190" end="00:37:21.199" style="s2">[Music]</p>
+<p begin="00:37:33.470" end="00:37:38.790" style="s2">your eyes roll up in your hat you look</p>
+<p begin="00:37:37.340" end="00:37:41.040" style="s2">towards your midbrain</p>
+<p begin="00:37:38.790" end="00:37:44.210" style="s2">[Music]</p>
+<p begin="00:37:41.040" end="00:37:44.210" style="s2">hegemonic on</p>
+<p begin="00:38:10.380" end="00:38:14.539" style="s2">aware of any sensations in your body</p>
+<p begin="00:38:19.280" end="00:38:23.650" style="s2">if you location of stress and energy</p>
+<p begin="00:38:25.810" end="00:38:31.850" style="s2">short sip of air if you need hole deeper</p>
+<p begin="00:38:31.570" end="00:38:38.489" style="s2">within</p>
+<p begin="00:38:31.850" end="00:38:38.489" style="s2">[Music]</p>
+<p begin="00:38:38.840" end="00:38:50.570" style="s2">breathe full in and hole to the top of</p>
+<p begin="00:38:43.520" end="00:38:53.690" style="s2">your lungs squeeze up your spine see a</p>
+<p begin="00:38:50.570" end="00:38:56.120" style="s2">ball of energy around your body to hold</p>
+<p begin="00:38:53.690" end="00:38:58.760" style="s2">this ball of energy expands beyond you</p>
+<p begin="00:38:56.120" end="00:39:01.040" style="s2">fills this room in this building fills</p>
+<p begin="00:38:58.760" end="00:39:03.920" style="s2">this city and expands beyond this planet</p>
+<p begin="00:39:01.040" end="00:39:07.360" style="s2">this ball of energy expands beyond the</p>
+<p begin="00:39:03.920" end="00:39:10.530" style="s2">universe and connects to the light</p>
+<p begin="00:39:07.360" end="00:39:10.530" style="s2">feel this presence</p>
+<p begin="00:39:12.510" end="00:39:20.510" style="s2">open your mind to this experience let it</p>
+<p begin="00:39:18.329" end="00:39:20.510" style="s2">go</p>
+<p begin="00:39:22.040" end="00:39:30.520" style="s2">return to your normal breath your eyes</p>
+<p begin="00:39:25.250" end="00:39:30.520" style="s2">closed you&#39;re calm and relaxed</p>
+<p begin="00:39:31.720" end="00:39:37.000" style="s2">[Music]</p>
+<p begin="00:39:33.830" end="00:39:37.000" style="s2">your mind is open</p>
+<p begin="00:39:38.110" end="00:39:42.660" style="s2">and your awareness to your hearts</p>
+<p begin="00:39:43.970" end="00:39:47.560" style="s2">the emotional center</p>
+<p begin="00:39:47.610" end="00:39:53.540" style="s2">observe the sensations and the emotion</p>
+<p begin="00:39:50.580" end="00:39:55.210" style="s2">sitting in your heart</p>
+<p begin="00:39:53.540" end="00:39:57.819" style="s2">[Music]</p>
+<p begin="00:39:55.210" end="00:39:58.130" style="s2">and bring to mind the face of a loved</p>
+<p begin="00:39:57.819" end="00:40:00.330" style="s2">one</p>
+<p begin="00:39:58.130" end="00:40:05.330" style="s2">[Music]</p>
+<p begin="00:40:00.330" end="00:40:05.330" style="s2">family member chairs pets</p>
+<p begin="00:40:06.390" end="00:40:15.450" style="s2">we&#39;re an experience you love bring to</p>
+<p begin="00:40:09.750" end="00:40:20.490" style="s2">mind this image feel the emotions in</p>
+<p begin="00:40:15.450" end="00:40:26.970" style="s2">your heart grow through the hearts the</p>
+<p begin="00:40:20.490" end="00:40:31.740" style="s2">joy love be aware the beat of your</p>
+<p begin="00:40:26.970" end="00:40:32.180" style="s2">hearts the rhythm feel the pulse through</p>
+<p begin="00:40:31.740" end="00:40:40.649" style="s2">your body</p>
+<p begin="00:40:32.180" end="00:40:40.649" style="s2">[Music]</p>
+<p begin="00:40:41.170" end="00:40:47.060" style="s2">see your hearts as a pulsing lights of</p>
+<p begin="00:40:44.650" end="00:40:49.370" style="s2">energy within you</p>
+<p begin="00:40:47.060" end="00:40:52.820" style="s2">now there every pulse is feeling of joy</p>
+<p begin="00:40:49.370" end="00:40:58.760" style="s2">and love pulses through your body so you</p>
+<p begin="00:40:52.820" end="00:41:01.580" style="s2">feel this joy and this love but every</p>
+<p begin="00:40:58.760" end="00:41:03.880" style="s2">cell of your body every fiber of your</p>
+<p begin="00:41:01.580" end="00:41:03.880" style="s2">being</p>
+<p begin="00:41:04.470" end="00:41:09.869" style="s2">see those pulse of light radiates from</p>
+<p begin="00:41:07.450" end="00:41:09.869" style="s2">your chest</p>
+<p begin="00:41:10.560" end="00:41:16.230" style="s2">radiates away from your body for this</p>
+<p begin="00:41:14.320" end="00:41:19.210" style="s2">room</p>
+<p begin="00:41:16.230" end="00:41:22.780" style="s2">see your loved ones</p>
+<p begin="00:41:19.210" end="00:41:28.500" style="s2">the pulse of your hearts radiates upon</p>
+<p begin="00:41:22.780" end="00:41:28.500" style="s2">them see your colleagues</p>
+<p begin="00:41:28.730" end="00:41:37.030" style="s2">see the strangers in the streets the</p>
+<p begin="00:41:33.500" end="00:41:37.030" style="s2">unknown people in the coffee shop</p>
+<p begin="00:41:37.070" end="00:41:43.400" style="s2">it&#39;s pulse of love enjoying your heart</p>
+<p begin="00:41:40.080" end="00:41:43.400" style="s2">radiates from your body</p>
+<p begin="00:41:45.710" end="00:41:57.020" style="s2">allow this sensation this joy and this</p>
+<p begin="00:41:49.910" end="00:42:01.359" style="s2">love be your meaning your purpose you</p>
+<p begin="00:41:57.020" end="00:42:01.359" style="s2">see your life this entirety</p>
+<p begin="00:42:10.730" end="00:42:14.430" style="s2">as you pause</p>
+<p begin="00:42:12.870" end="00:42:15.780" style="s2">[Music]</p>
+<p begin="00:42:14.430" end="00:42:17.520" style="s2">to reflect</p>
+<p begin="00:42:15.780" end="00:42:21.530" style="s2">[Music]</p>
+<p begin="00:42:17.520" end="00:42:21.530" style="s2">to observe who you truly are</p>
+<p begin="00:42:23.589" end="00:42:29.080" style="s2">who you truly want to be</p>
+<p begin="00:42:25.390" end="00:42:29.080" style="s2">[Music]</p>
+<p begin="00:42:35.690" end="00:42:41.180" style="s2">see yourself come back into your body</p>
+<p begin="00:42:38.470" end="00:42:43.450" style="s2">you feel the rush of cool air through</p>
+<p begin="00:42:41.180" end="00:42:43.450" style="s2">your nose</p>
+<p begin="00:42:43.520" end="00:42:50.770" style="s2">the rise and fall of your belly through</p>
+<p begin="00:42:47.840" end="00:42:53.950" style="s2">the contact of your body in the chair</p>
+<p begin="00:42:50.770" end="00:42:55.960" style="s2">come back to this time and place</p>
+<p begin="00:42:53.950" end="00:43:02.660" style="s2">[Music]</p>
+<p begin="00:42:55.960" end="00:43:05.090" style="s2">you wiggle your fingers toes move your</p>
+<p begin="00:43:02.660" end="00:43:07.610" style="s2">arms around some movement back into your</p>
+<p begin="00:43:05.090" end="00:43:15.560" style="s2">body as you come back into this room</p>
+<p begin="00:43:07.610" end="00:43:17.070" style="s2">[Music]</p>
+<p begin="00:43:15.560" end="00:43:20.189" style="s2">you can do open your eyes</p>
+<p begin="00:43:17.070" end="00:43:20.189" style="s2">[Music]</p>
+<p begin="00:43:28.310" end="00:43:37.450" style="s2">[Music]</p>
+<p begin="00:43:34.220" end="00:43:42.390" style="s2">not sure if that&#39;s how the Greeks did it</p>
+<p begin="00:43:37.450" end="00:43:42.390" style="s2">that&#39;s why I do it I&#39;m Scottish those</p>
+<p begin="00:43:44.940" end="00:43:52.230" style="s2">I do this practice every day and it</p>
+<p begin="00:43:48.420" end="00:43:56.280" style="s2">gives me a moment to look at myself feel</p>
+<p begin="00:43:52.230" end="00:44:01.890" style="s2">and understand to reflect gives me</p>
+<p begin="00:43:56.280" end="00:44:04.620" style="s2">clarity every day I do this not</p>
+<p begin="00:44:01.890" end="00:44:07.260" style="s2">necessarily all this some ways smaller</p>
+<p begin="00:44:04.620" end="00:44:09.200" style="s2">have a little saying I like to keep with</p>
+<p begin="00:44:07.260" end="00:44:14.240" style="s2">me</p>
+<p begin="00:44:09.200" end="00:44:17.240" style="s2">stop drop and breathe it&#39;s great little</p>
+<p begin="00:44:14.240" end="00:44:19.700" style="s2">saying we&#39;re near a little kid in school</p>
+<p begin="00:44:17.240" end="00:44:22.789" style="s2">and the firefighters came I said when</p>
+<p begin="00:44:19.700" end="00:44:26.839" style="s2">you catch on fire I&#39;m gonna catch</p>
+<p begin="00:44:22.789" end="00:44:28.970" style="s2">on fire I don&#39;t want to grow up catch on</p>
+<p begin="00:44:26.839" end="00:44:30.859" style="s2">fire on the inside all the time when we</p>
+<p begin="00:44:28.970" end="00:44:33.200" style="s2">catch on fire on the inside when that</p>
+<p begin="00:44:30.859" end="00:44:36.230" style="s2">limbic system starts firing and takes</p>
+<p begin="00:44:33.200" end="00:44:39.069" style="s2">over takes over who we are it&#39;s this</p>
+<p begin="00:44:36.230" end="00:44:42.280" style="s2">part that&#39;s us the hegemonic on</p>
+<p begin="00:44:39.069" end="00:44:44.620" style="s2">prefrontal cortex</p>
+<p begin="00:44:42.280" end="00:44:48.120" style="s2">it goes quiet so when you&#39;re feeling</p>
+<p begin="00:44:44.620" end="00:44:50.170" style="s2">that fire inside stop what you&#39;re doing</p>
+<p begin="00:44:48.120" end="00:44:52.570" style="s2">plus you&#39;re driving on the highway then</p>
+<p begin="00:44:50.170" end="00:44:58.510" style="s2">do it later stop what you&#39;re doing</p>
+<p begin="00:44:52.570" end="00:44:59.170" style="s2">drop into the moments and breathe it&#39;s</p>
+<p begin="00:44:58.510" end="00:45:03.720" style="s2">that simple</p>
+<p begin="00:44:59.170" end="00:45:10.200" style="s2">breathe the pneuma the source of life</p>
+<p begin="00:45:03.720" end="00:45:10.200" style="s2">allows you to reflect thanks</p>
+<p begin="00:45:13.920" end="00:45:17.039" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

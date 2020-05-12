@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.620" end="00:00:06.629" style="s2">we are live welcome to our idea cafe I&#39;m</p>
+<p begin="00:00:05.190" end="00:00:08.069" style="s2">gonna say first one because the first</p>
+<p begin="00:00:06.629" end="00:00:10.019" style="s2">one we have two other people show up for</p>
+<p begin="00:00:08.069" end="00:00:13.650" style="s2">it&#39;s really the second one and so</p>
+<p begin="00:00:10.019" end="00:00:17.400" style="s2">today&#39;s question is what is a common</p>
+<p begin="00:00:13.650" end="00:00:19.560" style="s2">critique you get about your project in a</p>
+<p begin="00:00:17.400" end="00:00:20.880" style="s2">and idea cafe everyone takes up to five</p>
+<p begin="00:00:19.560" end="00:00:22.980" style="s2">minutes to share we might want to keep</p>
+<p begin="00:00:20.880" end="00:00:24.119" style="s2">it a little close if you could go less</p>
+<p begin="00:00:22.980" end="00:00:26.490" style="s2">than five minutes that was perfectly</p>
+<p begin="00:00:24.119" end="00:00:27.750" style="s2">fine it&#39;s also okay to pass especially</p>
+<p begin="00:00:26.490" end="00:00:29.279" style="s2">for someone who let&#39;s say doesn&#39;t have a</p>
+<p begin="00:00:27.750" end="00:00:30.990" style="s2">project that wants to be part of the</p>
+<p begin="00:00:29.279" end="00:00:32.969" style="s2">open conversation at the end I&#39;m always</p>
+<p begin="00:00:30.990" end="00:00:34.980" style="s2">happy to start or go last or go at any</p>
+<p begin="00:00:32.969" end="00:00:36.960" style="s2">point when there is another moment of</p>
+<p begin="00:00:34.980" end="00:00:42.780" style="s2">silence so who would like to start in</p>
+<p begin="00:00:36.960" end="00:00:45.899" style="s2">answering the question right and then</p>
+<p begin="00:00:42.780" end="00:00:49.890" style="s2">everyone else can just mute so yeah so a</p>
+<p begin="00:00:45.899" end="00:00:51.930" style="s2">quick overview my project it&#39;s reason</p>
+<p begin="00:00:49.890" end="00:00:53.969" style="s2">score it&#39;s a tool for helping people</p>
+<p begin="00:00:51.930" end="00:01:00.949" style="s2">come to agreement over contentious</p>
+<p begin="00:00:53.969" end="00:01:00.949" style="s2">issues the the part of the most common</p>
+<p begin="00:01:01.070" end="00:01:08.159" style="s2">counter I get when I am describing it is</p>
+<p begin="00:01:04.229" end="00:01:11.549" style="s2">that&#39;s impossible it&#39;s just hard to</p>
+<p begin="00:01:08.159" end="00:01:18.030" style="s2">believe that you can find a tool that</p>
+<p begin="00:01:11.549" end="00:01:21.540" style="s2">can help or that you know here&#39;s here&#39;s</p>
+<p begin="00:01:18.030" end="00:01:23.610" style="s2">a reason that yeah that you can&#39;t it</p>
+<p begin="00:01:21.540" end="00:01:25.290" style="s2">uses numbers in math and some</p>
+<p begin="00:01:23.610" end="00:01:28.920" style="s2">quantifications and they say you can&#39;t</p>
+<p begin="00:01:25.290" end="00:01:31.920" style="s2">quantify decision-making and that&#39;s true</p>
+<p begin="00:01:28.920" end="00:01:33.990" style="s2">to an extent but having the numbers kind</p>
+<p begin="00:01:31.920" end="00:01:36.329" style="s2">of helps so that&#39;s that&#39;s the most</p>
+<p begin="00:01:33.990" end="00:01:38.759" style="s2">common I think that&#39;s the most common</p>
+<p begin="00:01:36.329" end="00:01:40.409" style="s2">kind of complaint I get about it when</p>
+<p begin="00:01:38.759" end="00:01:44.009" style="s2">I&#39;m trying to describe the initial do</p>
+<p begin="00:01:40.409" end="00:01:48.750" style="s2">the initial pitch oh yeah a lot of</p>
+<p begin="00:01:44.009" end="00:01:52.079" style="s2">people just don&#39;t like putting having a</p>
+<p begin="00:01:48.750" end="00:01:54.390" style="s2">computer give you numbers on a decision</p>
+<p begin="00:01:52.079" end="00:02:00.479" style="s2">they&#39;re having to make they seem to find</p>
+<p begin="00:01:54.390" end="00:02:02.369" style="s2">that repulsive and they can&#39;t explain to</p>
+<p begin="00:02:00.479" end="00:02:06.049" style="s2">me why yeah I&#39;m working as people so</p>
+<p begin="00:02:02.369" end="00:02:06.049" style="s2">that&#39;s my answer</p>
+<p begin="00:02:06.800" end="00:02:11.880" style="s2">thanks Bentley who would like to go next</p>
+<p begin="00:02:08.640" end="00:02:16.410" style="s2">reduce razor handle and meet you or I</p>
+<p begin="00:02:11.880" end="00:02:19.380" style="s2">can go alright Brad I&#39;ll write a brief</p>
+<p begin="00:02:16.410" end="00:02:21.540" style="s2">overview of my project is a urban</p>
+<p begin="00:02:19.380" end="00:02:26.760" style="s2">agriculture venture in Columbus Ohio</p>
+<p begin="00:02:21.540" end="00:02:28.800" style="s2">where we live my wife and I the it&#39;s a</p>
+<p begin="00:02:26.760" end="00:02:31.350" style="s2">social enterprise so we&#39;re trying to</p>
+<p begin="00:02:28.800" end="00:02:33.900" style="s2">solve a social problem mainly food</p>
+<p begin="00:02:31.350" end="00:02:36.030" style="s2">deserts the part of town I live in is</p>
+<p begin="00:02:33.900" end="00:02:38.010" style="s2">becoming a through desert in the south</p>
+<p begin="00:02:36.030" end="00:02:39.360" style="s2">part in the east part are currently</p>
+<p begin="00:02:38.010" end="00:02:42.270" style="s2">through deserts meaning they don&#39;t have</p>
+<p begin="00:02:39.360" end="00:02:44.730" style="s2">access to fresh fruits and vegetables so</p>
+<p begin="00:02:42.270" end="00:02:46.950" style="s2">our gas stations are closing down and</p>
+<p begin="00:02:44.730" end="00:02:50.310" style="s2">then stores are popping up inside the</p>
+<p begin="00:02:46.950" end="00:02:53.000" style="s2">old gas stations selling just box goods</p>
+<p begin="00:02:50.310" end="00:02:56.390" style="s2">some people are losing their lack of</p>
+<p begin="00:02:53.000" end="00:03:00.209" style="s2">produce so we&#39;re trying to remedy that</p>
+<p begin="00:02:56.390" end="00:03:05.610" style="s2">the common critique that I get is it&#39;s a</p>
+<p begin="00:03:00.209" end="00:03:07.440" style="s2">little bit too utopian specifically you</p>
+<p begin="00:03:05.610" end="00:03:10.320" style="s2">know this is what the market wants if</p>
+<p begin="00:03:07.440" end="00:03:13.980" style="s2">like the market didn&#39;t support this type</p>
+<p begin="00:03:10.320" end="00:03:16.200" style="s2">of thing it wouldn&#39;t happen so there&#39;s a</p>
+<p begin="00:03:13.980" end="00:03:19.170" style="s2">reason for happening which I agree there</p>
+<p begin="00:03:16.200" end="00:03:23.070" style="s2">is a reason it&#39;s not a good one in my</p>
+<p begin="00:03:19.170" end="00:03:26.340" style="s2">opinion so we&#39;re trying to solve that</p>
+<p begin="00:03:23.070" end="00:03:28.980" style="s2">and trying to prove something critics</p>
+<p begin="00:03:26.340" end="00:03:30.720" style="s2">wrong saying this is a project people</p>
+<p begin="00:03:28.980" end="00:03:33.840" style="s2">like Bill Gates and other people should</p>
+<p begin="00:03:30.720" end="00:03:36.390" style="s2">attend to and I&#39;d say a members</p>
+<p begin="00:03:33.840" end="00:03:38.280" style="s2">community that&#39;s caught up in that sort</p>
+<p begin="00:03:36.390" end="00:03:41.959" style="s2">of thing so that&#39;s a word trying to up</p>
+<p begin="00:03:38.280" end="00:03:41.959" style="s2">the salt Ford</p>
+<p begin="00:03:48.190" end="00:03:54.880" style="s2">guys like myself right</p>
+<p begin="00:03:52.480" end="00:03:58.300" style="s2">I&#39;m a drill my project is wiki election</p>
+<p begin="00:03:54.880" end="00:04:01.960" style="s2">it is attempting to yes solve the</p>
+<p begin="00:03:58.300" end="00:04:04.510" style="s2">problem of misinformation so in a bit of</p>
+<p begin="00:04:01.960" end="00:04:06.010" style="s2">a hard one because part of the critique</p>
+<p begin="00:04:04.510" end="00:04:07.600" style="s2">is I think not one people have</p>
+<p begin="00:04:06.010" end="00:04:09.040" style="s2">explicitly said but it&#39;s definitely</p>
+<p begin="00:04:07.600" end="00:04:11.470" style="s2">implied where they just have a problem</p>
+<p begin="00:04:09.040" end="00:04:14.080" style="s2">understanding it where it&#39;s sort of two</p>
+<p begin="00:04:11.470" end="00:04:18.040" style="s2">conceptual right now and it&#39;s trying to</p>
+<p begin="00:04:14.080" end="00:04:20.350" style="s2">do a lot of different things I think one</p>
+<p begin="00:04:18.040" end="00:04:21.609" style="s2">of the actual critiques that I&#39;ve gotten</p>
+<p begin="00:04:20.350" end="00:04:23.080" style="s2">is just how are you kind of going to</p>
+<p begin="00:04:21.609" end="00:04:25.750" style="s2">deal with trolls and people trying to</p>
+<p begin="00:04:23.080" end="00:04:28.330" style="s2">lie and people sort of trying to argue</p>
+<p begin="00:04:25.750" end="00:04:30.760" style="s2">their viewpoint on the platform haha how</p>
+<p begin="00:04:28.330" end="00:04:33.040" style="s2">would you counter that and a big part of</p>
+<p begin="00:04:30.760" end="00:04:35.050" style="s2">just having an emphasis on evidence and</p>
+<p begin="00:04:33.040" end="00:04:36.940" style="s2">kind of like what families talking about</p>
+<p begin="00:04:35.050" end="00:04:38.680" style="s2">trying to quantify that conversation</p>
+<p begin="00:04:36.940" end="00:04:43.840" style="s2">trying to sort of figure out how you can</p>
+<p begin="00:04:38.680" end="00:04:46.360" style="s2">actually put kind of a more quantitative</p>
+<p begin="00:04:43.840" end="00:04:48.160" style="s2">and qualitative approach to dissecting</p>
+<p begin="00:04:46.360" end="00:04:51.280" style="s2">it so if you can see where the evidence</p>
+<p begin="00:04:48.160" end="00:04:53.230" style="s2">actually lies who agrees with it that</p>
+<p begin="00:04:51.280" end="00:04:55.120" style="s2">kind of thing which as you can probably</p>
+<p begin="00:04:53.230" end="00:04:56.800" style="s2">tell there is a long answer and as part</p>
+<p begin="00:04:55.120" end="00:05:03.700" style="s2">of the challenge with explaining it</p>
+<p begin="00:04:56.800" end="00:05:08.950" style="s2">right that sounds like a you&#39;re done so</p>
+<p begin="00:05:03.700" end="00:05:11.020" style="s2">it&#39;s is okay all I need Susan okay so</p>
+<p begin="00:05:08.950" end="00:05:13.750" style="s2">the project that I&#39;ve been working on</p>
+<p begin="00:05:11.020" end="00:05:16.810" style="s2">for the last year is called the two row</p>
+<p begin="00:05:13.750" end="00:05:21.040" style="s2">flow cultural Commons and basically it</p>
+<p begin="00:05:16.810" end="00:05:24.940" style="s2">is a emerging space for settlers and</p>
+<p begin="00:05:21.040" end="00:05:28.200" style="s2">first peoples to make sense out of our</p>
+<p begin="00:05:24.940" end="00:05:30.580" style="s2">treaty relationship or relationships and</p>
+<p begin="00:05:28.200" end="00:05:32.080" style="s2">there are a couple common narratives</p>
+<p begin="00:05:30.580" end="00:05:35.440" style="s2">that have been established so we&#39;re</p>
+<p begin="00:05:32.080" end="00:05:39.250" style="s2">working to try to have discussion around</p>
+<p begin="00:05:35.440" end="00:05:41.560" style="s2">those to start as anyone who knows can I</p>
+<p begin="00:05:39.250" end="00:05:46.720" style="s2">just get a raise of hands who who</p>
+<p begin="00:05:41.560" end="00:05:49.870" style="s2">considers himself to be a settler okay</p>
+<p begin="00:05:46.720" end="00:05:52.510" style="s2">yeah so typically one of the first</p>
+<p begin="00:05:49.870" end="00:05:56.260" style="s2">critiques could be as to the word</p>
+<p begin="00:05:52.510" end="00:05:58.390" style="s2">settler as opposed to first peoples</p>
+<p begin="00:05:56.260" end="00:06:02.219" style="s2">because there&#39;s also immigrants but</p>
+<p begin="00:05:58.390" end="00:06:04.659" style="s2">there is a historical</p>
+<p begin="00:06:02.219" end="00:06:07.330" style="s2">president or in a historic history</p>
+<p begin="00:06:04.659" end="00:06:10.029" style="s2">behind this relationship which the</p>
+<p begin="00:06:07.330" end="00:06:12.849" style="s2">deeper you go into it the more totally</p>
+<p begin="00:06:10.029" end="00:06:15.729" style="s2">solid it is in fact the entire so-called</p>
+<p begin="00:06:12.849" end="00:06:17.229" style="s2">Canada is based on treaties by this</p>
+<p begin="00:06:15.729" end="00:06:20.830" style="s2">something that we&#39;re not taught as</p>
+<p begin="00:06:17.229" end="00:06:23.559" style="s2">settlers and so the idea of actually</p>
+<p begin="00:06:20.830" end="00:06:25.599" style="s2">revisiting something that was even prior</p>
+<p begin="00:06:23.559" end="00:06:28.839" style="s2">to the founding of this so-called Canada</p>
+<p begin="00:06:25.599" end="00:06:31.749" style="s2">is basically the biggest critique I get</p>
+<p begin="00:06:28.839" end="00:06:33.849" style="s2">is silence it&#39;s just not something</p>
+<p begin="00:06:31.749" end="00:06:36.939" style="s2">people want to deal with right it&#39;s like</p>
+<p begin="00:06:33.849" end="00:06:40.479" style="s2">it&#39;s out of their bandwidth it&#39;s sort of</p>
+<p begin="00:06:36.939" end="00:06:44.409" style="s2">arcane it&#39;s all of those classic settler</p>
+<p begin="00:06:40.479" end="00:06:46.240" style="s2">tropes with respect to what that</p>
+<p begin="00:06:44.409" end="00:06:48.460" style="s2">relationship would be and if indeed</p>
+<p begin="00:06:46.240" end="00:06:51.159" style="s2">there is actually even a relationship on</p>
+<p begin="00:06:48.460" end="00:06:54.039" style="s2">the first nations or first peoples or</p>
+<p begin="00:06:51.159" end="00:06:55.870" style="s2">Inuit or matey side the discussion is</p>
+<p begin="00:06:54.039" end="00:06:59.499" style="s2">much different of course that&#39;s been a</p>
+<p begin="00:06:55.870" end="00:07:01.599" style="s2">non-stop discussion since since we had</p>
+<p begin="00:06:59.499" end="00:07:03.520" style="s2">first contact since we settlers landed</p>
+<p begin="00:07:01.599" end="00:07:06.069" style="s2">so that&#39;s a discussion that&#39;s been</p>
+<p begin="00:07:03.520" end="00:07:08.139" style="s2">ongoing but the relationship is</p>
+<p begin="00:07:06.069" end="00:07:11.259" style="s2">complicated because basically they see</p>
+<p begin="00:07:08.139" end="00:07:14.680" style="s2">for the most part that relationship is</p>
+<p begin="00:07:11.259" end="00:07:17.289" style="s2">with the crown and then maybe the</p>
+<p begin="00:07:14.680" end="00:07:20.830" style="s2">government that represents the crown so</p>
+<p begin="00:07:17.289" end="00:07:25.149" style="s2">we see that reflected even in the Truth</p>
+<p begin="00:07:20.830" end="00:07:28.209" style="s2">and Reconciliation the 24 car the 94</p>
+<p begin="00:07:25.149" end="00:07:32.169" style="s2">calls to action which after I reviewed</p>
+<p begin="00:07:28.209" end="00:07:34.449" style="s2">that basically had nothing to do nothing</p>
+<p begin="00:07:32.169" end="00:07:36.009" style="s2">for ordinary citizens to do it&#39;s all</p>
+<p begin="00:07:34.449" end="00:07:38.770" style="s2">about the institutions which have</p>
+<p begin="00:07:36.009" end="00:07:41.259" style="s2">already failed once now they&#39;re supposed</p>
+<p begin="00:07:38.770" end="00:07:45.759" style="s2">to somehow pick up the baton and move</p>
+<p begin="00:07:41.259" end="00:07:47.889" style="s2">forward and yet the whole nature of how</p>
+<p begin="00:07:45.759" end="00:07:50.529" style="s2">that relationship was created is is</p>
+<p begin="00:07:47.889" end="00:07:53.020" style="s2">incredibly flawed so the did obviously</p>
+<p begin="00:07:50.529" end="00:07:55.330" style="s2">the discussions about the doctrine of</p>
+<p begin="00:07:53.020" end="00:07:57.189" style="s2">discovery and manifest destiny are not</p>
+<p begin="00:07:55.330" end="00:07:58.509" style="s2">something that the government is ever</p>
+<p begin="00:07:57.189" end="00:08:01.120" style="s2">going to talk about and of course the</p>
+<p begin="00:07:58.509" end="00:08:04.899" style="s2">queen is just a figurehead so it&#39;s a</p>
+<p begin="00:08:01.120" end="00:08:07.389" style="s2">very interesting dynamic and so if you</p>
+<p begin="00:08:04.899" end="00:08:09.849" style="s2">could call silence a critique that&#39;s the</p>
+<p begin="00:08:07.389" end="00:08:11.169" style="s2">one I face and so I&#39;m just trying to</p>
+<p begin="00:08:09.849" end="00:08:13.960" style="s2">break through that I know that that&#39;s</p>
+<p begin="00:08:11.169" end="00:08:16.449" style="s2">based on trust so there&#39;s there</p>
+<p begin="00:08:13.960" end="00:08:20.530" style="s2">it&#39;s an absolutely no trust between the</p>
+<p begin="00:08:16.449" end="00:08:22.930" style="s2">two parties for the most part so yeah</p>
+<p begin="00:08:20.530" end="00:08:26.500" style="s2">it&#39;s it&#39;s it&#39;s a work to try to</p>
+<p begin="00:08:22.930" end="00:08:28.539" style="s2">establish trust to try to establish in</p>
+<p begin="00:08:26.500" end="00:08:30.639" style="s2">that space that even as a citizen I</p>
+<p begin="00:08:28.539" end="00:08:31.930" style="s2">could sort of take responsibility for</p>
+<p begin="00:08:30.639" end="00:08:34.089" style="s2">that</p>
+<p begin="00:08:31.930" end="00:08:36.580" style="s2">and-and-and live up to duties and</p>
+<p begin="00:08:34.089" end="00:08:37.719" style="s2">obligations were you know they typically</p>
+<p begin="00:08:36.580" end="00:08:40.360" style="s2">first peoples are looking to the</p>
+<p begin="00:08:37.719" end="00:08:44.680" style="s2">government right to the crown as opposed</p>
+<p begin="00:08:40.360" end="00:08:46.600" style="s2">to a citizen so yeah I&#39;m working through</p>
+<p begin="00:08:44.680" end="00:08:48.250" style="s2">all of those things and any suggestions</p>
+<p begin="00:08:46.600" end="00:08:53.649" style="s2">as to how to make that happen would be</p>
+<p begin="00:08:48.250" end="00:08:56.110" style="s2">greatly appreciated thank you Hey Thank</p>
+<p begin="00:08:53.649" end="00:08:58.149" style="s2">You Susan I will take my turn to share</p>
+<p begin="00:08:56.110" end="00:08:59.230" style="s2">it&#39;s just a bit of a hard question just</p>
+<p begin="00:08:58.149" end="00:09:01.839" style="s2">because I never really quite know the</p>
+<p begin="00:08:59.230" end="00:09:03.730" style="s2">umbrella fly project I&#39;ve been trying to</p>
+<p begin="00:09:01.839" end="00:09:05.260" style="s2">create what is together tech what is the</p>
+<p begin="00:09:03.730" end="00:09:06.700" style="s2">technology cooperative and a solutions</p>
+<p begin="00:09:05.260" end="00:09:08.770" style="s2">cooperative for a very long time and the</p>
+<p begin="00:09:06.700" end="00:09:10.209" style="s2">biggest critique I get on that</p>
+<p begin="00:09:08.770" end="00:09:11.980" style="s2">overarching umbrella</p>
+<p begin="00:09:10.209" end="00:09:15.430" style="s2">besides that technology&#39;s the problem</p>
+<p begin="00:09:11.980" end="00:09:17.230" style="s2">not the solution is that things like</p>
+<p begin="00:09:15.430" end="00:09:19.329" style="s2">pick a thing pick a thing and go with it</p>
+<p begin="00:09:17.230" end="00:09:22.209" style="s2">and like pick a project and then people</p>
+<p begin="00:09:19.329" end="00:09:24.040" style="s2">will come on board and it doesn&#39;t work</p>
+<p begin="00:09:22.209" end="00:09:26.770" style="s2">with me because if it&#39;s like I want to</p>
+<p begin="00:09:24.040" end="00:09:27.279" style="s2">take them it the actions that come up as</p>
+<p begin="00:09:26.770" end="00:09:29.320" style="s2">they come up</p>
+<p begin="00:09:27.279" end="00:09:31.649" style="s2">it seems to be more conducive my life</p>
+<p begin="00:09:29.320" end="00:09:34.410" style="s2">but for solution raising in general I</p>
+<p begin="00:09:31.649" end="00:09:36.970" style="s2">don&#39;t think I&#39;ve gotten much critique</p>
+<p begin="00:09:34.410" end="00:09:38.440" style="s2">it&#39;s not like the other ones because</p>
+<p begin="00:09:36.970" end="00:09:39.850" style="s2">it&#39;s an hour-long conversation that</p>
+<p begin="00:09:38.440" end="00:09:41.200" style="s2">people can can participate in they</p>
+<p begin="00:09:39.850" end="00:09:43.510" style="s2">understand that it&#39;s not about</p>
+<p begin="00:09:41.200" end="00:09:45.100" style="s2">necessarily creating the project at the</p>
+<p begin="00:09:43.510" end="00:09:46.839" style="s2">end it&#39;s about generating that and</p>
+<p begin="00:09:45.100" end="00:09:49.270" style="s2">having the conversation so I guess the</p>
+<p begin="00:09:46.839" end="00:09:50.500" style="s2">biggest critique is okay now how do we</p>
+<p begin="00:09:49.270" end="00:09:52.750" style="s2">create this in the world why does this</p>
+<p begin="00:09:50.500" end="00:09:53.980" style="s2">exist in the world when why doesn&#39;t it</p>
+<p begin="00:09:52.750" end="00:09:56.500" style="s2">because this the world isn&#39;t really my</p>
+<p begin="00:09:53.980" end="00:09:58.570" style="s2">critique yes let&#39;s get it in the world</p>
+<p begin="00:09:56.500" end="00:10:01.870" style="s2">let&#39;s figure out figure out that process</p>
+<p begin="00:09:58.570" end="00:10:06.850" style="s2">so I do know every critique I get helps</p>
+<p begin="00:10:01.870" end="00:10:09.459" style="s2">me to solidify what I&#39;m here to do what</p>
+<p begin="00:10:06.850" end="00:10:11.140" style="s2">it is that it does and and move forward</p>
+<p begin="00:10:09.459" end="00:10:13.209" style="s2">with that so I appreciate critique I</p>
+<p begin="00:10:11.140" end="00:10:14.740" style="s2">guess I get a little frustrated I&#39;m sure</p>
+<p begin="00:10:13.209" end="00:10:16.350" style="s2">most of us do and hearing the same</p>
+<p begin="00:10:14.740" end="00:10:18.370" style="s2">critique over and over again I</p>
+<p begin="00:10:16.350" end="00:10:19.450" style="s2">understand of course why that happens</p>
+<p begin="00:10:18.370" end="00:10:22.180" style="s2">those are the critiques we need to be</p>
+<p begin="00:10:19.450" end="00:10:24.279" style="s2">dealing with and at the same time like I</p>
+<p begin="00:10:22.180" end="00:10:26.370" style="s2">don&#39;t I want new ones to me so I can</p>
+<p begin="00:10:24.279" end="00:10:28.550" style="s2">address them like internally and</p>
+<p begin="00:10:26.370" end="00:10:30.690" style="s2">Solutions but that only happens with</p>
+<p begin="00:10:28.550" end="00:10:33.720" style="s2">let&#39;s say you have talked to 100 people</p>
+<p begin="00:10:30.690" end="00:10:35.880" style="s2">and maybe 1 1 in 100 or 1 in 10 comes up</p>
+<p begin="00:10:33.720" end="00:10:36.960" style="s2">with something new to critique or give</p>
+<p begin="00:10:35.880" end="00:10:39.540" style="s2">their opinion on it you wouldn&#39;t have</p>
+<p begin="00:10:36.960" end="00:10:42.360" style="s2">heard before and so that is my</p>
+<p begin="00:10:39.540" end="00:10:43.740" style="s2">experience now we can all an all though</p>
+<p begin="00:10:42.360" end="00:10:44.880" style="s2">it&#39;s kind of hard with five people so</p>
+<p begin="00:10:43.740" end="00:10:46.620" style="s2">I&#39;m gonna unmute everyone and then you</p>
+<p begin="00:10:44.880" end="00:10:48.240" style="s2">guys can just take over your own mutant</p>
+<p begin="00:10:46.620" end="00:10:50.370" style="s2">abilities so that if you&#39;re not talking</p>
+<p begin="00:10:48.240" end="00:10:53.970" style="s2">and it&#39;s getting too loud you when</p>
+<p begin="00:10:50.370" end="00:10:56.520" style="s2">you&#39;re not talking about make sense but</p>
+<p begin="00:10:53.970" end="00:10:58.470" style="s2">otherwise yeah we can open up the</p>
+<p begin="00:10:56.520" end="00:11:00.600" style="s2">discussion this is the first idea cafe</p>
+<p begin="00:10:58.470" end="00:11:02.370" style="s2">that&#39;s specifically like I said 2</p>
+<p begin="00:11:00.600" end="00:11:03.750" style="s2">projects so I&#39;ll see how this goes</p>
+<p begin="00:11:02.370" end="00:11:05.970" style="s2">because now it&#39;s like well now what do</p>
+<p begin="00:11:03.750" end="00:11:07.380" style="s2">we talk about I guess the power of</p>
+<p begin="00:11:05.970" end="00:11:10.020" style="s2">critique or how you feel when people</p>
+<p begin="00:11:07.380" end="00:11:12.600" style="s2">critique it or anything that came up all</p>
+<p begin="00:11:10.020" end="00:11:15.350" style="s2">other people were we&#39;re talking well</p>
+<p begin="00:11:12.600" end="00:11:18.450" style="s2">having gone to art school Emily Carr</p>
+<p begin="00:11:15.350" end="00:11:20.190" style="s2">University and Vancouver critique is</p>
+<p begin="00:11:18.450" end="00:11:23.010" style="s2">nothing you should ever take personally</p>
+<p begin="00:11:20.190" end="00:11:25.230" style="s2">I learned that as a matter of fact in</p>
+<p begin="00:11:23.010" end="00:11:29.160" style="s2">art school the goal was to make you cry</p>
+<p begin="00:11:25.230" end="00:11:32.670" style="s2">or to try to make you cry so yeah just</p>
+<p begin="00:11:29.160" end="00:11:35.730" style="s2">don&#39;t take it personally so bring it on</p>
+<p begin="00:11:32.670" end="00:11:37.500" style="s2">I have no problems for the critique I&#39;m</p>
+<p begin="00:11:35.730" end="00:11:42.779" style="s2">not gonna critique - but they&#39;re making</p>
+<p begin="00:11:37.500" end="00:11:46.110" style="s2">you cry I was preparing us for the real</p>
+<p begin="00:11:42.779" end="00:11:48.600" style="s2">world it&#39;s a real world is not art</p>
+<p begin="00:11:46.110" end="00:11:55.010" style="s2">school right it&#39;s like people will make</p>
+<p begin="00:11:48.600" end="00:11:58.740" style="s2">you cry you know I did want to say that</p>
+<p begin="00:11:55.010" end="00:12:00.959" style="s2">Susan on yours that that can be very</p>
+<p begin="00:11:58.740" end="00:12:06.870" style="s2">very challenging as kind of crickets I</p>
+<p begin="00:12:00.959" end="00:12:08.790" style="s2">do think I I think it is stronger in</p>
+<p begin="00:12:06.870" end="00:12:12.410" style="s2">your situation because it is a topic</p>
+<p begin="00:12:08.790" end="00:12:15.300" style="s2">that people would rather not not</p>
+<p begin="00:12:12.410" end="00:12:18.270" style="s2">approach at all and kind of forget it</p>
+<p begin="00:12:15.300" end="00:12:21.690" style="s2">exists like we have for hundreds of</p>
+<p begin="00:12:18.270" end="00:12:23.790" style="s2">years but also just a little</p>
+<p begin="00:12:21.690" end="00:12:25.950" style="s2">encouragement that I think we all kind</p>
+<p begin="00:12:23.790" end="00:12:30.120" style="s2">of feel that struggle with crickets and</p>
+<p begin="00:12:25.950" end="00:12:31.890" style="s2">our projects from time to time so even</p>
+<p begin="00:12:30.120" end="00:12:33.390" style="s2">though heat yours is a little bit more</p>
+<p begin="00:12:31.890" end="00:12:34.680" style="s2">challenging I don&#39;t know if it might</p>
+<p begin="00:12:33.390" end="00:12:35.550" style="s2">help to have a little encouragement that</p>
+<p begin="00:12:34.680" end="00:12:38.220" style="s2">that is something that we&#39;re all</p>
+<p begin="00:12:35.550" end="00:12:41.800" style="s2">struggling with</p>
+<p begin="00:12:38.220" end="00:12:44.350" style="s2">yes thank you I do feel encouraged it&#39;s</p>
+<p begin="00:12:41.800" end="00:12:47.470" style="s2">not like I don&#39;t get feedback but it</p>
+<p begin="00:12:44.350" end="00:12:52.300" style="s2">tends to be more I mean there is</p>
+<p begin="00:12:47.470" end="00:12:54.490" style="s2">listening people do listen and you know</p>
+<p begin="00:12:52.300" end="00:12:56.560" style="s2">somewhat like it like I&#39;m active on</p>
+<p begin="00:12:54.490" end="00:12:59.110" style="s2">Twitter that was the first thing I did I</p>
+<p begin="00:12:56.560" end="00:13:01.330" style="s2">mean I have a UX design and UX research</p>
+<p begin="00:12:59.110" end="00:13:04.210" style="s2">background so obviously the first thing</p>
+<p begin="00:13:01.330" end="00:13:06.100" style="s2">I did was to go to the users and listen</p>
+<p begin="00:13:04.210" end="00:13:08.470" style="s2">for almost a good year before I even</p>
+<p begin="00:13:06.100" end="00:13:11.710" style="s2">started to do anything so I mean I&#39;m</p>
+<p begin="00:13:08.470" end="00:13:13.570" style="s2">sort of gauging response that way so I</p>
+<p begin="00:13:11.710" end="00:13:16.180" style="s2">am getting feedback I&#39;m not getting out</p>
+<p begin="00:13:13.570" end="00:13:18.790" style="s2">and out critique so that&#39;s basically you</p>
+<p begin="00:13:16.180" end="00:13:21.550" style="s2">know the other problem is that the</p>
+<p begin="00:13:18.790" end="00:13:24.160" style="s2">entire word Commons what is a Commons</p>
+<p begin="00:13:21.550" end="00:13:26.830" style="s2">what is a virtual Commons right I mean</p>
+<p begin="00:13:24.160" end="00:13:30.370" style="s2">this I had to drag up because settlers</p>
+<p begin="00:13:26.830" end="00:13:32.500" style="s2">this is our last experience of being you</p>
+<p begin="00:13:30.370" end="00:13:37.000" style="s2">know in common in relationship with the</p>
+<p begin="00:13:32.500" end="00:13:38.950" style="s2">land that was what was at 1500s before</p>
+<p begin="00:13:37.000" end="00:13:41.320" style="s2">the royalty came and took all the lands</p>
+<p begin="00:13:38.950" end="00:13:44.380" style="s2">and said basically these are ours right</p>
+<p begin="00:13:41.320" end="00:13:46.780" style="s2">and you&#39;re just gonna work on them so</p>
+<p begin="00:13:44.380" end="00:13:50.140" style="s2">yeah there&#39;s a couple of things that</p>
+<p begin="00:13:46.780" end="00:13:51.490" style="s2">throw people off right yeah so maybe I&#39;m</p>
+<p begin="00:13:50.140" end="00:13:55.960" style="s2">a little confused on what you mean by</p>
+<p begin="00:13:51.490" end="00:13:59.140" style="s2">settlers which everyone is that maybe</p>
+<p begin="00:13:55.960" end="00:14:01.750" style="s2">part of the problem but seriously well I</p>
+<p begin="00:13:59.140" end="00:14:05.970" style="s2">mean well I mean so like I&#39;m from</p>
+<p begin="00:14:01.750" end="00:14:10.720" style="s2">America so of the u.s. bad say America</p>
+<p begin="00:14:05.970" end="00:14:13.120" style="s2">so my I&#39;m sure some of my ancestors were</p>
+<p begin="00:14:10.720" end="00:14:17.920" style="s2">some original settlers to the US other</p>
+<p begin="00:14:13.120" end="00:14:20.800" style="s2">ones came at no I guess both major</p>
+<p begin="00:14:17.920" end="00:14:23.290" style="s2">branches we&#39;re here yeah quite a long</p>
+<p begin="00:14:20.800" end="00:14:25.690" style="s2">time yeah so it requires that you dig</p>
+<p begin="00:14:23.290" end="00:14:27.760" style="s2">into your history it requires that you</p>
+<p begin="00:14:25.690" end="00:14:31.480" style="s2">actually try to think about you know</p>
+<p begin="00:14:27.760" end="00:14:35.110" style="s2">where you come from and who you are with</p>
+<p begin="00:14:31.480" end="00:14:37.210" style="s2">respect to your ancestors so again the</p>
+<p begin="00:14:35.110" end="00:14:40.870" style="s2">Crown&#39;s I wasn&#39;t sure if you cut that</p>
+<p begin="00:14:37.210" end="00:14:43.660" style="s2">off at a certain historical period well</p>
+<p begin="00:14:40.870" end="00:14:49.160" style="s2">yeah technically settlers would have to</p>
+<p begin="00:14:43.660" end="00:14:53.180" style="s2">have been around what seventeen</p>
+<p begin="00:14:49.160" end="00:14:56.210" style="s2">late 1700s I think into about mid 1800s</p>
+<p begin="00:14:53.180" end="00:14:58.370" style="s2">so for instance my my mother on my</p>
+<p begin="00:14:56.210" end="00:15:00.950" style="s2">mother&#39;s side they originally came from</p>
+<p begin="00:14:58.370" end="00:15:03.890" style="s2">Scotland settled or actually got</p>
+<p begin="00:15:00.950" end="00:15:07.160" style="s2">shipwrecked at around 1795 off the coast</p>
+<p begin="00:15:03.890" end="00:15:08.750" style="s2">of the Atlantic coast and went to that</p>
+<p begin="00:15:07.160" end="00:15:10.580" style="s2">little tiny island which they call</p>
+<p begin="00:15:08.750" end="00:15:12.710" style="s2">Prince Edward Island which actually</p>
+<p begin="00:15:10.580" end="00:15:14.780" style="s2">where the founding fathers gathered</p>
+<p begin="00:15:12.710" end="00:15:16.970" style="s2">right so we actually that was the</p>
+<p begin="00:15:14.780" end="00:15:19.580" style="s2">original Canada was very small the</p>
+<p begin="00:15:16.970" end="00:15:22.610" style="s2">original Canada and then it sort of</p>
+<p begin="00:15:19.580" end="00:15:25.730" style="s2">spread right so and the same thing can</p>
+<p begin="00:15:22.610" end="00:15:27.530" style="s2">happen in BC right so the two coasts</p>
+<p begin="00:15:25.730" end="00:15:30.440" style="s2">actually contain most of the original</p>
+<p begin="00:15:27.530" end="00:15:32.120" style="s2">settlers you know Montreal the East</p>
+<p begin="00:15:30.440" end="00:15:33.620" style="s2">Coast and the west coast and then in</p>
+<p begin="00:15:32.120" end="00:15:36.620" style="s2">between you had the treaties which</p>
+<p begin="00:15:33.620" end="00:15:38.660" style="s2">started to roll out so then the third</p>
+<p begin="00:15:36.620" end="00:15:40.310" style="s2">the third group are immigrants which</p>
+<p begin="00:15:38.660" end="00:15:42.020" style="s2">obviously are still included in a</p>
+<p begin="00:15:40.310" end="00:15:44.270" style="s2">conversation but it gets a little bit</p>
+<p begin="00:15:42.020" end="00:15:47.240" style="s2">you know you say settlers immigrants and</p>
+<p begin="00:15:44.270" end="00:15:49.340" style="s2">First Peoples it gets a little Inuit you</p>
+<p begin="00:15:47.240" end="00:15:52.640" style="s2">know so but the real important</p>
+<p begin="00:15:49.340" end="00:15:55.040" style="s2">connection the one which ties us all is</p>
+<p begin="00:15:52.640" end="00:15:57.140" style="s2">exploring that original relationship but</p>
+<p begin="00:15:55.040" end="00:15:59.030" style="s2">we are all treaty people even if you&#39;re</p>
+<p begin="00:15:57.140" end="00:16:01.970" style="s2">an immigrant even if you just got your</p>
+<p begin="00:15:59.030" end="00:16:03.950" style="s2">immigration status a year ago</p>
+<p begin="00:16:01.970" end="00:16:06.290" style="s2">you&#39;re still a treaty person because all</p>
+<p begin="00:16:03.950" end="00:16:13.130" style="s2">of Canada and United States is that was</p>
+<p begin="00:16:06.290" end="00:16:14.570" style="s2">under treaty is under treaty may</p>
+<p begin="00:16:13.130" end="00:16:16.070" style="s2">question although I don&#39;t know if we</p>
+<p begin="00:16:14.570" end="00:16:20.480" style="s2">want to focus on your project but that&#39;s</p>
+<p begin="00:16:16.070" end="00:16:24.380" style="s2">totally oh sure if you want but um was</p>
+<p begin="00:16:20.480" end="00:16:28.220" style="s2">my question I had it and then I loved it</p>
+<p begin="00:16:24.380" end="00:16:29.450" style="s2">like what oh yes do you need so the idea</p>
+<p begin="00:16:28.220" end="00:16:31.880" style="s2">that it&#39;s bringing together basically</p>
+<p begin="00:16:29.450" end="00:16:35.830" style="s2">settlers and first people the settlers</p>
+<p begin="00:16:31.880" end="00:16:38.120" style="s2">especially do they need to be people who</p>
+<p begin="00:16:35.830" end="00:16:39.860" style="s2">like is it more for people who want to</p>
+<p begin="00:16:38.120" end="00:16:41.210" style="s2">find out about that and or who are</p>
+<p begin="00:16:39.860" end="00:16:42.770" style="s2">invited to find out about this</p>
+<p begin="00:16:41.210" end="00:16:46.150" style="s2">connection or is it more for people who</p>
+<p begin="00:16:42.770" end="00:16:50.450" style="s2">honestly don&#39;t care and like is it the</p>
+<p begin="00:16:46.150" end="00:16:52.760" style="s2">interested settlers or the uninterested</p>
+<p begin="00:16:50.450" end="00:16:55.280" style="s2">settlers that this is more focusing on a</p>
+<p begin="00:16:52.760" end="00:16:58.460" style="s2">great question well the comments would</p>
+<p begin="00:16:55.280" end="00:17:00.560" style="s2">play a role in both of those sides but</p>
+<p begin="00:16:58.460" end="00:17:01.810" style="s2">if obviously the core group that would</p>
+<p begin="00:17:00.560" end="00:17:04.390" style="s2">be engaged</p>
+<p begin="00:17:01.810" end="00:17:06.310" style="s2">in discussion obviously you would have</p>
+<p begin="00:17:04.390" end="00:17:07.780" style="s2">to happen an interest in it otherwise</p>
+<p begin="00:17:06.310" end="00:17:11.020" style="s2">you wouldn&#39;t even show up for the</p>
+<p begin="00:17:07.780" end="00:17:13.480" style="s2">discussion but part of what I&#39;ve worked</p>
+<p begin="00:17:11.020" end="00:17:15.310" style="s2">through with the UX research which you</p>
+<p begin="00:17:13.480" end="00:17:18.220" style="s2">know of course is very eye-opening with</p>
+<p begin="00:17:15.310" end="00:17:20.350" style="s2">respect to who&#39;s actually interested in</p>
+<p begin="00:17:18.220" end="00:17:22.209" style="s2">this project my assumption from the</p>
+<p begin="00:17:20.350" end="00:17:25.260" style="s2">start because I have a creative artistic</p>
+<p begin="00:17:22.209" end="00:17:27.970" style="s2">background would be that the artists</p>
+<p begin="00:17:25.260" end="00:17:29.830" style="s2">indigenous artists would be interested</p>
+<p begin="00:17:27.970" end="00:17:32.710" style="s2">they would think hey this is cool let&#39;s</p>
+<p begin="00:17:29.830" end="00:17:34.570" style="s2">work on this but not at all they have</p>
+<p begin="00:17:32.710" end="00:17:36.670" style="s2">their own projects then they&#39;re not in</p>
+<p begin="00:17:34.570" end="00:17:38.800" style="s2">the least bit interested in working with</p>
+<p begin="00:17:36.670" end="00:17:41.980" style="s2">settlers they&#39;ve kind of finished with</p>
+<p begin="00:17:38.800" end="00:17:43.930" style="s2">settlers they&#39;re done right yeah for the</p>
+<p begin="00:17:41.980" end="00:17:45.820" style="s2">most part it&#39;s true they&#39;re just like</p>
+<p begin="00:17:43.930" end="00:17:47.590" style="s2">you go ahead with the response I would</p>
+<p begin="00:17:45.820" end="00:17:50.050" style="s2">get go ahead do your thing but the most</p>
+<p begin="00:17:47.590" end="00:17:53.920" style="s2">important thing is to help to decolonize</p>
+<p begin="00:17:50.050" end="00:17:55.540" style="s2">right the settler mind and you know get</p>
+<p begin="00:17:53.920" end="00:17:57.330" style="s2">them aligned with what it is that we</p>
+<p begin="00:17:55.540" end="00:18:01.240" style="s2">signed in the first place</p>
+<p begin="00:17:57.330" end="00:18:03.160" style="s2">yeah so that so what I found in was the</p>
+<p begin="00:18:01.240" end="00:18:04.960" style="s2">response came from settlers they are</p>
+<p begin="00:18:03.160" end="00:18:06.790" style="s2">interested they&#39;re out there they&#39;re</p>
+<p begin="00:18:04.960" end="00:18:09.370" style="s2">like what can we do so this whole idea</p>
+<p begin="00:18:06.790" end="00:18:13.210" style="s2">of collective karmic debt goes back to</p>
+<p begin="00:18:09.370" end="00:18:15.250" style="s2">the idea that it&#39;s a Buddhist idea but</p>
+<p begin="00:18:13.210" end="00:18:18.970" style="s2">it also you can be found in Christianity</p>
+<p begin="00:18:15.250" end="00:18:21.850" style="s2">that you actually have a debt a karmic</p>
+<p begin="00:18:18.970" end="00:18:24.490" style="s2">debt and in this case it&#39;s a collective</p>
+<p begin="00:18:21.850" end="00:18:26.800" style="s2">karmic debt it&#39;s the entire you know</p>
+<p begin="00:18:24.490" end="00:18:29.080" style="s2">Turtle Island Canada the United States</p>
+<p begin="00:18:26.800" end="00:18:30.610" style="s2">that has a debt we actually owe a debt</p>
+<p begin="00:18:29.080" end="00:18:32.650" style="s2">well that&#39;s really scary</p>
+<p begin="00:18:30.610" end="00:18:34.120" style="s2">because people immediately think that</p>
+<p begin="00:18:32.650" end="00:18:35.440" style="s2">you&#39;re gonna want to pull money out of</p>
+<p begin="00:18:34.120" end="00:18:36.880" style="s2">their pockets but which shows</p>
+<p begin="00:18:35.440" end="00:18:39.040" style="s2">immediately and you know nothing about</p>
+<p begin="00:18:36.880" end="00:18:40.870" style="s2">indigenous relationships because the</p>
+<p begin="00:18:39.040" end="00:18:42.880" style="s2">ninja steeples were never faith we&#39;re</p>
+<p begin="00:18:40.870" end="00:18:45.010" style="s2">never focused on money</p>
+<p begin="00:18:42.880" end="00:18:46.900" style="s2">that isn&#39;t it their relationships are</p>
+<p begin="00:18:45.010" end="00:18:49.810" style="s2">not the relationships are the most</p>
+<p begin="00:18:46.900" end="00:18:51.370" style="s2">valuable things so there&#39;s so many</p>
+<p begin="00:18:49.810" end="00:18:57.280" style="s2">important lessons that we can learn</p>
+<p begin="00:18:51.370" end="00:18:59.410" style="s2">through these discussions but again I</p>
+<p begin="00:18:57.280" end="00:19:00.880" style="s2">had to do the research in order to</p>
+<p begin="00:18:59.410" end="00:19:02.710" style="s2">discover even for myself who was</p>
+<p begin="00:19:00.880" end="00:19:04.810" style="s2">interested but yes settlers are very</p>
+<p begin="00:19:02.710" end="00:19:07.210" style="s2">interested typically they tend to be on</p>
+<p begin="00:19:04.810" end="00:19:09.160" style="s2">Twitter that&#39;s where I found them</p>
+<p begin="00:19:07.210" end="00:19:11.380" style="s2">they&#39;re not necessarily on Facebook</p>
+<p begin="00:19:09.160" end="00:19:13.090" style="s2">because Facebook is more about it&#39;s even</p>
+<p begin="00:19:11.380" end="00:19:14.759" style="s2">more of a bubble like you get in your</p>
+<p begin="00:19:13.090" end="00:19:16.199" style="s2">little bubble with your friends and</p>
+<p begin="00:19:14.759" end="00:19:19.079" style="s2">that&#39;s pretty much it we know that</p>
+<p begin="00:19:16.199" end="00:19:22.440" style="s2">bubble factor whereas Twitter is more</p>
+<p begin="00:19:19.079" end="00:19:24.570" style="s2">about politics and social issues so if</p>
+<p begin="00:19:22.440" end="00:19:27.179" style="s2">their ability to cross over and have</p>
+<p begin="00:19:24.570" end="00:19:29.999" style="s2">some little discussions does happen and</p>
+<p begin="00:19:27.179" end="00:19:32.609" style="s2">also to be able to listen to indigenous</p>
+<p begin="00:19:29.999" end="00:19:34.619" style="s2">thought leaders is available so there&#39;s</p>
+<p begin="00:19:32.609" end="00:19:37.409" style="s2">a learning listening process there and</p>
+<p begin="00:19:34.619" end="00:19:40.889" style="s2">then the again the task is how do we get</p>
+<p begin="00:19:37.409" end="00:19:43.769" style="s2">into a safe secure space because Twitter</p>
+<p begin="00:19:40.889" end="00:19:46.019" style="s2">is not safe it is not secure and of</p>
+<p begin="00:19:43.769" end="00:19:47.190" style="s2">course it&#39;s incredibly limited 140</p>
+<p begin="00:19:46.019" end="00:19:49.649" style="s2">characters I mean what kind of</p>
+<p begin="00:19:47.190" end="00:19:51.059" style="s2">discussion are you having right it&#39;s</p>
+<p begin="00:19:49.649" end="00:19:52.139" style="s2">actually a question I was because you</p>
+<p begin="00:19:51.059" end="00:19:54.179" style="s2">had mentioned the very high thing goes</p>
+<p begin="00:19:52.139" end="00:19:57.149" style="s2">before we went live that part of what</p>
+<p begin="00:19:54.179" end="00:19:59.489" style="s2">your vision is is to have a no trolling</p>
+<p begin="00:19:57.149" end="00:20:02.239" style="s2">on on this platform and I&#39;m just</p>
+<p begin="00:19:59.489" end="00:20:04.799" style="s2">wondering how you see that being</p>
+<p begin="00:20:02.239" end="00:20:06.869" style="s2">enforced I feel like it&#39;s wrong but how</p>
+<p begin="00:20:04.799" end="00:20:09.659" style="s2">do you guarantee that how do you you</p>
+<p begin="00:20:06.869" end="00:20:12.839" style="s2">great question yeah so basically it&#39;s</p>
+<p begin="00:20:09.659" end="00:20:15.809" style="s2">through the technology obviously and it</p>
+<p begin="00:20:12.839" end="00:20:18.839" style="s2">has to be decentralized you have to be</p>
+<p begin="00:20:15.809" end="00:20:21.749" style="s2">agent centric so of course I&#39;ve been</p>
+<p begin="00:20:18.839" end="00:20:24.719" style="s2">I&#39;ve been working with the hollow chain</p>
+<p begin="00:20:21.749" end="00:20:27.149" style="s2">community or you know involved in that</p>
+<p begin="00:20:24.719" end="00:20:31.619" style="s2">ecosystem so it will be built built on</p>
+<p begin="00:20:27.149" end="00:20:34.859" style="s2">hollow chain so that first part of being</p>
+<p begin="00:20:31.619" end="00:20:38.429" style="s2">secure and decentralized I you know</p>
+<p begin="00:20:34.859" end="00:20:41.579" style="s2">that&#39;s what hollow chain affords so that</p>
+<p begin="00:20:38.429" end="00:20:44.519" style="s2">will be that&#39;ll be a given once that&#39;s</p>
+<p begin="00:20:41.579" end="00:20:48.119" style="s2">in play once that&#39;s the ability to build</p>
+<p begin="00:20:44.519" end="00:20:49.649" style="s2">that out happens then there I don&#39;t know</p>
+<p begin="00:20:48.119" end="00:20:51.029" style="s2">much I mean I do actually a lot about</p>
+<p begin="00:20:49.649" end="00:20:53.099" style="s2">hollow chain but probably not as much as</p>
+<p begin="00:20:51.029" end="00:20:54.839" style="s2">you do if you&#39;re involved with it do you</p>
+<p begin="00:20:53.099" end="00:20:57.029" style="s2">mean like their technology underlining</p>
+<p begin="00:20:54.839" end="00:20:59.309" style="s2">well we&#39;ll deal with the trolling as in</p>
+<p begin="00:20:57.029" end="00:21:01.049" style="s2">like they under the holo chain</p>
+<p begin="00:20:59.309" end="00:21:03.509" style="s2">decentralized umbrella they will figure</p>
+<p begin="00:21:01.049" end="00:21:04.859" style="s2">out how to ID people therefore you&#39;re</p>
+<p begin="00:21:03.509" end="00:21:06.299" style="s2">gonna be less likely to troll because</p>
+<p begin="00:21:04.859" end="00:21:09.089" style="s2">it&#39;s associated with you even if you&#39;re</p>
+<p begin="00:21:06.299" end="00:21:11.339" style="s2">somewhat commenting and like that they</p>
+<p begin="00:21:09.089" end="00:21:13.499" style="s2">figure out the unanimity part and so</p>
+<p begin="00:21:11.339" end="00:21:14.669" style="s2">therefore it spills over or what do you</p>
+<p begin="00:21:13.499" end="00:21:17.639" style="s2">mean it takes care of itself</p>
+<p begin="00:21:14.669" end="00:21:20.129" style="s2">I just don&#39;t well I mean the actual</p>
+<p begin="00:21:17.639" end="00:21:22.349" style="s2">space itself because it&#39;s decentralized</p>
+<p begin="00:21:20.129" end="00:21:24.089" style="s2">so the first thing is are we running</p>
+<p begin="00:21:22.349" end="00:21:26.879" style="s2">this through Zuckerberg living room</p>
+<p begin="00:21:24.089" end="00:21:28.150" style="s2">right you know no we are not we&#39;re not</p>
+<p begin="00:21:26.879" end="00:21:30.700" style="s2">running</p>
+<p begin="00:21:28.150" end="00:21:32.560" style="s2">we&#39;re not being so that high-level</p>
+<p begin="00:21:30.700" end="00:21:35.290" style="s2">trolling what we call surveillance</p>
+<p begin="00:21:32.560" end="00:21:37.450" style="s2">capitalism that&#39;s that&#39;s not happening</p>
+<p begin="00:21:35.290" end="00:21:40.300" style="s2">so that affords a little more levity in</p>
+<p begin="00:21:37.450" end="00:21:42.130" style="s2">discussions right then the second thing</p>
+<p begin="00:21:40.300" end="00:21:45.070" style="s2">I think what you&#39;re talking about is bad</p>
+<p begin="00:21:42.130" end="00:21:47.680" style="s2">actors right which is what I know</p>
+<p begin="00:21:45.070" end="00:21:49.840" style="s2">trolling as is Morgan I didn&#39;t think of</p>
+<p begin="00:21:47.680" end="00:21:51.760" style="s2">Facebook and Google as trolls I hope</p>
+<p begin="00:21:49.840" end="00:21:53.050" style="s2">that they have the surveillance part</p>
+<p begin="00:21:51.760" end="00:21:54.940" style="s2">going on it&#39;s just maybe a different</p>
+<p begin="00:21:53.050" end="00:21:57.010" style="s2">wording it yeah so secure and then</p>
+<p begin="00:21:54.940" end="00:22:00.280" style="s2">taking away the trolling so the trolling</p>
+<p begin="00:21:57.010" end="00:22:02.890" style="s2">part yeah would be the bad agents the</p>
+<p begin="00:22:00.280" end="00:22:04.870" style="s2">bad actors so that I think that would be</p>
+<p begin="00:22:02.890" end="00:22:06.880" style="s2">a process I mean indigenous peoples are</p>
+<p begin="00:22:04.870" end="00:22:08.500" style="s2">very good at asking the right questions</p>
+<p begin="00:22:06.880" end="00:22:10.060" style="s2">to determine who you are and what you&#39;re</p>
+<p begin="00:22:08.500" end="00:22:11.350" style="s2">all about they only have to ask you a</p>
+<p begin="00:22:10.060" end="00:22:13.930" style="s2">couple questions when they figure out</p>
+<p begin="00:22:11.350" end="00:22:17.530" style="s2">right for the most part your level of</p>
+<p begin="00:22:13.930" end="00:22:21.010" style="s2">engagement so the governance piece would</p>
+<p begin="00:22:17.530" end="00:22:22.780" style="s2">be you know coming from First Peoples</p>
+<p begin="00:22:21.010" end="00:22:25.120" style="s2">ideally and I&#39;ve spoken to many</p>
+<p begin="00:22:22.780" end="00:22:27.130" style="s2">indigenous women who are interested in</p>
+<p begin="00:22:25.120" end="00:22:28.420" style="s2">the project they&#39;re just not sure you</p>
+<p begin="00:22:27.130" end="00:22:31.180" style="s2">know they can&#39;t really wrap their head</p>
+<p begin="00:22:28.420" end="00:22:34.540" style="s2">around what it is but they are kind of</p>
+<p begin="00:22:31.180" end="00:22:36.790" style="s2">standing by to see what actually you</p>
+<p begin="00:22:34.540" end="00:22:39.130" style="s2">know this space has to be created first</p>
+<p begin="00:22:36.790" end="00:22:41.740" style="s2">I think it&#39;s hard just conceptually for</p>
+<p begin="00:22:39.130" end="00:22:44.020" style="s2">them to go there in terms of to</p>
+<p begin="00:22:41.740" end="00:22:45.910" style="s2">visualize that that&#39;s not within their</p>
+<p begin="00:22:44.020" end="00:22:49.360" style="s2">culture they&#39;re very traditional and</p>
+<p begin="00:22:45.910" end="00:22:51.670" style="s2">they have closed systems right so that</p>
+<p begin="00:22:49.360" end="00:22:53.680" style="s2">that has to I think we have to have</p>
+<p begin="00:22:51.670" end="00:22:56.830" style="s2">something and invite them into that</p>
+<p begin="00:22:53.680" end="00:23:00.310" style="s2">space first but then the governance so</p>
+<p begin="00:22:56.830" end="00:23:04.000" style="s2">the rules the protocols of you know who</p>
+<p begin="00:23:00.310" end="00:23:08.020" style="s2">who is participating and how you</p>
+<p begin="00:23:04.000" end="00:23:10.630" style="s2">identify yourself will the determining</p>
+<p begin="00:23:08.020" end="00:23:13.420" style="s2">factor right but I think that&#39;ll be</p>
+<p begin="00:23:10.630" end="00:23:15.730" style="s2">it&#39;ll be easy to see that after a short</p>
+<p begin="00:23:13.420" end="00:23:17.800" style="s2">period of time right and then if you&#39;re</p>
+<p begin="00:23:15.730" end="00:23:21.520" style="s2">not really I I mean I see the process</p>
+<p begin="00:23:17.800" end="00:23:23.680" style="s2">more of them I&#39;ve set up certain</p>
+<p begin="00:23:21.520" end="00:23:25.510" style="s2">challenges which you would have to go</p>
+<p begin="00:23:23.680" end="00:23:28.150" style="s2">through in order to to sort of establish</p>
+<p begin="00:23:25.510" end="00:23:31.810" style="s2">that you&#39;re authentically interested in</p>
+<p begin="00:23:28.150" end="00:23:33.490" style="s2">this as opposed to just we&#39;re open it up</p>
+<p begin="00:23:31.810" end="00:23:37.570" style="s2">for anybody when they just come on in</p>
+<p begin="00:23:33.490" end="00:23:39.700" style="s2">and create havoc yeah so again that&#39;s a</p>
+<p begin="00:23:37.570" end="00:23:40.740" style="s2">process we&#39;re not exactly at that point</p>
+<p begin="00:23:39.700" end="00:23:46.230" style="s2">yet</p>
+<p begin="00:23:40.740" end="00:23:51.720" style="s2">- onboarding yeah I just put my water</p>
+<p begin="00:23:46.230" end="00:23:53.400" style="s2">all over myself water is life there we</p>
+<p begin="00:23:51.720" end="00:23:56.040" style="s2">go I just felt like all over myself</p>
+<p begin="00:23:53.400" end="00:23:57.809" style="s2">yeah very much switching gears a little</p>
+<p begin="00:23:56.040" end="00:24:01.110" style="s2">bit I kind of want to pose a question to</p>
+<p begin="00:23:57.809" end="00:24:02.880" style="s2">the group about critique and how you use</p>
+<p begin="00:24:01.110" end="00:24:06.120" style="s2">like you have any examples of how you</p>
+<p begin="00:24:02.880" end="00:24:13.620" style="s2">use pratik to push your projects forward</p>
+<p begin="00:24:06.120" end="00:24:15.750" style="s2">or got some good ideas out of it so I</p>
+<p begin="00:24:13.620" end="00:24:19.559" style="s2">it&#39;s it&#39;s interesting we&#39;ve been doing</p>
+<p begin="00:24:15.750" end="00:24:22.380" style="s2">quite a bit of kind of critique for</p>
+<p begin="00:24:19.559" end="00:24:24.179" style="s2">because of Jubilees idea cafes and stuff</p>
+<p begin="00:24:22.380" end="00:24:26.700" style="s2">like that again a lot of ideas and</p>
+<p begin="00:24:24.179" end="00:24:30.600" style="s2">having in the project raisings often</p>
+<p begin="00:24:26.700" end="00:24:34.200" style="s2">people are asking for feedback but we do</p>
+<p begin="00:24:30.600" end="00:24:36.860" style="s2">a good job I think of initially you know</p>
+<p begin="00:24:34.200" end="00:24:39.059" style="s2">asking whether they want feedback which</p>
+<p begin="00:24:36.860" end="00:24:42.660" style="s2">even if someone kind of gives the pat</p>
+<p begin="00:24:39.059" end="00:24:45.179" style="s2">answer it still prepares their mind for</p>
+<p begin="00:24:42.660" end="00:24:48.929" style="s2">some harshness so they they tend to be</p>
+<p begin="00:24:45.179" end="00:24:51.480" style="s2">more open-minded I don&#39;t think that</p>
+<p begin="00:24:48.929" end="00:24:53.400" style="s2">answers your question though goodbye can</p>
+<p begin="00:24:51.480" end="00:24:55.800" style="s2">you restate that yeah that&#39;s all just</p>
+<p begin="00:24:53.400" end="00:24:58.500" style="s2">curious about specificity that you face</p>
+<p begin="00:24:55.800" end="00:25:00.929" style="s2">for your project that you use it to</p>
+<p begin="00:24:58.500" end="00:25:05.420" style="s2">iterate your project and the critique</p>
+<p begin="00:25:00.929" end="00:25:08.280" style="s2">actually made it better yeah so early on</p>
+<p begin="00:25:05.420" end="00:25:11.010" style="s2">this this concept of people saying that</p>
+<p begin="00:25:08.280" end="00:25:12.630" style="s2">it&#39;s impossible or it&#39;s too big or</p>
+<p begin="00:25:11.010" end="00:25:14.280" style="s2">something like that because because they</p>
+<p begin="00:25:12.630" end="00:25:16.530" style="s2">kind of think I&#39;m getting to an end-all</p>
+<p begin="00:25:14.280" end="00:25:20.220" style="s2">be-all score for these things</p>
+<p begin="00:25:16.530" end="00:25:26.280" style="s2">so just from the and also people were</p>
+<p begin="00:25:20.220" end="00:25:33.450" style="s2">thinking that it&#39;s a perfect what is it</p>
+<p begin="00:25:26.280" end="00:25:37.910" style="s2">they want anyway so I end up pre-empting</p>
+<p begin="00:25:33.450" end="00:25:40.740" style="s2">the confusion earlier in the in the</p>
+<p begin="00:25:37.910" end="00:25:43.380" style="s2">discussion or in the description of the</p>
+<p begin="00:25:40.740" end="00:25:45.840" style="s2">product so I say something like if we</p>
+<p begin="00:25:43.380" end="00:25:48.000" style="s2">can improve like people are thinking I&#39;m</p>
+<p begin="00:25:45.840" end="00:25:50.130" style="s2">gonna get these two opposing the worst</p>
+<p begin="00:25:48.000" end="00:25:52.410" style="s2">like I&#39;m gonna get you know two</p>
+<p begin="00:25:50.130" end="00:25:54.419" style="s2">completely opposing political people in</p>
+<p begin="00:25:52.410" end="00:25:57.029" style="s2">a room and have them agree on something</p>
+<p begin="00:25:54.419" end="00:25:59.759" style="s2">when really all I&#39;m doing is increasing</p>
+<p begin="00:25:57.029" end="00:26:02.820" style="s2">the agreement so I changed my wording to</p>
+<p begin="00:25:59.759" end="00:26:05.129" style="s2">say you know bringing us closer to</p>
+<p begin="00:26:02.820" end="00:26:07.049" style="s2">agreement or stuff like that so that so</p>
+<p begin="00:26:05.129" end="00:26:11.789" style="s2">that people see it less in a black and</p>
+<p begin="00:26:07.049" end="00:26:13.980" style="s2">white idea so so I have I have changed</p>
+<p begin="00:26:11.789" end="00:26:17.249" style="s2">almost every time I talk to someone I do</p>
+<p begin="00:26:13.980" end="00:26:19.379" style="s2">end up heading my copy and now I have to</p>
+<p begin="00:26:17.249" end="00:26:22.080" style="s2">actually have several different versions</p>
+<p begin="00:26:19.379" end="00:26:24.960" style="s2">of it depending on the audience so</p>
+<p begin="00:26:22.080" end="00:26:28.019" style="s2">that&#39;s the way I&#39;ve used the critique</p>
+<p begin="00:26:24.960" end="00:26:30.690" style="s2">and I&#39;m sure I&#39;ve included it in designs</p>
+<p begin="00:26:28.019" end="00:26:32.909" style="s2">because there are people like I might</p>
+<p begin="00:26:30.690" end="00:26:35.820" style="s2">have a symbol indicating the score and</p>
+<p begin="00:26:32.909" end="00:26:37.470" style="s2">they&#39;re like saying well is that full or</p>
+<p begin="00:26:35.820" end="00:26:40.289" style="s2">empty right so and that just comes back</p>
+<p begin="00:26:37.470" end="00:26:43.529" style="s2">to the UX where you find out a visually</p>
+<p begin="00:26:40.289" end="00:26:44.909" style="s2">way of you expressing it made certain</p>
+<p begin="00:26:43.529" end="00:26:48.450" style="s2">assumptions that other people don&#39;t have</p>
+<p begin="00:26:44.909" end="00:26:50.580" style="s2">or not everyone has and then that comes</p>
+<p begin="00:26:48.450" end="00:26:52.019" style="s2">into direct design changes so that&#39;s a</p>
+<p begin="00:26:50.580" end="00:26:56.039" style="s2">little bit of what I&#39;ve done in the past</p>
+<p begin="00:26:52.019" end="00:26:58.619" style="s2">I think building a bit on on that I&#39;ve</p>
+<p begin="00:26:56.039" end="00:27:00.720" style="s2">had the a very similar experience where</p>
+<p begin="00:26:58.619" end="00:27:02.220" style="s2">the critique sometimes it&#39;s used to</p>
+<p begin="00:27:00.720" end="00:27:04.350" style="s2">build and the product like if it&#39;s a</p>
+<p begin="00:27:02.220" end="00:27:06.539" style="s2">critique that I haven&#39;t thought of it</p>
+<p begin="00:27:04.350" end="00:27:08.580" style="s2">actually is a gap but I do find that in</p>
+<p begin="00:27:06.539" end="00:27:10.499" style="s2">most cases is actually a gap in the</p>
+<p begin="00:27:08.580" end="00:27:11.669" style="s2">content in the explanation of it that</p>
+<p begin="00:27:10.499" end="00:27:13.859" style="s2">now I have to go back and say how do I</p>
+<p begin="00:27:11.669" end="00:27:15.749" style="s2">explain this differently so that that</p>
+<p begin="00:27:13.859" end="00:27:17.070" style="s2">question is answered just you know by</p>
+<p begin="00:27:15.749" end="00:27:19.049" style="s2">the content itself and people don&#39;t have</p>
+<p begin="00:27:17.070" end="00:27:20.820" style="s2">to ask it and then continually getting</p>
+<p begin="00:27:19.049" end="00:27:22.799" style="s2">that kind of feedback and continually</p>
+<p begin="00:27:20.820" end="00:27:25.830" style="s2">improving the the messaging to explain</p>
+<p begin="00:27:22.799" end="00:27:28.169" style="s2">it but isn&#39;t that the same as UX</p>
+<p begin="00:27:25.830" end="00:27:30.269" style="s2">research I mean typically the critique</p>
+<p begin="00:27:28.169" end="00:27:33.539" style="s2">should come from the users right so</p>
+<p begin="00:27:30.269" end="00:27:35.789" style="s2">that&#39;s why you do UX testing yeah I&#39;m in</p>
+<p begin="00:27:33.539" end="00:27:39.179" style="s2">in my case I&#39;m kind of pre UX like I&#39;m</p>
+<p begin="00:27:35.789" end="00:27:41.700" style="s2">sort of yeah exactly</p>
+<p begin="00:27:39.179" end="00:27:44.249" style="s2">but in the end yes it&#39;s still that sort</p>
+<p begin="00:27:41.700" end="00:27:48.359" style="s2">of the ability to sort of design and to</p>
+<p begin="00:27:44.249" end="00:27:50.159" style="s2">explain it is where in in my case at</p>
+<p begin="00:27:48.359" end="00:27:52.679" style="s2">least the critiques end up sort of</p>
+<p begin="00:27:50.159" end="00:27:54.659" style="s2">helping to patch that and update it is</p>
+<p begin="00:27:52.679" end="00:27:55.350" style="s2">the finding out why did the person have</p>
+<p begin="00:27:54.659" end="00:27:57.059" style="s2">that question</p>
+<p begin="00:27:55.350" end="00:27:58.919" style="s2">oh because I didn&#39;t you know talk about</p>
+<p begin="00:27:57.059" end="00:28:00.989" style="s2">this certain topic in that content how</p>
+<p begin="00:27:58.919" end="00:28:01.980" style="s2">do I add that how do I you know talk</p>
+<p begin="00:28:00.989" end="00:28:06.629" style="s2">about that in a way that&#39;s meaningful</p>
+<p begin="00:28:01.980" end="00:28:08.399" style="s2">and doesn&#39;t take four hours well yeah in</p>
+<p begin="00:28:06.629" end="00:28:08.790" style="s2">the startup space they call that the</p>
+<p begin="00:28:08.399" end="00:28:11.460" style="s2">disco</p>
+<p begin="00:28:08.790" end="00:28:13.620" style="s2">reprocess so you have to get out of the</p>
+<p begin="00:28:11.460" end="00:28:15.210" style="s2">office and you have to go to talk to the</p>
+<p begin="00:28:13.620" end="00:28:17.280" style="s2">people that will be using it or the</p>
+<p begin="00:28:15.210" end="00:28:19.290" style="s2">stakeholders or whoever is involved and</p>
+<p begin="00:28:17.280" end="00:28:23.250" style="s2">start to get some feedback just on your</p>
+<p begin="00:28:19.290" end="00:28:25.200" style="s2">concept alone right yeah that for me</p>
+<p begin="00:28:23.250" end="00:28:27.990" style="s2">when I&#39;ve been getting critique on the</p>
+<p begin="00:28:25.200" end="00:28:30.930" style="s2">issues it helps me gain clarity as to</p>
+<p begin="00:28:27.990" end="00:28:32.580" style="s2">what wasn&#39;t explained the first time it</p>
+<p begin="00:28:30.930" end="00:28:34.410" style="s2">also comes with the other added layer if</p>
+<p begin="00:28:32.580" end="00:28:35.670" style="s2">like then I want to explain it all every</p>
+<p begin="00:28:34.410" end="00:28:37.320" style="s2">time because I&#39;ve gotten this critique</p>
+<p begin="00:28:35.670" end="00:28:38.700" style="s2">before so you might not understand this</p>
+<p begin="00:28:37.320" end="00:28:40.380" style="s2">point as opposed to I find a</p>
+<p begin="00:28:38.700" end="00:28:42.750" style="s2">conversation is a great way to explain</p>
+<p begin="00:28:40.380" end="00:28:44.220" style="s2">it because then I can deal with that on</p>
+<p begin="00:28:42.750" end="00:28:46.740" style="s2">a one-on-one basis instead of trying to</p>
+<p begin="00:28:44.220" end="00:28:48.570" style="s2">answer all questions at once so it helps</p>
+<p begin="00:28:46.740" end="00:28:52.260" style="s2">me kind of generate almost like an FAQ</p>
+<p begin="00:28:48.570" end="00:28:54.210" style="s2">of common problems and then I can kind</p>
+<p begin="00:28:52.260" end="00:28:56.330" style="s2">of have one place to send them to but</p>
+<p begin="00:28:54.210" end="00:28:59.340" style="s2">I&#39;ve yet to actually create that and</p>
+<p begin="00:28:56.330" end="00:29:02.520" style="s2">where it most helps me is my internal</p>
+<p begin="00:28:59.340" end="00:29:05.340" style="s2">reaction to what they say that how I</p>
+<p begin="00:29:02.520" end="00:29:06.660" style="s2">feel about what they say is my learning</p>
+<p begin="00:29:05.340" end="00:29:07.800" style="s2">for what I need how I need to move</p>
+<p begin="00:29:06.660" end="00:29:09.960" style="s2">forward there&#39;s times where people</p>
+<p begin="00:29:07.800" end="00:29:12.360" style="s2">critique it and it empowers me where I&#39;m</p>
+<p begin="00:29:09.960" end="00:29:14.520" style="s2">like oh yeah that&#39;s not a problem like</p>
+<p begin="00:29:12.360" end="00:29:15.420" style="s2">because I the solutions are coming down</p>
+<p begin="00:29:14.520" end="00:29:18.210" style="s2">the road and then there&#39;s other times</p>
+<p begin="00:29:15.420" end="00:29:19.770" style="s2">where it does disempower me and then I</p>
+<p begin="00:29:18.210" end="00:29:22.050" style="s2">have to deal with why is that and why</p>
+<p begin="00:29:19.770" end="00:29:23.940" style="s2">why did their critique hit me in that</p>
+<p begin="00:29:22.050" end="00:29:25.590" style="s2">way why do I feel like it&#39;s a critique</p>
+<p begin="00:29:23.940" end="00:29:28.500" style="s2">on me as a person and I want to cry</p>
+<p begin="00:29:25.590" end="00:29:31.830" style="s2">about it as opposed to having it be open</p>
+<p begin="00:29:28.500" end="00:29:36.150" style="s2">so that&#39;s and I think also just</p>
+<p begin="00:29:31.830" end="00:29:38.340" style="s2">personally I deal with critique fairly</p>
+<p begin="00:29:36.150" end="00:29:40.470" style="s2">well I look for that like both</p>
+<p begin="00:29:38.340" end="00:29:42.390" style="s2">personally and for my project like I</p>
+<p begin="00:29:40.470" end="00:29:44.370" style="s2">want to know unless personally now now</p>
+<p begin="00:29:42.390" end="00:29:46.230" style="s2">I&#39;m all about not don&#39;t critique me as a</p>
+<p begin="00:29:44.370" end="00:29:48.570" style="s2">person I want to know your critique on</p>
+<p begin="00:29:46.230" end="00:29:50.250" style="s2">my ideas and the solution because of</p>
+<p begin="00:29:48.570" end="00:29:52.320" style="s2">that I&#39;m not changing me but I will</p>
+<p begin="00:29:50.250" end="00:29:55.470" style="s2">change this like this is ours this is</p>
+<p begin="00:29:52.320" end="00:29:57.660" style="s2">lying so I&#39;m not gonna change my person</p>
+<p begin="00:29:55.470" end="00:29:59.610" style="s2">I&#39;m gonna grow and evolve but like and</p>
+<p begin="00:29:57.660" end="00:30:02.130" style="s2">getting that is what I got through</p>
+<p begin="00:29:59.610" end="00:30:03.600" style="s2">critique because I would get there were</p>
+<p begin="00:30:02.130" end="00:30:05.880" style="s2">people who would comment to my YouTube</p>
+<p begin="00:30:03.600" end="00:30:07.200" style="s2">videos and be like how I look or how I&#39;m</p>
+<p begin="00:30:05.880" end="00:30:09.090" style="s2">acting and I was like oh I&#39;m actually</p>
+<p begin="00:30:07.200" end="00:30:11.430" style="s2">not down for I didn&#39;t mean to critique</p>
+<p begin="00:30:09.090" end="00:30:13.260" style="s2">that that&#39;s not what I meant I meant the</p>
+<p begin="00:30:11.430" end="00:30:15.990" style="s2">idea and so now when that happens I can</p>
+<p begin="00:30:13.260" end="00:30:19.580" style="s2">kind of just I&#39;ll deal with it and look</p>
+<p begin="00:30:15.990" end="00:30:19.580" style="s2">for the critique of the idea</p>
+<p begin="00:30:19.650" end="00:30:26.730" style="s2">nice I think I really when I got my</p>
+<p begin="00:30:23.790" end="00:30:28.920" style="s2">critiques it really made me focus on the</p>
+<p begin="00:30:26.730" end="00:30:32.160" style="s2">financial sustainability of the business</p>
+<p begin="00:30:28.920" end="00:30:35.100" style="s2">I&#39;m trying to create and really spend a</p>
+<p begin="00:30:32.160" end="00:30:37.680" style="s2">lot of time with that I mean the it is</p>
+<p begin="00:30:35.100" end="00:30:41.300" style="s2">about critique someone with more money</p>
+<p begin="00:30:37.680" end="00:30:44.220" style="s2">or had C capital or an entrepreneurial</p>
+<p begin="00:30:41.300" end="00:30:47.790" style="s2">business background should be doing this</p>
+<p begin="00:30:44.220" end="00:30:51.660" style="s2">type of work or I should say is more fit</p>
+<p begin="00:30:47.790" end="00:30:53.640" style="s2">to do this type of work or qualified so</p>
+<p begin="00:30:51.660" end="00:30:55.680" style="s2">it&#39;s really helped me try to establish</p>
+<p begin="00:30:53.640" end="00:30:57.750" style="s2">where other urban agriculture ventures</p>
+<p begin="00:30:55.680" end="00:31:01.020" style="s2">have gone wrong which is not being</p>
+<p begin="00:30:57.750" end="00:31:03.180" style="s2">sustainably economically sustainable and</p>
+<p begin="00:31:01.020" end="00:31:05.010" style="s2">relying on grant money in volunteer work</p>
+<p begin="00:31:03.180" end="00:31:07.800" style="s2">and things like that so I feel like I</p>
+<p begin="00:31:05.010" end="00:31:10.440" style="s2">have a pretty good game plan of how I am</p>
+<p begin="00:31:07.800" end="00:31:13.710" style="s2">going to be able to sustainably generate</p>
+<p begin="00:31:10.440" end="00:31:17.190" style="s2">revenue through selling I work at a</p>
+<p begin="00:31:13.710" end="00:31:19.170" style="s2">hospital and my hospital has started out</p>
+<p begin="00:31:17.190" end="00:31:21.090" style="s2">some food pantries to give to the</p>
+<p begin="00:31:19.170" end="00:31:23.760" style="s2">community and they they purchased that</p>
+<p begin="00:31:21.090" end="00:31:25.860" style="s2">they have forty thousand one part of the</p>
+<p begin="00:31:23.760" end="00:31:27.780" style="s2">hospice forty thousand dollars budgeted</p>
+<p begin="00:31:25.860" end="00:31:31.530" style="s2">the other has fifty thousand a year</p>
+<p begin="00:31:27.780" end="00:31:36.660" style="s2">budgeted to buy things so has eaten up</p>
+<p begin="00:31:31.530" end="00:31:38.670" style="s2">with my place of employment to see if</p>
+<p begin="00:31:36.660" end="00:31:41.330" style="s2">they will purchase goods has kind of</p>
+<p begin="00:31:38.670" end="00:31:44.280" style="s2">been a good start for me</p>
+<p begin="00:31:41.330" end="00:31:45.720" style="s2">good we got our out of the office and</p>
+<p begin="00:31:44.280" end="00:31:49.320" style="s2">you went and talked to a stakeholders</p>
+<p begin="00:31:45.720" end="00:31:51.390" style="s2">good job what is your business model</p>
+<p begin="00:31:49.320" end="00:31:53.040" style="s2">Brad as far as I know a bunch of people</p>
+<p begin="00:31:51.390" end="00:31:56.040" style="s2">in that space but I don&#39;t know like</p>
+<p begin="00:31:53.040" end="00:31:59.960" style="s2">you&#39;re bringing food from into food</p>
+<p begin="00:31:56.040" end="00:32:02.160" style="s2">deserts but how are you doing that so</p>
+<p begin="00:31:59.960" end="00:32:04.770" style="s2">there are people who are food insecure</p>
+<p begin="00:32:02.160" end="00:32:08.100" style="s2">and there is a questionnaire when you</p>
+<p begin="00:32:04.770" end="00:32:09.660" style="s2">get there&#39;s like a hundred questions you</p>
+<p begin="00:32:08.100" end="00:32:12.690" style="s2">get asked when you come to a hospital</p>
+<p begin="00:32:09.660" end="00:32:14.820" style="s2">could be on safety whatever there&#39;s</p>
+<p begin="00:32:12.690" end="00:32:17.580" style="s2">three questions on food insecurity and</p>
+<p begin="00:32:14.820" end="00:32:19.410" style="s2">we&#39;re working with a committee at our</p>
+<p begin="00:32:17.580" end="00:32:22.470" style="s2">hospital called social determinants of</p>
+<p begin="00:32:19.410" end="00:32:24.960" style="s2">health to generate consults the social</p>
+<p begin="00:32:22.470" end="00:32:26.970" style="s2">worker people answer these questions</p>
+<p begin="00:32:24.960" end="00:32:28.500" style="s2">saying yes I don&#39;t have access to foods</p>
+<p begin="00:32:26.970" end="00:32:32.430" style="s2">I don&#39;t have the financial capabilities</p>
+<p begin="00:32:28.500" end="00:32:33.510" style="s2">that generates the console that social</p>
+<p begin="00:32:32.430" end="00:32:36.360" style="s2">worker then gives</p>
+<p begin="00:32:33.510" end="00:32:41.610" style="s2">materials to go to the pantry catch to</p>
+<p begin="00:32:36.360" end="00:32:44.310" style="s2">the hospital so 75% of what I intend to</p>
+<p begin="00:32:41.610" end="00:32:46.620" style="s2">grow I want to sell to the hospital so</p>
+<p begin="00:32:44.310" end="00:32:49.260" style="s2">they can provide the food to the people</p>
+<p begin="00:32:46.620" end="00:32:51.210" style="s2">that are answering these questionnaires</p>
+<p begin="00:32:49.260" end="00:32:54.300" style="s2">and qualifying for the food the other</p>
+<p begin="00:32:51.210" end="00:32:56.670" style="s2">25% there is a good entry down the road</p>
+<p begin="00:32:54.300" end="00:32:59.850" style="s2">for me now that I wanted to donate 25%</p>
+<p begin="00:32:56.670" end="00:33:02.130" style="s2">of my food to supply so 100% of</p>
+<p begin="00:32:59.850" end="00:33:04.560" style="s2">everything I am growing or tend to grow</p>
+<p begin="00:33:02.130" end="00:33:08.550" style="s2">is going to be given to people who are</p>
+<p begin="00:33:04.560" end="00:33:10.500" style="s2">food insecure but I don&#39;t have that app</p>
+<p begin="00:33:08.550" end="00:33:12.870" style="s2">answered your full question of business</p>
+<p begin="00:33:10.500" end="00:33:14.070" style="s2">model well I mean you&#39;re throwing food I</p>
+<p begin="00:33:12.870" end="00:33:15.630" style="s2">didn&#39;t know that before so you&#39;re</p>
+<p begin="00:33:14.070" end="00:33:16.920" style="s2">growing the food you&#39;re not just looking</p>
+<p begin="00:33:15.630" end="00:33:20.000" style="s2">to get it from people who are otherwise</p>
+<p begin="00:33:16.920" end="00:33:22.530" style="s2">growing the food and I&#39;m bringing it</p>
+<p begin="00:33:20.000" end="00:33:24.390" style="s2">there&#39;s three people in that space that</p>
+<p begin="00:33:22.530" end="00:33:26.970" style="s2">that if you want to have a conversation</p>
+<p begin="00:33:24.390" end="00:33:28.230" style="s2">outside of this I&#39;m happy to there&#39;s two</p>
+<p begin="00:33:26.970" end="00:33:32.280" style="s2">things three things they&#39;re being done</p>
+<p begin="00:33:28.230" end="00:33:33.780" style="s2">in Vancouver itself that I&#39;m in contact</p>
+<p begin="00:33:32.280" end="00:33:35.550" style="s2">with them one way or another and then</p>
+<p begin="00:33:33.780" end="00:33:37.770" style="s2">also someone in the game B space who has</p>
+<p begin="00:33:35.550" end="00:33:39.600" style="s2">like an online farmers market oshika I</p>
+<p begin="00:33:37.770" end="00:33:41.720" style="s2">think is what it&#39;s called and they&#39;d say</p>
+<p begin="00:33:39.600" end="00:33:44.700" style="s2">no to Utah and they have basically a</p>
+<p begin="00:33:41.720" end="00:33:46.590" style="s2">model to trade that in every city so to</p>
+<p begin="00:33:44.700" end="00:33:48.330" style="s2">create like that someone its</p>
+<p begin="00:33:46.590" end="00:33:50.190" style="s2">franchisable is what I&#39;m trying to say</p>
+<p begin="00:33:48.330" end="00:33:52.880" style="s2">so it&#39;s open source of franchise well so</p>
+<p begin="00:33:50.190" end="00:33:55.800" style="s2">anyone in any city can take that on and</p>
+<p begin="00:33:52.880" end="00:33:57.750" style="s2">create a relationship between like the</p>
+<p begin="00:33:55.800" end="00:33:58.920" style="s2">purchaser and I&#39;m wondering I don&#39;t know</p>
+<p begin="00:33:57.750" end="00:34:02.160" style="s2">if that would work within a space of</p>
+<p begin="00:33:58.920" end="00:34:02.910" style="s2">food insecure people it solves the food</p>
+<p begin="00:34:02.160" end="00:34:08.550" style="s2">desert</p>
+<p begin="00:34:02.910" end="00:34:11.220" style="s2">issue not the access to it because of</p>
+<p begin="00:34:08.550" end="00:34:12.990" style="s2">cost right so it like solves you have</p>
+<p begin="00:34:11.220" end="00:34:15.179" style="s2">access to it it&#39;s not necessarily that</p>
+<p begin="00:34:12.990" end="00:34:17.159" style="s2">it can be at a lower rate but you&#39;re</p>
+<p begin="00:34:15.179" end="00:34:19.320" style="s2">growing your food so you can make that</p>
+<p begin="00:34:17.159" end="00:34:22.919" style="s2">one available at the cost it is to you</p>
+<p begin="00:34:19.320" end="00:34:25.230" style="s2">so yeah so I&#39;d be very interested</p>
+<p begin="00:34:22.919" end="00:34:27.270" style="s2">hearing that when when we&#39;re done kind</p>
+<p begin="00:34:25.230" end="00:34:30.000" style="s2">of link up with them just to kind of</p>
+<p begin="00:34:27.270" end="00:34:34.500" style="s2">further flesh out the business Molly and</p>
+<p begin="00:34:30.000" end="00:34:37.860" style="s2">growing mainly any grow berries some</p>
+<p begin="00:34:34.500" end="00:34:40.320" style="s2">greens nuts and seeds mainly but I&#39;m a</p>
+<p begin="00:34:37.860" end="00:34:42.419" style="s2">dietitian by trade so I do provide</p>
+<p begin="00:34:40.320" end="00:34:45.030" style="s2">medical nutrition therapy that kind of</p>
+<p begin="00:34:42.419" end="00:34:46.790" style="s2">came up with like a master list of foods</p>
+<p begin="00:34:45.030" end="00:34:49.310" style="s2">that we use for medical nutrition</p>
+<p begin="00:34:46.790" end="00:34:52.340" style="s2">therapy and the ones that are obviously</p>
+<p begin="00:34:49.310" end="00:34:54.230" style="s2">lacking in places that don&#39;t have fresh</p>
+<p begin="00:34:52.340" end="00:34:56.300" style="s2">access to fresh foods so I&#39;m kind of</p>
+<p begin="00:34:54.230" end="00:35:01.040" style="s2">using that pathway that that&#39;s what I am</p>
+<p begin="00:34:56.300" end="00:35:03.020" style="s2">intending to grow and okay feels more on</p>
+<p begin="00:35:01.040" end="00:35:05.750" style="s2">towards the game B idea because if</p>
+<p begin="00:35:03.020" end="00:35:08.390" style="s2">you&#39;re working in a game a space you</p>
+<p begin="00:35:05.750" end="00:35:12.560" style="s2">think what&#39;s the highest selling food oh</p>
+<p begin="00:35:08.390" end="00:35:15.050" style="s2">I should grow that versus I need this is</p>
+<p begin="00:35:12.560" end="00:35:17.420" style="s2">a food people need to be healthy or if</p>
+<p begin="00:35:15.050" end="00:35:19.430" style="s2">they wish to be healthy or want to</p>
+<p begin="00:35:17.420" end="00:35:22.040" style="s2">manage some of their current diseases</p>
+<p begin="00:35:19.430" end="00:35:25.490" style="s2">this is what they would need be provided</p>
+<p begin="00:35:22.040" end="00:35:27.380" style="s2">so kind of using that framework and the</p>
+<p begin="00:35:25.490" end="00:35:29.870" style="s2">social entrepreneurship framework and</p>
+<p begin="00:35:27.380" end="00:35:33.620" style="s2">then Carol Sanford&#39;s when Tibbles put a</p>
+<p begin="00:35:29.870" end="00:35:36.110" style="s2">couple bottom line which is kind of just</p>
+<p begin="00:35:33.620" end="00:35:37.100" style="s2">all the stakeholders that are attached</p>
+<p begin="00:35:36.110" end="00:35:40.510" style="s2">your business whether it be the</p>
+<p begin="00:35:37.100" end="00:35:50.300" style="s2">community the co-creators the investors</p>
+<p begin="00:35:40.510" end="00:35:54.320" style="s2">the planet etc and a quick question for</p>
+<p begin="00:35:50.300" end="00:35:56.390" style="s2">Susan when you&#39;re talking about the</p>
+<p begin="00:35:54.320" end="00:35:59.600" style="s2">settlers I had a really thing like am I</p>
+<p begin="00:35:56.390" end="00:36:03.260" style="s2">like settler my family came in 1920 is</p>
+<p begin="00:35:59.600" end="00:36:04.640" style="s2">the United States and then you&#39;ve kind</p>
+<p begin="00:36:03.260" end="00:36:08.690" style="s2">of answered that but a follow-up</p>
+<p begin="00:36:04.640" end="00:36:11.000" style="s2">question to that is what percent of the</p>
+<p begin="00:36:08.690" end="00:36:14.390" style="s2">population and kinder elsewhere you know</p>
+<p begin="00:36:11.000" end="00:36:18.110" style="s2">our actual settlers versus immigrants or</p>
+<p begin="00:36:14.390" end="00:36:21.470" style="s2">does that even matter to us well that&#39;s</p>
+<p begin="00:36:18.110" end="00:36:23.810" style="s2">a great question because you know I talk</p>
+<p begin="00:36:21.470" end="00:36:26.240" style="s2">about business models and you know</p>
+<p begin="00:36:23.810" end="00:36:28.790" style="s2">viability you know how many people</p>
+<p begin="00:36:26.240" end="00:36:31.790" style="s2">settlers would be really engaged in this</p>
+<p begin="00:36:28.790" end="00:36:35.360" style="s2">conversation or you know but I took my</p>
+<p begin="00:36:31.790" end="00:36:36.770" style="s2">cue from an indigent and indigenous</p>
+<p begin="00:36:35.360" end="00:36:39.490" style="s2">scholar and lawyer</p>
+<p begin="00:36:36.770" end="00:36:41.900" style="s2">Pam Paul Matar who is out of Ryerson</p>
+<p begin="00:36:39.490" end="00:36:44.050" style="s2">University Jubilee you may have heard of</p>
+<p begin="00:36:41.900" end="00:36:44.050" style="s2">her</p>
+<p begin="00:36:44.540" end="00:36:49.400" style="s2">okay so anyhow she&#39;s very active and</p>
+<p begin="00:36:47.300" end="00:36:51.320" style="s2">she&#39;s an activist as well as a professor</p>
+<p begin="00:36:49.400" end="00:36:53.360" style="s2">and educator so she&#39;s written a number</p>
+<p begin="00:36:51.320" end="00:36:55.580" style="s2">of books on indigenous sovereignty and</p>
+<p begin="00:36:53.360" end="00:36:57.260" style="s2">indigenous rights and so on but in one</p>
+<p begin="00:36:55.580" end="00:37:01.160" style="s2">of the books she wrote she actually says</p>
+<p begin="00:36:57.260" end="00:37:03.709" style="s2">in her opinion there&#39;s at least 100,000</p>
+<p begin="00:37:01.160" end="00:37:06.529" style="s2">now they call she calls them allies in</p>
+<p begin="00:37:03.709" end="00:37:08.839" style="s2">Canada so I&#39;m assuming the majority of</p>
+<p begin="00:37:06.529" end="00:37:13.009" style="s2">those would have to be conscious as to</p>
+<p begin="00:37:08.839" end="00:37:14.809" style="s2">where they came from right but that</p>
+<p begin="00:37:13.009" end="00:37:17.839" style="s2">doesn&#39;t necessarily mean that there&#39;s</p>
+<p begin="00:37:14.809" end="00:37:20.959" style="s2">not immigrants you know who who</p>
+<p begin="00:37:17.839" end="00:37:26.390" style="s2">recognize that this land was indigenous</p>
+<p begin="00:37:20.959" end="00:37:29.329" style="s2">to you know different nations and before</p>
+<p begin="00:37:26.390" end="00:37:31.400" style="s2">the settlers arrived right so you know</p>
+<p begin="00:37:29.329" end="00:37:33.199" style="s2">again it has to do with really knowing</p>
+<p begin="00:37:31.400" end="00:37:35.539" style="s2">where you come from which when you look</p>
+<p begin="00:37:33.199" end="00:37:37.069" style="s2">at indigenous relationships and how they</p>
+<p begin="00:37:35.539" end="00:37:38.299" style="s2">introduce themselves the first thing</p>
+<p begin="00:37:37.069" end="00:37:40.099" style="s2">they&#39;ll do is refer to their</p>
+<p begin="00:37:38.299" end="00:37:42.229" style="s2">grandfathers and their grandmothers and</p>
+<p begin="00:37:40.099" end="00:37:46.880" style="s2">their ancestors I mean that&#39;s part of</p>
+<p begin="00:37:42.229" end="00:37:48.559" style="s2">their their ways right so that&#39;s not</p>
+<p begin="00:37:46.880" end="00:37:50.359" style="s2">part of our ways so this is where the</p>
+<p begin="00:37:48.559" end="00:37:52.759" style="s2">conversation gets really interesting</p>
+<p begin="00:37:50.359" end="00:37:54.680" style="s2">right we would like to forget where we</p>
+<p begin="00:37:52.759" end="00:37:56.420" style="s2">came from you know happy is the country</p>
+<p begin="00:37:54.680" end="00:37:59.479" style="s2">that forgets its history us basically</p>
+<p begin="00:37:56.420" end="00:38:01.759" style="s2">Canada United States because in that act</p>
+<p begin="00:37:59.479" end="00:38:03.799" style="s2">of forgetting we erase indigenous</p>
+<p begin="00:38:01.759" end="00:38:06.469" style="s2">peoples thank God</p>
+<p begin="00:38:03.799" end="00:38:08.059" style="s2">we erase our own history too we don&#39;t</p>
+<p begin="00:38:06.469" end="00:38:09.679" style="s2">know where we come from I mean you asked</p>
+<p begin="00:38:08.059" end="00:38:10.789" style="s2">the average Canadian where they come</p>
+<p begin="00:38:09.679" end="00:38:13.849" style="s2">from and they&#39;ll say they&#39;re Canadian</p>
+<p begin="00:38:10.789" end="00:38:16.910" style="s2">and you&#39;re like doesn&#39;t mean anything</p>
+<p begin="00:38:13.849" end="00:38:18.289" style="s2">right you know you know did you know</p>
+<p begin="00:38:16.910" end="00:38:22.400" style="s2">that you&#39;re actually a British subject</p>
+<p begin="00:38:18.289" end="00:38:25.039" style="s2">until 1982 something which I discovered</p>
+<p begin="00:38:22.400" end="00:38:28.279" style="s2">in the last week for God&#39;s sakes</p>
+<p begin="00:38:25.039" end="00:38:31.249" style="s2">right I thought I was a Canadian from</p>
+<p begin="00:38:28.279" end="00:38:33.739" style="s2">that idea I was born I&#39;m actually was a</p>
+<p begin="00:38:31.249" end="00:38:35.420" style="s2">British citizen until 1982 so what the</p>
+<p begin="00:38:33.739" end="00:38:38.089" style="s2">hell does that mean I&#39;m watching now of</p>
+<p begin="00:38:35.420" end="00:38:40.069" style="s2">this series of the crown you know my</p>
+<p begin="00:38:38.089" end="00:38:41.869" style="s2">mother would be a staunch supporter of</p>
+<p begin="00:38:40.069" end="00:38:44.569" style="s2">the Queen every time the Queen&#39;s rolled</p>
+<p begin="00:38:41.869" end="00:38:47.269" style="s2">through town which was Edmonton tar</p>
+<p begin="00:38:44.569" end="00:38:49.069" style="s2">sands area you know we she would try to</p>
+<p begin="00:38:47.269" end="00:38:50.599" style="s2">drag us out to see the Queen but I was</p>
+<p begin="00:38:49.069" end="00:38:51.979" style="s2">like I&#39;m not going to see the Queen what</p>
+<p begin="00:38:50.599" end="00:38:53.839" style="s2">is that nothing to do with me right</p>
+<p begin="00:38:51.979" end="00:38:55.969" style="s2">because again my mother never taught me</p>
+<p begin="00:38:53.839" end="00:38:58.670" style="s2">any of that right even though she had</p>
+<p begin="00:38:55.969" end="00:39:01.099" style="s2">this long seven generation family tree</p>
+<p begin="00:38:58.670" end="00:39:03.380" style="s2">which I now possess which someone took</p>
+<p begin="00:39:01.099" end="00:39:06.289" style="s2">you know hours and weeks and months to</p>
+<p begin="00:39:03.380" end="00:39:08.449" style="s2">compile there&#39;s still no reference to</p>
+<p begin="00:39:06.289" end="00:39:10.819" style="s2">indigenous cultures in there we&#39;re just</p>
+<p begin="00:39:08.449" end="00:39:13.630" style="s2">like this long chain of Scottish people</p>
+<p begin="00:39:10.819" end="00:39:16.359" style="s2">who came to the you know open land and</p>
+<p begin="00:39:13.630" end="00:39:18.160" style="s2">you know started our thing right so yeah</p>
+<p begin="00:39:16.359" end="00:39:22.059" style="s2">it&#39;s a really it&#39;s a really wicked</p>
+<p begin="00:39:18.160" end="00:39:23.680" style="s2">problem it&#39;s really thorny but and it</p>
+<p begin="00:39:22.059" end="00:39:25.690" style="s2">involves history but you know that&#39;s</p>
+<p begin="00:39:23.680" end="00:39:27.819" style="s2">well that&#39;s we&#39;re engaged in right now</p>
+<p begin="00:39:25.690" end="00:39:30.130" style="s2">is a historical moment where we&#39;re all</p>
+<p begin="00:39:27.819" end="00:39:32.049" style="s2">experiencing so this whole Kovan thing</p>
+<p begin="00:39:30.130" end="00:39:34.809" style="s2">is another conversation that we now</p>
+<p begin="00:39:32.049" end="00:39:36.369" style="s2">share you know first peoples as settlers</p>
+<p begin="00:39:34.809" end="00:39:38.349" style="s2">and immigrants were all in this we&#39;re</p>
+<p begin="00:39:36.369" end="00:39:41.079" style="s2">all trying to make sense of this so this</p>
+<p begin="00:39:38.349" end="00:39:44.680" style="s2">is like this is like a huge so yeah</p>
+<p begin="00:39:41.079" end="00:39:46.869" style="s2">these are defining moments with respect</p>
+<p begin="00:39:44.680" end="00:39:48.279" style="s2">to trying to figure out who we are and</p>
+<p begin="00:39:46.869" end="00:39:51.970" style="s2">why we&#39;re here and what we&#39;re doing I</p>
+<p begin="00:39:48.279" end="00:39:57.059" style="s2">know for me two of the things and what I</p>
+<p begin="00:39:51.970" end="00:39:59.200" style="s2">would love to have access to as a is the</p>
+<p begin="00:39:57.059" end="00:40:01.240" style="s2">difference between the traditions that</p>
+<p begin="00:39:59.200" end="00:40:04.000" style="s2">were on Turtle Island first like what is</p>
+<p begin="00:40:01.240" end="00:40:05.980" style="s2">the difference in culture and language</p>
+<p begin="00:40:04.000" end="00:40:07.900" style="s2">and all of these things because I we are</p>
+<p begin="00:40:05.980" end="00:40:08.589" style="s2">part Cherokee and I don&#39;t know enough</p>
+<p begin="00:40:07.900" end="00:40:10.779" style="s2">about that</p>
+<p begin="00:40:08.589" end="00:40:13.180" style="s2">and so I&#39;ve grown up in Canada in</p>
+<p begin="00:40:10.779" end="00:40:16.390" style="s2">Alberta with those tribes and then here</p>
+<p begin="00:40:13.180" end="00:40:18.400" style="s2">with like with these nations and for the</p>
+<p begin="00:40:16.390" end="00:40:20.769" style="s2">last 20 years and so part of what I&#39;m</p>
+<p begin="00:40:18.400" end="00:40:23.259" style="s2">drawn to is the west coast ones I have a</p>
+<p begin="00:40:20.769" end="00:40:24.430" style="s2">childhood this is boring why are we</p>
+<p begin="00:40:23.259" end="00:40:25.750" style="s2">learning this attach which of the</p>
+<p begin="00:40:24.430" end="00:40:27.609" style="s2">Alberta ones because they don&#39;t have you</p>
+<p begin="00:40:25.750" end="00:40:29.710" style="s2">to put you&#39;re introduced to and what I</p>
+<p begin="00:40:27.609" end="00:40:31.210" style="s2">want is my roots from from that and I</p>
+<p begin="00:40:29.710" end="00:40:35.410" style="s2">don&#39;t know what&#39;s what and then from my</p>
+<p begin="00:40:31.210" end="00:40:37.779" style="s2">European side any history we learn is</p>
+<p begin="00:40:35.410" end="00:40:39.759" style="s2">like colonial history but it&#39;s the kings</p>
+<p begin="00:40:37.779" end="00:40:41.410" style="s2">and queens it&#39;s not like what are my</p>
+<p begin="00:40:39.759" end="00:40:43.630" style="s2">actual traditions and so to give anyone</p>
+<p begin="00:40:41.410" end="00:40:45.700" style="s2">access to their roots you kind of need</p>
+<p begin="00:40:43.630" end="00:40:48.069" style="s2">to give everyone access to their roots</p>
+<p begin="00:40:45.700" end="00:40:51.220" style="s2">of like what did it look like to be in</p>
+<p begin="00:40:48.069" end="00:40:53.440" style="s2">Scotland in Wales in Ireland 200 years</p>
+<p begin="00:40:51.220" end="00:40:54.819" style="s2">ago not for the candy Queen but for you</p>
+<p begin="00:40:53.440" end="00:40:57.970" style="s2">know potato farmers that we probably</p>
+<p begin="00:40:54.819" end="00:40:59.500" style="s2">were how can I track my genetics and to</p>
+<p begin="00:40:57.970" end="00:41:02.769" style="s2">know kind of actually what what what I</p>
+<p begin="00:40:59.500" end="00:41:04.420" style="s2">am but even more so because I&#39;ve had I&#39;m</p>
+<p begin="00:41:02.769" end="00:41:07.839" style="s2">always based in tech of like a history</p>
+<p begin="00:41:04.420" end="00:41:09.039" style="s2">the idea of a history a project that we</p>
+<p begin="00:41:07.839" end="00:41:11.200" style="s2">we put in together that you can like</p>
+<p begin="00:41:09.039" end="00:41:13.779" style="s2">zoom in and out of history and part of</p>
+<p begin="00:41:11.200" end="00:41:15.759" style="s2">my I didn&#39;t go and talk to people in on</p>
+<p begin="00:41:13.779" end="00:41:18.220" style="s2">the grounds but like I knew from my</p>
+<p begin="00:41:15.759" end="00:41:20.380" style="s2">experience that a lot of First Nations</p>
+<p begin="00:41:18.220" end="00:41:22.990" style="s2">don&#39;t want their information out there</p>
+<p begin="00:41:20.380" end="00:41:26.049" style="s2">because their information and so like</p>
+<p begin="00:41:22.990" end="00:41:26.970" style="s2">that I know yeah so where that where</p>
+<p begin="00:41:26.049" end="00:41:30.190" style="s2">that</p>
+<p begin="00:41:26.970" end="00:41:32.730" style="s2">comes together is the reason that the</p>
+<p begin="00:41:30.190" end="00:41:35.680" style="s2">Commons is called the Touro flow</p>
+<p begin="00:41:32.730" end="00:41:38.260" style="s2">cultural Commons is that the grandfather</p>
+<p begin="00:41:35.680" end="00:41:40.210" style="s2">treaty of all treaties was a two row</p>
+<p begin="00:41:38.260" end="00:41:43.619" style="s2">wampum treaty I don&#39;t know if you&#39;re</p>
+<p begin="00:41:40.210" end="00:41:48.609" style="s2">familiar with that actually with the</p>
+<p begin="00:41:43.619" end="00:41:52.050" style="s2">Mohawk Ojibwe who - who - only peoples</p>
+<p begin="00:41:48.609" end="00:41:56.349" style="s2">and the Dutch settlers around 1630 one</p>
+<p begin="00:41:52.050" end="00:41:59.109" style="s2">New York area you know that New York New</p>
+<p begin="00:41:56.349" end="00:42:01.270" style="s2">Jersey sort of area so that was the</p>
+<p begin="00:41:59.109" end="00:42:04.630" style="s2">grandfather of all treaties which was</p>
+<p begin="00:42:01.270" end="00:42:06.880" style="s2">created with the Dutch and the the</p>
+<p begin="00:42:04.630" end="00:42:08.530" style="s2">premise of that it is when I took a look</p>
+<p begin="00:42:06.880" end="00:42:11.020" style="s2">at that I was like I&#39;m an information</p>
+<p begin="00:42:08.530" end="00:42:13.540" style="s2">architect and there we have a framework</p>
+<p begin="00:42:11.020" end="00:42:16.270" style="s2">a protocol that was set up by the Chiefs</p>
+<p begin="00:42:13.540" end="00:42:18.190" style="s2">so basically the metaphor is that we&#39;re</p>
+<p begin="00:42:16.270" end="00:42:20.200" style="s2">both in our boats going down the river</p>
+<p begin="00:42:18.190" end="00:42:22.810" style="s2">so first peoples are in their canoe</p>
+<p begin="00:42:20.200" end="00:42:24.280" style="s2">we&#39;re in our you know sailing ships</p>
+<p begin="00:42:22.810" end="00:42:28.900" style="s2">we&#39;re both travelling down the river</p>
+<p begin="00:42:24.280" end="00:42:30.849" style="s2">together the same river the the goal is</p>
+<p begin="00:42:28.900" end="00:42:34.119" style="s2">to travel together but not to interfere</p>
+<p begin="00:42:30.849" end="00:42:37.510" style="s2">with one another but we should know each</p>
+<p begin="00:42:34.119" end="00:42:39.130" style="s2">other&#39;s ways and customs and laws at a</p>
+<p begin="00:42:37.510" end="00:42:41.680" style="s2">higher level we&#39;re not talking about</p>
+<p begin="00:42:39.130" end="00:42:44.109" style="s2">sacred ceremonies and knowledge that&#39;s</p>
+<p begin="00:42:41.680" end="00:42:45.369" style="s2">sacred that&#39;s not what we&#39;re looking for</p>
+<p begin="00:42:44.109" end="00:42:48.369" style="s2">we&#39;re talking about a general</p>
+<p begin="00:42:45.369" end="00:42:51.250" style="s2">understanding of what indigenous law</p>
+<p begin="00:42:48.369" end="00:42:53.950" style="s2">means right what their ways and their</p>
+<p begin="00:42:51.250" end="00:42:55.720" style="s2">customs represent to them right and</p>
+<p begin="00:42:53.950" end="00:42:58.210" style="s2">obviously again you have this</p>
+<p begin="00:42:55.720" end="00:43:00.640" style="s2">asymmetrical balance because they know a</p>
+<p begin="00:42:58.210" end="00:43:04.119" style="s2">ton more about us than we know any we</p>
+<p begin="00:43:00.640" end="00:43:06.700" style="s2">don&#39;t nothing literally zilch about most</p>
+<p begin="00:43:04.119" end="00:43:08.680" style="s2">indigenous cultures and that is again</p>
+<p begin="00:43:06.700" end="00:43:11.140" style="s2">this the the other narrative which is</p>
+<p begin="00:43:08.680" end="00:43:13.630" style="s2">apartheid which if you go through</p>
+<p begin="00:43:11.140" end="00:43:15.369" style="s2">historical records the founding fathers</p>
+<p begin="00:43:13.630" end="00:43:17.080" style="s2">were aware of the fact that if</p>
+<p begin="00:43:15.369" end="00:43:18.250" style="s2">indigenous peoples and settlers got</p>
+<p begin="00:43:17.080" end="00:43:19.750" style="s2">together there could be a whole</p>
+<p begin="00:43:18.250" end="00:43:22.599" style="s2">different dynamic the same thing in</p>
+<p begin="00:43:19.750" end="00:43:24.820" style="s2">America you know you can include that in</p>
+<p begin="00:43:22.599" end="00:43:27.280" style="s2">African Americans and then later into</p>
+<p begin="00:43:24.820" end="00:43:29.740" style="s2">Canada the same dealio right if you get</p>
+<p begin="00:43:27.280" end="00:43:31.599" style="s2">those two groups together you know not</p>
+<p begin="00:43:29.740" end="00:43:33.880" style="s2">the ruling class but the working class</p>
+<p begin="00:43:31.599" end="00:43:36.070" style="s2">and then the indigenous peoples and the</p>
+<p begin="00:43:33.880" end="00:43:38.380" style="s2">African slaves you&#39;re gonna have a lot</p>
+<p begin="00:43:36.070" end="00:43:39.850" style="s2">of trouble so we have actually been kept</p>
+<p begin="00:43:38.380" end="00:43:44.200" style="s2">apart this is a</p>
+<p begin="00:43:39.850" end="00:43:46.150" style="s2">system that has been designed an</p>
+<p begin="00:43:44.200" end="00:43:48.760" style="s2">information system that&#39;s been in design</p>
+<p begin="00:43:46.150" end="00:43:51.700" style="s2">from the start with a very explicit goal</p>
+<p begin="00:43:48.760" end="00:43:53.440" style="s2">and that is to keep us separated keep us</p>
+<p begin="00:43:51.700" end="00:43:57.130" style="s2">apart and hence we have the word</p>
+<p begin="00:43:53.440" end="00:43:58.870" style="s2">apartheid so yeah not knowing anything</p>
+<p begin="00:43:57.130" end="00:44:00.460" style="s2">about your culture where you come from</p>
+<p begin="00:43:58.870" end="00:44:02.320" style="s2">and who you&#39;re connected to that&#39;s all</p>
+<p begin="00:44:00.460" end="00:44:04.120" style="s2">part of the system right so we need to</p>
+<p begin="00:44:02.320" end="00:44:05.680" style="s2">recognize that and try to break through</p>
+<p begin="00:44:04.120" end="00:44:08.860" style="s2">that that&#39;s why it&#39;s very important that</p>
+<p begin="00:44:05.680" end="00:44:12.070" style="s2">settlers getting mate engaged it&#39;s just</p>
+<p begin="00:44:08.860" end="00:44:15.580" style="s2">a part of overarching critique on</p>
+<p begin="00:44:12.070" end="00:44:19.120" style="s2">anything we do together is how do you</p>
+<p begin="00:44:15.580" end="00:44:20.920" style="s2">decide what gets included and what</p>
+<p begin="00:44:19.120" end="00:44:26.590" style="s2">doesn&#39;t get included for instance if</p>
+<p begin="00:44:20.920" end="00:44:27.970" style="s2">there is the og boy with nation and they</p>
+<p begin="00:44:26.590" end="00:44:30.070" style="s2">get together and say this is what we&#39;re</p>
+<p begin="00:44:27.970" end="00:44:32.230" style="s2">willing to share that is clear that&#39;s</p>
+<p begin="00:44:30.070" end="00:44:33.520" style="s2">what you share but if one person from</p>
+<p begin="00:44:32.230" end="00:44:35.050" style="s2">that nation is like I&#39;m good hears</p>
+<p begin="00:44:33.520" end="00:44:36.220" style="s2">everything everything that my grandma</p>
+<p begin="00:44:35.050" end="00:44:39.130" style="s2">and grandpa taught me and I want to</p>
+<p begin="00:44:36.220" end="00:44:40.750" style="s2">share it is it theirs to share or do you</p>
+<p begin="00:44:39.130" end="00:44:42.850" style="s2">you know what I mean like how what group</p>
+<p begin="00:44:40.750" end="00:44:44.680" style="s2">level do you have to do that on because</p>
+<p begin="00:44:42.850" end="00:44:46.870" style="s2">in what I&#39;m creating it&#39;s like well the</p>
+<p begin="00:44:44.680" end="00:44:48.400" style="s2">co-operators and the shares Trump the</p>
+<p begin="00:44:46.870" end="00:44:50.710" style="s2">other ones right because it&#39;s like one</p>
+<p begin="00:44:48.400" end="00:44:53.920" style="s2">person shares it&#39;s shared at the same</p>
+<p begin="00:44:50.710" end="00:44:56.440" style="s2">time that doesn&#39;t honor especially in</p>
+<p begin="00:44:53.920" end="00:44:58.030" style="s2">this in this realm right but like it</p>
+<p begin="00:44:56.440" end="00:45:00.970" style="s2">isn&#39;t necessarily ours to share it was</p>
+<p begin="00:44:58.030" end="00:45:03.040" style="s2">because it&#39;s yours to share well then</p>
+<p begin="00:45:00.970" end="00:45:06.730" style="s2">again you get into individual versus</p>
+<p begin="00:45:03.040" end="00:45:09.940" style="s2">collective ways of being so most</p>
+<p begin="00:45:06.730" end="00:45:11.920" style="s2">indigenous peoples that I know I you</p>
+<p begin="00:45:09.940" end="00:45:13.600" style="s2">know they know what to share and what</p>
+<p begin="00:45:11.920" end="00:45:15.040" style="s2">not to share again they just like they</p>
+<p begin="00:45:13.600" end="00:45:16.990" style="s2">know where they come from and who their</p>
+<p begin="00:45:15.040" end="00:45:19.180" style="s2">ancestors are this is their way of life</p>
+<p begin="00:45:16.990" end="00:45:20.560" style="s2">right so it&#39;s not likely that they&#39;re</p>
+<p begin="00:45:19.180" end="00:45:22.930" style="s2">going to share anything that they know</p>
+<p begin="00:45:20.560" end="00:45:25.810" style="s2">that they shouldn&#39;t share right you know</p>
+<p begin="00:45:22.930" end="00:45:28.300" style="s2">so again when I did my research with UX</p>
+<p begin="00:45:25.810" end="00:45:30.700" style="s2">settlers or the UX research with the</p>
+<p begin="00:45:28.300" end="00:45:32.530" style="s2">settlers I asked them how do they find</p>
+<p begin="00:45:30.700" end="00:45:34.810" style="s2">their information about first peoples</p>
+<p begin="00:45:32.530" end="00:45:36.550" style="s2">like where is it coming from and what do</p>
+<p begin="00:45:34.810" end="00:45:38.890" style="s2">they find interesting and could they</p>
+<p begin="00:45:36.550" end="00:45:42.070" style="s2">please blog about it and put their</p>
+<p begin="00:45:38.890" end="00:45:44.290" style="s2">personal spin on it and then fit it into</p>
+<p begin="00:45:42.070" end="00:45:45.730" style="s2">one of those frameworks so it&#39;s either</p>
+<p begin="00:45:44.290" end="00:45:47.650" style="s2">going to go under indigenous laws</p>
+<p begin="00:45:45.730" end="00:45:50.760" style="s2">indigenous ways that are indigenous</p>
+<p begin="00:45:47.650" end="00:45:54.150" style="s2">customs right so that they can try to</p>
+<p begin="00:45:50.760" end="00:45:56.620" style="s2">you know put it under a big cat</p>
+<p begin="00:45:54.150" end="00:45:58.570" style="s2">so typically again the stuff you find</p>
+<p begin="00:45:56.620" end="00:46:00.760" style="s2">online you know there&#39;s a lot of</p>
+<p begin="00:45:58.570" end="00:46:03.280" style="s2">information about indigenous cultures</p>
+<p begin="00:46:00.760" end="00:46:04.960" style="s2">but it&#39;s not culturally specific like</p>
+<p begin="00:46:03.280" end="00:46:07.030" style="s2">you&#39;re not gonna find out how they do</p>
+<p begin="00:46:04.960" end="00:46:08.950" style="s2">the ceremonies like all this stuff is</p>
+<p begin="00:46:07.030" end="00:46:10.780" style="s2">out in the public sphere right there&#39;s a</p>
+<p begin="00:46:08.950" end="00:46:13.450" style="s2">ton of information out there but nobody</p>
+<p begin="00:46:10.780" end="00:46:14.980" style="s2">archives that nobody categorizes no</p>
+<p begin="00:46:13.450" end="00:46:17.170" style="s2">there&#39;s no central place where you can</p>
+<p begin="00:46:14.980" end="00:46:19.080" style="s2">get this information so if you just wake</p>
+<p begin="00:46:17.170" end="00:46:23.650" style="s2">up one day and say hey I have a duty</p>
+<p begin="00:46:19.080" end="00:46:25.180" style="s2">responsibility to treaty how do I act on</p>
+<p begin="00:46:23.650" end="00:46:26.770" style="s2">that what do I know right where are you</p>
+<p begin="00:46:25.180" end="00:46:28.780" style="s2">gonna go to find that information you&#39;re</p>
+<p begin="00:46:26.770" end="00:46:31.570" style="s2">gonna spend a lot of time like I spent</p>
+<p begin="00:46:28.780" end="00:46:33.490" style="s2">10 years thinking about this right you</p>
+<p begin="00:46:31.570" end="00:46:35.080" style="s2">do even to arrive at the space last week</p>
+<p begin="00:46:33.490" end="00:46:38.710" style="s2">where I discover I was a British citizen</p>
+<p begin="00:46:35.080" end="00:46:41.050" style="s2">until 1982 right like that you know</p>
+<p begin="00:46:38.710" end="00:46:43.420" style="s2">there&#39;s just no one central space where</p>
+<p begin="00:46:41.050" end="00:46:46.660" style="s2">you can sort of quickly get up to speed</p>
+<p begin="00:46:43.420" end="00:46:48.370" style="s2">and try to understand what first peoples</p>
+<p begin="00:46:46.660" end="00:46:50.440" style="s2">already know all pretty much about our</p>
+<p begin="00:46:48.370" end="00:46:55.170" style="s2">culture like they know a ton about us</p>
+<p begin="00:46:50.440" end="00:46:59.140" style="s2">right so mm-hmm</p>
+<p begin="00:46:55.170" end="00:47:00.820" style="s2">but bitly if I wanted to ask you so</p>
+<p begin="00:46:59.140" end="00:47:03.580" style="s2">you&#39;re doing something impossible</p>
+<p begin="00:47:00.820" end="00:47:05.230" style="s2">bringing together opposing sounds sort</p>
+<p begin="00:47:03.580" end="00:47:07.660" style="s2">of like what I&#39;m doing like two</p>
+<p begin="00:47:05.230" end="00:47:10.090" style="s2">different parties that it&#39;s about bring</p>
+<p begin="00:47:07.660" end="00:47:12.700" style="s2">them together so how are you overcoming</p>
+<p begin="00:47:10.090" end="00:47:16.300" style="s2">those like getting those users together</p>
+<p begin="00:47:12.700" end="00:47:19.900" style="s2">how like well I haven&#39;t gotten actually</p>
+<p begin="00:47:16.300" end="00:47:23.440" style="s2">getting people together and my project</p>
+<p begin="00:47:19.900" end="00:47:27.040" style="s2">is around very specific details like if</p>
+<p begin="00:47:23.440" end="00:47:29.320" style="s2">people were arguing on the topic of what</p>
+<p begin="00:47:27.040" end="00:47:31.030" style="s2">you know what year should we stop the</p>
+<p begin="00:47:29.320" end="00:47:34.300" style="s2">categorization of settler since there</p>
+<p begin="00:47:31.030" end="00:47:36.730" style="s2">are specific issues yeah then then yeah</p>
+<p begin="00:47:34.300" end="00:47:38.920" style="s2">my system allows them to put in kind of</p>
+<p begin="00:47:36.730" end="00:47:41.140" style="s2">like pros and cons and counter-arguments</p>
+<p begin="00:47:38.920" end="00:47:42.790" style="s2">and stuff and then it uses some math to</p>
+<p begin="00:47:41.140" end="00:47:45.300" style="s2">kind of say well based on the evidence</p>
+<p begin="00:47:42.790" end="00:47:48.430" style="s2">or the information that&#39;s been provided</p>
+<p begin="00:47:45.300" end="00:47:51.460" style="s2">here&#39;s the score the system has so far</p>
+<p begin="00:47:48.430" end="00:47:52.900" style="s2">as a guide to kind of figure out what&#39;s</p>
+<p begin="00:47:51.460" end="00:47:56.760" style="s2">in there and then it that it helps</p>
+<p begin="00:47:52.900" end="00:48:00.820" style="s2">people to explore their unspoken</p>
+<p begin="00:47:56.760" end="00:48:02.890" style="s2">objections or or even their emotional</p>
+<p begin="00:48:00.820" end="00:48:06.320" style="s2">things in there and then helps as a</p>
+<p begin="00:48:02.890" end="00:48:08.930" style="s2">group that group kind of get it together</p>
+<p begin="00:48:06.320" end="00:48:10.609" style="s2">so it&#39;s it&#39;s similar to yours in that</p>
+<p begin="00:48:08.930" end="00:48:12.500" style="s2">you know our dealing with a lot of</p>
+<p begin="00:48:10.609" end="00:48:15.650" style="s2">emotions and dealing with contentious</p>
+<p begin="00:48:12.500" end="00:48:18.020" style="s2">issues and people that might be arguing</p>
+<p begin="00:48:15.650" end="00:48:20.420" style="s2">and misunderstanding a lot the</p>
+<p begin="00:48:18.020" end="00:48:24.260" style="s2">difference is that my system can only</p>
+<p begin="00:48:20.420" end="00:48:26.119" style="s2">handle very I started from the bottom up</p>
+<p begin="00:48:24.260" end="00:48:27.680" style="s2">as far as complexity it can only handle</p>
+<p begin="00:48:26.119" end="00:48:29.240" style="s2">really simple things right now and then</p>
+<p begin="00:48:27.680" end="00:48:32.630" style="s2">as I grow it&#39;ll be able to handle</p>
+<p begin="00:48:29.240" end="00:48:35.240" style="s2">hopefully broader and broader topics</p>
+<p begin="00:48:32.630" end="00:48:37.849" style="s2">it&#39;s called reason score at reason score</p>
+<p begin="00:48:35.240" end="00:48:40.099" style="s2">calm so if you ever want to check that</p>
+<p begin="00:48:37.849" end="00:48:41.930" style="s2">out and yeah definitely if you if you</p>
+<p begin="00:48:40.099" end="00:48:45.740" style="s2">have any contentious issues that you</p>
+<p begin="00:48:41.930" end="00:48:47.869" style="s2">think could work I&#39;m looking for smaller</p>
+<p begin="00:48:45.740" end="00:48:50.089" style="s2">problems not like climate change or</p>
+<p begin="00:48:47.869" end="00:48:52.310" style="s2">stuff like that I do know a group that&#39;s</p>
+<p begin="00:48:50.089" end="00:48:54.200" style="s2">working on stuff like that but smaller</p>
+<p begin="00:48:52.310" end="00:48:57.349" style="s2">like specific things like Adria and I</p>
+<p begin="00:48:54.200" end="00:49:01.520" style="s2">were talking about a pit bull ban and</p>
+<p begin="00:48:57.349" end="00:49:05.839" style="s2">Denver as kind of a topic to explore</p>
+<p begin="00:49:01.520" end="00:49:09.740" style="s2">using this tool so it&#39;s actually a tool</p>
+<p begin="00:49:05.839" end="00:49:11.869" style="s2">that you would open source code</p>
+<p begin="00:49:09.740" end="00:49:13.430" style="s2">algorithm like how do it does it and</p>
+<p begin="00:49:11.869" end="00:49:14.930" style="s2">then you could plug it in and the end of</p>
+<p begin="00:49:13.430" end="00:49:17.300" style="s2">the day is that what it&#39;s gonna be or is</p>
+<p begin="00:49:14.930" end="00:49:20.030" style="s2">it a standalone sort of app like you&#39;re</p>
+<p begin="00:49:17.300" end="00:49:21.710" style="s2">building it&#39;s open-source software and</p>
+<p begin="00:49:20.030" end="00:49:23.450" style="s2">it&#39;s kind of meant to be I think it&#39;ll</p>
+<p begin="00:49:21.710" end="00:49:27.260" style="s2">end up being a plug-in to other things</p>
+<p begin="00:49:23.450" end="00:49:29.720" style="s2">like loomio or some you know any other</p>
+<p begin="00:49:27.260" end="00:49:32.960" style="s2">tool so it might be something that your</p>
+<p begin="00:49:29.720" end="00:49:34.609" style="s2">community might or that you know the the</p>
+<p begin="00:49:32.960" end="00:49:38.060" style="s2">tech that you&#39;re building it might be a</p>
+<p begin="00:49:34.609" end="00:49:40.460" style="s2">feature a good little feature if if it</p>
+<p begin="00:49:38.060" end="00:49:43.790" style="s2">if it&#39;s useful so it&#39;s kind of like a</p>
+<p begin="00:49:40.460" end="00:49:46.400" style="s2">rating mmm-hmm is that with you as</p>
+<p begin="00:49:43.790" end="00:49:48.320" style="s2">opposed to people voting on whether</p>
+<p begin="00:49:46.400" end="00:49:51.619" style="s2">something&#39;s like they agree or disagree</p>
+<p begin="00:49:48.320" end="00:49:54.619" style="s2">with the point it it says if you</p>
+<p begin="00:49:51.619" end="00:49:57.200" style="s2">disagree with it tell us why and then</p>
+<p begin="00:49:54.619" end="00:49:59.450" style="s2">and you don&#39;t have duplication of</p>
+<p begin="00:49:57.200" end="00:50:02.180" style="s2">reasons a reason should only be in there</p>
+<p begin="00:49:59.450" end="00:50:04.720" style="s2">once you might change the wording of the</p>
+<p begin="00:50:02.180" end="00:50:07.310" style="s2">reason to be more specific or more clear</p>
+<p begin="00:50:04.720" end="00:50:09.170" style="s2">so it kind of reduces duplication makes</p>
+<p begin="00:50:07.310" end="00:50:12.500" style="s2">a little bit harder to troll to jubblies</p>
+<p begin="00:50:09.170" end="00:50:15.200" style="s2">concept because it&#39;s not as simple as</p>
+<p begin="00:50:12.500" end="00:50:17.210" style="s2">writing a comment and the person doesn&#39;t</p>
+<p begin="00:50:15.200" end="00:50:18.670" style="s2">win that either gets the most popularity</p>
+<p begin="00:50:17.210" end="00:50:20.050" style="s2">or the most</p>
+<p begin="00:50:18.670" end="00:50:21.640" style="s2">and actually people don&#39;t win because</p>
+<p begin="00:50:20.050" end="00:50:24.760" style="s2">it&#39;s a specific topic and you don&#39;t even</p>
+<p begin="00:50:21.640" end="00:50:27.280" style="s2">know who and usually you don&#39;t even know</p>
+<p begin="00:50:24.760" end="00:50:29.590" style="s2">who put in that claim or that piece of</p>
+<p begin="00:50:27.280" end="00:50:30.850" style="s2">evidence because it&#39;s not in the end</p>
+<p begin="00:50:29.590" end="00:50:32.950" style="s2">it&#39;s not important when you&#39;re trying to</p>
+<p begin="00:50:30.850" end="00:50:37.780" style="s2">make a group decision true-true</p>
+<p begin="00:50:32.950" end="00:50:41.440" style="s2">sounds fascinating yeah and yeah I&#39;ll be</p>
+<p begin="00:50:37.780" end="00:50:43.660" style="s2">having some experiments soon out and any</p>
+<p begin="00:50:41.440" end="00:50:45.220" style="s2">feedback like we say feedback you could</p>
+<p begin="00:50:43.660" end="00:50:48.730" style="s2">try and make me cry a few well I&#39;m uh</p>
+<p begin="00:50:45.220" end="00:50:51.490" style="s2">protective I&#39;m up for testing one of the</p>
+<p begin="00:50:48.730" end="00:50:53.290" style="s2">most important things yeah yeah got it</p>
+<p begin="00:50:51.490" end="00:50:55.270" style="s2">I&#39;m just to that point it&#39;s just that</p>
+<p begin="00:50:53.290" end="00:50:56.920" style="s2">like everywhere every time I bring it up</p>
+<p begin="00:50:55.270" end="00:50:58.870" style="s2">like just showing it to a drill this</p>
+<p begin="00:50:56.920" end="00:51:02.230" style="s2">morning I found like four or five things</p>
+<p begin="00:50:58.870" end="00:51:04.300" style="s2">it&#39;s like oh it&#39;s still not quite even I</p>
+<p begin="00:51:02.230" end="00:51:05.800" style="s2">mean it&#39;s enough to get feedback but</p>
+<p begin="00:51:04.300" end="00:51:07.150" style="s2">it&#39;s not enough that I want to hand out</p>
+<p begin="00:51:05.800" end="00:51:10.510" style="s2">to a lot of people because there&#39;s some</p>
+<p begin="00:51:07.150" end="00:51:11.530" style="s2">obvious flaws that I just need to fix</p>
+<p begin="00:51:10.510" end="00:51:15.540" style="s2">over the next week or two</p>
+<p begin="00:51:11.530" end="00:51:17.560" style="s2">oh yeah I appreciate any help and</p>
+<p begin="00:51:15.540" end="00:51:20.710" style="s2">Jubilee you mentioned is something about</p>
+<p begin="00:51:17.560" end="00:51:23.590" style="s2">an hour long conversation what is that</p>
+<p begin="00:51:20.710" end="00:51:26.020" style="s2">what does that mean like how do you is</p>
+<p begin="00:51:23.590" end="00:51:27.910" style="s2">solution raising is a generative</p>
+<p begin="00:51:26.020" end="00:51:29.950" style="s2">hour-long conversation it&#39;s broken into</p>
+<p begin="00:51:27.910" end="00:51:32.230" style="s2">three parts so for 15 minutes we talk</p>
+<p begin="00:51:29.950" end="00:51:34.090" style="s2">about what is currently being done in</p>
+<p begin="00:51:32.230" end="00:51:36.400" style="s2">that sector and then we spend 15 minutes</p>
+<p begin="00:51:34.090" end="00:51:38.470" style="s2">talking about our individual ideal</p>
+<p begin="00:51:36.400" end="00:51:40.860" style="s2">versions of the future and then we spend</p>
+<p begin="00:51:38.470" end="00:51:43.450" style="s2">30 minutes talking about what is</p>
+<p begin="00:51:40.860" end="00:51:46.360" style="s2">something we could create right now if</p>
+<p begin="00:51:43.450" end="00:51:48.910" style="s2">we had 10,000 people and $100,000 and so</p>
+<p begin="00:51:46.360" end="00:51:51.580" style="s2">we&#39;ve done seven of them today on things</p>
+<p begin="00:51:48.910" end="00:51:53.110" style="s2">like transportation and education the</p>
+<p begin="00:51:51.580" end="00:51:55.360" style="s2">most recent run on Wednesday was on</p>
+<p begin="00:51:53.110" end="00:51:57.490" style="s2">mental health and it was on it was live</p>
+<p begin="00:51:55.360" end="00:51:58.510" style="s2">on the one I do I go live every morning</p>
+<p begin="00:51:57.490" end="00:52:00.940" style="s2">at 8:30 and so I&#39;m gonna do that</p>
+<p begin="00:51:58.510" end="00:52:02.590" style="s2">continually for Wednesdays have people</p>
+<p begin="00:52:00.940" end="00:52:04.720" style="s2">come in and participate in the live and</p>
+<p begin="00:52:02.590" end="00:52:06.550" style="s2">then I&#39;ll figure out it&#39;s right now it&#39;s</p>
+<p begin="00:52:04.720" end="00:52:08.230" style="s2">a Facebook group and it&#39;s YouTube and</p>
+<p begin="00:52:06.550" end="00:52:10.690" style="s2">all of the other solution reasons that</p>
+<p begin="00:52:08.230" end="00:52:12.370" style="s2">were pre-recorded or on this channel</p>
+<p begin="00:52:10.690" end="00:52:13.660" style="s2">together Tech whereas the other ones</p>
+<p begin="00:52:12.370" end="00:52:16.900" style="s2">because if when I go live I go live on</p>
+<p begin="00:52:13.660" end="00:52:20.380" style="s2">Jubilee saves the world Channel so I</p>
+<p begin="00:52:16.900" end="00:52:21.940" style="s2">figure you know that dynamic um where it</p>
+<p begin="00:52:20.380" end="00:52:23.470" style="s2">gets posted on Facebook and stuff is</p>
+<p begin="00:52:21.940" end="00:52:25.540" style="s2">what I&#39;m kind of currently figuring out</p>
+<p begin="00:52:23.470" end="00:52:27.250" style="s2">cuz I have new ideas and I want to run</p>
+<p begin="00:52:25.540" end="00:52:28.840" style="s2">with them and like where to put them and</p>
+<p begin="00:52:27.250" end="00:52:31.420" style="s2">how they they incorporate with together</p>
+<p begin="00:52:28.840" end="00:52:32.280" style="s2">tech and stuff is is part of what so</p>
+<p begin="00:52:31.420" end="00:52:35.430" style="s2">your facility</p>
+<p begin="00:52:32.280" end="00:52:37.440" style="s2">hating conversations then around like</p>
+<p begin="00:52:35.430" end="00:52:39.120" style="s2">people will propose let&#39;s do it around</p>
+<p begin="00:52:37.440" end="00:52:41.640" style="s2">this let&#39;s do it around that and you&#39;re</p>
+<p begin="00:52:39.120" end="00:52:42.930" style="s2">facilitating you is that yeah yeah we&#39;re</p>
+<p begin="00:52:41.640" end="00:52:43.980" style="s2">picking different topics and doing that</p>
+<p begin="00:52:42.930" end="00:52:46.200" style="s2">there&#39;s that like I said there&#39;s the</p>
+<p begin="00:52:43.980" end="00:52:48.390" style="s2">Facebook group where the idea was anyone</p>
+<p begin="00:52:46.200" end="00:52:50.610" style="s2">could start one so you even though we&#39;ve</p>
+<p begin="00:52:48.390" end="00:52:52.200" style="s2">had one on education anyone could do one</p>
+<p begin="00:52:50.610" end="00:52:54.690" style="s2">on education and have it different</p>
+<p begin="00:52:52.200" end="00:52:56.550" style="s2">people so but that is as most of the</p>
+<p begin="00:52:54.690" end="00:52:58.530" style="s2">ideas it doesn&#39;t it didn&#39;t generate in</p>
+<p begin="00:52:56.550" end="00:53:01.680" style="s2">that way it is yes I&#39;m the one who needs</p>
+<p begin="00:52:58.530" end="00:53:03.210" style="s2">to facilitate all of them it appears so</p>
+<p begin="00:53:01.680" end="00:53:04.860" style="s2">I have been facilitating them and</p>
+<p begin="00:53:03.210" end="00:53:06.960" style="s2">eventually hopefully they&#39;ll move on to</p>
+<p begin="00:53:04.860" end="00:53:09.480" style="s2">zoom or there will be more people are</p>
+<p begin="00:53:06.960" end="00:53:12.690" style="s2">dissipating in it than Gerry we have to</p>
+<p begin="00:53:09.480" end="00:53:14.850" style="s2">do water on treaty treaty making are you</p>
+<p begin="00:53:12.690" end="00:53:16.860" style="s2">making fun of me making sense of</p>
+<p begin="00:53:14.850" end="00:53:18.570" style="s2">treating I don&#39;t just want to say treaty</p>
+<p begin="00:53:16.860" end="00:53:20.850" style="s2">making cuz those are done but making</p>
+<p begin="00:53:18.570" end="00:53:23.100" style="s2">sense of treaty making treaties right</p>
+<p begin="00:53:20.850" end="00:53:25.140" style="s2">are you making that would be great yeah</p>
+<p begin="00:53:23.100" end="00:53:27.570" style="s2">we&#39;re like it might be it&#39;s usually a</p>
+<p begin="00:53:25.140" end="00:53:31.290" style="s2">more broad topic like indigenous relate</p>
+<p begin="00:53:27.570" end="00:53:32.580" style="s2">like First Peoples settler relations</p>
+<p begin="00:53:31.290" end="00:53:34.500" style="s2">right what does that currently look like</p>
+<p begin="00:53:32.580" end="00:53:36.060" style="s2">we love that to look like and then what</p>
+<p begin="00:53:34.500" end="00:53:37.260" style="s2">could we do now with ten thousand</p>
+<p begin="00:53:36.060" end="00:53:38.790" style="s2">hundred thousand I think it&#39;d be harder</p>
+<p begin="00:53:37.260" end="00:53:41.010" style="s2">to do that with the treaty making just</p>
+<p begin="00:53:38.790" end="00:53:42.630" style="s2">because people need your service first</p>
+<p begin="00:53:41.010" end="00:53:46.260" style="s2">to kind understand what that is in order</p>
+<p begin="00:53:42.630" end="00:53:47.850" style="s2">to be able true yeah the others have to</p>
+<p begin="00:53:46.260" end="00:53:49.110" style="s2">have that that conversation would be</p>
+<p begin="00:53:47.850" end="00:53:51.180" style="s2">amazing I mean you can call a</p>
+<p begin="00:53:49.110" end="00:53:53.330" style="s2">reconciliation whatever you want to call</p>
+<p begin="00:53:51.180" end="00:53:56.520" style="s2">it right but the whole idea of</p>
+<p begin="00:53:53.330" end="00:53:59.250" style="s2">reconciling you know we&#39;re in a period</p>
+<p begin="00:53:56.520" end="00:54:00.870" style="s2">of reconciliation right so that is</p>
+<p begin="00:53:59.250" end="00:54:04.140" style="s2">basically what we&#39;re supposed to be</p>
+<p begin="00:54:00.870" end="00:54:05.490" style="s2">doing right but when we say we of course</p>
+<p begin="00:54:04.140" end="00:54:07.500" style="s2">again it&#39;s hand it all off to the</p>
+<p begin="00:54:05.490" end="00:54:10.830" style="s2">institutions and citizens like okay</p>
+<p begin="00:54:07.500" end="00:54:15.210" style="s2">they&#39;ll handle it but no handle it well</p>
+<p begin="00:54:10.830" end="00:54:17.880" style="s2">to do that yeah with most things so</p>
+<p begin="00:54:15.210" end="00:54:19.320" style="s2">we&#39;re coming down to our last five and a</p>
+<p begin="00:54:17.880" end="00:54:23.820" style="s2">half minutes</p>
+<p begin="00:54:19.320" end="00:54:27.840" style="s2">oh nice answer can I ask about your wiki</p>
+<p begin="00:54:23.820" end="00:54:30.120" style="s2">as it aired Rio Adria Adria can I ask</p>
+<p begin="00:54:27.840" end="00:54:32.780" style="s2">about your wiki because my whole settler</p>
+<p begin="00:54:30.120" end="00:54:36.990" style="s2">UX research ended up with oh we need a</p>
+<p begin="00:54:32.780" end="00:54:41.970" style="s2">wiki yeah tell me about yours</p>
+<p begin="00:54:36.990" end="00:54:43.530" style="s2">so the name is like kind of descriptive</p>
+<p begin="00:54:41.970" end="00:54:44.700" style="s2">it sort of makes me two different things</p>
+<p begin="00:54:43.530" end="00:54:45.570" style="s2">it&#39;s kind of meant to be a wiki on</p>
+<p begin="00:54:44.700" end="00:54:47.700" style="s2">elections and</p>
+<p begin="00:54:45.570" end="00:54:49.110" style="s2">and politicians and parties and sort of</p>
+<p begin="00:54:47.700" end="00:54:51.390" style="s2">their history and that type of thing but</p>
+<p begin="00:54:49.110" end="00:54:53.390" style="s2">then it&#39;s also meant to be a tool where</p>
+<p begin="00:54:51.390" end="00:54:55.290" style="s2">people can sort of vote or left on</p>
+<p begin="00:54:53.390" end="00:54:57.150" style="s2">information</p>
+<p begin="00:54:55.290" end="00:54:58.920" style="s2">so really it&#39;s focused on three main</p>
+<p begin="00:54:57.150" end="00:55:01.500" style="s2">areas it&#39;s focused on like politics and</p>
+<p begin="00:54:58.920" end="00:55:02.640" style="s2">elections it&#39;s focused on being able to</p>
+<p begin="00:55:01.500" end="00:55:04.800" style="s2">sort of have evidence-based</p>
+<p begin="00:55:02.640" end="00:55:06.900" style="s2">conversations to figure out you know</p>
+<p begin="00:55:04.800" end="00:55:09.270" style="s2">who&#39;s telling the truth and where things</p>
+<p begin="00:55:06.900" end="00:55:13.740" style="s2">actually lie through the controversial</p>
+<p begin="00:55:09.270" end="00:55:15.600" style="s2">issues so like as Bentley sort of said</p>
+<p begin="00:55:13.740" end="00:55:17.340" style="s2">his de starting from the the bottom and</p>
+<p begin="00:55:15.600" end="00:55:20.640" style="s2">working up Lyons got a starting from the</p>
+<p begin="00:55:17.340" end="00:55:23.070" style="s2">top and working down and I&#39;m a shooting</p>
+<p begin="00:55:20.640" end="00:55:26.130" style="s2">to shoot shooting high and the first two</p>
+<p begin="00:55:23.070" end="00:55:29.160" style="s2">topics that I want to cover are vaccines</p>
+<p begin="00:55:26.130" end="00:55:31.410" style="s2">and climate change well and then the</p>
+<p begin="00:55:29.160" end="00:55:33.630" style="s2">third part is sort of the tools needed</p>
+<p begin="00:55:31.410" end="00:55:36.440" style="s2">to have that conversation is kind of a</p>
+<p begin="00:55:33.630" end="00:55:38.940" style="s2">news aggregate tool almost where as</p>
+<p begin="00:55:36.440" end="00:55:42.240" style="s2">information is processed and has experts</p>
+<p begin="00:55:38.940" end="00:55:43.440" style="s2">weigh in on the various parts we&#39;ll</p>
+<p begin="00:55:42.240" end="00:55:45.750" style="s2">start to get sort of you know it</p>
+<p begin="00:55:43.440" end="00:55:48.150" style="s2">snapshot of how all the different</p>
+<p begin="00:55:45.750" end="00:55:50.580" style="s2">sources of information are talking about</p>
+<p begin="00:55:48.150" end="00:55:52.500" style="s2">the same topic have the community review</p>
+<p begin="00:55:50.580" end="00:55:54.000" style="s2">all that and start to see you know who&#39;s</p>
+<p begin="00:55:52.500" end="00:55:56.870" style="s2">telling the truth who has good evidence</p>
+<p begin="00:55:54.000" end="00:56:00.780" style="s2">who you know is using qualified experts</p>
+<p begin="00:55:56.870" end="00:56:04.040" style="s2">that kind of thing and part of it is</p>
+<p begin="00:56:00.780" end="00:56:06.630" style="s2">being able to take something sort of</p>
+<p begin="00:56:04.040" end="00:56:09.030" style="s2">complex like the legislation like</p>
+<p begin="00:56:06.630" end="00:56:11.820" style="s2">treaties and then having people like</p>
+<p begin="00:56:09.030" end="00:56:14.220" style="s2">actually uploading the content and then</p>
+<p begin="00:56:11.820" end="00:56:15.900" style="s2">having people like heading experts</p>
+<p begin="00:56:14.220" end="00:56:18.360" style="s2">dissect it and saying you know well this</p>
+<p begin="00:56:15.900" end="00:56:20.550" style="s2">part means this and this part means that</p>
+<p begin="00:56:18.360" end="00:56:22.650" style="s2">a bunch of experts do that and then you</p>
+<p begin="00:56:20.550" end="00:56:23.850" style="s2">can look at what are the experts in okay</p>
+<p begin="00:56:22.650" end="00:56:25.800" style="s2">you say you&#39;re an expert in law but</p>
+<p begin="00:56:23.850" end="00:56:27.450" style="s2">you&#39;re an expert in corporate law how</p>
+<p begin="00:56:25.800" end="00:56:28.500" style="s2">does that you know why are you talking</p>
+<p begin="00:56:27.450" end="00:56:31.050" style="s2">about now</p>
+<p begin="00:56:28.500" end="00:56:32.730" style="s2">treaties and it might not be the same as</p>
+<p begin="00:56:31.050" end="00:56:35.040" style="s2">somebody who specializes in tree and</p>
+<p begin="00:56:32.730" end="00:56:36.920" style="s2">history and this and that and being able</p>
+<p begin="00:56:35.040" end="00:56:39.090" style="s2">to sort of take all that into account</p>
+<p begin="00:56:36.920" end="00:56:40.410" style="s2">wonderful I like that so that&#39;s the</p>
+<p begin="00:56:39.090" end="00:56:43.230" style="s2">truth part of the truth and</p>
+<p begin="00:56:40.410" end="00:56:44.910" style="s2">reconciliation we need you know a lot of</p>
+<p begin="00:56:43.230" end="00:56:46.440" style="s2">first people say first we need to get</p>
+<p begin="00:56:44.910" end="00:56:48.560" style="s2">the truth out we haven&#39;t even got the</p>
+<p begin="00:56:46.440" end="00:56:51.840" style="s2">truth out never find a reconciliation</p>
+<p begin="00:56:48.560" end="00:56:54.030" style="s2">yeah is very valuable to us</p>
+<p begin="00:56:51.840" end="00:56:57.540" style="s2">yeah if you&#39;re interested I would love</p>
+<p begin="00:56:54.030" end="00:56:58.800" style="s2">to do like a a live stream and pick your</p>
+<p begin="00:56:57.540" end="00:56:59.230" style="s2">brain and sort of show you some of this</p>
+<p begin="00:56:58.800" end="00:57:00.910" style="s2">stuff</p>
+<p begin="00:56:59.230" end="00:57:04.869" style="s2">see what kind of questions you yeah</p>
+<p begin="00:57:00.910" end="00:57:05.770" style="s2">because yeah yeah we&#39;re kicking off all</p>
+<p begin="00:57:04.869" end="00:57:11.109" style="s2">the right boxes here</p>
+<p begin="00:57:05.770" end="00:57:13.810" style="s2">sure sure thank you thank you but I feel</p>
+<p begin="00:57:11.109" end="00:57:15.550" style="s2">like this is just like generated in my</p>
+<p begin="00:57:13.810" end="00:57:17.320" style="s2">head does our cousin dinner I know our</p>
+<p begin="00:57:15.550" end="00:57:20.970" style="s2">cousin went to school for law did they</p>
+<p begin="00:57:17.320" end="00:57:24.550" style="s2">not take she not take indigenous law</p>
+<p begin="00:57:20.970" end="00:57:29.560" style="s2">ethically right Wow</p>
+<p begin="00:57:24.550" end="00:57:33.520" style="s2">I think she&#39;s in Whitehorse yeah cool so</p>
+<p begin="00:57:29.560" end="00:57:36.640" style="s2">we could get her on possibly yeah yeah I</p>
+<p begin="00:57:33.520" end="00:57:38.920" style="s2">think she&#39;s I can invite on Facebook I</p>
+<p begin="00:57:36.640" end="00:57:43.990" style="s2">think she&#39;s you know at home like the</p>
+<p begin="00:57:38.920" end="00:57:46.600" style="s2">rest of us sure mohawk woman who is a</p>
+<p begin="00:57:43.990" end="00:57:48.220" style="s2">treaty scholar so the two of them could</p>
+<p begin="00:57:46.600" end="00:57:51.190" style="s2">have a great conversation a few of us</p>
+<p begin="00:57:48.220" end="00:57:53.260" style="s2">could you know listen and learn and</p>
+<p begin="00:57:51.190" end="00:57:55.030" style="s2">maybe we could get some other people I</p>
+<p begin="00:57:53.260" end="00:57:58.090" style="s2">mean even to talking about treaty would</p>
+<p begin="00:57:55.030" end="00:58:01.690" style="s2">be awesome and she&#39;s like she just</p>
+<p begin="00:57:58.090" end="00:58:05.470" style="s2">completed her law degree two years ago</p>
+<p begin="00:58:01.690" end="00:58:07.150" style="s2">maybe Wow I think so she&#39;s she&#39;s I&#39;m 40</p>
+<p begin="00:58:05.470" end="00:58:09.220" style="s2">and she&#39;s like almost 10 years older</p>
+<p begin="00:58:07.150" end="00:58:10.630" style="s2">than me so she got her lunch she did an</p>
+<p begin="00:58:09.220" end="00:58:12.430" style="s2">engineering degree I remember what else</p>
+<p begin="00:58:10.630" end="00:58:15.510" style="s2">she did something else and now she&#39;s</p>
+<p begin="00:58:12.430" end="00:58:18.490" style="s2">going and then she went to become a lot</p>
+<p begin="00:58:15.510" end="00:58:23.140" style="s2">and so Jubilee you&#39;re from Alberta</p>
+<p begin="00:58:18.490" end="00:58:26.369" style="s2">rich yeah yeah what part of Alberta we</p>
+<p begin="00:58:23.140" end="00:58:30.910" style="s2">were born in Edmonton and raised in I</p>
+<p begin="00:58:26.369" end="00:58:34.180" style="s2">say we cuz a drill and iron siblings and</p>
+<p begin="00:58:30.910" end="00:58:36.310" style="s2">then you moved to the west coast yeah</p>
+<p begin="00:58:34.180" end="00:58:38.980" style="s2">individually collectively I just wanted</p>
+<p begin="00:58:36.310" end="00:58:41.140" style="s2">to mention this was gonna um to Ernesto</p>
+<p begin="00:58:38.980" end="00:58:42.940" style="s2">who had made two amazing comments that</p>
+<p begin="00:58:41.140" end="00:58:45.250" style="s2">the idea Cafe is the only one we do</p>
+<p begin="00:58:42.940" end="00:58:47.050" style="s2">where I don&#39;t interact with it messages</p>
+<p begin="00:58:45.250" end="00:58:48.640" style="s2">because it&#39;s about the conversation but</p>
+<p begin="00:58:47.050" end="00:58:50.619" style="s2">both of the comments were specifically I</p>
+<p begin="00:58:48.640" end="00:58:52.930" style="s2">believe for Suzanne&#39;s project so I will</p>
+<p begin="00:58:50.619" end="00:58:55.350" style="s2">copy and paste them and send them to her</p>
+<p begin="00:58:52.930" end="00:58:57.420" style="s2">because they were good comments about</p>
+<p begin="00:58:55.350" end="00:59:00.940" style="s2">stuff they see on in Central America</p>
+<p begin="00:58:57.420" end="00:59:03.090" style="s2">which is his focus as well as using the</p>
+<p begin="00:59:00.940" end="00:59:05.710" style="s2">arts for like that we need more more</p>
+<p begin="00:59:03.090" end="00:59:07.230" style="s2">depiction of people in the arts that is</p>
+<p begin="00:59:05.710" end="00:59:10.030" style="s2">is a way to of course move</p>
+<p begin="00:59:07.230" end="00:59:13.109" style="s2">reconciliation forward looking it down</p>
+<p begin="00:59:10.030" end="00:59:13.109" style="s2">to our last moment</p>
+<p begin="00:59:13.280" end="00:59:18.260" style="s2">that&#39;s why I assume that&#39;s why I assume</p>
+<p begin="00:59:16.490" end="00:59:19.970" style="s2">that indigenous people would be</p>
+<p begin="00:59:18.260" end="00:59:22.070" style="s2">interested because it was I think it was</p>
+<p begin="00:59:19.970" end="00:59:23.120" style="s2">Louis Riel who said it would be the</p>
+<p begin="00:59:22.070" end="00:59:24.380" style="s2">artist who will lead the revolution</p>
+<p begin="00:59:23.120" end="00:59:33.410" style="s2">right</p>
+<p begin="00:59:24.380" end="00:59:35.210" style="s2">but hey yeah and there I wanted me sir</p>
+<p begin="00:59:33.410" end="00:59:37.580" style="s2">the time leg is taking out the torch</p>
+<p begin="00:59:35.210" end="00:59:39.110" style="s2">other a good old technology that</p>
+<p begin="00:59:37.580" end="00:59:40.280" style="s2">although you don&#39;t need to answer it</p>
+<p begin="00:59:39.110" end="00:59:43.400" style="s2">your closing statements by any stretch</p>
+<p begin="00:59:40.280" end="00:59:45.320" style="s2">if anyone has a we do this every other</p>
+<p begin="00:59:43.400" end="00:59:47.210" style="s2">week on Fridays and in between we have</p>
+<p begin="00:59:45.320" end="00:59:48.740" style="s2">our together tech or meeting which is</p>
+<p begin="00:59:47.210" end="00:59:50.330" style="s2">more of the meta project helping the</p>
+<p begin="00:59:48.740" end="00:59:51.650" style="s2">project&#39;s facilitate each other and how</p>
+<p begin="00:59:50.330" end="00:59:53.240" style="s2">can we move that meta project forward</p>
+<p begin="00:59:51.650" end="00:59:54.830" style="s2">which we do next week during this time</p>
+<p begin="00:59:53.240" end="00:59:56.630" style="s2">we do interact with the comments but if</p>
+<p begin="00:59:54.830" end="00:59:59.570" style="s2">anyone has an idea for two weeks from</p>
+<p begin="00:59:56.630" end="01:00:01.930" style="s2">now for an idea cafe on a question that</p>
+<p begin="00:59:59.570" end="01:00:04.670" style="s2">can be generated for our projects I am</p>
+<p begin="01:00:01.930" end="01:00:07.340" style="s2">more than open to suggestions from</p>
+<p begin="01:00:04.670" end="01:00:09.710" style="s2">everywhere and anyone as to what that is</p>
+<p begin="01:00:07.340" end="01:00:11.270" style="s2">and then on Saturday mornings we do our</p>
+<p begin="01:00:09.710" end="01:00:12.530" style="s2">roundtable it&#39;s at 9:00 a.m. Pacific</p>
+<p begin="01:00:11.270" end="01:00:13.970" style="s2">Standard Time so that&#39;s about three</p>
+<p begin="01:00:12.530" end="01:00:16.070" style="s2">hours four hours ago</p>
+<p begin="01:00:13.970" end="01:00:17.720" style="s2">so three hours of four minutes started</p>
+<p begin="01:00:16.070" end="01:00:19.250" style="s2">and everyone can bring their project</p>
+<p begin="01:00:17.720" end="01:00:21.290" style="s2">give a brief description of what it is</p>
+<p begin="01:00:19.250" end="01:00:22.520" style="s2">what you&#39;ve been up to possibly what</p>
+<p begin="01:00:21.290" end="01:00:24.950" style="s2">you&#39;re taking on for the next week or</p>
+<p begin="01:00:22.520" end="01:00:26.540" style="s2">you know however long until you come</p>
+<p begin="01:00:24.950" end="01:00:28.730" style="s2">again and anything you need help with</p>
+<p begin="01:00:26.540" end="01:00:31.820" style="s2">dream that we could probably potentially</p>
+<p begin="01:00:28.730" end="01:00:34.670" style="s2">help with and crowdsource for so that is</p>
+<p begin="01:00:31.820" end="01:00:35.840" style="s2">what together tech is doing and we have</p>
+<p begin="01:00:34.670" end="01:00:37.910" style="s2">our own Facebook group which is the</p>
+<p begin="01:00:35.840" end="01:00:40.070" style="s2">project which is game B projects</p>
+<p begin="01:00:37.910" end="01:00:41.600" style="s2">Facebook group where everyone who has a</p>
+<p begin="01:00:40.070" end="01:00:43.610" style="s2">game beat a project is welcome to come</p>
+<p begin="01:00:41.600" end="01:00:45.170" style="s2">and join and have a come I met a</p>
+<p begin="01:00:43.610" end="01:00:46.370" style="s2">conversation on how we can bring our</p>
+<p begin="01:00:45.170" end="01:00:48.700" style="s2">projects into the world because the</p>
+<p begin="01:00:46.370" end="01:00:51.320" style="s2">world needs them now more than ever and</p>
+<p begin="01:00:48.700" end="01:00:52.520" style="s2">so if anyone is if anyone has any</p>
+<p begin="01:00:51.320" end="01:00:55.310" style="s2">closing statements you can say them now</p>
+<p begin="01:00:52.520" end="01:00:57.110" style="s2">otherwise he is a quiet you know a</p>
+<p begin="01:00:55.310" end="01:00:58.310" style="s2">closing statement but building a bit on</p>
+<p begin="01:00:57.110" end="01:01:00.290" style="s2">what you just talked about</p>
+<p begin="01:00:58.310" end="01:01:03.470" style="s2">I think Bentley and I talked about</p>
+<p begin="01:01:00.290" end="01:01:05.960" style="s2">possibly next week&#39;s session reviewing</p>
+<p begin="01:01:03.470" end="01:01:07.340" style="s2">the prototype for sort of the game those</p>
+<p begin="01:01:05.960" end="01:01:09.710" style="s2">are not the game be yeah I guess the</p>
+<p begin="01:01:07.340" end="01:01:12.020" style="s2">game be project list like that</p>
+<p begin="01:01:09.710" end="01:01:13.760" style="s2">be together tech like actually taking a</p>
+<p begin="01:01:12.020" end="01:01:16.370" style="s2">look at that so it&#39;s possible that the</p>
+<p begin="01:01:13.760" end="01:01:18.860" style="s2">session following that might be just the</p>
+<p begin="01:01:16.370" end="01:01:21.020" style="s2">idea cafe on something that comes out of</p>
+<p begin="01:01:18.860" end="01:01:22.400" style="s2">that discussion on what does this need</p>
+<p begin="01:01:21.020" end="01:01:22.940" style="s2">to do what shouldn&#39;t it do what are the</p>
+<p begin="01:01:22.400" end="01:01:25.370" style="s2">next steps</p>
+<p begin="01:01:22.940" end="01:01:26.119" style="s2">what have we overlooked you know what&#39;s</p>
+<p begin="01:01:25.370" end="01:01:27.980" style="s2">actually</p>
+<p begin="01:01:26.119" end="01:01:29.599" style="s2">needed for the MVP because this is</p>
+<p begin="01:01:27.980" end="01:01:31.009" style="s2">probably still quite a few steps prior</p>
+<p begin="01:01:29.599" end="01:01:33.319" style="s2">to that and you&#39;re talking about</p>
+<p begin="01:01:31.009" end="01:01:36.069" style="s2">specifically the thing that you made</p>
+<p begin="01:01:33.319" end="01:01:40.220" style="s2">right consents me is our name for it</p>
+<p begin="01:01:36.069" end="01:01:42.230" style="s2">just the together tech prototype I guess</p>
+<p begin="01:01:40.220" end="01:01:43.819" style="s2">okay cuz Brad that is I said when I said</p>
+<p begin="01:01:42.230" end="01:01:45.170" style="s2">Adriel is working on one that is what I</p>
+<p begin="01:01:43.819" end="01:01:46.579" style="s2">was talking about so if you want to join</p>
+<p begin="01:01:45.170" end="01:01:47.960" style="s2">us next Friday Trey this time here and</p>
+<p begin="01:01:46.579" end="01:01:50.240" style="s2">we will be talking about more of that</p>
+<p begin="01:01:47.960" end="01:01:52.220" style="s2">that platform I me can always send it in</p>
+<p begin="01:01:50.240" end="01:01:54.920" style="s2">advance in fact I think we should post</p>
+<p begin="01:01:52.220" end="01:01:56.720" style="s2">it in the Facebook group to sit to get</p>
+<p begin="01:01:54.920" end="01:01:58.279" style="s2">feedback and say hey we&#39;re talking about</p>
+<p begin="01:01:56.720" end="01:02:00.170" style="s2">this right because although I know it&#39;s</p>
+<p begin="01:01:58.279" end="01:02:01.849" style="s2">in its infancy that&#39;s the time that&#39;s</p>
+<p begin="01:02:00.170" end="01:02:04.009" style="s2">the time to do that fair enough</p>
+<p begin="01:02:01.849" end="01:02:05.630" style="s2">or it grows up into an unruly toddler</p>
+<p begin="01:02:04.009" end="01:02:10.369" style="s2">and you gotta like deal with all of your</p>
+<p begin="01:02:05.630" end="01:02:11.569" style="s2">previous message alright so does anyone</p>
+<p begin="01:02:10.369" end="01:02:16.369" style="s2">else have any closing statements they&#39;d</p>
+<p begin="01:02:11.569" end="01:02:17.809" style="s2">like them alright everyone can just stay</p>
+<p begin="01:02:16.369" end="01:02:21.579" style="s2">put and we will say goodbye to Facebook</p>
+<p begin="01:02:17.809" end="01:02:21.579" style="s2">and YouTube see you tomorrow morning</p>
+</div>
+</body>
+</tt>
