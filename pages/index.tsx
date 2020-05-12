@@ -6,6 +6,7 @@ import { Card, CardList } from "../components/card";
 import fetch from "isomorphic-fetch";
 import { orderBy } from "lodash";
 import absoluteUrl from "next-absolute-url";
+import { Heading } from "../components/heading";
 
 const Main = ({ items }) => {
   const search = useRef(null);
@@ -16,6 +17,7 @@ const Main = ({ items }) => {
       </Head>
       <main>
         <Container>
+          <Heading>The Game B Library</Heading>
           <CardList>
             {items.map((item, i) => {
               const img = item.snippet

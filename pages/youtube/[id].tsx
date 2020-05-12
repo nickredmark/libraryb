@@ -5,28 +5,36 @@ import { Heading } from "../../components/heading";
 import { useState, useEffect } from "react";
 import absoluteUrl from "next-absolute-url";
 import fetch from "isomorphic-fetch";
+import moment from "moment";
 
 const Youtube = ({ query: { id }, item, transcript }) => {
-  const [player, setPlayer] = useState();
+  const [player, setPlayer] = useState<any>();
 
   useEffect(() => {
-    (window as any).onYouTubeIframeAPIReady = () => {
-      const YT = (window as any).YT;
-      const player = new YT.Player("player", {
-        height: "300",
-        width: "400",
-        videoId: id,
-        events: {
-          onReady: () => setPlayer(player),
-          onStateChange: () => {},
-        },
-      });
-    };
-    const tag = document.createElement("script");
-    tag.src = `${location.protocol}//www.youtube.com/iframe_api`;
-    var firstScriptTag = document.getElementsByTagName("script")[0];
-    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-  }, []);
+    if (!player) {
+      const initPlayer = () => {
+        const YT = (window as any).YT;
+        const player = new YT.Player("player", {
+          height: "300",
+          width: "400",
+          videoId: id,
+          events: {
+            onReady: () => setPlayer(player),
+            onStateChange: () => {},
+          },
+        });
+      };
+      if (!(window as any).YT) {
+        (window as any).onYouTubeIframeAPIReady = initPlayer;
+        const tag = document.createElement("script");
+        tag.src = `${location.protocol}//www.youtube.com/iframe_api`;
+        var firstScriptTag = document.getElementsByTagName("script")[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+      } else {
+        initPlayer();
+      }
+    }
+  }, [player]);
 
   return (
     <>
@@ -35,22 +43,32 @@ const Youtube = ({ query: { id }, item, transcript }) => {
       </Head>
       <Container>
         <Heading date={item.snippet.publishedAt}>{item.snippet.title}</Heading>
-        <div className="flex">
-          <div className="">
+        <div className="flex flex-wrap">
+          <div className="w-full lg:w-1/2 xl:w-1/3">
             <div id="player" />
+            <p className="p-2">{item.snippet.description}</p>
           </div>
-          <div className="">
-            <ul>
-              {transcript.map((line, i) => (
-                <div key={i}>
-                  <div>
-                    {line.begin} - {line.end}
+          {transcript && (
+            <div className="flex-auto h-64 max-h-screen overflow-auto">
+              <ul>
+                {transcript.map((line, i) => (
+                  <div
+                    key={i}
+                    onClick={() =>
+                      player &&
+                      player.seekTo(moment.duration(line.begin).asSeconds())
+                    }
+                    className="flex cursor-pointer"
+                  >
+                    <div className="p-2 text-xs align-baseline">
+                      {line.begin} - {line.end}
+                    </div>
+                    <div className="p-2">{line.text}</div>
                   </div>
-                  <div>{line.text}</div>
-                </div>
-              ))}
-            </ul>
-          </div>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       </Container>
     </>
@@ -63,9 +81,12 @@ Youtube.getInitialProps = async ({ req, query }) => {
   const item = await (
     await fetch(`${origin}/data/youtube/${query.id}/item.json`)
   ).json();
-  const transcript = await (
-    await fetch(`${origin}/data/youtube/${query.id}/transcript.json`)
-  ).json();
+  let transcript;
+  try {
+    transcript = await (
+      await fetch(`${origin}/data/youtube/${query.id}/transcript.json`)
+    ).json();
+  } catch (e) {}
 
   return { query, item, transcript };
 };
