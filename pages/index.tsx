@@ -7,7 +7,7 @@ import fetch from "isomorphic-fetch";
 import { orderBy } from "lodash";
 import absoluteUrl from "next-absolute-url";
 
-const Main = ({ library }) => {
+const Main = ({ items }) => {
   const search = useRef(null);
   return (
     <>
@@ -17,20 +17,22 @@ const Main = ({ library }) => {
       <main>
         <Container>
           <CardList>
-            {library.videos.map((video, i) => {
-              const thumbnail = video.snippet.thumbnails.medium;
+            {items.map((item, i) => {
+              const img = item.snippet && item.snippet.thumbnails.medium.url;
+              const title = item.snippet ? item.snippet.title : item.title;
+              const description = item.snippet ? item.snippet.description : "";
+              const url = item.snippet
+                ? `/youtube/${
+                    item.snippet.resourceId
+                      ? item.snippet.resourceId.videoId
+                      : item.id.videoId
+                  }`
+                : `/medium/${
+                    item.guid.split("/")[item.guid.split("/").length - 1]
+                  }`;
               return (
-                <Card
-                  key={i}
-                  img={thumbnail.url}
-                  title={video.snippet.title}
-                  href={`/youtube/${
-                    video.snippet.resourceId
-                      ? video.snippet.resourceId.videoId
-                      : video.id.videoId
-                  }`}
-                >
-                  {truncate(video.snippet.description)}
+                <Card key={i} img={img} title={title} href={url}>
+                  {truncate(description)}
                 </Card>
               );
             })}
@@ -44,11 +46,16 @@ const Main = ({ library }) => {
 
 Main.getInitialProps = async ({ req }) => {
   const { origin } = absoluteUrl(req);
-  const library = await (await fetch(`${origin}/data/library.json`)).json();
-  library.videos = orderBy(library.videos, "snippet.publishedAt", "desc");
+  const items = orderBy(
+    Object.values(await (await fetch(`${origin}/data/items.json`)).json()),
+    "publishedAt",
+    "desc"
+  );
+
+  console.log(items[0]);
 
   return {
-    library,
+    items,
   };
 };
 

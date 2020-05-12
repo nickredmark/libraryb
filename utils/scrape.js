@@ -135,7 +135,7 @@ const start = async () => {
           const parsedFeed = await parser.parseURL(collection.url);
           for (const item of parsedFeed.items) {
             const id = item.guid.split("/")[item.guid.split("/").length - 1];
-            item.publishedAt = item.pubDate;
+            item.publishedAt = item.isoDate;
             if (!existsSync(`./public/data/medium/${id}`)) {
               mkdirSync(`./public/data/medium/${id}`);
             }
