@@ -18,9 +18,13 @@ const Main = ({ items }) => {
         <Container>
           <CardList>
             {items.map((item, i) => {
-              const img = item.snippet && item.snippet.thumbnails.medium.url;
+              const img = item.snippet
+                ? item.snippet.thumbnails.medium.url
+                : item.image;
               const title = item.snippet ? item.snippet.title : item.title;
-              const description = item.snippet ? item.snippet.description : "";
+              const description = item.snippet
+                ? item.snippet.description
+                : item.contentSnippet || "";
               const url = item.snippet
                 ? `/youtube/${
                     item.snippet.resourceId
@@ -51,8 +55,6 @@ Main.getInitialProps = async ({ req }) => {
     "publishedAt",
     "desc"
   );
-
-  console.log(items[0]);
 
   return {
     items,

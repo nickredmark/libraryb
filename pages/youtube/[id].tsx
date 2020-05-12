@@ -6,14 +6,7 @@ import { useState, useEffect } from "react";
 import absoluteUrl from "next-absolute-url";
 import fetch from "isomorphic-fetch";
 
-const Youtube = ({ query: { id }, library, transcript }) => {
-  const video = library.videos.find(
-    (video) =>
-      (video.snippet.resourceId
-        ? video.snippet.resourceId.videoId
-        : video.id.videoId) === id
-  );
-  console.log(video);
+const Youtube = ({ query: { id }, item, transcript }) => {
   const [player, setPlayer] = useState();
 
   useEffect(() => {
@@ -38,12 +31,10 @@ const Youtube = ({ query: { id }, library, transcript }) => {
   return (
     <>
       <Head>
-        <title>{video.title}</title>
+        <title>{item.title}</title>
       </Head>
       <Container>
-        <Heading date={video.snippet.publishedAt}>
-          {video.snippet.title}
-        </Heading>
+        <Heading date={item.snippet.publishedAt}>{item.snippet.title}</Heading>
         <div className="flex">
           <div className="">
             <div id="player" />
@@ -69,12 +60,14 @@ const Youtube = ({ query: { id }, library, transcript }) => {
 Youtube.getInitialProps = async ({ req, query }) => {
   const { origin } = absoluteUrl(req);
 
-  const library = await (await fetch(`${origin}/data/library.json`)).json();
+  const item = await (
+    await fetch(`${origin}/data/youtube/${query.id}/item.json`)
+  ).json();
   const transcript = await (
     await fetch(`${origin}/data/youtube/${query.id}/transcript.json`)
   ).json();
 
-  return { query, library, transcript };
+  return { query, item, transcript };
 };
 
 export default Youtube;
