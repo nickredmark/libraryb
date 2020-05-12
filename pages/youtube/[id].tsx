@@ -4,9 +4,7 @@ import { Container } from "../../components/container";
 import { Heading } from "../../components/heading";
 import { useState, useEffect } from "react";
 
-const Youtube = ({ query }) => {
-  const transcript = require(`../../data/youtube/${query.id}/transcript.json`);
-  const library = require(`../../data/library.json`);
+const Youtube = ({ query, library, transcript }) => {
   const video = library.videos.find((video) =>
     video.snippet.resourceId
       ? video.snippet.resourceId.videoId
@@ -73,8 +71,18 @@ const Youtube = ({ query }) => {
   );
 };
 
-Youtube.getInitialProps = ({ query }) => {
-  return { query };
+Youtube.getInitialProps = async ({ req, query }) => {
+  const host = req ? req.headers.host : location.hostname;
+  const library = await (
+    await fetch(`${process.env.APP_URL}/data/library.json`)
+  ).json();
+  const transcript = await (
+    await fetch(
+      `${process.env.APP_URL}/data/youtube/${query.id}/transcript.json`
+    )
+  ).json();
+
+  return { query, library, transcript };
 };
 
 export default Youtube;

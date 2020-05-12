@@ -3,10 +3,10 @@ import { useRef } from "react";
 import { Container } from "../components/container";
 import { List, ListItem } from "../components/list";
 import { Card, CardList } from "../components/card";
+import fetch from "isomorphic-fetch";
+import { orderBy } from "lodash";
 
-const library = require("../data/library.json");
-
-export default () => {
+const Main = ({ library }) => {
   const search = useRef(null);
   return (
     <>
@@ -40,6 +40,20 @@ export default () => {
     </>
   );
 };
+
+Main.getInitialProps = async ({ req }) => {
+  const host = req ? req.headers.host : location.hostname;
+  const library = await (
+    await fetch(`${process.env.APP_URL}/data/library.json`)
+  ).json();
+  library.videos = orderBy(library.videos, "snippet.publishedAt", "desc");
+
+  return {
+    library,
+  };
+};
+
+export default Main;
 
 const LIMIT = 100;
 

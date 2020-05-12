@@ -6,10 +6,11 @@ const {
   renameSync,
 } = require("fs");
 const youtubedl = require("youtube-dl");
-const seed = require("../data/seed.json");
+const seed = require("../public/data/seed.json");
 const Youtube = require("youtube-api");
 const { parseString } = require("xml2js");
 const qs = require("qs");
+const { orderBy } = require("lodash");
 
 const getVideos = async (key, options, getId = (item) => item.id.videoId) => {
   const videos = [];
@@ -37,11 +38,11 @@ const getVideos = async (key, options, getId = (item) => item.id.videoId) => {
     }
   }
 
-  return videos;
+  return orderBy(videos, "snippet.publishedAt");
 };
 
 const getSubs = async (id) => {
-  const dir = `./data/youtube/${id}`;
+  const dir = `./public/data/youtube/${id}`;
   if (existsSync(dir)) {
     return;
   }
@@ -117,7 +118,13 @@ const start = async () => {
         }
       }
     }
-    writeFileSync("./data/library.json", JSON.stringify(library, null, 2));
+
+    library.videos = orderBy(library.videos, "snippet.publishedAt");
+
+    writeFileSync(
+      "./public/data/library.json",
+      JSON.stringify(library, null, 2)
+    );
   } catch (e) {
     console.error(e);
   }
