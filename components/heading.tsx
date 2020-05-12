@@ -1,5 +1,5 @@
 export const Heading = ({ date = undefined, children }) => (
-  <div className="lg:flex lg:items-center lg:justify-between">
+  <div className="lg:flex lg:items-center lg:justify-between mt-4 mb-4">
     <div className="flex-1 min-w-0">
       <h2 className="text-2xl font-bold leading-7 text-gray-900 sm:text-3xl sm:leading-9 sm:truncate">
         {children}
