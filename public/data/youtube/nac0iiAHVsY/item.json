@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "2byHTvaKn9Gf-Ohsy7QHXm_qpCI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "nac0iiAHVsY"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-14T01:00:10Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Episode 2 &quot;Enacting Platonic Dialogos&quot; -Chris Mastropietro &amp; Guy Sengstock",
+    "description": "In this 2nd episode of \"Enacting Platonic Dialogos\" Chris and I begin by read a paper Chris and John Vervaeke wrote \"Gnosis in the Second Person\" which ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/nac0iiAHVsY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/nac0iiAHVsY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/nac0iiAHVsY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-14T01:00:10Z"
+  }
+}

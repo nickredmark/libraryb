@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "4d6vAaf_ckGHXSTTHAHL8BmO8t8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "UYjVH81ftJU"
+  },
+  "snippet": {
+    "publishedAt": "2018-12-23T20:52:11Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Festive message from Rebel Wisdom",
+    "description": "We have a bumper pack of films forthcoming over the holiday period. We'll be releasing films with: Zen Master Doshin Roshi, Bret Weinstein and Heather Heying ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/UYjVH81ftJU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/UYjVH81ftJU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/UYjVH81ftJU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-12-23T20:52:11Z"
+  }
+}

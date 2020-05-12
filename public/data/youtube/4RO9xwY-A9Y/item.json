@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tO06Bmx1DdhbSETvFs9Uj_Rv5OA\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "4RO9xwY-A9Y"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-01T00:32:59.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "A Stoic Training Program w/ Michael Tremblay",
+    "description": "Michael Tremblay will discuss the 3 part program of Epictetus to becoming a better person, including how it can be applied even if you are not a full-fledged Stoic ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4RO9xwY-A9Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4RO9xwY-A9Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4RO9xwY-A9Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

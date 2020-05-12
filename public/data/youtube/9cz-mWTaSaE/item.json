@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "TEDfx1-nDDaFpeygi5gPPz5uVLw",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "9cz-mWTaSaE"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-15T19:29:28Z",
+    "channelId": "UCpnwZqkrPAB7O2hymAdP-QQ",
+    "title": "Game B Onboarding Brainstorming",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9cz-mWTaSaE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9cz-mWTaSaE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9cz-mWTaSaE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "GameB Coffee House",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-15T19:29:28Z"
+  }
+}

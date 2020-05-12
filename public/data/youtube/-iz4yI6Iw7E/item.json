@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l8LPGR0Wy60NeIVSPK2LNx1hgKw\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "-iz4yI6Iw7E"
+  },
+  "snippet": {
+    "publishedAt": "2018-02-27T19:02:57.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Coherence | Deep Code Experiment: Episode 11",
+    "description": "How do we construct social systems that are enduring, scalable and generative? A key concept here is \"coherence\" - something that is hinted at in physics and ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-iz4yI6Iw7E/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-iz4yI6Iw7E/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-iz4yI6Iw7E/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

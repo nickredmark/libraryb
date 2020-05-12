@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "PW6rj5cUbnwyN9HEj1jehrR9rck",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "L7qqdxlra4Y"
+  },
+  "snippet": {
+    "publishedAt": "2018-07-05T04:37:41Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "What&#39;s Your Purpose: Bret Weinstein&#39;s Evolutionary Answer",
+    "description": "What is the purpose of life? Is that purpose meaningful? Evolutionary biology professor Bret Weinstein addresses the question. Help support Bret's work on ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/L7qqdxlra4Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/L7qqdxlra4Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/L7qqdxlra4Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-07-05T04:37:41Z"
+  }
+}

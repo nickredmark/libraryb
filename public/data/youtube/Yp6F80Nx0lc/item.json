@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "az-oojV8Fpxp5BZoxBoB8qUbJoA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Yp6F80Nx0lc"
+  },
+  "snippet": {
+    "publishedAt": "2019-07-26T17:04:53Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 28 - Awakening from the Meaning Crisis - Convergence To Relevance Realization",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Yp6F80Nx0lc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Yp6F80Nx0lc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Yp6F80Nx0lc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-07-26T17:04:53Z"
+  }
+}

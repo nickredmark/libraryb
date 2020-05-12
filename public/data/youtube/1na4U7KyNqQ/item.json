@@ -1,0 +1,35 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "_h0WF0qq6Bame6p4LLDvow-MMk8",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti4wOTA3OTZBNzVEMTUzOTMy",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:27:34Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Creating a generative question.",
+    "description": "Creating possibility around a question of staying true to one's self",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1na4U7KyNqQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1na4U7KyNqQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1na4U7KyNqQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 30,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "1na4U7KyNqQ"
+    }
+  }
+}

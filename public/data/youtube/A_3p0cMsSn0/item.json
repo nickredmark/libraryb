@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "PIBS1gOgPlVFqDEwQswbfx_C_IU",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "A_3p0cMsSn0"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-21T02:25:06Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Meditating with John Vervaeke - Lesson 7: Inquiring Mindfulness 2 - Day 21 - Live Mon-Fri 09:30 EST",
+    "description": "Episode Notes: Vigilance - exploratory observation in humility Sensitivity - as in rooting, letting other flow Acuity - as in flow - noticing all the differences, pulling it ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/A_3p0cMsSn0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/A_3p0cMsSn0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/A_3p0cMsSn0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-21T02:25:06Z"
+  }
+}

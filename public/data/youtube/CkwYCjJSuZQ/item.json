@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "cUKVlpTG1qNmPYFIn7N1p4dwE0Q",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "CkwYCjJSuZQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-05-23T13:07:45Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "The Intellectual Deep Web? Peter Limberg",
+    "description": "In the viral article \"The Memetic Tribes Of Culture War 2.0\", Peter Limberg and Conor Barnes described how the binary right/left culture war of the 90s was ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/CkwYCjJSuZQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/CkwYCjJSuZQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/CkwYCjJSuZQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-05-23T13:07:45Z"
+  }
+}

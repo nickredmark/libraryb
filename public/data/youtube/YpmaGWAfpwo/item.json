@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "nhz70KJ62KJQ-HLEWpGWx05xRRc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "YpmaGWAfpwo"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-05T23:53:43Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Bret and Heather 12th DarkHorse Podcast Livestream: Is this the Event Horizon?",
+    "description": "Q&A Link: https://youtu.be/3K7iMpZHMNQ The 12th in a series of live discussions with Bret Weinstein and Heather Heying. Drs. Bret Weinstein and Heather ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YpmaGWAfpwo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YpmaGWAfpwo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YpmaGWAfpwo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-05T23:53:43Z"
+  }
+}

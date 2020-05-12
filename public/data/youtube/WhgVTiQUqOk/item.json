@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "TNZJLQsVBgpIOtckG4X1w_QMCJc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "WhgVTiQUqOk"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-09T23:56:10Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Christopher Mastropietro &amp; Guy Sengstock",
+    "description": "Christopher was a student of John Vervaeke, was mentored and in some ways apprenticed by him and now is a collaborator with John on the meaning Crisis ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/WhgVTiQUqOk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/WhgVTiQUqOk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/WhgVTiQUqOk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-09T23:56:10Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "-qbHQC3cd5WdvnQH94yqHciRuo4",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "EQCOQUQC5kM"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-06T18:39:23Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "New Facebook Friend, Coronavirus, and Radish.org",
+    "description": "http://radish.org : has a 24 hour zoom call starting every Friday 6am PST.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/EQCOQUQC5kM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/EQCOQUQC5kM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/EQCOQUQC5kM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-06T18:39:23Z"
+  }
+}

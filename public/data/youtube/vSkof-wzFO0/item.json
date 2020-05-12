@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/loDOP9rN2GK64tiqhxgpXyeoW4U\"",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC4yQUE2Q0JEMTk4NTM3RTZC",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:23:35.000Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "The Hive Panel The Future of Humanity and Systems Thinking",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vSkof-wzFO0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vSkof-wzFO0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vSkof-wzFO0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/vSkof-wzFO0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/vSkof-wzFO0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 43,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "vSkof-wzFO0"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "fHjt4NHx3E4QjcxYKVHXNUIN2AM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "mg93Dm-vYc8"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-01T21:45:29Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "Roger Penrose on &quot;The Portal&quot; (w Eric Weinstein), Ep. #020 - Plotting the Twist of Einstein&#39;s Legacy",
+    "description": "Sir Roger Penrose is arguably the most important living descendant of Albert Einstein's school of geometric physics. In this episode of The Portal, we avoid the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/mg93Dm-vYc8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/mg93Dm-vYc8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/mg93Dm-vYc8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-01T21:45:29Z"
+  }
+}

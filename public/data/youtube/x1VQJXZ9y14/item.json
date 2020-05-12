@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "o40uC9QoqRFS2gcHZ0MOtIThWA8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "x1VQJXZ9y14"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-06T14:00:11Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Fighting Postmodernism from the Left, Helen Pluckrose &amp; Peter Boghossian",
+    "description": "Helen Pluckrose and Peter Boghossian have taken up positions at the front lines of the culture war. To highlight what they saw as ideological capture of the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/x1VQJXZ9y14/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/x1VQJXZ9y14/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/x1VQJXZ9y14/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-06T14:00:11Z"
+  }
+}

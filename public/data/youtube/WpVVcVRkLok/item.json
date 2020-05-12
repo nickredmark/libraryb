@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "VvcGgZMDZLTpIs478Ot_GBZuDcQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "WpVVcVRkLok"
+  },
+  "snippet": {
+    "publishedAt": "2013-03-03T20:24:00Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "John Vervaeke - What is wisdom?",
+    "description": "We need wisdom to face modern challenges caused by foolishness such as global warming, mental illness and ethical quagmires. However, though we respect ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/WpVVcVRkLok/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/WpVVcVRkLok/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/WpVVcVRkLok/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2013-03-03T20:24:00Z"
+  }
+}

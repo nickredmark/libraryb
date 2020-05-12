@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "kBI_9iLw-E4GMhAFrGGol-jAYbk",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "GOJ5y9ubvi4"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-21T14:47:56Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Kyle Cease #metoo the fragility of community",
+    "description": "A few woman have come forward stating they had sexual relationship with Kyle (or he tried) in the last few years, while he has a finance and daughter that he ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/GOJ5y9ubvi4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/GOJ5y9ubvi4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/GOJ5y9ubvi4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-21T14:47:56Z"
+  }
+}

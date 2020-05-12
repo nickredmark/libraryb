@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Mghq7SkbciavYmTE0JyLHwkWD0U\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "B05xyey4KO0"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-11T06:22:07.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Stoic Meaningwave w/ Akira The Don",
+    "description": "The one and only Akira The Don visits the Stoa and discusses his love of beauty. RSVP for more sessions: www.thestoa.ca Join The Stoa mailing list: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/B05xyey4KO0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/B05xyey4KO0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/B05xyey4KO0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "t-SIafm66aDUOCGqQJ5JBOjj4sU",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "PAaA9Cv1IKQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-18T20:00:03Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Parenting Journey",
+    "description": "I became a single mother by choice at the end of 2012 My amazing daughter has taught me so much and we continue to grow together.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/PAaA9Cv1IKQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/PAaA9Cv1IKQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/PAaA9Cv1IKQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-18T20:00:03Z"
+  }
+}

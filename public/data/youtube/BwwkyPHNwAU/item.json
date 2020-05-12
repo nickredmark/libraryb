@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "NTSbrtqLyy0zclC2G5YadYrm9SE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "BwwkyPHNwAU"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-02T20:57:54Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Discussing Heidegger with Johannes Niederhauser &amp; Guy Sengstock-2",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/BwwkyPHNwAU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/BwwkyPHNwAU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/BwwkyPHNwAU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-02T20:57:54Z"
+  }
+}

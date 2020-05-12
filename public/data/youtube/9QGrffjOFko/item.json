@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "p77UE4VOZZAUwDWbR2ivrGqj_qk",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "9QGrffjOFko"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-18T21:00:11Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "War on Sensemaking II, Daniel Schmachtenberger",
+    "description": "In War on Sensemaking, Daniel Schmachtenberger laid out why the 'information ecology' was so broken. It was a hugely popular film, with over 125000 views in ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9QGrffjOFko/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9QGrffjOFko/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9QGrffjOFko/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-18T21:00:11Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "tR3rmPFbzIkKRI43fQMNCRkY0Lg",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "UXbOFrLE5Yw"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-20T19:52:54Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "Idea Cafe - How could my project help in the pandemic?",
+    "description": "We each take turns answering the question and then have an open discussion for the remainder of the hour.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/UXbOFrLE5Yw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/UXbOFrLE5Yw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/UXbOFrLE5Yw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-20T19:52:54Z"
+  }
+}

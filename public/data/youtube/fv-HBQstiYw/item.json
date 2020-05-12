@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "2f9Am-I85aTXx9qOKWro9rjFEOM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "fv-HBQstiYw"
+  },
+  "snippet": {
+    "publishedAt": "2018-07-18T22:04:03Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Jordan Peterson vs Sam Harris - reflections. With new Jordan Peterson interview",
+    "description": "This podcast features brand new content from our recent interview with Jordan Peterson. Using parts of it as a jumping off point, David and Alexander discuss ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fv-HBQstiYw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fv-HBQstiYw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fv-HBQstiYw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-07-18T22:04:03Z"
+  }
+}

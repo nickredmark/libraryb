@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "KMC5xXIxmW-SQAxJtI88-cySQ-0",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti5DQ0MyQ0Y4Mzg0M0VGOEYw",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:33:50Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Alderlore SOLE Educational Experience Philosophy",
+    "description": "The Philosophy behind the Educational Experience at Alderlore SOLE",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/JMGM9BxaohQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/JMGM9BxaohQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/JMGM9BxaohQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/JMGM9BxaohQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 25,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "JMGM9BxaohQ"
+    }
+  }
+}

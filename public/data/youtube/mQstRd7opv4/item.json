@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "oBalYjpQsW-l_JnwY1QbrYCxkD0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "mQstRd7opv4"
+  },
+  "snippet": {
+    "publishedAt": "2020-01-24T17:00:13Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "War on Sensemaking 3, the Infinite Game: Jamie Wheal",
+    "description": "How do we play the Infinite Game? And how will that help us make sense of a world in chaos? In the hit film 'War on Sensemaking', Daniel Schmachtenberger ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/mQstRd7opv4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/mQstRd7opv4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/mQstRd7opv4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-01-24T17:00:13Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "8WMO62j7uArgD6LgMglX-C97GXQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "M8_GlXiPIEo"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-30T00:58:51Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Liquid democracy: how we delegate AND retain power in the cooperative",
+    "description": "Wikipedia article on liquid democracy : https://en.wikipedia.org/wiki/Liquid_democracy How I define it here is a democratic system where member/voters retain ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/M8_GlXiPIEo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/M8_GlXiPIEo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/M8_GlXiPIEo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-30T00:58:51Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "187qLRNaIm5QjVv6NfhznwpZt0g",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "DwIfS8TVcu0"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-01T09:06:54Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Guy Sengstock: Wandering between Worlds",
+    "description": "A lateral and very personal conversation with the founder of 'The circling institute' and close friend and associate to John Vervaeke. Some key concepts ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/DwIfS8TVcu0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/DwIfS8TVcu0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/DwIfS8TVcu0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-01T09:06:54Z"
+  }
+}

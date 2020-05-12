@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "zkVMwmK6kaPjndBHKfCZtsq-13E",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "hgXU4vbdY6k"
+  },
+  "snippet": {
+    "publishedAt": "2019-11-30T19:27:25Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Sweeny vs Bard Season 2 Ep. 5: Joker and American Individualism",
+    "description": "NEW PODCAST VERSION: https://anchor.fm/andrew-sweeny Support this channel and my projects by subscribing or helping on Patreon: Patreon: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/hgXU4vbdY6k/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/hgXU4vbdY6k/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/hgXU4vbdY6k/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-11-30T19:27:25Z"
+  }
+}

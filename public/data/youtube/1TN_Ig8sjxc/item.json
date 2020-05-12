@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "D2V-QWndSI_qCU0iVTC0s8G4LHs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "1TN_Ig8sjxc"
+  },
+  "snippet": {
+    "publishedAt": "2017-09-28T06:50:14Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Intelligence, Wisdom and Evolution by Bret Weinstein",
+    "description": "An exploration of wisdom and its evolutionary meaning. Find me on Twitter: http://twitter.com/BretWeinstein Press/Speaking inquiries: support@bretweinstein.net ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1TN_Ig8sjxc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1TN_Ig8sjxc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1TN_Ig8sjxc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-09-28T06:50:14Z"
+  }
+}

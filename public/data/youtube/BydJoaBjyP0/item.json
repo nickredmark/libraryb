@@ -1,0 +1,35 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "YtBul-wL0Lm9zLzA_0n7dktD6R4",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti4yMUQyQTQzMjRDNzMyQTMy",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:31:40Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Steven Nickeson & Bonnie",
+    "description": "Steven Nickeson Interviews Bonnie about Collective Insight Project",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/BydJoaBjyP0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/BydJoaBjyP0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/BydJoaBjyP0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 15,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "BydJoaBjyP0"
+    }
+  }
+}

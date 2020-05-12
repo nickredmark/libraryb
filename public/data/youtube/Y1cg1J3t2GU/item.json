@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "zCVXuKCeJ76LSsM2h8t2BKvNlzA",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5DNkMwRUI2MkI4QkI4NDFG",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:33:28Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "On Nihilism - Daniel Schmachtenberger",
+    "description": "Original title: The War on Sensemaking. Source & Credit: Rebel Wisdom, https://youtu.be/7LqaotiGWjQ",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Y1cg1J3t2GU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Y1cg1J3t2GU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Y1cg1J3t2GU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Y1cg1J3t2GU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Y1cg1J3t2GU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 85,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Y1cg1J3t2GU"
+    }
+  }
+}

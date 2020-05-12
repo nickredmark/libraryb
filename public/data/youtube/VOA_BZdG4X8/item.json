@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/i80XBf7URdtyOr0dwjZaIQotX_s\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "VOA_BZdG4X8"
+  },
+  "snippet": {
+    "publishedAt": "2018-02-21T18:08:52.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "On Thinking and Simulated Thinking | Deep Code Experiment: Episode 6",
+    "description": "A distinction between a style of thinking that is healthy and adaptive and a strategy that simulates and gets in the way of thinking. This is a video representation ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/VOA_BZdG4X8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/VOA_BZdG4X8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/VOA_BZdG4X8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "965c36h3dZoAZ1pZOzE_Kn6YtBs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "s3dwexMJQnA"
+  },
+  "snippet": {
+    "publishedAt": "2017-12-27T19:29:34Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Jordan Peterson - Integrate Your Shadow",
+    "description": "Time to radiate the potential for havoc From the Rebel Wisdom interview with Jordan Peterson - see www.rebelwisdom.co.uk for more.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/s3dwexMJQnA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/s3dwexMJQnA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/s3dwexMJQnA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-12-27T19:29:34Z"
+  }
+}

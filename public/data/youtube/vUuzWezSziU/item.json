@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "GvsdZK6-S8uZ9S09WBRsK1dzpPg",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "vUuzWezSziU"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-11T14:24:40Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "Project Round Table: May16, 2020",
+    "description": "FAQ on Together Tec: https://docs.google.com/document/d/1ZfjuYy6uBZUAAYJMYrQywti7tPPHnhJRKkJp6D64WY8/edit?usp=sharing Saturdays (9am PST) we ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vUuzWezSziU/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vUuzWezSziU/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vUuzWezSziU/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-05-11T14:24:40Z"
+  }
+}

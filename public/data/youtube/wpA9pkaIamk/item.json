@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "my7i4Y8KKzX3EktojABjdrQ8s5k",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "wpA9pkaIamk"
+  },
+  "snippet": {
+    "publishedAt": "2018-03-04T00:36:31Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Idiot Compassion and The Devouring Mother",
+    "description": "Patreon: https://www.patreon.com/andrewsweeny Medium https://medium.com/@andrewpgsweeny Twitter: https://twitter.com/andrewpgsweeny Facebook ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/wpA9pkaIamk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/wpA9pkaIamk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/wpA9pkaIamk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-03-04T00:36:31Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "AKBl-IP2ic-PU6amMMng5FMd1jQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "wjgb1kx5y9s"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-06T04:00:10Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Yearning for home IS our Home.  Paul VanderKlay &amp; Guy Sengstock in Dialogos",
+    "description": "If you liked what you saw here... Follow us on Facebook for community conversations & event updates: https://www.facebook.com/pg/circlingi... Join us for a ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/wjgb1kx5y9s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/wjgb1kx5y9s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/wjgb1kx5y9s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-06T04:00:10Z"
+  }
+}

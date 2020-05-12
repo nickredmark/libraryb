@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "UY2oOWbCeR1j7OmwbVdpr18S11Q",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Wex12GhUFqE"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-09T17:00:04Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 30 - Awakening from the Meaning Crisis - Relevance Realization Meets Dynamical Systems Theory",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Wex12GhUFqE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Wex12GhUFqE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Wex12GhUFqE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-09T17:00:04Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "BnEIXoUrMXD6VMqDsKKSXSRXhAQ",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi41NkI0NEY2RDEwNTU3Q0M2",
+  "snippet": {
+    "publishedAt": "2019-08-05T16:18:07Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Jordan Greenhall on DAOstack",
+    "description": "Jordan Greenhall is one of the leaders of the movement known as Deep Code, which contemplates, among other things, some of the great challenges facing humanity and what it will take to solve them, through the combined lens of a wide variety of disciplines. You can read some of his work at medium.com/deep-code.\n\nPreviously, Jordan was co-founder and CEO at Divx, and co-founder at MP3.com.\n\nIn this interview, Jordan discusses the project DAOstack (https://daostack.io) and its potential to help catalyze the transition to an anti-rivalrous economy.\n\nJordan is one of the advisors of DAOstack.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/BtCopAFBH6M/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/BtCopAFBH6M/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/BtCopAFBH6M/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/BtCopAFBH6M/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/BtCopAFBH6M/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 18,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "BtCopAFBH6M"
+    }
+  }
+}

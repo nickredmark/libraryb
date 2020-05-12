@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_s17Pxh7hG_T3GNF5ggm57kbN1U",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "3tUizCILJis"
+  },
+  "snippet": {
+    "publishedAt": "2018-06-02T13:23:07Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Men and women after #metoo. A new conversation",
+    "description": "Louise Mazanti and David Fuller's previous conversation on the excesses of the #metoo movement - featured in the 'Glitch in the Matrix' documentary - went viral ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3tUizCILJis/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3tUizCILJis/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3tUizCILJis/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-06-02T13:23:07Z"
+  }
+}

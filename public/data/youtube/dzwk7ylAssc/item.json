@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "zr6tSVvLcpk19PjyTtSzlrml5iw",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "dzwk7ylAssc"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T01:01:27Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Is Coronavirus revealing our modern god?",
+    "description": "Chris Mastropietro and I discussing what may be revealed in stopping the world as our response to Covid-19. A deeply thought provoking conversation... Art of ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/dzwk7ylAssc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/dzwk7ylAssc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/dzwk7ylAssc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T01:01:27Z"
+  }
+}

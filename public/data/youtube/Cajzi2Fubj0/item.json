@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "lfRhS0zVXDuZpFH3z5gV-9t2Z_o",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Cajzi2Fubj0"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-14T15:17:25Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Is there a &quot;gay gene&quot; | Bret Weinstein with Douglas Murray",
+    "description": "An excerpt from an upcoming episode of the DarkHorse Podcast with Douglas Murray. Bret Weinstein and Douglas Murray discuss the likelihood of the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Cajzi2Fubj0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Cajzi2Fubj0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Cajzi2Fubj0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-14T15:17:25Z"
+  }
+}

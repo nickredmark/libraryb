@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1HCCPiCDOqMYItZgdkab_JpVWLA\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "XJlWwj9IKzA"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-15T13:22:34.000Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Your Questions Answered - Bret and Heather 7th DarkHorse Livestream: Smoking and Other Esentials",
+    "description": "The Q & A section of the 7th live discussion between Bret Weinstein and Heather Heying on the DarkHorse Podcast. Drs. Bret Weinstein and Heather Heying ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/XJlWwj9IKzA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/XJlWwj9IKzA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/XJlWwj9IKzA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none"
+  }
+}

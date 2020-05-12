@@ -1,0 +1,35 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "XOb0pgWWvgXsz-U2vyAPtBsZHWk",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti45NzUwQkI1M0UxNThBMkU0",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:33:02Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Conversations with Zach # 2",
+    "description": "Bonnie and Zach talk about insight and collective consciousness",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/5HwBu696C1A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/5HwBu696C1A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/5HwBu696C1A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 11,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "5HwBu696C1A"
+    }
+  }
+}

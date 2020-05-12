@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "2wqRvK91asU_WQhtRlIvL2GgZ_w",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "z8oRVYE21_s"
+  },
+  "snippet": {
+    "publishedAt": "2018-11-14T23:36:55Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Ken Wilber &amp; Iain McGilchrist, coming soon",
+    "description": "Two big announcements - next week we're interviewing Iain McGilchrist (author of The Master and his Emissary) and flying to Colorado to interview none other ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/z8oRVYE21_s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/z8oRVYE21_s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/z8oRVYE21_s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-11-14T23:36:55Z"
+  }
+}

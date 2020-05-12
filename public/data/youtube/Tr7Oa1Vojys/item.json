@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/The8vvYm95eipOlB-k_RvzVaOTs\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Tr7Oa1Vojys"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-10T05:10:46.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Building an Aesthetic Movement w/ Rachel Haywire",
+    "description": "April 22nd, 2020 How do we explore creativity and transgression during a pandemic? Can we divorce aesthetics from politics? What role will art, music, and ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Tr7Oa1Vojys/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Tr7Oa1Vojys/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Tr7Oa1Vojys/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

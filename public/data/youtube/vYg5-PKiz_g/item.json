@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "kFX0akWcI4djtgEyEdzgRtKMHbM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "vYg5-PKiz_g"
+  },
+  "snippet": {
+    "publishedAt": "2019-07-07T16:30:00Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Future Thinkers &amp; Rebel Wisdom",
+    "description": "Both Future Thinkers and Rebel Wisdom have been following the thread of the emergent intellectual awakening online, and interviewing many of the same ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vYg5-PKiz_g/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vYg5-PKiz_g/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vYg5-PKiz_g/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-07-07T16:30:00Z"
+  }
+}

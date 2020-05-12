@@ -1,0 +1,35 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "os8MqudMREJbtSks9HfKOsCB5eI",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti4xOTEzQzhBQzU3MDNDNjcz",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:50:14Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Alderlore SOLE Philosophy",
+    "description": "Educational Philosophy of Alderlore SOLE",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/MeRHcN5jbNc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/MeRHcN5jbNc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/MeRHcN5jbNc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 23,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "MeRHcN5jbNc"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "Qjuo7p5rFz6iR6GgCDWdtrQMX_I",
+  "id": "UExwUkVoRzdHdGp0QWJDTUdYd0pwVXI4eFdpZl9kZ0R3Ny4wOTA3OTZBNzVEMTUzOTMy",
+  "snippet": {
+    "publishedAt": "2019-12-16T05:41:55Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Zak Stein - Weak & strong Integral stances against corporate capitalism",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/dOXrSJvIvsI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/dOXrSJvIvsI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/dOXrSJvIvsI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/dOXrSJvIvsI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtAbCMGXwJpUr8xWif_dgDw7",
+    "position": 4,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "dOXrSJvIvsI"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "8YKoIN4J-Ok2rLxz2WcmeLa_9rA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "L5fnj6RVxYk"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-05T20:00:02Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Tech is Powerful",
+    "description": "4 Main companies own our attention, our data and the gadgets we choose to be on, they are; 1) Amazon with $134 Billion and 100 million prime subscribers 2) ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/L5fnj6RVxYk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/L5fnj6RVxYk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/L5fnj6RVxYk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-05T20:00:02Z"
+  }
+}

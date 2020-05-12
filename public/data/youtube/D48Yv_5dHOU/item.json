@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "6A8X95WUgLplZI5scxwJ-2pwJtU",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi4zMEQ1MEIyRTFGNzhDQzFB",
+  "snippet": {
+    "publishedAt": "2020-04-14T01:32:28Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Sunil Bagai Interviews Jordan Hall - Turning Crisis into Opportunity amidst Coronavirus",
+    "description": "Due to the Coronavirus (covid-19), the world has changed overnight. Jordan Hall helps us understand the effect of the pandemic, including the potential overwhelming of the medical system, the fragility of global economies, and how local self-organizing local communities can become a model for the future. A complex systems expert, Jordan uses storytelling and metaphors to describe the current state of the problem in an easy to understand manner while weaving in a hope-infused message for a brighter tomorrow.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/D48Yv_5dHOU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/D48Yv_5dHOU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/D48Yv_5dHOU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/D48Yv_5dHOU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/D48Yv_5dHOU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 51,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "D48Yv_5dHOU"
+    }
+  }
+}

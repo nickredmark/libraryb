@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/k256dAkXXKUrb30Jw2Vg3bMPvXg\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "gMis7ariYGg"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-14T00:13:20.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Broadcast media, decentralized media and discernment | Deep Code Experiments: Episode 23",
+    "description": "How do we work together in this new (already almost becoming old) decentralized media to separate the wheat from the chaff? How do we cultivate discernment ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gMis7ariYGg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gMis7ariYGg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gMis7ariYGg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

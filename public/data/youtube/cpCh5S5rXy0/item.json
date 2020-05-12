@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "OlzJMRSx3MLSld4kU5gKYh3MBSE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "cpCh5S5rXy0"
+  },
+  "snippet": {
+    "publishedAt": "2015-10-29T10:41:04Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Refugee",
+    "description": "Refugee Everybody is a refugee wandering a scarred earth walking blindly down a road in hunger and thirst Everybody is a refugee so far from home stuck ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/cpCh5S5rXy0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/cpCh5S5rXy0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/cpCh5S5rXy0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2015-10-29T10:41:04Z"
+  }
+}

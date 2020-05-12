@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "vCkJU5n-GpBiYMklbJ1WeA6X5Gc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "qyJDKRTsAZI"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-04T11:02:17Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Sweeny vs Bard: Ep. 5: Ecotopia",
+    "description": "FOR NEW PODCAST VERSION: https://anchor.fm/andrew-sweeny Part 5 from a conversation series with Alexander Bard, the cyber philosopher, futurist, rock ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qyJDKRTsAZI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qyJDKRTsAZI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qyJDKRTsAZI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-03-04T11:02:17Z"
+  }
+}

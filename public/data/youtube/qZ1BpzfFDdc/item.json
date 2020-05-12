@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "WFnP2qN1SJ7WSuP9x5O0IW4NUQ4",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "qZ1BpzfFDdc"
+  },
+  "snippet": {
+    "publishedAt": "2018-04-19T08:50:31Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Jordan Peterson, 21st century pop superstar. Full interview with Akira the Don",
+    "description": "A new genre of music has been spreading across the internet, combining the words of Jordan B Peterson with lo-fi hiphop. The inventor of this movement is an ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qZ1BpzfFDdc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qZ1BpzfFDdc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qZ1BpzfFDdc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-04-19T08:50:31Z"
+  }
+}

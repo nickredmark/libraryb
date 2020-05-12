@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "I42JlhHWk1YhN3tN8mLMsbV5WGE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "KDX8zNR22yM"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-11T13:12:33Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "What is the Cognitive Continuum?",
+    "description": "Dr. Vervaeke describes the thesis for his upcoming book, \"The Cognitive Continuum\". Campaign Link: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/KDX8zNR22yM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/KDX8zNR22yM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/KDX8zNR22yM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-11T13:12:33Z"
+  }
+}

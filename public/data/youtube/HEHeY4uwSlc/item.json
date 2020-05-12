@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "eWY3Q7oiYm9tNCsW4yxEk4Oq2Uc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "HEHeY4uwSlc"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T14:37:18Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Glass Bead Games - Instinct",
+    "description": "Laurence and Erik, 10min game, 1min turns.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/HEHeY4uwSlc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/HEHeY4uwSlc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/HEHeY4uwSlc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T14:37:18Z"
+  }
+}

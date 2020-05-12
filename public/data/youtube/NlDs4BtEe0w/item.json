@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "iEUPCnr28pJ-Hb4EBURF-5yPEVk",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "NlDs4BtEe0w"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-21T16:12:31Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Facing the Shadow, Zen master Doshin Roshi",
+    "description": "In Jungian psychology, the 'shadow' is all of the things about ourselves that we deny or reject, and integrating those is key to psychological growth. So how do ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/NlDs4BtEe0w/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/NlDs4BtEe0w/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/NlDs4BtEe0w/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-21T16:12:31Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "X7ebyfZZWqmkpnyI1IYtShEoipc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "7xU77FhkcZ8"
+  },
+  "snippet": {
+    "publishedAt": "2019-02-08T22:50:11Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Bret Weinstein and Heather Heying - Gender Ideology vs Biology",
+    "description": "Bret Weinstein and Heather Heying became the most high profile victims of campus activism, after they were driven out of Evergreen College in Washington ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7xU77FhkcZ8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7xU77FhkcZ8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7xU77FhkcZ8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-02-08T22:50:11Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "kXfE60gvMMBudGclfEw003TL38M",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "iOXtjn2yD4g"
+  },
+  "snippet": {
+    "publishedAt": "2017-08-29T14:05:17Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Speakers corner - 13th Aug 2017",
+    "description": "Another talk about the evils of our monetary system and some of the alternatives available to us. Well attended with a quite lengthy follow-up of questions and ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/iOXtjn2yD4g/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/iOXtjn2yD4g/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/iOXtjn2yD4g/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-08-29T14:05:17Z"
+  }
+}

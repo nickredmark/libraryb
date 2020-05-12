@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "xL8K073o49WV30ZdI50umsCV3BA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ckz7YXhb9Fo"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-25T19:38:23Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "John Vervaeke and Christopher Mastropietro: Dialogos and Extasis",
+    "description": "This wide ranging conversation includes: insights on the meaning of the present Covid_19 crisis; a discussion of John and Christopher's recent essay (Gnosis in ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ckz7YXhb9Fo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ckz7YXhb9Fo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ckz7YXhb9Fo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-25T19:38:23Z"
+  }
+}

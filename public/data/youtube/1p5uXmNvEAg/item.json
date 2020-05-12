@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "PmeMLY7z0OWn323xJJ5x9wtnt5k",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi4yMUQyQTQzMjRDNzMyQTMy",
+  "snippet": {
+    "publishedAt": "2019-08-05T21:00:44Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Making Sense of Sensemaking, Jordan Greenhall, Jamie Wheal & Daniel Schmachtenberger",
+    "description": "A unique three-way emergent conversation between three of the world's foremost systems thinkers and futurists.\n\nHow important is sensemaking? What is coherence and how can we develop it? \n\nTake a deep dive with Jordan Greenhall, Jamie Wheal and Daniel Schmachtenberger.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1p5uXmNvEAg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1p5uXmNvEAg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1p5uXmNvEAg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/1p5uXmNvEAg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/1p5uXmNvEAg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 31,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "1p5uXmNvEAg"
+    }
+  }
+}

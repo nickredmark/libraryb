@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/W9acqwTkhcDJ3S09vHBvm9DJvgI\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "O8rZNE0hVyA"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-11T15:14:44.000Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Meditating with John Vervaeke - Lesson 10: Prajna - Day 36 - Live Stream Mon-Fri 09:30 EST",
+    "description": "Please join me for a daily meditation live stream every weekday at 09:30 AM EST. In these challenging times, meditation can help ground us and cope with ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/O8rZNE0hVyA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/O8rZNE0hVyA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/O8rZNE0hVyA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none"
+  }
+}

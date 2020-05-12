@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "ZE_N71OhQzdWW1q8Z_pwUdOkWA0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "0374g6vuGjg"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-18T16:24:44Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Collective Sensemaking in an Age of Existential Risk, Jamie Wheal",
+    "description": "This is a film from the workshop with Jamie Wheal, held in London in October 2019 on the subject of how to make sense of the world in the light of ever ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0374g6vuGjg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0374g6vuGjg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0374g6vuGjg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-18T16:24:44Z"
+  }
+}

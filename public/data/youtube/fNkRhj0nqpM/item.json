@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "6XbLuV8EalMiInacpGN6r3EIwJo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "fNkRhj0nqpM"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-07T14:04:45Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Meditating with John Vervaeke - Day 12 - Live Stream every Mon-Fri at 09:30 EST",
+    "description": "Please join me for a daily meditation live stream every weekday at 09:30 AM EST. In these challenging times, meditation can help ground us and cope with ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fNkRhj0nqpM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fNkRhj0nqpM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fNkRhj0nqpM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-07T14:04:45Z"
+  }
+}

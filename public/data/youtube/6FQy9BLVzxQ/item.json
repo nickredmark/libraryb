@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "OHzuK0KEEbzFgMPxzhsBJff9YYI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "6FQy9BLVzxQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-11T01:27:47Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "Sam Harris on &quot;The Portal&quot; with host Eric Weinstein, Ep. #011 - Fighting with Friends.",
+    "description": "On this episode of The Portal, Eric talks to close friend, neuroscientist, philosopher, author and meditation-guru, Sam Harris. When Sam and Eric sit down they ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6FQy9BLVzxQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6FQy9BLVzxQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6FQy9BLVzxQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-11T01:27:47Z"
+  }
+}

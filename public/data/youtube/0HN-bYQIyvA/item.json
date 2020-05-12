@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "WjGnFl28d_TR80u6ETD4H37SZjA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "0HN-bYQIyvA"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-03T23:13:39Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Interview with Colin Turner",
+    "description": "Another interview conducted for the Money Free Party UK, this time with author, activist, Tedx speaker and creator of the Free World Charter, Colin Turner.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0HN-bYQIyvA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0HN-bYQIyvA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0HN-bYQIyvA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-03-03T23:13:39Z"
+  }
+}

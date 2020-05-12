@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "tmtm3RtXJ1Oxab0xmpBexvFXXaw",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "zbmsGU1lVeA"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-15T00:30:25Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Riding a paradigm with Rebel Wisdom. David Fuller &amp; Guy Sengstock",
+    "description": "David's channel Rebel Wisdom: https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw Video mentioned: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/zbmsGU1lVeA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/zbmsGU1lVeA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/zbmsGU1lVeA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-15T00:30:25Z"
+  }
+}

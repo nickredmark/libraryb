@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "NME-xeYWjONjhLV5LCdVi910Wak",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "bntXhRfx0nY"
+  },
+  "snippet": {
+    "publishedAt": "2017-12-09T16:01:34Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Mark Lewis &amp; Guy Sengstock Consciousness and Intimacy 2017",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/bntXhRfx0nY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/bntXhRfx0nY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/bntXhRfx0nY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-12-09T16:01:34Z"
+  }
+}

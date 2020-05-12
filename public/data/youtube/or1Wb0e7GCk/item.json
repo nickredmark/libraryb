@@ -1,0 +1,35 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "eKk2P4Xm0CatR8HfoXCLBl4seJY",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti4zQzFBN0RGNzNFREFCMjBE",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:50:43Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Working Directly with View",
+    "description": "Video Short from Alderlore SOLE",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/or1Wb0e7GCk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/or1Wb0e7GCk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/or1Wb0e7GCk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 28,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "or1Wb0e7GCk"
+    }
+  }
+}

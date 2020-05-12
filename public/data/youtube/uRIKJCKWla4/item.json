@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "XRALEobtmb6BcxxAWE731_1lryE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "uRIKJCKWla4"
+  },
+  "snippet": {
+    "publishedAt": "2018-06-09T01:46:33Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Bret Weinstein Testifies to Congress on The Evergreen State College riots, Free Speech &amp; Safe Spaces",
+    "description": "Bret Weinstein's testimony to the House of Representatives about the free speech crisis on U.S. college campuses. The testimony delivered by Dr. Weinstein to ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/uRIKJCKWla4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/uRIKJCKWla4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/uRIKJCKWla4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-06-09T01:46:33Z"
+  }
+}

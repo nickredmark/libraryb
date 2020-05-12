@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/svMsM2n9MHjTLwIJZpldEVtJUjo\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "l-W9O7qhstY"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-04T00:30:50.000Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Bret and Heather 4th Live Stream: Collapse in Guayaquil - DarkHorse Podcast",
+    "description": "The 4th in a series of live discussions with Bret Weinstein and Heather Heying. Drs. Bret Weinstein and Heather Heying (PhDs in Biology) discuss the state of ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/l-W9O7qhstY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/l-W9O7qhstY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/l-W9O7qhstY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none"
+  }
+}

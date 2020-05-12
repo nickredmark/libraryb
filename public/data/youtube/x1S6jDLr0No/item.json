@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "79kH04G-r2ZqS4Rc0-dXAzVkO58",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "x1S6jDLr0No"
+  },
+  "snippet": {
+    "publishedAt": "2019-07-25T13:15:58Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "The revival of Stoicism, Jules Evans",
+    "description": "The ancient philosophy of Stoicism is undergoing a renaissance. Philosopher Jules Evans is partly responsible for that. In this conversation with Rebel Wisdom's ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/x1S6jDLr0No/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/x1S6jDLr0No/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/x1S6jDLr0No/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-07-25T13:15:58Z"
+  }
+}

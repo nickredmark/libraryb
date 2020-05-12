@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sxEQmWR7zzyR4hpLpx5wcRZ5m3w\"",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5DNzE1RjZEMUZCMjA0RDBB",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:23:13.000Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Ep 7 Daniel Schmachtenberger – Neurohacking, Evolutionary Philosophy, and the Future of Humanity",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_2PLXQDp75Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_2PLXQDp75Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_2PLXQDp75Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/_2PLXQDp75Y/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 38,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "_2PLXQDp75Y"
+    }
+  }
+}

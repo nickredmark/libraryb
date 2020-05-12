@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "9GHrfm9Ati9v0Nm_wpBM6yxc8xA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "jtpc4Ueoe0I"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-03T03:48:13Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Is This Some Of The Best Advice For Creatives &amp; Artists? | Russell Brand",
+    "description": "Day 33 of Possibility in a pandemic Discussing: Is This Some Of The Best Advice For Creatives & Artists? | Russell Brand ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/jtpc4Ueoe0I/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/jtpc4Ueoe0I/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/jtpc4Ueoe0I/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-03T03:48:13Z"
+  }
+}

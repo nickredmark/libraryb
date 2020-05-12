@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/n3bZ7FTg4Es6srTkcMLFlxz8_P0\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "QOvRBd3ffe4"
+  },
+  "snippet": {
+    "publishedAt": "2018-03-04T20:50:59.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Social Satisfiers and the Reinvention of Everything | Deep Code Experiment: Episode 14",
+    "description": "A brief overview of Max Neef's concept of \"satisfiers\" and of my own concept of \"reinvention\". For more, an old medium post: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/QOvRBd3ffe4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/QOvRBd3ffe4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/QOvRBd3ffe4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

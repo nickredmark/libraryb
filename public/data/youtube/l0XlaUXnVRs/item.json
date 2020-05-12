@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "O48dGpK2qaQFORoZRV1vuSezI0Y",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "l0XlaUXnVRs"
+  },
+  "snippet": {
+    "publishedAt": "2019-07-14T12:56:53Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Steve Saylor for President, full version",
+    "description": "Steve ran in 2016 and is making another, more serious run in 2020. This is the first TV interview of his campaign. This is the full, unedited version. Contains ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/l0XlaUXnVRs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/l0XlaUXnVRs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/l0XlaUXnVRs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-07-14T12:56:53Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "yq_gEmbL1kv3lCnzMyYoTKGUAF8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "vjJozydzNdQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-09T14:34:06Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "How Corona Virus exposes the Efficiency/Resilience trade-off",
+    "description": "The most important thing I have learned from the Co-Vid19 crisis is the way in which fragility and efficiency go hand in hand. The decades long drive towards ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vjJozydzNdQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vjJozydzNdQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vjJozydzNdQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-09T14:34:06Z"
+  }
+}

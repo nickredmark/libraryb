@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "O2jYwuwvopezOmCB2M7D-wOyOy0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "_e3x8H3QMkE"
+  },
+  "snippet": {
+    "publishedAt": "2017-12-11T17:27:38Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "&quot;Be the one to rely on in a crisis&quot;",
+    "description": "Jordan Peterson says, life may be a tragedy - don't make it worse. Try to become the person who others can rely on in times of crisis. This is a highly personal ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_e3x8H3QMkE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_e3x8H3QMkE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_e3x8H3QMkE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-12-11T17:27:38Z"
+  }
+}

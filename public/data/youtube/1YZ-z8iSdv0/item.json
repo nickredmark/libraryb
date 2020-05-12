@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TpGYrlVpUPWrGMpXeDbid4wLR2U\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "1YZ-z8iSdv0"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-26T19:16:40.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Deep Code Bits: The Future of Financial Institutions",
+    "description": "Answering a question about how current financial institutions like the fed may shift in the coming weeks, months, and years Edited by Lorcan McSharp: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1YZ-z8iSdv0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1YZ-z8iSdv0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1YZ-z8iSdv0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

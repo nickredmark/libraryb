@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "tzUcD1lnqyRyzWmzorty7pNOJoI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "OXYQmkU1mDM"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-24T01:30:10Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "&quot;Wisdom &amp; Death&quot;  Corey Anton &amp; Guy Sengstock",
+    "description": "Corey Anton is Professor of Communication Studies at Grand Valley State University and author of dozens of scholarly papers and books. His research spans ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/OXYQmkU1mDM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/OXYQmkU1mDM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/OXYQmkU1mDM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-24T01:30:10Z"
+  }
+}

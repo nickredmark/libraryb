@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "jssfD5vPErAF5EHGkXZA7z0DQUk",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ZGA0ecwwNks"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-07T20:37:48Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Copy of Solution Raising: Mapping Game B",
+    "description": "A Solution Raising is an hour long conversation that generates potential solutions we could implement right now if we had 10000 people and $100000 15 min ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ZGA0ecwwNks/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ZGA0ecwwNks/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ZGA0ecwwNks/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-07T20:37:48Z"
+  }
+}

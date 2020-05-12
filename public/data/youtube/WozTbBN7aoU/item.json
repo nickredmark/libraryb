@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "f1AJqfiYJHmQ7jx1zmpH9z4w9WE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "WozTbBN7aoU"
+  },
+  "snippet": {
+    "publishedAt": "2018-09-21T14:12:10Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Heather Heying speaks at the US Department of Justice on Free Speech on College Campuses",
+    "description": "Heather Heying at the US Department of Justice forum on Free Speech on College Campuses - 9/17/2018. Written version: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/WozTbBN7aoU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/WozTbBN7aoU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/WozTbBN7aoU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-09-21T14:12:10Z"
+  }
+}

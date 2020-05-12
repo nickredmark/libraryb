@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "XMNcXuP-Art0pWFxEbRT0vWTfro",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "onPAlqWYJ28"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-04T11:02:14Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Sweeny vs Bard: Ep. 4: Jordan Peterson, Tribal Mapping, and the Men&#39;s Movement",
+    "description": "FOR NEW PODCAST VERSION: https://anchor.fm/andrew-sweeny Part 4 from a conversation series with Alexander Bard, the cyber philosopher, futurist, rock ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/onPAlqWYJ28/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/onPAlqWYJ28/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/onPAlqWYJ28/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-03-04T11:02:14Z"
+  }
+}

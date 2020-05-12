@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "qkFxJo0i1l58TkqaJZBqnnsFmUs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "zzRInvHuw9U"
+  },
+  "snippet": {
+    "publishedAt": "2019-09-13T23:15:18Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "The War on Sensemaking, Daniel Schmachtenberger- response",
+    "description": "My response to Rebel Wisdom Podcast Video Link: https://www.youtube.com/watch?v=7LqaotiGWjQ&t We can make sense we just need to do it together, ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/zzRInvHuw9U/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/zzRInvHuw9U/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/zzRInvHuw9U/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-13T23:15:18Z"
+  }
+}

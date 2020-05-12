@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "LXz4ZtaO2cVpKzGjtgUh9uFvMPo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "pVYCqK19-ww"
+  },
+  "snippet": {
+    "publishedAt": "2020-01-26T07:33:58Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "London Tsai on &quot;The Portal&quot;, Ep. #014 - The Reclusive Dean of The New Escherians",
+    "description": "What happened to the Mathematical and Scientific art movement after MC Escher? It went underground. In this episode of the Portal, Eric begins tracking down ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/pVYCqK19-ww/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/pVYCqK19-ww/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/pVYCqK19-ww/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-01-26T07:33:58Z"
+  }
+}

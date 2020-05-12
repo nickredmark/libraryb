@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "5D12jxDrsWXe3JuoOdvnLPMHqKQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "lyWp_DyWb-Y"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T15:04:31Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Glass Bead Games - Gift",
+    "description": "Laurence and Erik, 6min game, 20sec turns.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/lyWp_DyWb-Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/lyWp_DyWb-Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/lyWp_DyWb-Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T15:04:31Z"
+  }
+}

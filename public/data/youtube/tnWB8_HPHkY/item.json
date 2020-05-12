@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "jpuZDux-iD3g3mzbyIVnAciWG0c",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "tnWB8_HPHkY"
+  },
+  "snippet": {
+    "publishedAt": "2019-01-16T14:50:37Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Where Gillette Went Wrong",
+    "description": "Gillette's newest ad, 'The Best a Man Can Be', has created a social media firestorm in the last few days. We sat down to discuss the reaction, the cultural context ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/tnWB8_HPHkY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/tnWB8_HPHkY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/tnWB8_HPHkY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-01-16T14:50:37Z"
+  }
+}

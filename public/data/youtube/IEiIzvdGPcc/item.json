@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "myXEhGVwA6XZ5_l6eeeoSKJo0OI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "IEiIzvdGPcc"
+  },
+  "snippet": {
+    "publishedAt": "2018-12-14T00:52:30Z",
+    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "title": "The Psychedelic Philosopher Returns, with Peter Sjöstedt-H | E19",
+    "description": "Peter Sjöstedt-H returns to Voiceclub to talk about the relevance of Spinoza, Humphry Davy, and Whitehead to psychedelic philosophy. Recorded in July 2018 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/IEiIzvdGPcc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/IEiIzvdGPcc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/IEiIzvdGPcc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Voicecraft",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-12-14T00:52:30Z"
+  }
+}

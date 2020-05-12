@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "265f44_2X8tk_bs4tjq16VQTBGk",
+  "id": "UExwUkVoRzdHdGp0RE9nU1h6a1pXUFVHbGh3UmgwUElyLS41MjE1MkI0OTQ2QzJGNzNG",
+  "snippet": {
+    "publishedAt": "2019-11-18T02:04:19Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "The Science f Magic with Gwilda Wiyaka - EP 179 - Guest: Forrest Landry",
+    "description": "Forrest Landry is a philosopher, writer, researcher, scientist, software developer, engineer, and craftsman. He is the founder and CEO of Magic Flight, a B2C wood products design and manufacturing company, located in San Diego, and employing appx 35 people. Skilled in large scale software systems design, applications architecture, etc, he has completed production work in several federal projects supporting various FBI investigative capabilities, TSC, IDW, DARPA, the Library of Congress Congressional Records System, and many others. He is also the author of several books and essays on various areas of foundational ethics, ontology, epistemology, and the philosophy of life.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/24AD9ouPaK0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/24AD9ouPaK0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/24AD9ouPaK0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/24AD9ouPaK0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtDOgSXzkZWPUGlhwRh0PIr-",
+    "position": 2,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "24AD9ouPaK0"
+    }
+  }
+}

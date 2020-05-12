@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "s7FrM-4bdes05ltl5dYkx98EXIw",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "hOgz_uQDM-4"
+  },
+  "snippet": {
+    "publishedAt": "2018-07-24T22:37:17Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Jordan Peterson/Sam Harris with Jonathan Pageau",
+    "description": "What were the fundamental disagreements between Jordan Peterson and Sam Harris in their recent series of debates, and was anything achieved in their ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/hOgz_uQDM-4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/hOgz_uQDM-4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/hOgz_uQDM-4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-07-24T22:37:17Z"
+  }
+}

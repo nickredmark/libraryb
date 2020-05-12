@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "cpORk-nuNVUHn7GzTqd8tMn-M6w",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "oG9I25I7shc"
+  },
+  "snippet": {
+    "publishedAt": "2019-07-04T13:06:12Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Andrew Sweeny and Stephen Lewis on René Girard:  The defence of the innocent victim",
+    "description": "This is the 4th in a series of talks with Stephen Lewis, in which we discuss Réne Girard and his theories of the Scapegoat and their broader implications.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/oG9I25I7shc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/oG9I25I7shc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/oG9I25I7shc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-07-04T13:06:12Z"
+  }
+}

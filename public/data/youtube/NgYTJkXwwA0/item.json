@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "HV0j4dzn_511Kiagqh0PW1NSMao",
+  "id": "UExwUkVoRzdHdGp0QWJDTUdYd0pwVXI4eFdpZl9kZ0R3Ny41MjE1MkI0OTQ2QzJGNzNG",
+  "snippet": {
+    "publishedAt": "2019-12-16T05:41:40Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Ronin Institute Seminar: Zak Stein, 31 May 2018",
+    "description": "Education in a Time between Worlds",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/NgYTJkXwwA0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/NgYTJkXwwA0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/NgYTJkXwwA0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/NgYTJkXwwA0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/NgYTJkXwwA0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtAbCMGXwJpUr8xWif_dgDw7",
+    "position": 3,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "NgYTJkXwwA0"
+    }
+  }
+}

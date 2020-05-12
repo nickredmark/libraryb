@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "2-LGwdeYR95D_O8ls7fhaji9ssM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "A_gH5VIZO0Q"
+  },
+  "snippet": {
+    "publishedAt": "2019-02-22T17:47:21Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 6 - Awakening from the Meaning Crisis - Aristotle, Kant, and Evolution",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/A_gH5VIZO0Q/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/A_gH5VIZO0Q/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/A_gH5VIZO0Q/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-02-22T17:47:21Z"
+  }
+}

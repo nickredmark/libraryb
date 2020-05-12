@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "XIbVU17wcHT1GY_DSuzArMXcKbs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "23ep513pD94"
+  },
+  "snippet": {
+    "publishedAt": "2020-01-12T15:00:00Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Sovereignty &amp; Autonomy, Rafia Morgan (Collective Intelligence Series)",
+    "description": "What is sovereignty and how do we cultivate it? In our Collective Intelligence Series many of our interviewees have talked about the value of inner sovereignty.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/23ep513pD94/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/23ep513pD94/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/23ep513pD94/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-01-12T15:00:00Z"
+  }
+}

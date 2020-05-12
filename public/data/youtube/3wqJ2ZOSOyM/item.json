@@ -1,0 +1,35 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "X0_kgzUqNjON6XjeW3V9_lhFB68",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti5DQUNERDQ2NkIzRUQxNTY1",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:28:29Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Andrew Venezia and Bonnitta Roy Riff on We-Space and Collective Insight",
+    "description": "An exploration of We Space and Collective Insight with Andrew Venezia and Bonnitta Roy",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3wqJ2ZOSOyM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3wqJ2ZOSOyM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3wqJ2ZOSOyM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 17,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "3wqJ2ZOSOyM"
+    }
+  }
+}

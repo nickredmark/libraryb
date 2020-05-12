@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "4Mhptny2wWs-lfId_nn8tt-WAQ0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "MoTmBDjf0nM"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-03T20:11:51Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "Fix our world Friday April 3, 2020",
+    "description": "Covid-19 has turned life into chaos Togethertec is trying to make sense of the world during these times.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/MoTmBDjf0nM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/MoTmBDjf0nM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/MoTmBDjf0nM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-03T20:11:51Z"
+  }
+}

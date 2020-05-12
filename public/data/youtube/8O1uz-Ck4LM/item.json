@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "S8Y-k0f6TWjM1Q_3caLYli3vgUU",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "8O1uz-Ck4LM"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T12:04:38Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Glass Bead Games - Death",
+    "description": "Laurence and Nathan, 10 min game, 1 Min turns.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/8O1uz-Ck4LM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/8O1uz-Ck4LM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/8O1uz-Ck4LM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T12:04:38Z"
+  }
+}

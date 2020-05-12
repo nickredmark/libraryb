@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GmLQampSqyrxp2z7zExXTIy9EK0\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "_f3-5Xx4rCA"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-24T22:29:59.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Deep Code Bits: How Do We Respond to Corruption in a Crisis",
+    "description": "How can the people respond to high level corruption during the unfolding meta-crisis? Edited by Lorcan McSharp: https://www.youtube.com/c/lorcanmcsharp ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_f3-5Xx4rCA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_f3-5Xx4rCA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_f3-5Xx4rCA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

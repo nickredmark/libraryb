@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "u0WIrZZ_VI2NfTzJC2oK1_dJ7Yo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "f9pLkpPhqPc"
+  },
+  "snippet": {
+    "publishedAt": "2020-01-16T20:49:02Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Technology cooperative is more powerful and less risky than Holochain or blockchain projects",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/f9pLkpPhqPc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/f9pLkpPhqPc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/f9pLkpPhqPc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-01-16T20:49:02Z"
+  }
+}

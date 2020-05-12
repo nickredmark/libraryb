@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "yucZhU6tDf33ml5HiXgNNfohnAc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "0J8TLRUOgJo"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-30T17:00:10Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "The Meaning Crisis, and Shadow work, Jordan Peterson on Jung ft. John Vervaeke and Anderson Todd",
+    "description": "Curious about Anderson Todd? Join his live Q&A Friday Feb 7th, 2020 at 1500 EST here: https://www.youtube.com/watch?v=BsUquRO-70w Has Jordan ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0J8TLRUOgJo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0J8TLRUOgJo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0J8TLRUOgJo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-30T17:00:10Z"
+  }
+}

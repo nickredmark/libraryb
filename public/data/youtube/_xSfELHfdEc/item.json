@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "PsD6PD4i2967o5AXojK9Ey4ch9A",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "_xSfELHfdEc"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-22T18:13:33Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "TogetherTec - Solution Raising -How can we make education accessible to everyone?",
+    "description": "We are going to create ONE possible solution to education during our hour long dialogue 1) 15 min: Discuss what current education looks like: what is working, ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_xSfELHfdEc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_xSfELHfdEc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_xSfELHfdEc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-22T18:13:33Z"
+  }
+}

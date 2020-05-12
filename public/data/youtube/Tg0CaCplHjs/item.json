@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "oCFEdAn633l_7pkNRfR-kiaP3Lo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Tg0CaCplHjs"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-01T14:30:01Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Vervaeke &amp; (Green)Hall: Bullshit &amp; Simulated Thinking",
+    "description": "This is the second 'explorations in meaning' conversation between Jordan (Green)Hall and John Vervaeke, a unique dialogue between two of the most ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Tg0CaCplHjs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Tg0CaCplHjs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Tg0CaCplHjs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-01T14:30:01Z"
+  }
+}

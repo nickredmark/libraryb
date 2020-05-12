@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "cvK3KN94j9tZAcP08sdobLpqUvc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "bz0oxIZ3xIg"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-01T19:55:52Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Bret Weinstein, How the Magic Trick is Done",
+    "description": "In this speech at the Students For Liberty conference in Vancouver, B.C. I discuss the inner workings of the regressive left. https://www.patreon.com/bretweinstein ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/bz0oxIZ3xIg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/bz0oxIZ3xIg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/bz0oxIZ3xIg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-05-01T19:55:52Z"
+  }
+}

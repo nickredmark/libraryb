@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HTSZM56HlbvcYpSpQtpjv5reE6U\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ZANdW_bbhsQ"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-03T20:28:34.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "The War on Sensemaking | Deep Code Experiment: Episode 22",
+    "description": "What happened when science, economy and the military industrial complex changed focus from making faster plans and bigger bombs to pushing the envelope ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ZANdW_bbhsQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ZANdW_bbhsQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ZANdW_bbhsQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

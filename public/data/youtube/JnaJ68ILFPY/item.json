@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "zP52aDhR-noE5THIAemeVsYMFck",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "JnaJ68ILFPY"
+  },
+  "snippet": {
+    "publishedAt": "2018-07-11T16:34:35Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Psychedelics, shadow and growth: Rebel Wisdom Podcast - San Francisco Edition",
+    "description": "Rebel Wisdom's first overseas adventure - David and Alexander outline RW's plans for future interviews and documentaries - and take the opportunity to explore ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/JnaJ68ILFPY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/JnaJ68ILFPY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/JnaJ68ILFPY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-07-11T16:34:35Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WrU-A8jYMyPdAvh2EaX2VnB2QdE\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Hy5GoCLNodE"
+  },
+  "snippet": {
+    "publishedAt": "2019-09-18T23:15:27.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Steve Beattie - Practicing Stoicism with the Wim Hof Method",
+    "description": "Steve teaches breath work to individuals and groups as a way to boost physical performance, find their mental edge, and achieve a deep state of meditation - a ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Hy5GoCLNodE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Hy5GoCLNodE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Hy5GoCLNodE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

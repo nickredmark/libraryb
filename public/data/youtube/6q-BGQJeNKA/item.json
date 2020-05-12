@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "HyRDJQf0ShQBBPcfOU2X1DwQFmo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "6q-BGQJeNKA"
+  },
+  "snippet": {
+    "publishedAt": "2017-07-17T22:50:17Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Speakers&#39; Corner   April 16th, 2017, London",
+    "description": "And this is the other one. Content is much the same as the first one, but different input from listeners. Not my best work - I will do more and do them better.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6q-BGQJeNKA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6q-BGQJeNKA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6q-BGQJeNKA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-07-17T22:50:17Z"
+  }
+}

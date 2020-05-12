@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "57ZN3VLAyH_18bD4FNl7keFcVOs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "2hsk-1E3ns8"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-06T04:58:01Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Sweeny vs Bard Ep. 16: Ethics and Freedom From God",
+    "description": "FOR NEW PODCAST VERSION: https://anchor.fm/andrew-sweeny Support this channel and my projects by subscribing here or helping on Patreon: Patreon: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/2hsk-1E3ns8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/2hsk-1E3ns8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/2hsk-1E3ns8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-06-06T04:58:01Z"
+  }
+}

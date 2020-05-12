@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "50yQzyTOba4bKE6IUmWc2u5NA3E",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "K98E7edYDFs"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T12:23:49Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Glass Bead Games - End",
+    "description": "Elina and Erik. 10min game, 1min turns.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/K98E7edYDFs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/K98E7edYDFs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/K98E7edYDFs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T12:23:49Z"
+  }
+}

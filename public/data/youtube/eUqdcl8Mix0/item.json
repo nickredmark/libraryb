@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/X9q2l-Uj0IUPArmoiHmSw7djsmY\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "eUqdcl8Mix0"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-11T05:37:59.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Swimming in the Digital During a Pandemic w/ Alexander Bard",
+    "description": "April 24th, 2020 Join the trickster philosopher himself, Alexander Bard, discuss how we can swim in the digital during a pandemic. RSVP for more sessions: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/eUqdcl8Mix0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/eUqdcl8Mix0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/eUqdcl8Mix0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

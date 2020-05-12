@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "iB8upDTK3fbNreVgcTwYd7MZ198",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ZX4lNZNdtSo"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-02T08:09:09Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "Idea Cafe for Projects: How do you (or will you) market your project?",
+    "description": "Each participant takes a turn answering the question (up to 5 minutes) then we have an open conversation for the remainder of the hour.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ZX4lNZNdtSo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ZX4lNZNdtSo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ZX4lNZNdtSo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-02T08:09:09Z"
+  }
+}

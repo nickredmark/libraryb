@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/C7uy6F4YfGWYeuEb-xMlY9w50aM\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "R35CxtZ87QM"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-16T05:06:28.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Discovering Stoicism with Each Breath w/ Steve Beattie",
+    "description": "Peter & Steve talk about Stoicism, breathwork, and the Stoic breath. Steve is at The Stoa every Sunday at 10 AM ET. RSVP at www.thestoa.ca ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/R35CxtZ87QM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/R35CxtZ87QM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/R35CxtZ87QM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

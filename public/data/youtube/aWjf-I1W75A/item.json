@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LjhqCDRpZWLrViicwdk3nd4-O38\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "aWjf-I1W75A"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-22T03:32:13.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Deep Code Bits: The Way Forward in Times of Crisis",
+    "description": "What does a young man with a \"blank slate\" do in the near to medium future as we face the unfolding meta-crisis? Full video: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/aWjf-I1W75A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/aWjf-I1W75A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/aWjf-I1W75A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

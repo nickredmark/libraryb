@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LS8ybohOKCLmwtqpm0Qx4Bx4Kv0\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "wqKkmNA_oiU"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-10T04:30:24.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Emancipate the Daemon w/ Peter Limberg and Raven Connolly",
+    "description": "Peter and Raven discuss the idea of emancipating the daemon. RSVP for more sessions: www.thestoa.ca Join The Stoa mailing list: https://thestoa.substack.com ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/wqKkmNA_oiU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/wqKkmNA_oiU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/wqKkmNA_oiU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

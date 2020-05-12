@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "pm9HAzlCEz76FPWCb1Az6nZR_MI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "xpoBh5G9CO4"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-18T10:08:25Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Glass Bead Game: Conspiracy",
+    "description": "This is a 2 player, 30 seconds/turn, 10 minute game on the subject of Conspiracy.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/xpoBh5G9CO4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/xpoBh5G9CO4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/xpoBh5G9CO4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-18T10:08:25Z"
+  }
+}

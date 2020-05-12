@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "DYjnr2WwSKDq-vSJNmnELKdwSug",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "kkykBqApP4A"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-20T18:09:17Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 49 - Awakening from the Meaning Crisis - Corbin and Jung",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/kkykBqApP4A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/kkykBqApP4A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/kkykBqApP4A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-20T18:09:17Z"
+  }
+}

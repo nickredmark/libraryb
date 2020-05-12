@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "oeBTBAGTz1YlgVSP7-29B8YI060",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti41QTY1Q0UxMTVCODczNThE",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:31:22Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Part 1  - From Postmodernism to Post- PoMO",
+    "description": "Part 1 of the Video Series \"What is the Magellan Course\" describing the voyage from postmodernism to post-postmodernism.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Vy5SFSsrvzo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Vy5SFSsrvzo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Vy5SFSsrvzo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Vy5SFSsrvzo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Vy5SFSsrvzo"
+    }
+  }
+}

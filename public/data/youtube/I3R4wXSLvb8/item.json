@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "MTaB229JoUjaph_ArH6IkuzLX4Q",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "I3R4wXSLvb8"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-19T22:00:13Z",
+    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "title": "Finding Others. Being Here. w/ podcasters of the sensemaking web",
+    "description": "Tuning in to the centre in the moment of COVID-19. If you're not already, it's very important you do your best to self-isolate. It's crucial to flatten the curve, save ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/I3R4wXSLvb8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/I3R4wXSLvb8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/I3R4wXSLvb8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Voicecraft",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-19T22:00:13Z"
+  }
+}

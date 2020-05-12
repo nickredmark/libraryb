@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_hHHLURhcXDSc9Kud9wxKB7uNlc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "nWameOxoiOA"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-26T17:00:10Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Blending science &amp; spirituality in psychotherapeutic training w/Gregg Henriques-Voices with Vervaeke",
+    "description": "Gregg Henriques and I discuss his work on bringing science and spirituality together within the training of psychotherapists in the time of the Meaning Crisis.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/nWameOxoiOA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/nWameOxoiOA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/nWameOxoiOA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-26T17:00:10Z"
+  }
+}

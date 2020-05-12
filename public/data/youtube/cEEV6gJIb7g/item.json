@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gNmjDCwOtDInVsWGL1Mra831mqM\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "cEEV6gJIb7g"
+  },
+  "snippet": {
+    "publishedAt": "2018-02-13T20:32:00.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "The Rivalrous and the Anti-Rivalrous | Deep Code Experiment: Episode 2",
+    "description": "I've long considered this conceptual distinction to be one of the most important and least considered in the current environment. I hope this video is at least some ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/cEEV6gJIb7g/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/cEEV6gJIb7g/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/cEEV6gJIb7g/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

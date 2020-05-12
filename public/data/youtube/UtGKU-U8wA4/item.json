@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "bAK_Ms3Ztirli4Jk2rWbGMnb2c0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "UtGKU-U8wA4"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-04T17:16:59Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "Saturday Morning Project Session",
+    "description": "update on our projects and anything we can use help with from each other.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/UtGKU-U8wA4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/UtGKU-U8wA4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/UtGKU-U8wA4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-04T17:16:59Z"
+  }
+}

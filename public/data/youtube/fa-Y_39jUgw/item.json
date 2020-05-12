@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "ESO7g0Tb7tQT5P7Dow7cLNsBk3M",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "fa-Y_39jUgw"
+  },
+  "snippet": {
+    "publishedAt": "2017-08-29T16:09:32Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Friendly advice",
+    "description": "This is a video of a guy I know from speakers corner known only to me as \"my friend\". He lives a life almost entirely outside the system and has a great deal of ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fa-Y_39jUgw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fa-Y_39jUgw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fa-Y_39jUgw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-08-29T16:09:32Z"
+  }
+}

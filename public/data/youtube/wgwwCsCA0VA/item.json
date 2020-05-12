@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "fMRfy0-OmkViOlM6ScVhMIR666Y",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "wgwwCsCA0VA"
+  },
+  "snippet": {
+    "publishedAt": "2019-11-17T11:43:50Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "What does it mean to be a man?  Discussions with Ole Bjerg",
+    "description": "\"Ole Bjerg is director of consulting and analysis at AthosLeadership https://www.athosleadership.com/\" and an associate professor at Copenhagen Business ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/wgwwCsCA0VA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/wgwwCsCA0VA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/wgwwCsCA0VA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-11-17T11:43:50Z"
+  }
+}

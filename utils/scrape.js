@@ -6,11 +6,13 @@ const {
   renameSync,
 } = require("fs");
 const youtubedl = require("youtube-dl");
-const seed = require("../public/data/seed.json");
 const Youtube = require("youtube-api");
 const { parseString } = require("xml2js");
 const qs = require("qs");
-const { orderBy } = require("lodash");
+const { orderBy, omit } = require("lodash");
+const Parser = require("rss-parser");
+
+const parser = new Parser();
 
 const getVideos = async (key, options, getId = (item) => item.id.videoId) => {
   const videos = [];
@@ -86,40 +88,61 @@ Youtube.authenticate({
 });
 const start = async () => {
   try {
-    const library = {
-      seed,
-      videos: [],
-    };
-    for (const item of seed) {
-      switch (item.type) {
+    const seed = JSON.parse(readFileSync("./public/data/seed.json", "utf8"));
+    const collections = JSON.parse(
+      readFileSync("./public/data/collections.json", "utf8")
+    );
+    const items = JSON.parse(readFileSync("./public/data/items.json", "utf8"));
+
+    for (const collection of seed) {
+      if (!collections[collection.url]) {
+        collections[collection.url] = {};
+      }
+      Object.assign(collections[collection.url], collection);
+      switch (collection.type) {
         case "youtube-playlist": {
-          console.log(`playlist ${item.url}`);
-          const id = new URL(item.url).searchParams.get("list");
-          item.videos = await getVideos(
+          break;
+          console.log(`playlist ${collection.url}`);
+          const id = new URL(collection.url).searchParams.get("list");
+          collection.videos = await getVideos(
             "playlistItems",
             {
               playlistId: id,
             },
             (item) => item.snippet.resourceId.videoId
           );
-          library.videos.push(...item.videos);
+          library.items.push(...collection.videos);
 
           break;
         }
         case "youtube-channel": {
-          console.log(`channel ${item.url}`);
-          const id = item.url.split("/")[item.url.split("/").length - 1];
+          break;
+          console.log(`channel ${collection.url}`);
+          const id = collection.url.split("/")[
+            collection.url.split("/").length - 1
+          ];
 
-          item.videos = await getVideos("search", {
+          collection.videos = await getVideos("search", {
             channelId: id,
           });
-          library.videos.push(...item.videos);
+          library.items.push(...collection.videos);
           break;
+        }
+        case "medium-user": {
+          console.log(`medium user ${libraryItem.url}`);
+          await new Promise((res) => setTimeout(res, 1000));
+          const parsedFeed = await parser.parseURL(libraryItem.url);
+          parsedFeed.items.forEach((item) => {
+            item.snippet = { publishedAt: item.pubDate };
+            delete item["content.encoded"];
+          });
+          libraryItem.feed = parsedFeed;
+          library.items.push(...parsedFeed.items);
         }
       }
     }
 
-    library.videos = orderBy(library.videos, "snippet.publishedAt");
+    library.items = orderBy(library.items, "snippet.publishedAt");
 
     writeFileSync(
       "./public/data/library.json",

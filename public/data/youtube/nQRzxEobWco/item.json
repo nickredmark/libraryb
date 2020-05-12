@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "dm4--FmqxhKZ3WC13abiVCFct74",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "nQRzxEobWco"
+  },
+  "snippet": {
+    "publishedAt": "2018-11-07T17:59:54Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "&#39;Humanity&#39;s Phase Shift&#39;, Daniel Schmachtenberger",
+    "description": "Daniel Schmachtenberger is a futurist, evolutionary philosopher and strategist, and social engineer. This conversation with David Fuller of Rebel Wisdom looks ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/nQRzxEobWco/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/nQRzxEobWco/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/nQRzxEobWco/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-11-07T17:59:54Z"
+  }
+}

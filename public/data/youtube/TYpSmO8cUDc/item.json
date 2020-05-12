@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gDGEufpP-wRenMGl4Rvm8_LxBbE\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "TYpSmO8cUDc"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-09T13:00:04.000Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "John Wood Jr. of Better Angels | Bret Weinstein&#39;s DarkHorse Podcast #4",
+    "description": "John Wood Jr. - Media Director and National Leader at Better Angels discusses the effects of political polarization in our cultural discourse and offers solutions to ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/TYpSmO8cUDc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/TYpSmO8cUDc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/TYpSmO8cUDc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none"
+  }
+}

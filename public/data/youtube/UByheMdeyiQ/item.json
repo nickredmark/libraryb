@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "5q420NDiNY1yQL1LEzHKzwjwS8w",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "UByheMdeyiQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-02-28T08:21:18Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Sweeny vs Bard:  Ep. 2: Jordan Peterson, The Tribe, and The Machine",
+    "description": "FOR NEW PODCAST VERSION: https://anchor.fm/andrew-sweeny Part 2 from a conversation series with Alexander Bard, the cyber philosopher, futurist, rock ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/UByheMdeyiQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/UByheMdeyiQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/UByheMdeyiQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-02-28T08:21:18Z"
+  }
+}

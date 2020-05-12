@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "vHEcAK7xKVKDjUrI8hNfHp9Khcc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "7V5VongCNE4"
+  },
+  "snippet": {
+    "publishedAt": "2018-07-24T11:00:38Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "The Phenomenon of Left and Right | Bret Weinstein",
+    "description": "What is the reason for the dichotomy of the Right and the Left? What do liberals and conservatives want most? How do liberals and conservatives serve to ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7V5VongCNE4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7V5VongCNE4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7V5VongCNE4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-07-24T11:00:38Z"
+  }
+}

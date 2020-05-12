@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "RC9DsCA5C1qXlgEQtVjgDiFS6so",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "dvyo1w5Ff_A"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-01T21:58:41Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "&#39;Jordan Peterson and the patriarchy&#39;, with Lene Andersen",
+    "description": "Jordan Peterson was famously described by the New York Times as the 'Custodian of the Patriarchy'. Lene Andersen is a Danish writer, philosopher, economist ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/dvyo1w5Ff_A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/dvyo1w5Ff_A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/dvyo1w5Ff_A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-01T21:58:41Z"
+  }
+}

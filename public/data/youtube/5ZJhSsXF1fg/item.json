@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "C7F66DN17_Zyb9SHqbeATrd2B-E",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "5ZJhSsXF1fg"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-10T19:40:41Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "John Vervaeke - How to meditate - Introduction",
+    "description": "Mindfulness meditation has gotten a lot of scientific validation in the last few years, but how do you start meditating? John Vervaeke, PhD teaches multiple ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/5ZJhSsXF1fg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/5ZJhSsXF1fg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/5ZJhSsXF1fg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-10T19:40:41Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "8iB2NKUyDxQj5YBIhRoigDBjxTo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "NRuHnCeB4As"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-17T18:12:29Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "Solution Raising - Communities",
+    "description": "We are going to create ONE possible solution for building communities during our hour long dialogue 1) 15 min: Discuss what our current communities look like: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/NRuHnCeB4As/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/NRuHnCeB4As/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/NRuHnCeB4As/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-17T18:12:29Z"
+  }
+}

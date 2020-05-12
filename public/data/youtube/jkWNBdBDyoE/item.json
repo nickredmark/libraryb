@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "m-HpqfI7PNfMGdUJG-En27jHBLA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "jkWNBdBDyoE"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-15T16:31:41Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 9 - Awakening from the Meaning Crisis - Insight",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/jkWNBdBDyoE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/jkWNBdBDyoE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/jkWNBdBDyoE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-03-15T16:31:41Z"
+  }
+}

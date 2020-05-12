@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "r6_OjpIWiKasY36I2X5ue2541gY",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "RGvI0O82fF0"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-20T03:43:43Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Steven Crowder &amp; Big Tech Influence on Free Speech | Bret Weinstein",
+    "description": "Bret Weinstein discusses the controversy surrounding Steven Crowder's remarks on Carlos Maza and the deeper implications the fallout has on big tech's ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/RGvI0O82fF0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/RGvI0O82fF0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/RGvI0O82fF0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-06-20T03:43:43Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "bV8lY9TJDaB38amuMiK-wppBYaE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "FkqTSY3EoyQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-07T20:00:00Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Together Tech is MORE Powerful",
+    "description": "What if we owned Facebook together? - we would create it to give us information we trust - we would design it to connect us with new people and new ideas that ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/FkqTSY3EoyQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/FkqTSY3EoyQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/FkqTSY3EoyQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-07T20:00:00Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "PFGYdVVJKSxH_n7TioG_askokSM",
+  "id": "UExwUkVoRzdHdGp0QWJDTUdYd0pwVXI4eFdpZl9kZ0R3Ny4yODlGNEE0NkRGMEEzMEQy",
+  "snippet": {
+    "publishedAt": "2019-12-16T05:41:17Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Zak Stein - Desperate Measures - On education, metrics, and power",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ag5E1Xtq7lM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ag5E1Xtq7lM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ag5E1Xtq7lM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ag5E1Xtq7lM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtAbCMGXwJpUr8xWif_dgDw7",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "ag5E1Xtq7lM"
+    }
+  }
+}

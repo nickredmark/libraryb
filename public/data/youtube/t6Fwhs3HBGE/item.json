@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "9Hp1B-8Gfb8SV-jN2xfVnI9FALc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "t6Fwhs3HBGE"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-01T21:58:24Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "&#39;Beyond polarisation? The left &amp; Jordan Peterson&#39;, with Ronan Harrington, Alter Ego",
+    "description": "Jordan Peterson has become one of the polarising public figures in the world, especially to those on the left of the political spectrum. But especially given that the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/t6Fwhs3HBGE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/t6Fwhs3HBGE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/t6Fwhs3HBGE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-01T21:58:24Z"
+  }
+}

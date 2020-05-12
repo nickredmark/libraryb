@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "ImsC3YZOOvVTjf1_tFg0bIxEmpE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "33Ftipn4fyI"
+  },
+  "snippet": {
+    "publishedAt": "2017-08-28T00:41:57Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Is sociopathy a misdirected adaptation? by Bret Weinstein",
+    "description": "Many people requested a followup to my sympathy and empathy video that would address the question of sociopathy. In this video I advance the hypothesis that ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/33Ftipn4fyI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/33Ftipn4fyI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/33Ftipn4fyI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-08-28T00:41:57Z"
+  }
+}

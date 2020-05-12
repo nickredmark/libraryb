@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "X44CC_OpEAxrBJs5BzCyiyNiDTM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Y0JxL-acvuM"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-21T17:55:12Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "The Meaning Crisis, Religio, and Religion in the 21st Century.",
+    "description": "This is a talk I gave to Third Age Learning Lakehead (TALL). It is part of Lakehead University's Religion in the 21st Century Lecture Series. There will be a follow ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Y0JxL-acvuM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Y0JxL-acvuM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Y0JxL-acvuM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-21T17:55:12Z"
+  }
+}

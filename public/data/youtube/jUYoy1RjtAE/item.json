@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Eu1sQeypLUnEGkgXkMilr-BkHQ8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "jUYoy1RjtAE"
+  },
+  "snippet": {
+    "publishedAt": "2018-06-03T12:22:12Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Rebel Wisdom Men&#39;s Weekend Intensive, Testimonials",
+    "description": "At our men's weekend Intensives, we take key concepts from our films and talks and turn them into practical wisdom and direct experience. For example, Jordan ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/jUYoy1RjtAE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/jUYoy1RjtAE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/jUYoy1RjtAE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-06-03T12:22:12Z"
+  }
+}

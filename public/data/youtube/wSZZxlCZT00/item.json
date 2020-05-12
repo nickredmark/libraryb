@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "PV6eJ2q3NzYOWFpPC0BLAgG4Bk0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "wSZZxlCZT00"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-08T17:00:10Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Nihilism &amp; The Meaning Crisis - Part 1/2 - Voices with Vervaeke",
+    "description": "Part 1/2 of a rich dialogue with Guy and Johannes about nihilism and the meaning crisis from a Heideggerian perspective and the contrast between academic ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/wSZZxlCZT00/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/wSZZxlCZT00/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/wSZZxlCZT00/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-08T17:00:10Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PnD90mmzRlta5T-UwmqHzPW7zb0\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "CLHdY5Cyf58"
+  },
+  "snippet": {
+    "publishedAt": "2018-03-30T06:16:13.000Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "The Path to an Excellent World",
+    "description": "If humanity is to survive, we will need to change the way civilization functions, rendering our system stably abundant. But do we know enough to make the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/CLHdY5Cyf58/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/CLHdY5Cyf58/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/CLHdY5Cyf58/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none"
+  }
+}

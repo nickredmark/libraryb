@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "XPanLmq9VbY4CzNLrDv6f6RYENw",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "mFLEuZTee9w"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-19T17:04:35Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "John Vervaeke and Zachary Stein: Kairos, Logos, and Post-Conventional Faith",
+    "description": "In this wide ranging conversation we discussed: Kairos and crisis Civilisational adolescence Piaget and stages of development AI and caring Warm Data The ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/mFLEuZTee9w/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/mFLEuZTee9w/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/mFLEuZTee9w/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-19T17:04:35Z"
+  }
+}

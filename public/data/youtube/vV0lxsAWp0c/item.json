@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "2N8icD8_fXmyq-Pib8RTGg0QUJM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "vV0lxsAWp0c"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-28T14:03:15Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Meditating with John Vervaeke - Day 5 - Live Stream every Mon-Fri at 09:30 EST",
+    "description": "Please join me for a daily meditation live stream every day at 09:30 AM EST, except Sundays. In these challenging times, meditation can help ground us and ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vV0lxsAWp0c/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vV0lxsAWp0c/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vV0lxsAWp0c/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-28T14:03:15Z"
+  }
+}

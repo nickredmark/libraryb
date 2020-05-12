@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "wKGfYjIqYbi0OtI2gke7vEQYg1g",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "9HNcjuhERVQ"
+  },
+  "snippet": {
+    "publishedAt": "2017-12-28T18:22:32Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "#metoo and the Challenge to Men",
+    "description": "Speaking to veteran men's work facilitator Rafia Morgan about how men are being challenged to step up in the wake of the #metoo phenomena.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9HNcjuhERVQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9HNcjuhERVQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9HNcjuhERVQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-12-28T18:22:32Z"
+  }
+}

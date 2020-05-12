@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "tSqvYuwZkwM00lVtj7OswZvuUA0",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti41MzY4MzcwOUFFRUU3QzEx",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:02:01Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Tailored Coaching with Susanne Cook- Greuter Valley Integral 101015 Part One",
+    "description": "Susanne Cook-Greuter presents Tailored Coaching",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-usoFLGApoE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-usoFLGApoE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-usoFLGApoE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/-usoFLGApoE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/-usoFLGApoE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 32,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "-usoFLGApoE"
+    }
+  }
+}

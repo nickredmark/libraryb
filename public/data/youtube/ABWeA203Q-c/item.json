@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "EmAMK3rPp47slcUS_SnYP0PUBU8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ABWeA203Q-c"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-21T17:46:31Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "A Zen Master talks about Jordan Peterson &amp; the Shadow",
+    "description": "There are now 2 sequels to this film: 'Facing Shadows with Zen Master Doshin Roshi' https://youtu.be/NlDs4BtEe0w and 'Back Once Again with the Renegade ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ABWeA203Q-c/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ABWeA203Q-c/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ABWeA203Q-c/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-21T17:46:31Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "do1tfhk27Wc0b5Bjrkx2OKcqieY",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti45NDk1REZENzhEMzU5MDQz",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:28:39Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "APP Training",
+    "description": "Professional Certification from APP Associates, International\nhttp://appassociates.net/train",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Qkudwbro5ks/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Qkudwbro5ks/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Qkudwbro5ks/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Qkudwbro5ks/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Qkudwbro5ks/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 33,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Qkudwbro5ks"
+    }
+  }
+}

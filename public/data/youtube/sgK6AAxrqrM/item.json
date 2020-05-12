@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "pwsN3un9hCRZWbqjwvXuAB3to6M",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "sgK6AAxrqrM"
+  },
+  "snippet": {
+    "publishedAt": "2019-05-23T16:39:15Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Creating the World Cafe online #hopecafe",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/sgK6AAxrqrM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/sgK6AAxrqrM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/sgK6AAxrqrM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-05-23T16:39:15Z"
+  }
+}

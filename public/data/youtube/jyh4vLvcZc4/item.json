@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "6pof7LZK5I0U0d5tVhPPFHJBYKU",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "jyh4vLvcZc4"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-08T16:39:37Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Day 10: Solution Raising on Mental/Emotional Health",
+    "description": "A solution Raising is an hour long conversation that generates potential solutions 15 min discussing what is currently being done in the topic 15 min sharing ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/jyh4vLvcZc4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/jyh4vLvcZc4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/jyh4vLvcZc4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-08T16:39:37Z"
+  }
+}

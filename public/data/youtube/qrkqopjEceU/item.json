@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "GChLSKyc8ZRaMrT5YQQViR_IewI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "qrkqopjEceU"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-06T17:58:45Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 47 - Awakening from the Meaning Crisis - Heidegger",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qrkqopjEceU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qrkqopjEceU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qrkqopjEceU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-06T17:58:45Z"
+  }
+}

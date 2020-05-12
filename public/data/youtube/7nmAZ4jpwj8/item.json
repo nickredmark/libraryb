@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Id4jHiaL5TIy4uqoxJkdfWLASEs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "7nmAZ4jpwj8"
+  },
+  "snippet": {
+    "publishedAt": "2020-01-09T00:00:10Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Love as the ground of teaching Part 2 with Leo Ferraro &amp; Guy Sengstock",
+    "description": "If you liked what you saw here... Follow us on Facebook for community conversations & event updates: https://www.facebook.com/pg/circlingi... Join us for a ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7nmAZ4jpwj8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7nmAZ4jpwj8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7nmAZ4jpwj8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-01-09T00:00:10Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "9BnHCldZKZ_9hzQPT3lz5xIz5Eg",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "fMiIPu1iJmE"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-15T10:26:07Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Going Viral over Corona, Tomas Pueyo",
+    "description": "This is a companion piece to Rebel Wisdom's 'Sensemaking the Coronavirus': https://www.youtube.com/watch?v=3--5kcQIkyQ He wrote a Medium post on ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fMiIPu1iJmE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fMiIPu1iJmE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fMiIPu1iJmE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-15T10:26:07Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "p9S4svOqodMX3BhQ8eXnbdQP7Xs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "5q45Q253SMw"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-19T16:21:43Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "12 lessons I have learnt to deal with stress and anxiety",
+    "description": "As some who has a medically low tolerance for stress while having high anxiety I have had to come up with coping mechanisms to make my world less stressful.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/5q45Q253SMw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/5q45Q253SMw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/5q45Q253SMw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-19T16:21:43Z"
+  }
+}

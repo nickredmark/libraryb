@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "apuZZnURyGL-y9RsaW_8SnC4JDo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "lWrqdUo5W4Q"
+  },
+  "snippet": {
+    "publishedAt": "2019-05-31T16:45:13Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 20 - Awakening from the Meaning Crisis - Death of the Universe",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/lWrqdUo5W4Q/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/lWrqdUo5W4Q/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/lWrqdUo5W4Q/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-05-31T16:45:13Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Id_mkMJGvixjJE6CGvocHYZrzIs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "0lEhiEpgkYM"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-29T04:23:46Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Workers revolution to consumer revolution",
+    "description": "Day 29 of Possibility in a pandemic Join on camera: https://streamyard.com/ca7dnpis2w Discussing this series: https://www.youtube.com/watch?v=7AfpnEFqr3s.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0lEhiEpgkYM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0lEhiEpgkYM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0lEhiEpgkYM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-29T04:23:46Z"
+  }
+}

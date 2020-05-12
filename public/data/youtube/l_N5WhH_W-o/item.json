@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "KPPrVjvKYetwvR-ttDUKuyNM_dQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "l_N5WhH_W-o"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-08T16:00:09Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Empathy in Dialogoue - John Vervaeke &amp; Edwin Rutsch",
+    "description": "Edwin and I discuss the nature of empathy and its role in moving people from bad faith to good faith dialogue. Empathy circling as the gateway psychotech for ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/l_N5WhH_W-o/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/l_N5WhH_W-o/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/l_N5WhH_W-o/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-08T16:00:09Z"
+  }
+}

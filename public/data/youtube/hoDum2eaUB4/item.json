@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "phvApZZ2dABFZV2LjXv-BCnfyek",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "hoDum2eaUB4"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-12T05:18:29Z",
+    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "title": "Carl Jung On Why You Should Be Wary Of Psychedelics | Voiceclub Short",
+    "description": "Read about the mission @ https://www.voiceclub.com/about A production extracted from E12 of Voiceclub - Truth, Psychedelics, and Society, with the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/hoDum2eaUB4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/hoDum2eaUB4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/hoDum2eaUB4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Voicecraft",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-05-12T05:18:29Z"
+  }
+}

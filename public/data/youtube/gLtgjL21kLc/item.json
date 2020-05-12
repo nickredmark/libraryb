@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "bDnWPm2Nawfz8gG-K5x9L5EW1As",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "gLtgjL21kLc"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-03T05:25:00Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "Project Round Table: May 2, 2020",
+    "description": "Working on omniwin solutions for our projects by bringing project holders together Bring yourself and your project to the round table Tell us what you have been ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gLtgjL21kLc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gLtgjL21kLc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gLtgjL21kLc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-03T05:25:00Z"
+  }
+}

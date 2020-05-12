@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "6yDVjSZO5j2OmIic6FdQkArVZz4",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "2Ts_HZHBEFU"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-02T21:48:21Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Corey Anton N&#39; Guy Sengstock riff&#39;N",
+    "description": "Art of Circling online course: https://www.circlinginstitute.com/art-of-circling-practioner-training-online/ Weekend intensive online: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/2Ts_HZHBEFU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/2Ts_HZHBEFU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/2Ts_HZHBEFU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-02T21:48:21Z"
+  }
+}

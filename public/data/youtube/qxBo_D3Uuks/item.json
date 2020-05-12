@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HPNO-PUW-WG0JpNbm0irhOKILR0\"",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5BRjJDODk5REM0NjkzMUIy",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:32:43.000Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Daniel Schmachtenberger - \"We have a real task ahead of us.\"",
+    "description": "VIDEO PREVIEW for Project Sanity Episode 17 - \"Ubiquitous Psychopathology\"\nhttps://projectsanity.live/episodes/17\n\nDaniel Schmachtenberger speaks about macro socio-economic factors and sustainability dynamics relating to the present global civilization model in the context of existential angst.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qxBo_D3Uuks/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qxBo_D3Uuks/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qxBo_D3Uuks/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/qxBo_D3Uuks/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/qxBo_D3Uuks/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 49,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "qxBo_D3Uuks"
+    }
+  }
+}

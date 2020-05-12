@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "xtVCJtjCG5G9D0HZZ66VQ693dKY",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "IZyWuD9UqI4"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-23T17:50:16Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 32 - Awakening from the Meaning Crisis - RR in the Brain, Insight, and Consciousness",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/IZyWuD9UqI4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/IZyWuD9UqI4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/IZyWuD9UqI4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-23T17:50:16Z"
+  }
+}

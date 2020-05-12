@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/q7kp5OX8ZQ9qvkxlB2LElzUgBkI\"",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC43MTI1NDIwOTMwQjIxMzNG",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:23:18.000Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Phase Shifting Humanity   Daniel Schmachtenberger   FTP036",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_XP3PdGvXPE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_XP3PdGvXPE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_XP3PdGvXPE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/_XP3PdGvXPE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 39,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "_XP3PdGvXPE"
+    }
+  }
+}

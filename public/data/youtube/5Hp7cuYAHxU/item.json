@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/22hJCFsZP68cKEt6IyLkiwIOcLs\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "5Hp7cuYAHxU"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-16T05:04:22.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Mediation Campfire (April 12, 2020)",
+    "description": "Join Jason, Jared, and Peter on Sunday at 3 PM ET on memetically mediating in the Liminal War. Followed by a group conversation. These sessions are serious ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/5Hp7cuYAHxU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/5Hp7cuYAHxU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/5Hp7cuYAHxU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

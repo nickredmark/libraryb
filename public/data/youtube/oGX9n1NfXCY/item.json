@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "VpHkxd8F3wnEoJ_dZ241__jGDzI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "oGX9n1NfXCY"
+  },
+  "snippet": {
+    "publishedAt": "2017-10-31T17:31:58Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Twelve Steps to Becoming a Man",
+    "description": "The twelve necessary steps to becoming a man, as explained by Jakob Kaergaard of Vitalunit.com.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/oGX9n1NfXCY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/oGX9n1NfXCY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/oGX9n1NfXCY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-10-31T17:31:58Z"
+  }
+}

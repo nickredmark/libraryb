@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "tAoeIJ4BPjoG9rgwHpZLHY-ajJU",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "3z8zALGBuFU"
+  },
+  "snippet": {
+    "publishedAt": "2017-06-11T22:31:52Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "The Evolutionist Channel Intro (Bret Weinstein)",
+    "description": "Joe Rogan suggested that I generate a Patreon / YouTube presence, and this is the first video in that effort. It provides a brief look ahead. More will follow shortly.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3z8zALGBuFU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3z8zALGBuFU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3z8zALGBuFU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-06-11T22:31:52Z"
+  }
+}

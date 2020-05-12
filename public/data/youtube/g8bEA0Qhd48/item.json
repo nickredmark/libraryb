@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Il2ExzXdHsyAWfQL2d1Q6EfOI-I\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "g8bEA0Qhd48"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-30T04:09:40.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Stoic Fortitude: On Failure and Failing w/ Greg Sadler",
+    "description": "Frequent failures and failings are a common experience with any intentional way of living, and Stoicism is no exception. In this interactive session, we'll look at ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/g8bEA0Qhd48/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/g8bEA0Qhd48/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/g8bEA0Qhd48/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

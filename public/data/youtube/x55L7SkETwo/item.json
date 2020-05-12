@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "syqF8CFBdO8iUdDIMYs3hZw0qBE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "x55L7SkETwo"
+  },
+  "snippet": {
+    "publishedAt": "2019-11-07T20:03:36Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Conversation with Erik and Jubilee",
+    "description": "Discussioning Game b written document and ideas on how to.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/x55L7SkETwo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/x55L7SkETwo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/x55L7SkETwo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-11-07T20:03:36Z"
+  }
+}

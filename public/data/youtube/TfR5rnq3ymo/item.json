@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Qjnz-ITOxE6fQwl6QMtaJ7gPtZY",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "TfR5rnq3ymo"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-29T10:41:09Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Sweeny vs Bard Ep. 13: Communism?",
+    "description": "FOR NEW PODCAST VERSION: https://anchor.fm/andrew-sweeny Part of what we are up to, says Alexander Bard, is to retake words that can no longer be ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/TfR5rnq3ymo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/TfR5rnq3ymo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/TfR5rnq3ymo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-03-29T10:41:09Z"
+  }
+}

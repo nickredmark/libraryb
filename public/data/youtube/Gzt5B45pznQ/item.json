@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "eEsuYTMcTfKT6xs7KGhCwhu2YlE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Gzt5B45pznQ"
+  },
+  "snippet": {
+    "publishedAt": "2014-03-07T16:32:34Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Can you learn Buddhism or Daoism from books? - John Vervaeke",
+    "description": "From his lecture at Mind Matters 3 on why love matters to the meaning of life. Please subscribe so you can find out about new videos! Please share so more ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Gzt5B45pznQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Gzt5B45pznQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Gzt5B45pznQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2014-03-07T16:32:34Z"
+  }
+}

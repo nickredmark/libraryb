@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/alVeyXYV1hPoITvH0ETpq9NDZ28\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "jdxl-Vh63iY"
+  },
+  "snippet": {
+    "publishedAt": "2017-04-27T02:43:02.000Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "John Vervaeke - Thinking &amp; Reasoning - Lecture 10",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/jdxl-Vh63iY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/jdxl-Vh63iY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/jdxl-Vh63iY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none"
+  }
+}

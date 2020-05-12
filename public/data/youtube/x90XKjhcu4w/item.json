@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "4UcmKjzu7dUXbtwyqka-F_fdBUY",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "x90XKjhcu4w"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-07T16:56:37Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 21 - Awakening from the Meaning Crisis - Martin Luther and Descartes",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/x90XKjhcu4w/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/x90XKjhcu4w/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/x90XKjhcu4w/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-06-07T16:56:37Z"
+  }
+}

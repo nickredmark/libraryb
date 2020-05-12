@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Od2SFSPTc_1pKD6ecFFX5mU3vGA\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "hEDRZdAZqW0"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T00:05:51.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "The Psychotechnology Playground w/ Bonnitta Roy (April 17th, 2020)",
+    "description": "I got an email from Bonnitta Roy that read: \"Let's do something spontaneous on the 10th -- a psychotechnological thing.\" This gave birth to The ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/hEDRZdAZqW0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/hEDRZdAZqW0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/hEDRZdAZqW0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

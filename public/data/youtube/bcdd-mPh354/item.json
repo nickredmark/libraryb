@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "vsN7f2xv2whp7-yNxMH2HdKO9rQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "bcdd-mPh354"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T12:40:47Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Glass Bead Games - Art",
+    "description": "David and Gen, 10min game, 1min turns.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/bcdd-mPh354/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/bcdd-mPh354/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/bcdd-mPh354/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T12:40:47Z"
+  }
+}

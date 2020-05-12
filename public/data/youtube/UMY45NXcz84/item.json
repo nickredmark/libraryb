@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4psbV6k_6SF3Aamd75Ug4ty0Ggc\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "UMY45NXcz84"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-14T22:30:00.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Rebellious Responsibility &amp; The Fantastic Four",
+    "description": "Testing out a new format. Thanks to @Rebel Wisdom for organizing this chat with @Akira The Don you can view the full conversation here: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/UMY45NXcz84/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/UMY45NXcz84/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/UMY45NXcz84/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

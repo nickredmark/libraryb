@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "L7KgZfovQkmb2Jfzhc0ekBDG55I",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "-MlvfDkwQZ0"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T14:43:54Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Glass Bead Games - Ritual",
+    "description": "Davis and Laurence, 20min game, 2min turns.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-MlvfDkwQZ0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-MlvfDkwQZ0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-MlvfDkwQZ0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T14:43:54Z"
+  }
+}

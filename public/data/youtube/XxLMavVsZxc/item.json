@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "4nIM86hj9-s1o4Dv4ruEmpIGLqA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "XxLMavVsZxc"
+  },
+  "snippet": {
+    "publishedAt": "2019-09-13T13:57:10Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Collective Intelligence Practice, Bonnitta Roy",
+    "description": "This is part of the Rebel Wisdom series on Collective Intelligence, see the introduction to the subject here: https://www.youtube.com/watch?v=6PldNSp3tpU With ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/XxLMavVsZxc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/XxLMavVsZxc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/XxLMavVsZxc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-13T13:57:10Z"
+  }
+}

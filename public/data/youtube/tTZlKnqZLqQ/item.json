@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "sBFG32do4tJ98PENkEfDuB4uVYs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "tTZlKnqZLqQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-07T14:07:31Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Coat of Many Colors",
+    "description": "My contribution to the digital campfire. From a forthcoming album of songs based on the first book of Genesis. Coat of many colors Oh my father made me a coat ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/tTZlKnqZLqQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/tTZlKnqZLqQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/tTZlKnqZLqQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-07T14:07:31Z"
+  }
+}

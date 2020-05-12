@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "VAwQ4gRlLVCsmF1cmrH4met4eG0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "4mC4Tndkdv4"
+  },
+  "snippet": {
+    "publishedAt": "2019-11-15T22:14:16Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "John Vervaeke Q&amp;A - 2019-11-15",
+    "description": "Thank you for joining my Q&A. A few notes: 1. It starts just after 1600 EST and lasts for approximately an hour. 2. The first ~45 minutes are previously submitted ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4mC4Tndkdv4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4mC4Tndkdv4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4mC4Tndkdv4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-11-15T22:14:16Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "kNUaBIMD7JQC-JUwl1zxdigsETA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "uREHw5j0YmA"
+  },
+  "snippet": {
+    "publishedAt": "2019-07-18T18:40:41Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Jordan Hall: Decentralised Collective Intelligence (clip)",
+    "description": "How can we access a much more powerful way of understanding and acting in the world? Jordan (Green)Hall explains his concept of decentralised collective ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/uREHw5j0YmA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/uREHw5j0YmA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/uREHw5j0YmA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-07-18T18:40:41Z"
+  }
+}

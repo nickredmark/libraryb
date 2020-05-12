@@ -1,0 +1,35 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "VMHtr5lgcPSVhNvFlKsFoAedzuk",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC41QUZGQTY5OTE4QTREQUU4",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:24:55Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "#51 Daniel Schmachtenberger: Meta Existential Risk",
+    "description": "Daniel Schmachtenberger, the co-founder of Neurohacker Collective. We chat about meta existential risk.\n\nThanks to KeepKey for sponsoring the show! www.keepkey.com/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/a6ejROOyHW0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/a6ejROOyHW0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/a6ejROOyHW0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 64,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "a6ejROOyHW0"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "xNbu2RWJyZ1Q0uFasumBpBCiqJQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "gd6S73Hcws4"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-30T15:13:18Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Bret Weinstein: Evergreen, Project Veritas, &amp; Censorship with Benjamin Boyce",
+    "description": "Bret Weinstein sits down with Evergreen graduate, Benjamin Boyce to discuss The Evergreen State College, Project Varitas, big tech influence, machine ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gd6S73Hcws4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gd6S73Hcws4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gd6S73Hcws4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-06-30T15:13:18Z"
+  }
+}

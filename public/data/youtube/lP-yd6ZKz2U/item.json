@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "R5ADT84Q229xMiAm-_s3jvGof10",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "lP-yd6ZKz2U"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-27T17:06:08Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Socratic faith in difficult times w/ Andrew Sweeny and Chris Mastropietro- Voices with Vervaeke",
+    "description": "Andrew Sweeny, Christopher Mastropietro and I discuss dialectic and dialogos as a way of cultivating Socratic faith and wisdom in the face of uncertainty and ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/lP-yd6ZKz2U/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/lP-yd6ZKz2U/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/lP-yd6ZKz2U/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-27T17:06:08Z"
+  }
+}

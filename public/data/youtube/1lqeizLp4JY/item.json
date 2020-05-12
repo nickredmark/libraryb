@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Cez4ZZsrsJ0JOiGpOoHsoGJqsbM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "1lqeizLp4JY"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-10T14:27:45Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "The infinite learning curve: Jason Medland and Andrew Sweeny in conversation",
+    "description": "Jason is a fellow Canadian and seemed like an interesting guy with mystical inclinations, so we had this conversation. We talked about Freemasonry, khabbala, ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1lqeizLp4JY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1lqeizLp4JY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1lqeizLp4JY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-10T14:27:45Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "y56YrvWwQ-TZbRxQgtikh6YA1fM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "DYa6kxpGYB4"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-10T03:48:25Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Conflict and shopping carts",
+    "description": "on a little early to make the roundtable on TT channel https://www.youtube.com/channel/UCKxyC0UUSUjy1mXvfpR2RKg Want to know what Jubilee is up to?",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/DYa6kxpGYB4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/DYa6kxpGYB4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/DYa6kxpGYB4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-10T03:48:25Z"
+  }
+}

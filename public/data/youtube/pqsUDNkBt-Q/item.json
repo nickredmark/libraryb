@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "HRm9VmpEqcHSph_YRwEU1ZTCcnk",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "pqsUDNkBt-Q"
+  },
+  "snippet": {
+    "publishedAt": "2019-07-12T17:03:35Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 26 - Awakening from the Meaning Crisis - Cognitive Science",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/pqsUDNkBt-Q/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/pqsUDNkBt-Q/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/pqsUDNkBt-Q/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-07-12T17:03:35Z"
+  }
+}

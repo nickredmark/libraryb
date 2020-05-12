@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "o5xFuALedWnNQ45k-zt3Zy-vdRY",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "0Wnhw8f4U5k"
+  },
+  "snippet": {
+    "publishedAt": "2017-08-02T19:21:45Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Money - Speakers&#39; Corner - July 30 2017",
+    "description": "20 minutes or so on how money is created, circulated and destroyed. Above all the focus is on the profound flaws and inequities that exist in our monetary ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0Wnhw8f4U5k/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0Wnhw8f4U5k/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0Wnhw8f4U5k/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-08-02T19:21:45Z"
+  }
+}

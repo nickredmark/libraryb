@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "SwGs44ql82NeIPHItYS6QLHJ0fk",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "JwTwRxVl6LE"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-21T17:10:06Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "Project Raising - TogetherTec",
+    "description": "In this project raising, we will be discussing TogetherTec (aka, GameB Projects or the meta-project). This will be a first for project raising, as we will be planning ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/JwTwRxVl6LE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/JwTwRxVl6LE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/JwTwRxVl6LE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-21T17:10:06Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "WDjG-umxJ_Wxs9uc3sxuoOMbxzw",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "DtdOhBoZfNg"
+  },
+  "snippet": {
+    "publishedAt": "2018-06-09T01:22:44Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "A four part test for adaptation",
+    "description": "How can one tell if a trait, like a structure or behavior is an adaptation? Here I present a four part test that, if all four questions are true tells us it's safe to presume ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/DtdOhBoZfNg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/DtdOhBoZfNg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/DtdOhBoZfNg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-06-09T01:22:44Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "nKXMmp6qddLGh6-kNvZopPLOJi8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "xzZbpJ1wgf0"
+  },
+  "snippet": {
+    "publishedAt": "2020-01-18T16:02:29Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Google&#39;s leaked video Selfish Ledger: What WE can do together that they can&#39;t",
+    "description": "Our data IS powerful With google and facebook in control the outcomes will often be horrific With transparency and invitation (choice) we can make something ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/xzZbpJ1wgf0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/xzZbpJ1wgf0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/xzZbpJ1wgf0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-01-18T16:02:29Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "qPUjjX5h0622vf_m-XmrQM0HAwQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "-E9tNJlY1LQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-09-07T01:29:38Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "&quot;The Portal&quot;, Episode #002: &#39;What is &quot;The Portal&quot;?&#39;",
+    "description": "Eric discusses his thinking behind launching The Portal Podcast, as well as his theory that the podcast industry should explore moving to what he terms a ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-E9tNJlY1LQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-E9tNJlY1LQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-E9tNJlY1LQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-07T01:29:38Z"
+  }
+}

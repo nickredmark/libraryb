@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9g4OGuRrM0mhwQjAwAtseolvFJw\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "NhgoREa8xoQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-03T21:49:26.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Deep Code Bits: Game B Assessment",
+    "description": "Are we seeing any progress towards Game-B in the unfolding breakdown of Game-A? -From the @Rebel Wisdom group Q&A Edited by Lorcan McSharp: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/NhgoREa8xoQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/NhgoREa8xoQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/NhgoREa8xoQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

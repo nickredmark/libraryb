@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "7_8oYZEwI4u1z2dYOW9swAkaOe0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "9KC1nX-TFj4"
+  },
+  "snippet": {
+    "publishedAt": "2015-07-07T18:02:12Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "John Vervaeke - Why do Cognitive Science?",
+    "description": "In this passionate talk, John Vervaeke, PhD explains why the success of cognitive science is crucial to our understanding of ourselves as a species. You can ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9KC1nX-TFj4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9KC1nX-TFj4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9KC1nX-TFj4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2015-07-07T18:02:12Z"
+  }
+}

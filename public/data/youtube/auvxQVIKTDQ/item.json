@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "yUWrEpJpbCvS26q-2PJMXzte-tQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "auvxQVIKTDQ"
+  },
+  "snippet": {
+    "publishedAt": "2018-03-16T00:54:01Z",
+    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "title": "E10| The Psychedelic Philosopher, PART TWO, with Peter Sjöstedt-H",
+    "description": "This is the second and largest part of our mini-series with the psychedelic philosopher, Peter Sjostedt-H. --- Support Voiceclub on Patreon ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/auvxQVIKTDQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/auvxQVIKTDQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/auvxQVIKTDQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Voicecraft",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-03-16T00:54:01Z"
+  }
+}

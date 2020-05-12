@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "VNGo8Bi0VQmE3Lhh8D-ABQ8kKtM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "jwMxmg83aUw"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-01T21:57:50Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "&#39;Jordan Peterson and the left&#39;, discussion with Matthew Segall and Jesse Estrin at CIIS",
+    "description": "The phenomenal success of Jordan Peterson has created hugely polarised reactions, most clearly on the left, or progressive side of the political divide. Matthew ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/jwMxmg83aUw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/jwMxmg83aUw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/jwMxmg83aUw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-01T21:57:50Z"
+  }
+}

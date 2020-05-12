@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "1R-AUn8swT2ZYE69LMqRtRYv4jg",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "4ygL0DwpnGk"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-07T07:32:15Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Going to be sharing my journey: what led me to THIS point",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4ygL0DwpnGk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4ygL0DwpnGk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4ygL0DwpnGk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-07T07:32:15Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "B2p3Bk-1a7tv_Vde2_URwei3pws",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "nCXxp7ER5aI"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-10T00:00:09Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Part 1 of 2 Heidegger, Theology and the meaning crisis. Hue Woodson &amp; Guy Sengstock in Dialogos",
+    "description": "Hue Woodson is the author of \"Heideggerian Theologies: The Pathmarks of John Macquarrie, Rudolf Bultmann, Paul Tillich, and Karl Rahner\" and \"A ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/nCXxp7ER5aI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/nCXxp7ER5aI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/nCXxp7ER5aI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-10T00:00:09Z"
+  }
+}

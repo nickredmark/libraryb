@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "eV1CNx89KGMpWQ40wYPIqUOQHTE",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti5DNzE1RjZEMUZCMjA0RDBB",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:33:23Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Part 4A_ Introduction_ Dialectics and Development.mp4",
+    "description": "Part 4A Dialectics and Development _ Introduction",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vYFBCFT3AgQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vYFBCFT3AgQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vYFBCFT3AgQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/vYFBCFT3AgQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 4,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "vYFBCFT3AgQ"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "JqrdZF3a5Se0fUVgb_HW6QMCKzo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "H2ShnPvqSFE"
+  },
+  "snippet": {
+    "publishedAt": "2018-04-05T15:10:03Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "&#39;Strong Men? Masculinity in the Modern World&#39;",
+    "description": "What are the challenges facing men today? Former US Army Ranger and philosopher Michael Robillard looks at the growing sense of alienation felt by men and ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/H2ShnPvqSFE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/H2ShnPvqSFE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/H2ShnPvqSFE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-04-05T15:10:03Z"
+  }
+}

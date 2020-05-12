@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "lnPIXTTs7uLSSMh8Fo1QQGaE0RE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Z7rd04KzLcg"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-02T20:47:00Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "A Portal Special Presentation- Geometric Unity: A First Look",
+    "description": "A Portal Special Presentation- Geometric Unity: A First Look.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Z7rd04KzLcg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Z7rd04KzLcg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Z7rd04KzLcg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-02T20:47:00Z"
+  }
+}

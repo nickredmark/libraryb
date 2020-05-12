@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "zrwWVDROHMDxmWmdlbLbYb79qQs",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ZpOGmVXsFec"
+  },
+  "snippet": {
+    "publishedAt": "2019-11-22T13:30:08Z",
+    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "title": "Disconnection In The Age Of Connection, Voicecraft Live",
+    "description": "How can we connect to ourselves, each other, and reality? This Voiceclub dialogue explores the notions of disconnection, connection, human potential, and the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ZpOGmVXsFec/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ZpOGmVXsFec/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ZpOGmVXsFec/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Voicecraft",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-11-22T13:30:08Z"
+  }
+}

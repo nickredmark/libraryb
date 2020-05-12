@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "5sVB69NCKxZmxnIWGQeDYk5pptQ",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC42QzdBMzlBQzQzRjQ0QkQy",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:38:21Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "The Pathology Around Magnesium, Copper, Selenium, Zinc and Micronutrients",
+    "description": "Tune in as our very own Daniel L. Stickler, Medical Director at Neurohacker, and Daniel Schmachtenberger, Neurohacker Co-Founder, discuss mineral deficiencies and their impact on cognitive chemistry.\n\nFor the full episode and show notes visit: https://neurohacker.com/cognitive-chemistry-part-1-3-dr-dan-stickler",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/KeCD70oWuO0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/KeCD70oWuO0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/KeCD70oWuO0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/KeCD70oWuO0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/KeCD70oWuO0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 51,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "KeCD70oWuO0"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vSTxOV6ROlaCE0RiZ0oJApniRpA\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "OJdM8jxvdJQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-23T01:18:09.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Deep Code Bits: Book Recommendations",
+    "description": "Reading in Kairos - Book recommendations for chaotic times Edited by Lorcan McSharp (along with the other recent bits): ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/OJdM8jxvdJQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/OJdM8jxvdJQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/OJdM8jxvdJQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Uh545kMQ-ZIIwp0UgyYkpXI4FWA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "O_PWTmiYGvU"
+  },
+  "snippet": {
+    "publishedAt": "2019-11-16T15:30:01Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Emerging Wisdom, Terry Patten",
+    "description": "Terry Patten is a hugely experienced figure in the world of philosophy, spirituality and personal and cultural transformation. In this conversation with Rebel ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/O_PWTmiYGvU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/O_PWTmiYGvU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/O_PWTmiYGvU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-11-16T15:30:01Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/56GFzEqbAmbUvvo0d7IL08l869k\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "rkJEthfBa5Y"
+  },
+  "snippet": {
+    "publishedAt": "2018-02-27T01:00:14.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "On Sovereignty | Deep Code Experiments: Episode 10",
+    "description": "A reimagining of the concept of sovereignty in response to our current circumstances. Boyds OODA loop. And Peterson's individual Ethics.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/rkJEthfBa5Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/rkJEthfBa5Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/rkJEthfBa5Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

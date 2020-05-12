@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "habSJVy455gjSgDu7AcgZlgcMG4",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ITfUCL1yTQQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-05-17T16:56:09Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 18 - Awakening from the Meaning Crisis - Plotinus and Neoplatonism",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ITfUCL1yTQQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ITfUCL1yTQQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ITfUCL1yTQQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-05-17T16:56:09Z"
+  }
+}

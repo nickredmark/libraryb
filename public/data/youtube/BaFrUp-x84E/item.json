@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5IkhXK9T4KIQkjUaxesfvKHkTg0\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "BaFrUp-x84E"
+  },
+  "snippet": {
+    "publishedAt": "2019-09-18T23:15:34.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Chuck Chakrapani - How to Be a Stoic When You Don&#39;t Know How",
+    "description": "This talk is based on Chuck's forthcoming book \"How to be a Stoic When You Don't Know How\". The focus of the talk is not on theory but on how to apply Stoic ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/BaFrUp-x84E/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/BaFrUp-x84E/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/BaFrUp-x84E/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

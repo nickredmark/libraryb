@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "SYLpudflSfdmmbBXvX0uj0DmzsM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Sic9HVBeLRc"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-08T18:31:53Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Game B Key Concepts. Part 1 - What is Game A?",
+    "description": "In this series I am trying to make into small, digestible chunks some of the foundational ideas, frames and concepts that underlie the Game B conversation. In this ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Sic9HVBeLRc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Sic9HVBeLRc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Sic9HVBeLRc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-08T18:31:53Z"
+  }
+}

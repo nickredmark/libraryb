@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "mJyArV_17e_cpvTSXLnFtudFmiw",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "kl0rOf0Xf3c"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-22T09:56:45Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Jonathan Rowson Part 2: Jordan Peterson, Chess, and Perspectiva",
+    "description": "Jonathan's article on Jordan Peterson can be found on medium.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/kl0rOf0Xf3c/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/kl0rOf0Xf3c/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/kl0rOf0Xf3c/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-22T09:56:45Z"
+  }
+}

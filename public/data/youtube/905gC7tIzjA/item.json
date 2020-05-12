@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_z28-XwxMdbk2HeQKbDaM0YpAl8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "905gC7tIzjA"
+  },
+  "snippet": {
+    "publishedAt": "2015-05-31T21:23:56Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Angel",
+    "description": "10 meditations on the Angel.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/905gC7tIzjA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/905gC7tIzjA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/905gC7tIzjA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2015-05-31T21:23:56Z"
+  }
+}

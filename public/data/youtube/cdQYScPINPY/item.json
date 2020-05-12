@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "wfwFqlEfA7ScaCM5lry8S_FvsdA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "cdQYScPINPY"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T04:14:37Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Coaching: Brainwalk Solutions",
+    "description": "Welcome to Possibility during the Pandemic On Fridays we do coaching May 8 will be doing \"Brainwalk Solutions\" Follow this link to be coached on camera with ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/cdQYScPINPY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/cdQYScPINPY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/cdQYScPINPY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T04:14:37Z"
+  }
+}

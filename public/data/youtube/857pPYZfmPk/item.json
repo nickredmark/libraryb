@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "5P6thz25yM-r3iFOdx7-DELhdtQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "857pPYZfmPk"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-20T20:46:26Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Rebel Wisdom: Sensemaking 101",
+    "description": "We're launching our first online course: Sensemaking 101. This course brings together some of the best thinkers and facilitators we've had on the channel, ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/857pPYZfmPk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/857pPYZfmPk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/857pPYZfmPk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-20T20:46:26Z"
+  }
+}

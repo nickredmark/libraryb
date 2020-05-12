@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "gagkvYgXh6BlrZRZNqsYlSSp3d0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "zg7iBAgMT5Y"
+  },
+  "snippet": {
+    "publishedAt": "2017-12-22T00:19:10Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Marriage as an evolutionary phenomenon",
+    "description": "This video is a response to the October Patreon poll. In it I provide an evolutionary take on marriage. It includes discussion of mating systems (e.g. monogamy, ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/zg7iBAgMT5Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/zg7iBAgMT5Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/zg7iBAgMT5Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-12-22T00:19:10Z"
+  }
+}

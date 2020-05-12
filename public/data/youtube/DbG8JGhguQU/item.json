@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ueIpaJxG0ubkvoarJW3kVEqyDPk\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "DbG8JGhguQU"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-23T22:32:02.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "The Stoic Breath w/ Steve Beattie",
+    "description": "Toronto based Wim Hof trainer Steve Beattie (Breathing in Nature) discusses the importance of breathwork in Stoic practice. The Stoic Breath helps us to drop ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/DbG8JGhguQU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/DbG8JGhguQU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/DbG8JGhguQU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

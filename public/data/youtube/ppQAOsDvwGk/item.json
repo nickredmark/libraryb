@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "aQoqyAIg9cM5YDMyWHMyscXcl_Y",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ppQAOsDvwGk"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-23T18:57:19Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Mountains and Rivers: Gender and Complementarity",
+    "description": "My thoughts on the re-integration of polarity as the 'next step'. Ivan Illich book in Gender: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ppQAOsDvwGk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ppQAOsDvwGk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ppQAOsDvwGk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-05-23T18:57:19Z"
+  }
+}

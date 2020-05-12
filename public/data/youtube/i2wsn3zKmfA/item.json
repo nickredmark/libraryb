@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "WuycDe0soLbQWxGk0mXhfUQdRQ8",
+  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti4yMDhBMkNBNjRDMjQxQTg1",
+  "snippet": {
+    "publishedAt": "2019-11-18T00:32:17Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Insight Campaign",
+    "description": "Intro Video",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/i2wsn3zKmfA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/i2wsn3zKmfA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/i2wsn3zKmfA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/i2wsn3zKmfA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "position": 14,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "i2wsn3zKmfA"
+    }
+  }
+}

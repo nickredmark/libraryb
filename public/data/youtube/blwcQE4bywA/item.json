@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/L3QbiraBPdDUMuY_YXS9akRB4vw\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "blwcQE4bywA"
+  },
+  "snippet": {
+    "publishedAt": "2019-09-18T23:05:53.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Donald Robertson - How to Practice Like a Roman Emperor",
+    "description": "In this talk, Donald will be describing several key Stoic practices and psychological techniques found in The Meditations of Marcus Aurelius and other ancient ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/blwcQE4bywA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/blwcQE4bywA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/blwcQE4bywA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

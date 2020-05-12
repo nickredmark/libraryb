@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "mBsDCGrgyDqveJUeV0nARgGtobQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "T7nzL8Uopq0"
+  },
+  "snippet": {
+    "publishedAt": "2020-01-04T18:14:59Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Project Raising- Wikilection founder Adriel Briscoe",
+    "description": "Adriel Briscoe of Wikilection joins us for our first project raising. http://wikilection.com https://patreon.com/wikilection About Project Raising: We are going to host ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/T7nzL8Uopq0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/T7nzL8Uopq0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/T7nzL8Uopq0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-01-04T18:14:59Z"
+  }
+}

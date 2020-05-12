@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "CMeKKDmzQVz9CXJyDTamXKgaB2k",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "MzmakErtCgs"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-02T18:14:37Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "War on Sensemaking 3, the Infinite Game: Jamie Wheal- Response",
+    "description": "Response to https://www.youtube.com/watch?v=mQstRd7opv4 we can hold the opposites we can include everyone AND move forward.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/MzmakErtCgs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/MzmakErtCgs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/MzmakErtCgs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-02T18:14:37Z"
+  }
+}

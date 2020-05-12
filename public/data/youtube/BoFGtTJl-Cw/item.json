@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/37Cly3bo1A3s6UcBnQOlh_UECyc\"",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC4xMzgwMzBERjQ4NjEzNUE5",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:35:54.000Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Why we should care about animals and diet [Interview with Daniel Schmachtenberger]",
+    "description": "http://thryvestudio.com/the-ethics-behind-animal-rights-veganism-interview-with-daniel-schmachtenberger/\n\nIn this interview with researcher and think-tank developer Daniel Schmachtenberger, we discuss some of the fundamental ethical questions and issues surrounding animal rights and veganism.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/BoFGtTJl-Cw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/BoFGtTJl-Cw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/BoFGtTJl-Cw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/BoFGtTJl-Cw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/BoFGtTJl-Cw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 2,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "BoFGtTJl-Cw"
+    }
+  }
+}

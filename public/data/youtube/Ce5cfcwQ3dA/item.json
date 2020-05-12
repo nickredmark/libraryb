@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wvTUO2U3FrUzQ-cEyXjcXSkMHxc\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Ce5cfcwQ3dA"
+  },
+  "snippet": {
+    "publishedAt": "2018-04-19T02:01:41.000Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Responsibility, Sovereignty and Cleaning Your Room | Deep Code Experiment Episode 20",
+    "description": "I personally think that JP is saying something that is correct. Here is my effort to say it in my own way - perhaps there is some value to this parallax view.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Ce5cfcwQ3dA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Ce5cfcwQ3dA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Ce5cfcwQ3dA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none"
+  }
+}

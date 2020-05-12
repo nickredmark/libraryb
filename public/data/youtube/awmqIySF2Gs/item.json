@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "uE8Gjj9-kuiBU2abQgycuTVZe34",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "awmqIySF2Gs"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-07T14:30:02Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "John Vervaeke &amp; Jordan Hall: Explorations in Meaning",
+    "description": "A unique conversation between two of the most pioneering thinkers we've featured on the channel. John Vervaeke is a professor of psychology at Toronto ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/awmqIySF2Gs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/awmqIySF2Gs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/awmqIySF2Gs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-06-07T14:30:02Z"
+  }
+}

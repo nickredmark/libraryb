@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "M_u7kiQWaaGFG3DIqa_sCYOhhiw",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "i0dwdAMyKdk"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-17T17:00:44Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Discussing Zac Stein&#39;s War in Heaven w/ Zac Stein and Andrew Sweeny",
+    "description": "Zac Stein has written an online essay about the covid crisis and the deep changes it is driving in the culture. The essay is gaining a lot of recognition. Herein Zac ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/i0dwdAMyKdk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/i0dwdAMyKdk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/i0dwdAMyKdk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-17T17:00:44Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "VlCHueTTM4ubU4OqQ2QnoZKe_CE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "gfKcVbNd7Xc"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-16T17:06:06Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 31 - Awakening from the Meaning Crisis - Embodied-Embedded RR as Dynamical-Developmental GI",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gfKcVbNd7Xc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gfKcVbNd7Xc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gfKcVbNd7Xc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-16T17:06:06Z"
+  }
+}

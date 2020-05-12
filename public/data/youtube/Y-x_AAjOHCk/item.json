@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aDit8OGwe11qQZqilyul2b3d38o\"",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC41MzJCQjBCNDIyRkJDN0VD",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:17:58.000Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "The Hive Panel: The Future of Humanity and Systems Thinking.",
+    "description": "The Hive Panel on The Future of Humanity and Systems Thinking: \n\nDaniel Schmachtenberger, Co-Founder The Neurohacker Collective, Emergence Project\nNadia Mufti, Co-Founder of Hive, Executive Coach and Strategist.\nJennifer Russell, Executive Coach, Speaker, Facilitator and Relationship Coach.\nTom Chi, Prototype Thinking, Co-Founder of GoogleX.\nRyan Allis, Co-founder & Chairman, Hive Global Leaders Program.\n\nhttps://neurohacker.com",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Y-x_AAjOHCk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Y-x_AAjOHCk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Y-x_AAjOHCk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Y-x_AAjOHCk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Y-x_AAjOHCk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 10,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Y-x_AAjOHCk"
+    }
+  }
+}

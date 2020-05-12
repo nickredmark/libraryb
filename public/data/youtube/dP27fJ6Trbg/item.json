@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "CkntGONF1C0DpUUbcSBaMQpAR4c",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "dP27fJ6Trbg"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-06T15:48:13Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "Tyler Cowen on &quot;The Portal&quot;, Ep. #016 (w/ Eric Weinstein) - The Revolution Will Not Be Marginalized.",
+    "description": "In this episode, Eric sits down with economist Prof. Tyler Cowen to discuss how/why a Harvard educated chess prodigy would choose a commuter school to ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/dP27fJ6Trbg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/dP27fJ6Trbg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/dP27fJ6Trbg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-06T15:48:13Z"
+  }
+}

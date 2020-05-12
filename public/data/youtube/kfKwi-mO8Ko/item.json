@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "0X0p6GP4TQcT-8NNrwhll9TamAU",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "kfKwi-mO8Ko"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-25T01:26:34Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "Eric Weinstein Live Stream",
+    "description": "Multistreaming with https://restream.io/?ref=kLyGX.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/kfKwi-mO8Ko/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/kfKwi-mO8Ko/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/kfKwi-mO8Ko/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-25T01:26:34Z"
+  }
+}

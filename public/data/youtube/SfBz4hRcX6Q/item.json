@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Ozd8OUXkH8WagJmNHo8hkxpoLJM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "SfBz4hRcX6Q"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-04T07:54:55Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Sweeny vs Bard: Ep.7:  The Third Sex and the New Theology",
+    "description": "FOR NEW PODCAST VERSION: https://anchor.fm/andrew-sweeny Part 7 from a conversation series with Alexander Bard, the cyber philosopher, futurist, rock ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/SfBz4hRcX6Q/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/SfBz4hRcX6Q/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/SfBz4hRcX6Q/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-03-04T07:54:55Z"
+  }
+}

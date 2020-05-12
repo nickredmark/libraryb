@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "AfYfpiWRlFiPsTAFcN9niIGM4R4",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "udlkps-81JM"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-18T16:58:20Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 40 - Awakening from the Meaning Crisis - Wisdom and Rationality",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/udlkps-81JM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/udlkps-81JM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/udlkps-81JM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-18T16:58:20Z"
+  }
+}

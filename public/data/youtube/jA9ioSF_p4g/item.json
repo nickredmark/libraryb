@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Km3r4pZEJouDhTQrft8Sk98blbE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "jA9ioSF_p4g"
+  },
+  "snippet": {
+    "publishedAt": "2018-09-27T13:22:02Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Stainless Ship",
+    "description": "From the Label Manager : « Free the Prisoners » is a 10 tracks album. Beautiful writing. With a kind urgency in every note. A masterpiece. After a long gestation, ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/jA9ioSF_p4g/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/jA9ioSF_p4g/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/jA9ioSF_p4g/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-09-27T13:22:02Z"
+  }
+}

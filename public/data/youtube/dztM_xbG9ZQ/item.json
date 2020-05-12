@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "fOyghTk4J2_v3vxs3n507MP5GDY",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "dztM_xbG9ZQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-22T12:45:12Z",
+    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "title": "&#39;Situational Assessment: Right Now&#39; by Jordan Hall, read by Tim Adalin",
+    "description": "The present meta-crisis we're facing was foreseeable long before the trigger of COVID-19. Futurist, philosopher, and expert systems thinker Jordan Hall has ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/dztM_xbG9ZQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/dztM_xbG9ZQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/dztM_xbG9ZQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Voicecraft",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-22T12:45:12Z"
+  }
+}

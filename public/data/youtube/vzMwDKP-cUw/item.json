@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Sfzh_GINUfU7qy7Zs3HO8w0CyWY",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "vzMwDKP-cUw"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-07T11:46:07Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "&#39;Jordan Peterson the heretic&#39;, with Jonathan Pageau",
+    "description": "What is the relationship between Jordan Peterson's thought and traditional Christianity? In what ways is he a heretic? And how does it relate to direct mystical ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vzMwDKP-cUw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vzMwDKP-cUw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vzMwDKP-cUw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-07T11:46:07Z"
+  }
+}

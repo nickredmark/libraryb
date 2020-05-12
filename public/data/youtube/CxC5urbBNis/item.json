@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4ZrlJS9hzSvU7HOGlHH6pS6CEZA\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "CxC5urbBNis"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-04T06:03:31.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Philosophy: The Practice for Death and Dying w/ Adam Robbert",
+    "description": "I am afraid that other people do not realize that the one aim of those who practice philosophy in the proper manner is to practice for death and dying.” - Phaedo ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/CxC5urbBNis/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/CxC5urbBNis/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/CxC5urbBNis/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

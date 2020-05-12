@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "FKrJ_-jruexlEX9bzDM75itmeSE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Sa2f0r9W2Mg"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-10T02:06:05Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "Andrew Yang on &quot;The Portal&quot;, Episode #008: The Different Candidate the Media Wants You to Ignore.",
+    "description": "In this episode of the Portal, Eric checks in with his friend Andrew Yang to discuss the meteoric rise of his candidacy; one that represents an insurgency against a ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Sa2f0r9W2Mg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Sa2f0r9W2Mg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Sa2f0r9W2Mg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-10T02:06:05Z"
+  }
+}

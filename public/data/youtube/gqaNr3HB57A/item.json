@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "V9QG316lNEbOrPAY5D7nnovzgm4",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "gqaNr3HB57A"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-27T13:49:52Z",
+    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "title": "How can we make relationships that build life? w/ Nora Bateson",
+    "description": "We are vitality, we just got really confused”.- Nora Bateson, complexity theorist and practitioner. (Note - the video lag clears after about 10 minutes. Audio is ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gqaNr3HB57A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gqaNr3HB57A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gqaNr3HB57A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Voicecraft",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-27T13:49:52Z"
+  }
+}

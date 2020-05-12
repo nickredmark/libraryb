@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "PTzFAkHdvLex5AijYUax3E7k0Ec",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "C6JdLWALZKo"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-08T16:35:49Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Predicting the Pandemic, Nora Bateson, Joe Brewer &amp; Jim Rutt",
+    "description": "The pandemic and the subsequent crisis took our institutions and leaders by surprise. But the people who have been studying complexity and systems for ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/C6JdLWALZKo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/C6JdLWALZKo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/C6JdLWALZKo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-08T16:35:49Z"
+  }
+}

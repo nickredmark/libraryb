@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "aAIL62e_Y-PS9P5SqMKL34GCu_U",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "iIQPNIwoG40"
+  },
+  "snippet": {
+    "publishedAt": "2018-04-23T11:30:37Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Why the polarised reaction to Jordan Peterson? Dialogue with Andrew Sweeny",
+    "description": "Why does Jordan Peterson create such strong and polarised reactions? Andrew Sweeny has written many articles examining Peterson's impact on the culture.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/iIQPNIwoG40/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/iIQPNIwoG40/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/iIQPNIwoG40/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-04-23T11:30:37Z"
+  }
+}

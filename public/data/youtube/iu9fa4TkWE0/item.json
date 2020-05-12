@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "PW2L8FbfK7QVKkeS8o6pxC3M4e0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "iu9fa4TkWE0"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-27T18:17:18Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 50 - Awakening from the Meaning Crisis - Tillich and Barfield",
+    "description": "This is the last video of the Awakening from the Meaning Crisis series. We are working hard on a new seris called After Socrates, which we are hoping to start ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/iu9fa4TkWE0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/iu9fa4TkWE0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/iu9fa4TkWE0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-27T18:17:18Z"
+  }
+}

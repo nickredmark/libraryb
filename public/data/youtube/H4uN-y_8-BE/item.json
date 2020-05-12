@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Y-VFzV4AUnbhIUZj7aRDX0_qiyI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "H4uN-y_8-BE"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-03T17:00:37Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Nihilism and Non-duality w/ Jared Morningstar - Voices with Vervaeke",
+    "description": "Jared Morningstar is religious studies student who has deeply studied the work of Nishitani, Keiji Nishitani is an important figure of the Kyoto school. The Kyoto ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/H4uN-y_8-BE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/H4uN-y_8-BE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/H4uN-y_8-BE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-03T17:00:37Z"
+  }
+}

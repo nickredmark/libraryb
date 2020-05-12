@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "9lBQM8aeaWOoxDr3rrHLjiqFnX4",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "hdNiQJKGCOA"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-26T18:11:07Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Sweeny vs Bard Season 2 Ep. 1: The Digital Messiah",
+    "description": "NEW PODCAST VERSION: https://anchor.fm/andrew-sweeny Support this channel and my projects by subscribing or helping on Patreon: Patreon: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/hdNiQJKGCOA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/hdNiQJKGCOA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/hdNiQJKGCOA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-26T18:11:07Z"
+  }
+}

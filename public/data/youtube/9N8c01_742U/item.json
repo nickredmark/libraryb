@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "JHPwPTU0GFEGRIyNwIx6vUrem4k",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "9N8c01_742U"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-11T04:41:25Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Day 12: Coaching session",
+    "description": "Trying live coaching. This coaching helps people use their subconscious mind to generate unique solutions tailored to the individual. If you would like to join in ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9N8c01_742U/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9N8c01_742U/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9N8c01_742U/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-11T04:41:25Z"
+  }
+}

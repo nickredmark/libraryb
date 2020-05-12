@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/OGsNlhYwwyPihZWqNfkBE2E5MRU\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "lDfwTup6hB8"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-07T04:22:09.000Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Socratic Speed Dating w/ Raven Connolly and Peter Limberg",
+    "description": "Raven Connolly and Peter Limberg are developing an exciting new conversational experience. This event will combine speed dating with Socratic questioning.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/lDfwTup6hB8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/lDfwTup6hB8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/lDfwTup6hB8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none"
+  }
+}

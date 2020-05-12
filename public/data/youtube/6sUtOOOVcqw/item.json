@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "e3PTvtBqt_3a9pWxO6VBpszpZdQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "6sUtOOOVcqw"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-01T21:57:28Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "&#39;Jordan Peterson and the left, a new conversation?&#39;, with new interview with Jordan Peterson",
+    "description": "Rebel Wisdom's David Fuller made the first documentary about Jordan Peterson in January, since then he has become one of the polarising public figures in the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6sUtOOOVcqw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6sUtOOOVcqw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6sUtOOOVcqw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-01T21:57:28Z"
+  }
+}

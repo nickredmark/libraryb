@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Iylgx_wmBPGEBPplW2GJcMOJ8bI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "d2UXrr1oFS0"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-09T21:30:40Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "Julie Lindahl on &quot;The Portal&quot;, Ep. #010- Shaking the poisoned fruit of shame out of the family tree.",
+    "description": "What happens when an SS Officer's Granddaughter comes to Los Angeles to stay with a Jewish family after discovering the true nature of secrets hidden for ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/d2UXrr1oFS0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/d2UXrr1oFS0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/d2UXrr1oFS0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-09T21:30:40Z"
+  }
+}

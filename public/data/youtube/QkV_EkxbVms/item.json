@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "tel06chFjeUsCuwSSn3bd-OfAAg",
+  "id": "UExwUkVoRzdHdGp0QWJDTUdYd0pwVXI4eFdpZl9kZ0R3Ny41NkI0NEY2RDEwNTU3Q0M2",
+  "snippet": {
+    "publishedAt": "2019-12-16T05:41:04Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Beyond IQ Understanding Intelligence And Higher States Of Human Development with Zak Stein",
+    "description": "For full show notes visit: http://neurohacker.com/beyond-iq-understanding-intelligence-higher-stages-human-development/\nThis episode of the podcast features Dr. Zachary Stein, a philosopher of education working at the intersection of developmental psychology, psychometrics, and integral philosophy. Dr. Stein discusses the limitations of the IQ test, the nature of cognitive development, and how to think about human intelligence in a more complex way.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/QkV_EkxbVms/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/QkV_EkxbVms/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/QkV_EkxbVms/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/QkV_EkxbVms/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/QkV_EkxbVms/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtAbCMGXwJpUr8xWif_dgDw7",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "QkV_EkxbVms"
+    }
+  }
+}

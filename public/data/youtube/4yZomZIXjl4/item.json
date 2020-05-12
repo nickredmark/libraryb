@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "PpsWnRwYBTlq_ugyYPrZviCAgak",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "4yZomZIXjl4"
+  },
+  "snippet": {
+    "publishedAt": "2019-02-02T05:08:50Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Feminism",
+    "description": "This is the 3rd in a series of talks with Stephen Lewis. In this conversation we dare critique certain aspects of feminism. On a broader level, we discuss how men ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4yZomZIXjl4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4yZomZIXjl4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4yZomZIXjl4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-02-02T05:08:50Z"
+  }
+}

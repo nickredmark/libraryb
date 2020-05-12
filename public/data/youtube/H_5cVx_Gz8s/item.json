@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "j0Y68TOreX0MotmKFJ44eGUd0jQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "H_5cVx_Gz8s"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-09T21:53:20Z",
+    "channelId": "UCpnwZqkrPAB7O2hymAdP-QQ",
+    "title": "Could Psychotechnologies of Self-Transformation Make All the Difference? w/ Andrew Taggart",
+    "description": "This \"Sensemaking Wormhole\" was facilitated by Andrew Taggart (https://twitter.com/andrewjtaggart) and was organized and hosted by Peter Limberg of the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/H_5cVx_Gz8s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/H_5cVx_Gz8s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/H_5cVx_Gz8s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "GameB Coffee House",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-09T21:53:20Z"
+  }
+}

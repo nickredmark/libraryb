@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_vn6XAVrLaWN5BO5vELGt2gErOM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "_sjyQqYYbDE"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-28T22:17:49Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Dialogos 4 post script - Chris Mastropietro &amp; Guy Sengstock",
+    "description": "Dialogos 4 video: https://youtu.be/lcDNqys1YgQ If you liked what you saw here... Follow us on Facebook for community conversations & event updates: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_sjyQqYYbDE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_sjyQqYYbDE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_sjyQqYYbDE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-28T22:17:49Z"
+  }
+}

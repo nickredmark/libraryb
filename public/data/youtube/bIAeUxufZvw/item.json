@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jQg-n8LJM_IaTaitnXA0AOvggQg\"",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "bIAeUxufZvw"
+  },
+  "snippet": {
+    "publishedAt": "2018-09-11T17:19:22.000Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Richard Dawkins and Bret Weinstein: Upcoming Chicago Event",
+    "description": "Richard Dawkins and Bret Weinstein will meet for the first time, on stage, in Chicago on October 23rd. Tickets: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/bIAeUxufZvw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/bIAeUxufZvw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/bIAeUxufZvw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none"
+  }
+}

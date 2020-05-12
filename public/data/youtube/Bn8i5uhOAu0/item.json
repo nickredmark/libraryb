@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "CQPUO5RCPT7ALgoLhFUwkrtBe1k",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Bn8i5uhOAu0"
+  },
+  "snippet": {
+    "publishedAt": "2017-04-27T02:29:11Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "John Vervaeke - Thinking &amp; Reasoning - Lecture 8",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Bn8i5uhOAu0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Bn8i5uhOAu0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Bn8i5uhOAu0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-04-27T02:29:11Z"
+  }
+}

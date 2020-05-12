@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "v8Ka9PlMRgBtP4d786W21ntFfzg",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "bsgWSPWX-6A"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-03T03:45:30Z",
+    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "title": "Glitch in the Matrix II, The Origin of the Intellectual Dark Web (filmed interview w Eric Weinstein)",
+    "description": "This short piece first debuted in January of 2019. It is a video made by David Fuller at Rebel Wisdom about the so-called Intellectual Dark Web and its ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/bsgWSPWX-6A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/bsgWSPWX-6A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/bsgWSPWX-6A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Eric Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-03T03:45:30Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "kg8qGStO-cUMnmduEWLzUJvODuo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "RxOqb2W_CVo"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-23T04:43:02Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Live Solution Raising- Packaging and Materials",
+    "description": "Day 23 of broadcasting we do a live solution raising every Wednesday at 8:30am PST We talk for on hour and generate real solutions we could implement now if ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/RxOqb2W_CVo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/RxOqb2W_CVo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/RxOqb2W_CVo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-23T04:43:02Z"
+  }
+}

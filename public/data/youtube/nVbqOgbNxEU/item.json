@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "tznQW6Tu8aMF4pm5FOjIynCnRA0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "nVbqOgbNxEU"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-01T07:00:10Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "John Vervaeke and Zachary Stein: The war in heaven, the kitchen table, and thoughts of the heart",
+    "description": "John Vervaeke is a professor at the University of Toronto and the creator of the popular online YouTube Series 'Awakening from The Meaning Crisis', which is a ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/nVbqOgbNxEU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/nVbqOgbNxEU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/nVbqOgbNxEU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-01T07:00:10Z"
+  }
+}

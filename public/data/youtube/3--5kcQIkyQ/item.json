@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "dD-jQrWUt8N6FhZu8BNKenz5dxo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "3--5kcQIkyQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-15T10:06:19Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Sensemaking the Coronavirus, Rebel Wisdom",
+    "description": "We are in the middle of an unprecedented global crisis. How do we make sense of it, and how do we respond? Rebel Wisdom talks to four people trying to make ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3--5kcQIkyQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3--5kcQIkyQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3--5kcQIkyQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-15T10:06:19Z"
+  }
+}

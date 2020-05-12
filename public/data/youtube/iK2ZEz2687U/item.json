@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "xXSP22RZfT3_8e5xww4zBo3j3iQ",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "iK2ZEz2687U"
+  },
+  "snippet": {
+    "publishedAt": "2020-01-19T20:44:31Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Sweeny vs Bard Season 2 Ep. 8:  Nietzsche, Marx, Freud and The Tower of God",
+    "description": "NEW PODCAST VERSION: https://anchor.fm/andrew-sweeny Support this channel and my projects by subscribing or helping on Patreon: Patreon: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/iK2ZEz2687U/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/iK2ZEz2687U/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/iK2ZEz2687U/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-01-19T20:44:31Z"
+  }
+}

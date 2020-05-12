@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "CsRiEAKQrRW8h0h4iXEKfqdir5g",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "T7XJFhWK2LM"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-29T20:53:15Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Rationality beyond logic and towards wisdom w/ Andrew Sweeny- Voices with Vervaeke",
+    "description": "Andrew and I discuss how rationality is different from both logic and intelligence, and how it has more to do with the systematic and reliable overcoming of ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/T7XJFhWK2LM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/T7XJFhWK2LM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/T7XJFhWK2LM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-29T20:53:15Z"
+  }
+}

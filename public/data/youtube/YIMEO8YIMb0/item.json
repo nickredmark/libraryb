@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "UY2uqWiyuKO5jZiES8jbT9RCgLo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "YIMEO8YIMb0"
+  },
+  "snippet": {
+    "publishedAt": "2018-10-20T08:12:08Z",
+    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "title": "Meeting Your Mentor, w/ Rick Doblin &amp; Melissa Warner",
+    "description": "A timeless conversation about meaning, growth, suffering, psychedelics, and the betterment of self and society. Two-way wisdom between mentor and ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YIMEO8YIMb0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YIMEO8YIMb0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YIMEO8YIMb0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Voicecraft",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-10-20T08:12:08Z"
+  }
+}

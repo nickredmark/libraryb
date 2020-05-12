@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "6NuYEL9ix9q6JCS5K5OklxxrL4c",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "oWwOUMM_eiQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-04T20:00:05Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Introduction",
+    "description": "We are creating a technology cooperative that is run with full transparency and liquid democracy (or better) We are going to use it to create the lives that work for ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/oWwOUMM_eiQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/oWwOUMM_eiQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/oWwOUMM_eiQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-04T20:00:05Z"
+  }
+}

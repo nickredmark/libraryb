@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "GP9YAmujGF3MdJgwwrsYT57i4M8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "tBx8i0HEKqI"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-06T20:10:35Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Realizing the Dialogical Fire! John Vervaeke &amp; Guy Sengstock",
+    "description": "In this video with Cognitive Scientist & philosophy professor John Vervaeke and I discuss the key ideas bringing together the practice of the Circling Method ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/tBx8i0HEKqI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/tBx8i0HEKqI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/tBx8i0HEKqI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-06T20:10:35Z"
+  }
+}

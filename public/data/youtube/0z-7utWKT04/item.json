@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "x3J71M4HtXyolkRqmOGmUEGKnbM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "0z-7utWKT04"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-02T21:29:11Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Community, Leadership, Transparency and becoming an Admin in game B",
+    "description": "Just sitting with the tension of what is happening over the last few weeks in communities 1) Confrontation with a neighbour while house sitting now navigating ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0z-7utWKT04/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0z-7utWKT04/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0z-7utWKT04/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-02T21:29:11Z"
+  }
+}

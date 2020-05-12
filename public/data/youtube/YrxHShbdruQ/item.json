@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/X3P3ud2dnydkM5tGTe9lGoPjyGQ\"",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC44Mjc5REFBRUE2MTdFRDU0",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:23:47.000Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Can nootropics empower WE Spaces by enhancing individual flow states",
+    "description": "www.thewespacesummit.com",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YrxHShbdruQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YrxHShbdruQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YrxHShbdruQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/YrxHShbdruQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/YrxHShbdruQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 45,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "YrxHShbdruQ"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "gYto_hzqnfOv13WYpwK7NWfqMzI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "B5ooAJXNVkk"
+  },
+  "snippet": {
+    "publishedAt": "2019-02-21T14:25:48Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "On Jordan Peterson... A Rebel Wisdom Compilation",
+    "description": "We've covered the phenomenal success of the Canadian psychologist Jordan Peterson from the start on Rebel Wisdom, and many of our brilliant interviewees ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/B5ooAJXNVkk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/B5ooAJXNVkk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/B5ooAJXNVkk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-02-21T14:25:48Z"
+  }
+}

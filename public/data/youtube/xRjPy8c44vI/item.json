@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "ttz2Q2bkONhadHXwmw5avRXtC3A",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "xRjPy8c44vI"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-04T17:02:00Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 38 - Awakening from the Meaning Crisis - Agape and 4E Cognitive Science",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/xRjPy8c44vI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/xRjPy8c44vI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/xRjPy8c44vI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-04T17:02:00Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "z8lfk-DtHyFSh3uY15BogHrWzbk",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "0jfdKpE-sxI"
+  },
+  "snippet": {
+    "publishedAt": "2018-11-22T00:38:30Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "Interview with Adam &quot;Antium&quot; Moloney from the Zeitgeist Movement",
+    "description": "Filmed on behalf of the Money Free Party UK on 10th Nov 2018, this discussion covers areas such as non-violent activism, the social consequences of the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0jfdKpE-sxI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0jfdKpE-sxI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0jfdKpE-sxI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-11-22T00:38:30Z"
+  }
+}

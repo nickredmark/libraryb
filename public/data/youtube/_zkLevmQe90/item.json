@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "CzOsV7K-sZy6J1FVb9V17I-5YKE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "_zkLevmQe90"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-30T17:21:10Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Ep. 33 - Awakening from the Meaning Crisis - The Spirituality of RR: Wonder/Awe/Mystery/Sacredness",
+    "description": "New videos released every Friday. Podcast Links: •Anchor: https://anchor.fm/john-vervaeke •Google Podcasts: https://www.google.com/podcasts?feed=.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_zkLevmQe90/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_zkLevmQe90/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_zkLevmQe90/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-30T17:21:10Z"
+  }
+}

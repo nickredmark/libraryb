@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "fRGbEd0RVIgqUQfniIZVhvbOS2k",
+  "id": "UExwUkVoRzdHdGp0QWJDTUdYd0pwVXI4eFdpZl9kZ0R3Ny40NzZCMERDMjVEN0RFRThB",
+  "snippet": {
+    "publishedAt": "2019-12-16T05:43:43Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Zak Stein - Human development and global crises",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vhBiAUtxw60/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vhBiAUtxw60/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vhBiAUtxw60/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/vhBiAUtxw60/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtAbCMGXwJpUr8xWif_dgDw7",
+    "position": 10,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "vhBiAUtxw60"
+    }
+  }
+}

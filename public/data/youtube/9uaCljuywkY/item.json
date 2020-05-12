@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "LLlWNsqyzeHa4bJm93Tcgh_o1yY",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "9uaCljuywkY"
+  },
+  "snippet": {
+    "publishedAt": "2018-09-12T12:37:00Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "My &#39;Red Pill&#39; suicide mission, with director Cassie Jaye",
+    "description": "If the cultural conversation looks increasingly like a dysfunctional relationship between men and women, how can we move forward? This is the second in a ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9uaCljuywkY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9uaCljuywkY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9uaCljuywkY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-09-12T12:37:00Z"
+  }
+}

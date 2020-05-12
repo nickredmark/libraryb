@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "eo0fMQZHx8Gr3jffh92Zk4EKo_0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "PXDI7yfdGK8"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-09T18:00:10Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Selfhood &amp; Authenticity. Corey Anton &amp; Guy Sengstock",
+    "description": "Philosopher and professor Cory Anton and I discuss his awesome book \"Selfhood & Authenticity\" ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/PXDI7yfdGK8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/PXDI7yfdGK8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/PXDI7yfdGK8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T18:00:10Z"
+  }
+}

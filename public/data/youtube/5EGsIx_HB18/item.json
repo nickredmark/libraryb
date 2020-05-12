@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "VuTJpbqihewnIMml2JpVFACw8_I",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "5EGsIx_HB18"
+  },
+  "snippet": {
+    "publishedAt": "2017-09-11T01:57:20Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
+    "title": "The Red Pill - Episode 3 - The Modern Monetary System",
+    "description": "This takes a look at how, at its very heart, the money system is designed to create scarcity, to rob us through taxation and the application of interest and above all ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/5EGsIx_HB18/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/5EGsIx_HB18/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/5EGsIx_HB18/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-09-11T01:57:20Z"
+  }
+}

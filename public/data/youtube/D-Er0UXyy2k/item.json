@@ -1,0 +1,45 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/T5ICdWdao1A3Bjk02rb152xQ7qo\"",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC40MDNEMzA0QTBFRThFMzBE",
+  "snippet": {
+    "publishedAt": "2019-11-18T01:39:28.000Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Samina Testimonials 11 0",
+    "description": "Daniel Schmachtenberger, Co-Founder and Director of Research and Development for the Neurohacker-Collective, is a SAMINA sleeper. He discusses his reasons for selecting SAMINA.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/D-Er0UXyy2k/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/D-Er0UXyy2k/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/D-Er0UXyy2k/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/D-Er0UXyy2k/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/D-Er0UXyy2k/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 41,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "D-Er0UXyy2k"
+    }
+  }
+}

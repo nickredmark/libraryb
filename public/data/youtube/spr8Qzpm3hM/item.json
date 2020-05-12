@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "O61wNIIw3IhUWcHi5uAS3m8xJbE",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "spr8Qzpm3hM"
+  },
+  "snippet": {
+    "publishedAt": "2013-03-29T17:54:08Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "John on &quot;Meaning in Life and Why it Matters&quot;",
+    "description": "John Vervaeke comments on Susan Wolf et al's \"Meaning in Life and Why it Matters\" at the Mind Matters 3 conference on Desire & Entanglement. Please ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/spr8Qzpm3hM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/spr8Qzpm3hM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/spr8Qzpm3hM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2013-03-29T17:54:08Z"
+  }
+}

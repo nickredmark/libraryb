@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "nMXh6sqYLnA51z_ntTleXss10eM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "omiD6WkTKak"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-03T12:09:11Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Why was David Icke banned from YouTube now?",
+    "description": "A few hours ago, Rebel Wisdom published an investigation into London Real's 'Digital Freedom Platform', a crowdfunder that has raised nearly $1m to pay to ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/omiD6WkTKak/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/omiD6WkTKak/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/omiD6WkTKak/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-03T12:09:11Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "dMaeYjbiARv6ObDWvKAmQU4ggmI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "baQQQwPAcMY"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-03T17:00:10Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Dialoguing between non-theism and theism about what is ultimate with JP Marceau and Mary Kochan.",
+    "description": "Mary, JP, and I discuss Eriugena's concept of dialectic as way of bridging between religious experience, relevance realization, and how we may conceive of ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/baQQQwPAcMY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/baQQQwPAcMY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/baQQQwPAcMY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-03T17:00:10Z"
+  }
+}

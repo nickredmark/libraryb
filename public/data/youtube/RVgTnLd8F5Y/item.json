@@ -1,0 +1,34 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "DD60QjYTal8Eeyjt-onK2stHyow",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "RVgTnLd8F5Y"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-31T07:20:38Z",
+    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "title": "The Revolution of Responsibility, with Dr Gabor Maté | E16",
+    "description": "Dr. Gabor Maté discusses meaning, responsibility, Jordan Peterson, spirituality, psychedelics, trauma, addiction, and more. --- For more on Gabor, Melissa and ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/RVgTnLd8F5Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/RVgTnLd8F5Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/RVgTnLd8F5Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Voicecraft",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-31T07:20:38Z"
+  }
+}
