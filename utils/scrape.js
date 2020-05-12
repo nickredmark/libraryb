@@ -128,26 +128,36 @@ const start = async () => {
           library.items.push(...collection.videos);
           break;
         }
+        case "medium-publication":
         case "medium-user": {
-          console.log(`medium user ${libraryItem.url}`);
+          console.log(`medium user or collection ${collection.url}`);
           await new Promise((res) => setTimeout(res, 1000));
-          const parsedFeed = await parser.parseURL(libraryItem.url);
-          parsedFeed.items.forEach((item) => {
-            item.snippet = { publishedAt: item.pubDate };
-            delete item["content.encoded"];
-          });
-          libraryItem.feed = parsedFeed;
-          library.items.push(...parsedFeed.items);
+          const parsedFeed = await parser.parseURL(collection.url);
+          for (const item of parsedFeed.items) {
+            const id = item.guid.split("/")[item.guid.split("/").length - 1];
+            item.publishedAt = item.pubDate;
+            if (!existsSync(`./public/data/medium/${id}`)) {
+              mkdirSync(`./public/data/medium/${id}`);
+            }
+            writeFileSync(
+              `./public/data/medium/${id}/item.json`,
+              JSON.stringify(item, null, 2)
+            );
+            delete item["content:encoded"];
+            if (!items[id]) {
+              items[id] = {};
+            }
+            Object.assign(items[id], item);
+          }
         }
       }
     }
 
-    library.items = orderBy(library.items, "snippet.publishedAt");
-
     writeFileSync(
-      "./public/data/library.json",
-      JSON.stringify(library, null, 2)
+      "./public/data/collections.json",
+      JSON.stringify(collections, null, 2)
     );
+    writeFileSync("./public/data/items.json", JSON.stringify(items, null, 2));
   } catch (e) {
     console.error(e);
   }
