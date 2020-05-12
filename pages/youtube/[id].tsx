@@ -4,6 +4,7 @@ import { Container } from "../../components/container";
 import { Heading } from "../../components/heading";
 import { useState, useEffect } from "react";
 import absoluteUrl from "next-absolute-url";
+import fetch from "isomorphic-fetch";
 
 const Youtube = ({ query: { id }, library, transcript }) => {
   const video = library.videos.find(
