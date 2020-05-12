@@ -3,13 +3,16 @@ import { useRouter } from "next/router";
 import { Container } from "../../components/container";
 import { Heading } from "../../components/heading";
 import { useState, useEffect } from "react";
+import absoluteUrl from "next-absolute-url";
 
-const Youtube = ({ query, library, transcript }) => {
-  const video = library.videos.find((video) =>
-    video.snippet.resourceId
-      ? video.snippet.resourceId.videoId
-      : video.id.videoId
+const Youtube = ({ query: { id }, library, transcript }) => {
+  const video = library.videos.find(
+    (video) =>
+      (video.snippet.resourceId
+        ? video.snippet.resourceId.videoId
+        : video.id.videoId) === id
   );
+  console.log(video);
   const [player, setPlayer] = useState();
 
   useEffect(() => {
@@ -18,7 +21,7 @@ const Youtube = ({ query, library, transcript }) => {
       const player = new YT.Player("player", {
         height: "300",
         width: "400",
-        videoId: query.id,
+        videoId: id,
         events: {
           onReady: () => setPlayer(player),
           onStateChange: () => {},
@@ -35,15 +38,6 @@ const Youtube = ({ query, library, transcript }) => {
     <>
       <Head>
         <title>{video.title}</title>
-        {process.browser && (
-          <script
-            src={`${location.protocol}//www.youtube.com/iframe_api`}
-            onLoad={() => {
-              console.log("wtfff");
-              console.log((window as any).YT);
-            }}
-          />
-        )}
       </Head>
       <Container>
         <Heading date={video.snippet.publishedAt}>
@@ -72,14 +66,11 @@ const Youtube = ({ query, library, transcript }) => {
 };
 
 Youtube.getInitialProps = async ({ req, query }) => {
-  const host = req ? req.headers.host : location.hostname;
-  const library = await (
-    await fetch(`${process.env.APP_URL}/data/library.json`)
-  ).json();
+  const { origin } = absoluteUrl(req);
+
+  const library = await (await fetch(`${origin}/data/library.json`)).json();
   const transcript = await (
-    await fetch(
-      `${process.env.APP_URL}/data/youtube/${query.id}/transcript.json`
-    )
+    await fetch(`${origin}/data/youtube/${query.id}/transcript.json`)
   ).json();
 
   return { query, library, transcript };

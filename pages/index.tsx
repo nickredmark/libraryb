@@ -5,6 +5,7 @@ import { List, ListItem } from "../components/list";
 import { Card, CardList } from "../components/card";
 import fetch from "isomorphic-fetch";
 import { orderBy } from "lodash";
+import absoluteUrl from "next-absolute-url";
 
 const Main = ({ library }) => {
   const search = useRef(null);
@@ -26,7 +27,7 @@ const Main = ({ library }) => {
                   href={`/youtube/${
                     video.snippet.resourceId
                       ? video.snippet.resourceId.videoId
-                      : video.id.videId
+                      : video.id.videoId
                   }`}
                 >
                   {truncate(video.snippet.description)}
@@ -42,10 +43,8 @@ const Main = ({ library }) => {
 };
 
 Main.getInitialProps = async ({ req }) => {
-  const host = req ? req.headers.host : location.hostname;
-  const library = await (
-    await fetch(`${process.env.APP_URL}/data/library.json`)
-  ).json();
+  const { origin } = absoluteUrl(req);
+  const library = await (await fetch(`${origin}/data/library.json`)).json();
   library.videos = orderBy(library.videos, "snippet.publishedAt", "desc");
 
   return {
