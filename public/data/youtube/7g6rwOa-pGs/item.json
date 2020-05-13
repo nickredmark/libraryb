@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "snvo3MJiQjFSSmsLxvPorck_xaQ",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi4yQjZFRkExQjFGODk3RUFD",
+  "kind": "youtube#searchResult",
+  "etag": "TNGaLi_tkuJtIDuhpg49LfnWyGI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "7g6rwOa-pGs"
+  },
   "snippet": {
-    "publishedAt": "2019-11-06T19:08:57Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
-    "title": "Dialogos 1- Jordan Hall, John Vervaeke, Christopher Mastropietro & Guy Sengstock",
-    "description": "If you liked what you saw here...\n\nFollow us on Facebook for community conversations & event updates:\nhttps://www.facebook.com/pg/circlinginstitute/events/?ref=page_internal\n\nJoin us for a drop-in event or weekend workshop:\nhttps://www.circlinginstitute.com/tci...\n\nCheck out our in depth Art of Circling Practitioner Training and learn how to integrate Circling into your personal & professional lives!\nhttps://www.circlinginstitute.com/art...\n\n1on1 coaching or consulting with Guy::\nguysengstock@gmail.com",
+    "publishedAt": "2019-11-05T21:30:10Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Dialogos 1- Jordan Hall, John Vervaeke, Christopher Mastropietro &amp; Guy Sengstock",
+    "description": "If you liked what you saw here... Follow us on Facebook for community conversations & event updates: ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/7g6rwOa-pGs/default.jpg",
@@ -22,28 +25,15 @@
         "url": "https://i.ytimg.com/vi/7g6rwOa-pGs/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/7g6rwOa-pGs/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/7g6rwOa-pGs/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 46,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "7g6rwOa-pGs"
-    }
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-11-05T21:30:10Z"
   },
   "_id": "7g6rwOa-pGs",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCuhoymQ9glku30sG4qgW-iQ"
   ]
 }

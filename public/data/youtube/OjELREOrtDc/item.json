@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/81k2muFygCEImr_Cvr5Bhh5nuoM\"",
+  "etag": "xTYh-pLSxUCihIuchAARLTe2-2I",
   "id": {
     "kind": "youtube#video",
     "videoId": "OjELREOrtDc"
   },
   "snippet": {
-    "publishedAt": "2019-11-14T17:10:51.000Z",
+    "publishedAt": "2019-11-14T17:10:51Z",
     "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
     "title": "Katie Herzog | Bret Weinstein&#39;s DarkHorse Podcast #6",
     "description": "Katie Herzog, writer for The Stranger, joins Bret Weinstein on the DarkHorse podcast to discuss the \"woke left\" and how heterodox thinkers may hold the map to ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Bret Weinstein",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-11-14T17:10:51Z"
+  },
+  "_id": "OjELREOrtDc",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
 }

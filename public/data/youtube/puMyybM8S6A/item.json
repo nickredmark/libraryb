@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xqv8pEMTNHlIgQKxHSBnn4oaP2c\"",
+  "etag": "nCILkw4mVcdiiYP9-_PmHKBJ5o8",
   "id": {
     "kind": "youtube#video",
     "videoId": "puMyybM8S6A"
   },
   "snippet": {
-    "publishedAt": "2020-04-22T00:18:07.000Z",
+    "publishedAt": "2020-04-22T00:18:07Z",
     "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
     "title": "Bret and Heather 9th DarkHorse Podcast Livestream: Life and Death Risks in an Era of Novelty",
     "description": "Q&A Link: https://youtu.be/v_QOpYzNV9I The 9th in a series of live discussions with Bret Weinstein and Heather Heying. Drs. Bret Weinstein and Heather ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Bret Weinstein",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-22T00:18:07Z"
+  },
+  "_id": "puMyybM8S6A",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
 }

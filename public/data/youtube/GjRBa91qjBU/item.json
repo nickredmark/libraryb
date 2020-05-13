@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/VJBw4ACMCSVy3uQ-AeE-1sHuNuI\"",
+  "etag": "TdHcWnV-uwB_oGblYna_ECiJZPk",
   "id": {
     "kind": "youtube#video",
     "videoId": "GjRBa91qjBU"
   },
   "snippet": {
-    "publishedAt": "2018-02-17T17:23:00.000Z",
+    "publishedAt": "2018-02-17T17:23:00Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "The Game of Thrones | Deep Code Experiment: Episode 4",
     "description": "A discussion about the Arc/Hidysmith model of how human social structures develop and transform over time.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-02-17T17:23:00Z"
+  },
+  "_id": "GjRBa91qjBU",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

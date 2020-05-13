@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "eY2S7Ed3qA00Bb5Ruqtwf7P5OCY",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi5DNzE1RjZEMUZCMjA0RDBB",
+  "kind": "youtube#searchResult",
+  "etag": "BwSB9Pm0ebhxmRdz1RNJupyu7Pc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "s6KSJqMI0NU"
+  },
   "snippet": {
-    "publishedAt": "2019-08-05T21:36:56Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
-    "title": "Comics, superheroes and the Intellectual Dark Web, Jordan Greenhall & Akira the Don",
-    "description": "Akira the Don created a new genre of music, Meaningwave, combining the words of high profile intellectual dark web intellectuals such as Jordan Peterson and Joe Rogan with lo-fi music. Jordan Greenhall is a celebrated futurist and thinker.\n\nBoth are huge fans of comic book culture. In this film they discuss the similarities between the Intellectual Dark Web and the superhero archetype.\n\nAlso see: Genuine Conversation and the Intellectual Dark Web, Jordan Greenhall - https://youtu.be/tQGksc1I7rA\n\nAnd: The Meaningwave Universe, with Akira the Don - https://youtu.be/UYUEBGtDdvY\n\nFor access to exclusive member-only content, and to join the conversation - become part of the Rebel Wisdom community - go to: https://www.rebelwisdom.co.uk/plans\n\nYou can also support us via bitcoin here: 3DGbLDVxcYe9QQqhUKhYEKs3oTGBVZsEZt\n\nRebel Wisdom is a platform for the biggest ideas around. \nhttp://www.rebelwisdom.co.uk/",
+    "publishedAt": "2018-12-25T15:18:25Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Comics, superheroes and the Intellectual Dark Web, Jordan Greenhall &amp; Akira the Don",
+    "description": "Akira the Don created a new genre of music, Meaningwave, combining the words of high profile intellectual dark web intellectuals such as Jordan Peterson and ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/s6KSJqMI0NU/default.jpg",
@@ -22,28 +25,15 @@
         "url": "https://i.ytimg.com/vi/s6KSJqMI0NU/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/s6KSJqMI0NU/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/s6KSJqMI0NU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 27,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "s6KSJqMI0NU"
-    }
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-12-25T15:18:25Z"
   },
   "_id": "s6KSJqMI0NU",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw"
   ]
 }

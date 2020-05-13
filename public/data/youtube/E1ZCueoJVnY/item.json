@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QwSheyAvt8TgUovt3vq2o12IEkc\"",
+  "etag": "QLW8Ug_CPHZ3wN9ijycscCJDM-w",
   "id": {
     "kind": "youtube#video",
     "videoId": "E1ZCueoJVnY"
   },
   "snippet": {
-    "publishedAt": "2020-04-03T03:50:39.000Z",
+    "publishedAt": "2020-04-03T03:50:39Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "COVID-19: A War Broke out in Heaven w/ Zachary Stein",
     "description": "I have never been through a civilisation-wide transformation before, and neither have you; we are in uncharted waters together. There is a war taking place in ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-03T03:50:39Z"
+  },
+  "_id": "E1ZCueoJVnY",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

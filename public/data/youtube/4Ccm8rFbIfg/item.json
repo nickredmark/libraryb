@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7gYgkZkOWvwCu-1mteEXIYYP1ZY\"",
+  "etag": "57QKzQezXd0f0am6yHSQ0iR6q-k",
   "id": {
     "kind": "youtube#video",
     "videoId": "4Ccm8rFbIfg"
   },
   "snippet": {
-    "publishedAt": "2020-05-10T06:15:30.000Z",
+    "publishedAt": "2020-05-10T06:15:30Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Reform of Government Institutions w/ Samo Burja",
     "description": "April 23rd, 2020 Are all new government agencies created by congressional committees, or does the historical record suggest something else is possible?",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-10T06:15:30Z"
+  },
+  "_id": "4Ccm8rFbIfg",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

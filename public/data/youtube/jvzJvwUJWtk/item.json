@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tPXMfFh43nLuYXKi0HX629qdUvg\"",
+  "etag": "swl7oFDC25bHZsXbwsfDsoOQpqE",
   "id": {
     "kind": "youtube#video",
     "videoId": "jvzJvwUJWtk"
   },
   "snippet": {
-    "publishedAt": "2020-03-28T03:30:06.000Z",
+    "publishedAt": "2020-03-28T03:30:06Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Situational Assessment w/ Jordan Hall (March 26, 2020)",
     "description": "Jordan Hall provides a situational assessment on COVID-19 and our meta-crisis. Followed by a group conversation. RSVP for more sessions: www.thestoa.ca ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-28T03:30:06Z"
+  },
+  "_id": "jvzJvwUJWtk",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

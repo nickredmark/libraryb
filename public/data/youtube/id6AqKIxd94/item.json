@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/h_JEJ7pGvlTaAwJAjTJlB13-4kU\"",
+  "etag": "HoALhBFIU5bS3LXIZHoBodzSDbQ",
   "id": {
     "kind": "youtube#video",
     "videoId": "id6AqKIxd94"
   },
   "snippet": {
-    "publishedAt": "2019-12-15T21:58:02.000Z",
+    "publishedAt": "2019-12-15T21:58:02Z",
     "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
     "title": "Sam Harris | Bret Weinstein&#39;s DarkHorse Podcast #8",
     "description": "Bret Weinstein discusses free will with Sam Harris, a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Bret Weinstein",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-15T21:58:02Z"
+  },
+  "_id": "id6AqKIxd94",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
 }

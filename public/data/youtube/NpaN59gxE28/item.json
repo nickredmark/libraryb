@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QsJW7-QDvgJDfbciq0eZZUYc6Ew\"",
+  "etag": "S1aGkvFoCp4TrxokMncDmPwFTpQ",
   "id": {
     "kind": "youtube#video",
     "videoId": "NpaN59gxE28"
   },
   "snippet": {
-    "publishedAt": "2020-05-10T17:00:04.000Z",
+    "publishedAt": "2020-05-10T17:00:04Z",
     "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
     "title": "Collective intelligence into collective wisdom w/ Taylor Barratt - Voices with Vervaeke",
     "description": "Taylor is an owner and director of Authentic Relating Toronto. He is a facilitator for circling and he is running experiments with circling groups in which he ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "John Vervaeke",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-10T17:00:04Z"
+  },
+  "_id": "NpaN59gxE28",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
 }

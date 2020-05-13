@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/yJmqwCkghWiXEeR6n2H1MIVEtws\"",
+  "etag": "N5tTr1OuOoohlLl56ONbuffk9kQ",
   "id": {
     "kind": "youtube#video",
     "videoId": "uMMKzfnyxyg"
   },
   "snippet": {
-    "publishedAt": "2020-04-17T02:39:40.000Z",
+    "publishedAt": "2020-04-17T02:39:40Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "COVID-19 and Metamodernism: A Commentary w/ Daniel Gortz",
     "description": "Daniel Gortz, a leader of “the Nordic school” of metamodernism and co-author of The Listening Society, will provide a presentation on COVID-19, followed by a ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-17T02:39:40Z"
+  },
+  "_id": "uMMKzfnyxyg",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

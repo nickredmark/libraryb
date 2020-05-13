@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DdO6f2rBi3eWR0Dmphniq8_NWow\"",
+  "etag": "GRXqvbqnCpNatAAYe-pRPVwIt9s",
   "id": {
     "kind": "youtube#video",
     "videoId": "njG-YsESEXk"
   },
   "snippet": {
-    "publishedAt": "2020-05-10T02:17:30.000Z",
+    "publishedAt": "2020-05-10T02:17:30Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Our Heideggerian Moment? w/ Michael Millerman",
     "description": "April 21st, 2020 The current crisis - simultaneously a health crisis, an economic crisis, a political crisis, and a crisis of world-order - presents us with an ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-10T02:17:30Z"
+  },
+  "_id": "njG-YsESEXk",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ibPv9V1nKmCGm9yZb7G_kqZx9qU\"",
+  "etag": "DgfypqRY6LRvmiu4UM_OinnGHG4",
   "id": {
     "kind": "youtube#video",
     "videoId": "CRy2r6b8jKA"
   },
   "snippet": {
-    "publishedAt": "2019-09-18T19:48:17.000Z",
+    "publishedAt": "2019-09-18T19:48:17Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Stoicon Toronto. September 8, 2019",
     "description": "Toronto is the home to the largest Stoic community in the world. On September 8, 2019, Stoicism Toronto hosted Stoicon-X Toronto, a conference on Stoic ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-18T19:48:17Z"
+  },
+  "_id": "CRy2r6b8jKA",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "QfY5ELCvKE32LQ-NTXjMd6L4VfA",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi41QTY1Q0UxMTVCODczNThE",
+  "kind": "youtube#searchResult",
+  "etag": "oCFEdAn633l_7pkNRfR-kiaP3Lo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "Tg0CaCplHjs"
+  },
   "snippet": {
-    "publishedAt": "2019-08-05T20:48:13Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
-    "title": "Vervaeke & (Green)Hall: Bullshit & Simulated Thinking",
-    "description": "This is the second 'explorations in meaning' conversation between Jordan (Green)Hall and John Vervaeke, a unique dialogue between two of the most pioneering thinkers we've featured on the channel.\n\nIn this conversation they examine the similarities between Jordan's concept of 'simulated thinking', and John's work on 'bullshit', linking it to Joseph Tainter's work on system collapse.\n\nJohn Vervaeke is a professor of psychology at Toronto University and creator of the cult hit YouTube series 'Awakening from the Meaning Crisis'. Jordan Hall (formerly Greenhall) is a futurist and culture hacker.\n\nThe first part is available here: https://www.youtube.com/watch?v=awmqIySF2Gs&t=4s\n\nRelevant links:\n\nJohn Vervaeke, Jordan Peterson & the Meaning Crisis: https://www.youtube.com/watch?v=n6RFS...\n\nJohn Vervaeke, Flow States and Wisdom: https://www.youtube.com/watch?v=5jS2A...\n\nReality Check 2019, Jordan Greenhall: https://www.youtube.com/watch?v=nLFFN...\n\nIf you enjoyed this - we have an amazing two and a half hour emergent conversation 'Making Sense of Sensemaking', between Jordan Hall, Jamie Wheal and Daniel Schmachtenberger - available for subscribers in the members area of our website: https://www.rebelwisdom.co.uk/plans",
+    "publishedAt": "2019-08-01T14:30:01Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Vervaeke &amp; (Green)Hall: Bullshit &amp; Simulated Thinking",
+    "description": "This is the second 'explorations in meaning' conversation between Jordan (Green)Hall and John Vervaeke, a unique dialogue between two of the most ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/Tg0CaCplHjs/default.jpg",
@@ -22,28 +25,15 @@
         "url": "https://i.ytimg.com/vi/Tg0CaCplHjs/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/Tg0CaCplHjs/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/Tg0CaCplHjs/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 36,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "Tg0CaCplHjs"
-    }
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-01T14:30:01Z"
   },
   "_id": "Tg0CaCplHjs",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw"
   ]
 }

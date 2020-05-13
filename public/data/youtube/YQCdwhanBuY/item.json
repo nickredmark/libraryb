@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iTyUyHJLYRMcmrd21ZU-uV-I0Ws\"",
+  "etag": "JX-bj8aFPd7JA3y0kI-1lS0DiFs",
   "id": {
     "kind": "youtube#video",
     "videoId": "YQCdwhanBuY"
   },
   "snippet": {
-    "publishedAt": "2020-05-10T22:00:46.000Z",
+    "publishedAt": "2020-05-10T22:00:46Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Deep Code Bits: What Happens Next?",
     "description": "Where do we go from here? -From the @Rebel Wisdom group Q&A Edited by Lorcan McSharp: https://www.youtube.com/c/lorcanmcsharp Original video: ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-10T22:00:46Z"
+  },
+  "_id": "YQCdwhanBuY",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

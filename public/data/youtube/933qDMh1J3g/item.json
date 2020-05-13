@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "O4a6L5mvyf3tEQTzklUk69uhai8",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi42Qzk5MkEzQjVFQjYwRDA4",
+  "kind": "youtube#searchResult",
+  "etag": "milaL-Ia5qaWRCwXr18OQ-MMtv8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "933qDMh1J3g"
+  },
   "snippet": {
-    "publishedAt": "2020-04-14T01:32:39Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "publishedAt": "2020-03-20T23:26:55Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
     "title": "The Unfolding Meta-Crisis, Jordan Hall",
-    "description": "We are in the middle of an accelerating crisis that is overwhelming our medical, financial and cultural systems.\n\nWhat is happening, and what is likely to happen next?\n\nJordan Hall is a futurist and culture hacker. He's been studying the fragilities of our operating system for mamny years, and predicting a crisis, and shift to a new operating system.\n\nIn this conversation with Rebel Wisdom's David Fuller, they discuss how the crisis is affecting different nations, and how it is likely to play out in different parts of the world. \n\nFor more analysis with Jordan Hall, check out the documentary Deep Code: https://www.youtube.com/watch?v=_j3cCrpXERg\n\nYou can listen to podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com/ \n\nRebel Wisdom are now running regular Q&As with the interviewees from our films for our members, check out: https://www.rebelwisdom.co.uk/plans",
+    "description": "We are in the middle of an accelerating crisis that is overwhelming our medical, financial and cultural systems. What is happening, and what is likely to happen ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/933qDMh1J3g/default.jpg",
@@ -22,28 +25,15 @@
         "url": "https://i.ytimg.com/vi/933qDMh1J3g/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/933qDMh1J3g/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/933qDMh1J3g/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 53,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "933qDMh1J3g"
-    }
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-20T23:26:55Z"
   },
   "_id": "933qDMh1J3g",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw"
   ]
 }

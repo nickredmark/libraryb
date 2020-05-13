@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3JUK6g7ypG85M52gIbhHo3iEchk\"",
+  "etag": "S0XuD1c3v2b2MYFHvz0BZ4s5PTI",
   "id": {
     "kind": "youtube#video",
     "videoId": "NnYgeV2qgTA"
   },
   "snippet": {
-    "publishedAt": "2020-04-04T08:03:39.000Z",
+    "publishedAt": "2020-04-04T08:03:39Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "The Dark Stoa: The COVID Trolley w/ Patrick Ryan",
     "description": "April 3rd, 2020 Patrick Ryan shares his thoughts on the COVID Trolley Problem. Followed by a group discussion. https://cultstate.com *** RSVP for upcoming ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-04T08:03:39Z"
+  },
+  "_id": "NnYgeV2qgTA",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

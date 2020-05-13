@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/VAvvz7P0aZPY2a7Td5X27JhKKtM\"",
+  "etag": "YbUk2VFiWj12oJwLKx7RWvg65RM",
   "id": {
     "kind": "youtube#video",
     "videoId": "cnZQClQMqtc"
   },
   "snippet": {
-    "publishedAt": "2020-03-28T02:58:05.000Z",
+    "publishedAt": "2020-03-28T02:58:05Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "The COVID Spectacle w/ Davood Gozli",
     "description": "Davood Gozli will facilitate a discussion on the emerging COVID Spectacle. Questions that will be considered: What does it mean to treat something as a ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-28T02:58:05Z"
+  },
+  "_id": "cnZQClQMqtc",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

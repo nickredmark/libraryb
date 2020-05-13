@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/S6FgWkRCWfZrpF_BKZVfN7mkQFc\"",
+  "etag": "fSziEheumzUVtS5fnaPz0GGTQUc",
   "id": {
     "kind": "youtube#video",
     "videoId": "yBcn-8TZOzQ"
   },
   "snippet": {
-    "publishedAt": "2020-03-29T03:33:05.000Z",
+    "publishedAt": "2020-03-29T03:33:05Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Jordan Hall - On Cue",
     "description": "\"We live in a psychotic age because we all have the capacity to interact with far more information about reality than our minds can handle...\" Full session: ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-29T03:33:05Z"
+  },
+  "_id": "yBcn-8TZOzQ",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

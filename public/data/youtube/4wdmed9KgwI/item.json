@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1Q99QxwkYq7JfUHJemO1TKzLKr4\"",
+  "etag": "usZlOUQdT6dEEquxdB2dEC1Dcx8",
   "id": {
     "kind": "youtube#video",
     "videoId": "4wdmed9KgwI"
   },
   "snippet": {
-    "publishedAt": "2018-02-21T22:04:43.000Z",
+    "publishedAt": "2018-02-21T22:04:43Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Understanding the Blue Church | Deep Code Experiment: Episode 7",
     "description": "Another video extension of a Medium post. What is the nature of the social control structure that emerged in the 20th Century, drove the expansion of human ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-02-21T22:04:43Z"
+  },
+  "_id": "4wdmed9KgwI",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

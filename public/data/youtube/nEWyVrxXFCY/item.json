@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "Eurw326-68OdII5kn0xuZrCXwfE",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi45NkVENTkxRDdCQUFBMDY4",
+  "kind": "youtube#searchResult",
+  "etag": "9JQAYrnBtRPiq0ZiXMLUyvwLYsI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "nEWyVrxXFCY"
+  },
   "snippet": {
-    "publishedAt": "2019-10-21T17:11:14Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "publishedAt": "2019-09-26T23:07:07Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
     "title": "Conversation with Jordan Hall on Game B and tech cooperative",
-    "description": "Conversation with Jordan Hall",
+    "description": "Conversation with Jordan Hall.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/nEWyVrxXFCY/default.jpg",
@@ -24,16 +27,13 @@
         "height": 360
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 39,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "nEWyVrxXFCY"
-    }
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-26T23:07:07Z"
   },
   "_id": "nEWyVrxXFCY",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
   ]
 }

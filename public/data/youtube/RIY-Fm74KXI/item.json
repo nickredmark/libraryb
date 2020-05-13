@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/22NEsgSLzyaZBXI_E3JuFmXw90M\"",
+  "etag": "SQ88_ltxKsg5UQTW8wrNYsKQie0",
   "id": {
     "kind": "youtube#video",
     "videoId": "RIY-Fm74KXI"
   },
   "snippet": {
-    "publishedAt": "2018-02-22T19:38:56.000Z",
+    "publishedAt": "2018-02-22T19:38:56Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Crossing the Adaptive Valley | Deep Code Experiment: Episode 8",
     "description": "Fitness landscapes. Hill climbing. Valley crossing. Niche construction. A bit of the evolutionary toolkit.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-02-22T19:38:56Z"
+  },
+  "_id": "RIY-Fm74KXI",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

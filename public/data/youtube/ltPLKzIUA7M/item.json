@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/K-TiSQFTCRKEzWP47wVyNokppII\"",
+  "etag": "QWkmGHPKGanSPwOORPcKHOQMEwM",
   "id": {
     "kind": "youtube#video",
     "videoId": "ltPLKzIUA7M"
   },
   "snippet": {
-    "publishedAt": "2020-05-10T05:57:35.000Z",
+    "publishedAt": "2020-05-10T05:57:35Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Leisure as the Basis for the Coming Renaissance w/ Johannes Niederhauser",
     "description": "April 23rd, 2020 In the years to come what world do we want to build? I call for a New Athens, a world of plenty and true human flourishing and fulfillment.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-10T05:57:35Z"
+  },
+  "_id": "ltPLKzIUA7M",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Cy2JYXTLYf8lAeyZ6Ix0aH0VmNk",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "WrqfgoJBVP8"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-14T22:06:19Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Lost Ways of Knowing",
+    "description": "Culture is fragmenting into ideological tribes defined by rigid certainty and reductionist thinking. As a result, we're struggling to find new solutions to the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/WrqfgoJBVP8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/WrqfgoJBVP8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/WrqfgoJBVP8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-14T22:06:19Z"
+  },
+  "_id": "WrqfgoJBVP8",
+  "collections": [
+    "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw"
+  ]
+}

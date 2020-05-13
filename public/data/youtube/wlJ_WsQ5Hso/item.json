@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jztFgGp44XorsSCqUYZeMKBPvmU\"",
+  "etag": "M_wrX7IaiPKoIEe1-XGH-y5Thxo",
   "id": {
     "kind": "youtube#video",
     "videoId": "wlJ_WsQ5Hso"
   },
   "snippet": {
-    "publishedAt": "2018-04-19T02:07:57.000Z",
+    "publishedAt": "2018-04-19T02:07:57Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "The Noumenal and the Phenomenal - mind the gap | Deep Code Experiment Episode 19",
     "description": "Kant, Darwin and a frosty beverage. This is a very nice piece of Deep Code.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-04-19T02:07:57Z"
+  },
+  "_id": "wlJ_WsQ5Hso",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

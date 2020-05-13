@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RssVK0g-y_gDMCsvZ6kbssFrbpk\"",
+  "etag": "xFJtF9dOuQ0yB_A089WMjhFgyjw",
   "id": {
     "kind": "youtube#video",
     "videoId": "HiwU20fxF1o"
   },
   "snippet": {
-    "publishedAt": "2019-10-04T17:47:08.000Z",
+    "publishedAt": "2019-10-04T17:47:08Z",
     "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
     "title": "Bret Weinstein on Trump Impeachment with John Wood Jr.",
     "description": "An excerpt from an upcoming episode of the DarkHorse podcast, Bret Weinstein discusses the House of Representatives move to impeach Trump with John ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Bret Weinstein",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-04T17:47:08Z"
+  },
+  "_id": "HiwU20fxF1o",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
 }

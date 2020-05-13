@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/rQyrxDzP1WhAKaJwyt3lmGZnQXU\"",
+  "etag": "WvmEV6Nd4uZdaf-pPFWRYaYDmdk",
   "id": {
     "kind": "youtube#video",
     "videoId": "_XKGmMreZDU"
   },
   "snippet": {
-    "publishedAt": "2020-04-13T00:37:59.000Z",
+    "publishedAt": "2020-04-13T00:37:59Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Peter Limberg Podcast Interview with Ari Delashmutt from Ari In The Air",
     "description": "I was on Ari Delashmutt's podcast today, Ari In The Air. Check out Ari @ https://ariintheair.com https://www.youtube.com/channel/UCLdxnh60DzDlR_AYhF3CzlQ.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-13T00:37:59Z"
+  },
+  "_id": "_XKGmMreZDU",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

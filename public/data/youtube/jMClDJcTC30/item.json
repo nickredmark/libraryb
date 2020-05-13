@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4PRXHcr5cLCOnHOzh8kS8i4BpJY\"",
+  "etag": "GhuP1KdaGIvAn5N1EVWxHG8L6DM",
   "id": {
     "kind": "youtube#video",
     "videoId": "jMClDJcTC30"
   },
   "snippet": {
-    "publishedAt": "2020-04-07T18:58:45.000Z",
+    "publishedAt": "2020-04-07T18:58:45Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Learning How to Dance During the Meta-Crisis w/ Collin Morris",
     "description": "Peter chats with Collin Morris from the Zion 2.0 podcast and the Zion Movement Collective. They discussed the provisional promising land, the meta tribe, the gift ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-07T18:58:45Z"
+  },
+  "_id": "jMClDJcTC30",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

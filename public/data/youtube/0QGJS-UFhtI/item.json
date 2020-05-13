@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0g5Kh3PBTNeqhBPFIukt-zwddjs\"",
+  "etag": "DJRjvqVsHYJDsJsCqE91izvdUkM",
   "id": {
     "kind": "youtube#video",
     "videoId": "0QGJS-UFhtI"
   },
   "snippet": {
-    "publishedAt": "2020-03-28T22:18:45.000Z",
+    "publishedAt": "2020-03-28T22:18:45Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Deep Code Bits: Heaven and Hell",
     "description": "A snip from a conversation with @Akira The Don.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-28T22:18:45Z"
+  },
+  "_id": "0QGJS-UFhtI",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iAs4K6RD1QiiJjB_jcDJ2VF7s6w\"",
+  "etag": "qs0X7SvN6OoYe7dRNdF6x2_-9JI",
   "id": {
     "kind": "youtube#video",
     "videoId": "seJP-q2jSis"
   },
   "snippet": {
-    "publishedAt": "2017-06-09T15:47:41.000Z",
+    "publishedAt": "2017-06-09T15:47:41Z",
     "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
     "title": "Westwind",
     "description": "Time-lapse at Camp Westwind on the Oregon coast.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Bret Weinstein",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-06-09T15:47:41Z"
+  },
+  "_id": "seJP-q2jSis",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
 }

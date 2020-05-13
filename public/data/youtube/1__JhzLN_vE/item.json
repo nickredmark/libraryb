@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/y6_jcDHmgJ6a3Wz7NuQDYGGfPaM\"",
+  "etag": "Amr6aiDcwv5fkkHlTFCGn8fb89U",
   "id": {
     "kind": "youtube#video",
     "videoId": "1__JhzLN_vE"
   },
   "snippet": {
-    "publishedAt": "2020-05-09T20:18:02.000Z",
+    "publishedAt": "2020-05-09T20:18:02Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Staying Inside: Solitude and Cultivating Interior Life w/ Greg Sadler",
     "description": "Solitude is both something thinkers recognize human beings need, and a challenge for those same human beings to understand, endure, and develop. It is even ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T20:18:02Z"
+  },
+  "_id": "1__JhzLN_vE",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

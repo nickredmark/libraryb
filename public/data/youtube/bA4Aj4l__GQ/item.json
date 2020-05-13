@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/irGt9cBzgwpr1XKSLhW7EBY78ZE\"",
+  "etag": "hke10DBWVOkqBrQunH3bHtqTC8w",
   "id": {
     "kind": "youtube#video",
     "videoId": "bA4Aj4l__GQ"
   },
   "snippet": {
-    "publishedAt": "2019-03-12T21:35:13.000Z",
+    "publishedAt": "2019-03-12T21:35:13Z",
     "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
     "title": "Live Q &amp; A on Wednesday, March 13th!",
     "description": "Music: https://www.youtube.com/channel/UCdt4WL8dPlR-mi5eRKMVFTw Twitter: https://twitter.com/vervaeke_john.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "John Vervaeke",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-03-12T21:35:13Z"
+  },
+  "_id": "bA4Aj4l__GQ",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
 }

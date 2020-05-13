@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "neHzi1KYbExvWleT2ymcaKfCiho",
-  "id": "UExwUkVoRzdHdGp0QnBuMEw4N1hBVS00a3UwWDhvOVB1Ti41NkI0NEY2RDEwNTU3Q0M2",
+  "kind": "youtube#searchResult",
+  "etag": "4nIM86hj9-s1o4Dv4ruEmpIGLqA",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "XxLMavVsZxc"
+  },
   "snippet": {
-    "publishedAt": "2019-11-18T00:26:35Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "publishedAt": "2019-09-13T13:57:10Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
     "title": "Collective Intelligence Practice, Bonnitta Roy",
-    "description": "This is part of the Rebel Wisdom series on Collective Intelligence, see the introduction to the subject here: https://www.youtube.com/watch?v=6PldNSp3tpU\n\nWith the realisation that the complexity of the challenges we face are more than one mind can hold, many thinkers are focused on the topic of collective intelligence. What is it, how can we cultivate it, and what problems is it most suited for?\n\nBonnitta Roy has been working in the field of collective intelligence and insight practice for many years, and has developed many powerful methods and applications.\n\nIn this conversation with Rebel Wisdom's David Fuller they explore the different kinds of collective intelligence that exist, and focus on Collective Insight Practice.\n\nTo get access to more exclusive content and to join this evolving conversation, become a Rebel Wisdom member: https://www.rebelwisdom.co.uk/plans\n\nYou can listen to a podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com/ \n\nWe also have a Rebel Wisdom Discord discussion channel: https://discord.gg/RK4MeYW\n\nBonnitta's Bio: Bonnitta Roy teaches insight practices for individuals who are developing meta-cognitive skills, and hosts collective insight retreats for groups interested in breaking away from limiting patterns of thought. Her retreat center offers workshops to help people learn classic Daoist approaches to Qigong, energy cultivation and self-mastery. \n\nShe teaches a masters course in consciousness studies and transpersonal psychology at the Graduate Institute. Bonnitta's company, APP-AI  is developing applications that can visualize changing patterns as teams work through complex problems. Her research shows how simple but powerful protocols that underlie these patterns can be used to represent various dispositional states of human systems. \n\nBonnitta is the author of the popular Medium publication Our Future at Work: https://medium.com/@bonnittaroy\n\nShe is an associate editor of Integral Review where you can also find her articles on process approaches to consciousness, perception, and metaphysics.",
+    "description": "This is part of the Rebel Wisdom series on Collective Intelligence, see the introduction to the subject here: https://www.youtube.com/watch?v=6PldNSp3tpU With ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/XxLMavVsZxc/default.jpg",
@@ -22,28 +25,15 @@
         "url": "https://i.ytimg.com/vi/XxLMavVsZxc/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/XxLMavVsZxc/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/XxLMavVsZxc/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
-    "position": 43,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "XxLMavVsZxc"
-    }
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-13T13:57:10Z"
   },
   "_id": "XxLMavVsZxc",
   "collections": [
-    "https://www.youtube.com/watch?v=yLWAqZbWJXM&list=PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN"
+    "https://www.youtube.com/watch?v=yLWAqZbWJXM&list=PLpREhG7GtjtBpn0L87XAU-4ku0X8o9PuN",
+    "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw"
   ]
 }

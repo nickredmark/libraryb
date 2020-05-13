@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QUueUvxAUZ7CuZe46AQ9RY8i5UI\"",
+  "etag": "go-B0GWlXXRkB-wOJIb1O_6SOWE",
   "id": {
     "kind": "youtube#video",
     "videoId": "QthlWBI8_To"
   },
   "snippet": {
-    "publishedAt": "2020-04-11T02:48:22.000Z",
+    "publishedAt": "2020-04-11T02:48:22Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Liminal War: The Rise of Info Militia w/ Jack Murphy",
     "description": "Jack Murphy, the founder of the Liminal Order, will be sharing his thoughts on the rise of information militias during these uncertain times. Followed by a Q&A.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-11T02:48:22Z"
+  },
+  "_id": "QthlWBI8_To",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

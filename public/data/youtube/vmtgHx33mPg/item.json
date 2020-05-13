@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/E4IVv29ScHpMENJeYpUf1ISZy2E\"",
+  "etag": "ynUgGNw01s6m5MxWEffmCie6usA",
   "id": {
     "kind": "youtube#video",
     "videoId": "vmtgHx33mPg"
   },
   "snippet": {
-    "publishedAt": "2020-04-15T03:41:29.000Z",
+    "publishedAt": "2020-04-15T03:41:29Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "On the Metapolitics of Pandemics w/ Zachary Stein",
     "description": "Zachary Stein presents his thoughts on the metapolitics of pandemics. Followed by a Q&A. 60 mins. RSVP for more sessions: www.thestoa.ca Join The Stoa ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-15T03:41:29Z"
+  },
+  "_id": "vmtgHx33mPg",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

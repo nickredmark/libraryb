@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GMeJYCLTc9MhhnO7RFF8SpzebDY\"",
+  "etag": "NtqieYr-K2nJo7QkckzWQr1kaVY",
   "id": {
     "kind": "youtube#video",
     "videoId": "gK9qgjUqDX8"
   },
   "snippet": {
-    "publishedAt": "2020-04-05T01:47:05.000Z",
+    "publishedAt": "2020-04-05T01:47:05Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Deep Code Bits: Finding the Flow in Faith With John Vervaeke",
     "description": "Full video: https://www.youtube.com/watch?v=gQlDjWq_XmQ&t=690s.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-05T01:47:05Z"
+  },
+  "_id": "gK9qgjUqDX8",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

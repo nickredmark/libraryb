@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "2PTNjoodIGgjLGpxHU-umJ_qCA8",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi40NzZCMERDMjVEN0RFRThB",
+  "kind": "youtube#searchResult",
+  "etag": "J4E12mMOAbP-zKAHiGQEHvzCWjg",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "tQGksc1I7rA"
+  },
   "snippet": {
-    "publishedAt": "2019-08-05T19:41:22Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "publishedAt": "2018-10-11T11:44:20Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
     "title": "Genuine Conversation and the Intellectual Dark Web, Jordan Greenhall",
-    "description": "The phenomenon of the Intellectual Dark Web has shown how desperate people are for genuine conversation. What does genuine conversation look like and how can we enter into a space of creative flow where the right answers emerge? Jordan Greenhall has spent many years thinking about this 'meta-conversation', and how, in these polarised and partisan times, it may just save the world. \n\nHe wrote the celebrated and viral 'Deep Code, Situational Assessment' post in the aftermath of the Trump election in 2017: https://medium.com/deep-code/situational-assessment-2017-trump-edition-d189d24fc046#.4e0d7rvwd\n\nThe first part of this interview, 'The Paradox of the Times' is here: https://youtu.be/_SmGMJzWHK4\n\nRebel Wisdom is a new media platform asking the biggest questions: http://www.rebelwisdom.co.uk/\n\nTo discuss the ideas in our films, join our Discord: https://discord.gg/RK4MeYW\n\nTo see more great films, and to help us make more, please consider becoming a Patron: https://www.patreon.com/rebelwisdom",
+    "description": "The phenomenon of the Intellectual Dark Web has shown how desperate people are for genuine conversation. What does genuine conversation look like and ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/tQGksc1I7rA/default.jpg",
@@ -22,28 +25,15 @@
         "url": "https://i.ytimg.com/vi/tQGksc1I7rA/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/tQGksc1I7rA/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/tQGksc1I7rA/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 26,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "tQGksc1I7rA"
-    }
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-10-11T11:44:20Z"
   },
   "_id": "tQGksc1I7rA",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw"
   ]
 }

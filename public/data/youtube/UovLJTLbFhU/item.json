@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "CY2WSckOWu4dPcawCO9QoVaX1y0",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi41RTNBREYwMkI5QzU3RkY2",
+  "kind": "youtube#searchResult",
+  "etag": "06GxJ_x9CyepIJaUGWijNEx5UJ8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "UovLJTLbFhU"
+  },
   "snippet": {
-    "publishedAt": "2019-12-16T03:36:19Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
-    "title": "2- Jordan Hall, John Vervaeke, Christopher Mastropietro & Guy Sengstock in Diologos.",
-    "description": "If you liked what you saw here...\n\nFollow us on Facebook for community conversations & event updates:\nhttps://www.facebook.com/pg/circlinginstitute/events/?ref=page_internal\n\nJoin us for a drop-in event or weekend workshop:\nhttps://www.circlinginstitute.com/tci...\n\nCheck out our in depth Art of Circling Practitioner Training and learn how to integrate Circling into your personal & professional lives!\nhttps://www.circlinginstitute.com/art...\n\n1on1 coaching or consulting with Guy::\nguysengstock@gmail.com",
+    "publishedAt": "2019-12-11T23:00:08Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "2- Jordan Hall, John Vervaeke, Christopher Mastropietro &amp; Guy Sengstock in Diologos.",
+    "description": "If you liked what you saw here... Follow us on Facebook for community conversations & event updates: ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/UovLJTLbFhU/default.jpg",
@@ -24,16 +27,13 @@
         "height": 360
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 48,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "UovLJTLbFhU"
-    }
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-11T23:00:08Z"
   },
   "_id": "UovLJTLbFhU",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCuhoymQ9glku30sG4qgW-iQ"
   ]
 }

@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EYJT6UrIVzxizHOA90mtNT7O0NA\"",
+  "etag": "3eUSagMYwrD5lbWCvzypimnhrmQ",
   "id": {
     "kind": "youtube#video",
     "videoId": "77x8OJIjmiY"
   },
   "snippet": {
-    "publishedAt": "2020-03-28T00:39:30.000Z",
+    "publishedAt": "2020-03-28T00:39:30Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "John Vervaeke - The Meaning Kairos",
     "description": "John Vervaeke discusses how the COVID-19 situation relates to the ongoing meaning crisis. RSVP for more sessions: www.thestoa.ca Join The Stoa mailing list: ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-28T00:39:30Z"
+  },
+  "_id": "77x8OJIjmiY",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

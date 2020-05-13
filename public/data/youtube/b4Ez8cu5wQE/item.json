@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dE46e2TMrNEcr5dPRHo6pBB0bS4\"",
+  "etag": "zjfyg2M_wxfSerkTSIuqX9DgR0U",
   "id": {
     "kind": "youtube#video",
     "videoId": "b4Ez8cu5wQE"
   },
   "snippet": {
-    "publishedAt": "2020-04-03T16:58:50.000Z",
+    "publishedAt": "2020-04-03T16:58:50Z",
     "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
     "title": "Seeing into Being on Mars - The Cog Sci of Presence and  of Co-identification",
     "description": "This is a talk I gave at UTISM 2020 in which I explore how NASA scientists transform their perspectival and participatory knowing in order to use the rovers on ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "John Vervaeke",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-03T16:58:50Z"
+  },
+  "_id": "b4Ez8cu5wQE",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
 }

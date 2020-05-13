@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "plILrZrAl21bEijMAKl966TTPLI",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "xC-2EePSCFI"
+  },
+  "snippet": {
+    "publishedAt": "2019-02-02T21:17:18Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Impostor Syndrome: Perfection is killing innovation",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/xC-2EePSCFI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/xC-2EePSCFI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/xC-2EePSCFI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-02-02T21:17:18Z"
+  },
+  "_id": "xC-2EePSCFI",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

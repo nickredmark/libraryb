@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Ch80vB6iIMJKtmrLY9C43cFSI8o",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "n--dM9V1EEw"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-13T19:23:40Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Love Thy Shame w/ A.J.  Bond",
+    "description": "Recorded on April 28th, 2020 Peter chats about with the shame educator and breakthrusiast, A.J. Bond. They chat about the origins of shame, how it relates to ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/n--dM9V1EEw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/n--dM9V1EEw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/n--dM9V1EEw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-13T19:23:40Z"
+  },
+  "_id": "n--dM9V1EEw",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9ZCzkD_wu1nKT3vkMqgsn8mVirM\"",
+  "etag": "HSZ6Mo_xZCi0O9KLULegiUJWph4",
   "id": {
     "kind": "youtube#video",
     "videoId": "aDWuHsyznf4"
   },
   "snippet": {
-    "publishedAt": "2020-04-05T18:50:28.000Z",
+    "publishedAt": "2020-04-05T18:50:28Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "The Metagame Mastermind w/ Daniel Kazandjian (April 4th, 2020)",
     "description": "Daniel Kazandjian is facilitating a group discussion on \"digital gangs\" that will help people maintain their sovereignty and respond to the meta-crisis. RSVP for ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-05T18:50:28Z"
+  },
+  "_id": "aDWuHsyznf4",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

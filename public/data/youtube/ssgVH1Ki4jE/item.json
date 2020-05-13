@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BThHhiM9aruwOmh_gKctPoJk3AE\"",
+  "etag": "icJc_VmQQPsknO1SKGEJ-fZTas8",
   "id": {
     "kind": "youtube#video",
     "videoId": "ssgVH1Ki4jE"
   },
   "snippet": {
-    "publishedAt": "2020-03-21T18:51:42.000Z",
+    "publishedAt": "2020-03-21T18:51:42Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Deep Code Bits: A Society in Denial",
     "description": "A clip from a longer video. Testing whether this format is useful.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-21T18:51:42Z"
+  },
+  "_id": "ssgVH1Ki4jE",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

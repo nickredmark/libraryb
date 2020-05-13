@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "Vw8P70rl8PqVN2frkmU9-5x0uBw",
-  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC4wOTA3OTZBNzVEMTUzOTMy",
+  "kind": "youtube#searchResult",
+  "etag": "PSPvPxmzNqQoBiQ8XCC8QMHMYpk",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "8Es_WTEgZHE"
+  },
   "snippet": {
-    "publishedAt": "2019-11-18T01:17:36Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "publishedAt": "2019-09-04T19:00:12Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
     "title": "Making Sense of Sensemaking: Daniel Schmachtenberger, Jamie Wheal, Jordan Hall",
-    "description": "This three-way emergent conversation is unlike anything we've released before. It features three of the world's foremost systems thinkers and futurists - Jordan Hall, Daniel Schmachtenberger and Jamie Wheal - and has been by far our most popular members-only film. We're now releasing it on the main channel as part of our Collective Intelligence Series.\n\nWhat is decentralised collective intelligence and how do we create it? Why does 'sensemaking' matter so much right now? What is coherence and how can we develop it? Take a deep dive with Hall, Wheal and Schmachtenberger into these questions and many more.\n\nYou can find the first film in the Collective Intelligence series here: https://youtu.be/6PldNSp3tpU\n\nListen to this as an audio podcast: https://rebelwisdom.podbean.com/e/making-sense-of-sensemaking-schmachtenberger-wheal-hall/\n\nTo get access to more exclusive content and to join this evolving conversation, become a Rebel Wisdom member: https://www.rebelwisdom.co.uk/plans\n\nYou can listen to a podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com/ \n\nWe also have a Rebel Wisdom Discord discussion channel: https://discord.gg/RK4MeYW",
+    "description": "This three-way emergent conversation is unlike anything we've released before. It features three of the world's foremost systems thinkers and futurists - Jordan ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/8Es_WTEgZHE/default.jpg",
@@ -22,28 +25,15 @@
         "url": "https://i.ytimg.com/vi/8Es_WTEgZHE/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/8Es_WTEgZHE/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/8Es_WTEgZHE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
-    "position": 82,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "8Es_WTEgZHE"
-    }
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-04T19:00:12Z"
   },
   "_id": "8Es_WTEgZHE",
   "collections": [
-    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw"
   ]
 }

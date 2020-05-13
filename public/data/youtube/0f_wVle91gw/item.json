@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/CZPT-IK5AgOPg9b98sDdf69DOdw\"",
+  "etag": "TQ9PvdtI2sXulaMVSE1vbmew5Lo",
   "id": {
     "kind": "youtube#video",
     "videoId": "0f_wVle91gw"
   },
   "snippet": {
-    "publishedAt": "2018-02-25T23:03:50.000Z",
+    "publishedAt": "2018-02-25T23:03:50Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Laws, Norms and Code | Deep Code Experiment: Episode 9",
     "description": "We are exiting an era of laws and entering an era of code. How do we responsibly and effectively build a social world using these new tools?",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-02-25T23:03:50Z"
+  },
+  "_id": "0f_wVle91gw",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "_1NJJOLNmKPI10En0I-qFaw68KY",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi41MzY4MzcwOUFFRUU3QzEx",
+  "kind": "youtube#searchResult",
+  "etag": "dzJUnquh0-79l1WHwAvukoFDnPg",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "TU_ny1ClpKI"
+  },
   "snippet": {
-    "publishedAt": "2019-10-29T22:52:13Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
-    "title": "Sam Harris, consciousness & the transcendent, Jonathan Pageau & Jordan Hall",
-    "description": "What is the relationship between consciousness, religion & reality? Jonathan Pageau has a theory based on the phenomenology - birds-eye view - of consciousness itself. \n\nJonathan is a celebrated icon carver and religious thinker. Jordan Hall is a philosopher and futurist.\n\nIn this conversation they discuss consciousness, Sam Harris, parenting & religion. \n\nJonathan Pageau's channel, the Symbolic World, is here: https://www.youtube.com/user/pageaujonathan/about\n\nTo get access to more exclusive content and to join this evolving conversation, become a Rebel Wisdom member: https://www.rebelwisdom.co.uk/plans\n\nYou can listen to a podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com/ \n\nWe also have a Rebel Wisdom Discord discussion channel: https://discord.gg/RK4MeYW",
+    "publishedAt": "2019-10-28T18:57:07Z",
+    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "title": "Sam Harris, consciousness &amp; the transcendent, Jonathan Pageau &amp; Jordan Hall",
+    "description": "What is the relationship between consciousness, religion & reality? Jonathan Pageau has a theory based on the phenomenology - birds-eye view - of ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/TU_ny1ClpKI/default.jpg",
@@ -22,28 +25,15 @@
         "url": "https://i.ytimg.com/vi/TU_ny1ClpKI/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/TU_ny1ClpKI/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/TU_ny1ClpKI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 44,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "TU_ny1ClpKI"
-    }
+    "channelTitle": "Rebel Wisdom",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-28T18:57:07Z"
   },
   "_id": "TU_ny1ClpKI",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw"
   ]
 }

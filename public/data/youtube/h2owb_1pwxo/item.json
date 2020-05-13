@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/S1VIO9B8M2g21GHea1bUFXWJD14\"",
+  "etag": "KUHNgzRGRIU8aRI7REMj9Fjzf3o",
   "id": {
     "kind": "youtube#video",
     "videoId": "h2owb_1pwxo"
   },
   "snippet": {
-    "publishedAt": "2020-04-12T02:37:41.000Z",
+    "publishedAt": "2020-04-12T02:37:41Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Asking the Question That Wants to Be Asked w/ Raven Connolly",
     "description": "Peter chats with Raven Connolly. Raven and Peter are designing a Socratic Speed Dating event. RSVP to an upcoming event at The Stoa. RSVP for more ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-12T02:37:41Z"
+  },
+  "_id": "h2owb_1pwxo",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

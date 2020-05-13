@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bvacij-9FGRLybF_ZW1eh7r5_C8\"",
+  "etag": "sSzT_wC-8K_e63PATRW6l4DhfAU",
   "id": {
     "kind": "youtube#video",
     "videoId": "bB3X_wYCkyk"
   },
   "snippet": {
-    "publishedAt": "2018-02-28T20:38:12.000Z",
+    "publishedAt": "2018-02-28T20:38:12Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "What is Phase Space? | Deep Code Experiments: Episode 12",
     "description": "A walk through phase space and how this concept connects to the Cynefin framework.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-02-28T20:38:12Z"
+  },
+  "_id": "bB3X_wYCkyk",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

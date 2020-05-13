@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UOifv5B9dExAOK3J-5MIBHGlmvw\"",
+  "etag": "dpZI7VcOffhBy2g5QfQr6i0R-Sg",
   "id": {
     "kind": "youtube#video",
     "videoId": "fgLyXwCqxZE"
   },
   "snippet": {
-    "publishedAt": "2020-04-10T00:42:14.000Z",
+    "publishedAt": "2020-04-10T00:42:14Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "The Consequential Gap w/ Peter Wang",
     "description": "Peter Wang will share his thoughts about how certain characteristics of Coronavirus and its epidemiology forces liminality on a global population, and whether ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-10T00:42:14Z"
+  },
+  "_id": "fgLyXwCqxZE",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

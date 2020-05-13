@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PpDhyIYkNoIAewVkECUKF7dghxA\"",
+  "etag": "IguJBrw0AMQV3avpBDS5ou1uvVE",
   "id": {
     "kind": "youtube#video",
     "videoId": "QJ8zNA4UK_s"
   },
   "snippet": {
-    "publishedAt": "2020-05-02T21:10:23.000Z",
+    "publishedAt": "2020-05-02T21:10:23Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Deep Code Bits: Regarding Q-Anon 2",
     "description": "'Forbidden' Q-Anon Blog Post (originally posted to Medium): https://www.ulixeadigital.com/blogs/entry/95-making-sense-of-qanon/ This seems to be a popular ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-02T21:10:23Z"
+  },
+  "_id": "QJ8zNA4UK_s",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "XR8rYERk8u6U-H7cFDt_XnXk_P8",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi5DNkMwRUI2MkI4QkI4NDFG",
+  "kind": "youtube#searchResult",
+  "etag": "5eHI1WIsESl2towlENL36QGmJkg",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "EL6abRGAgyU"
+  },
   "snippet": {
-    "publishedAt": "2019-10-21T17:12:28Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "publishedAt": "2019-09-19T16:11:12Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
     "title": "Jordan Hall - A Deeper Dive Into Discernment",
-    "description": "Discernment is one of the keystones in the building of effective, stable, resilient collective intelligence. In this video Jordan goes into much greater depth on the topic, offering his insights as to not only what it is and how to improve it, but also what some of the common pitfalls and barriers are likely to be.\nI believe we have managed to cover some new ground here; certainly I am much more aware of what a challenging and potentially rewarding endeavour the development of discernment is, and have taken away some what I believe will be useful and practical suggestions for doing so.\n\n\nLinks to the videos I referenced in the introduction, along with John Vervaeke's excellent series, \"awakening from the meaning crisis\", are below:\n\nJohn Vervaeke's meaning crisis series:\nhttps://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ\n\nParadox of the times\nhttps://www.youtube.com/watch?v=_SmGMJzWHK4\n\nMaking sense of sensemaking \n3 way emergent conversation between Jordan Hall, Daniel Schmachtenberger and Jamie Wheal\nhttps://www.youtube.com/watch?v=8Es_WTEgZHE",
+    "description": "Discernment is one of the keystones in the building of effective, stable, resilient collective intelligence. In this video Jordan goes into much greater depth on the ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/EL6abRGAgyU/default.jpg",
@@ -24,16 +27,13 @@
         "height": 360
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 37,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "EL6abRGAgyU"
-    }
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-19T16:11:12Z"
   },
   "_id": "EL6abRGAgyU",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCV-EEU6aLT7SSJegb453hOw"
   ]
 }

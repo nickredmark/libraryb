@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "K4WkbyptGwDgbk4LWPAC3PTJaD0",
-  "id": "UExwUkVoRzdHdGp0QWJDTUdYd0pwVXI4eFdpZl9kZ0R3Ny4zMDg5MkQ5MEVDMEM1NTg2",
+  "kind": "youtube#searchResult",
+  "etag": "tznQW6Tu8aMF4pm5FOjIynCnRA0",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "nVbqOgbNxEU"
+  },
   "snippet": {
-    "publishedAt": "2020-04-14T01:52:04Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "publishedAt": "2020-04-01T07:00:10Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
     "title": "John Vervaeke and Zachary Stein: The war in heaven, the kitchen table, and thoughts of the heart",
-    "description": "John Vervaeke is a professor at the University of Toronto and the creator of the popular online YouTube Series ‘Awakening from The Meaning Crisis’, which is a rich feast of cognitive science, philosophy, religion, and the history of ideas.  What makes Vervaeke special in my opinion is the breadth of his work, but his courage descend the ivory tower and talk to people ‘on the street’—and to exemplify his ideas.  His hero is Socrates, and he embodies the living dialogue and courage that Socrates represents.  \n\nZak Stein is philosopher of education working at the interface of psychology, metaphysics, and politics. He has published two books, including Education in Time Between Worlds, along with dozens of articles. This writing was done as he worked co-founding a non-profit and think tank, as well as teaching graduate students at Harvard, and consulting with technology start-ups. Zak is a long time meditator, musician and caregiver, which has shaped him more than any professional engagements.  (Source: https://www.systems-souls-society.com)\n\nIn our wide ranging conversation we discussed:\n\nThe end of the world\nThe thoughts of the heart\nThe post tragic\nAbsurdity and horror\nThe great un patterning\nSacred Kairos\nFragmentation and wholeness\nImaginal and imagination\nNeo perennialism\nDialogue between traditions\nEcology of practice\nThe virtual campfire\nKairos\nEcstatic ordeal\n\nLinks: PODCAST VERSION of this video:  https://anchor.fm/podcast-c709ee4\n\nJohn Vervaek’s Awakening from the Meaning Crisis: https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ\n\nZachary Stein: Covid 19: A war in heaven: https://www.whatisemerging.com/opinions/covid-19-a-war-broke-out-in-heaven\n\nSupport this channel and my projects by subscribing or helping on Patreon:\n\nPatreon: https://www.patreon.com/andrewsweeny\nMedium https://medium.com/@andrewpgsweeny\nTwitter: https://twitter.com/andrewpgsweeny\nFacebook https://www.facebook.com/jamyanggyamtso",
+    "description": "John Vervaeke is a professor at the University of Toronto and the creator of the popular online YouTube Series 'Awakening from The Meaning Crisis', which is a ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/nVbqOgbNxEU/default.jpg",
@@ -22,28 +25,15 @@
         "url": "https://i.ytimg.com/vi/nVbqOgbNxEU/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/nVbqOgbNxEU/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/nVbqOgbNxEU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtAbCMGXwJpUr8xWif_dgDw7",
-    "position": 13,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "nVbqOgbNxEU"
-    }
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-01T07:00:10Z"
   },
   "_id": "nVbqOgbNxEU",
   "collections": [
-    "https://www.youtube.com/watch?v=QkV_EkxbVms&list=PLpREhG7GtjtAbCMGXwJpUr8xWif_dgDw7"
+    "https://www.youtube.com/watch?v=QkV_EkxbVms&list=PLpREhG7GtjtAbCMGXwJpUr8xWif_dgDw7",
+    "https://www.youtube.com/channel/UCN06e1C9M4mMffP5OIgTJtg"
   ]
 }

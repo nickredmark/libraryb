@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gc-36UPisFJ-bn34DlcZ2QGJkB4\"",
+  "etag": "NBcX3KbD5RJxVEaaeu18G3IO3LA",
   "id": {
     "kind": "youtube#video",
     "videoId": "gjGV9WThYpk"
   },
   "snippet": {
-    "publishedAt": "2020-05-01T14:06:07.000Z",
+    "publishedAt": "2020-05-01T14:06:07Z",
     "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
     "title": "Meditating with John Vervaeke - Day 30 - Live Stream Mon-Fri 09:30 EST",
     "description": "Please join me for a daily meditation live stream every weekday at 09:30 AM EST. In these challenging times, meditation can help ground us and cope with ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "John Vervaeke",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-01T14:06:07Z"
+  },
+  "_id": "gjGV9WThYpk",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
 }

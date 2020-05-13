@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Mexd_VuoPiMUx4-z-o4nnwly3u0\"",
+  "etag": "-OUhKMrs5DilLqXLnXx2XLlkLLg",
   "id": {
     "kind": "youtube#video",
     "videoId": "fjGkHO_Krso"
   },
   "snippet": {
-    "publishedAt": "2020-05-09T02:34:46.000Z",
+    "publishedAt": "2020-05-09T02:34:46Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "The Dark Stoa: Trauma Drama w/ Patrick Ryan",
     "description": "April 17th, 2020 Patrick Ryan will deliver a presentation on how trauma doesn't just propagate, but also scales and filters. Followed by a Q&A. RSVP for more ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T02:34:46Z"
+  },
+  "_id": "fjGkHO_Krso",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

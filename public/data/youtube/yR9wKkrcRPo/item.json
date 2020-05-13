@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aZIJRYf64o79bL_ukAx6_vTRwMk\"",
+  "etag": "PTYNRwYoAX8AIcptQrSqVPervzM",
   "id": {
     "kind": "youtube#video",
     "videoId": "yR9wKkrcRPo"
   },
   "snippet": {
-    "publishedAt": "2018-04-19T01:21:01.000Z",
+    "publishedAt": "2018-04-19T01:21:01Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Responsiveness, Adaptive Capacity and Why Companies Die | Deep Code Experiment Episode 21",
     "description": "Using the models from previous videos and explanation of how and why we find ourselves making bad choices - and in particular how this results in how ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-04-19T01:21:01Z"
+  },
+  "_id": "yR9wKkrcRPo",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

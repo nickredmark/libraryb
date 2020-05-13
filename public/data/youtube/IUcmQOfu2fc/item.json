@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BK30U8LJLuFuWo3EbjjTu0nTX0o\"",
+  "etag": "SKg9vzFr7rTBb6lX71_0_u0UxXU",
   "id": {
     "kind": "youtube#video",
     "videoId": "IUcmQOfu2fc"
   },
   "snippet": {
-    "publishedAt": "2020-03-24T17:46:39.000Z",
+    "publishedAt": "2020-03-24T17:46:39Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Caremongering Meditation w/ Jared Janes",
     "description": "Jared Janes provides a guided meditation that aims to process our collective fear in order to transmute it into collective care. 30 mins. Optional reading: ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-24T17:46:39Z"
+  },
+  "_id": "IUcmQOfu2fc",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

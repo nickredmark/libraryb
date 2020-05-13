@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EUjp1ZNsCRHqOWEQICI3msS7Aa0\"",
+  "etag": "GS9UnEpHAYI2RfSQJB_TQQ6Ezr0",
   "id": {
     "kind": "youtube#video",
     "videoId": "hotKqTIwKNI"
   },
   "snippet": {
-    "publishedAt": "2018-03-28T19:01:24.000Z",
+    "publishedAt": "2018-03-28T19:01:24Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Close All Loops | Deep Code Experiment: Episode 16",
     "description": "Operating in complexity requires principles - rather than strategies. In this episode I talk about one crucial principle, closing loops, in the context of physical and ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-03-28T19:01:24Z"
+  },
+  "_id": "hotKqTIwKNI",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

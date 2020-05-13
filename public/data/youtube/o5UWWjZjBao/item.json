@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GJa1zZ17SPMfCViBu65l2XA9zR4\"",
+  "etag": "B9PxUobIdAj-qPiJQkzjt8XyozA",
   "id": {
     "kind": "youtube#video",
     "videoId": "o5UWWjZjBao"
   },
   "snippet": {
-    "publishedAt": "2018-03-30T19:30:31.000Z",
+    "publishedAt": "2018-03-30T19:30:31Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Paradigmatic and Liminal Mind | Deep Code Experiment: Episode 17",
     "description": "What is paradigmatic mind and how does it respond to changes in the environment? How do we relate to the important space of liminal mind in this time of great ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-03-30T19:30:31Z"
+  },
+  "_id": "o5UWWjZjBao",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

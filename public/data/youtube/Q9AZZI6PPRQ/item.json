@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Q9qi1O42D9-xbOo1Oie4DewdUbs\"",
+  "etag": "zDRd7qKZieumGAMwl_abn7hGsuw",
   "id": {
     "kind": "youtube#video",
     "videoId": "Q9AZZI6PPRQ"
   },
   "snippet": {
-    "publishedAt": "2020-03-28T21:32:23.000Z",
+    "publishedAt": "2020-03-28T21:32:23Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "John Vervaeke  - Steal the Culture",
     "description": "\"I basically want to steal the culture from the people who have been abusing us for a very long time.\" - John Vervaeke Full session: https://youtu.be/77x8OJIjmiY ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-28T21:32:23Z"
+  },
+  "_id": "Q9AZZI6PPRQ",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nGi9qu0kxccnRV0x7E2G_-mBsQI\"",
+  "etag": "rPjtVmH_RVcVS7XcP4tDHqSNieY",
   "id": {
     "kind": "youtube#video",
     "videoId": "su91uPR_jmM"
   },
   "snippet": {
-    "publishedAt": "2018-02-14T19:01:50.000Z",
+    "publishedAt": "2018-02-14T19:01:50Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "The Cynefin framework - Complicated, Complexity, Chaos | Deep Code Experiment: Episode 3",
     "description": "Dave Snowden's Cynefin (\"ken - even\") framework is crucial for understanding the world.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-02-14T19:01:50Z"
+  },
+  "_id": "su91uPR_jmM",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

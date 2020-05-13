@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/I5nMzOHADYQ6eWC12vAi6akk6xw\"",
+  "etag": "nTPtuMyalUsnBPFU8Cn3m5RMJlo",
   "id": {
     "kind": "youtube#video",
     "videoId": "KUrTgxmlAQs"
   },
   "snippet": {
-    "publishedAt": "2018-03-22T18:43:42.000Z",
+    "publishedAt": "2018-03-22T18:43:42Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Dominance and Prestige Hierarchies | Deep Code Experiment: Episode 15",
     "description": "Humans differ from other hominids in that we seem to be hard-wired to seek and give something Joseph Henrich called \"prestige\" to individuals who seem to ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-03-22T18:43:42Z"
+  },
+  "_id": "KUrTgxmlAQs",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

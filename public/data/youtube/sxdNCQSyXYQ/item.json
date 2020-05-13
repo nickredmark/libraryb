@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/X-EoymDMTkTFFwtba0nf5MC_hco\"",
+  "etag": "5k8ffkbnpMC0v9ef8KO_VZoDrLk",
   "id": {
     "kind": "youtube#video",
     "videoId": "sxdNCQSyXYQ"
   },
   "snippet": {
-    "publishedAt": "2020-04-10T01:29:33.000Z",
+    "publishedAt": "2020-04-10T01:29:33Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Memetic Mediation During the Liminal War w/ Jason Synder and Jared Janes",
     "description": "Jason Synder and Jared Janes from the Both/And podcast join Peter while they chat about memetic mediation during the Liminal War. RSVP for more sessions: ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-10T01:29:33Z"
+  },
+  "_id": "sxdNCQSyXYQ",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

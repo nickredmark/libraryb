@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eN-ehf8m-wFJ3gbIxIKUeKV5pVE\"",
+  "etag": "YHpOHCXWmXduMoesbBIRuVag1U8",
   "id": {
     "kind": "youtube#video",
     "videoId": "RlTQNqSwtxs"
   },
   "snippet": {
-    "publishedAt": "2020-03-31T03:50:14.000Z",
+    "publishedAt": "2020-03-31T03:50:14Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Listen to Jim Rutt",
     "description": "Full session: https://www.jimruttshow.com/the-stoa/ RSVP for more sessions: www.thestoa.ca Join The Stoa mailing list: https://thestoa.substack.com Intro song: ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-31T03:50:14Z"
+  },
+  "_id": "RlTQNqSwtxs",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

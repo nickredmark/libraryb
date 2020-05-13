@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Ic-zyLodBsGXQq3tO-7AhmuOFZw\"",
+  "etag": "AELmL-q7IsJB_tYsqQNfLyl7HzM",
   "id": {
     "kind": "youtube#video",
     "videoId": "___RqrzY79A"
   },
   "snippet": {
-    "publishedAt": "2018-04-05T19:47:53.000Z",
+    "publishedAt": "2018-04-05T19:47:53Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "The Sacred, the Profane and the Supernormal | Deep Code Experiment: Episode 18",
     "description": "We can't always get what we want, and even more we quite often don't even know what we need. The problem of supernormal stimuli - what they are and how ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-04-05T19:47:53Z"
+  },
+  "_id": "___RqrzY79A",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

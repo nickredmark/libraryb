@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KCSxcMUXtYD963dA1MXrcflqY1I\"",
+  "etag": "HB3wjkKNVSS_UNOPkpi3b2I04LA",
   "id": {
     "kind": "youtube#video",
     "videoId": "EiQ-XwMhIQ0"
   },
   "snippet": {
-    "publishedAt": "2020-04-17T02:58:30.000Z",
+    "publishedAt": "2020-04-17T02:58:30Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "The Gift Economy w/ Andrew Taggart (March 18th, 2020)",
     "description": "Andrew Taggart will be sharing his thoughts on the gift economy that he and The Stoa are operating on. 60 mins. RSVP for more sessions: www.thestoa.ca Join ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-17T02:58:30Z"
+  },
+  "_id": "EiQ-XwMhIQ0",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

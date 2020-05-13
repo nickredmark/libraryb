@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3tkNJQr-p5clmgR-T4MqDWdiOLM\"",
+  "etag": "BRj5p5oFJQ4wP7pywVahBzIf0B0",
   "id": {
     "kind": "youtube#video",
     "videoId": "P0L81BP8xgQ"
   },
   "snippet": {
-    "publishedAt": "2020-03-29T04:02:30.000Z",
+    "publishedAt": "2020-03-29T04:02:30Z",
     "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "title": "Jordan Hall - Initiation and Right Relationship",
     "description": "\"That simple stuff between the right relationship between the masculine and feminine, the right relationship between men and women, which aren't necessarily ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-29T04:02:30Z"
+  },
+  "_id": "P0L81BP8xgQ",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
 }

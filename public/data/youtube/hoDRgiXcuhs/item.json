@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tmyC0pmaJDfpKd8AKlxDf8HKEc0\"",
+  "etag": "NrSNAxaeE7ZuEGir0vrZWcYSCTY",
   "id": {
     "kind": "youtube#video",
     "videoId": "hoDRgiXcuhs"
   },
   "snippet": {
-    "publishedAt": "2018-03-01T17:33:02.000Z",
+    "publishedAt": "2018-03-01T17:33:02Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Technological Unemployment - is this time different?  | Deep Code Experiments: Episode 13",
     "description": "Will the age of AI and Robots mean that we will all be unemployed? Or will new jobs be created to replace those that are lost to automation? In this episode, an ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-03-01T17:33:02Z"
+  },
+  "_id": "hoDRgiXcuhs",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9NmCWJd3qbdwR1YEfjON6j5VS1g\"",
+  "etag": "PVClgmqsHzcayIbjIs7xAXj60eY",
   "id": {
     "kind": "youtube#video",
     "videoId": "TmPLx2ntVcU"
   },
   "snippet": {
-    "publishedAt": "2020-04-09T18:30:06.000Z",
+    "publishedAt": "2020-04-09T18:30:06Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Deep Code Bits: Redefining Hope",
     "description": "From a conversation with John John Vervaeke, how can we look at hope as a practical guiding principal? original video: ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-09T18:30:06Z"
+  },
+  "_id": "TmPLx2ntVcU",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

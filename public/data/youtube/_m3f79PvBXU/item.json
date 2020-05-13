@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_fRHU043y8NoAP0JiXjJqr_u6Zg",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "_m3f79PvBXU"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-02T15:54:56Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Daemon, Death, and Being Visited by a God w/ Stephen Jenkinson",
+    "description": "Peter chats with Stephen Jenkinson about the daemon, death, truthfulness, the dis-ease of COVID, and being visited by a God. \"Stephen is a teacher, author, ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_m3f79PvBXU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_m3f79PvBXU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_m3f79PvBXU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-02T15:54:56Z"
+  },
+  "_id": "_m3f79PvBXU",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
+}

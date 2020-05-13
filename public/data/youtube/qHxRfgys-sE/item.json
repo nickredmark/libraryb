@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "KXJGp_p55KBD6SAKMSu4lamy-s8",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "qHxRfgys-sE"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-10T19:17:48Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Deep Code Bits: Regarding QAnon",
+    "description": "Responding to a question about QAnon during a fireplace talk with The Stoa Full video: https://www.youtube.com/watch?v=jvzJvwUJWtk&t=2263s.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qHxRfgys-sE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qHxRfgys-sE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qHxRfgys-sE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-10T19:17:48Z"
+  },
+  "_id": "qHxRfgys-sE",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
+}

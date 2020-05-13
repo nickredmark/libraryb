@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "HDCE8KjkfWXz9evcGPDlHWh9-bI",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi41NTZEOThBNThFOUVGQkVB",
+  "kind": "youtube#searchResult",
+  "etag": "6mM32TfWuRUWARdjPKzDm-NAbao",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "gQlDjWq_XmQ"
+  },
   "snippet": {
-    "publishedAt": "2020-04-14T01:32:49Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
-    "title": "Faith, flow, & facing the COVID-19 crisis w/ Jordan Hall - Voices with Vervaeke",
-    "description": "This is a followup to our recent discussion on COVID 19, rationality and faith. In particular what does faith look like right now at the intersection of the meaning crisis and civilization change due to worldwide pandemics?\n\nI mention Plato's theory of anagoge and faith within Socratic dialogos. Please see episodes 4 of Awakening from the Meaning Crisis  for Socratic dialogue  https://www.youtube.com/watch?v=Lhl51bZQlM8&list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&index=4 and episode 5 on Plato and anagoge  https://www.youtube.com/watch?v=neDutbcedUY&list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&index=5\n\nFor a discussion of reciprocal opening and religion today please see this talk https://www.youtube.com/watch?v=Y0JxL-acvuM&t=513s\n\nFor a discussion on beauty, flow, and love please see \nhttps://www.youtube.com/watch?v=XRz1_QlB_O0&list=PLJ7feqEXm8OQzMWk2rSLvgLjg-L2bVZnm\n\nThis is part of my series Voices with Vervaeke: Science, Spirituality, and the Meaning Crisis.",
+    "publishedAt": "2020-03-20T17:11:40Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Faith, flow, &amp; facing the COVID-19 crisis w/ Jordan Hall - Voices with Vervaeke",
+    "description": "This is a followup to our recent discussion on COVID 19, rationality and faith. In particular what does faith look like right now at the intersection of the meaning ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/gQlDjWq_XmQ/default.jpg",
@@ -24,16 +27,13 @@
         "height": 360
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 52,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "gQlDjWq_XmQ"
-    }
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-20T17:11:40Z"
   },
   "_id": "gQlDjWq_XmQ",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
   ]
 }

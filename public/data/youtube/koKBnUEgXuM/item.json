@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/itr31jpMrFEvHwL-uHmUFIURnM4\"",
+  "etag": "VsIi7DpApeIDzeJ45auSVN6yaqA",
   "id": {
     "kind": "youtube#video",
     "videoId": "koKBnUEgXuM"
   },
   "snippet": {
-    "publishedAt": "2020-05-09T20:52:12.000Z",
+    "publishedAt": "2020-05-09T20:52:12Z",
     "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
     "title": "Bret and Heather 13th DarkHorse Podcast Livestream: Herd Immunity Won&#39;t Save Us",
     "description": "The 13th in a series of live discussions with Bret Weinstein and Heather Heying (both PhDs in Biology), as we discuss the state of the world. Find more from us ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Bret Weinstein",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-09T20:52:12Z"
+  },
+  "_id": "koKBnUEgXuM",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
 }

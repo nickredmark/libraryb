@@ -1,12 +1,15 @@
 {
-  "kind": "youtube#playlistItem",
-  "etag": "okyu4RLYdWHnLZ_ucFCGGTQde60",
-  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi5BRjJDODk5REM0NjkzMUIy",
+  "kind": "youtube#searchResult",
+  "etag": "zofjQqlcjGhH1qdWtHVs2S9mTDM",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "I7TMrCCQmBY"
+  },
   "snippet": {
-    "publishedAt": "2019-10-21T17:10:05Z",
-    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "publishedAt": "2019-10-19T16:23:07Z",
+    "channelId": "UCV-EEU6aLT7SSJegb453hOw",
     "title": "Jordan Hall - Game B - Some background and personal perspectives",
-    "description": "In this video Jordan outlines the history and origins of the project, or rather \"scenius\" that has come to be known as game B. He also gives a very personal account of his own path and some of the ways in which his own life and the development of these ideas have  kind of co-evolved. My thanks to Jordan once again for both his time and his candour..",
+    "description": "In this video Jordan outlines the history and origins of the project, or rather \"scenius\" that has come to be known as game B. He also gives a very personal ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/I7TMrCCQmBY/default.jpg",
@@ -22,23 +25,15 @@
         "url": "https://i.ytimg.com/vi/I7TMrCCQmBY/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/I7TMrCCQmBY/sddefault.jpg",
-        "width": 640,
-        "height": 480
       }
     },
-    "channelTitle": "Gwendolyn Huot",
-    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
-    "position": 42,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "I7TMrCCQmBY"
-    }
+    "channelTitle": "liberatemankind",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-10-19T16:23:07Z"
   },
   "_id": "I7TMrCCQmBY",
   "collections": [
-    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "https://www.youtube.com/channel/UCV-EEU6aLT7SSJegb453hOw"
   ]
 }

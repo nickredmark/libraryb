@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5JDfIuHC-tQ9-_PEGbxaYCtD_gg\"",
+  "etag": "svJqmD0gRJoso4D8NlF1IAmG4V0",
   "id": {
     "kind": "youtube#video",
     "videoId": "x4l0W5RUhMI"
   },
   "snippet": {
-    "publishedAt": "2020-04-08T18:22:45.000Z",
+    "publishedAt": "2020-04-08T18:22:45Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Deep Code Bits: UBI and Collective Intelligence",
     "description": "A low fi conversation about a different way to looking at UBI in the context of distributed intelligence.",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-08T18:22:45Z"
+  },
+  "_id": "x4l0W5RUhMI",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "PKnXaDs0TjOnFsFdhkGmHckRb-I",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "f2doiy0Psq8"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-11T18:44:12Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Introducing the Hope Cafe - Conversation that IS the revolution.",
+    "description": "Facebook group Hope Cafe: https://www.facebook.com/groups/2783971088343159/ This weeks question is \"What makes a conversation enjoyable to you?\"",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/f2doiy0Psq8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/f2doiy0Psq8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/f2doiy0Psq8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-06-11T18:44:12Z"
+  },
+  "_id": "f2doiy0Psq8",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

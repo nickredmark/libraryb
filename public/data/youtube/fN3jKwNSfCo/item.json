@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/k-FDDb1LvfzFrPQi3wsS0jH0JBw\"",
+  "etag": "eUOPMCy8gh-y0cHYtukSI1u3fmo",
   "id": {
     "kind": "youtube#video",
     "videoId": "fN3jKwNSfCo"
   },
   "snippet": {
-    "publishedAt": "2020-04-08T19:59:47.000Z",
+    "publishedAt": "2020-04-08T19:59:47Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Deep Code Bits: The Fed, Homes and Unintended Consequences",
     "description": "",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-04-08T19:59:47Z"
+  },
+  "_id": "fN3jKwNSfCo",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

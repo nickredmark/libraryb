@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-GyCF5nbVS0rPhq6uxJ_gYYIqE0\"",
+  "etag": "KYsHQI1hSmE05Nk_mmAMwKpKp_E",
   "id": {
     "kind": "youtube#video",
     "videoId": "FKVEX74LBnw"
   },
   "snippet": {
-    "publishedAt": "2020-05-01T17:00:44.000Z",
+    "publishedAt": "2020-05-01T17:00:44Z",
     "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
     "title": "Finding Logos within Kairos w/ Zac Stein and Andrew Sweeny- Voices with Vervaeke",
     "description": "Zac, Andrew and I have a rich discussion about finding the logos within a turning point in the culture and its connections to what religion and/or faith could mean ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "John Vervaeke",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-05-01T17:00:44Z"
+  },
+  "_id": "FKVEX74LBnw",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
 }

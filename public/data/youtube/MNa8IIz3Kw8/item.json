@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JrqxVuSYwU3z2Vqbg1wZlHOsCOA\"",
+  "etag": "-Dp5AEaakJ3jMVA6ocoecMmFfWc",
   "id": {
     "kind": "youtube#video",
     "videoId": "MNa8IIz3Kw8"
   },
   "snippet": {
-    "publishedAt": "2018-02-12T21:19:59.000Z",
+    "publishedAt": "2018-02-12T21:19:59Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Four Layer Model of Social Systems | Deep Code Experiment: Episode 1",
     "description": "How did we get from the 2008 Crisis to Brexit and Trump? Is it useful to think about layers to social systems and how particular decisions can support one layer ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-02-12T21:19:59Z"
+  },
+  "_id": "MNa8IIz3Kw8",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }

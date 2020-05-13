@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/w_Eb1h_CP1uiMwoJCUAFUrVFnNw\"",
+  "etag": "TJSsIqOp0qSJVZ23hJOWFtz7qrA",
   "id": {
     "kind": "youtube#video",
     "videoId": "9D-4-Owzbh0"
   },
   "snippet": {
-    "publishedAt": "2020-05-11T13:45:24.000Z",
+    "publishedAt": "2020-05-11T13:45:24Z",
     "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
     "title": "Live Q&amp;A with John Vervaeke - 2020-05-15",
     "description": "Thank you for joining my Q&A. A few notes: 1. It starts just after 1500 EST and lasts for approximately an hour. 2. The first ~45 minutes are previously submitted ...",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "John Vervaeke",
-    "liveBroadcastContent": "upcoming"
-  }
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-05-11T13:45:24Z"
+  },
+  "_id": "9D-4-Owzbh0",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
 }

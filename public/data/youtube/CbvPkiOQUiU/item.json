@@ -1,12 +1,12 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iMKowmEbSjUvk_EQQW52I_oTT98\"",
+  "etag": "OAkiFzpl9O-CjqenKCwSVrP3fyQ",
   "id": {
     "kind": "youtube#video",
     "videoId": "CbvPkiOQUiU"
   },
   "snippet": {
-    "publishedAt": "2018-06-06T18:43:31.000Z",
+    "publishedAt": "2018-06-06T18:43:31Z",
     "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
     "title": "Generational Theory and Social Choices | Deep Code Experiment: Episode 24",
     "description": "Is there anything to the notion of different generations? Can we make some predictions about how society will make choices based on this notion?",
@@ -28,6 +28,11 @@
       }
     },
     "channelTitle": "Jordan Hall",
-    "liveBroadcastContent": "none"
-  }
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-06-06T18:43:31Z"
+  },
+  "_id": "CbvPkiOQUiU",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
 }
