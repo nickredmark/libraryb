@@ -41,8 +41,19 @@ const Main = ({ items, curators, collections }) => {
     ([, category]) => category
   );
 
+  const availableCategories = [];
+  for (const curator of selectedCurators) {
+    availableCategories.push(
+      ...Object.keys(curators[curator]).map((category) => [curator, category])
+    );
+  }
+  const actuallySelectedCategories = availableCategories.filter(
+    ([curator, category]) =>
+      selectedCategories.some(([cu, ca]) => curator === cu && category === ca)
+  );
+
   const availableCollectionsObject = {};
-  for (const [curator, category] of Object.values(selectedCategories)) {
+  for (const [curator, category] of Object.values(actuallySelectedCategories)) {
     for (const collection of curators[curator][category]) {
       availableCollectionsObject[collection] = true;
     }
@@ -65,13 +76,6 @@ const Main = ({ items, curators, collections }) => {
         description.toLowerCase().includes(search.toLowerCase()))
     );
   });
-
-  const availableCategories = [];
-  for (const curator of selectedCurators) {
-    availableCategories.push(
-      ...Object.keys(curators[curator]).map((category) => [curator, category])
-    );
-  }
 
   return (
     <>
