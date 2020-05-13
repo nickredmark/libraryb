@@ -76,15 +76,15 @@ const Youtube = ({ query: { id }, item, transcript }) => {
 };
 
 Youtube.getInitialProps = async ({ req, query }) => {
-  const { origin } = absoluteUrl(req);
+  const origin = "https://librarybdata.now.sh";
 
   const item = await (
-    await fetch(`${origin}/data/youtube/${query.id}/item.json`)
+    await fetch(`${origin}/youtube/${query.id}/item.json`)
   ).json();
   let transcript;
   try {
     transcript = await (
-      await fetch(`${origin}/data/youtube/${query.id}/transcript.json`)
+      await fetch(`${origin}/youtube/${query.id}/transcript.json`)
     ).json();
   } catch (e) {}
 

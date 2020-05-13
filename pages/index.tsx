@@ -169,16 +169,14 @@ const Main = ({ items, curators, collections }) => {
 };
 
 Main.getInitialProps = async ({ req }) => {
-  const { origin } = absoluteUrl(req);
+  const origin = "https://librarybdata.now.sh";
   const items = orderBy(
-    Object.values(await (await fetch(`${origin}/data/items.json`)).json()),
+    Object.values(await (await fetch(`${origin}/items.json`)).json()),
     "publishedAt",
     "desc"
   );
-  const curators = await (await fetch(`${origin}/data/curators.json`)).json();
-  const collections = await (
-    await fetch(`${origin}/data/collections.json`)
-  ).json();
+  const curators = await (await fetch(`${origin}/curators.json`)).json();
+  const collections = await (await fetch(`${origin}/collections.json`)).json();
 
   return {
     items,

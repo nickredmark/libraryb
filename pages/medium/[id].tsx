@@ -25,10 +25,10 @@ const Medium = ({ query, item }) => {
 };
 
 Medium.getInitialProps = async ({ req, query }) => {
-  const { origin } = absoluteUrl(req);
+  const origin = "https://librarybdata.now.sh";
 
   const item = await (
-    await fetch(`${origin}/data/medium/${query.id}/item.json`)
+    await fetch(`${origin}/medium/${query.id}/item.json`)
   ).json();
 
   return { query, item };
