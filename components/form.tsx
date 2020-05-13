@@ -1,5 +1,5 @@
 export const Search = ({ search, setSearch }) => (
-  <div>
+  <div className="m-2">
     <label htmlFor="email" className="sr-only">
       Email
     </label>
