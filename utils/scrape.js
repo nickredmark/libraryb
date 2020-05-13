@@ -33,8 +33,9 @@ const getVideos = async (key, options, getId = (item) => item.id.videoId) => {
     videos.push(...page.items);
   }
   for (const item of videos) {
+    item._id = getId(item);
     try {
-      await getSubs(getId(item));
+      await getSubs(item._id);
     } catch (e) {
       console.error(e);
     }
@@ -82,6 +83,31 @@ const getSubs = async (id) => {
   writeFileSync(`${dir}/transcript.json`, JSON.stringify(final, null, 2));
 };
 
+const updateItem = (collection, snippets, type, item, snippetify) => {
+  const dir = `./public/data/${type}/${item._id}`;
+  if (!existsSync(dir)) {
+    mkdirSync(dir);
+  }
+  const path = `${dir}/item.json`;
+  let originalItem = {};
+  if (existsSync(path)) {
+    originalItem = JSON.parse(readFileSync(path, "utf8"));
+  }
+  Object.assign(originalItem, item);
+  if (!originalItem.collections) {
+    originalItem.collections = [];
+  }
+  if (!originalItem.collections.includes(collection)) {
+    originalItem.collections.push(collection);
+  }
+  writeFileSync(path, JSON.stringify(originalItem, null, 2));
+
+  if (!snippets[item._id]) {
+    snippets[item._id] = {};
+  }
+  Object.assign(snippets[item._id], snippetify(originalItem));
+};
+
 Youtube.authenticate({
   type: "key",
   key: process.env.YOUTUBE_API_KEY,
@@ -101,31 +127,46 @@ const start = async () => {
       Object.assign(collections[collection.url], collection);
       switch (collection.type) {
         case "youtube-playlist": {
-          break;
           console.log(`playlist ${collection.url}`);
           const id = new URL(collection.url).searchParams.get("list");
-          collection.videos = await getVideos(
+          const videos = await getVideos(
             "playlistItems",
             {
               playlistId: id,
             },
             (item) => item.snippet.resourceId.videoId
           );
-          library.items.push(...collection.videos);
+          for (video of videos) {
+            updateItem(
+              collection.url,
+              items,
+              "youtube",
+              video,
+              (video) => video
+            );
+          }
 
           break;
         }
         case "youtube-channel": {
-          break;
           console.log(`channel ${collection.url}`);
           const id = collection.url.split("/")[
             collection.url.split("/").length - 1
           ];
 
-          collection.videos = await getVideos("search", {
+          const videos = await getVideos("search", {
             channelId: id,
           });
-          library.items.push(...collection.videos);
+          for (video of videos) {
+            updateItem(
+              collection.url,
+              items,
+              "youtube",
+              video,
+              (video) => video
+            );
+          }
+
           break;
         }
         case "medium-publication":
@@ -135,19 +176,12 @@ const start = async () => {
           const parsedFeed = await parser.parseURL(collection.url);
           for (const item of parsedFeed.items) {
             const id = item.guid.split("/")[item.guid.split("/").length - 1];
+            item._id = id;
             item.publishedAt = item.isoDate;
-            if (!existsSync(`./public/data/medium/${id}`)) {
-              mkdirSync(`./public/data/medium/${id}`);
-            }
-            writeFileSync(
-              `./public/data/medium/${id}/item.json`,
-              JSON.stringify(item, null, 2)
+
+            updateItem(collection.url, items, "medium", item, (item) =>
+              omit(item, "content", "content:encoded")
             );
-            delete item["content:encoded"];
-            if (!items[id]) {
-              items[id] = {};
-            }
-            Object.assign(items[id], item);
           }
         }
       }
