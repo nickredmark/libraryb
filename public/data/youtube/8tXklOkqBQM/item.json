@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/8aX5vUmirzNxcatHIoQ0JeziWHM\"",
+  "etag": "NGQCdqSIVmdjsoVrD8_wcsOuIgc",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC41OURENDc2NEM1MDI5Mjky",
   "snippet": {
-    "publishedAt": "2019-11-18T01:38:31.000Z",
+    "publishedAt": "2019-11-18T01:38:31Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Was \"everything but the kitchen sink\" randomly included?",
     "description": "learn more at https://neurohacker.com/qualia\nDaniel Schmachtenberger discusses the process and systems design behind selecting the right ingredients, quantity of those ingredients, and balance of those 42 ingredients included in Qualia, a broad spectrum cognitive enhancement nootropic stack.\nFor the full list of ingredients check out neurohacker.com/formulation\n\nQualia is a general cognitive enhancement stack designed to amplify all the aspects that matter most for optimal cognitive and nervous system functioning.\nQualia was designed to provide immediate, noticeable uplift of your subjective experience within 20 minutes of taking it, as well as long-term benefits to your neurology and overall physiologic functioning; this means supporting the functioning of the brain and the pathways of the central nervous system (neural, immune, endocrine), balancing hormones, improving biochemical signaling of the gut-brain axis, and supporting the core underlying regulatory mechanisms of the brain and body that give rise to our subjective experience.\nhttp://neurohacker.com/qualia/",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "8tXklOkqBQM"
     }
-  }
+  },
+  "_id": "8tXklOkqBQM",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

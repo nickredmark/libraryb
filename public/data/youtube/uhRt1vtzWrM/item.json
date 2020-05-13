@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_iXetGJeaKgP16YqT-gAxh5OZ1U\"",
+  "etag": "X9uuP3Ahi9QQ1IJIo9ZdVIr4G1k",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC45NkVENTkxRDdCQUFBMDY4",
   "snippet": {
-    "publishedAt": "2019-11-18T01:33:21.000Z",
+    "publishedAt": "2019-11-18T01:33:21Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "New Economics Series: Part 1 by Daniel Schmachtenberger",
     "description": "Evaluation of the current economic model,  leading into a far better one.",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "uhRt1vtzWrM"
     }
-  }
+  },
+  "_id": "uhRt1vtzWrM",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

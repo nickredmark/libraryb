@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tdOF1oBH55XAoxRhupco08O7GuY\"",
+  "etag": "qGyrKaU-_TKYdS3LaloIZGhs_l4",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC43NERCMDIzQzFBMERCMEE3",
   "snippet": {
-    "publishedAt": "2019-11-18T01:37:01.000Z",
+    "publishedAt": "2019-11-18T01:37:01Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Daniel discusses the 6 Principles of the NHC approach to wellbeing",
     "description": "Learn more at https://neurohacker.com\nCo-founder and Director of R&D, Daniel Schmachtenberger's understanding of complex systems and whole systems science is distinct from reductive science. Here, he explains the approach we are using to address humanity's most challenging issues of human capacity.",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "l9uUCwzMUk4"
     }
-  }
+  },
+  "_id": "l9uUCwzMUk4",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

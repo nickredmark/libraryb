@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Qv2g1Ft7v1g8iOEcZe-dFLyzz0k\"",
+  "etag": "M6rpig3IwpfZraLLBQIFK2fqYKs",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5DRUQwODMxQzUyRTlGRkY3",
   "snippet": {
-    "publishedAt": "2019-11-18T01:33:40.000Z",
+    "publishedAt": "2019-11-18T01:33:40Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Daniel Schmachtenberger - Non Self Terminating Systems",
     "description": "Daniel Schmachtenberger on non self terminating systems. \n\nListen to the full podcast episode: http://futurethinkers.org/36 \n\nGet 10% off Qualia smart drug stack when you use the code FUTURE -\n http://futurethinkers.org/qualia\n\nThank you to our sponsor Aeternity: http://futurethinkers.org/aeternitylink\n\nDonate through Paypal or cryptocurrency: http://futurethinkers.org/support\n\nCheck out our merch store: http://www.redbubble.com/people/futurethinkers The Ancient Art Of Adulting - Take the course designed to help you create a life of meaning, purpose and impact: http://courses.futurethinkers.org",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "jQAhGT0nKkI"
     }
-  }
+  },
+  "_id": "jQAhGT0nKkI",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

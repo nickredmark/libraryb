@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l6O2Jpr_JJ625gCjNneWwj66_Bw\"",
+  "etag": "pVvOamp3b2wDYZpx8-XLELOABxI",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5DQ0MyQ0Y4Mzg0M0VGOEYw",
   "snippet": {
-    "publishedAt": "2019-11-18T01:23:25.000Z",
+    "publishedAt": "2019-11-18T01:23:25Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Daniel Schmachtenberger’s talk at Emergence",
     "description": "",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "AHUI-hZK3Nw"
     }
-  }
+  },
+  "_id": "AHUI-hZK3Nw",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/T5ICdWdao1A3Bjk02rb152xQ7qo\"",
+  "etag": "pHksCrqUjpaLHbu4mIr5jZXjNZw",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC40MDNEMzA0QTBFRThFMzBE",
   "snippet": {
-    "publishedAt": "2019-11-18T01:39:28.000Z",
+    "publishedAt": "2019-11-18T01:39:28Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Samina Testimonials 11 0",
     "description": "Daniel Schmachtenberger, Co-Founder and Director of Research and Development for the Neurohacker-Collective, is a SAMINA sleeper. He discusses his reasons for selecting SAMINA.",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "D-Er0UXyy2k"
     }
-  }
+  },
+  "_id": "D-Er0UXyy2k",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

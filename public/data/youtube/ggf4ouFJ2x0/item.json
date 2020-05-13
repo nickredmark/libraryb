@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0nEU805B6Aveize2OJZlgKvI9xA\"",
+  "etag": "YEqZf6JjsMXb4ooB9gR0z6iP94Q",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5ENjI1QUI0MDI5NEQzODFE",
   "snippet": {
-    "publishedAt": "2019-11-18T01:35:16.000Z",
+    "publishedAt": "2019-11-18T01:35:16Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Eating plants versus other live organisms [Interview with Daniel Schmachtenberger]",
     "description": "http://thryvestudio.com/the-ethics-behind-animal-rights-veganism-interview-with-daniel-schmachtenberger/v\n\nIn this interview with researcher and think-tank developer Daniel Schmachtenberger, we discuss some of the fundamental ethical questions and issues surrounding animal rights and veganism.",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "ggf4ouFJ2x0"
     }
-  }
+  },
+  "_id": "ggf4ouFJ2x0",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

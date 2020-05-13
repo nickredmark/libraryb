@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aorneZwoDQKihNuZJO-PFjzfK80\"",
+  "etag": "5BpExlHiH074BfUP8-w7VkP0wNg",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC4yQjZFRkExQjFGODk3RUFD",
   "snippet": {
-    "publishedAt": "2019-11-18T01:34:17.000Z",
+    "publishedAt": "2019-11-18T01:34:17Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Daniel Schmachtenberger - Singularity or Extinction? Exponential Growth Is Not Forever",
     "description": "Listen to the full podcast episode with Daniel Schmachtenberger: \nhttp://futurethinkers.org/36\n\nSIGN UP for our mailing list to get a FREE 50+ Page Adapt to the Future Guide: http://www.futurethinkers.org/signup \n\n=== FUTURE THINKERS MEMBERSHIP ===\n\nBecome a Future Thinkers Member and get access to our in-depth Courses in Personal Evolution, private group calls, Q&A's with podcast guests, podcast extras, and more.\n\nREGISTER at http://futurethinkers.org/members\n\nThis video is sponsored by Aeternity:\nhttp://futurethinkers.org/aeternityyoutube\n\nSupport us on Patreon: https://www.patreon.com/futurethinkers\n\nCheck out our merch store: http://www.redbubble.com/people/futurethinkers \n\nThe Ancient Art Of Adulting - Take the course designed to help you create a life of meaning, purpose and impact: http://courses.futurethinkers.org",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "IqLELspOa7g"
     }
-  }
+  },
+  "_id": "IqLELspOa7g",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

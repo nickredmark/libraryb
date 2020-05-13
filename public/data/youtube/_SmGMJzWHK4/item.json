@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "-mRhe3yW6QmnnAYm5nwgupLA5qs",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "_SmGMJzWHK4"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "5fDz_lLmp0aJkUXgzEPY197mij4",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi5EMEEwRUY5M0RDRTU3NDJC",
   "snippet": {
-    "publishedAt": "2018-09-28T10:07:21Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2019-08-05T19:43:35Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "The Paradox of the Times, with Jordan Greenhall",
-    "description": "Is this the best of all times to be alive, or are we heading towards catastrophe unless we change course? Or are both true at the same time? And what is 'Game ...",
+    "description": "Is this the best of all times to be alive, or are we heading towards catastrophe unless we change course? Or are both true at the same time? And what is 'Game B'? Jordan Greenhall is a renowned systems thinker and star of Rebel Wisdom's documentary 'Glitch in the Matrix'. \n\nHe wrote the celebrated and viral 'Deep Code, Situational Assessment' post in the aftermath of the Trump election in 2017: https://medium.com/deep-code/situational-assessment-2017-trump-edition-d189d24fc046#.4e0d7rvwd\n\nThe second part of this interview, 'Genuine Conversation and the Intellectual Dark Web' is available for Rebel Wisdom Patrons: https://www.patreon.com/rebelwisdom\n\nGlitch in the Matrix: https://www.youtube.com/watch?v=trhTbEs2GGE&t=1s\n\nIf you liked this check out 'How to Steal Fire from the Gods' with Jamie Wheal: https://www.youtube.com/watch?v=a1eXSvl5rn8&t=1765s",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/_SmGMJzWHK4/default.jpg",
@@ -25,10 +22,28 @@
         "url": "https://i.ytimg.com/vi/_SmGMJzWHK4/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/_SmGMJzWHK4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/_SmGMJzWHK4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2018-09-28T10:07:21Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 25,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "_SmGMJzWHK4"
+    }
+  },
+  "_id": "_SmGMJzWHK4",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+  ]
 }

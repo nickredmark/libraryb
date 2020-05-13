@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/02jEaw-PcvSDEEz9X27ntlSQ6Rc\"",
+  "etag": "5Dziu4K4-rVS0DrZPZjtxOTKtb4",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC4wQUE0QzM4MkJGQ0YwQjUx",
   "snippet": {
-    "publishedAt": "2020-02-07T03:22:21.000Z",
+    "publishedAt": "2020-02-07T03:22:21Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Ep10 - Optimizing the Mind with Daniel Schmachtenberger of Neurohacker Collective",
     "description": "Neurohacker, systems scientist, and philosopher Daniel Schmachtenberger discusses the questions at the heart of modern science which will allow us to unlock the secrets of the most complex instrument in the known universe: the human brain, and offers avenues to begin quantifying and hacking it.",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "1rj9NtQafb8"
     }
-  }
+  },
+  "_id": "1rj9NtQafb8",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

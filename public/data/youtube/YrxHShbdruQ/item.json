@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/X3P3ud2dnydkM5tGTe9lGoPjyGQ\"",
+  "etag": "PY-DNucThqG5GecJXJG0M4AgBV4",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC44Mjc5REFBRUE2MTdFRDU0",
   "snippet": {
-    "publishedAt": "2019-11-18T01:23:47.000Z",
+    "publishedAt": "2019-11-18T01:23:47Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Can nootropics empower WE Spaces by enhancing individual flow states",
     "description": "www.thewespacesummit.com",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "YrxHShbdruQ"
     }
-  }
+  },
+  "_id": "YrxHShbdruQ",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "1VPnfXHe2Bu_xFbTjwzZZ-vGauY",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "4NEvuQWR3oo"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "t0kdHgZCquEfCUBAYIzZ-x4hrZs",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi5CMEQ2Mjk5NTc3NDZFRUNB",
   "snippet": {
-    "publishedAt": "2018-02-09T09:49:34Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2019-08-05T22:20:47Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Deep Code Assessment - Jordan Peterson/Channel 4, Glitch in the Matrix",
-    "description": "Jordan Greenhall wrote one of the most compelling and widely shared analyses of the political landscape in the wake of the Trump election - 'Deep Code' ...",
+    "description": "Jordan Greenhall wrote one of the most compelling and widely shared analyses of the political landscape in the wake of the Trump election - 'Deep Code' - about how the consensus mainstream media reality \"Blue Church\" was being disrupted by a new insurgent \"Red Religion\". He believes the recent viral interview between Jordan Peterson and Cathy Newman on Channel 4 News was another example of the consensus reality breaking down - a \"glitch in the matrix\". He talks to Rebel Wisdom's David Fuller - who made the first documentary about Jordan Peterson AND used to work at Channel 4 News for many years.\n\nRebel Wisdom: Jordan Peterson, Truth in the Time of Chaos\nhttps://www.youtube.com/watch?v=EjqXXengN1s&t=900s\n\nDeep Code: Situational Assessment 2017, Trump Edition\nhttps://medium.com/deep-code/situational-assessment-2017-trump-edition-d189d24fc046\n\nIf you enjoyed this - please do consider helping us make more great content by sponsoring us on Patreon: https://www.patreon.com/rebelwisdom\n\n\nMore content: http://rebelwisdom.co.uk/",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/4NEvuQWR3oo/default.jpg",
@@ -25,10 +22,28 @@
         "url": "https://i.ytimg.com/vi/4NEvuQWR3oo/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/4NEvuQWR3oo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/4NEvuQWR3oo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2018-02-09T09:49:34Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 16,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "4NEvuQWR3oo"
+    }
+  },
+  "_id": "4NEvuQWR3oo",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+  ]
 }

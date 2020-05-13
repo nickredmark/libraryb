@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/POS41i-N0F0yrDnz9DLvk0zeNI8\"",
+  "etag": "WfbcuZFP1jEmhpPQKbwj1tBpgck",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5CMEQ2Mjk5NTc3NDZFRUNB",
   "snippet": {
-    "publishedAt": "2019-11-18T01:31:51.000Z",
+    "publishedAt": "2019-11-18T01:31:51Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Why is it named Qualia?",
     "description": "learn more at https://neurohacker.com/qualia\nDaniel Schmachtenberger discusses the meaning behind the name Qualia given for the broad spectrum cognitive enhancement nootropic stack.\nA general cognitive enhancement stack designed to amplify all the aspects that matter most for optimal cognitive and nervous system functioning.\nFor the full list of ingredients check out neurohacker.com/formulation\n\nQualia was designed to provide immediate, noticeable uplift of your subjective experience within 20 minutes of taking it, as well as long-term benefits to your neurology and overall physiologic functioning; this means supporting the functioning of the brain and the pathways of the central nervous system (neural, immune, endocrine), balancing hormones, improving biochemical signaling of the gut-brain axis, and supporting the core underlying regulatory mechanisms of the brain and body that give rise to our subjective experience.\nhttp://neurohacker.com/qualia/",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "h1K_6pjivDk"
     }
-  }
+  },
+  "_id": "h1K_6pjivDk",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

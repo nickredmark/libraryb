@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "nitT7mJaswYq2xx-3yotSZmvQgQ",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "_j3cCrpXERg"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "Q4WfWSEHr0YF7XYsOu5_FEdIeK0",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi45NDk1REZENzhEMzU5MDQz",
   "snippet": {
-    "publishedAt": "2019-07-17T17:57:45Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2019-08-05T19:37:39Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Deep Code: Jordan (Green)Hall Documentary",
-    "description": "If the next years are set to be some of the most challenging humanity has ever faced, how will we get through? Jordan Hall (formerly Greenhall) has a growing ...",
+    "description": "If the next years are set to be some of the most challenging humanity has ever faced, how will we get through? \n\nJordan Hall (formerly Greenhall) has a growing reputation as one of the most insightful cultural observers, explaining the 'Deep Code' of society and culture.\n\nIn this definitive film, he explains how the structures of civilisation are breaking down at an increasing rate, and what we can do about it - and the necessary evolution we need to make to survive.\n\nTwo full interviews with Jordan (total 2hrs 20 mins) are available for subscribers on www.rebelwisdom.co.uk/plans\n\nTo get access to more exclusive content, become a Rebel Wisdom subscriber: https://www.rebelwisdom.co.uk/plans\n\nWe've also just launched the Rebel Wisdom store! Buy T Shirts and more on https://shop.rebelwisdom.co.uk\n\nYou can listen to a podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com/ \n(this one will be available in podcast format only on Future Thinkers for now)\n\nWe also have a Rebel Wisdom Discord discussion channel: https://discord.gg/RK4MeYW",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/_j3cCrpXERg/default.jpg",
@@ -25,10 +22,28 @@
         "url": "https://i.ytimg.com/vi/_j3cCrpXERg/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/_j3cCrpXERg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/_j3cCrpXERg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-07-17T17:57:45Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 35,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "_j3cCrpXERg"
+    }
+  },
+  "_id": "_j3cCrpXERg",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+  ]
 }

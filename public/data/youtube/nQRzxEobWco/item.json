@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "dm4--FmqxhKZ3WC13abiVCFct74",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "nQRzxEobWco"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "RDZusuTTXZwuq5P04p82YwGBmy8",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC41NkI0NEY2RDEwNTU3Q0M2",
   "snippet": {
-    "publishedAt": "2018-11-07T17:59:54Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
-    "title": "&#39;Humanity&#39;s Phase Shift&#39;, Daniel Schmachtenberger",
-    "description": "Daniel Schmachtenberger is a futurist, evolutionary philosopher and strategist, and social engineer. This conversation with David Fuller of Rebel Wisdom looks ...",
+    "publishedAt": "2019-11-18T01:16:51Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "'Humanity's Phase Shift', Daniel Schmachtenberger",
+    "description": "Daniel Schmachtenberger is a futurist, evolutionary philosopher and strategist, and social engineer.\n\nThis conversation with David Fuller of Rebel Wisdom looks at the growing civilisation-level crisis that we are beginning to see around us, and looks at what a genuine 'phase shift' for human progress might look like.\n\nRebel Wisdom is a platform for the biggest ideas around. \nhttp://www.rebelwisdom.co.uk/\n\nRebel Wisdom is running workshops for men and women to get a direct experience of the ideas in our films: https://rebelwisdom.co.uk/events\n\nFind us on iTunes and Spotify, or visit rebelwisdom.podbean.com to download Rebel Wisdom as an audio podcast. \n\nTo help us make more of these films, please consider becoming a Patron: www.patreon.com/rebelwisdom",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/nQRzxEobWco/default.jpg",
@@ -25,10 +22,28 @@
         "url": "https://i.ytimg.com/vi/nQRzxEobWco/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/nQRzxEobWco/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/nQRzxEobWco/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2018-11-07T17:59:54Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 75,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "nQRzxEobWco"
+    }
+  },
+  "_id": "nQRzxEobWco",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

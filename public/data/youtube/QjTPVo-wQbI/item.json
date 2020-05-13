@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/CWYF8G2rKz__Ro6jnpZilftIM30\"",
+  "etag": "aWdIsDaLADQkjsCr3zgY89TgWeo",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5CNTcxMDQ0NThBNzMxODYz",
   "snippet": {
-    "publishedAt": "2019-11-18T01:38:46.000Z",
+    "publishedAt": "2019-11-18T01:38:46Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "How is the formulation of Qualia unique?",
     "description": "Neurohacker.com\nDaniel Schmachtenberger discusses what is unique about the formulation of Qualia, a broad spectrum cognitive enhancement nootropic stack.\nQualia is a general cognitive enhancement stack designed to amplify all the aspects that matter most for optimal cognitive and nervous system functioning.\nFor the full list of ingredients check out neurohacker.com/formulation\n\nQualia was designed to provide immediate, noticeable uplift of your subjective experience within 20 minutes of taking it, as well as long-term benefits to your neurology and overall physiologic functioning; this means supporting the functioning of the brain and the pathways of the central nervous system (neural, immune, endocrine), balancing hormones, improving biochemical signaling of the gut-brain axis, and supporting the core underlying regulatory mechanisms of the brain and body that give rise to our subjective experience.\nhttp://neurohacker.com/qualia/",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "QjTPVo-wQbI"
     }
-  }
+  },
+  "_id": "QjTPVo-wQbI",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

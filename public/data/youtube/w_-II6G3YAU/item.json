@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BXx4Rxw2cbjsxfzFgQ0UHw23uo0\"",
+  "etag": "Ek7Ie4zNSKPyiaiigQLe8p4OeA8",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC41RTNBREYwMkI5QzU3RkY2",
   "snippet": {
-    "publishedAt": "2019-11-18T01:34:42.000Z",
+    "publishedAt": "2019-11-18T01:34:42Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Maintaining compassion [Interview with Daniel Schmachtenberger, michellemayblog.com]",
     "description": "http://thryvestudio.com/the-ethics-behind-animal-rights-veganism-interview-with-daniel-schmachtenberger/\n\nIn this interview with researcher and think-tank developer Daniel Schmachtenberger, we discuss some of the fundamental ethical questions and issues surrounding animal rights and veganism.",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "w_-II6G3YAU"
     }
-  }
+  },
+  "_id": "w_-II6G3YAU",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

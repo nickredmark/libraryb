@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/q7kp5OX8ZQ9qvkxlB2LElzUgBkI\"",
+  "etag": "_Y2cM4DxZDHsSAEugb4i7gOhH0g",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC43MTI1NDIwOTMwQjIxMzNG",
   "snippet": {
-    "publishedAt": "2019-11-18T01:23:18.000Z",
+    "publishedAt": "2019-11-18T01:23:18Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Phase Shifting Humanity   Daniel Schmachtenberger   FTP036",
     "description": "",
@@ -36,5 +36,9 @@
       "kind": "youtube#video",
       "videoId": "_XP3PdGvXPE"
     }
-  }
+  },
+  "_id": "_XP3PdGvXPE",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

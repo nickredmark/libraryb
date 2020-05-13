@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "sdUILNSY8FAVt2IE-9fXr-U486M",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "7LqaotiGWjQ"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "Zg09ueWvigXWKFo-RfwxXZ1eK-g",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC41MjE1MkI0OTQ2QzJGNzNG",
   "snippet": {
-    "publishedAt": "2019-08-19T19:00:10Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2019-11-18T01:17:27Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "The War on Sensemaking, Daniel Schmachtenberger",
-    "description": "What can we trust? Why is the 'information ecology' so damaged, and what would it take to make it healthy? This is a fundamental question, because without ...",
+    "description": "What can we trust? Why is the 'information ecology' so damaged, and what would it take to make it healthy? \n\nThis is a fundamental question, because without good sensemaking, we cannot even begin to act in the world. It is also a central concern in what many are calling the \"meaning crisis\", because what is meaningful is connected to what is real.\n\nDaniel Schmachtenberger is an evolutionary philosopher - his central interest is civilization design: developing new capacities for sense-making and choice-making, individually and collectively, to support conscious sustainable evolution.\n\nTo get access to more exclusive content and to join this evolving conversation, become a Rebel Wisdom member: https://www.rebelwisdom.co.uk/plans\n\nYou can listen to a podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com/ \n\nWe also have a Rebel Wisdom Discord discussion channel: https://discord.gg/RK4MeYW\n\nFor more from Daniel, he blogs on these topics at https://civilizationemerging.com/\n\nHe’s also the director of Research and Development at Neurohacker Collective https://neurohacker.com/ethos",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/7LqaotiGWjQ/default.jpg",
@@ -27,8 +24,16 @@
         "height": 360
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-08-19T19:00:10Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 81,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "7LqaotiGWjQ"
+    }
+  },
+  "_id": "7LqaotiGWjQ",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

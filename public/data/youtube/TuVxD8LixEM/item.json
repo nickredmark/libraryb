@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "LZJIllPuz14uk4LoOH29JeNAVvo",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "TuVxD8LixEM"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "zbLqGTMK1ZrueSgajPcEN_-T6vw",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi4xOTEzQzhBQzU3MDNDNjcz",
   "snippet": {
-    "publishedAt": "2019-10-08T23:37:31Z",
-    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
-    "title": "Jordan Hall N&#39; Guy Sengstock",
-    "description": "If you liked what you saw here... Follow us on Facebook for community conversations & event updates: https://www.facebook.com/circlinginstitute/ Join us for a ...",
+    "publishedAt": "2019-10-21T17:10:23Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "Jordan Hall N' Guy Sengstock",
+    "description": "If you liked what you saw here...\n\nFollow us on Facebook for community conversations & event updates:\nhttps://www.facebook.com/circlinginstitute/\n\nJoin us for a drop-in event or weekend workshop:\nhttps://www.circlinginstitute.com/tci...\n\nCheck out our in depth Art of Circling Practitioner Training and learn how to integrate Circling into your personal & professional lives!\nhttps://www.circlinginstitute.com/art...\n\nContact Guy Sengstock personally:\nguysengstock@gamil.com",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/TuVxD8LixEM/default.jpg",
@@ -25,10 +22,28 @@
         "url": "https://i.ytimg.com/vi/TuVxD8LixEM/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/TuVxD8LixEM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/TuVxD8LixEM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "guy sengstock",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-10-08T23:37:31Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 41,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "TuVxD8LixEM"
+    }
+  },
+  "_id": "TuVxD8LixEM",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+  ]
 }

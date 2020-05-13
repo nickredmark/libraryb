@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "aWDp9Kx9AtlERrK9iKJ0uQYVQMg",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "BP14a6fjua0"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "OtKjalVUtDrb3rfo9UnYOlelUEg",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi4zQzFBN0RGNzNFREFCMjBE",
   "snippet": {
-    "publishedAt": "2019-09-20T03:36:36Z",
-    "channelId": "UCKeq9IUfzw-QvDKP7N9K8rw",
+    "publishedAt": "2019-10-21T17:10:50Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Jordan Hall, In The Wake Of Mystery",
-    "description": "For a growing number of futurists, culture analysts and seekers, Jordan Hall has become a key node of signal in a world of increasing noise. Conversation ...",
+    "description": "For a growing number of futurists, culture analysts and seekers, Jordan Hall has become a key node of signal in a world of increasing noise. \n\nConversation points:\n\n- Why do this?\n- Meaningful thinking\n- The gravity of the change upon us\n- Teleology\n- Coherence, continuity, wholeness\n- \"Love is that which enables choice\" - Forrest Landry\n- On power and love\n- The sacredness of choice\n- Meta-psychotechnology\n- Towards new stories\n- Esoteric metaphysics of relationship and change\n\nFor those unfamiliar with Jordan Hall and his thinking I recommend listening to his appearance on the Jim Rutt show in particular, and also the trialogue on Rebel Wisdom where he's joined by Daniel Schmachtenberger and Jamie Wheal.\n\n---\n\nTo listen as / subscribe to the podcast go to https://voiceclub.com/in-the-wake-of-mystery-with-jordan-hall/ \n\nYou can support this project at https://www.patreon.com/voiceclub\n\nMusic - Ours Samplus - Spell On You (https://youtu.be/V4ypU_3e_3E)",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/BP14a6fjua0/default.jpg",
@@ -25,10 +22,28 @@
         "url": "https://i.ytimg.com/vi/BP14a6fjua0/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/BP14a6fjua0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/BP14a6fjua0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Voicecraft",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-09-20T03:36:36Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 38,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "BP14a6fjua0"
+    }
+  },
+  "_id": "BP14a6fjua0",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+  ]
 }

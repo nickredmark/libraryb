@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lwArou_Yym3pwW-CGuFSE6n6pqQ\"",
+  "etag": "56hbn5CboGl6p6gyN8ZCHYXnMv8",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC45NDk1REZENzhEMzU5MDQz",
   "snippet": {
-    "publishedAt": "2019-11-18T01:18:16.000Z",
+    "publishedAt": "2019-11-18T01:18:16Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Daniel Schmachtenberger - Neurohacking For Optimal Brain Function",
     "description": "Daniel Schmachtenberger talks neurohacking: technologies and techniques for optimizing neurological functions, like meditation, EEG, and supplements.\n\nGet 10% off Qualia smart drug stack when you use the code FUTURE -\n http://futurethinkers.org/qualia\n\nShow notes for this episode: http://futurethinkers.org/42\n\nSIGN UP for our mailing list to get a FREE 50+ Page Adapt to the Future Guide: http://www.futurethinkers.org/signup \n\n=== FUTURE THINKERS MEMBERSHIP ===\n\nBecome a Future Thinkers Member and get access to our in-depth Courses in Personal Evolution, private group calls, Q&A's with podcast guests, podcast extras, and more.\n\nREGISTER at http://futurethinkers.org/members\n\nCheck out our merch store -\n http://www.redbubble.com/people/futurethinkers\n\nSupport Future Thinkers on Patreon -\n http://patreon.com/futurethinkers\n\nDonate through Paypal or cryptocurrency: http://futurethinkers.org/support The Ancient Art Of Adulting - Take the course designed to help you create a life of meaning, purpose and impact: http://courses.futurethinkers.org",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "rrozCypcUx4"
     }
-  }
+  },
+  "_id": "rrozCypcUx4",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

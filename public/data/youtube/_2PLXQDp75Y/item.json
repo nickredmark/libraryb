@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sxEQmWR7zzyR4hpLpx5wcRZ5m3w\"",
+  "etag": "fEAxVcis3Jup8hypcGiYw_0l00I",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5DNzE1RjZEMUZCMjA0RDBB",
   "snippet": {
-    "publishedAt": "2019-11-18T01:23:13.000Z",
+    "publishedAt": "2019-11-18T01:23:13Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Ep 7 Daniel Schmachtenberger – Neurohacking, Evolutionary Philosophy, and the Future of Humanity",
     "description": "",
@@ -36,5 +36,9 @@
       "kind": "youtube#video",
       "videoId": "_2PLXQDp75Y"
     }
-  }
+  },
+  "_id": "_2PLXQDp75Y",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

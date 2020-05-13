@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "XWlXFzCwv-Bw8eAUdSXjTBPQw2U",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "nLFFNpTQla0"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "SEjF5icB5O6eZ3Mn96_R18FdG8E",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi5GNjNDRDREMDQxOThCMDQ2",
   "snippet": {
-    "publishedAt": "2019-04-21T13:30:01Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2019-08-05T19:38:32Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Reality Check 2019, Jordan Greenhall",
-    "description": "In his viral hit after the Trump election 'Deep Code: Situational Assessment 2017', Jordan Greenhall sketched out a framework for understanding the nature of ...",
+    "description": "In his viral hit after the Trump election 'Deep Code: Situational Assessment 2017', Jordan Greenhall sketched out a framework for understanding the nature of the deep shifts taking place below the surface of culture. \n\nIn it, he framed the growing conflict as something closer to revolutionary war than politics as usual, with four distinct fronts. \n\nNow, over two years after that celebrated analysis, how are those predictions holding up, and what is the state of play? \n\nOriginal 2017 posting here: https://medium.com/deep-code/situational-assessment-2017-trump-edition-d189d24fc046\n\nJordan's YouTube channel: https://www.youtube.com/user/jordangreenhall\n\nFor an exclusive deep experimental members-only conversation between Jordan Greenhall, flow expert Jamie Wheal and futurist Daniel Schmachtenberger, become a Rebel Wisdom subscriber: https://www.rebelwisdom.co.uk/plans",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/nLFFNpTQla0/default.jpg",
@@ -25,10 +22,28 @@
         "url": "https://i.ytimg.com/vi/nLFFNpTQla0/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/nLFFNpTQla0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/nLFFNpTQla0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-04-21T13:30:01Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 30,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "nLFFNpTQla0"
+    }
+  },
+  "_id": "nLFFNpTQla0",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+  ]
 }

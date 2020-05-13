@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "p77UE4VOZZAUwDWbR2ivrGqj_qk",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "9QGrffjOFko"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "euWdcXQtor2MLfhguS7H3qtaw44",
+  "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5CMUM0NzY5NzdEQzlGRjAx",
   "snippet": {
-    "publishedAt": "2019-12-18T21:00:11Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2020-01-23T12:33:31Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "War on Sensemaking II, Daniel Schmachtenberger",
-    "description": "In War on Sensemaking, Daniel Schmachtenberger laid out why the 'information ecology' was so broken. It was a hugely popular film, with over 125000 views in ...",
+    "description": "In War on Sensemaking, Daniel Schmachtenberger laid out why the 'information ecology' was so broken. It was a hugely popular film, with over 125,000 views in a month.\n\nIn this sequel he talks about how information is weaponised by all sides, and how to survive in an environment where nothing can be trusted. \n\nWar on Sensemaking: https://www.youtube.com/watch?v=7LqaotiGWjQ\n\nDaniel will be at the Rebel Wisdom Festival in May 2020 - see here: https://www.rebelwisdom.co.uk/festival\n\nYou can listen to podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com/ \n\nWe also have a Rebel Wisdom Discord discussion channel: https://discord.gg/RK4MeYW",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/9QGrffjOFko/default.jpg",
@@ -27,8 +24,16 @@
         "height": 360
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-12-18T21:00:11Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt",
+    "position": 89,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "9QGrffjOFko"
+    }
+  },
+  "_id": "9QGrffjOFko",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

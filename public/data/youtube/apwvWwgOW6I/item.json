@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/i5_Gn_oj0XNwt9gsU3BHOHWba-g\"",
+  "etag": "k3bzwZrwcHfXBrt0XKjCbZkCTPU",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5DMkU4NTY1QUFGQTYwMDE3",
   "snippet": {
-    "publishedAt": "2019-11-18T01:23:41.000Z",
+    "publishedAt": "2019-11-18T01:23:41Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Daniel Schmachtenberger discussing complex problems",
     "description": "",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "apwvWwgOW6I"
     }
-  }
+  },
+  "_id": "apwvWwgOW6I",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

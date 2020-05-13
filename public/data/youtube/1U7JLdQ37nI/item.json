@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "p9eVxfI5xFogjTKI5BmHyZ2Uprk",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "1U7JLdQ37nI"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "ke7WNiI9mk2y6xSHeWK4HU-JAhQ",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi4yQUJFNUVCMzVDNjcxRTlF",
   "snippet": {
-    "publishedAt": "2019-10-23T21:32:20Z",
-    "channelId": "UCpnwZqkrPAB7O2hymAdP-QQ",
+    "publishedAt": "2019-11-08T14:32:40Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "What Does It Mean to Play Game~B? w/ Jordan Hall -- A Sensemaking Wormhole",
-    "description": "This \"Sensemaking Wormhole\" was facilitated by Jordan Hall (https://www.youtube.com/user/jordangreenhall) and was organized and hosted by Peter Limberg ...",
+    "description": "This \"Sensemaking Wormhole\" was facilitated by Jordan Hall (https://www.youtube.com/user/jordangreenhall) and was organized and hosted by Peter Limberg of the Intellectual Explorers Club (https://www.intellectualexplorers.club) in the Game B Coffee House.\n\nAbout the Game~B Coffee House (gameb.coffee)\nThe Game~B Coffeehouse (https://gameb.coffee) is an open virtual community space for workshops like this or spur-of-the-moment conversations with others that are interested in Game B. It is a Zoom room that's open and available for anyone to join 24/7 via https://gameb.coffee . \n\nTo learn more about Game B, consider looking at \"On Game~B\" from James Allen (https://twitter.com/SeamusOhAilin): https://docs.google.com/document/d/1VqIGuIafjW9WSVeBJf7jWFfuOXBiUZLWk2pqJOhNESc",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/1U7JLdQ37nI/default.jpg",
@@ -25,10 +22,28 @@
         "url": "https://i.ytimg.com/vi/1U7JLdQ37nI/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/1U7JLdQ37nI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/1U7JLdQ37nI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "GameB Coffee House",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-10-23T21:32:20Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 43,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "1U7JLdQ37nI"
+    }
+  },
+  "_id": "1U7JLdQ37nI",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+  ]
 }

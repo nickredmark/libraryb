@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
-  "etag": "uE8Gjj9-kuiBU2abQgycuTVZe34",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "awmqIySF2Gs"
-  },
+  "kind": "youtube#playlistItem",
+  "etag": "ZY85VRezKwaJ2cNcItrSg5xweWU",
+  "id": "UExwUkVoRzdHdGp0Q2g5MFFyem5NUFhTN0J4aDNMVW5QVi5EQUE1NTFDRjcwMDg0NEMz",
   "snippet": {
-    "publishedAt": "2019-06-07T14:30:02Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
-    "title": "John Vervaeke &amp; Jordan Hall: Explorations in Meaning",
-    "description": "A unique conversation between two of the most pioneering thinkers we've featured on the channel. John Vervaeke is a professor of psychology at Toronto ...",
+    "publishedAt": "2019-08-05T20:47:00Z",
+    "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
+    "title": "John Vervaeke & Jordan Hall: Explorations in Meaning",
+    "description": "A unique conversation between two of the most pioneering thinkers we've featured on the channel.\n\nJohn Vervaeke is a professor of psychology at Toronto University and creator of the cult hit YouTube series 'Awakening from the Meaning Crisis'. Jordan Hall (formerly Greenhall) is a futurist and culture hacker.\n\nIn this very meta conversation, they examine the meaning crisis, the nature of sensemaking and what they find compelling about each other's thought.\n\nRelevant links:\n\nJohn Vervaeke, Jordan Peterson & the Meaning Crisis: https://www.youtube.com/watch?v=n6RFSgjnqAQ&t=1527s\n\nJohn Vervaeke, Flow States and Wisdom: https://www.youtube.com/watch?v=5jS2AiQEz-E&t=1337s\n\nReality Check 2019, Jordan Greenhall: https://www.youtube.com/watch?v=nLFFNpTQla0&t=1390s\n\nIf you enjoyed this - we have an amazing two and a half hour emergent conversation 'Making Sense of Sensemaking', between Jordan Hall, Jamie Wheal and Daniel Schmachtenberger - available for subscribers in the members area of our website: https://www.rebelwisdom.co.uk/plans",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/awmqIySF2Gs/default.jpg",
@@ -25,10 +22,28 @@
         "url": "https://i.ytimg.com/vi/awmqIySF2Gs/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/awmqIySF2Gs/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/awmqIySF2Gs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-06-07T14:30:02Z"
-  }
+    "channelTitle": "Gwendolyn Huot",
+    "playlistId": "PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV",
+    "position": 32,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "awmqIySF2Gs"
+    }
+  },
+  "_id": "awmqIySF2Gs",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLpREhG7GtjtCh90QrznMPXS7Bxh3LUnPV"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/soW1YUqv29Koii2ABZwk2v-rw24\"",
+  "etag": "ixCV3BGjuWZS2wE6EoyxRrNLExU",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC4xM0YyM0RDNDE4REQ1NDA0",
   "snippet": {
-    "publishedAt": "2019-11-18T01:39:13.000Z",
+    "publishedAt": "2019-11-18T01:39:13Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "Dr. Andrew Huberman - The Neuroscience Of Courage & Fear",
     "description": "For full show notes visit: https://neurohacker.com/the-neuroscience-of-courage-and-fear/\nDr. Andrew Huberman joins Daniel Schmachtenberger to discuss the neuroscience behind courage and fear, what is really going on inside your brain, and what tools and techniques you can use to control and respond to fear.  Dr. Andrew Huberman Ph.D.  is a neuroscientist and Professor in the Department of Neurobiology at the Stanford University School of Medicine and runs Huberman Labs. He has made numerous important contributions to the fields of brain development, brain plasticity, and neural regeneration and repair.\n\nIn This Episode We Discuss:\n-Changing our behavioral response to fear\n-Almost dying while swimming with great white sharks\n-The positive rewards of confronting fears\n-How to increase the body’s adaptive capacity with hormesis\n-Brain areas associated with the fear response",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "se_PmcIDFww"
     }
-  }
+  },
+  "_id": "se_PmcIDFww",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

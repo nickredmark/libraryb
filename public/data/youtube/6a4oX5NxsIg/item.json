@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wKZngPyWOu8misGxU-v3diz-QUI\"",
+  "etag": "64J-By7mJVFCPHAFojF3NePETsY",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC5DQUNERDQ2NkIzRUQxNTY1",
   "snippet": {
-    "publishedAt": "2019-11-18T01:18:07.000Z",
+    "publishedAt": "2019-11-18T01:18:07Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "The Transition",
     "description": "",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "6a4oX5NxsIg"
     }
-  }
+  },
+  "_id": "6a4oX5NxsIg",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }

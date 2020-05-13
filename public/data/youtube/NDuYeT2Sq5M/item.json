@@ -1,9 +1,9 @@
 {
   "kind": "youtube#playlistItem",
-  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RKerQXyOOJHzwEO9tL2iOUO1kTo\"",
+  "etag": "Mwu3-D7bNhOIp31fIYF1FNC3mV0",
   "id": "UExwUkVoRzdHdGp0QUJOckxnNHByaTR5eVJGdUZoUUVRdC4zRjM0MkVCRTg0MkYyQTM0",
   "snippet": {
-    "publishedAt": "2019-11-18T01:21:27.000Z",
+    "publishedAt": "2019-11-18T01:21:27Z",
     "channelId": "UCPXPLSHHQIrQY3_vFsonXXA",
     "title": "The morality of animals eating other animals [Interview with Daniel Schmachtenberger]",
     "description": "http://thryvestudio.com/the-ethics-behind-animal-rights-veganism-interview-with-daniel-schmachtenberger/\n\nIn this interview with researcher and think-tank developer Daniel Schmachtenberger, we discuss some of the fundamental ethical questions and issues surrounding animal rights and veganism.",
@@ -41,5 +41,9 @@
       "kind": "youtube#video",
       "videoId": "NDuYeT2Sq5M"
     }
-  }
+  },
+  "_id": "NDuYeT2Sq5M",
+  "collections": [
+    "https://www.youtube.com/watch?v=-Y_y6DfUyhw&list=PLpREhG7GtjtABNrLg4pri4yyRFuFhQEQt"
+  ]
 }
