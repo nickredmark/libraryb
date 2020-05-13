@@ -19,7 +19,11 @@ const intersects = (arr1, arr2) => {
   return false;
 };
 
-const Main = ({ items, curators }) => {
+const intersection = (arr1, arr2) => {
+  return arr1.filter((item) => arr2.includes(item));
+};
+
+const Main = ({ items, curators, collections }) => {
   const [search, setSearch] = useState("");
   const [selectedCurators, setSelectedCurators] = useState([
     Object.keys(curators)[0],
@@ -29,18 +33,25 @@ const Main = ({ items, curators }) => {
       ? [[selectedCurators[0], Object.keys(curators[selectedCurators[0]])[0]]]
       : []
   );
+  const [selectedCollections, setSelectedCollections] = useState(
+    Object.keys(collections)
+  );
 
   const selectedCategoriesOnly = selectedCategories.map(
     ([, category]) => category
   );
 
-  const selectedCollectionsObject = {};
+  const availableCollectionsObject = {};
   for (const [curator, category] of Object.values(selectedCategories)) {
     for (const collection of curators[curator][category]) {
-      selectedCollectionsObject[collection] = true;
+      availableCollectionsObject[collection] = true;
     }
   }
-  const selectedCollections = Object.keys(selectedCollectionsObject);
+  const availableCollections = Object.keys(availableCollectionsObject);
+  const actuallySelectedCollections = intersection(
+    selectedCollections,
+    availableCollections
+  );
 
   const filteredItems = items.filter((item) => {
     const title: string = item.snippet ? item.snippet.title : item.title;
@@ -49,7 +60,7 @@ const Main = ({ items, curators }) => {
       : item.contentSnippet || "";
 
     return (
-      intersects(item.collections, selectedCollections) &&
+      intersects(item.collections, actuallySelectedCollections) &&
       (title.toLowerCase().includes(search.toLowerCase()) ||
         description.toLowerCase().includes(search.toLowerCase()))
     );
@@ -69,7 +80,7 @@ const Main = ({ items, curators }) => {
       </Head>
       <main>
         <Container>
-          <Heading>The Game B Library</Heading>
+          <Heading>The Game B Library ({filteredItems.length} results)</Heading>
           <Search search={search} setSearch={setSearch} />
           <Pills label="Curators:">
             {Object.keys(curators).map((curator) => (
@@ -103,6 +114,25 @@ const Main = ({ items, curators }) => {
                     : setSelectedCategories([
                         ...selectedCategories,
                         [curator, category],
+                      ])
+                }
+              />
+            ))}
+          </Pills>
+          <Pills label="Publications:">
+            {availableCollections.map((collection) => (
+              <Pill
+                key={collection}
+                label={collections[collection].name}
+                active={selectedCollections.includes(collection)}
+                onToggle={() =>
+                  selectedCollections.includes(collection)
+                    ? setSelectedCollections(
+                        selectedCollections.filter((p) => p !== collection)
+                      )
+                    : setSelectedCollections([
+                        ...selectedCollections,
+                        collection,
                       ])
                 }
               />
@@ -142,10 +172,14 @@ Main.getInitialProps = async ({ req }) => {
     "desc"
   );
   const curators = await (await fetch(`${origin}/data/curators.json`)).json();
+  const collections = await (
+    await fetch(`${origin}/data/collections.json`)
+  ).json();
 
   return {
     items,
     curators,
+    collections,
   };
 };
 
