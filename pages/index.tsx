@@ -29,9 +29,10 @@ const Main = ({ items, curators, collections }) => {
     Object.keys(curators)[0],
   ]);
   const [selectedCategories, setSelectedCategories] = useState(
-    selectedCurators.length
-      ? [[selectedCurators[0], Object.keys(curators[selectedCurators[0]])[0]]]
-      : []
+    Object.keys(curators).map((curator) => [
+      curator,
+      Object.keys(curators[curator])[0],
+    ])
   );
   const [selectedCollections, setSelectedCollections] = useState(
     Object.keys(collections)
@@ -92,22 +93,27 @@ const Main = ({ items, curators, collections }) => {
                 key={curator}
                 label={curator}
                 active={selectedCurators.includes(curator)}
-                onToggle={() =>
-                  selectedCurators.includes(curator)
+                canDeselect={false}
+                onToggle={() => {
+                  if (!selectedCurators.includes(curator)) {
+                    setSelectedCurators([curator]);
+                  }
+                  /*selectedCurators.includes(curator)
                     ? setSelectedCurators(
                         selectedCurators.filter((p) => p !== curator)
                       )
-                    : setSelectedCurators([...selectedCurators, curator])
-                }
+                    : setSelectedCurators([...selectedCurators, curator])*/
+                }}
               />
             ))}
           </Pills>
-          <Pills label="Collections:">
+          <Pills label={`Collections by ${selectedCurators[0]}:`}>
             {availableCategories.map(([curator, category]) => (
               <Pill
                 key={`${curator}-${category}`}
                 label={category}
                 active={selectedCategoriesOnly.includes(category)}
+                canDeselect={true}
                 onToggle={() =>
                   selectedCategoriesOnly.includes(category)
                     ? setSelectedCategories(
@@ -123,25 +129,28 @@ const Main = ({ items, curators, collections }) => {
               />
             ))}
           </Pills>
-          <Pills label="Publications:">
-            {availableCollections.map((collection) => (
-              <Pill
-                key={collection}
-                label={collections[collection].name}
-                active={selectedCollections.includes(collection)}
-                onToggle={() =>
-                  selectedCollections.includes(collection)
-                    ? setSelectedCollections(
-                        selectedCollections.filter((p) => p !== collection)
-                      )
-                    : setSelectedCollections([
-                        ...selectedCollections,
-                        collection,
-                      ])
-                }
-              />
-            ))}
-          </Pills>
+          {false && (
+            <Pills label="Publications:">
+              {availableCollections.map((collection) => (
+                <Pill
+                  key={collection}
+                  label={collections[collection].name}
+                  active={selectedCollections.includes(collection)}
+                  canDeselect={true}
+                  onToggle={() =>
+                    selectedCollections.includes(collection)
+                      ? setSelectedCollections(
+                          selectedCollections.filter((p) => p !== collection)
+                        )
+                      : setSelectedCollections([
+                          ...selectedCollections,
+                          collection,
+                        ])
+                  }
+                />
+              ))}
+            </Pills>
+          )}
           <CardList>
             {filteredItems.map((item) => {
               const img = item.snippet

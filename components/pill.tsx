@@ -7,7 +7,7 @@ export const Pills = ({ label, children }) => (
   </div>
 );
 
-export const Pill = ({ label, active, onToggle }) => (
+export const Pill = ({ label, active, canDeselect, onToggle }) => (
   <span
     onClick={onToggle}
     className={`m-1 inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 ${
@@ -15,7 +15,7 @@ export const Pill = ({ label, active, onToggle }) => (
     } cursor-pointer`}
   >
     {label}
-    {active && (
+    {canDeselect && active && (
       <button
         type="button"
         className="flex-shrink-0 -mr-0.5 ml-1.5 inline-flex text-indigo-400 focus:outline-none focus:text-indigo-200"
