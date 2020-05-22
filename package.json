@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "scrape": "env-cmd node utils/scrape"
+    "start": "next start"
   },
   "dependencies": {
     "@tailwindcss/ui": "^0.3.0",
@@ -18,15 +17,10 @@
     "next-absolute-url": "^1.2.2",
     "node-html-parser": "^1.2.16",
     "postcss-preset-env": "^6.7.0",
-    "qs": "^6.9.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-transition-group": "^4.4.1",
-    "rss-parser": "^3.8.0",
-    "tailwindcss": "^1.4.6",
-    "xml2js": "^0.4.23",
-    "youtube-api": "^2.0.10",
-    "youtube-dl": "^3.0.2"
+    "tailwindcss": "^1.4.6"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.2.0",

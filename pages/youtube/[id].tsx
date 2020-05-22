@@ -6,6 +6,7 @@ import { useState, useEffect } from "react";
 import absoluteUrl from "next-absolute-url";
 import fetch from "isomorphic-fetch";
 import moment from "moment";
+import { ORIGIN } from "../constants";
 
 const Youtube = ({ query: { id }, item, transcript }) => {
   const [player, setPlayer] = useState<any>();
@@ -76,15 +77,13 @@ const Youtube = ({ query: { id }, item, transcript }) => {
 };
 
 Youtube.getInitialProps = async ({ req, query }) => {
-  const origin = "https://librarybdata.now.sh";
-
   const item = await (
-    await fetch(`${origin}/youtube/${query.id}/item.json`)
+    await fetch(`${ORIGIN}/youtube/${query.id}/item.json`)
   ).json();
   let transcript;
   try {
     transcript = await (
-      await fetch(`${origin}/youtube/${query.id}/transcript.json`)
+      await fetch(`${ORIGIN}/youtube/${query.id}/transcript.json`)
     ).json();
   } catch (e) {}
 

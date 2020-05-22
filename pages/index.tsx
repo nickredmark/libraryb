@@ -9,6 +9,7 @@ import absoluteUrl from "next-absolute-url";
 import { Heading } from "../components/heading";
 import { Search } from "../components/form";
 import { Pill, Pills } from "../components/pill";
+import { ORIGIN } from "./constants";
 
 const intersects = (arr1, arr2) => {
   for (const item of arr1) {
@@ -22,6 +23,11 @@ const intersects = (arr1, arr2) => {
 const intersection = (arr1, arr2) => {
   return arr1.filter((item) => arr2.includes(item));
 };
+
+const getDescription = (item) =>
+  item.snippet
+    ? item.snippet.description
+    : (item.previewContent ? item.previewContent.subtitle : "") || "";
 
 const Main = ({ items, curators, collections }) => {
   const [search, setSearch] = useState("");
@@ -67,9 +73,7 @@ const Main = ({ items, curators, collections }) => {
 
   const filteredItems = items.filter((item) => {
     const title: string = item.snippet ? item.snippet.title : item.title;
-    const description = item.snippet
-      ? item.snippet.description
-      : item.contentSnippet || "";
+    const description = getDescription(item);
 
     return (
       intersects(item.collections, actuallySelectedCollections) &&
@@ -155,11 +159,11 @@ const Main = ({ items, curators, collections }) => {
             {filteredItems.map((item) => {
               const img = item.snippet
                 ? item.snippet.thumbnails.medium.url
-                : item.image;
+                : item.previewImage.id
+                ? `https://miro.medium.com/${item.previewImage.id}`
+                : "";
               const title = item.snippet ? item.snippet.title : item.title;
-              const description = item.snippet
-                ? item.snippet.description
-                : item.contentSnippet || "";
+              const description = getDescription(item);
               const url = item.snippet
                 ? `/youtube/${item._id}`
                 : `/medium/${item._id}`;
@@ -178,14 +182,13 @@ const Main = ({ items, curators, collections }) => {
 };
 
 Main.getInitialProps = async ({ req }) => {
-  const origin = "https://librarybdata.now.sh";
   const items = orderBy(
-    Object.values(await (await fetch(`${origin}/items.json`)).json()),
+    Object.values(await (await fetch(`${ORIGIN}/items.json`)).json()),
     "publishedAt",
     "desc"
   );
-  const curators = await (await fetch(`${origin}/curators.json`)).json();
-  const collections = await (await fetch(`${origin}/collections.json`)).json();
+  const curators = await (await fetch(`${ORIGIN}/curators.json`)).json();
+  const collections = await (await fetch(`${ORIGIN}/collections.json`)).json();
 
   return {
     items,
