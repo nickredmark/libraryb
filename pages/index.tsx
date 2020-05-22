@@ -9,7 +9,7 @@ import absoluteUrl from "next-absolute-url";
 import { Heading } from "../components/heading";
 import { Search } from "../components/form";
 import { Pill, Pills } from "../components/pill";
-import { ORIGIN } from "./constants";
+import { ORIGIN } from "../components/constants";
 
 const intersects = (arr1, arr2) => {
   for (const item of arr1) {
