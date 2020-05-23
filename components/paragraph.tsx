@@ -19,7 +19,7 @@ export const Paragraph = ({ paragraph, excerpt = false }) => {
         </figure>
       );
     case "P":
-      return <p>{paragraph.text}</p>;
+      return <p className="pb-2">{paragraph.text}</p>;
     case "BQ":
       return <blockquote>{paragraph.text}</blockquote>;
     case "PQ":
