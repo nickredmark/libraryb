@@ -6,7 +6,7 @@ import { useState, useEffect } from "react";
 import absoluteUrl from "next-absolute-url";
 import fetch from "isomorphic-fetch";
 import moment from "moment";
-import { ORIGIN } from "../../components/constants";
+import { ORIGIN } from "../../utils/constants";
 
 const Youtube = ({ query: { id }, item, transcript }) => {
   const [player, setPlayer] = useState<any>();

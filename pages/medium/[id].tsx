@@ -5,7 +5,7 @@ import { Heading } from "../../components/heading";
 import { useState, useEffect } from "react";
 import absoluteUrl from "next-absolute-url";
 import fetch from "isomorphic-fetch";
-import { ORIGIN } from "../../components/constants";
+import { ORIGIN } from "../../utils/constants";
 
 const Medium = ({ query, item }) => {
   return (

@@ -9,7 +9,7 @@ import absoluteUrl from "next-absolute-url";
 import { Heading } from "../components/heading";
 import { Search } from "../components/form";
 import { Pill, Pills } from "../components/pill";
-import { ORIGIN } from "../components/constants";
+import { ORIGIN } from "../utils/constants";
 
 const intersects = (arr1, arr2) => {
   for (const item of arr1) {
@@ -117,8 +117,12 @@ const Main = ({ items, curators, collections }) => {
                 key={`${curator}-${category}`}
                 label={category}
                 active={selectedCategoriesOnly.includes(category)}
-                canDeselect={true}
-                onToggle={() =>
+                canDeselect={false}
+                onToggle={() => {
+                  if (!selectedCategoriesOnly.includes(category)) {
+                    setSelectedCategories([[curator, category]]);
+                  }
+                  /*
                   selectedCategoriesOnly.includes(category)
                     ? setSelectedCategories(
                         selectedCategories.filter(
@@ -129,7 +133,8 @@ const Main = ({ items, curators, collections }) => {
                         ...selectedCategories,
                         [curator, category],
                       ])
-                }
+                      */
+                }}
               />
             ))}
           </Pills>
