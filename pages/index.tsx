@@ -4,12 +4,13 @@ import { Container } from "../components/container";
 import { List, ListItem } from "../components/list";
 import { Card, CardList } from "../components/card";
 import fetch from "isomorphic-fetch";
-import { orderBy } from "lodash";
+import { orderBy, uniq, flatMap } from "lodash";
 import absoluteUrl from "next-absolute-url";
 import { Heading } from "../components/heading";
 import { Search } from "../components/form";
 import { Pill, Pills } from "../components/pill";
 import { ORIGIN } from "../utils/constants";
+import { Paragraph } from "../components/paragraph";
 
 const intersects = (arr1, arr2) => {
   for (const item of arr1) {
@@ -24,12 +25,22 @@ const intersection = (arr1, arr2) => {
   return arr1.filter((item) => arr2.includes(item));
 };
 
-const getDescription = (item) =>
+const getDescription = (item, trunc?) =>
   item.snippet
-    ? item.snippet.description
-    : (item.previewContent ? item.previewContent.subtitle : "") || "";
+    ? trunc
+      ? truncate(item.snippet.description)
+      : item.snippet.description
+    : (item.previewContent ? (
+        <span>
+          {item.previewContent.bodyModel.paragraphs.map((p) => (
+            <Paragraph paragraph={p} excerpt={true} />
+          ))}
+        </span>
+      ) : (
+        ""
+      )) || "";
 
-const Main = ({ items, curators, collections }) => {
+const Main = ({ items, curators }) => {
   const [search, setSearch] = useState("");
   const [selectedCurators, setSelectedCurators] = useState([
     Object.keys(curators)[0],
@@ -39,9 +50,6 @@ const Main = ({ items, curators, collections }) => {
       curator,
       Object.keys(curators[curator])[0],
     ])
-  );
-  const [selectedCollections, setSelectedCollections] = useState(
-    Object.keys(collections)
   );
 
   const selectedCategoriesOnly = selectedCategories.map(
@@ -59,24 +67,29 @@ const Main = ({ items, curators, collections }) => {
       selectedCategories.some(([cu, ca]) => curator === cu && category === ca)
   );
 
-  const availableCollectionsObject = {};
-  for (const [curator, category] of Object.values(actuallySelectedCategories)) {
-    for (const collection of curators[curator][category]) {
-      availableCollectionsObject[collection] = true;
-    }
-  }
-  const availableCollections = Object.keys(availableCollectionsObject);
-  const actuallySelectedCollections = intersection(
-    selectedCollections,
-    availableCollections
+  const resources = uniq(
+    flatMap(
+      Object.values(actuallySelectedCategories),
+      ([curator, category]) => curators[curator][category]
+    )
   );
+  const selectedItems = resources
+    .filter((r) => r.includes("medium.com"))
+    .map((i) => i.split("-")[i.split("-").length - 1]);
 
   const filteredItems = items.filter((item) => {
     const title: string = item.snippet ? item.snippet.title : item.title;
-    const description = getDescription(item);
+    const description = item.snippet
+      ? truncate(item.snippet.description)
+      : (item.previewContent
+          ? item.previewContent.bodyModel.paragraphs
+              .map((p) => p.text)
+              .join(" ")
+          : "") || "";
 
     return (
-      intersects(item.collections, actuallySelectedCollections) &&
+      (selectedItems.includes(item.id) ||
+        intersects(item.collections, resources)) &&
       (title.toLowerCase().includes(search.toLowerCase()) ||
         description.toLowerCase().includes(search.toLowerCase()))
     );
@@ -101,6 +114,9 @@ const Main = ({ items, curators, collections }) => {
                 onToggle={() => {
                   if (!selectedCurators.includes(curator)) {
                     setSelectedCurators([curator]);
+                    setSelectedCategories([
+                      [curator, Object.keys(curators[curator])[0]],
+                    ]);
                   }
                   /*selectedCurators.includes(curator)
                     ? setSelectedCurators(
@@ -138,43 +154,21 @@ const Main = ({ items, curators, collections }) => {
               />
             ))}
           </Pills>
-          {false && (
-            <Pills label="Publications:">
-              {availableCollections.map((collection) => (
-                <Pill
-                  key={collection}
-                  label={collections[collection].name}
-                  active={selectedCollections.includes(collection)}
-                  canDeselect={true}
-                  onToggle={() =>
-                    selectedCollections.includes(collection)
-                      ? setSelectedCollections(
-                          selectedCollections.filter((p) => p !== collection)
-                        )
-                      : setSelectedCollections([
-                          ...selectedCollections,
-                          collection,
-                        ])
-                  }
-                />
-              ))}
-            </Pills>
-          )}
           <CardList>
             {filteredItems.map((item) => {
               const img = item.snippet
                 ? item.snippet.thumbnails.medium.url
                 : item.previewImage.id
-                ? `https://miro.medium.com/${item.previewImage.id}`
+                ? `https://miro.medium.com/max/320/${item.previewImage.id}`
                 : "";
               const title = item.snippet ? item.snippet.title : item.title;
-              const description = getDescription(item);
+              const description = getDescription(item, true);
               const url = item.snippet
                 ? `/youtube/${item._id}`
                 : `/medium/${item._id}`;
               return (
                 <Card key={url} img={img} title={title} href={url}>
-                  {truncate(description)}
+                  {description}
                 </Card>
               );
             })}
@@ -193,12 +187,10 @@ Main.getInitialProps = async ({ req }) => {
     "desc"
   );
   const curators = await (await fetch(`${ORIGIN}/curators.json`)).json();
-  const collections = await (await fetch(`${ORIGIN}/collections.json`)).json();
 
   return {
     items,
     curators,
-    collections,
   };
 };
 
