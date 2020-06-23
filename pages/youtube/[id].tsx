@@ -50,7 +50,7 @@ const Youtube = ({ query: { id }, item, transcript }) => {
             <p className="p-2">{item.snippet.description}</p>
           </div>
           {transcript && (
-            <div className="flex-auto h-64 max-h-screen overflow-auto">
+            <div className="flex-auto max-h-screen overflow-auto">
               <ul>
                 {transcript.map((line, i) => (
                   <div
@@ -61,7 +61,7 @@ const Youtube = ({ query: { id }, item, transcript }) => {
                     }
                     className="flex cursor-pointer"
                   >
-                    <div className="p-2 text-xs align-baseline">
+                    <div className="p-2 text-xs align-baseline select-none">
                       {line.begin} - {line.end}
                     </div>
                     <div className="p-2">{line.text}</div>
