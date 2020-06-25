@@ -100,9 +100,9 @@ const Main = ({ items, curators }) => {
       <Head>
         <title>Game B Library</title>
       </Head>
-      <main>
-        <Container>
-          <Heading>The Game B Library ({filteredItems.length} results)</Heading>
+      <Container>
+        <Heading>The Game B Library ({filteredItems.length} results)</Heading>
+        <div className="flex-shrink overflow-auto">
           <Search search={search} setSearch={setSearch} />
           <Pills label="Curators:">
             {Object.keys(curators).map((curator) => (
@@ -173,9 +173,8 @@ const Main = ({ items, curators }) => {
               );
             })}
           </CardList>
-        </Container>
-      </main>
-      <footer></footer>
+        </div>
+      </Container>
     </>
   );
 };
