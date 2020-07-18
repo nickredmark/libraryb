@@ -36,6 +36,12 @@ const getDescription = (item, trunc?) =>
             <Paragraph paragraph={p} excerpt={true} />
           ))}
         </span>
+      ) : item.description ? (
+        trunc ? (
+          truncate(item.description)
+        ) : (
+          item.description
+        )
       ) : (
         ""
       )) || "";
@@ -78,7 +84,9 @@ const Main = ({ items, curators }) => {
     .map((i) => i.split("-")[i.split("-").length - 1]);
 
   const filteredItems = items.filter((item) => {
-    const title: string = item.snippet ? item.snippet.title : item.title;
+    const title: string = item.snippet
+      ? item.snippet.title
+      : item.title || item.name;
     const description = item.snippet
       ? truncate(item.snippet.description)
       : (item.previewContent
@@ -158,13 +166,19 @@ const Main = ({ items, curators }) => {
             {filteredItems.map((item) => {
               const img = item.snippet
                 ? item.snippet.thumbnails.medium.url
-                : item.previewImage.id
+                : item.previewImage && item.previewImage.id
                 ? `https://miro.medium.com/max/320/${item.previewImage.id}`
+                : item.pictures
+                ? item.pictures.sizes.find((p) => p.width > 320).link
                 : "";
-              const title = item.snippet ? item.snippet.title : item.title;
+              const title = item.snippet
+                ? item.snippet.title
+                : item.title || item.name;
               const description = getDescription(item, true);
               const url = item.snippet
                 ? `/youtube/${item._id}`
+                : item.type === "video"
+                ? `/vimeo/${item._id}`
                 : `/medium/${item._id}`;
               return (
                 <Card key={url} img={img} title={title} href={url}>

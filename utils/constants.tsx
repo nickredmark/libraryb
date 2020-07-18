@@ -1,1 +1,1 @@
-export const ORIGIN = "https://librarybdata.now.sh";
+export const ORIGIN = "http://localhost:5000"; // "https://librarybdata.now.sh";
