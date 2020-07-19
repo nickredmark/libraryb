@@ -38,12 +38,16 @@ const Nav = ({ route }) => {
             <NavItem active={route === "/"} href="/">
               Home
             </NavItem>
+            <NavItem active={route === "/search"} href="/search">
+              Search
+            </NavItem>
           </SubNav>
         </div>
       </div>
       {showMobileNav && (
         <MobileNav show={showMobileNav} setShow={setShowMobileNav}>
           <MobileNavItem href="/">Home</MobileNavItem>
+          <MobileNavItem href="/search">Search</MobileNavItem>
         </MobileNav>
       )}
     </div>

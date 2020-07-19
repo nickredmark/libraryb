@@ -11,6 +11,7 @@ import { Search } from "../components/form";
 import { Pill, Pills } from "../components/pill";
 import { ORIGIN } from "../utils/constants";
 import { Paragraph } from "../components/paragraph";
+import { truncate, ItemCard } from "../components/item-card";
 
 const intersects = (arr1, arr2) => {
   for (const item of arr1) {
@@ -24,27 +25,6 @@ const intersects = (arr1, arr2) => {
 const intersection = (arr1, arr2) => {
   return arr1.filter((item) => arr2.includes(item));
 };
-
-const getDescription = (item, trunc?) =>
-  item.snippet
-    ? trunc
-      ? truncate(item.snippet.description)
-      : item.snippet.description
-    : (item.previewContent ? (
-        <span>
-          {item.previewContent.bodyModel.paragraphs.map((p) => (
-            <Paragraph paragraph={p} excerpt={true} />
-          ))}
-        </span>
-      ) : item.description ? (
-        trunc ? (
-          truncate(item.description)
-        ) : (
-          item.description
-        )
-      ) : (
-        ""
-      )) || "";
 
 const Main = ({ items, curators }) => {
   const [search, setSearch] = useState("");
@@ -109,9 +89,18 @@ const Main = ({ items, curators }) => {
         <title>Game B Library</title>
       </Head>
       <Container>
-        <Heading>The Game B Library ({filteredItems.length} results)</Heading>
+        <Heading>The Game B Library</Heading>
         <div className="flex-shrink overflow-auto">
-          <Search search={search} setSearch={setSearch} />
+          <Search
+            search={search}
+            setSearch={setSearch}
+            onSubmit={(e) => {
+              e.preventDefault();
+              window.location.href = `/search?search=${encodeURIComponent(
+                search
+              )}`;
+            }}
+          />
           <Pills label="Curators:">
             {Object.keys(curators).map((curator) => (
               <Pill
@@ -162,30 +151,13 @@ const Main = ({ items, curators }) => {
               />
             ))}
           </Pills>
+          <div className="m-2">
+            Showing {filteredItems.length} / {items.length} entries:
+          </div>
           <CardList>
-            {filteredItems.map((item) => {
-              const img = item.snippet
-                ? item.snippet.thumbnails.medium.url
-                : item.previewImage && item.previewImage.id
-                ? `https://miro.medium.com/max/320/${item.previewImage.id}`
-                : item.pictures
-                ? item.pictures.sizes.find((p) => p.width > 320).link
-                : "";
-              const title = item.snippet
-                ? item.snippet.title
-                : item.title || item.name;
-              const description = getDescription(item, true);
-              const url = item.snippet
-                ? `/youtube/${item._id}`
-                : item.type === "video"
-                ? `/vimeo/${item._id}`
-                : `/medium/${item._id}`;
-              return (
-                <Card key={url} img={img} title={title} href={url}>
-                  {description}
-                </Card>
-              );
-            })}
+            {filteredItems.map((item) => (
+              <ItemCard key={item._id} item={item} />
+            ))}
           </CardList>
         </div>
       </Container>
@@ -208,13 +180,3 @@ Main.getInitialProps = async ({ req }) => {
 };
 
 export default Main;
-
-const LIMIT = 100;
-
-const truncate = (text) => {
-  if (text.length <= LIMIT) {
-    return text;
-  }
-
-  return `${text.substr(0, LIMIT)}...`;
-};
