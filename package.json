@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@mdx-js/loader": "^1.6.11",
+    "@next/mdx": "^9.4.4",
     "@tailwindcss/ui": "^0.3.0",
     "@types/qs": "^6.9.2",
     "elasticsearch": "^16.7.1",
