@@ -41,6 +41,9 @@ const Nav = ({ route }) => {
             <NavItem active={route === "/search"} href="/search">
               Search
             </NavItem>
+            <NavItem active={route === "/about"} href="/about">
+              About
+            </NavItem>
           </SubNav>
         </div>
       </div>
@@ -48,6 +51,7 @@ const Nav = ({ route }) => {
         <MobileNav show={showMobileNav} setShow={setShowMobileNav}>
           <MobileNavItem href="/">Home</MobileNavItem>
           <MobileNavItem href="/search">Search</MobileNavItem>
+          <MobileNavItem href="/about">About</MobileNavItem>
         </MobileNav>
       )}
     </div>
