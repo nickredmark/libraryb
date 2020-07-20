@@ -3,7 +3,7 @@ import fetch from "isomorphic-fetch";
 import absoluteUrl from "next-absolute-url";
 import { Card, CardList } from "../components/card";
 import { orderBy, uniq, flatMap } from "lodash";
-import { ORIGIN } from "../utils/constants";
+import { DATA_ORIGIN } from "../utils/constants";
 import { ItemCard } from "../components/item-card";
 import Head from "next/head";
 import { Container } from "../components/container";

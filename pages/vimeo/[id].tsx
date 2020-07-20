@@ -6,7 +6,7 @@ import { useState, useEffect } from "react";
 import absoluteUrl from "next-absolute-url";
 import fetch from "isomorphic-fetch";
 import moment from "moment";
-import { ORIGIN } from "../../utils/constants";
+import { DATA_ORIGIN } from "../../utils/constants";
 
 const Vimeo = ({ query: { id }, item, transcript, plainTranscript }) => {
   return (
@@ -29,7 +29,7 @@ const Vimeo = ({ query: { id }, item, transcript, plainTranscript }) => {
 
 Vimeo.getInitialProps = async ({ req, query }) => {
   const item = await (
-    await fetch(`${ORIGIN}/vimeo/${query.id}/item.json`)
+    await fetch(`${DATA_ORIGIN}/vimeo/${query.id}/item.json`)
   ).json();
 
   return { query, item };

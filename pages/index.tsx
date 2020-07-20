@@ -9,7 +9,7 @@ import absoluteUrl from "next-absolute-url";
 import { Heading } from "../components/heading";
 import { Search } from "../components/form";
 import { Pill, Pills } from "../components/pill";
-import { ORIGIN } from "../utils/constants";
+import { DATA_ORIGIN } from "../utils/constants";
 import { Paragraph } from "../components/paragraph";
 import { truncate, ItemCard } from "../components/item-card";
 
@@ -167,11 +167,11 @@ const Main = ({ items, curators }) => {
 
 Main.getInitialProps = async ({ req }) => {
   const items = orderBy(
-    Object.values(await (await fetch(`${ORIGIN}/items.json`)).json()),
+    Object.values(await (await fetch(`${DATA_ORIGIN}/items.json`)).json()),
     "publishedAt",
     "desc"
   );
-  const curators = await (await fetch(`${ORIGIN}/curators.json`)).json();
+  const curators = await (await fetch(`${DATA_ORIGIN}/curators.json`)).json();
 
   return {
     items,

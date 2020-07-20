@@ -1,12 +1,12 @@
 import { useEffect, useState } from "react";
-import { ORIGIN } from "../utils/constants";
+import { DATA_ORIGIN } from "../utils/constants";
 
 export const Seed = () => {
   const [seed, setSeed] = useState([]);
 
   useEffect(() => {
     (async () => {
-      setSeed(await (await fetch(`${ORIGIN}/seed.json`)).json());
+      setSeed(await (await fetch(`${DATA_ORIGIN}/seed.json`)).json());
     })();
   }, []);
 

@@ -5,7 +5,7 @@ import { Heading } from "../../components/heading";
 import { useState, useEffect } from "react";
 import absoluteUrl from "next-absolute-url";
 import fetch from "isomorphic-fetch";
-import { ORIGIN } from "../../utils/constants";
+import { DATA_ORIGIN } from "../../utils/constants";
 import { Paragraph } from "../../components/paragraph";
 
 const Medium = ({ query, item }) => {
@@ -26,7 +26,7 @@ const Medium = ({ query, item }) => {
 
 Medium.getInitialProps = async ({ req, query }) => {
   const item = await (
-    await fetch(`${ORIGIN}/medium/${query.id}/item.json`)
+    await fetch(`${DATA_ORIGIN}/medium/${query.id}/item.json`)
   ).json();
 
   return { query, item };

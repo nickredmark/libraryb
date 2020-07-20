@@ -1,1 +1,1 @@
-export const ORIGIN = "https://librarybdata.now.sh";
+export const DATA_ORIGIN = "https://data.gameblibrary.com";
