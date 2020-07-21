@@ -105,9 +105,12 @@ Youtube.getInitialProps = async ({ req, query }) => {
   } catch (e) {}
   let plainTranscript;
   try {
-    plainTranscript = await (
-      await fetch(`${DATA_ORIGIN}/youtube/${query.id}/transcript.txt`)
-    ).text();
+    const res = await fetch(
+      `${DATA_ORIGIN}/youtube/${query.id}/transcript.txt`
+    );
+    if (res.status === 200) {
+      plainTranscript = await res.text();
+    }
   } catch (e) {}
 
   return { query, item, transcript, plainTranscript };
