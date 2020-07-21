@@ -41,7 +41,7 @@ export default ({ search: initialSearch, results }) => {
                 return (
                   <Card
                     key={result._id}
-                    href={result._source.url}
+                    href={`${result._source.type.split("-")[0]}/${result._id}`}
                     img={result._source.img}
                     title={result._source.title}
                   >
