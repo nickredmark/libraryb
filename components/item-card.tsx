@@ -1,27 +1,29 @@
 import { Card } from "./card";
 import { Paragraph } from "./paragraph";
 
-export const ItemCard = ({ item }) => {
-  const img = item.snippet
+export const ItemCard = ({ item }) => (
+  <Card img={getImg(item)} title={getTitle(item)} href={getUrl(item)}>
+    {getDescription(item, true)}
+  </Card>
+);
+
+export const getImg = (item) =>
+  item.snippet
     ? item.snippet.thumbnails.medium.url
     : item.previewImage && item.previewImage.id
     ? `https://miro.medium.com/max/320/${item.previewImage.id}`
     : item.pictures
     ? item.pictures.sizes.find((p) => p.width > 320).link
     : "";
-  const title = item.snippet ? item.snippet.title : item.title || item.name;
-  const description = getDescription(item, true);
-  const url = item.snippet
-    ? `/youtube/${item._id}`
-    : item.type === "video"
-    ? `/vimeo/${item._id}`
-    : `/medium/${item._id}`;
-  return (
-    <Card img={img} title={title} href={url}>
-      {description}
-    </Card>
-  );
-};
+
+export const getTitle = (item) =>
+  item.snippet
+    ? item.snippet.title
+    : item.title
+    ? item.title.rendered || item.title
+    : item.name;
+
+export const getUrl = (item) => `${item.type.split("-")[0]}/${item._id}`;
 
 const getDescription = (item, trunc?) =>
   item.snippet

@@ -29,7 +29,7 @@ const Nav = ({ route }) => {
       <div className="mx-auto px-4 sm:px-6">
         <div className="flex justify-between items-center py-6 md:justify-start md:space-x-10">
           <div className="lg:w-0 lg:flex-1">
-            <a href="/" className="flex">
+            <a href="/" className="flex text-black text-lg">
               Game B Library
             </a>
           </div>
@@ -37,6 +37,9 @@ const Nav = ({ route }) => {
           <SubNav>
             <NavItem active={route === "/"} href="/">
               Home
+            </NavItem>
+            <NavItem active={route === "/glossary"} href="/glossary">
+              Glossary
             </NavItem>
             <NavItem active={route === "/search"} href="/search">
               Search
@@ -50,6 +53,7 @@ const Nav = ({ route }) => {
       {showMobileNav && (
         <MobileNav show={showMobileNav} setShow={setShowMobileNav}>
           <MobileNavItem href="/">Home</MobileNavItem>
+          <MobileNavItem href="/glossary">Glossary</MobileNavItem>
           <MobileNavItem href="/search">Search</MobileNavItem>
           <MobileNavItem href="/about">About</MobileNavItem>
         </MobileNav>

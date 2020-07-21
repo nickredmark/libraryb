@@ -86,10 +86,10 @@ const Main = ({ items, curators }) => {
   return (
     <>
       <Head>
-        <title>Game B Library</title>
+        <title>The Game~B Library</title>
       </Head>
       <Container>
-        <Heading>The Game B Library</Heading>
+        <Heading>The Game~B Library</Heading>
         <div className="flex-shrink overflow-auto">
           <Search
             search={search}
