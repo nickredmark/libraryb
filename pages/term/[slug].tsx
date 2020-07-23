@@ -11,7 +11,6 @@ import absoluteUrl from "next-absolute-url";
 import { SearchResults } from "../../components/search";
 
 const Document = ({ items, term, data, searchResults }) => {
-  console.log(data);
   return (
     <>
       <Head>

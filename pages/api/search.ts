@@ -11,7 +11,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   const result: SearchResponse<{}> = await client.search({
     index,
     q: `"${req.query.search as string}"`,
-    size: 50,
+    size: 30,
     // sort: [
     //   {
     //     publishedAt: "desc",

@@ -20,7 +20,6 @@ const Document = ({ item }) => {
 };
 
 Document.getInitialProps = async ({ req, query }) => {
-  console.log(`${DATA_ORIGIN}/blog/${query.blog}/${query.id}/item.json`);
   const item = await (
     await fetch(`${DATA_ORIGIN}/blog/${query.blog}/${query.id}/item.json`)
   ).json();
