@@ -10,6 +10,7 @@ import { Container } from "../components/container";
 import { Heading } from "../components/heading";
 import { useState } from "react";
 import { Search } from "../components/form";
+import { SearchResults } from "../components/search";
 
 export default ({ search: initialSearch, results }) => {
   const [search, setSearch] = useState(initialSearch);
@@ -35,31 +36,7 @@ export default ({ search: initialSearch, results }) => {
               )}`;
             }}
           />
-          <CardList>
-            {results &&
-              results.hits.hits.map((result) => {
-                return (
-                  <Card
-                    key={result._id}
-                    href={`${result._source.type.split("-")[0]}/${result._id}`}
-                    img={result._source.img}
-                    title={result._source.title}
-                  >
-                    {(
-                      result.highlight.content ||
-                      result.highlight.description ||
-                      result.highlight.title
-                    )?.map((highlight) => (
-                      <div className="m-4 highlight">
-                        ...
-                        <span dangerouslySetInnerHTML={{ __html: highlight }} />
-                        ...
-                      </div>
-                    ))}
-                  </Card>
-                );
-              })}
-          </CardList>
+          <SearchResults results={results} />
         </div>
       </Container>
     </>

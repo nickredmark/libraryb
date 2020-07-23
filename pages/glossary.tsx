@@ -11,6 +11,7 @@ import { Button } from "../components/button";
 import { DATA_ORIGIN } from "../utils/constants";
 import { ItemCard } from "../components/item-card";
 import { Quote } from "../components/quote";
+import { Term } from "../components/term";
 
 type Term = {
   synonyms?: string[];
@@ -30,7 +31,9 @@ export default ({ items, glossary }) => {
         for (const term of terms) {
           glossaryById[term] = {
             ...glossary[curator][group][term],
-            related: terms.filter((t) => t !== term),
+            related: terms
+              .filter((t) => t !== term)
+              .filter((term) => glossary[curator][group][term].quotes),
           };
         }
       }
@@ -88,66 +91,6 @@ export default ({ items, glossary }) => {
         </div>
       </Container>
     </>
-  );
-};
-
-const Term = ({ items, term, data }) => {
-  const [open, setOpen] = useState(false);
-  return (
-    <div className="mb-4">
-      <div
-        className="font-bold text-lg cursor-pointer"
-        onClick={() => setOpen(!open)}
-      >
-        <span className="text-xs w-4">{open ? "▼" : "►"}</span> {term}
-      </div>
-      {open && (
-        <div className="mt-4 ml-4 border-gray-200 border-b clearfix">
-          {data.synonyms && (
-            <p>
-              Synonyms:{" "}
-              {data.synonyms.map((synonym, i) => (
-                <>
-                  {i > 0 && ", "}
-                  <em>{synonym}</em>
-                </>
-              ))}
-            </p>
-          )}
-          {data.related.length > 0 && (
-            <p>
-              Related:{" "}
-              {data.related.map((related, i) => (
-                <>
-                  {i > 0 && ", "}
-                  <a
-                    className="text-black font-bold"
-                    href={`?search=${related}`}
-                  >
-                    {related}
-                  </a>
-                </>
-              ))}
-            </p>
-          )}
-          {data.quotes && (
-            <div>
-              {data.quotes.map((quote, i) => (
-                <Quote key={i} item={items[quote.item]} quote={quote.quote} />
-              ))}
-            </div>
-          )}
-          <p>
-            <a
-              className="text-gray-400 underline text-sm"
-              href={`/search?search=${term}`}
-            >
-              full-text search for "{term}"
-            </a>
-          </p>
-        </div>
-      )}
-    </div>
   );
 };
 
