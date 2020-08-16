@@ -1,10 +1,10 @@
 import Head from "next/head";
-import { useRef, useState } from "react";
+import { useRef, useState, FC } from "react";
 import { Container } from "../components/container";
 import { List, ListItem } from "../components/list";
 import { Card, CardList } from "../components/card";
 import fetch from "isomorphic-fetch";
-import { orderBy, uniq, flatMap } from "lodash";
+import { orderBy, uniq, flatMap, Dictionary } from "lodash";
 import absoluteUrl from "next-absolute-url";
 import { Heading } from "../components/heading";
 import { Search } from "../components/form";
@@ -12,6 +12,7 @@ import { Pill, Pills } from "../components/pill";
 import { DATA_ORIGIN } from "../utils/constants";
 import { Paragraph } from "../components/paragraph";
 import { truncate, ItemCard } from "../components/item-card";
+import { Item } from "../models/item";
 
 const intersects = (arr1, arr2) => {
   for (const item of arr1) {
@@ -26,7 +27,10 @@ const intersection = (arr1, arr2) => {
   return arr1.filter((item) => arr2.includes(item));
 };
 
-const Main = ({ items, curators }) => {
+const Main: FC<{
+  items: Item[];
+  curators: Dictionary<Dictionary<string[]>>;
+}> = ({ items, curators }) => {
   const [search, setSearch] = useState("");
   const [selectedCurators, setSelectedCurators] = useState([
     Object.keys(curators)[0],
@@ -64,19 +68,11 @@ const Main = ({ items, curators }) => {
     .map((i) => i.split("-")[i.split("-").length - 1]);
 
   const filteredItems = items.filter((item) => {
-    const title: string = item.snippet
-      ? item.snippet.title
-      : item.title || item.name;
-    const description = item.snippet
-      ? truncate(item.snippet.description)
-      : (item.previewContent
-          ? item.previewContent.bodyModel.paragraphs
-              .map((p) => p.text)
-              .join(" ")
-          : "") || "";
+    const title: string = item.title;
+    const description = truncate(item.description);
 
     return (
-      (selectedItems.includes(item.id) ||
+      (selectedItems.includes(item._id) ||
         intersects(item.collections, resources)) &&
       (title.toLowerCase().includes(search.toLowerCase()) ||
         description.toLowerCase().includes(search.toLowerCase()))
@@ -165,8 +161,8 @@ const Main = ({ items, curators }) => {
   );
 };
 
-Main.getInitialProps = async ({ req }) => {
-  const items = orderBy(
+export const getServerSideProps = async () => {
+  const items: Item[] = orderBy(
     Object.values(await (await fetch(`${DATA_ORIGIN}/items.json`)).json()),
     "publishedAt",
     "desc"
@@ -174,8 +170,10 @@ Main.getInitialProps = async ({ req }) => {
   const curators = await (await fetch(`${DATA_ORIGIN}/curators.json`)).json();
 
   return {
-    items,
-    curators,
+    props: {
+      items,
+      curators,
+    },
   };
 };
 

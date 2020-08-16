@@ -1,8 +1,14 @@
-import { useState } from "react";
+import { useState, FC } from "react";
 import { Quote } from "./quote";
 import slugify from "slugify";
+import { Dictionary } from "lodash";
+import { Item } from "../models/item";
 
-export const Term = ({ items, term, data }) => {
+export const Term: FC<{ items: Dictionary<Item>; term: string; data: any }> = ({
+  items,
+  term,
+  data,
+}) => {
   const [open, setOpen] = useState(false);
   return (
     <div className="mb-4">
@@ -24,22 +30,22 @@ export const Term = ({ items, term, data }) => {
   );
 };
 
-export const TermBody = ({
-  className = undefined,
-  term,
-  data,
-  items,
-  page = false,
-}) => (
+export const TermBody: FC<{
+  className: string;
+  term: string;
+  data: any;
+  items: Dictionary<Item>;
+  page?: boolean;
+}> = ({ className = undefined, term, data, items, page = false }) => (
   <div className={className}>
     {data.synonyms && (
       <p>
         Synonyms:{" "}
         {data.synonyms.map((synonym, i) => (
-          <>
+          <span key={i}>
             {i > 0 && ", "}
             <em>{synonym}</em>
-          </>
+          </span>
         ))}
       </p>
     )}
@@ -47,7 +53,7 @@ export const TermBody = ({
       <p>
         Related:{" "}
         {data.related.map((related, i) => (
-          <>
+          <span key={i}>
             {i > 0 && ", "}
             <a
               className="text-black font-bold"
@@ -55,7 +61,7 @@ export const TermBody = ({
             >
               {related}
             </a>
-          </>
+          </span>
         ))}
       </p>
     )}

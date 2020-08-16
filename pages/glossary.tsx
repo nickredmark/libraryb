@@ -1,5 +1,5 @@
 import fetch from "isomorphic-fetch";
-import { useState, useMemo } from "react";
+import { useState, useMemo, FC } from "react";
 import { orderBy, Dictionary } from "lodash";
 import { Card, CardList } from "../components/card";
 import Head from "next/head";
@@ -12,12 +12,18 @@ import { DATA_ORIGIN } from "../utils/constants";
 import { ItemCard } from "../components/item-card";
 import { Quote } from "../components/quote";
 import { Term } from "../components/term";
+import { Item } from "../models/item";
 
 type Term = {
   synonyms?: string[];
 };
 
-export default ({ items, glossary }) => {
+const Glossary: FC<{
+  items: Dictionary<Item>;
+  glossary: Dictionary<
+    Dictionary<Dictionary<{ quotes: { item: string; quote: string }[] }>>
+  >;
+}> = ({ items, glossary }) => {
   const router = useRouter();
   const initialSearch = (router.query.search as string) || "";
   const [search, setSearch] = useState(initialSearch);
@@ -93,6 +99,8 @@ export default ({ items, glossary }) => {
     </>
   );
 };
+
+export default Glossary;
 
 export const getServerSideProps = async () => {
   const glossary = await (await fetch(`${DATA_ORIGIN}/glossary.json`)).json();

@@ -40,6 +40,8 @@ export const Paragraph = ({ paragraph, excerpt = false }) => {
       return null;
     case "IFRAME":
       return <iframe src={paragraph.iframe.mediaResource.href} />;
+    case "PRE":
+      return <blockquote className="pb-2">{paragraph.text}</blockquote>;
     default:
       console.log(paragraph);
       throw new Error(`Unknown paragraph ${paragraph.type}`);
