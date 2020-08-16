@@ -1,18 +1,16 @@
 import Head from "next/head";
-import { useRef, useState, FC } from "react";
+import { FC } from "react";
 import { Container } from "../components/container";
-import { List, ListItem } from "../components/list";
-import { Card, CardList } from "../components/card";
+import { CardList } from "../components/card";
 import fetch from "isomorphic-fetch";
 import { orderBy, uniq, flatMap, Dictionary } from "lodash";
-import absoluteUrl from "next-absolute-url";
 import { Heading } from "../components/heading";
 import { Search } from "../components/form";
 import { Pill, Pills } from "../components/pill";
 import { DATA_ORIGIN } from "../utils/constants";
-import { Paragraph } from "../components/paragraph";
 import { truncate, ItemCard } from "../components/item-card";
 import { Item } from "../models/item";
+import { useRouterState } from "../utils/router";
 
 const intersects = (arr1, arr2) => {
   for (const item of arr1) {
@@ -31,16 +29,19 @@ const Main: FC<{
   items: Item[];
   curators: Dictionary<Dictionary<string[]>>;
 }> = ({ items, curators }) => {
-  const [search, setSearch] = useState("");
-  const [selectedCurators, setSelectedCurators] = useState([
-    Object.keys(curators)[0],
-  ]);
-  const [selectedCategories, setSelectedCategories] = useState(
-    Object.keys(curators).map((curator) => [
-      curator,
-      Object.keys(curators[curator])[0],
-    ])
-  );
+  const [query, updateQuery] = useRouterState({
+    search: "",
+    curators: Object.keys(curators)[0],
+    categories: Object.keys(curators)
+      .map((curator) => `${curator}-${Object.keys(curators[curator])[0]}`)
+      .join("--"),
+  });
+  const search = query.search;
+
+  const selectedCurators = query.curators.split("-");
+  const selectedCategories = query.categories
+    .split("--")
+    .map((category) => category.split("-"));
 
   const selectedCategoriesOnly = selectedCategories.map(
     ([, category]) => category
@@ -89,7 +90,7 @@ const Main: FC<{
         <div className="flex-shrink overflow-auto">
           <Search
             search={search}
-            setSearch={setSearch}
+            setSearch={(search) => updateQuery({ search })}
             onSubmit={(e) => {
               e.preventDefault();
               window.location.href = `/search?search=${encodeURIComponent(
@@ -106,10 +107,12 @@ const Main: FC<{
                 canDeselect={false}
                 onToggle={() => {
                   if (!selectedCurators.includes(curator)) {
-                    setSelectedCurators([curator]);
-                    setSelectedCategories([
-                      [curator, Object.keys(curators[curator])[0]],
-                    ]);
+                    updateQuery({
+                      curators: curator,
+                      categories: `${curator}-${
+                        Object.keys(curators[curator])[0]
+                      }`,
+                    });
                   }
                   /*selectedCurators.includes(curator)
                     ? setSelectedCurators(
@@ -129,7 +132,9 @@ const Main: FC<{
                 canDeselect={false}
                 onToggle={() => {
                   if (!selectedCategoriesOnly.includes(category)) {
-                    setSelectedCategories([[curator, category]]);
+                    updateQuery({
+                      categories: `${curator}-${category}`,
+                    });
                   }
                   /*
                   selectedCategoriesOnly.includes(category)

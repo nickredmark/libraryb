@@ -1,18 +1,14 @@
 import fetch from "isomorphic-fetch";
-import { useState, useMemo, FC } from "react";
-import { orderBy, Dictionary } from "lodash";
-import { Card, CardList } from "../components/card";
+import { useMemo, FC } from "react";
+import { Dictionary } from "lodash";
 import Head from "next/head";
 import { Container } from "../components/container";
 import { Heading } from "../components/heading";
 import { Search } from "../components/form";
-import { useRouter } from "next/router";
-import { Button } from "../components/button";
 import { DATA_ORIGIN } from "../utils/constants";
-import { ItemCard } from "../components/item-card";
-import { Quote } from "../components/quote";
 import { Term } from "../components/term";
 import { Item } from "../models/item";
+import { useRouterState } from "../utils/router";
 
 type Term = {
   synonyms?: string[];
@@ -24,9 +20,8 @@ const Glossary: FC<{
     Dictionary<Dictionary<{ quotes: { item: string; quote: string }[] }>>
   >;
 }> = ({ items, glossary }) => {
-  const router = useRouter();
-  const initialSearch = (router.query.search as string) || "";
-  const [search, setSearch] = useState(initialSearch);
+  const [query, updateQuery] = useRouterState({ search: "" });
+  const search = query.search;
   const alphabetical = useMemo<Dictionary<Term>>(() => {
     const glossaryById = {};
     for (const curator of Object.keys(glossary)) {
@@ -74,10 +69,7 @@ const Glossary: FC<{
         <div className="flex-shrink overflow-auto">
           <Search
             search={search}
-            setSearch={async (search) => {
-              router.push(`${router.pathname}?search=${search}`);
-              setSearch(search);
-            }}
+            setSearch={async (search) => updateQuery({ search })}
             onSubmit={(e) => {
               e.preventDefault();
               window.location.href = `/search?search=${encodeURIComponent(
