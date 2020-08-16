@@ -1,3 +1,5 @@
+import { unescape } from "lodash";
+
 export const CardList = ({ children }) => (
   <div>
     <ul className="flex flex-wrap">{children}</ul>
@@ -9,7 +11,7 @@ export const Card = ({ img, href, title, children }) => (
     <a href={href}>
       {img && <img className="w-full" src={img} alt={title} />}
       <div className="px-6 py-4">
-        <div className="font-bold text-xl mb-2">{title}</div>
+        <div className="font-bold text-xl mb-2">{unescape(title)}</div>
         <p className="text-gray-700 text-base">{children}</p>
       </div>
     </a>
