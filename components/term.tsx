@@ -31,7 +31,7 @@ export const Term: FC<{ items: Dictionary<Item>; term: string; data: any }> = ({
 };
 
 export const TermBody: FC<{
-  className: string;
+  className?: string;
   term: string;
   data: any;
   items: Dictionary<Item>;
