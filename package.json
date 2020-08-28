@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "bootstrap": "npm i && cp -n .env.dist .env",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
