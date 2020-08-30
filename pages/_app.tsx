@@ -25,7 +25,7 @@ export default function MyApp({ Component, pageProps, router }) {
 const Nav = ({ route }) => {
   const [showMobileNav, setShowMobileNav] = useState(false);
   return (
-    <div className="relative bg-white shadow">
+    <div className="relative bg-white shadow z-10">
       <div className="mx-auto px-4 sm:px-6">
         <div className="flex justify-between items-center py-6 md:justify-start md:space-x-10">
           <div className="lg:w-0 lg:flex-1">
