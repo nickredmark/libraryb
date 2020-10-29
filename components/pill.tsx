@@ -3,14 +3,14 @@ export const Pills = ({ label, children }) => (
     <label className="m-1 block text-sm font-medium leading-5 text-gray-700">
       {label}
     </label>
-    <div className="flex flex-wrap">{children}</div>
+    <div className="flex flex-wrap p-1">{children}</div>
   </div>
 );
 
 export const Pill = ({ label, active, canDeselect, onToggle }) => (
   <span
     onClick={onToggle}
-    className={`m-1 inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 ${
+    className={`mr-2 mb-2 inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 ${
       active ? "bg-indigo-800 text-indigo-100" : "bg-indigo-100 text-indigo-800"
     } cursor-pointer`}
   >

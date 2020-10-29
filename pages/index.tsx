@@ -11,6 +11,7 @@ import { DATA_ORIGIN } from "../utils/constants";
 import { truncate, ItemCard } from "../components/item-card";
 import { Item } from "../models/item";
 import { useRouterState } from "../utils/router";
+import { FaYoutube, FaMedium, FaVimeo, FaGoogle, FaFacebook, FaFile, FaBlog } from 'react-icons/fa';
 
 const intersects = (arr1, arr2) => {
   for (const item of arr1) {
@@ -26,15 +27,17 @@ const intersection = (arr1, arr2) => {
 };
 
 const Main: FC<{
+  seed: { name: string, type: string, url: string}[];
   items: Item[];
   curators: Dictionary<Dictionary<string[]>>;
-}> = ({ items, curators }) => {
+}> = ({ seed, items, curators }) => {
   const [query, updateQuery] = useRouterState({
     search: "",
     curators: Object.keys(curators)[0],
     categories: Object.keys(curators)
       .map((curator) => `${curator}-${Object.keys(curators[curator])[0]}`)
       .join("--"),
+    sources: ""
   });
   const search = query.search;
 
@@ -68,17 +71,29 @@ const Main: FC<{
     .filter((r) => r.includes("medium.com"))
     .map((i) => i.split("-")[i.split("-").length - 1]);
 
+  let sources = [];
+
   const filteredItems = items.filter((item) => {
     const title: string = item.title;
     const description = truncate(item.description);
 
-    return (
+    const isInCollections = (
       (selectedItems.includes(item._id) ||
         intersects(item.collections, resources)) &&
       (title.toLowerCase().includes(search.toLowerCase()) ||
         description.toLowerCase().includes(search.toLowerCase()))
     );
+
+    if (!isInCollections) {
+      return false
+    }
+
+    sources.push(...item.collections)
+
+    return true
   });
+
+  sources = uniq(sources)
 
   return (
     <>
@@ -152,12 +167,15 @@ const Main: FC<{
               />
             ))}
           </Pills>
+          <Pills label={`Sources for ${selectedCategoriesOnly[0]} collection:`}>
+              {sources.map(source => <div className="mr-2 mb-2"><SourceContent collection={source} seed={seed}/></div>)}
+          </Pills>
           <div className="m-2">
             Showing {filteredItems.length} / {items.length} entries:
           </div>
           <CardList>
             {filteredItems.map((item) => (
-              <ItemCard key={item._id} item={item} />
+              <ItemCard key={item._id} item={item} collections={item.collections.map(collection => <SourceContent collection={collection} seed={seed}/>)}/>
             ))}
           </CardList>
         </div>
@@ -166,6 +184,37 @@ const Main: FC<{
   );
 };
 
+const SourceContent = ({collection, seed}) => {
+  const source = seed.find(c => c.url === collection)
+  if (!source) {
+    return null
+  }
+  return <a href={source.url} target="_blank" className="flex items-center text-xs underline"><span className="flex-none"><Icon className="flex-none" type={source.type}/></span><span className="ml-1">{source.name}</span></a>
+}
+
+const Icon = ({type}) => {
+  switch (type) {
+    case "youtube-playlist":
+    case "youtube-channel":
+      return <FaYoutube/>
+    case "medium-user":
+      return <FaMedium/>
+    case "vimeo-user":
+      return <FaVimeo/>
+    case "google-doc":
+      return <FaGoogle/>
+    case "facebook-post":
+      return <FaFacebook/>
+    case "document":
+      return <FaFile/>
+    case "blog":
+      return <FaBlog/>
+    default:
+      console.log(source.type)
+      return null;
+  }
+}
+
 export const getServerSideProps = async () => {
   const items: Item[] = orderBy(
     Object.values(await (await fetch(`${DATA_ORIGIN}/items.json`)).json()),
@@ -173,11 +222,13 @@ export const getServerSideProps = async () => {
     "desc"
   );
   const curators = await (await fetch(`${DATA_ORIGIN}/curators.json`)).json();
+  const seed = await (await fetch(`${DATA_ORIGIN}/seed.json`)).json();
 
   return {
     props: {
       items,
       curators,
+      seed,
     },
   };
 };
