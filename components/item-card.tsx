@@ -3,7 +3,7 @@ import { Pill } from "./pill";
 import { Item } from "../models/item";
 import { FC } from "react";
 
-export const ItemCard: FC<{ item: Item, collections?: string[] }> = ({ item, collections }) => (
+export const ItemCard: FC<{ item: Item, collections?: JSX.Element[] }> = ({ item, collections }) => (
   <Card img={getImg(item)} title={getTitle(item)} href={getUrl(item)}>
     {collections && <div className="mb-1">{collections}</div>}
     {getDescription(item, true)}

@@ -189,7 +189,7 @@ const SourceContent = ({collection, seed}) => {
   if (!source) {
     return null
   }
-  return <a href={source.url} target="_blank" className="flex items-center text-xs underline"><span className="flex-none"><Icon className="flex-none" type={source.type}/></span><span className="ml-1">{source.name}</span></a>
+  return <a href={source.url} target="_blank" className="flex items-center text-xs underline"><span className="flex-none"><Icon type={source.type}/></span><span className="ml-1">{source.name}</span></a>
 }
 
 const Icon = ({type}) => {
@@ -210,7 +210,6 @@ const Icon = ({type}) => {
     case "blog":
       return <FaBlog/>
     default:
-      console.log(source.type)
       return null;
   }
 }
